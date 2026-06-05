@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T22:31:31.101586+02:00",
+  "generated_at": "2026-06-05T22:38:00.418015+02:00",
   "input_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/input/matches_today.json",
   "output_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/config/flashscore_urls.txt",
   "settings": {

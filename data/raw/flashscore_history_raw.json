@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T22:31:31.220566+02:00",
+  "generated_at": "2026-06-05T22:38:00.541491+02:00",
   "source_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/config/flashscore_urls.txt",
   "counts": {
     "urls": 4,
@@ -13,7 +13,7 @@
   "pages": [
     {
       "url": "https://www.rezultati.com/utakmica/tenis/legout-timo-YPqCP4xb/walton-adam-jNRjAU1U/omjer/sve-podloge/?mid=j5dT0o54",
-      "parsed_at": "2026-06-05T22:31:31.787051+02:00",
+      "parsed_at": "2026-06-05T22:38:00.973113+02:00",
       "blocked": false,
       "error": "",
       "show_more_clicked": 12,
@@ -1569,7 +1569,7 @@
     },
     {
       "url": "https://www.rezultati.com/utakmica/tenis/legout-timo-YPqCP4xb/walton-adam-jNRjAU1U/omjer/zemlja/?mid=j5dT0o54",
-      "parsed_at": "2026-06-05T22:31:59.132042+02:00",
+      "parsed_at": "2026-06-05T22:38:28.823369+02:00",
       "blocked": false,
       "error": "no POSLJEDNJI MECEVI sections found",
       "show_more_clicked": 12,
@@ -1584,7 +1584,7 @@
     },
     {
       "url": "https://www.rezultati.com/utakmica/tenis/legout-timo-YPqCP4xb/walton-adam-jNRjAU1U/omjer/tvrda-podloga/?mid=j5dT0o54",
-      "parsed_at": "2026-06-05T22:32:23.627410+02:00",
+      "parsed_at": "2026-06-05T22:38:53.388839+02:00",
       "blocked": false,
       "error": "",
       "show_more_clicked": 12,
@@ -3140,7 +3140,7 @@
     },
     {
       "url": "https://www.rezultati.com/utakmica/tenis/legout-timo-YPqCP4xb/walton-adam-jNRjAU1U/omjer/trava/?mid=j5dT0o54",
-      "parsed_at": "2026-06-05T22:32:48.132740+02:00",
+      "parsed_at": "2026-06-05T22:39:18.335669+02:00",
       "blocked": false,
       "error": "no POSLJEDNJI MECEVI sections found",
       "show_more_clicked": 4,

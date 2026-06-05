@@ -22,14 +22,14 @@ ATP
 -
 0
 2. SET
-2 : 1 ( 0 : 0 )
+3 : 1 ( 0 : 40 )
 Legout T.
 ATP
 : 1285.
 1
 -
 0
-2. SET2 : 1 ( 0 : 0 )
+2. SET3 : 1 ( 0 : 40 )
 MEČ
 TEČAJEVI
 OMJER
