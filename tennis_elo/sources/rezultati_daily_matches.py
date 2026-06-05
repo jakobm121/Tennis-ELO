@@ -5,19 +5,29 @@ from urllib.parse import urlparse, parse_qs
 from playwright.sync_api import sync_playwright
 
 from tennis_elo.config import ROOT_DIR
-from tennis_elo.utils import now_iso, save_json, save_text, clean_str
+from tennis_elo.utils import now_iso, save_json, save_text, clean_str, load_json
 
 
 BASE_URL = os.getenv("REZULTATI_BASE_URL", "https://www.rezultati.com/")
 DAILY_URL = os.getenv("REZULTATI_DAILY_URL", "https://www.rezultati.com/tenis/")
+
 OUTPUT_FILE = ROOT_DIR / "data" / "input" / "matches_today.json"
+SEEN_FILE = ROOT_DIR / "data" / "state" / "seen_match_urls.json"
 REPORT_FILE = ROOT_DIR / "data" / "reports" / "rezultati_daily_matches_report.json"
+
 DEBUG_TEXT_FILE = ROOT_DIR / "data" / "reports" / "debug_rezultati_daily_text.txt"
 DEBUG_HTML_FILE = ROOT_DIR / "data" / "reports" / "debug_rezultati_daily_page.html"
 DEBUG_SCREENSHOT_FILE = ROOT_DIR / "data" / "reports" / "debug_rezultati_daily_screenshot.png"
 
 MAX_MATCHES = int(os.getenv("MAX_DAILY_MATCHES", "20"))
 WAIT_MS = int(os.getenv("DAILY_WAIT_MS", "8000"))
+
+# If 1, already processed input match URLs are skipped.
+SKIP_SEEN_MATCHES = os.getenv("SKIP_SEEN_MATCHES", "1") == "1"
+
+# If 1, clear seen cache before selecting matches.
+# Useful only for manual testing.
+RESET_SEEN_MATCHES = os.getenv("RESET_SEEN_MATCHES", "0") == "1"
 
 INCLUDE_STATUSES = {
     x.strip().lower()
@@ -31,17 +41,45 @@ BLOCK_TEXTS = [
     "Access denied",
 ]
 
-NON_TENNIS_MARKERS = [
-    "Hokej livescore",
-    "Hokej rezultati",
-    "hokej rezultati uÅ¾ivo",
-]
-
 
 def ensure_parent(path):
     folder = os.path.dirname(str(path))
     if folder:
         os.makedirs(folder, exist_ok=True)
+
+
+def load_seen():
+    if RESET_SEEN_MATCHES:
+        return {
+            "generated_at": now_iso(),
+            "seen_urls": [],
+            "seen": {},
+        }
+
+    payload = load_json(SEEN_FILE, {})
+    if not isinstance(payload, dict):
+        return {
+            "generated_at": now_iso(),
+            "seen_urls": [],
+            "seen": {},
+        }
+
+    if "seen" not in payload or not isinstance(payload.get("seen"), dict):
+        seen = {}
+        for url in payload.get("seen_urls", []) or []:
+            seen[clean_str(url)] = {"first_seen_at": "", "last_seen_at": ""}
+        payload["seen"] = seen
+
+    if "seen_urls" not in payload or not isinstance(payload.get("seen_urls"), list):
+        payload["seen_urls"] = sorted(payload.get("seen", {}).keys())
+
+    return payload
+
+
+def save_seen(seen_payload):
+    seen_payload["generated_at"] = now_iso()
+    seen_payload["seen_urls"] = sorted(seen_payload.get("seen", {}).keys())
+    save_json(SEEN_FILE, seen_payload)
 
 
 def normalize_url(url):
@@ -193,20 +231,11 @@ def page_looks_like_tennis(text):
 
 
 def go_to_tennis_page(page):
-    """
-    Rezultati sometimes ignores /tenis/ and loads the last/default sport, e.g. hockey.
-    So we:
-      1. open base,
-      2. accept cookies,
-      3. click the TENIS sport tab,
-      4. if needed try direct /tenis/ again.
-    """
     page.goto(BASE_URL, wait_until="domcontentloaded", timeout=45000)
     page.wait_for_timeout(3500)
     accept_cookies(page)
     page.wait_for_timeout(1500)
 
-    # Try clicking the top navigation tab. This is more reliable than direct URL on some builds.
     clicked_tennis = False
     for text in ["TENIS", "Tenis", "Tennis"]:
         try:
@@ -219,13 +248,11 @@ def go_to_tennis_page(page):
         except Exception:
             pass
 
-    body_text = ""
     try:
         body_text = page.locator("body").inner_text(timeout=8000)
     except Exception:
         body_text = ""
 
-    # Direct fallback.
     if not clicked_tennis or not page_looks_like_tennis(body_text):
         page.goto(DAILY_URL, wait_until="domcontentloaded", timeout=45000)
         page.wait_for_timeout(WAIT_MS)
@@ -237,7 +264,6 @@ def go_to_tennis_page(page):
         except Exception:
             body_text = ""
 
-    # If it still loaded hockey, try clicking TENIS again from that page.
     if not page_looks_like_tennis(body_text):
         for text in ["TENIS", "Tenis", "Tennis"]:
             try:
@@ -312,10 +338,6 @@ def collect_anchor_links(page):
 
 
 def collect_clickable_rows(page):
-    """
-    Rezulati tennis match rows normally have IDs like g_2_XXXX.
-    Some rows are clickable divs, not normal anchors.
-    """
     rows = page.locator('[id^="g_2_"]')
 
     try:
@@ -324,12 +346,10 @@ def collect_clickable_rows(page):
         count = 0
 
     collected = {}
-    max_clicks = min(count, MAX_MATCHES * 5)
+    max_clicks = min(count, MAX_MATCHES * 8)
 
     for idx in range(max_clicks):
-        if len(collected) >= MAX_MATCHES:
-            break
-
+        # Do not stop here on collected count, because seen filtering happens later.
         try:
             rows = page.locator('[id^="g_2_"]')
             row = rows.nth(idx)
@@ -393,11 +413,10 @@ def collect_match_links(page):
         return [], False, "page did not switch to tennis; debug text is probably another sport"
 
     by_url = {}
-
     by_url.update(collect_anchor_links(page))
 
-    if len(by_url) < MAX_MATCHES:
-        by_url.update(collect_clickable_rows(page))
+    # Always try clickable rows too; direct anchors can miss many matches.
+    by_url.update(collect_clickable_rows(page))
 
     matches = list(by_url.values())
 
@@ -411,13 +430,54 @@ def collect_match_links(page):
     return matches, False, ""
 
 
-def save_outputs(matches, blocked=False, error=""):
-    selected = matches[:MAX_MATCHES]
+def select_unseen_matches(matches, seen_payload):
+    seen = seen_payload.setdefault("seen", {})
+    now = now_iso()
 
+    selected = []
+    skipped_seen = []
+    available_unseen = []
+
+    for match in matches:
+        url = clean_str(match.get("match_url"))
+        if not url:
+            continue
+
+        if SKIP_SEEN_MATCHES and url in seen:
+            skipped_seen.append(match)
+            # Update last_seen_at because it appeared again in daily list.
+            if isinstance(seen.get(url), dict):
+                seen[url]["last_seen_at"] = now
+            continue
+
+        available_unseen.append(match)
+
+    for match in available_unseen:
+        if len(selected) >= MAX_MATCHES:
+            break
+
+        url = clean_str(match.get("match_url"))
+        selected.append(match)
+
+        seen[url] = {
+            "first_seen_at": seen.get(url, {}).get("first_seen_at") if isinstance(seen.get(url), dict) else now,
+            "last_seen_at": now,
+            "match": match.get("match", ""),
+            "player_1": match.get("player_1", ""),
+            "player_2": match.get("player_2", ""),
+            "status": match.get("status", ""),
+            "source_match_id": match.get("source_match_id", ""),
+        }
+
+    return selected, skipped_seen, available_unseen
+
+
+def save_outputs(found_matches, selected, skipped_seen, available_unseen, seen_payload, blocked=False, error=""):
     output = {
         "generated_at": now_iso(),
         "source_url": DAILY_URL,
         "max_matches": MAX_MATCHES,
+        "skip_seen_matches": SKIP_SEEN_MATCHES,
         "matches": selected,
     }
 
@@ -425,19 +485,26 @@ def save_outputs(matches, blocked=False, error=""):
         "generated_at": now_iso(),
         "source_url": DAILY_URL,
         "output_file": str(OUTPUT_FILE),
+        "seen_file": str(SEEN_FILE),
         "settings": {
             "max_matches": MAX_MATCHES,
             "wait_ms": WAIT_MS,
             "include_statuses": sorted(INCLUDE_STATUSES),
+            "skip_seen_matches": SKIP_SEEN_MATCHES,
+            "reset_seen_matches": RESET_SEEN_MATCHES,
         },
         "counts": {
-            "found_matches": len(matches),
+            "found_matches": len(found_matches),
+            "available_unseen": len(available_unseen),
             "selected": len(selected),
+            "skipped_seen": len(skipped_seen),
+            "seen_total": len(seen_payload.get("seen", {})),
             "blocked": 1 if blocked else 0,
             "errors": 1 if error else 0,
         },
         "error": error,
         "selected": selected,
+        "skipped_seen_examples": skipped_seen[:50],
         "debug_files": {
             "text": str(DEBUG_TEXT_FILE),
             "html": str(DEBUG_HTML_FILE),
@@ -446,15 +513,18 @@ def save_outputs(matches, blocked=False, error=""):
     }
 
     save_json(OUTPUT_FILE, output)
+    save_seen(seen_payload)
     save_json(REPORT_FILE, report)
 
     return report
 
 
 def main():
-    matches = []
+    found_matches = []
     blocked = False
     error = ""
+
+    seen_payload = load_seen()
 
     try:
         with sync_playwright() as p:
@@ -478,7 +548,7 @@ def main():
             )
 
             page = context.new_page()
-            matches, blocked, error = collect_match_links(page)
+            found_matches, blocked, error = collect_match_links(page)
 
             context.close()
             browser.close()
@@ -486,12 +556,23 @@ def main():
     except Exception as e:
         error = f"{type(e).__name__}: {e}"
 
-    report = save_outputs(matches, blocked=blocked, error=error)
+    selected, skipped_seen, available_unseen = select_unseen_matches(found_matches, seen_payload)
+
+    report = save_outputs(
+        found_matches=found_matches,
+        selected=selected,
+        skipped_seen=skipped_seen,
+        available_unseen=available_unseen,
+        seen_payload=seen_payload,
+        blocked=blocked,
+        error=error,
+    )
 
     print("")
     print("REZULTATI DAILY MATCHES DONE")
     print(report["counts"])
     print(f"Output: {OUTPUT_FILE}")
+    print(f"Seen:   {SEEN_FILE}")
     print(f"Report: {REPORT_FILE}")
 
     if error:
