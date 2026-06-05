@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T22:39:31.222405+02:00",
+  "generated_at": "2026-06-05T22:54:18.468190+02:00",
   "model": "flashscore_poc_elo_v1",
   "source_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/processed/canonical_matches.json",
   "settings": {
@@ -8,37 +8,246 @@
     "surface_k_factor": 20.0
   },
   "counts": {
-    "input_matches": 79,
-    "used_matches": 79,
+    "input_matches": 358,
+    "used_matches": 358,
     "skipped_matches": 0,
-    "players": 69
+    "players": 240
   },
   "ratings": [
     {
-      "player_name": "Legout T.",
-      "player_key": "legout t",
-      "overall_elo": 1548.653,
+      "player_name": "Zverev A.",
+      "player_key": "zverev a",
+      "overall_elo": 1658.741,
       "surface_elo": {
-        "hard": 1544.816,
-        "unknown": 1498.882
+        "clay": 1600.76,
+        "hard": 1571.392
       },
-      "matches_total": 24,
-      "wins": 15,
+      "matches_total": 40,
+      "wins": 31,
       "losses": 9,
       "surface_matches": {
-        "hard": 20,
-        "unknown": 4
+        "clay": 20,
+        "hard": 20
       },
-      "last_match_date": "28.07.24",
-      "last_surface": "hard",
-      "confidence": 0.48
+      "last_match_date": "31.05.26",
+      "last_surface": "clay",
+      "confidence": 0.8
     },
     {
-      "player_name": "Bu Y.",
-      "player_key": "bu y",
-      "overall_elo": 1525.855,
+      "player_name": "Mensik J.",
+      "player_key": "mensik j",
+      "overall_elo": 1627.241,
       "surface_elo": {
-        "hard": 1521.607
+        "clay": 1558.894,
+        "hard": 1611.047,
+        "unknown": 1510.28
+      },
+      "matches_total": 100,
+      "wins": 63,
+      "losses": 37,
+      "surface_matches": {
+        "clay": 50,
+        "hard": 47,
+        "unknown": 3
+      },
+      "last_match_date": "31.05.26",
+      "last_surface": "clay",
+      "confidence": 1.0
+    },
+    {
+      "player_name": "De Minaur A.",
+      "player_key": "de minaur a",
+      "overall_elo": 1561.256,
+      "surface_elo": {
+        "hard": 1561.759,
+        "clay": 1491.523
+      },
+      "matches_total": 7,
+      "wins": 6,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 6,
+        "clay": 1
+      },
+      "last_match_date": "29.09.25",
+      "last_surface": "hard",
+      "confidence": 0.14
+    },
+    {
+      "player_name": "Legout T.",
+      "player_key": "legout t",
+      "overall_elo": 1553.451,
+      "surface_elo": {
+        "clay": 1515.612,
+        "hard": 1544.817
+      },
+      "matches_total": 63,
+      "wins": 36,
+      "losses": 27,
+      "surface_matches": {
+        "clay": 43,
+        "hard": 20
+      },
+      "last_match_date": "31.05.23",
+      "last_surface": "clay",
+      "confidence": 1.0
+    },
+    {
+      "player_name": "Sinner J.",
+      "player_key": "sinner j",
+      "overall_elo": 1545.081,
+      "surface_elo": {
+        "clay": 1521.319,
+        "hard": 1514.864
+      },
+      "matches_total": 5,
+      "wins": 4,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 2,
+        "hard": 3
+      },
+      "last_match_date": "28.03.26",
+      "last_surface": "hard",
+      "confidence": 0.1
+    },
+    {
+      "player_name": "Wong C.",
+      "player_key": "wong c",
+      "overall_elo": 1543.07,
+      "surface_elo": {
+        "hard": 1537.437
+      },
+      "matches_total": 4,
+      "wins": 4,
+      "losses": 0,
+      "surface_matches": {
+        "hard": 4
+      },
+      "last_match_date": "31.10.25",
+      "last_surface": "hard",
+      "confidence": 0.08
+    },
+    {
+      "player_name": "Alcaraz C.",
+      "player_key": "alcaraz c",
+      "overall_elo": 1539.284,
+      "surface_elo": {
+        "grass": 1508.715,
+        "hard": 1522.814
+      },
+      "matches_total": 3,
+      "wins": 3,
+      "losses": 0,
+      "surface_matches": {
+        "grass": 1,
+        "hard": 2
+      },
+      "last_match_date": "30.01.26",
+      "last_surface": "hard",
+      "confidence": 0.06
+    },
+    {
+      "player_name": "Holt B.",
+      "player_key": "holt b",
+      "overall_elo": 1531.85,
+      "surface_elo": {
+        "hard": 1520.496,
+        "grass": 1508.469
+      },
+      "matches_total": 3,
+      "wins": 3,
+      "losses": 0,
+      "surface_matches": {
+        "hard": 2,
+        "grass": 1
+      },
+      "last_match_date": "21.06.25",
+      "last_surface": "grass",
+      "confidence": 0.06
+    },
+    {
+      "player_name": "Rocha H.",
+      "player_key": "rocha h",
+      "overall_elo": 1528.712,
+      "surface_elo": {
+        "unknown": 1510.575,
+        "clay": 1511.855
+      },
+      "matches_total": 2,
+      "wins": 2,
+      "losses": 0,
+      "surface_matches": {
+        "unknown": 1,
+        "clay": 1
+      },
+      "last_match_date": "29.05.25",
+      "last_surface": "clay",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Auger-Aliassime F.",
+      "player_key": "auger aliassime f",
+      "overall_elo": 1528.644,
+      "surface_elo": {
+        "clay": 1511.954,
+        "hard": 1510.802
+      },
+      "matches_total": 2,
+      "wins": 2,
+      "losses": 0,
+      "surface_matches": {
+        "clay": 1,
+        "hard": 1
+      },
+      "last_match_date": "31.01.25",
+      "last_surface": "hard",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Nava E.",
+      "player_key": "nava e",
+      "overall_elo": 1525.88,
+      "surface_elo": {
+        "hard": 1511.181,
+        "unknown": 1510.248
+      },
+      "matches_total": 2,
+      "wins": 2,
+      "losses": 0,
+      "surface_matches": {
+        "hard": 1,
+        "unknown": 1
+      },
+      "last_match_date": "19.05.26",
+      "last_surface": "unknown",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Paul T.",
+      "player_key": "paul t",
+      "overall_elo": 1525.693,
+      "surface_elo": {
+        "hard": 1509.85,
+        "clay": 1511.761
+      },
+      "matches_total": 2,
+      "wins": 2,
+      "losses": 0,
+      "surface_matches": {
+        "hard": 1,
+        "clay": 1
+      },
+      "last_match_date": "30.07.24",
+      "last_surface": "clay",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Kwon S.",
+      "player_key": "kwon s",
+      "overall_elo": 1525.165,
+      "surface_elo": {
+        "hard": 1520.13
       },
       "matches_total": 2,
       "wins": 2,
@@ -46,16 +255,33 @@
       "surface_matches": {
         "hard": 2
       },
-      "last_match_date": "17.04.26",
+      "last_match_date": "10.05.26",
+      "last_surface": "hard",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Van De Zandschulp B.",
+      "player_key": "van de zandschulp b",
+      "overall_elo": 1524.073,
+      "surface_elo": {
+        "hard": 1521.921
+      },
+      "matches_total": 2,
+      "wins": 2,
+      "losses": 0,
+      "surface_matches": {
+        "hard": 2
+      },
+      "last_match_date": "22.08.25",
       "last_surface": "hard",
       "confidence": 0.04
     },
     {
       "player_name": "Bellucci M.",
       "player_key": "bellucci m",
-      "overall_elo": 1524.78,
+      "overall_elo": 1523.433,
       "surface_elo": {
-        "hard": 1520.958
+        "hard": 1520.971
       },
       "matches_total": 2,
       "wins": 2,
@@ -68,11 +294,11 @@
       "confidence": 0.04
     },
     {
-      "player_name": "Holt B.",
-      "player_key": "holt b",
-      "overall_elo": 1524.765,
+      "player_name": "Davidovich Fokina A.",
+      "player_key": "davidovich fokina a",
+      "overall_elo": 1522.802,
       "surface_elo": {
-        "hard": 1520.488
+        "hard": 1519.478
       },
       "matches_total": 2,
       "wins": 2,
@@ -80,33 +306,52 @@
       "surface_matches": {
         "hard": 2
       },
-      "last_match_date": "17.03.24",
+      "last_match_date": "08.03.26",
       "last_surface": "hard",
       "confidence": 0.04
     },
     {
-      "player_name": "Wong C.",
-      "player_key": "wong c",
-      "overall_elo": 1521.2,
+      "player_name": "Vukic A.",
+      "player_key": "vukic a",
+      "overall_elo": 1522.161,
       "surface_elo": {
-        "hard": 1518.25
+        "grass": 1508.97,
+        "hard": 1509.142
       },
       "matches_total": 2,
       "wins": 2,
       "losses": 0,
       "surface_matches": {
-        "hard": 2
+        "grass": 1,
+        "hard": 1
       },
-      "last_match_date": "28.08.25",
+      "last_match_date": "25.10.25",
       "last_surface": "hard",
       "confidence": 0.04
     },
     {
-      "player_name": "Mmoh M.",
-      "player_key": "mmoh m",
-      "overall_elo": 1514.282,
+      "player_name": "Evans D.",
+      "player_key": "evans d",
+      "overall_elo": 1521.168,
       "surface_elo": {
-        "hard": 1511.696
+        "grass": 1518.614
+      },
+      "matches_total": 2,
+      "wins": 2,
+      "losses": 0,
+      "surface_matches": {
+        "grass": 2
+      },
+      "last_match_date": "08.06.25",
+      "last_surface": "grass",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Blanchet U.",
+      "player_key": "blanchet u",
+      "overall_elo": 1517.523,
+      "surface_elo": {
+        "hard": 1512.972
       },
       "matches_total": 1,
       "wins": 1,
@@ -114,16 +359,177 @@
       "surface_matches": {
         "hard": 1
       },
-      "last_match_date": "27.05.26",
+      "last_match_date": "27.08.25",
       "last_surface": "hard",
       "confidence": 0.02
     },
     {
-      "player_name": "Rossi L.",
-      "player_key": "rossi l",
-      "overall_elo": 1514.146,
+      "player_name": "Fritz T.",
+      "player_key": "fritz t",
+      "overall_elo": 1517.048,
       "surface_elo": {
-        "hard": 1511.61
+        "unknown": 1510.0,
+        "hard": 1502.972
+      },
+      "matches_total": 3,
+      "wins": 2,
+      "losses": 1,
+      "surface_matches": {
+        "unknown": 1,
+        "hard": 2
+      },
+      "last_match_date": "29.03.25",
+      "last_surface": "hard",
+      "confidence": 0.06
+    },
+    {
+      "player_name": "Mpetshi Perricard G.",
+      "player_key": "mpetshi perricard g",
+      "overall_elo": 1517.032,
+      "surface_elo": {
+        "hard": 1490.141,
+        "clay": 1520.464
+      },
+      "matches_total": 3,
+      "wins": 2,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 1,
+        "clay": 2
+      },
+      "last_match_date": "19.06.23",
+      "last_surface": "clay",
+      "confidence": 0.06
+    },
+    {
+      "player_name": "Fognini F.",
+      "player_key": "fognini f",
+      "overall_elo": 1516.88,
+      "surface_elo": {
+        "clay": 1512.067
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "28.07.23",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Travaglia S.",
+      "player_key": "travaglia s",
+      "overall_elo": 1516.786,
+      "surface_elo": {
+        "clay": 1511.573
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "26.06.23",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Darderi L.",
+      "player_key": "darderi l",
+      "overall_elo": 1516.505,
+      "surface_elo": {
+        "hard": 1509.72,
+        "clay": 1500.385
+      },
+      "matches_total": 3,
+      "wins": 2,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 1,
+        "clay": 2
+      },
+      "last_match_date": "24.07.24",
+      "last_surface": "clay",
+      "confidence": 0.06
+    },
+    {
+      "player_name": "Musetti L.",
+      "player_key": "musetti l",
+      "overall_elo": 1516.289,
+      "surface_elo": {
+        "clay": 1511.247
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "26.07.24",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Hurkacz H.",
+      "player_key": "hurkacz h",
+      "overall_elo": 1515.047,
+      "surface_elo": {
+        "hard": 1502.234,
+        "clay": 1510.479
+      },
+      "matches_total": 3,
+      "wins": 2,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 2,
+        "clay": 1
+      },
+      "last_match_date": "24.02.26",
+      "last_surface": "hard",
+      "confidence": 0.06
+    },
+    {
+      "player_name": "Poullain L.",
+      "player_key": "poullain l",
+      "overall_elo": 1514.058,
+      "surface_elo": {
+        "clay": 1511.318
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "10.06.25",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Carboni L.",
+      "player_key": "carboni l",
+      "overall_elo": 1513.906,
+      "surface_elo": {
+        "clay": 1510.468
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "25.08.23",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Fery A.",
+      "player_key": "fery a",
+      "overall_elo": 1513.864,
+      "surface_elo": {
+        "hard": 1511.201
       },
       "matches_total": 1,
       "wins": 1,
@@ -131,14 +537,14 @@
       "surface_matches": {
         "hard": 1
       },
-      "last_match_date": "28.07.24",
+      "last_match_date": "17.03.26",
       "last_surface": "hard",
       "confidence": 0.02
     },
     {
       "player_name": "Pacheco Mendez R.",
       "player_key": "pacheco mendez r",
-      "overall_elo": 1513.693,
+      "overall_elo": 1513.648,
       "surface_elo": {
         "hard": 1511.27
       },
@@ -153,11 +559,62 @@
       "confidence": 0.02
     },
     {
-      "player_name": "Van De Zandschulp B.",
-      "player_key": "van de zandschulp b",
-      "overall_elo": 1513.293,
+      "player_name": "Van Der Meerschen M.",
+      "player_key": "van der meerschen m",
+      "overall_elo": 1513.647,
       "surface_elo": {
-        "hard": 1511.042
+        "clay": 1510.168
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "27.06.24",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Buse I.",
+      "player_key": "buse i",
+      "overall_elo": 1513.598,
+      "surface_elo": {
+        "clay": 1509.612
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "20.05.26",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Houkes M.",
+      "player_key": "houkes m",
+      "overall_elo": 1513.583,
+      "surface_elo": {
+        "clay": 1510.997
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "10.07.24",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Rossi L.",
+      "player_key": "rossi l",
+      "overall_elo": 1513.566,
+      "surface_elo": {
+        "hard": 1511.61
       },
       "matches_total": 1,
       "wins": 1,
@@ -165,99 +622,14 @@
       "surface_matches": {
         "hard": 1
       },
-      "last_match_date": "17.08.25",
-      "last_surface": "hard",
-      "confidence": 0.02
-    },
-    {
-      "player_name": "Poullain L.",
-      "player_key": "poullain l",
-      "overall_elo": 1513.158,
-      "surface_elo": {
-        "unknown": 1510.567
-      },
-      "matches_total": 1,
-      "wins": 1,
-      "losses": 0,
-      "surface_matches": {
-        "unknown": 1
-      },
-      "last_match_date": "10.06.25",
-      "last_surface": "unknown",
-      "confidence": 0.02
-    },
-    {
-      "player_name": "Shimabukuro S.",
-      "player_key": "shimabukuro s",
-      "overall_elo": 1513.127,
-      "surface_elo": {
-        "hard": 1510.926
-      },
-      "matches_total": 1,
-      "wins": 1,
-      "losses": 0,
-      "surface_matches": {
-        "hard": 1
-      },
-      "last_match_date": "15.02.26",
-      "last_surface": "hard",
-      "confidence": 0.02
-    },
-    {
-      "player_name": "Sanchez Martinez B.",
-      "player_key": "sanchez martinez b",
-      "overall_elo": 1513.006,
-      "surface_elo": {
-        "hard": 1510.787
-      },
-      "matches_total": 1,
-      "wins": 1,
-      "losses": 0,
-      "surface_matches": {
-        "hard": 1
-      },
-      "last_match_date": "21.09.24",
-      "last_surface": "hard",
-      "confidence": 0.02
-    },
-    {
-      "player_name": "Mannarino A.",
-      "player_key": "mannarino a",
-      "overall_elo": 1512.915,
-      "surface_elo": {
-        "hard": 1510.794
-      },
-      "matches_total": 1,
-      "wins": 1,
-      "losses": 0,
-      "surface_matches": {
-        "hard": 1
-      },
-      "last_match_date": "11.02.26",
-      "last_surface": "hard",
-      "confidence": 0.02
-    },
-    {
-      "player_name": "Alcaraz C.",
-      "player_key": "alcaraz c",
-      "overall_elo": 1512.837,
-      "surface_elo": {
-        "hard": 1510.726
-      },
-      "matches_total": 1,
-      "wins": 1,
-      "losses": 0,
-      "surface_matches": {
-        "hard": 1
-      },
-      "last_match_date": "18.01.26",
+      "last_match_date": "28.07.24",
       "last_surface": "hard",
       "confidence": 0.02
     },
     {
       "player_name": "Kouame M.",
       "player_key": "kouame m",
-      "overall_elo": 1512.813,
+      "overall_elo": 1513.519,
       "surface_elo": {
         "hard": 1510.567
       },
@@ -272,11 +644,217 @@
       "confidence": 0.02
     },
     {
-      "player_name": "Forger A.",
-      "player_key": "forger a",
-      "overall_elo": 1512.643,
+      "player_name": "Shapovalov D.",
+      "player_key": "shapovalov d",
+      "overall_elo": 1513.513,
       "surface_elo": {
-        "unknown": 1510.263
+        "hard": 1511.037
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "19.01.26",
+      "last_surface": "hard",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Michalski D.",
+      "player_key": "michalski d",
+      "overall_elo": 1513.431,
+      "surface_elo": {
+        "clay": 1510.841
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "08.04.23",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Lajal M.",
+      "player_key": "lajal m",
+      "overall_elo": 1513.389,
+      "surface_elo": {
+        "hard": 1508.516,
+        "unknown": 1508.602
+      },
+      "matches_total": 24,
+      "wins": 13,
+      "losses": 11,
+      "surface_matches": {
+        "hard": 19,
+        "unknown": 5
+      },
+      "last_match_date": "30.04.26",
+      "last_surface": "hard",
+      "confidence": 0.48
+    },
+    {
+      "player_name": "Barrios Vera T.",
+      "player_key": "barrios vera t",
+      "overall_elo": 1513.366,
+      "surface_elo": {
+        "clay": 1509.875
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "16.06.23",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Erhard M.",
+      "player_key": "erhard m",
+      "overall_elo": 1513.18,
+      "surface_elo": {
+        "clay": 1510.825
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "19.05.23",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Dzumhur D.",
+      "player_key": "dzumhur d",
+      "overall_elo": 1513.126,
+      "surface_elo": {
+        "hard": 1510.424
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "15.03.25",
+      "last_surface": "hard",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Ivanovski K.",
+      "player_key": "ivanovski k",
+      "overall_elo": 1513.12,
+      "surface_elo": {
+        "clay": 1510.683
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "11.05.23",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Delage P.",
+      "player_key": "delage p",
+      "overall_elo": 1513.081,
+      "surface_elo": {
+        "clay": 1510.494
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "20.04.23",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Den Ouden G.",
+      "player_key": "den ouden g",
+      "overall_elo": 1513.022,
+      "surface_elo": {
+        "clay": 1510.474
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "20.08.23",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Vatutin A.",
+      "player_key": "vatutin a",
+      "overall_elo": 1513.002,
+      "surface_elo": {
+        "clay": 1510.624
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "13.06.24",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Holmgren A.",
+      "player_key": "holmgren a",
+      "overall_elo": 1512.971,
+      "surface_elo": {
+        "hard": 1510.956
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "21.04.26",
+      "last_surface": "hard",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Gill F.",
+      "player_key": "gill f",
+      "overall_elo": 1512.967,
+      "surface_elo": {
+        "clay": 1510.173
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "21.03.23",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Djere L.",
+      "player_key": "djere l",
+      "overall_elo": 1512.936,
+      "surface_elo": {
+        "unknown": 1509.953
       },
       "matches_total": 1,
       "wins": 1,
@@ -284,16 +862,16 @@
       "surface_matches": {
         "unknown": 1
       },
-      "last_match_date": "17.06.25",
+      "last_match_date": "22.06.25",
       "last_surface": "unknown",
       "confidence": 0.02
     },
     {
-      "player_name": "Lehecka J.",
-      "player_key": "lehecka j",
-      "overall_elo": 1512.424,
+      "player_name": "Nardi L.",
+      "player_key": "nardi l",
+      "overall_elo": 1512.858,
       "surface_elo": {
-        "hard": 1510.449
+        "hard": 1509.831
       },
       "matches_total": 1,
       "wins": 1,
@@ -306,11 +884,11 @@
       "confidence": 0.02
     },
     {
-      "player_name": "Čilić M.",
-      "player_key": "cilic m",
-      "overall_elo": 1512.395,
+      "player_name": "Sonego L.",
+      "player_key": "sonego l",
+      "overall_elo": 1512.83,
       "surface_elo": {
-        "hard": 1510.419
+        "hard": 1511.119
       },
       "matches_total": 1,
       "wins": 1,
@@ -318,16 +896,67 @@
       "surface_matches": {
         "hard": 1
       },
-      "last_match_date": "18.10.25",
+      "last_match_date": "30.07.25",
       "last_surface": "hard",
       "confidence": 0.02
     },
     {
-      "player_name": "Alvarez Valdes L. C.",
-      "player_key": "alvarez valdes l c",
-      "overall_elo": 1512.207,
+      "player_name": "Searle H.",
+      "player_key": "searle h",
+      "overall_elo": 1512.808,
       "surface_elo": {
-        "hard": 1510.24
+        "unknown": 1510.551
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "unknown": 1
+      },
+      "last_match_date": "14.06.25",
+      "last_surface": "unknown",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Zapata Miralles B.",
+      "player_key": "zapata miralles b",
+      "overall_elo": 1512.777,
+      "surface_elo": {
+        "clay": 1510.46
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "14.07.23",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Huens H.",
+      "player_key": "huens h",
+      "overall_elo": 1512.728,
+      "surface_elo": {
+        "clay": 1510.515
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "19.06.24",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Glinka D.",
+      "player_key": "glinka d",
+      "overall_elo": 1512.71,
+      "surface_elo": {
+        "hard": 1510.007
       },
       "matches_total": 1,
       "wins": 1,
@@ -335,16 +964,67 @@
       "surface_matches": {
         "hard": 1
       },
-      "last_match_date": "17.09.25",
+      "last_match_date": "11.02.26",
       "last_surface": "hard",
       "confidence": 0.02
     },
     {
-      "player_name": "Tien L.",
-      "player_key": "tien l",
-      "overall_elo": 1512.118,
+      "player_name": "Safiullin R.",
+      "player_key": "safiullin r",
+      "overall_elo": 1512.672,
       "surface_elo": {
-        "hard": 1510.279
+        "unknown": 1510.551
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "unknown": 1
+      },
+      "last_match_date": "19.05.26",
+      "last_surface": "unknown",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Barranco Cosano J.",
+      "player_key": "barranco cosano j",
+      "overall_elo": 1512.554,
+      "surface_elo": {
+        "clay": 1510.319
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "15.03.23",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Fanselow S.",
+      "player_key": "fanselow s",
+      "overall_elo": 1512.521,
+      "surface_elo": {
+        "clay": 1509.881
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "21.07.22",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Herbert P.H.",
+      "player_key": "herbert p h",
+      "overall_elo": 1512.515,
+      "surface_elo": {
+        "hard": 1510.266
       },
       "matches_total": 1,
       "wins": 1,
@@ -352,14 +1032,171 @@
       "surface_matches": {
         "hard": 1
       },
-      "last_match_date": "06.03.26",
+      "last_match_date": "26.02.26",
+      "last_surface": "hard",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Kotov P.",
+      "player_key": "kotov p",
+      "overall_elo": 1512.495,
+      "surface_elo": {
+        "hard": 1510.259
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "28.01.26",
+      "last_surface": "hard",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Burruchaga R. A.",
+      "player_key": "burruchaga r a",
+      "overall_elo": 1512.414,
+      "surface_elo": {
+        "clay": 1510.288
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "01.04.26",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Forger A.",
+      "player_key": "forger a",
+      "overall_elo": 1512.392,
+      "surface_elo": {
+        "clay": 1510.283
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "17.06.25",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Shimabukuro S.",
+      "player_key": "shimabukuro s",
+      "overall_elo": 1512.315,
+      "surface_elo": {
+        "hard": 1510.938
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "15.02.26",
+      "last_surface": "hard",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Passaro F.",
+      "player_key": "passaro f",
+      "overall_elo": 1512.272,
+      "surface_elo": {
+        "hard": 1509.719
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "12.01.26",
+      "last_surface": "hard",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Khachanov K.",
+      "player_key": "khachanov k",
+      "overall_elo": 1512.259,
+      "surface_elo": {
+        "hard": 1509.493,
+        "clay": 1500.632
+      },
+      "matches_total": 3,
+      "wins": 2,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 1,
+        "clay": 2
+      },
+      "last_match_date": "27.04.26",
+      "last_surface": "clay",
+      "confidence": 0.06
+    },
+    {
+      "player_name": "Sanchez Martinez B.",
+      "player_key": "sanchez martinez b",
+      "overall_elo": 1512.089,
+      "surface_elo": {
+        "hard": 1510.787
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "21.09.24",
+      "last_surface": "hard",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Galarneau A.",
+      "player_key": "galarneau a",
+      "overall_elo": 1512.07,
+      "surface_elo": {
+        "hard": 1500.855,
+        "clay": 1509.992
+      },
+      "matches_total": 3,
+      "wins": 2,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 2,
+        "clay": 1
+      },
+      "last_match_date": "25.03.26",
+      "last_surface": "hard",
+      "confidence": 0.06
+    },
+    {
+      "player_name": "Bergs Z.",
+      "player_key": "bergs z",
+      "overall_elo": 1512.03,
+      "surface_elo": {
+        "hard": 1510.055
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "08.01.26",
       "last_surface": "hard",
       "confidence": 0.02
     },
     {
       "player_name": "Tabilo A.",
       "player_key": "tabilo a",
-      "overall_elo": 1512.028,
+      "overall_elo": 1512.018,
       "surface_elo": {
         "hard": 1510.28
       },
@@ -374,28 +1211,28 @@
       "confidence": 0.02
     },
     {
-      "player_name": "Burruchaga R. A.",
-      "player_key": "burruchaga r a",
+      "player_name": "Bourgue M.",
+      "player_key": "bourgue m",
       "overall_elo": 1512.0,
       "surface_elo": {
-        "unknown": 1510.0
+        "clay": 1510.0
       },
       "matches_total": 1,
       "wins": 1,
       "losses": 0,
       "surface_matches": {
-        "unknown": 1
+        "clay": 1
       },
-      "last_match_date": "01.04.26",
-      "last_surface": "unknown",
+      "last_match_date": "01.06.23",
+      "last_surface": "clay",
       "confidence": 0.02
     },
     {
-      "player_name": "Korda S.",
-      "player_key": "korda s",
-      "overall_elo": 1511.967,
+      "player_name": "Alvarez Valdes L. C.",
+      "player_key": "alvarez valdes l c",
+      "overall_elo": 1511.964,
       "surface_elo": {
-        "hard": 1510.119
+        "hard": 1510.24
       },
       "matches_total": 1,
       "wins": 1,
@@ -403,14 +1240,48 @@
       "surface_matches": {
         "hard": 1
       },
-      "last_match_date": "19.09.25",
+      "last_match_date": "17.09.25",
+      "last_surface": "hard",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Reis Da Silva J.",
+      "player_key": "reis da silva j",
+      "overall_elo": 1511.723,
+      "surface_elo": {
+        "clay": 1509.704
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "04.04.23",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Munar J.",
+      "player_key": "munar j",
+      "overall_elo": 1511.624,
+      "surface_elo": {
+        "hard": 1509.441
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "05.02.25",
       "last_surface": "hard",
       "confidence": 0.02
     },
     {
       "player_name": "Nakagawa N.",
       "player_key": "nakagawa n",
-      "overall_elo": 1511.612,
+      "overall_elo": 1511.603,
       "surface_elo": {
         "hard": 1509.984
       },
@@ -425,11 +1296,45 @@
       "confidence": 0.02
     },
     {
-      "player_name": "Mensik J.",
-      "player_key": "mensik j",
-      "overall_elo": 1511.599,
+      "player_name": "Bielinskyi V.",
+      "player_key": "bielinskyi v",
+      "overall_elo": 1511.586,
       "surface_elo": {
-        "hard": 1509.846
+        "clay": 1509.712
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "02.07.23",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Misolic F.",
+      "player_key": "misolic f",
+      "overall_elo": 1511.275,
+      "surface_elo": {
+        "unknown": 1509.667
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "unknown": 1
+      },
+      "last_match_date": "26.05.25",
+      "last_surface": "unknown",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Mannarino A.",
+      "player_key": "mannarino a",
+      "overall_elo": 1511.248,
+      "surface_elo": {
+        "hard": 1510.81
       },
       "matches_total": 1,
       "wins": 1,
@@ -437,16 +1342,50 @@
       "surface_matches": {
         "hard": 1
       },
-      "last_match_date": "21.03.26",
+      "last_match_date": "11.02.26",
       "last_surface": "hard",
       "confidence": 0.02
     },
     {
-      "player_name": "Paul T.",
-      "player_key": "paul t",
-      "overall_elo": 1511.554,
+      "player_name": "Sachko V.",
+      "player_key": "sachko v",
+      "overall_elo": 1511.187,
       "surface_elo": {
-        "hard": 1509.828
+        "clay": 1509.712
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "02.06.25",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Comesana F.",
+      "player_key": "comesana f",
+      "overall_elo": 1510.93,
+      "surface_elo": {
+        "grass": 1510.008
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "grass": 1
+      },
+      "last_match_date": "04.07.24",
+      "last_surface": "grass",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Lehecka J.",
+      "player_key": "lehecka j",
+      "overall_elo": 1510.924,
+      "surface_elo": {
+        "hard": 1510.463
       },
       "matches_total": 1,
       "wins": 1,
@@ -454,16 +1393,103 @@
       "surface_matches": {
         "hard": 1
       },
-      "last_match_date": "20.02.26",
+      "last_match_date": "12.08.25",
       "last_surface": "hard",
       "confidence": 0.02
+    },
+    {
+      "player_name": "Rinderknech A.",
+      "player_key": "rinderknech a",
+      "overall_elo": 1510.896,
+      "surface_elo": {
+        "clay": 1509.814
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "28.05.24",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Royer V.",
+      "player_key": "royer v",
+      "overall_elo": 1510.887,
+      "surface_elo": {
+        "hard": 1509.954
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "26.08.25",
+      "last_surface": "hard",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Svrcina D.",
+      "player_key": "svrcina d",
+      "overall_elo": 1510.843,
+      "surface_elo": {
+        "clay": 1509.523
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "08.06.23",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Jubb P.",
+      "player_key": "jubb p",
+      "overall_elo": 1510.783,
+      "surface_elo": {
+        "grass": 1509.21
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "grass": 1
+      },
+      "last_match_date": "26.06.24",
+      "last_surface": "grass",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Hanfmann Y.",
+      "player_key": "hanfmann y",
+      "overall_elo": 1510.734,
+      "surface_elo": {
+        "clay": 1509.362,
+        "grass": 1497.857
+      },
+      "matches_total": 5,
+      "wins": 3,
+      "losses": 2,
+      "surface_matches": {
+        "clay": 3,
+        "grass": 2
+      },
+      "last_match_date": "25.06.24",
+      "last_surface": "grass",
+      "confidence": 0.1
     },
     {
       "player_name": "Kovacevic A.",
       "player_key": "kovacevic a",
-      "overall_elo": 1511.267,
+      "overall_elo": 1510.714,
       "surface_elo": {
-        "hard": 1509.289
+        "hard": 1509.349
       },
       "matches_total": 1,
       "wins": 1,
@@ -476,11 +1502,28 @@
       "confidence": 0.02
     },
     {
-      "player_name": "Sakamoto R.",
-      "player_key": "sakamoto r",
-      "overall_elo": 1511.199,
+      "player_name": "Svajda Z.",
+      "player_key": "svajda z",
+      "overall_elo": 1510.524,
       "surface_elo": {
-        "hard": 1509.563
+        "clay": 1509.532
+      },
+      "matches_total": 1,
+      "wins": 1,
+      "losses": 0,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "28.05.26",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Korda S.",
+      "player_key": "korda s",
+      "overall_elo": 1510.448,
+      "surface_elo": {
+        "hard": 1510.142
       },
       "matches_total": 1,
       "wins": 1,
@@ -488,16 +1531,16 @@
       "surface_matches": {
         "hard": 1
       },
-      "last_match_date": "22.09.25",
+      "last_match_date": "19.09.25",
       "last_surface": "hard",
       "confidence": 0.02
     },
     {
       "player_name": "Pavlovic L.",
       "player_key": "pavlovic l",
-      "overall_elo": 1510.881,
+      "overall_elo": 1510.35,
       "surface_elo": {
-        "hard": 1509.023
+        "hard": 1509.082
       },
       "matches_total": 1,
       "wins": 1,
@@ -510,94 +1553,751 @@
       "confidence": 0.02
     },
     {
-      "player_name": "Svajda Z.",
-      "player_key": "svajda z",
-      "overall_elo": 1510.731,
+      "player_name": "Cobolli F.",
+      "player_key": "cobolli f",
+      "overall_elo": 1507.026,
       "surface_elo": {
-        "unknown": 1510.016
+        "clay": 1503.347
       },
-      "matches_total": 1,
+      "matches_total": 2,
       "wins": 1,
-      "losses": 0,
+      "losses": 1,
       "surface_matches": {
+        "clay": 2
+      },
+      "last_match_date": "30.04.26",
+      "last_surface": "clay",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Griekspoor T.",
+      "player_key": "griekspoor t",
+      "overall_elo": 1505.755,
+      "surface_elo": {
+        "hard": 1502.977
+      },
+      "matches_total": 2,
+      "wins": 1,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 2
+      },
+      "last_match_date": "26.02.26",
+      "last_surface": "hard",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Cazaux A.",
+      "player_key": "cazaux a",
+      "overall_elo": 1505.078,
+      "surface_elo": {
+        "grass": 1510.0,
+        "hard": 1492.628
+      },
+      "matches_total": 2,
+      "wins": 1,
+      "losses": 1,
+      "surface_matches": {
+        "grass": 1,
+        "hard": 1
+      },
+      "last_match_date": "27.09.25",
+      "last_surface": "hard",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Tiafoe F.",
+      "player_key": "tiafoe f",
+      "overall_elo": 1504.663,
+      "surface_elo": {
+        "clay": 1509.425,
+        "hard": 1503.388,
+        "unknown": 1489.712
+      },
+      "matches_total": 4,
+      "wins": 2,
+      "losses": 2,
+      "surface_matches": {
+        "clay": 1,
+        "hard": 2,
         "unknown": 1
       },
-      "last_match_date": "28.05.26",
-      "last_surface": "unknown",
+      "last_match_date": "23.03.26",
+      "last_surface": "hard",
+      "confidence": 0.08
+    },
+    {
+      "player_name": "Zhang Z.",
+      "player_key": "zhang z",
+      "overall_elo": 1503.644,
+      "surface_elo": {
+        "hard": 1502.814
+      },
+      "matches_total": 2,
+      "wins": 1,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 2
+      },
+      "last_match_date": "18.09.25",
+      "last_surface": "hard",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "De Jong J.",
+      "player_key": "de jong j",
+      "overall_elo": 1503.473,
+      "surface_elo": {
+        "hard": 1509.712,
+        "clay": 1492.625
+      },
+      "matches_total": 2,
+      "wins": 1,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 1,
+        "clay": 1
+      },
+      "last_match_date": "31.05.26",
+      "last_surface": "clay",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Tien L.",
+      "player_key": "tien l",
+      "overall_elo": 1502.577,
+      "surface_elo": {
+        "hard": 1502.289
+      },
+      "matches_total": 2,
+      "wins": 1,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 2
+      },
+      "last_match_date": "27.01.26",
+      "last_surface": "hard",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Mmoh M.",
+      "player_key": "mmoh m",
+      "overall_elo": 1502.535,
+      "surface_elo": {
+        "clay": 1490.0,
+        "hard": 1511.696
+      },
+      "matches_total": 2,
+      "wins": 1,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 1,
+        "hard": 1
+      },
+      "last_match_date": "27.05.26",
+      "last_surface": "hard",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Rublev A.",
+      "player_key": "rublev a",
+      "overall_elo": 1501.946,
+      "surface_elo": {
+        "clay": 1500.428
+      },
+      "matches_total": 2,
+      "wins": 1,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 2
+      },
+      "last_match_date": "31.05.26",
+      "last_surface": "clay",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Aubriot A.",
+      "player_key": "aubriot a",
+      "overall_elo": 1501.793,
+      "surface_elo": {
+        "clay": 1510.652,
+        "hard": 1491.367
+      },
+      "matches_total": 2,
+      "wins": 1,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 1,
+        "hard": 1
+      },
+      "last_match_date": "27.07.24",
+      "last_surface": "hard",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Čilić M.",
+      "player_key": "cilic m",
+      "overall_elo": 1501.659,
+      "surface_elo": {
+        "hard": 1501.91
+      },
+      "matches_total": 2,
+      "wins": 1,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 2
+      },
+      "last_match_date": "23.03.26",
+      "last_surface": "hard",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Kukushkin M.",
+      "player_key": "kukushkin m",
+      "overall_elo": 1501.404,
+      "surface_elo": {
+        "hard": 1500.617
+      },
+      "matches_total": 2,
+      "wins": 1,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 2
+      },
+      "last_match_date": "21.01.26",
+      "last_surface": "hard",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Michelsen A.",
+      "player_key": "michelsen a",
+      "overall_elo": 1501.2,
+      "surface_elo": {
+        "hard": 1502.087
+      },
+      "matches_total": 2,
+      "wins": 1,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 2
+      },
+      "last_match_date": "26.02.25",
+      "last_surface": "hard",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Riedi L.",
+      "player_key": "riedi l",
+      "overall_elo": 1501.061,
+      "surface_elo": {
+        "unknown": 1490.0,
+        "hard": 1510.722
+      },
+      "matches_total": 2,
+      "wins": 1,
+      "losses": 1,
+      "surface_matches": {
+        "unknown": 1,
+        "hard": 1
+      },
+      "last_match_date": "19.04.26",
+      "last_surface": "hard",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Nakashima B.",
+      "player_key": "nakashima b",
+      "overall_elo": 1500.688,
+      "surface_elo": {
+        "unknown": 1510.288,
+        "hard": 1490.28
+      },
+      "matches_total": 2,
+      "wins": 1,
+      "losses": 1,
+      "surface_matches": {
+        "unknown": 1,
+        "hard": 1
+      },
+      "last_match_date": "08.03.26",
+      "last_surface": "hard",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Machac T.",
+      "player_key": "machac t",
+      "overall_elo": 1500.605,
+      "surface_elo": {
+        "hard": 1504.662,
+        "clay": 1491.679
+      },
+      "matches_total": 3,
+      "wins": 1,
+      "losses": 2,
+      "surface_matches": {
+        "hard": 2,
+        "clay": 1
+      },
+      "last_match_date": "27.05.26",
+      "last_surface": "clay",
+      "confidence": 0.06
+    },
+    {
+      "player_name": "Marterer M.",
+      "player_key": "marterer m",
+      "overall_elo": 1500.153,
+      "surface_elo": {
+        "clay": 1499.118
+      },
+      "matches_total": 2,
+      "wins": 1,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 2
+      },
+      "last_match_date": "27.05.25",
+      "last_surface": "clay",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Fonseca J.",
+      "player_key": "fonseca j",
+      "overall_elo": 1499.763,
+      "surface_elo": {
+        "clay": 1489.433,
+        "hard": 1510.085
+      },
+      "matches_total": 2,
+      "wins": 1,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 1,
+        "hard": 1
+      },
+      "last_match_date": "07.08.25",
+      "last_surface": "hard",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Sakamoto R.",
+      "player_key": "sakamoto r",
+      "overall_elo": 1498.928,
+      "surface_elo": {
+        "hard": 1499.483
+      },
+      "matches_total": 2,
+      "wins": 1,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 2
+      },
+      "last_match_date": "22.09.25",
+      "last_surface": "hard",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Basavareddy N.",
+      "player_key": "basavareddy n",
+      "overall_elo": 1498.839,
+      "surface_elo": {
+        "hard": 1498.893
+      },
+      "matches_total": 2,
+      "wins": 1,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 2
+      },
+      "last_match_date": "05.03.25",
+      "last_surface": "hard",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "McCabe J.",
+      "player_key": "mccabe j",
+      "overall_elo": 1498.747,
+      "surface_elo": {
+        "hard": 1499.711
+      },
+      "matches_total": 2,
+      "wins": 1,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 2
+      },
+      "last_match_date": "07.05.26",
+      "last_surface": "hard",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Huesler M.",
+      "player_key": "huesler m",
+      "overall_elo": 1498.525,
+      "surface_elo": {
+        "grass": 1509.441,
+        "hard": 1490.589
+      },
+      "matches_total": 2,
+      "wins": 1,
+      "losses": 1,
+      "surface_matches": {
+        "grass": 1,
+        "hard": 1
+      },
+      "last_match_date": "29.10.25",
+      "last_surface": "hard",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Sun F.",
+      "player_key": "sun f",
+      "overall_elo": 1498.423,
+      "surface_elo": {
+        "hard": 1499.999
+      },
+      "matches_total": 2,
+      "wins": 1,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 2
+      },
+      "last_match_date": "07.10.25",
+      "last_surface": "hard",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Kopriva V.",
+      "player_key": "kopriva v",
+      "overall_elo": 1497.09,
+      "surface_elo": {
+        "clay": 1509.737,
+        "hard": 1489.424
+      },
+      "matches_total": 2,
+      "wins": 1,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 1,
+        "hard": 1
+      },
+      "last_match_date": "28.07.25",
+      "last_surface": "hard",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Fils A.",
+      "player_key": "fils a",
+      "overall_elo": 1496.346,
+      "surface_elo": {
+        "hard": 1495.709
+      },
+      "matches_total": 3,
+      "wins": 1,
+      "losses": 2,
+      "surface_matches": {
+        "hard": 3
+      },
+      "last_match_date": "27.03.25",
+      "last_surface": "hard",
+      "confidence": 0.06
+    },
+    {
+      "player_name": "Medvedev D.",
+      "player_key": "medvedev d",
+      "overall_elo": 1495.524,
+      "surface_elo": {
+        "hard": 1510.663,
+        "clay": 1489.195
+      },
+      "matches_total": 4,
+      "wins": 2,
+      "losses": 2,
+      "surface_matches": {
+        "hard": 3,
+        "clay": 1
+      },
+      "last_match_date": "26.05.26",
+      "last_surface": "clay",
+      "confidence": 0.08
+    },
+    {
+      "player_name": "Ritschard A.",
+      "player_key": "ritschard a",
+      "overall_elo": 1493.341,
+      "surface_elo": {
+        "clay": 1492.138
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "27.07.23",
+      "last_surface": "clay",
       "confidence": 0.02
     },
     {
-      "player_name": "Vukic A.",
-      "player_key": "vukic a",
-      "overall_elo": 1510.623,
+      "player_name": "Đoković N. - I 24.01.26 AO Mensik J. Quinn E.",
+      "player_key": "okovic n i 24 01 26 ao mensik j quinn e",
+      "overall_elo": 1492.853,
       "surface_elo": {
-        "hard": 1509.086
+        "hard": 1492.512
       },
       "matches_total": 1,
-      "wins": 1,
-      "losses": 0,
+      "wins": 0,
+      "losses": 1,
       "surface_matches": {
         "hard": 1
       },
-      "last_match_date": "25.10.25",
+      "last_match_date": "26.01.26",
       "last_surface": "hard",
       "confidence": 0.02
     },
     {
-      "player_name": "Khachanov K.",
-      "player_key": "khachanov k",
-      "overall_elo": 1510.509,
+      "player_name": "Atmane T.",
+      "player_key": "atmane t",
+      "overall_elo": 1492.651,
       "surface_elo": {
-        "unknown": 1510.008
+        "clay": 1491.439
       },
       "matches_total": 1,
-      "wins": 1,
-      "losses": 0,
+      "wins": 0,
+      "losses": 1,
       "surface_matches": {
-        "unknown": 1
+        "clay": 1
       },
-      "last_match_date": "25.04.26",
-      "last_surface": "unknown",
+      "last_match_date": "27.04.26",
+      "last_surface": "clay",
       "confidence": 0.02
     },
     {
-      "player_name": "Hijikata R.",
-      "player_key": "hijikata r",
-      "overall_elo": 1501.114,
+      "player_name": "Shelton B.",
+      "player_key": "shelton b",
+      "overall_elo": 1492.515,
       "surface_elo": {
-        "hard": 1501.114
+        "clay": 1491.185
       },
-      "matches_total": 2,
-      "wins": 1,
+      "matches_total": 1,
+      "wins": 0,
       "losses": 1,
       "surface_matches": {
-        "hard": 2
+        "clay": 1
       },
-      "last_match_date": "17.03.26",
-      "last_surface": "hard",
-      "confidence": 0.04
+      "last_match_date": "27.04.25",
+      "last_surface": "clay",
+      "confidence": 0.02
     },
     {
-      "player_name": "Halys Q.",
-      "player_key": "halys q",
-      "overall_elo": 1500.188,
+      "player_name": "Rodriguez Taverna S.",
+      "player_key": "rodriguez taverna s",
+      "overall_elo": 1492.423,
       "surface_elo": {
-        "hard": 1500.502
+        "clay": 1491.076
       },
-      "matches_total": 2,
-      "wins": 1,
+      "matches_total": 1,
+      "wins": 0,
       "losses": 1,
       "surface_matches": {
-        "hard": 2
+        "clay": 1
       },
-      "last_match_date": "12.01.26",
+      "last_match_date": "25.07.23",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Dimitrov G.",
+      "player_key": "dimitrov g",
+      "overall_elo": 1492.284,
+      "surface_elo": {
+        "clay": 1490.927
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "27.04.24",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Moutet C.",
+      "player_key": "moutet c",
+      "overall_elo": 1492.009,
+      "surface_elo": {
+        "hard": 1492.217
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "25.02.26",
       "last_surface": "hard",
-      "confidence": 0.04
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Popyrin A.",
+      "player_key": "popyrin a",
+      "overall_elo": 1491.801,
+      "surface_elo": {
+        "clay": 1498.322,
+        "hard": 1492.303
+      },
+      "matches_total": 3,
+      "wins": 1,
+      "losses": 2,
+      "surface_matches": {
+        "clay": 2,
+        "hard": 1
+      },
+      "last_match_date": "25.02.26",
+      "last_surface": "hard",
+      "confidence": 0.06
+    },
+    {
+      "player_name": "Đoković N.",
+      "player_key": "okovic n",
+      "overall_elo": 1491.695,
+      "surface_elo": {
+        "hard": 1492.906
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "31.03.25",
+      "last_surface": "hard",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Bonzi B.",
+      "player_key": "bonzi b",
+      "overall_elo": 1491.485,
+      "surface_elo": {
+        "clay": 1490.923
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "24.05.26",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Boyer T.",
+      "player_key": "boyer t",
+      "overall_elo": 1491.425,
+      "surface_elo": {
+        "hard": 1492.713
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "30.07.25",
+      "last_surface": "hard",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Droguet T.",
+      "player_key": "droguet t",
+      "overall_elo": 1491.064,
+      "surface_elo": {
+        "clay": 1489.65
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "24.05.26",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Fonseca J. - I 20.10.25 BAS Mensik J. Bernet H.",
+      "player_key": "fonseca j i 20 10 25 bas mensik j bernet h",
+      "overall_elo": 1490.948,
+      "surface_elo": {
+        "hard": 1492.371
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "22.10.25",
+      "last_surface": "hard",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Draper J.",
+      "player_key": "draper j",
+      "overall_elo": 1490.311,
+      "surface_elo": {
+        "hard": 1492.157
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "22.03.25",
+      "last_surface": "hard",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Guinard M.",
+      "player_key": "guinard m",
+      "overall_elo": 1490.002,
+      "surface_elo": {
+        "clay": 1489.89
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "18.07.23",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Bautista R.",
+      "player_key": "bautista r",
+      "overall_elo": 1489.849,
+      "surface_elo": {
+        "hard": 1491.824
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "21.03.25",
+      "last_surface": "hard",
+      "confidence": 0.02
     },
     {
       "player_name": "Ghazouani Durand Y.",
       "player_key": "ghazouani durand y",
-      "overall_elo": 1489.946,
+      "overall_elo": 1489.793,
       "surface_elo": {
         "hard": 1491.456
       },
@@ -612,77 +2312,43 @@
       "confidence": 0.02
     },
     {
-      "player_name": "Aubriot A.",
-      "player_key": "aubriot a",
-      "overall_elo": 1489.803,
+      "player_name": "Haliak M.",
+      "player_key": "haliak m",
+      "overall_elo": 1489.711,
       "surface_elo": {
-        "hard": 1491.367
+        "clay": 1491.065
       },
       "matches_total": 1,
       "wins": 0,
       "losses": 1,
       "surface_matches": {
-        "hard": 1
+        "clay": 1
       },
-      "last_match_date": "27.07.24",
-      "last_surface": "hard",
+      "last_match_date": "10.05.23",
+      "last_surface": "clay",
       "confidence": 0.02
     },
     {
-      "player_name": "Moriya H.",
-      "player_key": "moriya h",
-      "overall_elo": 1489.594,
+      "player_name": "Struff J-L.",
+      "player_key": "struff j l",
+      "overall_elo": 1489.653,
       "surface_elo": {
-        "hard": 1491.207
+        "clay": 1489.591
       },
       "matches_total": 1,
       "wins": 0,
       "losses": 1,
       "surface_matches": {
-        "hard": 1
+        "clay": 1
       },
-      "last_match_date": "26.05.26",
-      "last_surface": "hard",
-      "confidence": 0.02
-    },
-    {
-      "player_name": "Rodesch C.",
-      "player_key": "rodesch c",
-      "overall_elo": 1489.385,
-      "surface_elo": {
-        "hard": 1491.103
-      },
-      "matches_total": 1,
-      "wins": 0,
-      "losses": 1,
-      "surface_matches": {
-        "hard": 1
-      },
-      "last_match_date": "17.03.26",
-      "last_surface": "hard",
-      "confidence": 0.02
-    },
-    {
-      "player_name": "Mercier B.",
-      "player_key": "mercier b",
-      "overall_elo": 1489.33,
-      "surface_elo": {
-        "hard": 1491.015
-      },
-      "matches_total": 1,
-      "wins": 0,
-      "losses": 1,
-      "surface_matches": {
-        "hard": 1
-      },
-      "last_match_date": "24.07.24",
-      "last_surface": "hard",
+      "last_match_date": "18.05.26",
+      "last_surface": "clay",
       "confidence": 0.02
     },
     {
       "player_name": "Dalmasso G.",
       "player_key": "dalmasso g",
-      "overall_elo": 1489.227,
+      "overall_elo": 1489.552,
       "surface_elo": {
         "hard": 1490.95
       },
@@ -697,11 +2363,11 @@
       "confidence": 0.02
     },
     {
-      "player_name": "McKennon M.",
-      "player_key": "mckennon m",
-      "overall_elo": 1488.952,
+      "player_name": "Magadan A.",
+      "player_key": "magadan a",
+      "overall_elo": 1489.509,
       "surface_elo": {
-        "hard": 1490.751
+        "hard": 1490.944
       },
       "matches_total": 1,
       "wins": 0,
@@ -709,16 +2375,50 @@
       "surface_matches": {
         "hard": 1
       },
-      "last_match_date": "24.04.26",
+      "last_match_date": "16.07.25",
       "last_surface": "hard",
       "confidence": 0.02
     },
     {
-      "player_name": "Moreno De Alboran N.",
-      "player_key": "moreno de alboran n",
-      "overall_elo": 1488.794,
+      "player_name": "Seateun N.",
+      "player_key": "seateun n",
+      "overall_elo": 1489.475,
       "surface_elo": {
-        "hard": 1490.698
+        "clay": 1490.166
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "31.05.23",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Altmaier D.",
+      "player_key": "altmaier d",
+      "overall_elo": 1489.474,
+      "surface_elo": {
+        "clay": 1490.527
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "08.05.26",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Moriya H.",
+      "player_key": "moriya h",
+      "overall_elo": 1489.435,
+      "surface_elo": {
+        "hard": 1491.207
       },
       "matches_total": 1,
       "wins": 0,
@@ -726,33 +2426,135 @@
       "surface_matches": {
         "hard": 1
       },
-      "last_match_date": "14.02.26",
+      "last_match_date": "26.05.26",
       "last_surface": "hard",
       "confidence": 0.02
     },
     {
       "player_name": "Damas M.",
       "player_key": "damas m",
-      "overall_elo": 1488.773,
+      "overall_elo": 1489.349,
       "surface_elo": {
-        "unknown": 1490.288
+        "clay": 1490.802
       },
       "matches_total": 1,
       "wins": 0,
       "losses": 1,
       "surface_matches": {
-        "unknown": 1
+        "clay": 1
       },
       "last_match_date": "09.06.25",
-      "last_surface": "unknown",
+      "last_surface": "clay",
       "confidence": 0.02
     },
     {
-      "player_name": "Schoolkate T.",
-      "player_key": "schoolkate t",
-      "overall_elo": 1488.74,
+      "player_name": "Baroni N.",
+      "player_key": "baroni n",
+      "overall_elo": 1489.284,
       "surface_elo": {
-        "hard": 1490.659
+        "clay": 1489.896
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "24.08.23",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Sakellaridis S.",
+      "player_key": "sakellaridis s",
+      "overall_elo": 1489.246,
+      "surface_elo": {
+        "clay": 1490.319
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "05.04.23",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Colson T.",
+      "player_key": "colson t",
+      "overall_elo": 1489.184,
+      "surface_elo": {
+        "clay": 1490.186
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "25.06.24",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Andaloro F.",
+      "player_key": "andaloro f",
+      "overall_elo": 1489.148,
+      "surface_elo": {
+        "clay": 1490.293
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "06.04.23",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Bouquier A.",
+      "player_key": "bouquier a",
+      "overall_elo": 1489.103,
+      "surface_elo": {
+        "clay": 1489.875
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "29.05.23",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Ferrari G.",
+      "player_key": "ferrari g",
+      "overall_elo": 1489.057,
+      "surface_elo": {
+        "clay": 1490.571
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "07.04.23",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Choinski J.",
+      "player_key": "choinski j",
+      "overall_elo": 1488.99,
+      "surface_elo": {
+        "hard": 1490.675
       },
       "matches_total": 1,
       "wins": 0,
@@ -760,118 +2562,67 @@
       "surface_matches": {
         "hard": 1
       },
-      "last_match_date": "14.10.25",
-      "last_surface": "hard",
-      "confidence": 0.02
-    },
-    {
-      "player_name": "Trotter J. K.",
-      "player_key": "trotter j k",
-      "overall_elo": 1488.676,
-      "surface_elo": {
-        "hard": 1490.614
-      },
-      "matches_total": 1,
-      "wins": 0,
-      "losses": 1,
-      "surface_matches": {
-        "hard": 1
-      },
-      "last_match_date": "15.04.26",
-      "last_surface": "hard",
-      "confidence": 0.02
-    },
-    {
-      "player_name": "Jovanovic P.",
-      "player_key": "jovanovic p",
-      "overall_elo": 1488.614,
-      "surface_elo": {
-        "hard": 1490.515
-      },
-      "matches_total": 1,
-      "wins": 0,
-      "losses": 1,
-      "surface_matches": {
-        "hard": 1
-      },
-      "last_match_date": "20.09.24",
-      "last_surface": "hard",
-      "confidence": 0.02
-    },
-    {
-      "player_name": "Diallo G.",
-      "player_key": "diallo g",
-      "overall_elo": 1488.602,
-      "surface_elo": {
-        "hard": 1490.563
-      },
-      "matches_total": 1,
-      "wins": 0,
-      "losses": 1,
-      "surface_matches": {
-        "hard": 1
-      },
-      "last_match_date": "17.02.26",
-      "last_surface": "hard",
-      "confidence": 0.02
-    },
-    {
-      "player_name": "Nolan W.",
-      "player_key": "nolan w",
-      "overall_elo": 1488.559,
-      "surface_elo": {
-        "hard": 1490.478
-      },
-      "matches_total": 1,
-      "wins": 0,
-      "losses": 1,
-      "surface_matches": {
-        "hard": 1
-      },
-      "last_match_date": "22.04.26",
-      "last_surface": "hard",
-      "confidence": 0.02
-    },
-    {
-      "player_name": "Delaney Ja.",
-      "player_key": "delaney ja",
-      "overall_elo": 1488.52,
-      "surface_elo": {
-        "hard": 1490.523
-      },
-      "matches_total": 1,
-      "wins": 0,
-      "losses": 1,
-      "surface_matches": {
-        "hard": 1
-      },
-      "last_match_date": "11.01.26",
-      "last_surface": "hard",
-      "confidence": 0.02
-    },
-    {
-      "player_name": "Ardila L.",
-      "player_key": "ardila l",
-      "overall_elo": 1488.414,
-      "surface_elo": {
-        "hard": 1490.288
-      },
-      "matches_total": 1,
-      "wins": 0,
-      "losses": 1,
-      "surface_matches": {
-        "hard": 1
-      },
-      "last_match_date": "04.06.26",
+      "last_match_date": "16.02.26",
       "last_surface": "hard",
       "confidence": 0.02
     },
     {
       "player_name": "Cachin P.",
       "player_key": "cachin p",
-      "overall_elo": 1488.372,
+      "overall_elo": 1488.972,
       "surface_elo": {
-        "unknown": 1490.0
+        "clay": 1490.531
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "08.06.25",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Pogosian S.",
+      "player_key": "pogosian s",
+      "overall_elo": 1488.91,
+      "surface_elo": {
+        "clay": 1490.309
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "16.05.23",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Mercier B.",
+      "player_key": "mercier b",
+      "overall_elo": 1488.904,
+      "surface_elo": {
+        "hard": 1491.015
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "24.07.24",
+      "last_surface": "hard",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Buldorini P.",
+      "player_key": "buldorini p",
+      "overall_elo": 1488.866,
+      "surface_elo": {
+        "unknown": 1490.271
       },
       "matches_total": 1,
       "wins": 0,
@@ -879,14 +2630,82 @@
       "surface_matches": {
         "unknown": 1
       },
-      "last_match_date": "08.06.25",
+      "last_match_date": "13.09.25",
       "last_surface": "unknown",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Palovic L.",
+      "player_key": "palovic l",
+      "overall_elo": 1488.865,
+      "surface_elo": {
+        "clay": 1490.032
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "04.08.22",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Martinez M.",
+      "player_key": "martinez m",
+      "overall_elo": 1488.796,
+      "surface_elo": {
+        "clay": 1490.555
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "19.04.23",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Sweeny D.",
+      "player_key": "sweeny d",
+      "overall_elo": 1488.777,
+      "surface_elo": {
+        "hard": 1490.016
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "08.05.26",
+      "last_surface": "hard",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Berrettini M.",
+      "player_key": "berrettini m",
+      "overall_elo": 1488.699,
+      "surface_elo": {
+        "hard": 1489.992
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "06.03.26",
+      "last_surface": "hard",
       "confidence": 0.02
     },
     {
       "player_name": "Becroft I.",
       "player_key": "becroft i",
-      "overall_elo": 1488.208,
+      "overall_elo": 1488.693,
       "surface_elo": {
         "hard": 1490.235
       },
@@ -901,11 +2720,28 @@
       "confidence": 0.02
     },
     {
-      "player_name": "Martin A.",
-      "player_key": "martin a",
-      "overall_elo": 1488.142,
+      "player_name": "Kivattsev K.",
+      "player_key": "kivattsev k",
+      "overall_elo": 1488.67,
       "surface_elo": {
-        "hard": 1490.305
+        "clay": 1490.376
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "11.06.24",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Jones M.",
+      "player_key": "jones m",
+      "overall_elo": 1488.641,
+      "surface_elo": {
+        "hard": 1490.325
       },
       "matches_total": 1,
       "wins": 0,
@@ -913,16 +2749,50 @@
       "surface_matches": {
         "hard": 1
       },
-      "last_match_date": "05.06.26",
+      "last_match_date": "20.04.26",
       "last_surface": "hard",
       "confidence": 0.02
     },
     {
-      "player_name": "Sun F.",
-      "player_key": "sun f",
-      "overall_elo": 1488.125,
+      "player_name": "Calzi R.",
+      "player_key": "calzi r",
+      "overall_elo": 1488.631,
       "surface_elo": {
-        "hard": 1490.272
+        "clay": 1490.192
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "20.07.22",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Sadaoui M.",
+      "player_key": "sadaoui m",
+      "overall_elo": 1488.61,
+      "surface_elo": {
+        "clay": 1490.346
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "12.06.24",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Tsitsipas S.",
+      "player_key": "tsitsipas s",
+      "overall_elo": 1488.578,
+      "surface_elo": {
+        "hard": 1490.689
       },
       "matches_total": 1,
       "wins": 0,
@@ -930,16 +2800,16 @@
       "surface_matches": {
         "hard": 1
       },
-      "last_match_date": "07.10.25",
+      "last_match_date": "20.08.25",
       "last_surface": "hard",
       "confidence": 0.02
     },
     {
-      "player_name": "Kecmanovic M.",
-      "player_key": "kecmanovic m",
-      "overall_elo": 1487.995,
+      "player_name": "Jovanovic P.",
+      "player_key": "jovanovic p",
+      "overall_elo": 1488.575,
       "surface_elo": {
-        "hard": 1490.149
+        "hard": 1490.515
       },
       "matches_total": 1,
       "wins": 0,
@@ -947,33 +2817,152 @@
       "surface_matches": {
         "hard": 1
       },
-      "last_match_date": "13.03.26",
+      "last_match_date": "20.09.24",
       "last_surface": "hard",
       "confidence": 0.02
     },
     {
-      "player_name": "Medvedev D.",
-      "player_key": "medvedev d",
-      "overall_elo": 1487.789,
+      "player_name": "Bu Y.",
+      "player_key": "bu y",
+      "overall_elo": 1488.548,
       "surface_elo": {
-        "hard": 1501.402,
-        "unknown": 1489.72
+        "hard": 1507.431,
+        "unknown": 1478.743
       },
-      "matches_total": 3,
-      "wins": 1,
-      "losses": 2,
+      "matches_total": 60,
+      "wins": 30,
+      "losses": 30,
       "surface_matches": {
-        "hard": 2,
+        "hard": 50,
+        "unknown": 10
+      },
+      "last_match_date": "31.10.25",
+      "last_surface": "hard",
+      "confidence": 1.0
+    },
+    {
+      "player_name": "McKennon M.",
+      "player_key": "mckennon m",
+      "overall_elo": 1488.508,
+      "surface_elo": {
+        "hard": 1490.751
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "24.04.26",
+      "last_surface": "hard",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Goffin D.",
+      "player_key": "goffin d",
+      "overall_elo": 1488.491,
+      "surface_elo": {
+        "hard": 1490.91
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "22.07.25",
+      "last_surface": "hard",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Chung Y.",
+      "player_key": "chung y",
+      "overall_elo": 1488.469,
+      "surface_elo": {
+        "hard": 1490.142
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "13.04.26",
+      "last_surface": "hard",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Ardila L.",
+      "player_key": "ardila l",
+      "overall_elo": 1488.468,
+      "surface_elo": {
+        "hard": 1490.288
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "04.06.26",
+      "last_surface": "hard",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Kolar Z.",
+      "player_key": "kolar z",
+      "overall_elo": 1488.461,
+      "surface_elo": {
+        "clay": 1490.197
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "12.07.23",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Ilagan A.",
+      "player_key": "ilagan a",
+      "overall_elo": 1488.431,
+      "surface_elo": {
+        "hard": 1490.859
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "30.04.26",
+      "last_surface": "hard",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Wendelken H.",
+      "player_key": "wendelken h",
+      "overall_elo": 1488.428,
+      "surface_elo": {
+        "unknown": 1490.288
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
         "unknown": 1
       },
-      "last_match_date": "26.05.26",
+      "last_match_date": "04.06.26",
       "last_surface": "unknown",
-      "confidence": 0.06
+      "confidence": 0.02
     },
     {
       "player_name": "Sheldon M.",
       "player_key": "sheldon m",
-      "overall_elo": 1487.786,
+      "overall_elo": 1488.396,
       "surface_elo": {
         "hard": 1489.945
       },
@@ -988,11 +2977,147 @@
       "confidence": 0.02
     },
     {
-      "player_name": "McCabe J.",
-      "player_key": "mccabe j",
-      "overall_elo": 1487.7,
+      "player_name": "Dippenaar S.",
+      "player_key": "dippenaar s",
+      "overall_elo": 1488.376,
       "surface_elo": {
-        "hard": 1489.984
+        "unknown": 1490.271
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "unknown": 1
+      },
+      "last_match_date": "07.02.26",
+      "last_surface": "unknown",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Verdasco F.",
+      "player_key": "verdasco f",
+      "overall_elo": 1488.376,
+      "surface_elo": {
+        "clay": 1490.178
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "14.06.23",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Jahn J.",
+      "player_key": "jahn j",
+      "overall_elo": 1488.289,
+      "surface_elo": {
+        "clay": 1490.213
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "19.08.23",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Prihodko O.",
+      "player_key": "prihodko o",
+      "overall_elo": 1488.268,
+      "surface_elo": {
+        "hard": 1489.743
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "19.01.26",
+      "last_surface": "hard",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Merida Aguilar D.",
+      "player_key": "merida aguilar d",
+      "overall_elo": 1488.235,
+      "surface_elo": {
+        "hard": 1490.038
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "20.01.26",
+      "last_surface": "hard",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Bailly P. Y.",
+      "player_key": "bailly p y",
+      "overall_elo": 1488.121,
+      "surface_elo": {
+        "clay": 1490.022
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "15.08.23",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Berrettini J.",
+      "player_key": "berrettini j",
+      "overall_elo": 1488.105,
+      "surface_elo": {
+        "hard": 1489.978
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "24.02.26",
+      "last_surface": "hard",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Pennaforti G.",
+      "player_key": "pennaforti g",
+      "overall_elo": 1488.098,
+      "surface_elo": {
+        "clay": 1489.596
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "23.08.23",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Milic O.",
+      "player_key": "milic o",
+      "overall_elo": 1488.095,
+      "surface_elo": {
+        "hard": 1489.791
       },
       "matches_total": 1,
       "wins": 0,
@@ -1005,11 +3130,11 @@
       "confidence": 0.02
     },
     {
-      "player_name": "Jarry N.",
-      "player_key": "jarry n",
-      "overall_elo": 1487.684,
+      "player_name": "Santillan A.",
+      "player_key": "santillan a",
+      "overall_elo": 1488.084,
       "surface_elo": {
-        "hard": 1489.953
+        "hard": 1489.971
       },
       "matches_total": 1,
       "wins": 0,
@@ -1017,16 +3142,33 @@
       "surface_matches": {
         "hard": 1
       },
-      "last_match_date": "10.03.26",
+      "last_match_date": "27.04.26",
       "last_surface": "hard",
       "confidence": 0.02
     },
     {
-      "player_name": "Bolt A.",
-      "player_key": "bolt a",
-      "overall_elo": 1487.599,
+      "player_name": "Martinez M. N.",
+      "player_key": "martinez m n",
+      "overall_elo": 1488.055,
       "surface_elo": {
-        "hard": 1489.992
+        "clay": 1489.737
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "04.04.23",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Tokuda R.",
+      "player_key": "tokuda r",
+      "overall_elo": 1488.014,
+      "surface_elo": {
+        "hard": 1489.712
       },
       "matches_total": 1,
       "wins": 0,
@@ -1034,16 +3176,33 @@
       "surface_matches": {
         "hard": 1
       },
-      "last_match_date": "02.05.26",
+      "last_match_date": "04.05.26",
       "last_surface": "hard",
       "confidence": 0.02
     },
     {
-      "player_name": "Galarneau A.",
-      "player_key": "galarneau a",
-      "overall_elo": 1487.586,
+      "player_name": "Kestelboim M. - P 17.08.23 KOK Legout T. Pontjodikromo S.",
+      "player_key": "kestelboim m p 17 08 23 kok legout t pontjodikromo s",
+      "overall_elo": 1487.981,
       "surface_elo": {
-        "hard": 1490.0
+        "clay": 1490.275
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "18.08.23",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Rodesch C.",
+      "player_key": "rodesch c",
+      "overall_elo": 1487.962,
+      "surface_elo": {
+        "hard": 1491.112
       },
       "matches_total": 1,
       "wins": 0,
@@ -1051,16 +3210,16 @@
       "surface_matches": {
         "hard": 1
       },
-      "last_match_date": "01.05.26",
+      "last_match_date": "17.03.26",
       "last_surface": "hard",
       "confidence": 0.02
     },
     {
-      "player_name": "Baez S.",
-      "player_key": "baez s",
-      "overall_elo": 1487.156,
+      "player_name": "Trotter J. K.",
+      "player_key": "trotter j k",
+      "overall_elo": 1487.889,
       "surface_elo": {
-        "hard": 1489.545
+        "hard": 1490.625
       },
       "matches_total": 1,
       "wins": 0,
@@ -1068,16 +3227,101 @@
       "surface_matches": {
         "hard": 1
       },
-      "last_match_date": "20.03.26",
+      "last_match_date": "15.04.26",
       "last_surface": "hard",
       "confidence": 0.02
     },
     {
-      "player_name": "Landaluce M.",
-      "player_key": "landaluce m",
-      "overall_elo": 1486.815,
+      "player_name": "Montes-De La Torre I.",
+      "player_key": "montes de la torre i",
+      "overall_elo": 1487.848,
       "surface_elo": {
-        "unknown": 1489.712
+        "hard": 1489.44
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "18.01.26",
+      "last_surface": "hard",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Wiskandt M.",
+      "player_key": "wiskandt m",
+      "overall_elo": 1487.683,
+      "surface_elo": {
+        "hard": 1490.289
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "24.03.26",
+      "last_surface": "hard",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Smith K.",
+      "player_key": "smith k",
+      "overall_elo": 1487.678,
+      "surface_elo": {
+        "hard": 1489.489
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "05.05.26",
+      "last_surface": "hard",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Nolan W.",
+      "player_key": "nolan w",
+      "overall_elo": 1487.672,
+      "surface_elo": {
+        "hard": 1490.478
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "22.04.26",
+      "last_surface": "hard",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Stable R.",
+      "player_key": "stable r",
+      "overall_elo": 1487.628,
+      "surface_elo": {
+        "clay": 1489.433
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "03.08.22",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Harris B.",
+      "player_key": "harris b",
+      "overall_elo": 1487.612,
+      "surface_elo": {
+        "unknown": 1489.992
       },
       "matches_total": 1,
       "wins": 0,
@@ -1085,16 +3329,324 @@
       "surface_matches": {
         "unknown": 1
       },
-      "last_match_date": "23.04.26",
+      "last_match_date": "04.06.26",
       "last_surface": "unknown",
       "confidence": 0.02
     },
     {
+      "player_name": "Bagnis F.",
+      "player_key": "bagnis f",
+      "overall_elo": 1487.602,
+      "surface_elo": {
+        "clay": 1489.503
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "07.06.23",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Cerundolo J. M.",
+      "player_key": "cerundolo j m",
+      "overall_elo": 1487.599,
+      "surface_elo": {
+        "hard": 1489.712
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "02.10.25",
+      "last_surface": "hard",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Coria F.",
+      "player_key": "coria f",
+      "overall_elo": 1487.589,
+      "surface_elo": {
+        "grass": 1489.712
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "grass": 1
+      },
+      "last_match_date": "02.07.24",
+      "last_surface": "grass",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Harris L.",
+      "player_key": "harris l",
+      "overall_elo": 1487.586,
+      "surface_elo": {
+        "unknown": 1490.0
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "unknown": 1
+      },
+      "last_match_date": "02.06.26",
+      "last_surface": "unknown",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Tiurnev E.",
+      "player_key": "tiurnev e",
+      "overall_elo": 1487.551,
+      "surface_elo": {
+        "clay": 1489.987
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "18.05.23",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Hsu Y. H.",
+      "player_key": "hsu y h",
+      "overall_elo": 1487.49,
+      "surface_elo": {
+        "hard": 1491.599
+      },
+      "matches_total": 3,
+      "wins": 1,
+      "losses": 2,
+      "surface_matches": {
+        "hard": 3
+      },
+      "last_match_date": "23.04.26",
+      "last_surface": "hard",
+      "confidence": 0.06
+    },
+    {
+      "player_name": "Moreno De Alboran N.",
+      "player_key": "moreno de alboran n",
+      "overall_elo": 1487.441,
+      "surface_elo": {
+        "hard": 1490.711
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "14.02.26",
+      "last_surface": "hard",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Navone M.",
+      "player_key": "navone m",
+      "overall_elo": 1487.419,
+      "surface_elo": {
+        "clay": 1493.349,
+        "hard": 1490.642
+      },
+      "matches_total": 4,
+      "wins": 1,
+      "losses": 3,
+      "surface_matches": {
+        "clay": 3,
+        "hard": 1
+      },
+      "last_match_date": "27.05.26",
+      "last_surface": "clay",
+      "confidence": 0.08
+    },
+    {
+      "player_name": "Garin C.",
+      "player_key": "garin c",
+      "overall_elo": 1487.179,
+      "surface_elo": {
+        "hard": 1489.53
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "12.03.25",
+      "last_surface": "hard",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Giron M.",
+      "player_key": "giron m",
+      "overall_elo": 1487.16,
+      "surface_elo": {
+        "hard": 1489.76
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "07.03.26",
+      "last_surface": "hard",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Lestienne C.",
+      "player_key": "lestienne c",
+      "overall_elo": 1487.149,
+      "surface_elo": {
+        "hard": 1490.024
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "29.01.25",
+      "last_surface": "hard",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Delaney Ja.",
+      "player_key": "delaney ja",
+      "overall_elo": 1486.796,
+      "surface_elo": {
+        "hard": 1490.539
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "11.01.26",
+      "last_surface": "hard",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Jacquet K.",
+      "player_key": "jacquet k",
+      "overall_elo": 1486.724,
+      "surface_elo": {
+        "clay": 1489.301
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "11.07.23",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Ionel N. D.",
+      "player_key": "ionel n d",
+      "overall_elo": 1486.704,
+      "surface_elo": {
+        "clay": 1489.194
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "06.06.23",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Park U.",
+      "player_key": "park u",
+      "overall_elo": 1486.694,
+      "surface_elo": {
+        "hard": 1489.728
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "28.10.25",
+      "last_surface": "hard",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Martin A.",
+      "player_key": "martin a",
+      "overall_elo": 1486.64,
+      "surface_elo": {
+        "hard": 1490.313
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "05.06.26",
+      "last_surface": "hard",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Ruud C.",
+      "player_key": "ruud c",
+      "overall_elo": 1486.499,
+      "surface_elo": {
+        "hard": 1489.433
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "hard": 1
+      },
+      "last_match_date": "05.01.26",
+      "last_surface": "hard",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Hijikata R.",
+      "player_key": "hijikata r",
+      "overall_elo": 1486.333,
+      "surface_elo": {
+        "hard": 1490.975
+      },
+      "matches_total": 3,
+      "wins": 1,
+      "losses": 2,
+      "surface_matches": {
+        "hard": 3
+      },
+      "last_match_date": "17.03.26",
+      "last_surface": "hard",
+      "confidence": 0.06
+    },
+    {
       "player_name": "Humbert U.",
       "player_key": "humbert u",
-      "overall_elo": 1486.153,
+      "overall_elo": 1486.186,
       "surface_elo": {
-        "hard": 1488.767
+        "hard": 1488.824
       },
       "matches_total": 1,
       "wins": 0,
@@ -1107,28 +3659,231 @@
       "confidence": 0.02
     },
     {
-      "player_name": "Cui J.",
-      "player_key": "cui j",
-      "overall_elo": 1486.029,
+      "player_name": "Cerundolo F.",
+      "player_key": "cerundolo f",
+      "overall_elo": 1486.063,
       "surface_elo": {
-        "hard": 1488.585
+        "clay": 1500.692,
+        "hard": 1484.714
+      },
+      "matches_total": 4,
+      "wins": 1,
+      "losses": 3,
+      "surface_matches": {
+        "clay": 2,
+        "hard": 2
+      },
+      "last_match_date": "27.03.26",
+      "last_surface": "hard",
+      "confidence": 0.08
+    },
+    {
+      "player_name": "Kecmanovic M.",
+      "player_key": "kecmanovic m",
+      "overall_elo": 1485.818,
+      "surface_elo": {
+        "hard": 1495.554,
+        "clay": 1490.438
+      },
+      "matches_total": 4,
+      "wins": 1,
+      "losses": 3,
+      "surface_matches": {
+        "hard": 3,
+        "clay": 1
+      },
+      "last_match_date": "26.09.25",
+      "last_surface": "hard",
+      "confidence": 0.08
+    },
+    {
+      "player_name": "Gigante M.",
+      "player_key": "gigante m",
+      "overall_elo": 1485.78,
+      "surface_elo": {
+        "clay": 1488.986
       },
       "matches_total": 1,
       "wins": 0,
       "losses": 1,
       "surface_matches": {
-        "hard": 1
+        "clay": 1
       },
-      "last_match_date": "29.04.26",
-      "last_surface": "hard",
+      "last_match_date": "10.05.25",
+      "last_surface": "clay",
       "confidence": 0.02
     },
     {
-      "player_name": "Hsu Y. H.",
-      "player_key": "hsu y h",
-      "overall_elo": 1476.55,
+      "player_name": "Landaluce M.",
+      "player_key": "landaluce m",
+      "overall_elo": 1485.769,
       "surface_elo": {
-        "hard": 1480.737
+        "clay": 1489.156
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "clay": 1
+      },
+      "last_match_date": "23.04.26",
+      "last_surface": "clay",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Jorda Sanchis D.",
+      "player_key": "jorda sanchis d",
+      "overall_elo": 1485.641,
+      "surface_elo": {
+        "grass": 1488.232
+      },
+      "matches_total": 1,
+      "wins": 0,
+      "losses": 1,
+      "surface_matches": {
+        "grass": 1
+      },
+      "last_match_date": "22.06.24",
+      "last_surface": "grass",
+      "confidence": 0.02
+    },
+    {
+      "player_name": "Halys Q.",
+      "player_key": "halys q",
+      "overall_elo": 1484.114,
+      "surface_elo": {
+        "hard": 1492.939,
+        "clay": 1492.2
+      },
+      "matches_total": 4,
+      "wins": 1,
+      "losses": 3,
+      "surface_matches": {
+        "hard": 3,
+        "clay": 1
+      },
+      "last_match_date": "29.05.26",
+      "last_surface": "clay",
+      "confidence": 0.08
+    },
+    {
+      "player_name": "Muller A.",
+      "player_key": "muller a",
+      "overall_elo": 1483.52,
+      "surface_elo": {
+        "hard": 1491.03,
+        "clay": 1491.682
+      },
+      "matches_total": 2,
+      "wins": 0,
+      "losses": 2,
+      "surface_matches": {
+        "hard": 1,
+        "clay": 1
+      },
+      "last_match_date": "27.05.25",
+      "last_surface": "clay",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Damm M.",
+      "player_key": "damm m",
+      "overall_elo": 1483.083,
+      "surface_elo": {
+        "hard": 1491.285,
+        "clay": 1490.814
+      },
+      "matches_total": 2,
+      "wins": 0,
+      "losses": 2,
+      "surface_matches": {
+        "hard": 1,
+        "clay": 1
+      },
+      "last_match_date": "25.04.26",
+      "last_surface": "clay",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Tseng C. H.",
+      "player_key": "tseng c h",
+      "overall_elo": 1482.596,
+      "surface_elo": {
+        "hard": 1491.115,
+        "clay": 1491.329
+      },
+      "matches_total": 2,
+      "wins": 0,
+      "losses": 2,
+      "surface_matches": {
+        "hard": 1,
+        "clay": 1
+      },
+      "last_match_date": "25.07.24",
+      "last_surface": "clay",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Bublik A.",
+      "player_key": "bublik a",
+      "overall_elo": 1481.053,
+      "surface_elo": {
+        "hard": 1490.126,
+        "clay": 1491.621
+      },
+      "matches_total": 2,
+      "wins": 0,
+      "losses": 2,
+      "surface_matches": {
+        "hard": 1,
+        "clay": 1
+      },
+      "last_match_date": "29.04.25",
+      "last_surface": "clay",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Shevchenko A.",
+      "player_key": "shevchenko a",
+      "overall_elo": 1480.785,
+      "surface_elo": {
+        "clay": 1481.919
+      },
+      "matches_total": 2,
+      "wins": 0,
+      "losses": 2,
+      "surface_matches": {
+        "clay": 2
+      },
+      "last_match_date": "28.07.24",
+      "last_surface": "clay",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Carreno-Busta P.",
+      "player_key": "carreno busta p",
+      "overall_elo": 1479.59,
+      "surface_elo": {
+        "hard": 1491.697,
+        "unknown": 1490.008
+      },
+      "matches_total": 2,
+      "wins": 0,
+      "losses": 2,
+      "surface_matches": {
+        "hard": 1,
+        "unknown": 1
+      },
+      "last_match_date": "20.11.25",
+      "last_surface": "unknown",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Norrie C.",
+      "player_key": "norrie c",
+      "overall_elo": 1479.463,
+      "surface_elo": {
+        "hard": 1482.213
       },
       "matches_total": 2,
       "wins": 0,
@@ -1136,16 +3891,247 @@
       "surface_matches": {
         "hard": 2
       },
-      "last_match_date": "13.04.26",
+      "last_match_date": "23.01.26",
+      "last_surface": "hard",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Jodar R.",
+      "player_key": "jodar r",
+      "overall_elo": 1478.79,
+      "surface_elo": {
+        "clay": 1490.288,
+        "hard": 1491.935
+      },
+      "matches_total": 2,
+      "wins": 0,
+      "losses": 2,
+      "surface_matches": {
+        "clay": 1,
+        "hard": 1
+      },
+      "last_match_date": "22.01.26",
+      "last_surface": "hard",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Quinn E.",
+      "player_key": "quinn e",
+      "overall_elo": 1478.638,
+      "surface_elo": {
+        "hard": 1489.221,
+        "clay": 1490.543
+      },
+      "matches_total": 2,
+      "wins": 0,
+      "losses": 2,
+      "surface_matches": {
+        "hard": 1,
+        "clay": 1
+      },
+      "last_match_date": "25.04.25",
+      "last_surface": "clay",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Blockx A.",
+      "player_key": "blockx a",
+      "overall_elo": 1478.583,
+      "surface_elo": {
+        "clay": 1481.084
+      },
+      "matches_total": 2,
+      "wins": 0,
+      "losses": 2,
+      "surface_matches": {
+        "clay": 2
+      },
+      "last_match_date": "10.05.26",
+      "last_surface": "clay",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Jarry N.",
+      "player_key": "jarry n",
+      "overall_elo": 1477.928,
+      "surface_elo": {
+        "hard": 1482.679
+      },
+      "matches_total": 2,
+      "wins": 0,
+      "losses": 2,
+      "surface_matches": {
+        "hard": 2
+      },
+      "last_match_date": "24.08.25",
+      "last_surface": "hard",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Schoolkate T.",
+      "player_key": "schoolkate t",
+      "overall_elo": 1477.463,
+      "surface_elo": {
+        "hard": 1481.623
+      },
+      "matches_total": 2,
+      "wins": 0,
+      "losses": 2,
+      "surface_matches": {
+        "hard": 2
+      },
+      "last_match_date": "16.03.26",
+      "last_surface": "hard",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Sharipov M.",
+      "player_key": "sharipov m",
+      "overall_elo": 1477.219,
+      "surface_elo": {
+        "hard": 1480.65
+      },
+      "matches_total": 2,
+      "wins": 0,
+      "losses": 2,
+      "surface_matches": {
+        "hard": 2
+      },
+      "last_match_date": "30.04.26",
+      "last_surface": "hard",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Bolt A.",
+      "player_key": "bolt a",
+      "overall_elo": 1476.883,
+      "surface_elo": {
+        "hard": 1481.14
+      },
+      "matches_total": 2,
+      "wins": 0,
+      "losses": 2,
+      "surface_matches": {
+        "hard": 2
+      },
+      "last_match_date": "18.04.26",
+      "last_surface": "hard",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Marozsan F.",
+      "player_key": "marozsan f",
+      "overall_elo": 1476.659,
+      "surface_elo": {
+        "clay": 1489.608,
+        "hard": 1490.4
+      },
+      "matches_total": 2,
+      "wins": 0,
+      "losses": 2,
+      "surface_matches": {
+        "clay": 1,
+        "hard": 1
+      },
+      "last_match_date": "16.01.26",
+      "last_surface": "hard",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Medjedovic H.",
+      "player_key": "medjedovic h",
+      "overall_elo": 1475.855,
+      "surface_elo": {
+        "hard": 1489.849,
+        "grass": 1488.917
+      },
+      "matches_total": 2,
+      "wins": 0,
+      "losses": 2,
+      "surface_matches": {
+        "hard": 1,
+        "grass": 1
+      },
+      "last_match_date": "14.06.25",
+      "last_surface": "grass",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Etcheverry T. M.",
+      "player_key": "etcheverry t m",
+      "overall_elo": 1475.385,
+      "surface_elo": {
+        "hard": 1479.885
+      },
+      "matches_total": 2,
+      "wins": 0,
+      "losses": 2,
+      "surface_matches": {
+        "hard": 2
+      },
+      "last_match_date": "15.03.25",
+      "last_surface": "hard",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Baez S.",
+      "player_key": "baez s",
+      "overall_elo": 1475.037,
+      "surface_elo": {
+        "hard": 1480.769
+      },
+      "matches_total": 2,
+      "wins": 0,
+      "losses": 2,
+      "surface_matches": {
+        "hard": 2
+      },
+      "last_match_date": "20.03.26",
+      "last_surface": "hard",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Masur D.",
+      "player_key": "masur d",
+      "overall_elo": 1474.314,
+      "surface_elo": {
+        "grass": 1488.562,
+        "hard": 1490.311
+      },
+      "matches_total": 2,
+      "wins": 0,
+      "losses": 2,
+      "surface_matches": {
+        "grass": 1,
+        "hard": 1
+      },
+      "last_match_date": "29.04.26",
+      "last_surface": "hard",
+      "confidence": 0.04
+    },
+    {
+      "player_name": "Cui J.",
+      "player_key": "cui j",
+      "overall_elo": 1474.298,
+      "surface_elo": {
+        "hard": 1478.765
+      },
+      "matches_total": 2,
+      "wins": 0,
+      "losses": 2,
+      "surface_matches": {
+        "hard": 2
+      },
+      "last_match_date": "29.04.26",
       "last_surface": "hard",
       "confidence": 0.04
     },
     {
       "player_name": "Andrade A.",
       "player_key": "andrade a",
-      "overall_elo": 1476.439,
+      "overall_elo": 1474.101,
       "surface_elo": {
-        "hard": 1480.463
+        "hard": 1480.477
       },
       "matches_total": 2,
       "wins": 0,
@@ -1158,30 +4144,30 @@
       "confidence": 0.04
     },
     {
-      "player_name": "Walton A.",
-      "player_key": "walton a",
-      "overall_elo": 1469.052,
+      "player_name": "Diallo G.",
+      "player_key": "diallo g",
+      "overall_elo": 1468.473,
       "surface_elo": {
-        "unknown": 1490.544,
-        "hard": 1472.455
+        "clay": 1490.712,
+        "hard": 1481.624
       },
-      "matches_total": 55,
-      "wins": 26,
-      "losses": 29,
+      "matches_total": 3,
+      "wins": 0,
+      "losses": 3,
       "surface_matches": {
-        "unknown": 5,
-        "hard": 50
+        "clay": 1,
+        "hard": 2
       },
-      "last_match_date": "30.04.26",
+      "last_match_date": "18.01.26",
       "last_surface": "hard",
-      "confidence": 1.0
+      "confidence": 0.06
     },
     {
       "player_name": "Wu Tung-Lin",
       "player_key": "wu tung lin",
-      "overall_elo": 1463.309,
+      "overall_elo": 1462.603,
       "surface_elo": {
-        "hard": 1469.466
+        "hard": 1469.524
       },
       "matches_total": 3,
       "wins": 0,
@@ -1192,6 +4178,27 @@
       "last_match_date": "30.04.26",
       "last_surface": "hard",
       "confidence": 0.06
+    },
+    {
+      "player_name": "Walton A.",
+      "player_key": "walton a",
+      "overall_elo": 1453.757,
+      "surface_elo": {
+        "clay": 1464.948,
+        "hard": 1474.171,
+        "grass": 1463.293
+      },
+      "matches_total": 77,
+      "wins": 33,
+      "losses": 44,
+      "surface_matches": {
+        "clay": 12,
+        "hard": 50,
+        "grass": 15
+      },
+      "last_match_date": "30.04.26",
+      "last_surface": "hard",
+      "confidence": 1.0
     }
   ]
 }
