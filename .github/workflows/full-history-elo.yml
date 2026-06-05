@@ -1,0 +1,50 @@
+name: Full History ELO Pipeline
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  full-history-elo:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install requirements
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Install Playwright browsers
+        run: python -m playwright install chromium
+
+      - name: Generate history URLs
+        run: python -m tennis_elo.sources.generate_history_urls
+
+      - name: Parse Flashscore history
+        run: python -m tennis_elo.sources.flashscore_history_parser
+
+      - name: Build ELO pipeline
+        run: python -m tennis_elo.run_pipeline
+
+      - name: Commit outputs
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add config/flashscore_urls.txt || true
+          git add data || true
+
+          git commit -m "Update full history ELO pipeline" || echo "No changes to commit"
+          git push
