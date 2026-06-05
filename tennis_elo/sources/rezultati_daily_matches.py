@@ -1,4 +1,3 @@
-import json
 import os
 import re
 from urllib.parse import urlparse, parse_qs
@@ -17,7 +16,7 @@ DEBUG_HTML_FILE = ROOT_DIR / "data" / "reports" / "debug_rezultati_daily_page.ht
 DEBUG_SCREENSHOT_FILE = ROOT_DIR / "data" / "reports" / "debug_rezultati_daily_screenshot.png"
 
 MAX_MATCHES = int(os.getenv("MAX_DAILY_MATCHES", "20"))
-WAIT_MS = int(os.getenv("DAILY_WAIT_MS", "7000"))
+WAIT_MS = int(os.getenv("DAILY_WAIT_MS", "8000"))
 
 INCLUDE_STATUSES = {
     x.strip().lower()
@@ -79,19 +78,13 @@ def extract_mid(url):
 
 
 def slug_to_name(slug):
-    """
-    Converts rough URL slug to a readable fallback player name.
-    Example:
-      mensik-jakub-UFj257G8 -> Mensik Jakub
-      yunchaokete-bu-Qabjt3Y5 -> Yunchaokete Bu
-    """
     slug = clean_str(slug)
     if not slug:
         return ""
 
     parts = [p for p in slug.split("-") if p]
 
-    # Last part is usually Flashscore player id. Remove if it looks like mixed id.
+    # Last token is usually the Flashscore/Rezulati player id.
     if parts and re.search(r"[A-Z0-9]", parts[-1]) and len(parts[-1]) >= 6:
         parts = parts[:-1]
 
@@ -103,10 +96,6 @@ def slug_to_name(slug):
 
 
 def infer_players_from_url(url):
-    """
-    URL pattern:
-    https://www.rezultati.com/utakmica/tenis/player-one-id/player-two-id/?mid=...
-    """
     url = normalize_url(url)
     if not url:
         return "", ""
@@ -114,7 +103,6 @@ def infer_players_from_url(url):
     path = urlparse(url).path.strip("/")
     parts = path.split("/")
 
-    # Expected: utakmica / tenis / player1 / player2
     try:
         idx = parts.index("tenis")
         p1_slug = parts[idx + 1]
@@ -125,58 +113,47 @@ def infer_players_from_url(url):
     return slug_to_name(p1_slug), slug_to_name(p2_slug)
 
 
-def get_status_from_row_text(text):
+def get_status_from_text(text):
     lower = clean_str(text).lower()
 
-    live_markers = [
-        "set ",
-        "live",
-        "uÅ¾ivo",
-        "uzivo",
-        "break",
-    ]
-
-    finished_markers = [
-        "finished",
-        "kraj",
-        "nakon predaje",
-        "retired",
-        "walkover",
-    ]
-
-    if any(x in lower for x in finished_markers):
+    if any(x in lower for x in ["finished", "kraj", "retired", "walkover", "predaja"]):
         return "finished"
 
-    if any(x in lower for x in live_markers):
+    if any(x in lower for x in ["set ", "uÅ¾ivo", "uzivo", "live", "break"]):
         return "live"
 
-    # If row contains time pattern, treat as scheduled.
     if re.search(r"\b\d{1,2}:\d{2}\b", lower):
         return "scheduled"
 
     return "scheduled"
 
 
-def collect_match_links(page):
-    page.goto(DAILY_URL, wait_until="domcontentloaded", timeout=45000)
-    page.wait_for_timeout(WAIT_MS)
-
-    # Try click cookie buttons if visible.
-    for text in ["I accept", "Accept", "PrihvaÄam", "SlaÅ¾em se", "OK"]:
+def accept_cookies(page):
+    for text in [
+        "I accept",
+        "Accept",
+        "Accept all",
+        "PrihvaÄam",
+        "Prihvati",
+        "SlaÅ¾em se",
+        "OK",
+    ]:
         try:
             locator = page.get_by_text(text, exact=False).first
             if locator.count() > 0 and locator.is_visible(timeout=1000):
-                locator.click(timeout=2000)
+                locator.click(timeout=2500)
                 page.wait_for_timeout(1000)
-                break
+                return
         except Exception:
             pass
 
+
+def save_debug(page):
     html = page.content()
-    body_text = page.locator("body").inner_text(timeout=10000)
+    text = page.locator("body").inner_text(timeout=10000)
 
     ensure_parent(DEBUG_TEXT_FILE)
-    save_text(DEBUG_TEXT_FILE, body_text)
+    save_text(DEBUG_TEXT_FILE, text)
     save_text(DEBUG_HTML_FILE, html)
 
     try:
@@ -184,65 +161,173 @@ def collect_match_links(page):
     except Exception:
         pass
 
-    if any(block_text in body_text for block_text in BLOCK_TEXTS):
-        return [], True, "rezultati error page / blocked"
+    return text
 
+
+def row_to_match_from_url(url, row_text="", source="rezultati_daily"):
+    url = normalize_url(url)
+    if not url:
+        return None
+
+    p1, p2 = infer_players_from_url(url)
+    status = get_status_from_text(row_text)
+
+    if INCLUDE_STATUSES and status.lower() not in INCLUDE_STATUSES:
+        return None
+
+    return {
+        "match": f"{p1} - {p2}" if p1 and p2 else "",
+        "match_url": url,
+        "date": "",
+        "status": status,
+        "tour_level": "",
+        "gender": "",
+        "tournament": "",
+        "country": "",
+        "surface": "",
+        "player_1": p1,
+        "player_2": p2,
+        "source": source,
+        "source_match_id": extract_mid(url),
+        "raw_parent_text": clean_str(row_text),
+    }
+
+
+def collect_anchor_links(page):
+    """
+    First try normal <a href> links.
+    Some builds expose match links directly.
+    """
     links_payload = page.locator("a").evaluate_all(
         """
         els => els.map(a => {
           const href = a.href || "";
           let text = "";
-          try {
-            text = a.innerText || "";
-          } catch (e) {
-            text = "";
-          }
+          try { text = a.innerText || ""; } catch (e) {}
           let parentText = "";
           try {
-            let p = a.closest('[class*="event__match"], [class*="event__participant"], [class*="eventRow"], [id^="g_"]');
+            const p = a.closest('[id^="g_"], [class*="event__match"], [class*="eventRow"], [class*="sportName"]');
             parentText = p ? p.innerText : "";
-          } catch (e) {
-            parentText = "";
-          }
+          } catch (e) {}
           return {href, text, parentText};
         }).filter(x => x.href)
         """
     )
 
-    by_url = {}
+    out = {}
 
     for item in links_payload:
-        url = normalize_url(item.get("href"))
-        if not url:
+        match = row_to_match_from_url(
+            item.get("href"),
+            row_text=item.get("parentText") or item.get("text"),
+            source="rezultati_daily_anchor",
+        )
+        if not match:
+            continue
+        out[match["match_url"]] = match
+
+    return out
+
+
+def collect_clickable_rows(page):
+    """
+    Rezulati/Flashscore often uses clickable div rows without <a href>.
+    Rows normally have ids like g_2_2FOmfoWO.
+    We click rows one by one, read the resulting URL, then go back.
+    """
+    rows = page.locator('[id^="g_2_"]')
+    count = 0
+
+    try:
+        count = rows.count()
+    except Exception:
+        count = 0
+
+    collected = {}
+    max_clicks = min(count, MAX_MATCHES * 4)
+
+    for idx in range(max_clicks):
+        if len(collected) >= MAX_MATCHES:
+            break
+
+        try:
+            # Re-query every loop because DOM can be rebuilt after back navigation.
+            rows = page.locator('[id^="g_2_"]')
+            row = rows.nth(idx)
+
+            row_text = ""
+            try:
+                row_text = row.inner_text(timeout=2000)
+            except Exception:
+                row_text = ""
+
+            status = get_status_from_text(row_text)
+            if INCLUDE_STATUSES and status.lower() not in INCLUDE_STATUSES:
+                continue
+
+            before_url = page.url
+
+            try:
+                row.scroll_into_view_if_needed(timeout=3000)
+            except Exception:
+                pass
+
+            row.click(timeout=5000)
+            page.wait_for_timeout(2500)
+
+            after_url = normalize_url(page.url)
+
+            if after_url:
+                match = row_to_match_from_url(
+                    after_url,
+                    row_text=row_text,
+                    source="rezultati_daily_click",
+                )
+                if match:
+                    collected[match["match_url"]] = match
+
+            # Return to daily page.
+            try:
+                page.go_back(wait_until="domcontentloaded", timeout=15000)
+                page.wait_for_timeout(1500)
+            except Exception:
+                page.goto(before_url or DAILY_URL, wait_until="domcontentloaded", timeout=30000)
+                page.wait_for_timeout(2500)
+
+        except Exception:
+            try:
+                page.goto(DAILY_URL, wait_until="domcontentloaded", timeout=30000)
+                page.wait_for_timeout(2500)
+            except Exception:
+                pass
             continue
 
-        p1, p2 = infer_players_from_url(url)
-        status = get_status_from_row_text(item.get("parentText") or item.get("text"))
+    return collected
 
-        if INCLUDE_STATUSES and status.lower() not in INCLUDE_STATUSES:
-            continue
 
-        by_url[url] = {
-            "match": f"{p1} - {p2}" if p1 and p2 else "",
-            "match_url": url,
-            "date": "",
-            "status": status,
-            "tour_level": "",
-            "gender": "",
-            "tournament": "",
-            "country": "",
-            "surface": "",
-            "player_1": p1,
-            "player_2": p2,
-            "source": "rezultati_daily",
-            "source_match_id": extract_mid(url),
-            "raw_link_text": clean_str(item.get("text")),
-            "raw_parent_text": clean_str(item.get("parentText")),
-        }
+def collect_match_links(page):
+    page.goto(DAILY_URL, wait_until="domcontentloaded", timeout=45000)
+    page.wait_for_timeout(WAIT_MS)
+    accept_cookies(page)
+    page.wait_for_timeout(1500)
+
+    body_text = save_debug(page)
+
+    if any(block_text in body_text for block_text in BLOCK_TEXTS):
+        return [], True, "rezultati error page / blocked"
+
+    by_url = {}
+
+    # Method 1: direct anchors.
+    by_url.update(collect_anchor_links(page))
+
+    # Method 2: clickable event rows.
+    if len(by_url) < MAX_MATCHES:
+        clicked = collect_clickable_rows(page)
+        by_url.update(clicked)
 
     matches = list(by_url.values())
 
-    # Prefer rows with player names.
     matches.sort(
         key=lambda r: (
             0 if r.get("player_1") and r.get("player_2") else 1,
