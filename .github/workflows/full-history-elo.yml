@@ -32,7 +32,7 @@ jobs:
       - name: Import Tennis-Machine matches
         env:
           MAX_TENNIS_MACHINE_MATCHES: "5"
-          TM_MATCHES_URL: "https://raw.githubusercontent.com/jakobm121/Tennis-Machine/main/tennis_machine/data/processed/flashscore_matches.json"
+          TM_MATCHES_URL: "https://raw.githubusercontent.com/jakobm121/Tennis-Machine/refs/heads/main/tennis_machine/data/processed/flashscore_matches.json"
         run: python -m tennis_elo.sources.import_tennis_machine_matches
 
       - name: Generate history URLs
