@@ -1,15 +1,15 @@
-name: Tennis Machine
+name: Full History ELO Pipeline
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "0 */6 * * *"
 
 permissions:
   contents: write
 
 jobs:
-  run-tennis-machine:
+  full-history-elo:
     runs-on: ubuntu-latest
 
     steps:
@@ -29,31 +29,23 @@ jobs:
       - name: Install Playwright browsers
         run: python -m playwright install chromium
 
-      - name: Run tennis machine pipeline
-        run: python -m tennis_machine.run_pipeline
+      - name: Generate history URLs
+        run: python -m tennis_elo.sources.generate_history_urls
 
-      - name: Enrich match URLs
-        run: python -m tennis_machine.enrich_match_urls
+      - name: Parse Flashscore history
+        run: python -m tennis_elo.sources.flashscore_history_parser
 
-      - name: Run match watchlist
-        run: python -m tennis_machine.decisions.match_watchlist
+      - name: Build ELO pipeline
+        run: python -m tennis_elo.run_pipeline
 
-      - name: Run Flashscore odds parser
-        run: python -m tennis_machine.odds.flashscore_odds_parser
-
-      - name: Commit updated data
+      - name: Commit outputs
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git add tennis_machine/data/processed || true
-          git add tennis_machine/data/warehouse || true
-          git add tennis_machine/data/signals || true
-          git add tennis_machine/data/decisions || true
-          git add tennis_machine/data/odds || true
-          git add tennis_machine/reports || true
-          git add tennis_machine/data/reports || true
-          git add tennis_machine/config || true
+          git add config/flashscore_urls.txt || true
+          git add data || true
+          git add tennis_elo || true
 
-          git commit -m "Update tennis machine data" || echo "No changes to commit"
+          git commit -m "Update full history ELO pipeline" || echo "No changes to commit"
           git push
