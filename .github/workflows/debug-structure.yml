@@ -1,0 +1,26 @@
+name: Debug Tennis Machine Structure
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  debug:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Show files
+        run: |
+          echo "ROOT:"
+          ls -la
+          echo ""
+          echo "tennis_machine:"
+          find tennis_machine -maxdepth 3 -type f | sort || true
+          echo ""
+          echo "Python modules:"
+          find tennis_machine -name "*.py" | sort || true
