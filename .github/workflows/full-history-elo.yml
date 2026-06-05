@@ -29,10 +29,15 @@ jobs:
       - name: Install Playwright browsers
         run: python -m playwright install chromium
 
+      - name: Parse daily matches
+        env:
+          MAX_DAILY_MATCHES: "10"
+        run: python -m tennis_elo.sources.rezultati_daily_matches
+
       - name: Generate history URLs
         run: python -m tennis_elo.sources.generate_history_urls
 
-      - name: Parse Flashscore history
+      - name: Parse player history
         run: python -m tennis_elo.sources.flashscore_history_parser
 
       - name: Build ELO pipeline
