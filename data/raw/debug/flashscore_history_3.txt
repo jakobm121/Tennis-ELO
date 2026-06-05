@@ -53,20 +53,6 @@ Wu Tung-Lin
 2
 1
 P
-28.05.26
-FO
-Svajda Z.
-Walton A.
-3
-1
-I
-26.05.26
-FO
-Walton A.
-Medvedev D.
-3
-2
-P
 08.05.26
 WUX
 Walton A.
@@ -123,20 +109,6 @@ Cui J.
 2
 0
 P
-25.04.26
-MAD
-Khachanov K.
-Walton A.
-2
-0
-I
-23.04.26
-MAD
-Landaluce M.
-Walton A.
-0
-2
-P
 17.04.26
 BUS
 Bu Y.
@@ -158,13 +130,6 @@ Walton A.
 1
 2
 P
-01.04.26
-HOU
-Burruchaga R. A.
-Walton A.
-2
-0
-I
 24.03.26
 MOR
 Pavlovic L.
@@ -389,6 +354,41 @@ Korda S.
 0
 2
 I
+28.08.25
+USO
+Walton A.
+Wong C.
+1
+3
+I
+25.08.25
+USO
+Humbert U.
+Walton A.
+1
+3
+P
+17.08.25
+WIN
+Van De Zandschulp B.
+Walton A.
+2
+1
+I
+12.08.25
+CIN
+Lehecka J.
+Walton A.
+2
+0
+I
+10.08.25
+CIN
+Walton A.
+Medvedev D.
+2
+1
+P
 POSLJEDNJI MEČEVI: LEGOUT T.
 04.06.26
 TYL
@@ -453,34 +453,6 @@ Legout T.
 2
 0
 I
-17.06.25
-DUF
-Forger A.
-Legout T.
-1
-0
-I
-10.06.25
-LYO
-Legout T.
-Poullain L.
-0
-2
-I
-09.06.25
-LYO
-Legout T.
-Damas M.
-2
-1
-P
-08.06.25
-LYO
-Cachin P.
-Legout T.
-1
-2
-P
 21.09.24
 FAY
 Legout T.
@@ -528,6 +500,34 @@ ROG
 Ghazouani Durand Y.
 Legout T.
 0
+2
+P
+25.07.24
+ROG
+Dalmasso G.
+Legout T.
+1
+2
+P
+24.07.24
+ROG
+Mercier B.
+Legout T.
+0
+2
+P
+17.03.24
+BAK
+Legout T.
+Holt B.
+0
+2
+I
+16.03.24
+BAK
+Wu Tung-Lin
+Legout T.
+1
 2
 P
 Prikaži još mečeva

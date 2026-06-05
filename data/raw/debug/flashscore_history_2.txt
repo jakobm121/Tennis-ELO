@@ -39,20 +39,6 @@ TRAVA
 TVRDA PODLOGA
 ZEMLJA
 POSLJEDNJI MEČEVI: WALTON A.
-05.06.26
-TYL
-Walton A.
-Martin A.
-2
-0
-P
-03.06.26
-TYL
-Walton A.
-Wu Tung-Lin
-2
-1
-P
 28.05.26
 FO
 Svajda Z.
@@ -66,62 +52,6 @@ Walton A.
 Medvedev D.
 3
 2
-P
-08.05.26
-WUX
-Walton A.
-Bu Y.
-0
-2
-I
-07.05.26
-WUX
-Walton A.
-McCabe J.
-2
-0
-P
-05.05.26
-WUX
-Walton A.
-Hsu Y. H.
-2
-0
-P
-03.05.26
-JIU
-Walton A.
-Wong C.
-0
-2
-I
-02.05.26
-JIU
-Bolt A.
-Walton A.
-1
-2
-P
-01.05.26
-JIU
-Walton A.
-Galarneau A.
-2
-1
-P
-30.04.26
-JIU
-Walton A.
-Wu Tung-Lin
-2
-1
-P
-29.04.26
-JIU
-Walton A.
-Cui J.
-2
-0
 P
 25.04.26
 MAD
@@ -137,27 +67,6 @@ Walton A.
 0
 2
 P
-17.04.26
-BUS
-Bu Y.
-Walton A.
-2
-0
-I
-15.04.26
-BUS
-Trotter J. K.
-Walton A.
-1
-2
-P
-13.04.26
-BUS
-Hsu Y. H.
-Walton A.
-1
-2
-P
 01.04.26
 HOU
 Burruchaga R. A.
@@ -165,294 +74,56 @@ Walton A.
 2
 0
 I
-24.03.26
-MOR
-Pavlovic L.
-Walton A.
-2
-0
-I
-21.03.26
-MIA
-Walton A.
-Mensik J.
-1
-2
-I
-20.03.26
-MIA
-Walton A.
-Baez S.
-2
-0
-P
-17.03.26
-MIA
-Walton A.
-Hijikata R.
-2
-1
-P
-17.03.26
-MIA
-Walton A.
-Rodesch C.
-2
-0
-P
-14.03.26
-CAP
-Walton A.
-Bellucci M.
-0
-2
-I
-13.03.26
-CAP
-Kecmanovic M.
-Walton A.
-1
-2
-P
-12.03.26
-CAP
-Andrade A.
-Walton A.
-0
-2
-P
-10.03.26
-CAP
-Jarry N.
-Walton A.
-0
-2
-P
-06.03.26
-IND
-Walton A.
-Tien L.
-0
-2
-I
-04.03.26
-IND
-Halys Q.
-Walton A.
-0
-2
-P
-24.02.26
-ACA
-Walton A.
-Kovacevic A.
-0
-2
-I
-20.02.26
-DEL
-Walton A.
-Paul T.
-0
-2
-I
-17.02.26
-DEL
-Walton A.
-Diallo G.
-2
-0
-P
-15.02.26
-DEL
-Walton A.
-Shimabukuro S.
-0
-2
-I
-14.02.26
-DEL
-Walton A.
-Moreno De Alboran N.
-2
-1
-P
-11.02.26
-DAL
-Walton A.
-Mannarino A.
-0
-2
-I
-03.02.26
-BRI
-Walton A.
-Nakagawa N.
-1
-2
-I
-18.01.26
-AO
-Alcaraz C.
+29.05.25
+FO
+Rublev A.
 Walton A.
 3
 0
 I
-12.01.26
-ADE
+27.05.25
+FO
+Marterer M.
 Walton A.
-Halys Q.
-0
 2
-I
-11.01.26
-ADE
-Walton A.
-Delaney Ja.
-2
-1
+3
 P
-06.01.26
-BRI
-Hijikata R.
+04.04.25
+HOU
 Walton A.
-2
-0
-I
-02.11.25
-ATH
-Tabilo A.
-Walton A.
-2
-1
-I
-25.10.25
-PAR
-Vukic A.
-Walton A.
-2
-1
-I
-18.10.25
-BAS
-Čilić M.
-Walton A.
-2
-0
-I
-16.10.25
-ALM
-Walton A.
-Medvedev D.
+Tiafoe F.
 0
 2
 I
-14.10.25
-ALM
-Schoolkate T.
+01.04.25
+HOU
+Mmoh M.
 Walton A.
-1
+0
 2
 P
-09.10.25
-JIN
-Holt B.
+28.05.24
+FO
+Rinderknech A.
+Walton A.
+3
+0
+I
+02.04.24
+MEX
+Galarneau A.
 Walton A.
 2
 0
 I
-07.10.25
-JIN
-Sun F.
+04.04.23
+LUI
+Reis Da Silva J.
 Walton A.
+2
 1
-2
-P
-01.10.25
-SHA
-Walton A.
-Bellucci M.
-0
-2
-I
-22.09.25
-TOK
-Sakamoto R.
-Walton A.
-2
-0
-I
-19.09.25
-HAN
-Walton A.
-Korda S.
-0
-2
 I
 POSLJEDNJI MEČEVI: LEGOUT T.
-04.06.26
-TYL
-Ardila L.
-Legout T.
-0
-2
-P
-03.06.26
-TYL
-Legout T.
-Andrade A.
-2
-0
-P
-27.05.26
-LIT
-Mmoh M.
-Legout T.
-2
-0
-I
-26.05.26
-LIT
-Moriya H.
-Legout T.
-0
-2
-P
-25.04.26
-XAL
-Legout T.
-Pacheco Mendez R.
-0
-2
-I
-24.04.26
-XAL
-McKennon M.
-Legout T.
-1
-2
-P
-22.04.26
-XAL
-Legout T.
-Nolan W.
-2
-0
-P
-07.01.26
-HAZ
-Kouame M.
-Legout T.
-1
-1
-I
-17.09.25
-FAY
-Alvarez Valdes L. C.
-Legout T.
-2
-0
-I
 17.06.25
 DUF
 Forger A.
@@ -481,56 +152,327 @@ Legout T.
 1
 2
 P
-21.09.24
-FAY
+21.07.24
+M15
 Legout T.
-Sanchez Martinez B.
+Dussin L.
+2
+0
+P
+20.07.24
+M15
+Bilardo J.
+Legout T.
+0
+2
+P
+19.07.24
+M15
+Bouquet L.
+Legout T.
+0
+2
+P
+18.07.24
+M15
+Tessa L.
+Legout T.
+0
+2
+P
+17.07.24
+M15
+Pel S.
+Legout T.
+0
+2
+P
+10.07.24
+HAG
+Legout T.
+Houkes M.
 0
 2
 I
-20.09.24
-FAY
+27.06.24
+BRU
 Legout T.
-Jovanovic P.
+Van Der Meerschen M.
+0
+2
+I
+25.06.24
+BRU
+Colson T.
+Legout T.
+0
+2
+P
+19.06.24
+DUF
+Legout T.
+Huens H.
+0
+2
+I
+13.06.24
+VIL
+Vatutin A.
+Legout T.
+2
+0
+I
+12.06.24
+VIL
+Sadaoui M.
+Legout T.
+0
+2
+P
+11.06.24
+VIL
+Legout T.
+Kivattsev K.
+0
+0
+P
+25.08.23
+LES
+Carboni L.
+Legout T.
+2
+0
+I
+24.08.23
+LES
+Baroni N.
+Legout T.
+0
+2
+P
+23.08.23
+LES
+Pennaforti G.
+Legout T.
+0
+2
+P
+20.08.23
+KOK
+Den Ouden G.
+Legout T.
+2
+0
+I
+19.08.23
+KOK
+Legout T.
+Jahn J.
 2
 1
 P
-19.09.24
-FAY
+18.08.23
+KOK
 Legout T.
-Becroft I.
-2
-0
+Kestelboim M.
+-
 P
-18.09.24
-FAY
+17.08.23
+KOK
 Legout T.
-Sheldon M.
+Pontjodikromo S.
 2
-0
+1
 P
-28.07.24
-ROG
-Rossi L.
+15.08.23
+KOK
+Legout T.
+Bailly P. Y.
+2
+1
+P
+11.07.23
+URI
+Legout T.
+Aubriot A.
+0
+2
+I
+02.07.23
+KAR
+Bielinskyi V.
+Legout T.
+2
+1
+I
+01.06.23
+CAR
+Bourgue M.
+Legout T.
+1
+1
+I
+31.05.23
+CAR
+Seateun N.
+Legout T.
+0
+2
+P
+29.05.23
+CAR
+Bouquier A.
+Legout T.
+1
+2
+P
+19.05.23
+KUR
+Erhard M.
 Legout T.
 2
 0
 I
-27.07.24
-ROG
-Aubriot A.
+18.05.23
+KUR
+Tiurnev E.
 Legout T.
 0
 2
 P
-26.07.24
-ROG
-Ghazouani Durand Y.
+16.05.23
+KUR
+Pogosian S.
 Legout T.
 0
 2
 P
-Prikaži još mečeva
+11.05.23
+KUR
+Legout T.
+Ivanovski K.
+1
+2
+I
+10.05.23
+KUR
+Legout T.
+Haliak M.
+2
+0
+P
+20.04.23
+ANG
+Legout T.
+Delage P.
+0
+2
+I
+19.04.23
+ANG
+Legout T.
+Martinez M.
+2
+1
+P
+08.04.23
+SAN
+Michalski D.
+Legout T.
+2
+0
+I
+07.04.23
+SAN
+Ferrari G.
+Legout T.
+0
+2
+P
+06.04.23
+SAN
+Legout T.
+Andaloro F.
+2
+0
+P
+05.04.23
+SAN
+Legout T.
+Sakellaridis S.
+0
+0
+P
+04.04.23
+SAN
+Legout T.
+Martinez M. N.
+2
+0
+P
+21.03.23
+PAL
+Gill F.
+Legout T.
+2
+0
+I
+15.03.23
+PAL
+Barranco Cosano J.
+Legout T.
+2
+1
+I
+05.08.22
+AGA
+Navone M.
+Legout T.
+2
+1
+I
+04.08.22
+AGA
+Palovic L.
+Legout T.
+0
+2
+P
+03.08.22
+AGA
+Stable R.
+Legout T.
+0
+2
+P
+21.07.22
+ESC
+Legout T.
+Fanselow S.
+1
+2
+I
+20.07.22
+ESC
+Calzi R.
+Legout T.
+1
+2
+P
+16.07.22
+URI
+Mpetshi Perricard G.
+Legout T.
+2
+0
+I
+15.07.22
+URI
+Bouquet L.
+Legout T.
+0
+2
+P
 MEĐUSOBNI MEČEVI
 Nema igara u tijeku.
 PRIKVAČENE LIGE
@@ -568,7 +510,76 @@ Heilbronn Challenger Muškarci
 Perugia Challenger Muškarci
 Prostejov Challenger Muškarci
 Tyler Challenger Muškarci
-Prikaži više (70)
+Birmingham Challenger Žene
+Foggia Challenger Žene
+Makarska Challenger Žene
+Birmingham Challenger Muškarci
+Centurion 2 Challenger Muškarci
+Heilbronn Challenger Muškarci
+Perugia Challenger Muškarci
+Prostejov Challenger Muškarci
+Tyler Challenger Muškarci
+Birmingham Challenger Žene
+Foggia Challenger Žene
+Makarska Challenger Žene
+ITF M15 Harmon Muškarci
+ITF M15 Kayseri 3 Muškarci
+ITF M15 Kursumlijska Banja 3 Muškarci
+ITF M15 Lakewood, CA 2 Muškarci
+ITF M15 Luan 3 Muškarci
+ITF M15 Ljubljana Muškarci
+ITF M15 Monastir 21 Muškarci
+ITF M15 Rosbach Muškarci
+ITF M15 Szentendre Muškarci
+ITF M15 Tsaghkadzor 2 Muškarci
+ITF M25 Bistrita Muškarci
+ITF M25 Caltanissetta Muškarci
+ITF M25 Cuiaba Muškarci
+ITF W100 Sumter, SC Žene
+ITF W15 Banja Luka Žene
+ITF W15 Brasilia Žene
+ITF W15 Casablanca Žene
+ITF W15 Focsani Žene
+ITF W15 Kayseri 3 Žene
+ITF W15 Kursumlijska Banja 3 Žene
+ITF W15 Lakewood, CA 2 Žene
+ITF W15 Monastir 16 Žene
+ITF W15 Ontinyent Žene
+ITF W15 Osijek Žene
+ITF W50 Montemor-o-Novo Žene
+ITF W50 Wuning Žene
+ITF W75 Caserta Žene
+ITF M15 Harmon Muškarci
+ITF M15 Kayseri 3 Muškarci
+ITF M15 Kursumlijska Banja 3 Muškarci
+ITF M15 Lakewood, CA 2 Muškarci
+ITF M15 Luan 3 Muškarci
+ITF M15 Ljubljana Muškarci
+ITF M15 Monastir 21 Muškarci
+ITF M15 Rosbach Muškarci
+ITF M15 Szentendre Muškarci
+ITF M15 Tsaghkadzor 2 Muškarci
+ITF M25 Bistrita Muškarci
+ITF M25 Caltanissetta Muškarci
+ITF M25 Cuiaba Muškarci
+ITF W100 Sumter, SC Žene
+ITF W15 Banja Luka Žene
+ITF W15 Brasilia Žene
+ITF W15 Casablanca Žene
+ITF W15 Focsani Žene
+ITF W15 Kayseri 3 Žene
+ITF W15 Kursumlijska Banja 3 Žene
+ITF W15 Lakewood, CA 2 Žene
+ITF W15 Monastir 16 Žene
+ITF W15 Ontinyent Žene
+ITF W15 Osijek Žene
+ITF W50 Montemor-o-Novo Žene
+ITF W50 Wuning Žene
+ITF W75 Caserta Žene
+Juniori French Open
+Juniorke French Open
+Juniori French Open
+Juniorke French Open
 KATEGORIJE
 ATP - singl
 WTA - singl
