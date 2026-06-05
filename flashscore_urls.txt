@@ -1,0 +1,3 @@
+# Add Flashscore match/player/H2H URLs here, one per line.
+# Example:
+# https://www.flashscore.com/match/tennis/example/#/h2h/overall
