@@ -1,6 +1,6 @@
 import json
 import os
-import re
+from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
 
 from tennis_elo.config import ROOT_DIR
@@ -10,15 +10,14 @@ from tennis_elo.utils import now_iso, save_json, clean_str
 OUTPUT_FILE = ROOT_DIR / "data" / "input" / "matches_today.json"
 REPORT_FILE = ROOT_DIR / "data" / "reports" / "import_tennis_machine_matches_report.json"
 
-DEFAULT_TENNIS_MACHINE_RAW_URL = (
-    "https://raw.githubusercontent.com/jakobm121/Tennis-Machine/refs/heads/main/"
-    "tennis_machine/data/processed/flashscore_matches.json"
-)
+# We try multiple forms because GitHub raw URLs can differ depending on branch/path.
+DEFAULT_TENNIS_MACHINE_URLS = [
+    "https://raw.githubusercontent.com/jakobm121/Tennis-Machine/refs/heads/main/tennis_machine/data/processed/flashscore_matches.json",
+    "https://raw.githubusercontent.com/jakobm121/Tennis-Machine/main/tennis_machine/data/processed/flashscore_matches.json",
+]
 
-# Conservative default. Raise later when parser/rate is stable.
 MAX_MATCHES = int(os.getenv("MAX_TENNIS_MACHINE_MATCHES", "10"))
 
-# Optional filters.
 INCLUDE_STATUSES = {
     x.strip().lower()
     for x in os.getenv("TM_INCLUDE_STATUSES", "scheduled,live").split(",")
@@ -31,7 +30,6 @@ INCLUDE_TOUR_LEVELS = {
     if x.strip()
 }
 
-# Prefer matches that matter for our model expansion.
 PRIORITY_TOUR_LEVELS = {
     "atp": 100,
     "wta": 95,
@@ -66,27 +64,90 @@ def load_json_from_file(path):
         return json.load(f)
 
 
+def try_load_url(url):
+    try:
+        payload = load_json_from_url(url)
+        return payload, ""
+    except HTTPError as e:
+        return None, f"HTTP {e.code}: {e.reason}"
+    except URLError as e:
+        return None, f"URL error: {e.reason}"
+    except Exception as e:
+        return None, f"{type(e).__name__}: {e}"
+
+
+def load_existing_matches_today_if_any():
+    if not OUTPUT_FILE.exists():
+        return None
+
+    try:
+        payload = load_json_from_file(OUTPUT_FILE)
+        rows = rows_from_payload(payload)
+        if rows:
+            return payload
+    except Exception:
+        return None
+
+    return None
+
+
 def load_tennis_machine_payload():
     """
     Sources, in order:
 
     1. TM_MATCHES_LOCAL_FILE env var
-       Example:
-       TM_MATCHES_LOCAL_FILE=data/external/flashscore_matches.json
-
     2. TM_MATCHES_URL env var
-
-    3. Default raw GitHub Tennis-Machine processed matches file.
+    3. Built-in GitHub raw URL candidates
+    4. Existing data/input/matches_today.json as fallback, so pipeline does not die
     """
+    attempts = []
+
     local_file = clean_str(os.getenv("TM_MATCHES_LOCAL_FILE"))
-
     if local_file:
-        payload = load_json_from_file(local_file)
-        return payload, local_file
+        try:
+            payload = load_json_from_file(local_file)
+            return payload, local_file, attempts
+        except Exception as e:
+            attempts.append({
+                "source": local_file,
+                "ok": False,
+                "error": f"{type(e).__name__}: {e}",
+            })
 
-    url = clean_str(os.getenv("TM_MATCHES_URL")) or DEFAULT_TENNIS_MACHINE_RAW_URL
-    payload = load_json_from_url(url)
-    return payload, url
+    env_url = clean_str(os.getenv("TM_MATCHES_URL"))
+    urls = []
+
+    if env_url:
+        urls.append(env_url)
+
+    for url in DEFAULT_TENNIS_MACHINE_URLS:
+        if url not in urls:
+            urls.append(url)
+
+    for url in urls:
+        payload, error = try_load_url(url)
+        attempts.append({
+            "source": url,
+            "ok": payload is not None,
+            "error": error,
+        })
+
+        if payload is not None:
+            return payload, url, attempts
+
+    fallback = load_existing_matches_today_if_any()
+    if fallback is not None:
+        attempts.append({
+            "source": str(OUTPUT_FILE),
+            "ok": True,
+            "error": "used existing matches_today.json fallback",
+        })
+        return fallback, str(OUTPUT_FILE), attempts
+
+    raise RuntimeError(
+        "Could not load Tennis-Machine matches from any URL and no existing "
+        "data/input/matches_today.json fallback was available. See report attempts."
+    )
 
 
 def rows_from_payload(payload):
@@ -103,27 +164,23 @@ def rows_from_payload(payload):
 
 
 def normalize_rezultati_url(url):
-    """
-    Our history parser is proven on rezultati.com /utakmica/tenis/... URLs.
-
-    Tennis-Machine may output flashscore.com URLs.
-    Most URL path structure is compatible enough that replacing host and route words works
-    for our generated history URL approach.
-    """
     url = clean_str(url)
 
     if not url:
         return ""
 
-    # Remove hash routes.
     url = url.split("#", 1)[0]
 
-    # Convert Flashscore match URL into Rezultati-style URL if needed.
     if "flashscore.com/match/tennis/" in url:
-        url = url.replace("https://www.flashscore.com/match/tennis/", "https://www.rezultati.com/utakmica/tenis/")
-        url = url.replace("http://www.flashscore.com/match/tennis/", "https://www.rezultati.com/utakmica/tenis/")
+        url = url.replace(
+            "https://www.flashscore.com/match/tennis/",
+            "https://www.rezultati.com/utakmica/tenis/",
+        )
+        url = url.replace(
+            "http://www.flashscore.com/match/tennis/",
+            "https://www.rezultati.com/utakmica/tenis/",
+        )
 
-    # Keep already-good rezultati URL.
     if "rezultati.com/utakmica/tenis/" in url:
         return url
 
@@ -145,12 +202,10 @@ def get_match_url(row):
         if value:
             return value
 
-    # source_url is often just homepage. Use only if it is a real match URL.
     value = normalize_rezultati_url(row.get("source_url"))
     if value:
         return value
 
-    # odds_url may be available and usually contains the match path.
     value = normalize_rezultati_url(row.get("odds_url"))
     if value:
         return value
@@ -162,17 +217,19 @@ def is_singles_match(row):
     if not isinstance(row, dict):
         return False
 
+    event_type = clean_str(row.get("event_type")).lower()
+    if event_type and event_type != "singles":
+        return False
+
     match_name = clean_str(row.get("match"))
     player_1 = clean_str(row.get("player_1"))
     player_2 = clean_str(row.get("player_2"))
 
-    # Doubles usually contain slash.
     joined = f"{match_name} {player_1} {player_2}"
     if "/" in joined:
         return False
 
     if not player_1 or not player_2:
-        # If match field exists with separator, allow.
         if " - " not in match_name:
             return False
 
@@ -187,11 +244,9 @@ def row_priority(row):
     score += PRIORITY_STATUSES.get(status, 0)
     score += PRIORITY_TOUR_LEVELS.get(tour, 50)
 
-    # Prefer rows with match URL.
     if get_match_url(row):
         score += 1000
 
-    # Prefer today's relevant surfaces, but do not exclude unknown.
     surface = clean_str(row.get("surface")).lower()
     if surface in {"clay", "hard", "grass"}:
         score += 25
@@ -226,12 +281,65 @@ def convert_row(row):
     }
 
 
+def write_empty_output(source, attempts, skipped):
+    output = {
+        "generated_at": now_iso(),
+        "source_file": source,
+        "max_matches": MAX_MATCHES,
+        "matches": [],
+    }
+
+    report = {
+        "generated_at": now_iso(),
+        "source_file": source,
+        "output_file": str(OUTPUT_FILE),
+        "settings": {
+            "max_matches": MAX_MATCHES,
+            "include_statuses": sorted(INCLUDE_STATUSES),
+            "include_tour_levels": sorted(INCLUDE_TOUR_LEVELS),
+        },
+        "counts": {
+            "source_rows": 0,
+            "candidates": 0,
+            "selected": 0,
+            "skipped": len(skipped),
+        },
+        "attempts": attempts,
+        "selected": [],
+        "skipped": skipped[:300],
+        "note": (
+            "No matches selected. If Tennis-Machine JSON has no match_url/odds_url, "
+            "update Tennis-Machine parser to save match_url."
+        ),
+    }
+
+    save_json(OUTPUT_FILE, output)
+    save_json(REPORT_FILE, report)
+
+
 def main():
-    payload, source = load_tennis_machine_payload()
+    attempts = []
+    skipped = []
+
+    try:
+        payload, source, attempts = load_tennis_machine_payload()
+    except Exception as e:
+        skipped.append({
+            "reason": "load_failed",
+            "error": str(e),
+        })
+        write_empty_output("unavailable", attempts, skipped)
+        print("")
+        print("IMPORT TENNIS MACHINE MATCHES DONE")
+        print({"source_rows": 0, "candidates": 0, "selected": 0, "skipped": len(skipped)})
+        print("WARNING: Could not load Tennis-Machine matches. Wrote empty output/report.")
+        print(f"Report: {REPORT_FILE}")
+        print("")
+        return
+
     rows = rows_from_payload(payload)
 
     candidates = []
-    skipped = []
 
     for row in rows:
         if not isinstance(row, dict):
@@ -269,7 +377,7 @@ def main():
             skipped.append({
                 "reason": "missing_supported_match_url",
                 "match": row.get("match"),
-                "match_url": row.get("match_url"),
+                "match_id": row.get("match_id"),
                 "source_url": row.get("source_url"),
                 "odds_url": row.get("odds_url"),
             })
@@ -325,8 +433,13 @@ def main():
             "selected": len(selected),
             "skipped": len(skipped),
         },
+        "attempts": attempts,
         "selected": selected,
         "skipped": skipped[:300],
+        "note": (
+            "If selected is 0 but source_rows is >0, Tennis-Machine likely needs "
+            "to save match_url/odds_url in flashscore_matches.json."
+        ),
     }
 
     save_json(OUTPUT_FILE, output)
@@ -338,6 +451,12 @@ def main():
     print(f"Source: {source}")
     print(f"Output: {OUTPUT_FILE}")
     print(f"Report: {REPORT_FILE}")
+
+    if len(selected) == 0 and len(rows) > 0:
+        print("")
+        print("WARNING: Loaded Tennis-Machine JSON, but selected 0 matches.")
+        print("Most likely flashscore_matches.json does not contain match_url/odds_url yet.")
+        print("Fix Tennis-Machine parser to save match_url.")
     print("")
 
 
