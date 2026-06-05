@@ -8,6 +8,7 @@ from tennis_elo.config import ROOT_DIR
 from tennis_elo.utils import now_iso, save_json, save_text, clean_str
 
 
+BASE_URL = os.getenv("REZULTATI_BASE_URL", "https://www.rezultati.com/")
 DAILY_URL = os.getenv("REZULTATI_DAILY_URL", "https://www.rezultati.com/tenis/")
 OUTPUT_FILE = ROOT_DIR / "data" / "input" / "matches_today.json"
 REPORT_FILE = ROOT_DIR / "data" / "reports" / "rezultati_daily_matches_report.json"
@@ -28,6 +29,12 @@ BLOCK_TEXTS = [
     "The requested page can't be displayed",
     "Please try again later",
     "Access denied",
+]
+
+NON_TENNIS_MARKERS = [
+    "Hokej livescore",
+    "Hokej rezultati",
+    "hokej rezultati uÅ¾ivo",
 ]
 
 
@@ -84,7 +91,7 @@ def slug_to_name(slug):
 
     parts = [p for p in slug.split("-") if p]
 
-    # Last token is usually the Flashscore/Rezulati player id.
+    # Last token is usually player id, for example UFj257G8.
     if parts and re.search(r"[A-Z0-9]", parts[-1]) and len(parts[-1]) >= 6:
         parts = parts[:-1]
 
@@ -130,22 +137,24 @@ def get_status_from_text(text):
 
 def accept_cookies(page):
     for text in [
-        "I accept",
-        "Accept",
-        "Accept all",
         "PrihvaÄam",
         "Prihvati",
         "SlaÅ¾em se",
+        "Accept all",
+        "I accept",
+        "Accept",
         "OK",
     ]:
         try:
             locator = page.get_by_text(text, exact=False).first
             if locator.count() > 0 and locator.is_visible(timeout=1000):
                 locator.click(timeout=2500)
-                page.wait_for_timeout(1000)
-                return
+                page.wait_for_timeout(1200)
+                return True
         except Exception:
             pass
+
+    return False
 
 
 def save_debug(page):
@@ -162,6 +171,83 @@ def save_debug(page):
         pass
 
     return text
+
+
+def page_looks_like_tennis(text):
+    lower = clean_str(text).lower()
+
+    if "hokej livescore" in lower or "hokej rezultati" in lower:
+        return False
+
+    tennis_signals = [
+        "tenis",
+        "atp",
+        "wta",
+        "challenger",
+        "itf",
+        "french open",
+        "roland garros",
+    ]
+
+    return any(x in lower for x in tennis_signals)
+
+
+def go_to_tennis_page(page):
+    """
+    Rezultati sometimes ignores /tenis/ and loads the last/default sport, e.g. hockey.
+    So we:
+      1. open base,
+      2. accept cookies,
+      3. click the TENIS sport tab,
+      4. if needed try direct /tenis/ again.
+    """
+    page.goto(BASE_URL, wait_until="domcontentloaded", timeout=45000)
+    page.wait_for_timeout(3500)
+    accept_cookies(page)
+    page.wait_for_timeout(1500)
+
+    # Try clicking the top navigation tab. This is more reliable than direct URL on some builds.
+    clicked_tennis = False
+    for text in ["TENIS", "Tenis", "Tennis"]:
+        try:
+            locator = page.get_by_text(text, exact=True).first
+            if locator.count() > 0 and locator.is_visible(timeout=2000):
+                locator.click(timeout=5000)
+                page.wait_for_timeout(WAIT_MS)
+                clicked_tennis = True
+                break
+        except Exception:
+            pass
+
+    body_text = ""
+    try:
+        body_text = page.locator("body").inner_text(timeout=8000)
+    except Exception:
+        body_text = ""
+
+    # Direct fallback.
+    if not clicked_tennis or not page_looks_like_tennis(body_text):
+        page.goto(DAILY_URL, wait_until="domcontentloaded", timeout=45000)
+        page.wait_for_timeout(WAIT_MS)
+        accept_cookies(page)
+        page.wait_for_timeout(1500)
+
+        try:
+            body_text = page.locator("body").inner_text(timeout=8000)
+        except Exception:
+            body_text = ""
+
+    # If it still loaded hockey, try clicking TENIS again from that page.
+    if not page_looks_like_tennis(body_text):
+        for text in ["TENIS", "Tenis", "Tennis"]:
+            try:
+                locator = page.get_by_text(text, exact=True).first
+                if locator.count() > 0 and locator.is_visible(timeout=2000):
+                    locator.click(timeout=5000)
+                    page.wait_for_timeout(WAIT_MS)
+                    break
+            except Exception:
+                pass
 
 
 def row_to_match_from_url(url, row_text="", source="rezultati_daily"):
@@ -194,10 +280,6 @@ def row_to_match_from_url(url, row_text="", source="rezultati_daily"):
 
 
 def collect_anchor_links(page):
-    """
-    First try normal <a href> links.
-    Some builds expose match links directly.
-    """
     links_payload = page.locator("a").evaluate_all(
         """
         els => els.map(a => {
@@ -231,12 +313,10 @@ def collect_anchor_links(page):
 
 def collect_clickable_rows(page):
     """
-    Rezulati/Flashscore often uses clickable div rows without <a href>.
-    Rows normally have ids like g_2_2FOmfoWO.
-    We click rows one by one, read the resulting URL, then go back.
+    Rezulati tennis match rows normally have IDs like g_2_XXXX.
+    Some rows are clickable divs, not normal anchors.
     """
     rows = page.locator('[id^="g_2_"]')
-    count = 0
 
     try:
         count = rows.count()
@@ -244,14 +324,13 @@ def collect_clickable_rows(page):
         count = 0
 
     collected = {}
-    max_clicks = min(count, MAX_MATCHES * 4)
+    max_clicks = min(count, MAX_MATCHES * 5)
 
     for idx in range(max_clicks):
         if len(collected) >= MAX_MATCHES:
             break
 
         try:
-            # Re-query every loop because DOM can be rebuilt after back navigation.
             rows = page.locator('[id^="g_2_"]')
             row = rows.nth(idx)
 
@@ -286,18 +365,16 @@ def collect_clickable_rows(page):
                 if match:
                     collected[match["match_url"]] = match
 
-            # Return to daily page.
             try:
                 page.go_back(wait_until="domcontentloaded", timeout=15000)
-                page.wait_for_timeout(1500)
+                page.wait_for_timeout(1800)
             except Exception:
                 page.goto(before_url or DAILY_URL, wait_until="domcontentloaded", timeout=30000)
                 page.wait_for_timeout(2500)
 
         except Exception:
             try:
-                page.goto(DAILY_URL, wait_until="domcontentloaded", timeout=30000)
-                page.wait_for_timeout(2500)
+                go_to_tennis_page(page)
             except Exception:
                 pass
             continue
@@ -306,25 +383,21 @@ def collect_clickable_rows(page):
 
 
 def collect_match_links(page):
-    page.goto(DAILY_URL, wait_until="domcontentloaded", timeout=45000)
-    page.wait_for_timeout(WAIT_MS)
-    accept_cookies(page)
-    page.wait_for_timeout(1500)
-
+    go_to_tennis_page(page)
     body_text = save_debug(page)
 
     if any(block_text in body_text for block_text in BLOCK_TEXTS):
         return [], True, "rezultati error page / blocked"
 
+    if not page_looks_like_tennis(body_text):
+        return [], False, "page did not switch to tennis; debug text is probably another sport"
+
     by_url = {}
 
-    # Method 1: direct anchors.
     by_url.update(collect_anchor_links(page))
 
-    # Method 2: clickable event rows.
     if len(by_url) < MAX_MATCHES:
-        clicked = collect_clickable_rows(page)
-        by_url.update(clicked)
+        by_url.update(collect_clickable_rows(page))
 
     matches = list(by_url.values())
 
