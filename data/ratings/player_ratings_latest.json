@@ -1,0 +1,17 @@
+{
+  "generated_at": "2026-06-05T22:07:27.821105+02:00",
+  "model": "flashscore_poc_elo_v1",
+  "source_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/processed/canonical_matches.json",
+  "settings": {
+    "default_elo": 1500.0,
+    "k_factor": 24.0,
+    "surface_k_factor": 20.0
+  },
+  "counts": {
+    "input_matches": 0,
+    "used_matches": 0,
+    "skipped_matches": 0,
+    "players": 0
+  },
+  "ratings": []
+}
