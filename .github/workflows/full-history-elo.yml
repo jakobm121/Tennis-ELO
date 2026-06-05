@@ -3,7 +3,7 @@ name: Full History ELO Pipeline
 on:
   workflow_dispatch:
   schedule:
-  - cron: "0 */2 * * *"
+  - cron: "0 */3 * * *"
 
 permissions:
   contents: write
