@@ -1,52 +1,6 @@
 {
-  "generated_at": "2026-06-05T23:37:32.081732+02:00",
-  "source_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/input/matches_today.json",
-  "max_matches": 5,
-  "matches": [
-    {
-      "match": "Lajal M. - Bu Y.",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/lajal-mark-2q51si8O/yunchaokete-bu-Qabjt3Y5/?mid=jFDX5VxH",
-      "date": "",
-      "status": "",
-      "tour_level": "",
-      "gender": "",
-      "tournament": "",
-      "country": "",
-      "surface": "",
-      "player_1": "",
-      "player_2": "",
-      "source": "tennis_machine",
-      "source_match_id": ""
-    },
-    {
-      "match": "Legout T. - Walton A.",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/legout-timo-YPqCP4xb/walton-adam-jNRjAU1U/?mid=j5dT0o54",
-      "date": "",
-      "status": "",
-      "tour_level": "",
-      "gender": "",
-      "tournament": "",
-      "country": "",
-      "surface": "",
-      "player_1": "",
-      "player_2": "",
-      "source": "tennis_machine",
-      "source_match_id": ""
-    },
-    {
-      "match": "Mensik J. - Zverev A.",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/mensik-jakub-UFj257G8/zverev-alexander-dGbUhw9m/?mid=2FOmfoWO",
-      "date": "",
-      "status": "",
-      "tour_level": "",
-      "gender": "",
-      "tournament": "",
-      "country": "",
-      "surface": "",
-      "player_1": "",
-      "player_2": "",
-      "source": "tennis_machine",
-      "source_match_id": ""
-    }
-  ]
+  "generated_at": "2026-06-06T00:08:41.859149+02:00",
+  "source_url": "https://www.rezultati.com/tenis/",
+  "max_matches": 10,
+  "matches": []
 }

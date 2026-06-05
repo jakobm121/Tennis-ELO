@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T23:37:32.134054+02:00",
+  "generated_at": "2026-06-06T00:08:41.931534+02:00",
   "input_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/input/matches_today.json",
   "output_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/config/flashscore_urls.txt",
   "settings": {
@@ -7,132 +7,11 @@
     "urls_per_match": 4
   },
   "counts": {
-    "input_rows": 3,
-    "matches_used": 3,
-    "history_urls_generated": 12,
+    "input_rows": 0,
+    "matches_used": 0,
+    "history_urls_generated": 0,
     "skipped": 0
   },
-  "generated": [
-    {
-      "history_url": "https://www.rezultati.com/utakmica/tenis/lajal-mark-2q51si8O/yunchaokete-bu-Qabjt3Y5/omjer/sve-podloge/?mid=jFDX5VxH",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/lajal-mark-2q51si8O/yunchaokete-bu-Qabjt3Y5/?mid=jFDX5VxH",
-      "match": "Lajal M. - Bu Y.",
-      "player_1": "",
-      "player_2": "",
-      "date": "",
-      "status": "",
-      "tournament": ""
-    },
-    {
-      "history_url": "https://www.rezultati.com/utakmica/tenis/lajal-mark-2q51si8O/yunchaokete-bu-Qabjt3Y5/omjer/zemlja/?mid=jFDX5VxH",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/lajal-mark-2q51si8O/yunchaokete-bu-Qabjt3Y5/?mid=jFDX5VxH",
-      "match": "Lajal M. - Bu Y.",
-      "player_1": "",
-      "player_2": "",
-      "date": "",
-      "status": "",
-      "tournament": ""
-    },
-    {
-      "history_url": "https://www.rezultati.com/utakmica/tenis/lajal-mark-2q51si8O/yunchaokete-bu-Qabjt3Y5/omjer/tvrda-podloga/?mid=jFDX5VxH",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/lajal-mark-2q51si8O/yunchaokete-bu-Qabjt3Y5/?mid=jFDX5VxH",
-      "match": "Lajal M. - Bu Y.",
-      "player_1": "",
-      "player_2": "",
-      "date": "",
-      "status": "",
-      "tournament": ""
-    },
-    {
-      "history_url": "https://www.rezultati.com/utakmica/tenis/lajal-mark-2q51si8O/yunchaokete-bu-Qabjt3Y5/omjer/trava/?mid=jFDX5VxH",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/lajal-mark-2q51si8O/yunchaokete-bu-Qabjt3Y5/?mid=jFDX5VxH",
-      "match": "Lajal M. - Bu Y.",
-      "player_1": "",
-      "player_2": "",
-      "date": "",
-      "status": "",
-      "tournament": ""
-    },
-    {
-      "history_url": "https://www.rezultati.com/utakmica/tenis/legout-timo-YPqCP4xb/walton-adam-jNRjAU1U/omjer/sve-podloge/?mid=j5dT0o54",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/legout-timo-YPqCP4xb/walton-adam-jNRjAU1U/?mid=j5dT0o54",
-      "match": "Legout T. - Walton A.",
-      "player_1": "",
-      "player_2": "",
-      "date": "",
-      "status": "",
-      "tournament": ""
-    },
-    {
-      "history_url": "https://www.rezultati.com/utakmica/tenis/legout-timo-YPqCP4xb/walton-adam-jNRjAU1U/omjer/zemlja/?mid=j5dT0o54",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/legout-timo-YPqCP4xb/walton-adam-jNRjAU1U/?mid=j5dT0o54",
-      "match": "Legout T. - Walton A.",
-      "player_1": "",
-      "player_2": "",
-      "date": "",
-      "status": "",
-      "tournament": ""
-    },
-    {
-      "history_url": "https://www.rezultati.com/utakmica/tenis/legout-timo-YPqCP4xb/walton-adam-jNRjAU1U/omjer/tvrda-podloga/?mid=j5dT0o54",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/legout-timo-YPqCP4xb/walton-adam-jNRjAU1U/?mid=j5dT0o54",
-      "match": "Legout T. - Walton A.",
-      "player_1": "",
-      "player_2": "",
-      "date": "",
-      "status": "",
-      "tournament": ""
-    },
-    {
-      "history_url": "https://www.rezultati.com/utakmica/tenis/legout-timo-YPqCP4xb/walton-adam-jNRjAU1U/omjer/trava/?mid=j5dT0o54",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/legout-timo-YPqCP4xb/walton-adam-jNRjAU1U/?mid=j5dT0o54",
-      "match": "Legout T. - Walton A.",
-      "player_1": "",
-      "player_2": "",
-      "date": "",
-      "status": "",
-      "tournament": ""
-    },
-    {
-      "history_url": "https://www.rezultati.com/utakmica/tenis/mensik-jakub-UFj257G8/zverev-alexander-dGbUhw9m/omjer/sve-podloge/?mid=2FOmfoWO",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/mensik-jakub-UFj257G8/zverev-alexander-dGbUhw9m/?mid=2FOmfoWO",
-      "match": "Mensik J. - Zverev A.",
-      "player_1": "",
-      "player_2": "",
-      "date": "",
-      "status": "",
-      "tournament": ""
-    },
-    {
-      "history_url": "https://www.rezultati.com/utakmica/tenis/mensik-jakub-UFj257G8/zverev-alexander-dGbUhw9m/omjer/zemlja/?mid=2FOmfoWO",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/mensik-jakub-UFj257G8/zverev-alexander-dGbUhw9m/?mid=2FOmfoWO",
-      "match": "Mensik J. - Zverev A.",
-      "player_1": "",
-      "player_2": "",
-      "date": "",
-      "status": "",
-      "tournament": ""
-    },
-    {
-      "history_url": "https://www.rezultati.com/utakmica/tenis/mensik-jakub-UFj257G8/zverev-alexander-dGbUhw9m/omjer/tvrda-podloga/?mid=2FOmfoWO",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/mensik-jakub-UFj257G8/zverev-alexander-dGbUhw9m/?mid=2FOmfoWO",
-      "match": "Mensik J. - Zverev A.",
-      "player_1": "",
-      "player_2": "",
-      "date": "",
-      "status": "",
-      "tournament": ""
-    },
-    {
-      "history_url": "https://www.rezultati.com/utakmica/tenis/mensik-jakub-UFj257G8/zverev-alexander-dGbUhw9m/omjer/trava/?mid=2FOmfoWO",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/mensik-jakub-UFj257G8/zverev-alexander-dGbUhw9m/?mid=2FOmfoWO",
-      "match": "Mensik J. - Zverev A.",
-      "player_1": "",
-      "player_2": "",
-      "date": "",
-      "status": "",
-      "tournament": ""
-    }
-  ],
+  "generated": [],
   "skipped": []
 }
