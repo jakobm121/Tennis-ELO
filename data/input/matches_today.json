@@ -1,7 +1,8 @@
 {
-  "generated_at": "2026-06-06T00:17:26.300690+02:00",
+  "generated_at": "2026-06-06T00:47:02.831900+02:00",
   "source_url": "https://www.rezultati.com/tenis/",
   "max_matches": 10,
+  "skip_seen_matches": true,
   "matches": [
     {
       "match": "Andreeva Mirra - Chwalinska Maja",
@@ -15,9 +16,9 @@
       "surface": "",
       "player_1": "Andreeva Mirra",
       "player_2": "Chwalinska Maja",
-      "source": "rezultati_daily_anchor",
+      "source": "rezultati_daily_click",
       "source_match_id": "dddfTkHb",
-      "raw_parent_text": ""
+      "raw_parent_text": "15:00\nChwalinska M.\nAndreeva M.\n-\n-"
     },
     {
       "match": "Angelini Lorenzo - Kelm Yannik",
@@ -31,9 +32,9 @@
       "surface": "",
       "player_1": "Angelini Lorenzo",
       "player_2": "Kelm Yannik",
-      "source": "rezultati_daily_anchor",
+      "source": "rezultati_daily_click",
       "source_match_id": "p8ZWdUaK",
-      "raw_parent_text": ""
+      "raw_parent_text": "10:00\nSKR\nKelm Y.\nAngelini L.\n-\n-"
     },
     {
       "match": "Antonius Michael - Miguel Luis Guto",
@@ -63,9 +64,9 @@
       "surface": "",
       "player_1": "Arzhankin Anton",
       "player_2": "Gagliardo Lorenzo",
-      "source": "rezultati_daily_anchor",
+      "source": "rezultati_daily_click",
       "source_match_id": "SfBJmdnQ",
-      "raw_parent_text": ""
+      "raw_parent_text": "14:30\nSKR\nGagliardo L.\nArzhankin A.\n-\n-"
     },
     {
       "match": "Astakhova Darya - Grant Tyra Caterina",
@@ -79,9 +80,9 @@
       "surface": "",
       "player_1": "Astakhova Darya",
       "player_2": "Grant Tyra Caterina",
-      "source": "rezultati_daily_anchor",
+      "source": "rezultati_daily_click",
       "source_match_id": "tWjRMUnf",
-      "raw_parent_text": ""
+      "raw_parent_text": "19:00\nGrant T. C.\nAstakhova D.\n-\n-"
     },
     {
       "match": "Avanesyan Elina - Semenistaja Darja",
@@ -95,9 +96,9 @@
       "surface": "",
       "player_1": "Avanesyan Elina",
       "player_2": "Semenistaja Darja",
-      "source": "rezultati_daily_anchor",
+      "source": "rezultati_daily_click",
       "source_match_id": "fifaLvIP",
-      "raw_parent_text": ""
+      "raw_parent_text": "17:00\nAvanesyan E.\nSemenistaja D.\n-\n-"
     },
     {
       "match": "Azoides Demetris - Marrero Curbelo Ivan",
@@ -111,9 +112,9 @@
       "surface": "",
       "player_1": "Azoides Demetris",
       "player_2": "Marrero Curbelo Ivan",
-      "source": "rezultati_daily_anchor",
+      "source": "rezultati_daily_click",
       "source_match_id": "YB2rkWyo",
-      "raw_parent_text": ""
+      "raw_parent_text": "08:00\nSKR\nMarrero Curbelo I.\nAzoidis D.\n-\n-"
     },
     {
       "match": "Baez Sebastian - Sanchez Izquierdo Nikolas",
@@ -127,9 +128,9 @@
       "surface": "",
       "player_1": "Baez Sebastian",
       "player_2": "Sanchez Izquierdo Nikolas",
-      "source": "rezultati_daily_anchor",
+      "source": "rezultati_daily_click",
       "source_match_id": "QHFFDSbJ",
-      "raw_parent_text": ""
+      "raw_parent_text": "12:30\nBaez S.\nSanchez Izquierdo N.\n-\n-"
     },
     {
       "match": "Barroso Campos Alberto - Dlimi Yassine",
@@ -143,9 +144,9 @@
       "surface": "",
       "player_1": "Barroso Campos Alberto",
       "player_2": "Dlimi Yassine",
-      "source": "rezultati_daily_anchor",
+      "source": "rezultati_daily_click",
       "source_match_id": "4E720ON9",
-      "raw_parent_text": ""
+      "raw_parent_text": "10:30\nSKR\nBarroso Campos A.\nDlimi Y.\n-\n-"
     },
     {
       "match": "Barton Hynek - Molcan Alex",
@@ -159,9 +160,9 @@
       "surface": "",
       "player_1": "Barton Hynek",
       "player_2": "Molcan Alex",
-      "source": "rezultati_daily_anchor",
+      "source": "rezultati_daily_click",
       "source_match_id": "h2MpAkb4",
-      "raw_parent_text": ""
+      "raw_parent_text": "11:00\nBarton H.\nMolcan A.\n-\n-"
     }
   ]
 }

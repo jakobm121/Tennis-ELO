@@ -407,16 +407,24 @@ Piraino G.
 M25 Cuiaba (Brazil), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
-00:20
+1. set
 La Serna J. M.
 Oliveira N.
--
--
-00:30
+0
+0
+1
+1
+0
+0
+1. set
 Pucinelli de Almeida M.
 Villanueva G.
--
--
+0
+0
+0
+0
+30
+30
 W100 Sumter, SC (SAD), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -443,6 +451,21 @@ Petruzelova L.
 SKR
 Jovanovic M.
 Korpanec Davies A.
+-
+-
+W15 Brasilia (Brazil), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+19:00
+SKR
+Romero C.
+Fullana L.
+-
+-
+19:00
+SKR
+Souza M.
+Zeballos N.
 -
 -
 W15 Casablanca (Maroko), zemlja
@@ -503,6 +526,21 @@ Senic N.
 SKR
 Zolotareva A.
 Bayerlova M.
+-
+-
+W15 Lakewood, CA 2 (SAD), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+19:00
+SKR
+Evans T.
+Penickova K.
+-
+-
+19:00
+SKR
+Plekhanova D.
+Crossley M.
 -
 -
 W15 Monastir 16 (Tunis), tvrda podloga
@@ -728,17 +766,17 @@ M25 Cuiaba (Brazil), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
 01:00
-Augusto dos Santos R.
-Loureiro J. V. C.
-Kohlmann E.
-Remondy Pagotto V. H.
--
--
-01:00
 Pignaton L. C.
 Price S.
 Ribeiro de Almeida G.
 Rodrigues P.
+-
+-
+01:35
+Augusto dos Santos R.
+Loureiro J. V. C.
+Kohlmann E.
+Remondy Pagotto V. H.
 -
 -
 W100 Sumter, SC (SAD), tvrda podloga
@@ -768,6 +806,17 @@ Gobbi Monllau A. V.
 Korpanec Davies A.
 Ivanovic I.
 Trnkovski K.
+-
+-
+W15 Brasilia (Brazil), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+21:00
+SKR
+Romero C.
+Zeballos N.
+Herazo Gonzalez M.
+Mattioli F.
 -
 -
 W15 Casablanca (Maroko), zemlja
@@ -820,6 +869,17 @@ Milovanovic E.
 Senic N.
 Anghel A. I.
 Masiianskaia M.
+-
+-
+W15 Lakewood, CA 2 (SAD), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+20:00
+SKR
+Hrastar A.
+Mulville V.
+Evans K.
+Taylor L.
 -
 -
 W15 Monastir 16 (Tunis), tvrda podloga
