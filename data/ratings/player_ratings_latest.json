@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T23:09:38.967482+02:00",
+  "generated_at": "2026-06-05T23:42:15.253281+02:00",
   "model": "flashscore_poc_elo_v2_strength_of_schedule",
   "source_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/processed/canonical_matches.json",
   "settings": {
