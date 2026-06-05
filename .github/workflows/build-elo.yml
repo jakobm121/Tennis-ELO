@@ -1,0 +1,37 @@
+name: Build Tennis ELO
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-elo:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install requirements
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run ELO pipeline
+        run: python -m tennis_elo.run_pipeline
+
+      - name: Commit ELO outputs
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add data || true
+          git commit -m "Build tennis ELO ratings" || echo "No changes to commit"
+          git push
