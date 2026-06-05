@@ -29,6 +29,11 @@ jobs:
       - name: Install Playwright browsers
         run: python -m playwright install chromium
 
+      - name: Import Tennis-Machine matches
+        env:
+          MAX_TENNIS_MACHINE_MATCHES: "5"
+        run: python -m tennis_elo.sources.import_tennis_machine_matches
+
       - name: Generate history URLs
         run: python -m tennis_elo.sources.generate_history_urls
 
@@ -45,6 +50,7 @@ jobs:
 
           git add config/flashscore_urls.txt || true
           git add data || true
+          git add tennis_elo || true
 
           git commit -m "Update full history ELO pipeline" || echo "No changes to commit"
           git push
