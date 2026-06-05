@@ -1,0 +1,58 @@
+{
+  "generated_at": "2026-06-05T22:31:31.101586+02:00",
+  "input_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/input/matches_today.json",
+  "output_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/config/flashscore_urls.txt",
+  "settings": {
+    "max_matches": 20,
+    "urls_per_match": 4
+  },
+  "counts": {
+    "input_rows": 1,
+    "matches_used": 1,
+    "history_urls_generated": 4,
+    "skipped": 0
+  },
+  "generated": [
+    {
+      "history_url": "https://www.rezultati.com/utakmica/tenis/legout-timo-YPqCP4xb/walton-adam-jNRjAU1U/omjer/sve-podloge/?mid=j5dT0o54",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/legout-timo-YPqCP4xb/walton-adam-jNRjAU1U/?mid=j5dT0o54",
+      "match": "Legout T. - Walton A.",
+      "player_1": null,
+      "player_2": null,
+      "date": null,
+      "status": null,
+      "tournament": null
+    },
+    {
+      "history_url": "https://www.rezultati.com/utakmica/tenis/legout-timo-YPqCP4xb/walton-adam-jNRjAU1U/omjer/zemlja/?mid=j5dT0o54",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/legout-timo-YPqCP4xb/walton-adam-jNRjAU1U/?mid=j5dT0o54",
+      "match": "Legout T. - Walton A.",
+      "player_1": null,
+      "player_2": null,
+      "date": null,
+      "status": null,
+      "tournament": null
+    },
+    {
+      "history_url": "https://www.rezultati.com/utakmica/tenis/legout-timo-YPqCP4xb/walton-adam-jNRjAU1U/omjer/tvrda-podloga/?mid=j5dT0o54",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/legout-timo-YPqCP4xb/walton-adam-jNRjAU1U/?mid=j5dT0o54",
+      "match": "Legout T. - Walton A.",
+      "player_1": null,
+      "player_2": null,
+      "date": null,
+      "status": null,
+      "tournament": null
+    },
+    {
+      "history_url": "https://www.rezultati.com/utakmica/tenis/legout-timo-YPqCP4xb/walton-adam-jNRjAU1U/omjer/trava/?mid=j5dT0o54",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/legout-timo-YPqCP4xb/walton-adam-jNRjAU1U/?mid=j5dT0o54",
+      "match": "Legout T. - Walton A.",
+      "player_1": null,
+      "player_2": null,
+      "date": null,
+      "status": null,
+      "tournament": null
+    }
+  ],
+  "skipped": []
+}
