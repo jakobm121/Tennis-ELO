@@ -3,7 +3,8 @@ name: Full History ELO Pipeline
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "30 6 * * *"
+    - cron: "30 12 * * *"
 
 permissions:
   contents: write
@@ -32,6 +33,7 @@ jobs:
       - name: Parse daily matches
         env:
           MAX_DAILY_MATCHES: "10"
+          SKIP_SEEN_MATCHES: "1"
         run: python -m tennis_elo.sources.rezultati_daily_matches
 
       - name: Generate history URLs
@@ -39,6 +41,9 @@ jobs:
 
       - name: Parse player history
         run: python -m tennis_elo.sources.flashscore_history_parser
+
+      - name: Merge history archive
+        run: python -m tennis_elo.sources.merge_history_archive
 
       - name: Build ELO pipeline
         run: python -m tennis_elo.run_pipeline
