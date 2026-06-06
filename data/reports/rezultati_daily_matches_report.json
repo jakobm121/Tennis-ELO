@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T18:16:41.052585+02:00",
+  "generated_at": "2026-06-06T21:43:31.468410+02:00",
   "source_url": "https://www.rezultati.com/tenis/",
   "output_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/input/matches_today.json",
   "seen_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/state/seen_match_urls.json",
@@ -14,19 +14,19 @@
     "reset_seen_matches": false
   },
   "counts": {
-    "found_matches": 110,
-    "available_unseen": 62,
+    "found_matches": 104,
+    "available_unseen": 47,
     "selected": 10,
-    "skipped_seen": 48,
-    "seen_total": 60,
+    "skipped_seen": 57,
+    "seen_total": 70,
     "blocked": 0,
     "errors": 0
   },
   "error": "",
   "selected": [
     {
-      "match": "Galarneau Alexis - Hsu Yu Hsiou",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/galarneau-alexis-EHhqit59/hsu-yu-hsiou-WxwHu3lG/?mid=vg3WmWln",
+      "match": "Haavisto Ella - Petruzelova Lucie",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/haavisto-ella-Em9BJn0j/petruzelova-lucie-tpdg1D2T/?mid=OUru50l4",
       "date": "",
       "status": "scheduled",
       "tour_level": "",
@@ -34,15 +34,15 @@
       "tournament": "",
       "country": "",
       "surface": "",
-      "player_1": "Galarneau Alexis",
-      "player_2": "Hsu Yu Hsiou",
+      "player_1": "Haavisto Ella",
+      "player_2": "Petruzelova Lucie",
       "source": "rezultati_daily_anchor",
-      "source_match_id": "vg3WmWln",
+      "source_match_id": "OUru50l4",
       "raw_parent_text": ""
     },
     {
-      "match": "Gallardo Guevara Carmen - Nuudi Maileen",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/gallardo-guevara-carmen-CYD59LtF/nuudi-maileen-4rR5GRGd/?mid=Y1eaQQaM",
+      "match": "Hardt Nick - Villanueva Gonzalo",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/hardt-nick-QaQOIXla/villanueva-gonzalo-OQxrsJs8/?mid=06vsC3xS",
       "date": "",
       "status": "scheduled",
       "tour_level": "",
@@ -50,15 +50,31 @@
       "tournament": "",
       "country": "",
       "surface": "",
-      "player_1": "Gallardo Guevara Carmen",
-      "player_2": "Nuudi Maileen",
+      "player_1": "Hardt Nick",
+      "player_2": "Villanueva Gonzalo",
       "source": "rezultati_daily_anchor",
-      "source_match_id": "Y1eaQQaM",
+      "source_match_id": "06vsC3xS",
+      "raw_parent_text": "23:30\nHardt N.\nVillanueva G.\n-\n-"
+    },
+    {
+      "match": "Henning Philip - Mayot Harold",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/henning-philip-UoCPYDYg/mayot-harold-jPfM16Z1/?mid=jNcbQxo9",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Henning Philip",
+      "player_2": "Mayot Harold",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "jNcbQxo9",
       "raw_parent_text": ""
     },
     {
-      "match": "Garcia Cid Maria - Torner Sensano Neus",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/garcia-cid-maria-QX8hOATL/torner-sensano-neus-AeBeFOXq/?mid=fydygLbn",
+      "match": "Hibino Nao - Volynets Katie",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/hibino-nao-n5XviZ0t/volynets-katie-vw1oqIPi/?mid=l6oC09Yi",
       "date": "",
       "status": "scheduled",
       "tour_level": "",
@@ -66,15 +82,15 @@
       "tournament": "",
       "country": "",
       "surface": "",
-      "player_1": "Garcia Cid Maria",
-      "player_2": "Torner Sensano Neus",
+      "player_1": "Hibino Nao",
+      "player_2": "Volynets Katie",
       "source": "rezultati_daily_anchor",
-      "source_match_id": "fydygLbn",
+      "source_match_id": "l6oC09Yi",
       "raw_parent_text": ""
     },
     {
-      "match": "Geerts Michael - Ymer Elias",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/geerts-michael-jVP5NQJK/ymer-elias-GhVfMwlD/?mid=O8mQXJbl",
+      "match": "Ilagan Andre - Poling Karl",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/ilagan-andre-GbjJTs06/poling-karl-drTxoGEh/?mid=dxQC6s0k",
       "date": "",
       "status": "scheduled",
       "tour_level": "",
@@ -82,15 +98,15 @@
       "tournament": "",
       "country": "",
       "surface": "",
-      "player_1": "Geerts Michael",
-      "player_2": "Ymer Elias",
+      "player_1": "Ilagan Andre",
+      "player_2": "Poling Karl",
       "source": "rezultati_daily_click",
-      "source_match_id": "O8mQXJbl",
-      "raw_parent_text": "Otkazano\nGeerts M.\nYmer E.\n-\n-"
+      "source_match_id": "dxQC6s0k",
+      "raw_parent_text": "3. set\nPoling K.\nIlagan A.\n1\n1\n6\n3\n1\n6\n5\n6\n15\n15"
     },
     {
-      "match": "Gentzsch Tom - Onclin Gauthier",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/gentzsch-tom-IgniZQN6/onclin-gauthier-dtG17O9l/?mid=C61vnAJb",
+      "match": "Jeran Aljaz - Kupcic Jan",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/jeran-aljaz-IyuypzVs/kupcic-jan-jakl92iG/?mid=GUvierXh",
       "date": "",
       "status": "scheduled",
       "tour_level": "",
@@ -98,31 +114,15 @@
       "tournament": "",
       "country": "",
       "surface": "",
-      "player_1": "Gentzsch Tom",
-      "player_2": "Onclin Gauthier",
-      "source": "rezultati_daily_click",
-      "source_match_id": "C61vnAJb",
-      "raw_parent_text": "Otkazano\nGentzsch T.\nOnclin G.\n-\n-"
-    },
-    {
-      "match": "Giunta Massimo - Reco Alexandre",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/giunta-massimo-hQkb3GZ8/reco-alexandre-rcGvfyAK/?mid=ANdAq2uA",
-      "date": "",
-      "status": "scheduled",
-      "tour_level": "",
-      "gender": "",
-      "tournament": "",
-      "country": "",
-      "surface": "",
-      "player_1": "Giunta Massimo",
-      "player_2": "Reco Alexandre",
+      "player_1": "Jeran Aljaz",
+      "player_2": "Kupcic Jan",
       "source": "rezultati_daily_anchor",
-      "source_match_id": "ANdAq2uA",
+      "source_match_id": "GUvierXh",
       "raw_parent_text": ""
     },
     {
-      "match": "Glinka Daniil - Herbert Pierre Hugues",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/glinka-daniil-bimjKJAE/herbert-pierre-hugues-vD0zNRBM/?mid=MZNbZWZh",
+      "match": "Jong Alexander Maarten Jong Sander - Mochizuki Shintaro",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/jong-alexander-maarten-jong-sander-jBYbKHBn/mochizuki-shintaro-KrwvlzXb/?mid=WYjYVcT0",
       "date": "",
       "status": "scheduled",
       "tour_level": "",
@@ -130,15 +130,15 @@
       "tournament": "",
       "country": "",
       "surface": "",
-      "player_1": "Glinka Daniil",
-      "player_2": "Herbert Pierre Hugues",
+      "player_1": "Jong Alexander Maarten Jong Sander",
+      "player_2": "Mochizuki Shintaro",
       "source": "rezultati_daily_anchor",
-      "source_match_id": "MZNbZWZh",
+      "source_match_id": "WYjYVcT0",
       "raw_parent_text": ""
     },
     {
-      "match": "Goto Reina - Yao Xinxin",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/goto-reina-AiyK4R56/yao-xinxin-4tDEgmxI/?mid=MslnijfT",
+      "match": "Jorge Francisca - Jorge Matilde",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/jorge-francisca-vyOa8QgA/jorge-matilde-dbDr0LD8/?mid=635ctEv0",
       "date": "",
       "status": "scheduled",
       "tour_level": "",
@@ -146,15 +146,15 @@
       "tournament": "",
       "country": "",
       "surface": "",
-      "player_1": "Goto Reina",
-      "player_2": "Yao Xinxin",
+      "player_1": "Jorge Francisca",
+      "player_2": "Jorge Matilde",
       "source": "rezultati_daily_anchor",
-      "source_match_id": "MslnijfT",
+      "source_match_id": "635ctEv0",
       "raw_parent_text": ""
     },
     {
-      "match": "Greiner Sophie - Todoni Cristiana Nicoleta",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/greiner-sophie-l4ccOLlU/todoni-cristiana-nicoleta-d4cVJZzB/?mid=p4soCzuC",
+      "match": "Jovanovic Mirjana - Korpanec Davies Allegra",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/jovanovic-mirjana-0jieYeGh/korpanec-davies-allegra-YFozIkkt/?mid=drsm3vJG",
       "date": "",
       "status": "scheduled",
       "tour_level": "",
@@ -162,15 +162,15 @@
       "tournament": "",
       "country": "",
       "surface": "",
-      "player_1": "Greiner Sophie",
-      "player_2": "Todoni Cristiana Nicoleta",
+      "player_1": "Jovanovic Mirjana",
+      "player_2": "Korpanec Davies Allegra",
       "source": "rezultati_daily_anchor",
-      "source_match_id": "p4soCzuC",
+      "source_match_id": "drsm3vJG",
       "raw_parent_text": ""
     },
     {
-      "match": "Guna Robert - Haita Stefan Horia",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/guna-robert-fwrmyMn6/haita-stefan-horia-WALDYu9U/?mid=nFGDGiWs",
+      "match": "Kadiri Hassani Youssef - Koyama Hiromasa",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/kadiri-hassani-youssef-YstL8s3O/koyama-hiromasa-lMQ1mPlU/?mid=KnkmQLA7",
       "date": "",
       "status": "scheduled",
       "tour_level": "",
@@ -178,10 +178,10 @@
       "tournament": "",
       "country": "",
       "surface": "",
-      "player_1": "Guna Robert",
-      "player_2": "Haita Stefan Horia",
+      "player_1": "Kadiri Hassani Youssef",
+      "player_2": "Koyama Hiromasa",
       "source": "rezultati_daily_anchor",
-      "source_match_id": "nFGDGiWs",
+      "source_match_id": "KnkmQLA7",
       "raw_parent_text": ""
     }
   ],
@@ -278,9 +278,9 @@
       "surface": "",
       "player_1": "Arzhankin Anton",
       "player_2": "Gagliardo Lorenzo",
-      "source": "rezultati_daily_click",
+      "source": "rezultati_daily_anchor",
       "source_match_id": "SfBJmdnQ",
-      "raw_parent_text": "14:30\nSKR\nGagliardo L.\nArzhankin A.\n-\n-"
+      "raw_parent_text": ""
     },
     {
       "match": "Astakhova Darya - Grant Tyra Caterina",
@@ -294,9 +294,9 @@
       "surface": "",
       "player_1": "Astakhova Darya",
       "player_2": "Grant Tyra Caterina",
-      "source": "rezultati_daily_click",
+      "source": "rezultati_daily_anchor",
       "source_match_id": "tWjRMUnf",
-      "raw_parent_text": "1. set\nGrant T. C.\nAstakhova D.\n0\n0\n5\n1\n15\n30"
+      "raw_parent_text": ""
     },
     {
       "match": "Avanesyan Elina - Semenistaja Darja",
@@ -358,9 +358,9 @@
       "surface": "",
       "player_1": "Bar Biryukov Petr",
       "player_2": "Safiullin Roman",
-      "source": "rezultati_daily_click",
+      "source": "rezultati_daily_anchor",
       "source_match_id": "KW4npllB",
-      "raw_parent_text": "3. set\nSafiullin R.\nBar Biryukov P.\n1\n1\n6\n8\n7\n10\n7\n7\n6\n1\n2\n1\n0\n40"
+      "raw_parent_text": ""
     },
     {
       "match": "Barroso Campos Alberto - Dlimi Yassine",
@@ -502,9 +502,9 @@
       "surface": "",
       "player_1": "Bonzi Benjamin",
       "player_2": "Polmans Marc",
-      "source": "rezultati_daily_click",
+      "source": "rezultati_daily_anchor",
       "source_match_id": "EFB0HbE7",
-      "raw_parent_text": "Prekinuto\nBonzi B.\nPolmans M.\n1\n0\n6\n2\n2\n2\n30\n40"
+      "raw_parent_text": ""
     },
     {
       "match": "Brace Cadence - Brantmeier Reese",
@@ -520,7 +520,7 @@
       "player_2": "Brantmeier Reese",
       "source": "rezultati_daily_anchor",
       "source_match_id": "8GqsZg5T",
-      "raw_parent_text": ""
+      "raw_parent_text": "1. set\nBrantmeier R.\nBrace C.\n0\n0\n4\n4\nA\n40"
     },
     {
       "match": "Bradshaw Jacob - Willwerth Benjamin",
@@ -550,9 +550,9 @@
       "surface": "",
       "player_1": "Bronzetti Lucia",
       "player_2": "Romero Gormaz Leyre",
-      "source": "rezultati_daily_click",
+      "source": "rezultati_daily_anchor",
       "source_match_id": "zm7f0W3S",
-      "raw_parent_text": "19:20\nBronzetti L.\nRomero Gormaz L.\n-\n-"
+      "raw_parent_text": ""
     },
     {
       "match": "Castelnuovo Luca - Rodionov Jurij",
@@ -664,7 +664,7 @@
       "player_2": "Pellegrino Andrea",
       "source": "rezultati_daily_click",
       "source_match_id": "xz0hkRCO",
-      "raw_parent_text": "20:30\nMerida Aguilar D.\nPellegrino A.\n-\n-"
+      "raw_parent_text": "2. set\nMerida Aguilar D.\nPellegrino A.\n1\n0\n6\n3\n1\n3\n40\n40"
     },
     {
       "match": "Deckers Alec - Tomic Bernard",
@@ -806,9 +806,9 @@
       "surface": "",
       "player_1": "Draxl Liam",
       "player_2": "Walton Adam",
-      "source": "rezultati_daily_click",
+      "source": "rezultati_daily_anchor",
       "source_match_id": "A36GNKIj",
-      "raw_parent_text": "17:00\nWalton A.\nDraxl L.\n-\n-"
+      "raw_parent_text": ""
     },
     {
       "match": "Du Pree Britt - Garland Joanna",
@@ -822,9 +822,9 @@
       "surface": "",
       "player_1": "Du Pree Britt",
       "player_2": "Garland Joanna",
-      "source": "rezultati_daily_click",
+      "source": "rezultati_daily_anchor",
       "source_match_id": "2B0Zf52T",
-      "raw_parent_text": "Prekinuto\nDu Pree B.\nGarland J.\n0\n0\n4\n5\n0\n0"
+      "raw_parent_text": ""
     },
     {
       "match": "Eala Alexandra - Masarova Rebeka",
@@ -891,22 +891,6 @@
       "raw_parent_text": ""
     },
     {
-      "match": "Fery Arthur - Yunchaokete Bu",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/fery-arthur-SKxbA6KA/yunchaokete-bu-Qabjt3Y5/?mid=OSuLgUDN",
-      "date": "",
-      "status": "scheduled",
-      "tour_level": "",
-      "gender": "",
-      "tournament": "",
-      "country": "",
-      "surface": "",
-      "player_1": "Fery Arthur",
-      "player_2": "Yunchaokete Bu",
-      "source": "rezultati_daily_click",
-      "source_match_id": "OSuLgUDN",
-      "raw_parent_text": "18:20\nFery A.\nBu Y.\n-\n-"
-    },
-    {
       "match": "Ficovich Juan Pablo - Thijmen Loof",
       "match_url": "https://www.rezultati.com/utakmica/tenis/ficovich-juan-pablo-WpchB57t/thijmen-loof-lQYq0vQB/?mid=Sx2fwtyR",
       "date": "",
@@ -952,6 +936,54 @@
       "player_2": "Romero Camila",
       "source": "rezultati_daily_anchor",
       "source_match_id": "MLQjqgoR",
+      "raw_parent_text": ""
+    },
+    {
+      "match": "Galarneau Alexis - Hsu Yu Hsiou",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/galarneau-alexis-EHhqit59/hsu-yu-hsiou-WxwHu3lG/?mid=vg3WmWln",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Galarneau Alexis",
+      "player_2": "Hsu Yu Hsiou",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "vg3WmWln",
+      "raw_parent_text": ""
+    },
+    {
+      "match": "Gallardo Guevara Carmen - Nuudi Maileen",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/gallardo-guevara-carmen-CYD59LtF/nuudi-maileen-4rR5GRGd/?mid=Y1eaQQaM",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Gallardo Guevara Carmen",
+      "player_2": "Nuudi Maileen",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "Y1eaQQaM",
+      "raw_parent_text": ""
+    },
+    {
+      "match": "Garcia Cid Maria - Torner Sensano Neus",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/garcia-cid-maria-QX8hOATL/torner-sensano-neus-AeBeFOXq/?mid=fydygLbn",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Garcia Cid Maria",
+      "player_2": "Torner Sensano Neus",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "fydygLbn",
       "raw_parent_text": ""
     }
   ],

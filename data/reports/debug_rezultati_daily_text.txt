@@ -116,17 +116,17 @@ McCabe J.
 6
 3
 6
-Prekinuto
+Kraj
 Bonzi B.
 Polmans M.
-1
+2
 0
 6
 2
-2
-2
-30
-40
+7
+7
+6
+3
 Stuttgart (Njemačka) - Kvalifikacije, trava
 ATP - SINGL: 
 Ždrijeb
@@ -207,10 +207,10 @@ Alkaya M.
 6
 1
 6
-3. set
+Kraj
 Safiullin R.
 Bar Biryukov P.
-1
+2
 1
 6
 8
@@ -220,49 +220,8 @@ Bar Biryukov P.
 7
 6
 1
-2
-1
-0
-30
-London (Ujedinjeno Kraljevstvo) - Kvalifikacije, trava
-WTA - SINGL: 
-Ždrijeb
-Prekinuto
-Hunter S.
-Sasnovich A.
-0
-0
-1
-1
-40
-15
-Prekinuto
-Ruzic A.
-Ito A.
-0
-0
-2
-0
-0
-0
-Prekinuto
-Zhang S.
-Klugman H.
-0
-0
+6
 3
-1
-0
-0
-Prekinuto
-Watson H.
-Haddad Maia B.
-0
-0
-1
-1
-0
-15
 S-Hertogenbosch (Nizozemska) - Kvalifikacije, trava
 WTA - SINGL: 
 Ždrijeb
@@ -324,11 +283,11 @@ Koevermans A.
 6
 0
 6
-Prekinuto
+Kraj
 Yuan Y.
 Montgomery R.
 1
-1
+2
 7
 7
 6
@@ -337,19 +296,17 @@ Montgomery R.
 1
 7
 7
-0
-2
-30
-30
-Prekinuto
+1
+6
+Kraj
 Du Pree B.
 Garland J.
 0
-0
+2
 4
+6
 5
-0
-0
+7
 French Open (Francuska), zemlja
 ATP - PAROVI: 
 Ždrijeb
@@ -364,19 +321,6 @@ Patten H.
 4
 6
 2
-Birmingham (Ujedinjeno Kraljevstvo), trava
-CHALLENGER - MUŠKI SINGL: 
-Ždrijeb
-18:20
-Fery A.
-Bu Y.
--
--
-18:20
-Virtanen O.
-Majchrzak K.
--
--
 Centurion 2 (Južna Afrika), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -424,20 +368,26 @@ Mikrut L.
 Perugia (Italija), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
-1. set
+Kraj
 Skatov T.
 Rocha H.
 0
-0
-1
-0
-0
-0
-20:30
+2
+4
+6
+2
+6
+2. set
 Merida Aguilar D.
 Pellegrino A.
--
--
+1
+0
+6
+3
+1
+3
+A
+40
 Prostejov (Češka Republika), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -464,16 +414,28 @@ Sanchez Izquierdo N.
 Tyler (SAD), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
-17:00
+Kraj
 Walton A.
 Draxl L.
--
--
-18:30
+2
+0
+6
+4
+6
+4
+3. set
 Poling K.
 Ilagan A.
--
--
+1
+1
+6
+3
+1
+6
+5
+6
+15
+0
 Birmingham (Ujedinjeno Kraljevstvo), trava
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -502,20 +464,24 @@ Masarova R.
 Foggia (Italija), zemlja
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
-1. set
+Kraj
 Grant T. C.
 Astakhova D.
+2
 0
-0
-5
-1
-15
-15
-19:20
+6
+2
+6
+3
+Kraj
 Bronzetti L.
 Romero Gormaz L.
--
--
+0
+2
+4
+6
+1
+6
 Makarska (Hrvatska), zemlja
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -528,31 +494,15 @@ Semenistaja D.
 6
 2
 6
-2. set
+Kraj
 Sorribes Tormo S.
 Timofeeva M.
 0
-1
+2
 2
 6
-1
-2
-15
-30
-Birmingham (Ujedinjeno Kraljevstvo), trava
-CHALLENGER - MUŠKI PAROVI: 
-Ždrijeb
-1. set
-Chandrasekar A.
-Yuzuki T.
-Jones B.
-Paris J.
-0
-0
-0
-0
-40
-30
+5
+7
 Centurion 2 (Južna Afrika), tvrda podloga
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -633,17 +583,19 @@ Paulson A.
 Tyler (SAD), tvrda podloga
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
-Prekinuto
+2. set
 Basel V.
 Oliveira B.
 Pearson K.
 Puttergill C.
+1
 0
-0
-5
+6
 4
-0
-0
+3
+2
+15
+15
 Prekinuto
 Fuchs Z.
 Thayne W.
@@ -655,7 +607,7 @@ Milavsky D.
 0
 0
 30
-17:30
+22:45
 Martinez L. D.
 Masur D.
 Sun F.
@@ -681,13 +633,16 @@ Cho T.
 Makarska (Hrvatska), zemlja
 CHALLENGER - ŽENSKI PAROVI: 
 Ždrijeb
-19:00
+Kraj
+(predano)
 Martins I.
 Ovcharenko E.
 Haverlag I.
 Waltert S.
--
--
+0
+0
+2
+2
 M15 Harmon (Guam), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -754,12 +709,17 @@ Yazdani A.
 1
 6
 1
-14:30
-SKR
+Kraj
 Gagliardo L.
 Arzhankin A.
--
--
+1
+2
+4
+6
+6
+3
+3
+6
 M15 Lakewood, CA 2 (SAD), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -964,22 +924,28 @@ Guna R.
 M25 Caltanissetta (Italija), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
-2. set
+Kraj
 Giunta M.
 Reco A.
-1
+2
 0
 6
 1
-5
+6
 4
-0
-0
-19:00
+3. set
 Potenza L.
 Piraino G.
--
--
+1
+1
+6
+3
+4
+6
+1
+0
+30
+40
 M25 Cuiaba (Brazil), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -1014,16 +980,24 @@ Villanueva G.
 W100 Sumter, SC (SAD), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
-18:20
+Kraj
 Osuigwe W.
 Liutova K.
--
--
-19:20
+0
+2
+2
+6
+4
+6
+1. set
 Brantmeier R.
 Brace C.
--
--
+0
+0
+4
+4
+A
+40
 W15 Banja Luka (Bosna & Hercegovina), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -1286,22 +1260,24 @@ Saigo R.
 W75 Caserta (Italija), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
-2. set
+Kraj
 Schunk N.
 Mazzola A.
 0
-1
+2
 2
 6
-2
-1
-0
-0
-19:00
+3
+6
+Kraj
 Urgesi F.
 Chiesa D.
--
--
+2
+0
+6
+4
+6
+2
 M15 Harmon (Guam), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -1520,17 +1496,19 @@ Guna R.
 M25 Caltanissetta (Italija), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
-1. set
+Kraj
 Coccioli A.
 Lorusso L.
 Fancutt T. J.
 Rai A.
 0
-0
-5
+2
+6
 4
-15
-30
+7
+7
+1
+6
 M25 Cuiaba (Brazil), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -1560,29 +1538,35 @@ Remondy Pagotto V. H.
 1
 8
 10
-21:00
+2. set
 Kohlmann E.
 Remondy Pagotto V. H.
 Ribeiro de Almeida G.
 Rodrigues P.
--
--
+1
+0
+6
+2
+2
+3
+15
+0
 W100 Sumter, SC (SAD), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
-2. set
+Kraj
 Rogers A. S.
 Zamarripa A.
 Harrison C.
 Osborne A.
-0
 1
+2
 4
 6
+6
 4
-3
-0
-0
+7
+10
 W15 Banja Luka (Bosna & Hercegovina), zemlja
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -1608,14 +1592,17 @@ Remander S.
 1
 3
 10
-17:15
-SKR
+Kraj
 Ivanovic I.
 Trnkovski K.
 Haavisto E.
 Remander S.
--
--
+0
+2
+2
+6
+1
+6
 W15 Brasilia (Brazil), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -1630,14 +1617,17 @@ Mattioli F.
 W15 Casablanca (Maroko), zemlja
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
-17:00
-SKR
+Kraj
 El Aouni A.
 El Jardi D.
 Iliev S.
 Lene E.
--
--
+0
+2
+4
+6
+2
+6
 W15 Focsani (Rumunjska), zemlja
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -1760,13 +1750,19 @@ Mišković D.
 W50 Montemor-o-Novo (Portugal), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
-19:00
+Kraj
 Adeshina E.
 John-Baptiste L.
 Kuzmova K.
 Micic E.
--
--
+1
+2
+2
+6
+6
+4
+7
+10
 W50 Wuning (Kina), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -1887,7 +1883,7 @@ ATP French Open
 ATP S-Hertogenbosch
 ATP Stuttgart
 WTA French Open
-Prikaži više (79)
+Prikaži više (87)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -1942,7 +1938,6 @@ NHL
 Svjetski kup vaterpolo 2026
 NOGOMET UŽIVO
 Hrvatska - Slovenija
-Portugal - Čile
 Panama - Bosna i Hercegovina
 Engleska - Novi Zeland
 Argentina - Honduras
@@ -1951,17 +1946,18 @@ Kolumbija - Jordan
 Nizozemska - Uzbekistan
 Francuska - Sjeverna Irska
 DR Kongo - Čile
+Hrvatska Ž - Bugarska Ž
 REZULTATI UŽIVO
-Dubai - Partizan Mozzart Bet
 Panama - Bosna i Hercegovina
 Cibona - Zadar
+Partizan Mozzart Bet - Dubai
 Kanada - Bosna i Hercegovina
-SAD - Njemačka
 Švicarska - Australija
 Murcia - Barcelona
 Bolivija - Škotska
 Katar - Salvador
 Jamajka - Južna Afrika
+Brazil - Egipat
 LIVESCORE
 Vekić - Monnet
 Hrvatska Ž - Litva Ž
