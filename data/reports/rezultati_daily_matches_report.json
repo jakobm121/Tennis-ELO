@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T13:03:48.468454+02:00",
+  "generated_at": "2026-06-06T16:06:13.871656+02:00",
   "source_url": "https://www.rezultati.com/tenis/",
   "output_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/input/matches_today.json",
   "seen_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/state/seen_match_urls.json",
@@ -14,19 +14,19 @@
     "reset_seen_matches": false
   },
   "counts": {
-    "found_matches": 116,
-    "available_unseen": 86,
+    "found_matches": 118,
+    "available_unseen": 78,
     "selected": 10,
-    "skipped_seen": 30,
-    "seen_total": 40,
+    "skipped_seen": 40,
+    "seen_total": 50,
     "blocked": 0,
     "errors": 0
   },
   "error": "",
   "selected": [
     {
-      "match": "Daniel Merida Aguilar - Pellegrino Andrea",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/daniel-merida-aguilar-WOtXbAu5/pellegrino-andrea-ENPUiYgk/?mid=xz0hkRCO",
+      "match": "Alkaya Mert - Sakellaridis Michalis",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/alkaya-mert-biuyCvl4/sakellaridis-michalis-WIQm50nH/?mid=x2YkaUvI",
       "date": "",
       "status": "scheduled",
       "tour_level": "",
@@ -34,15 +34,15 @@
       "tournament": "",
       "country": "",
       "surface": "",
-      "player_1": "Daniel Merida Aguilar",
-      "player_2": "Pellegrino Andrea",
+      "player_1": "Alkaya Mert",
+      "player_2": "Sakellaridis Michalis",
       "source": "rezultati_daily_click",
-      "source_match_id": "xz0hkRCO",
-      "raw_parent_text": "20:30\nMerida Aguilar D.\nPellegrino A.\n-\n-"
+      "source_match_id": "x2YkaUvI",
+      "raw_parent_text": "2. set\nSakellaridis M.\nAlkaya M.\n0\n1\n1\n6\n0\n2\nA\n40"
     },
     {
-      "match": "Deckers Alec - Tomic Bernard",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/deckers-alec-hlifDwAk/tomic-bernard-fVQY2TUC/?mid=t2DhJKqe",
+      "match": "Du Pree Britt - Garland Joanna",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/du-pree-britt-p0O7n3eA/garland-joanna-nLHKqCzb/?mid=2B0Zf52T",
       "date": "",
       "status": "scheduled",
       "tour_level": "",
@@ -50,15 +50,15 @@
       "tournament": "",
       "country": "",
       "surface": "",
-      "player_1": "Deckers Alec",
-      "player_2": "Tomic Bernard",
+      "player_1": "Du Pree Britt",
+      "player_2": "Garland Joanna",
       "source": "rezultati_daily_click",
-      "source_match_id": "t2DhJKqe",
-      "raw_parent_text": "14:45\nDeckers A.\nTomic B.\n-\n-"
+      "source_match_id": "2B0Zf52T",
+      "raw_parent_text": "16:05\nDu Pree B.\nGarland J.\n-\n-"
     },
     {
-      "match": "Dedura Palomero Diego - Mikrut Luka",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/dedura-palomero-diego-IXM4oGM3/mikrut-luka-Wv7XRRCI/?mid=hjr3En5d",
+      "match": "Eala Alexandra - Masarova Rebeka",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/eala-alexandra-ppu9X7PH/masarova-rebeka-KGQ2bDHb/?mid=beovguwJ",
       "date": "",
       "status": "scheduled",
       "tour_level": "",
@@ -66,15 +66,15 @@
       "tournament": "",
       "country": "",
       "surface": "",
-      "player_1": "Dedura Palomero Diego",
-      "player_2": "Mikrut Luka",
+      "player_1": "Eala Alexandra",
+      "player_2": "Masarova Rebeka",
       "source": "rezultati_daily_click",
-      "source_match_id": "hjr3En5d",
-      "raw_parent_text": "13:40\nDedura D.\nMikrut L.\n-\n-"
+      "source_match_id": "beovguwJ",
+      "raw_parent_text": "Prekinuto\nEala A.\nMasarova R.\n1\n1\n6\n2\n4\n6\n5\n2\n0\n0"
     },
     {
-      "match": "Delaney Jake - Sach Tai",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/delaney-jake-QLcrkhjd/sach-tai-W6rvCM52/?mid=CMouSste",
+      "match": "Encheva Lidia - Senic Natalija",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/encheva-lidia-K0avvuYH/senic-natalija-GpAVHzWB/?mid=OGTAknhf",
       "date": "",
       "status": "scheduled",
       "tour_level": "",
@@ -82,15 +82,15 @@
       "tournament": "",
       "country": "",
       "surface": "",
-      "player_1": "Delaney Jake",
-      "player_2": "Sach Tai",
+      "player_1": "Encheva Lidia",
+      "player_2": "Senic Natalija",
       "source": "rezultati_daily_anchor",
-      "source_match_id": "CMouSste",
+      "source_match_id": "OGTAknhf",
       "raw_parent_text": ""
     },
     {
-      "match": "Dellavedova Matthew - Mo Yecong",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/dellavedova-matthew-0AnInLXj/mo-yecong-IVLazPCA/?mid=SzPegkft",
+      "match": "Evans Tatum - Penickova Kristina",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/evans-tatum-jcJMERNu/penickova-kristina-hbFh4a0p/?mid=WEIxzk8D",
       "date": "",
       "status": "scheduled",
       "tour_level": "",
@@ -98,15 +98,15 @@
       "tournament": "",
       "country": "",
       "surface": "",
-      "player_1": "Dellavedova Matthew",
-      "player_2": "Mo Yecong",
+      "player_1": "Evans Tatum",
+      "player_2": "Penickova Kristina",
       "source": "rezultati_daily_anchor",
-      "source_match_id": "SzPegkft",
+      "source_match_id": "WEIxzk8D",
       "raw_parent_text": ""
     },
     {
-      "match": "Dibenedetto Carolina - Soriano Santiago Marta",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/dibenedetto-carolina-xzH3oF66/soriano-santiago-marta-r7MxvmMh/?mid=UaZPLUCM",
+      "match": "Falkner Ziva - Supova Kali",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/falkner-ziva-dlYWNPZ7/supova-kali-Qov7cFfm/?mid=UXtVK4Nq",
       "date": "",
       "status": "scheduled",
       "tour_level": "",
@@ -114,15 +114,15 @@
       "tournament": "",
       "country": "",
       "surface": "",
-      "player_1": "Dibenedetto Carolina",
-      "player_2": "Soriano Santiago Marta",
+      "player_1": "Falkner Ziva",
+      "player_2": "Supova Kali",
       "source": "rezultati_daily_anchor",
-      "source_match_id": "UaZPLUCM",
+      "source_match_id": "UXtVK4Nq",
       "raw_parent_text": ""
     },
     {
-      "match": "Dietrich Dylan - Milev Yanaki",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/dietrich-dylan-nHleitot/milev-yanaki-6HaaZh9U/?mid=lKhqAjQN",
+      "match": "Fery Arthur - Yunchaokete Bu",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/fery-arthur-SKxbA6KA/yunchaokete-bu-Qabjt3Y5/?mid=OSuLgUDN",
       "date": "",
       "status": "scheduled",
       "tour_level": "",
@@ -130,47 +130,15 @@
       "tournament": "",
       "country": "",
       "surface": "",
-      "player_1": "Dietrich Dylan",
-      "player_2": "Milev Yanaki",
-      "source": "rezultati_daily_anchor",
-      "source_match_id": "lKhqAjQN",
-      "raw_parent_text": ""
-    },
-    {
-      "match": "Dilek Deniz - Subasic Alana",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/dilek-deniz-dEQa9FEi/subasic-alana-dj48my8Q/?mid=fuAf7Wzf",
-      "date": "",
-      "status": "scheduled",
-      "tour_level": "",
-      "gender": "",
-      "tournament": "",
-      "country": "",
-      "surface": "",
-      "player_1": "Dilek Deniz",
-      "player_2": "Subasic Alana",
-      "source": "rezultati_daily_anchor",
-      "source_match_id": "fuAf7Wzf",
-      "raw_parent_text": ""
-    },
-    {
-      "match": "Donski Alexander - Montsi Khololwam",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/donski-alexander-hvM3ptDk/montsi-khololwam-251Dqlpn/?mid=MHxPvPJN",
-      "date": "",
-      "status": "scheduled",
-      "tour_level": "",
-      "gender": "",
-      "tournament": "",
-      "country": "",
-      "surface": "",
-      "player_1": "Donski Alexander",
-      "player_2": "Montsi Khololwam",
+      "player_1": "Fery Arthur",
+      "player_2": "Yunchaokete Bu",
       "source": "rezultati_daily_click",
-      "source_match_id": "MHxPvPJN",
-      "raw_parent_text": "13:05\nMontsi K.\nDonski A.\n-\n-"
+      "source_match_id": "OSuLgUDN",
+      "raw_parent_text": "16:00\nFery A.\nBu Y.\n-\n-"
     },
     {
-      "match": "Draxl Liam - Walton Adam",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/draxl-liam-IiUa42eG/walton-adam-jNRjAU1U/?mid=A36GNKIj",
+      "match": "Ficovich Juan Pablo - Thijmen Loof",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/ficovich-juan-pablo-WpchB57t/thijmen-loof-lQYq0vQB/?mid=Sx2fwtyR",
       "date": "",
       "status": "scheduled",
       "tour_level": "",
@@ -178,11 +146,43 @@
       "tournament": "",
       "country": "",
       "surface": "",
-      "player_1": "Draxl Liam",
-      "player_2": "Walton Adam",
-      "source": "rezultati_daily_click",
-      "source_match_id": "A36GNKIj",
-      "raw_parent_text": "17:00\nWalton A.\nDraxl L.\n-\n-"
+      "player_1": "Ficovich Juan Pablo",
+      "player_2": "Thijmen Loof",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "Sx2fwtyR",
+      "raw_parent_text": ""
+    },
+    {
+      "match": "Fons Van Sambeek - Wehnelt Kai",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/fons-van-sambeek-fq7a2bME/wehnelt-kai-2iQTHF45/?mid=hhBugtGq",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Fons Van Sambeek",
+      "player_2": "Wehnelt Kai",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "hhBugtGq",
+      "raw_parent_text": ""
+    },
+    {
+      "match": "Fullana Luiza - Romero Camila",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/fullana-luiza-v55cXYg7/romero-camila-MkddgpSG/?mid=MLQjqgoR",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Fullana Luiza",
+      "player_2": "Romero Camila",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "MLQjqgoR",
+      "raw_parent_text": ""
     }
   ],
   "skipped_seen_examples": [
@@ -200,7 +200,7 @@
       "player_2": "Sonego Lorenzo",
       "source": "rezultati_daily_click",
       "source_match_id": "lUNMTS3U",
-      "raw_parent_text": "15:40\nSonego L.\nAlkaya M.\n-\n-"
+      "raw_parent_text": "Otkazano\nSonego L.\nAlkaya M.\n-\n-"
     },
     {
       "match": "Andreeva Mirra - Chwalinska Maja",
@@ -216,7 +216,7 @@
       "player_2": "Chwalinska Maja",
       "source": "rezultati_daily_click",
       "source_match_id": "dddfTkHb",
-      "raw_parent_text": "15:00\nChwalinska M.\nAndreeva M.\n-\n-"
+      "raw_parent_text": "1. set\nChwalinska M.\nAndreeva M.\n0\n0\n3\n4\n0\n0"
     },
     {
       "match": "Angelini Lorenzo - Kelm Yannik",
@@ -326,9 +326,9 @@
       "surface": "",
       "player_1": "Baez Sebastian",
       "player_2": "Sanchez Izquierdo Nikolas",
-      "source": "rezultati_daily_click",
+      "source": "rezultati_daily_anchor",
       "source_match_id": "QHFFDSbJ",
-      "raw_parent_text": "1. set\nBaez S.\nSanchez Izquierdo N.\n0\n0\n2\n1\n0\n0"
+      "raw_parent_text": ""
     },
     {
       "match": "Bar Biryukov Petr - Safiullin Roman",
@@ -344,7 +344,7 @@
       "player_2": "Safiullin Roman",
       "source": "rezultati_daily_click",
       "source_match_id": "KW4npllB",
-      "raw_parent_text": "15:40\nSafiullin R.\nBar Biryukov P.\n-\n-"
+      "raw_parent_text": "16:30\nSafiullin R.\nBar Biryukov P.\n-\n-"
     },
     {
       "match": "Barroso Campos Alberto - Dlimi Yassine",
@@ -374,9 +374,9 @@
       "surface": "",
       "player_1": "Barthel Mona",
       "player_2": "Van De Winkel Hanne",
-      "source": "rezultati_daily_click",
+      "source": "rezultati_daily_anchor",
       "source_match_id": "YDsaBQnA",
-      "raw_parent_text": "1. set\nVandewinkel H.\nBarthel M.\n0\n0\n0\n1\n0\n0"
+      "raw_parent_text": ""
     },
     {
       "match": "Barton Hynek - Molcan Alex",
@@ -408,7 +408,7 @@
       "player_2": "Krueger Ashlyn",
       "source": "rezultati_daily_click",
       "source_match_id": "0x5sD17F",
-      "raw_parent_text": "12:00\nBartunkova N.\nKrueger A.\n-\n-"
+      "raw_parent_text": "Prekinuto\nBartunkova N.\nKrueger A.\n1\n0\n6\n4\n6\n4\n6\n6\n0\n0"
     },
     {
       "match": "Basilashvili Nikoloz - Huesler Marc Andrea",
@@ -456,7 +456,7 @@
       "player_2": "Burrage Jodie",
       "source": "rezultati_daily_click",
       "source_match_id": "r7Zp2M9d",
-      "raw_parent_text": "15:10\nBurrage J.\nBlinkova A.\n-\n-"
+      "raw_parent_text": "16:50\nBurrage J.\nBlinkova A.\n-\n-"
     },
     {
       "match": "Bocchi Lorenzo - Sarksian Daniil",
@@ -504,7 +504,7 @@
       "player_2": "Polmans Marc",
       "source": "rezultati_daily_click",
       "source_match_id": "EFB0HbE7",
-      "raw_parent_text": "14:40\nBonzi B.\nPolmans M.\n-\n-"
+      "raw_parent_text": "1. set\nBonzi B.\nPolmans M.\n0\n0\n0\n0\n30\n0"
     },
     {
       "match": "Brace Cadence - Brantmeier Reese",
@@ -566,9 +566,9 @@
       "surface": "",
       "player_1": "Castelnuovo Luca",
       "player_2": "Rodionov Jurij",
-      "source": "rezultati_daily_click",
+      "source": "rezultati_daily_anchor",
       "source_match_id": "UaR6XA45",
-      "raw_parent_text": "1. set\nCastelnuovo L.\nRodionov J.\n0\n0\n1\n5\n40\n30"
+      "raw_parent_text": ""
     },
     {
       "match": "Ceuca Ann Akasha - Villet Marie",
@@ -600,7 +600,7 @@
       "player_2": "Gibson Talia",
       "source": "rezultati_daily_click",
       "source_match_id": "z1tEPG7K",
-      "raw_parent_text": "15:10\nGibson T.\nCharaeva A.\n-\n-"
+      "raw_parent_text": "16:50\nGibson T.\nCharaeva A.\n-\n-"
     },
     {
       "match": "Chiesa Deborah - Urgesi Federica",
@@ -662,9 +662,169 @@
       "surface": "",
       "player_1": "Damm Martin 2003",
       "player_2": "Houkes Max",
-      "source": "rezultati_daily_click",
+      "source": "rezultati_daily_anchor",
       "source_match_id": "Ot9uUybD",
-      "raw_parent_text": "3. set\nDamm M.\nHoukes M.\n1\n1\n4\n6\n6\n3\n5\n5\n15\n0"
+      "raw_parent_text": ""
+    },
+    {
+      "match": "Daniel Merida Aguilar - Pellegrino Andrea",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/daniel-merida-aguilar-WOtXbAu5/pellegrino-andrea-ENPUiYgk/?mid=xz0hkRCO",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Daniel Merida Aguilar",
+      "player_2": "Pellegrino Andrea",
+      "source": "rezultati_daily_click",
+      "source_match_id": "xz0hkRCO",
+      "raw_parent_text": "20:30\nMerida Aguilar D.\nPellegrino A.\n-\n-"
+    },
+    {
+      "match": "Deckers Alec - Tomic Bernard",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/deckers-alec-hlifDwAk/tomic-bernard-fVQY2TUC/?mid=t2DhJKqe",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Deckers Alec",
+      "player_2": "Tomic Bernard",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "t2DhJKqe",
+      "raw_parent_text": ""
+    },
+    {
+      "match": "Dedura Palomero Diego - Mikrut Luka",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/dedura-palomero-diego-IXM4oGM3/mikrut-luka-Wv7XRRCI/?mid=hjr3En5d",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Dedura Palomero Diego",
+      "player_2": "Mikrut Luka",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "hjr3En5d",
+      "raw_parent_text": ""
+    },
+    {
+      "match": "Delaney Jake - Sach Tai",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/delaney-jake-QLcrkhjd/sach-tai-W6rvCM52/?mid=CMouSste",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Delaney Jake",
+      "player_2": "Sach Tai",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "CMouSste",
+      "raw_parent_text": ""
+    },
+    {
+      "match": "Dellavedova Matthew - Mo Yecong",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/dellavedova-matthew-0AnInLXj/mo-yecong-IVLazPCA/?mid=SzPegkft",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Dellavedova Matthew",
+      "player_2": "Mo Yecong",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "SzPegkft",
+      "raw_parent_text": ""
+    },
+    {
+      "match": "Dibenedetto Carolina - Soriano Santiago Marta",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/dibenedetto-carolina-xzH3oF66/soriano-santiago-marta-r7MxvmMh/?mid=UaZPLUCM",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Dibenedetto Carolina",
+      "player_2": "Soriano Santiago Marta",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "UaZPLUCM",
+      "raw_parent_text": ""
+    },
+    {
+      "match": "Dietrich Dylan - Milev Yanaki",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/dietrich-dylan-nHleitot/milev-yanaki-6HaaZh9U/?mid=lKhqAjQN",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Dietrich Dylan",
+      "player_2": "Milev Yanaki",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "lKhqAjQN",
+      "raw_parent_text": ""
+    },
+    {
+      "match": "Dilek Deniz - Subasic Alana",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/dilek-deniz-dEQa9FEi/subasic-alana-dj48my8Q/?mid=fuAf7Wzf",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Dilek Deniz",
+      "player_2": "Subasic Alana",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "fuAf7Wzf",
+      "raw_parent_text": ""
+    },
+    {
+      "match": "Donski Alexander - Montsi Khololwam",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/donski-alexander-hvM3ptDk/montsi-khololwam-251Dqlpn/?mid=MHxPvPJN",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Donski Alexander",
+      "player_2": "Montsi Khololwam",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "MHxPvPJN",
+      "raw_parent_text": ""
+    },
+    {
+      "match": "Draxl Liam - Walton Adam",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/draxl-liam-IiUa42eG/walton-adam-jNRjAU1U/?mid=A36GNKIj",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Draxl Liam",
+      "player_2": "Walton Adam",
+      "source": "rezultati_daily_click",
+      "source_match_id": "A36GNKIj",
+      "raw_parent_text": "17:00\nWalton A.\nDraxl L.\n-\n-"
     }
   ],
   "debug_files": {
