@@ -27,6 +27,135 @@ Chwalinska M.
 Andreeva M.
 -
 -
+Hertogenbosch (Nizozemska) - Kvalifikacije, trava
+ATP - SINGL: 
+Ždrijeb
+11:00
+Damm M.
+Houkes M.
+-
+-
+11:00
+Loof T.
+Ficovich J. P.
+-
+-
+12:30
+Geerts M.
+Ymer E.
+-
+-
+12:30
+McDonald M.
+Visker N.
+-
+-
+14:00
+Bonzi B.
+Polmans M.
+-
+-
+14:00
+Deckers A.
+Tomic B.
+-
+-
+14:00
+Jong S.
+Mochizuki S.
+-
+-
+14:00
+Wong C.
+McCabe J.
+-
+-
+Stuttgart (Njemačka) - Kvalifikacije, trava
+ATP - SINGL: 
+Ždrijeb
+11:00
+Basilashvili N.
+Huesler M.
+-
+-
+11:00
+Gentzsch T.
+Onclin G.
+-
+-
+12:30
+Castelnuovo L.
+Rodionov J.
+-
+-
+12:30
+Shimabukuro S.
+Sakellaridis S.
+-
+-
+14:00
+Herbert P.H.
+Glinka D.
+-
+-
+14:00
+Hsu Y. H.
+Galarneau A.
+-
+-
+15:30
+Safiullin R.
+Bar Biryukov P.
+-
+-
+15:30
+Sonego L.
+Alkaya M.
+-
+-
+S-Hertogenbosch (Nizozemska) - Kvalifikacije, trava
+WTA - SINGL: 
+Ždrijeb
+11:00
+Minnen G.
+Tomova V.
+-
+-
+11:00
+Seidel E.
+Liu C.
+-
+-
+11:00
+Volynets K.
+Hibino N.
+-
+-
+12:30
+Lee C. Y.
+Zhu L.
+-
+-
+12:30
+Vandewinkel H.
+Barthel M.
+-
+-
+12:30
+Vrancken Peeters A.
+Koevermans A.
+-
+-
+14:00
+Yuan Y.
+Montgomery R.
+-
+-
+15:30
+Du Pree B.
+Garland J.
+-
+-
 French Open (Francuska), zemlja
 ATP - PAROVI: 
 Ždrijeb
@@ -105,9 +234,14 @@ Sanchez Izquierdo N.
 Tyler (SAD), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
-18:00
+17:00
 Walton A.
 Draxl L.
+-
+-
+18:30
+Poling K.
+Ilagan A.
 -
 -
 Birmingham (Ujedinjeno Kraljevstvo), trava
@@ -209,18 +343,33 @@ Paulson A.
 Tyler (SAD), tvrda podloga
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
-00:00
-Martinez L. D.
-Masur D.
-Sun F.
-Watanabe S.
--
--
-00:35
+Prekinuto
 Basel V.
 Oliveira B.
 Pearson K.
 Puttergill C.
+0
+0
+5
+4
+0
+0
+Prekinuto
+Fuchs Z.
+Thayne W.
+Harper P.
+Milavsky D.
+0
+0
+1
+0
+0
+30
+17:30
+Martinez L. D.
+Masur D.
+Sun F.
+Watanabe S.
 -
 -
 Foggia (Italija), zemlja
@@ -246,12 +395,17 @@ Waltert S.
 M15 Harmon (Guam), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
-02:00
-SKR
+Kraj
 Delaney Ja.
 Sach T.
--
--
+2
+1
+6
+4
+3
+6
+6
+0
 03:00
 SKR
 Kadiri Hassani Y.
@@ -286,6 +440,21 @@ Yazdani A.
 SKR
 Gagliardo L.
 Arzhankin A.
+-
+-
+M15 Lakewood, CA 2 (SAD), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+16:00
+SKR
+Bonding O.
+Popko D.
+-
+-
+16:00
+SKR
+Vasa I.
+Ojakaar O.
 -
 -
 M15 Luan 3 (Kina), tvrda podloga
@@ -407,35 +576,40 @@ Piraino G.
 M25 Cuiaba (Brazil), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
-1. set
+Kraj
 La Serna J. M.
 Oliveira N.
 0
-0
-1
-1
-0
-0
-1. set
+2
+5
+7
+4
+6
+Kraj
 Pucinelli de Almeida M.
 Villanueva G.
 0
-0
-0
-0
-30
-30
+2
+5
+7
+4
+6
+22:30
+Oliveira N.
+Zarate C. M.
+-
+-
 W100 Sumter, SC (SAD), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
-16:00
-Brantmeier R.
-Brace C.
--
--
-16:00
+18:30
 Osuigwe W.
 Liutova K.
+-
+-
+20:00
+Brantmeier R.
+Brace C.
 -
 -
 W15 Banja Luka (Bosna & Hercegovina), zemlja
@@ -604,12 +778,20 @@ Ku Y.
 W50 Wuning (Kina), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
-04:00
+3. set
 Yao X.
 Goto R.
--
--
-05:00
+1
+1
+3
+6
+7
+5
+3
+0
+A
+40
+06:15
 Ren Y.
 Saigo R.
 -
@@ -630,7 +812,7 @@ Chiesa D.
 M15 Harmon (Guam), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
-04:00
+05:00
 SKR
 Kusuhara Y.
 Nakagawa S.
@@ -674,6 +856,17 @@ Cordoba C.
 Planella Hernandez S.
 Liusso M.
 Vincent Ruggeri S.
+-
+-
+M15 Lakewood, CA 2 (SAD), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+17:00
+SKR
+Arseneault M.
+Gurenko V.
+Falck R.
+Shearer M.
 -
 -
 M15 Luan 3 (Kina), tvrda podloga
@@ -765,24 +958,43 @@ Rai A.
 M25 Cuiaba (Brazil), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
-01:00
+Kraj
 Pignaton L. C.
 Price S.
 Ribeiro de Almeida G.
 Rodrigues P.
--
--
-01:35
+0
+2
+1
+6
+0
+6
+Kraj
 Augusto dos Santos R.
 Loureiro J. V. C.
 Kohlmann E.
 Remondy Pagotto V. H.
+1
+2
+6
+7
+7
+9
+6
+1
+8
+10
+21:00
+Kohlmann E.
+Remondy Pagotto V. H.
+Ribeiro de Almeida G.
+Rodrigues P.
 -
 -
 W100 Sumter, SC (SAD), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
-16:00
+17:00
 Rogers A. S.
 Zamarripa A.
 Harrison C.
@@ -1086,12 +1298,12 @@ Dubai - Partizan Mozzart Bet
 Panama - Bosna i Hercegovina
 Cibona - Zadar
 Kanada - Bosna i Hercegovina
-Paragvaj - Nikaragva
-Kanada - Irska
-Haiti - Peru
 SAD - Njemačka
 Švicarska - Australija
 Murcia - Barcelona
+Bolivija - Škotska
+Katar - Salvador
+Jamajka - Južna Afrika
 LIVESCORE
 Hrvatska Ž - Litva Ž
 Hrvatska - Gruzija
