@@ -30,34 +30,49 @@ Andreeva M.
 Hertogenbosch (Nizozemska) - Kvalifikacije, trava
 ATP - SINGL: 
 Ždrijeb
-11:00
+3. set
 Damm M.
 Houkes M.
--
--
-11:00
+1
+1
+4
+6
+6
+3
+5
+5
+15
+0
+2. set
 Loof T.
 Ficovich J. P.
--
--
-12:30
+0
+1
+6
+3
+7
+7
+5
+4
+0
+15
+Otkazano
 Geerts M.
 Ymer E.
 -
 -
-12:30
+1. set
+Visser M.
+Ymer E.
+0
+0
+3
+4
+30
+0
+13:10
 McDonald M.
 Visker N.
--
--
-14:00
-Bonzi B.
-Polmans M.
--
--
-14:00
-Deckers A.
-Tomic B.
 -
 -
 14:00
@@ -70,45 +85,76 @@ Wong C.
 McCabe J.
 -
 -
+14:40
+Bonzi B.
+Polmans M.
+-
+-
+14:45
+Deckers A.
+Tomic B.
+-
+-
 Stuttgart (Njemačka) - Kvalifikacije, trava
 ATP - SINGL: 
 Ždrijeb
-11:00
+Kraj
 Basilashvili N.
 Huesler M.
--
--
-11:00
+0
+2
+1
+6
+5
+7
+Otkazano
 Gentzsch T.
 Onclin G.
 -
 -
-12:30
+Kraj
+Luz O.
+Onclin G.
+0
+2
+1
+6
+3
+6
+1. set
 Castelnuovo L.
 Rodionov J.
--
--
-12:30
+0
+0
+1
+5
+15
+15
+1. set
 Shimabukuro S.
 Sakellaridis S.
--
--
-14:00
+0
+0
+2
+2
+40
+A
+14:10
 Herbert P.H.
 Glinka D.
 -
 -
-14:00
+14:10
 Hsu Y. H.
 Galarneau A.
 -
 -
-15:30
+15:40
 Safiullin R.
 Bar Biryukov P.
 -
 -
-15:30
+15:40
 Sonego L.
 Alkaya M.
 -
@@ -136,42 +182,42 @@ Zhang S.
 Klugman H.
 -
 -
-13:30
+13:40
 Gorgodze E.
 Rakhimova K.
 -
 -
-13:30
+13:40
 Inglis M.
 Parks A.
 -
 -
-13:30
+13:40
 Jacquemot E.
 Guo H.
 -
 -
-13:30
+13:40
 Maria T.
 Miyazaki L.
 -
 -
-15:00
+15:10
 Burrage J.
 Blinkova A.
 -
 -
-15:00
+15:10
 Gibson T.
 Charaeva A.
 -
 -
-15:00
+15:10
 Hon P.
 Kudermetova P.
 -
 -
-15:00
+15:10
 Vekić D.
 Monnet C.
 -
@@ -179,42 +225,60 @@ Monnet C.
 S-Hertogenbosch (Nizozemska) - Kvalifikacije, trava
 WTA - SINGL: 
 Ždrijeb
-11:00
+Kraj
 Minnen G.
 Tomova V.
--
--
-11:00
+2
+0
+6
+1
+6
+1
+Kraj
 Seidel E.
 Liu C.
--
--
-11:00
+2
+0
+7
+7
+6
+5
+6
+3
+Kraj
 Volynets K.
 Hibino N.
--
--
-12:30
+2
+0
+6
+2
+6
+2
+1. set
 Lee C. Y.
 Zhu L.
--
--
-12:30
+0
+0
+3
+4
+0
+15
+13:00
 Vandewinkel H.
 Barthel M.
 -
 -
-12:30
+13:15
 Vrancken Peeters A.
 Koevermans A.
 -
 -
-14:00
+14:30
 Yuan Y.
 Montgomery R.
 -
 -
-15:30
+16:15
 Du Pree B.
 Garland J.
 -
@@ -222,13 +286,17 @@ Garland J.
 French Open (Francuska), zemlja
 ATP - PAROVI: 
 Ždrijeb
-11:00
+Kraj
 Granollers M.
 Zeballos H.
 Heliovaara H.
 Patten H.
--
--
+2
+0
+6
+4
+6
+2
 Birmingham (Ujedinjeno Kraljevstvo), trava
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -245,12 +313,12 @@ Majchrzak K.
 Centurion 2 (Južna Afrika), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
-11:00
+13:00
 Montsi K.
 Donski A.
 -
 -
-12:30
+14:30
 Mayot H.
 Henning P.
 -
@@ -258,12 +326,18 @@ Henning P.
 Heilbronn (Njemačka), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
-12:00
+2. set
 Squire H.
 Nava E.
--
--
-13:30
+0
+1
+1
+6
+2
+4
+30
+30
+13:40
 Dedura D.
 Mikrut L.
 -
@@ -284,16 +358,24 @@ Pellegrino A.
 Prostejov (Češka Republika), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
-11:00
+Kraj
 Barton H.
 Molcan A.
--
--
-12:30
+0
+2
+3
+6
+2
+6
+1. set
 Baez S.
 Sanchez Izquierdo N.
--
--
+0
+0
+1
+1
+0
+0
 Tyler (SAD), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -359,24 +441,32 @@ Paris J.
 Centurion 2 (Južna Afrika), tvrda podloga
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
-14:00
+Kraj
 Azkara A.
 Duran T.
 Badenhorst D.
 Koenig L.
--
--
+2
+1
+6
+2
+6
+4
+7
+7
+10
+7
 Heilbronn (Njemačka), zemlja
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
-15:00
+15:10
 Jung J.
 Uesugi K.
 Barrena A.
 Nava E.
 -
 -
-16:30
+16:40
 Ruehl T.
 Veldheer M.
 Dodig M.
@@ -396,7 +486,7 @@ Winegar T.
 Prostejov (Češka Republika), zemlja
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
-14:00
+14:10
 Liutarevich I.
 Pieczonka F.
 Karol M.
@@ -485,18 +575,28 @@ Koyama H.
 M15 Kayseri 3 (Turska), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
-08:00
-SKR
+Kraj
 Marrero Curbelo I.
 Azoidis D.
--
--
-08:30
-SKR
+0
+2
+6
+3
+7
+7
+3
+6
+Kraj
 Turker M. N.
 McKennon M.
--
--
+2
+0
+7
+7
+6
+5
+7
+5
 M15 Kursumlijska Banja 3 (Srbija), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -553,16 +653,40 @@ Zeng Y.
 M15 Ljubljana (Slovenija), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
-10:00
-SKR
+Kraj
 Kupcic J.
 Weis A.
--
--
-10:00
-SKR
+2
+1
+4
+6
+6
+4
+6
+3
+Kraj
 Mohar V.
 Milev Y.
+1
+2
+7
+7
+6
+5
+3
+6
+3
+6
+11:30
+SKR
+Dietrich D.
+Milev Y.
+-
+-
+13:30
+SKR
+Kupcic J.
+Jeran A.
 -
 -
 M15 Monastir 21 (Tunis), tvrda podloga
@@ -598,12 +722,15 @@ Marysko V.
 M15 Szentendre (Mađarska), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
-10:00
-SKR
+Kraj
 Kelm Y.
 Angelini L.
--
--
+2
+0
+6
+4
+6
+2
 10:00
 SKR
 Orlov V.
@@ -613,12 +740,17 @@ Makk P.
 M15 Tsaghkadzor 2 (Armenija), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
-09:00
-SKR
+Kraj
 Bocchi L.
 Sarksian D.
--
--
+2
+1
+6
+2
+4
+6
+6
+2
 Kraj
 (predano)
 Tiukaev R.
@@ -630,24 +762,24 @@ Knitter K.
 M25 Bistrita (Rumunjska), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
-1. set
+Kraj
 Kivattsev K.
 Papoe R. M.
 0
-0
 2
-4
-15
-40
-1. set
+2
+6
+2
+6
+Kraj
 Haita S. H.
 Guna R.
+2
 0
-0
-4
+6
 3
-0
-0
+6
+3
 M25 Caltanissetta (Italija), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -690,12 +822,12 @@ Zarate C. M.
 W100 Sumter, SC (SAD), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
-18:30
+18:00
 Osuigwe W.
 Liutova K.
 -
 -
-20:00
+19:00
 Brantmeier R.
 Brace C.
 -
@@ -703,18 +835,24 @@ Brace C.
 W15 Banja Luka (Bosna & Hercegovina), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
-11:00
-SKR
+Kraj
 Haavisto E.
 Petruzelova L.
--
--
-11:00
-SKR
+0
+2
+0
+6
+2
+6
+Kraj
 Jovanovic M.
 Korpanec Davies A.
--
--
+0
+2
+3
+6
+2
+6
 W15 Brasilia (Brazil), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -748,12 +886,17 @@ Vargova N.
 W15 Focsani (Rumunjska), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
-08:00
-SKR
+Kraj
 Todoni C. N.
 Greiner S.
--
--
+1
+2
+6
+4
+4
+6
+5
+7
 Kraj
 (predano)
 Yesypchuk D.
@@ -767,12 +910,17 @@ Popa M. S.
 W15 Kayseri 3 (Turska), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
-08:00
-SKR
+Kraj
 Subasic A.
 Dilek D.
--
--
+0
+2
+3
+6
+6
+6
+7
+8
 Kraj
 Villet M.
 Ceuca A. A.
@@ -785,12 +933,17 @@ Ceuca A. A.
 W15 Kursumlijska Banja 3 (Srbija), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
-10:00
-SKR
+Kraj
 Encheva L.
 Senic N.
--
--
+2
+1
+2
+6
+6
+1
+6
+3
 11:30
 SKR
 Zolotareva A.
@@ -821,12 +974,15 @@ Lukosiute A.
 Noel C.
 -
 -
-10:30
-SKR
+Kraj
 Oliver Sanchez M.
 Passola B.
--
--
+0
+2
+3
+6
+1
+6
 W15 Ontinyent (Španjolska), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -845,12 +1001,15 @@ Garcia Cid Ma.
 W15 Osijek (Hrvatska), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
-10:00
-SKR
+Kraj
 Tsygourova K.
 Mišković D.
--
--
+2
+0
+6
+2
+6
+0
 11:30
 SKR
 Supova K.
@@ -860,11 +1019,17 @@ Falkner Z.
 W50 Montemor-o-Novo (Portugal), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
-12:00
+2. set
 Jorge F.
 Jorge M.
--
--
+1
+0
+6
+3
+0
+1
+30
+15
 14:00
 Kulikova A.
 Ku Y.
@@ -923,22 +1088,28 @@ Sach T.
 M15 Kayseri 3 (Turska), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
-09:30
-SKR
+Kraj
 Abdusamadov D.
 Milushev A.
 De Alba R.
 Sau Franco A.
--
--
-09:30
-SKR
+0
+2
+4
+6
+4
+6
+Kraj
 Dinev D.
 Markov V.
 Phillips D.
 Seleznev B.
--
--
+2
+0
+6
+2
+7
+5
 10:00
 SKR
 Anavatan M.
@@ -947,17 +1118,32 @@ Ozdemir S. M.
 Turker M. N.
 -
 -
+11:00
+SKR
+Dinev D.
+Markov V.
+Fradkin J.
+McKennon M.
+-
+-
 M15 Kursumlijska Banja 3 (Srbija), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
-10:00
-SKR
+Kraj
 Cordoba C.
 Planella Hernandez S.
 Liusso M.
 Vincent Ruggeri S.
--
--
+1
+2
+6
+5
+7
+7
+6
+3
+6
+10
 M15 Lakewood, CA 2 (SAD), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -988,10 +1174,21 @@ Yang Z.
 M15 Ljubljana (Slovenija), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
-10:00
-SKR
+Kraj
 Haliak M.
 Strauch V. J.
+Mueller C.
+Schell N.
+0
+2
+3
+6
+5
+7
+12:30
+SKR
+Hribar M.
+Mohar V.
 Mueller C.
 Schell N.
 -
@@ -1032,18 +1229,20 @@ Jilly A.
 M15 Tsaghkadzor 2 (Armenija), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
-10:30
-SKR
+Kraj
+(predano)
 Agafonov E.
 Lobanov A.
 Knitter K.
 Wygona J.
--
--
+0
+0
+1
+0
 M25 Bistrita (Rumunjska), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
-12:10
+13:15
 Haita S. H.
 Turcanu R. D.
 Ghetu G.
@@ -1117,8 +1316,7 @@ Haavisto E.
 Remander S.
 -
 -
-13:30
-SKR
+Walkover
 Gobbi Monllau A. V.
 Korpanec Davies A.
 Ivanovic I.
@@ -1150,14 +1348,17 @@ Lene E.
 W15 Focsani (Rumunjska), zemlja
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
-10:30
-SKR
+Kraj
 Boehner L.
 Yesypchuk D.
 Belibova L.
 Varsa A. I.
--
--
+2
+0
+6
+2
+6
+3
 W15 Kayseri 3 (Turska), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -1183,18 +1384,23 @@ Turkmen D.
 6
 3
 6
-09:50
-SKR
+Kraj
 Arystanbekova A.
 Dyussebay I.
 Soke D.
 Turkmen D.
--
--
+2
+1
+6
+2
+2
+6
+10
+5
 W15 Kursumlijska Banja 3 (Srbija), zemlja
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
-12:00
+13:00
 SKR
 Milovanovic E.
 Senic N.
@@ -1216,7 +1422,7 @@ Taylor L.
 W15 Monastir 16 (Tunis), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
-12:00
+12:30
 SKR
 Andrienko M.
 Bartel K.
@@ -1227,14 +1433,19 @@ Passola B.
 W15 Ontinyent (Španjolska), zemlja
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
-10:15
-SKR
+Kraj
 Molla Pons E.
 Ros Parres L.
 Gerald Gonzalez J. G.
 Rodero C.
--
--
+1
+2
+3
+6
+7
+5
+9
+11
 W15 Osijek (Hrvatska), zemlja
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -1293,11 +1504,15 @@ Antonius M.
 French Open (Francuska), zemlja
 JUNIORKE - SINGL: 
 Ždrijeb
-12:30
+1. set
 Oktiabreva A.
 Sun X.
--
--
+0
+0
+1
+0
+0
+0
 French Open (Francuska), zemlja
 JUNIORI - PAROVI: 
 Ždrijeb
@@ -1459,7 +1674,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Must be 21+. If you or someone you know has a gambling problem, crisis counselling and referral services can be accessed by calling 1-800-GAMBLER (1-800-426-2537) or by texting ILGAMB to 833234. The 1-800-GAMBLER helpline can be used for multi-jurisdictional advertising.
+Igrajte odgovorno. Gambling Therapy. 18+
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
