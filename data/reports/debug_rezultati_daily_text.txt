@@ -113,6 +113,69 @@ Sonego L.
 Alkaya M.
 -
 -
+London (Ujedinjeno Kraljevstvo) - Kvalifikacije, trava
+WTA - SINGL: 
+Ždrijeb
+12:00
+Hunter S.
+Sasnovich A.
+-
+-
+12:00
+Ruzic A.
+Ito A.
+-
+-
+12:00
+Watson H.
+Haddad Maia B.
+-
+-
+12:00
+Zhang S.
+Klugman H.
+-
+-
+13:30
+Gorgodze E.
+Rakhimova K.
+-
+-
+13:30
+Inglis M.
+Parks A.
+-
+-
+13:30
+Jacquemot E.
+Guo H.
+-
+-
+13:30
+Maria T.
+Miyazaki L.
+-
+-
+15:00
+Burrage J.
+Blinkova A.
+-
+-
+15:00
+Gibson T.
+Charaeva A.
+-
+-
+15:00
+Hon P.
+Kudermetova P.
+-
+-
+15:00
+Vekić D.
+Monnet C.
+-
+-
 S-Hertogenbosch (Nizozemska) - Kvalifikacije, trava
 WTA - SINGL: 
 Ždrijeb
@@ -406,12 +469,19 @@ Sach T.
 6
 6
 0
-03:00
-SKR
+Kraj
 Kadiri Hassani Y.
 Koyama H.
--
--
+2
+1
+6
+4
+6
+4
+7
+7
+6
+4
 M15 Kayseri 3 (Turska), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -460,18 +530,26 @@ Ojakaar O.
 M15 Luan 3 (Kina), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
-05:00
-SKR
+Kraj
 Dellavedova M.
 Mo Y. C.
--
--
-05:00
-SKR
+2
+0
+6
+2
+7
+5
+Kraj
 Liu H.
 Zeng Y.
--
--
+2
+0
+6
+2
+7
+7
+6
+3
 M15 Ljubljana (Slovenija), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -541,25 +619,35 @@ Bocchi L.
 Sarksian D.
 -
 -
-09:00
-SKR
+Kraj
+(predano)
 Tiukaev R.
 Knitter K.
--
--
+0
+0
+5
+0
 M25 Bistrita (Rumunjska), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
-10:00
-Haita S. H.
-Guna R.
--
--
-10:00
+1. set
 Kivattsev K.
 Papoe R. M.
--
--
+0
+0
+2
+4
+15
+40
+1. set
+Haita S. H.
+Guna R.
+0
+0
+4
+3
+0
+0
 M25 Caltanissetta (Italija), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -666,12 +754,16 @@ Todoni C. N.
 Greiner S.
 -
 -
-08:00
-SKR
+Kraj
+(predano)
 Yesypchuk D.
 Popa M. S.
--
--
+1
+0
+6
+4
+4
+2
 W15 Kayseri 3 (Turska), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -681,12 +773,15 @@ Subasic A.
 Dilek D.
 -
 -
-08:00
-SKR
+Kraj
 Villet M.
 Ceuca A. A.
--
--
+0
+2
+4
+6
+3
+6
 W15 Kursumlijska Banja 3 (Srbija), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -778,24 +873,26 @@ Ku Y.
 W50 Wuning (Kina), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
-3. set
+Kraj
 Yao X.
 Goto R.
-1
+2
 1
 3
 6
 7
 5
-3
+6
 0
-A
-40
-06:15
+Kraj
 Ren Y.
 Saigo R.
--
--
+2
+0
+6
+1
+6
+1
 W75 Caserta (Italija), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -812,14 +909,17 @@ Chiesa D.
 M15 Harmon (Guam), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
-05:00
-SKR
+Kraj
 Kusuhara Y.
 Nakagawa S.
 Delaney Je.
 Sach T.
--
--
+2
+0
+6
+4
+6
+4
 M15 Kayseri 3 (Turska), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -872,14 +972,19 @@ Shearer M.
 M15 Luan 3 (Kina), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
-08:00
-SKR
+Kraj
 Jin Y.
 Sun Qian
 Liu S.
 Yang Z.
--
--
+2
+1
+4
+6
+6
+3
+10
+5
 M15 Ljubljana (Slovenija), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -938,7 +1043,7 @@ Wygona J.
 M25 Bistrita (Rumunjska), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
-12:00
+12:10
 Haita S. H.
 Turcanu R. D.
 Ghetu G.
@@ -1045,7 +1150,7 @@ Lene E.
 W15 Focsani (Rumunjska), zemlja
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
-09:00
+10:30
 SKR
 Boehner L.
 Yesypchuk D.
@@ -1056,18 +1161,32 @@ Varsa A. I.
 W15 Kayseri 3 (Turska), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
-08:00
-SKR
+Kraj
 Arystanbekova A.
 Dyussebay I.
 Bergen M.
 Diatlova K.
--
--
-08:00
-SKR
+2
+0
+6
+0
+6
+3
+Kraj
 Krymkova A.
 Smirnova K.
+Soke D.
+Turkmen D.
+0
+2
+0
+6
+3
+6
+09:50
+SKR
+Arystanbekova A.
+Dyussebay I.
 Soke D.
 Turkmen D.
 -
@@ -1140,13 +1259,19 @@ Micic E.
 W50 Wuning (Kina), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
-08:00
+Kraj
 Huang Yujia
 Zheng W.
 Li Y.
 Zhang Y.
--
--
+1
+2
+6
+4
+0
+6
+2
+10
 W75 Caserta (Italija), zemlja
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -1220,16 +1345,16 @@ ATP Parovi Race
 WTA Parovi Race
 AKTUALNI TURNIRI
 ATP French Open
+ATP Hertogenbosch
+ATP Stuttgart
 WTA French Open
+WTA London
+WTA S-Hertogenbosch
 ATP French Open
 WTA French Open
 Birmingham Challenger Muškarci
 Centurion 2 Challenger Muškarci
-Heilbronn Challenger Muškarci
-Perugia Challenger Muškarci
-Prostejov Challenger Muškarci
-Tyler Challenger Muškarci
-Prikaži više (70)
+Prikaži više (74)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -1305,6 +1430,7 @@ Bolivija - Škotska
 Katar - Salvador
 Jamajka - Južna Afrika
 LIVESCORE
+Vekić - Monnet
 Hrvatska Ž - Litva Ž
 Hrvatska - Gruzija
 Srbija - Argentina
@@ -1314,7 +1440,6 @@ Brazil - Srbija
 Hrvatska Ž - Estonija Ž
 Finska - Hrvatska
 Mađarska Ž - Hrvatska Ž
-Bugarska - Srbija
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
@@ -1334,7 +1459,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Igrajte odgovorno. Gambling Therapy. 18+
+Must be 21+. If you or someone you know has a gambling problem, crisis counselling and referral services can be accessed by calling 1-800-GAMBLER (1-800-426-2537) or by texting ILGAMB to 833234. The 1-800-GAMBLER helpline can be used for multi-jurisdictional advertising.
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
