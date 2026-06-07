@@ -1,6 +1,8 @@
 import os
 import re
+from datetime import datetime
 from urllib.parse import urlparse, parse_qs
+from zoneinfo import ZoneInfo
 
 from playwright.sync_api import sync_playwright
 
@@ -19,18 +21,32 @@ DEBUG_TEXT_FILE = ROOT_DIR / "data" / "reports" / "debug_rezultati_daily_results
 DEBUG_HTML_FILE = ROOT_DIR / "data" / "reports" / "debug_rezultati_daily_results_page.html"
 DEBUG_SCREENSHOT_FILE = ROOT_DIR / "data" / "reports" / "debug_rezultati_daily_results_screenshot.png"
 
+TIMEZONE = os.getenv("TIMEZONE", "Europe/Ljubljana")
 WAIT_MS = int(os.getenv("DAILY_RESULTS_WAIT_MS", "8000"))
-MAX_RESULT_ROWS = int(os.getenv("MAX_DAILY_RESULT_ROWS", "200"))
+MAX_RESULT_ROWS = int(os.getenv("MAX_DAILY_RESULT_ROWS", "250"))
 CLICK_FINISHED_TAB = os.getenv("CLICK_FINISHED_TAB", "1") == "1"
 
 FINISHED_WORDS = ["kraj", "finished", "gotovo"]
 BAD_RESULT_WORDS = ["walkover", "w.o.", "predaja", "retired", "ret."]
+
+GRAND_SLAM_MARKERS = [
+    "french open",
+    "roland garros",
+    "australian open",
+    "wimbledon",
+    "us open",
+    "u.s. open",
+]
 
 
 def ensure_parent(path):
     folder = os.path.dirname(str(path))
     if folder:
         os.makedirs(folder, exist_ok=True)
+
+
+def today_iso():
+    return datetime.now(ZoneInfo(TIMEZONE)).date().isoformat()
 
 
 def normalize_url(url):
@@ -119,14 +135,20 @@ def accept_cookies(page):
                 return True
         except Exception:
             pass
+
     return False
 
 
 def page_looks_like_tennis(text):
     lower = clean_str(text).lower()
+
     if "hokej livescore" in lower or "hokej rezultati" in lower:
         return False
-    return any(x in lower for x in ["tenis", "atp", "wta", "challenger", "itf", "french open", "roland garros"])
+
+    return any(
+        x in lower
+        for x in ["tenis", "atp", "wta", "challenger", "itf", "french open", "roland garros"]
+    )
 
 
 def click_text_first(page, labels):
@@ -140,6 +162,7 @@ def click_text_first(page, labels):
                     return True
             except Exception:
                 pass
+
     return False
 
 
@@ -195,6 +218,7 @@ def parse_int(value):
 
 def clean_lines(text):
     lines = []
+
     for line in str(text or "").splitlines():
         line = clean_str(line)
         if not line:
@@ -202,13 +226,16 @@ def clean_lines(text):
         if line in ["-", "â"]:
             continue
         lines.append(line)
+
     return lines
 
 
 def is_finished_text(text):
     lower = clean_str(text).lower()
+
     if any(x in lower for x in BAD_RESULT_WORDS):
         return True
+
     return any(x in lower for x in FINISHED_WORDS)
 
 
@@ -248,6 +275,7 @@ def parse_score_numbers(lines):
             break
 
         # Tie-break encoded as p1_games, p1_tb, p2_games, p2_tb.
+        # Example row tokens for 7-6(7-5): 7 7 6 5
         if pos + 3 < len(remaining):
             a_games = remaining[pos]
             a_tb = remaining[pos + 1]
@@ -274,6 +302,7 @@ def parse_score_numbers(lines):
 
         a_games = remaining[pos]
         b_games = remaining[pos + 1]
+
         set_scores.append({
             "set_number": set_number,
             "p1_games": a_games,
@@ -330,21 +359,152 @@ def derive_from_set_scores(set_scores, sets_1, sets_2):
     }
 
 
-def estimate_best_of(sets_1, sets_2, tournament="", gender=""):
+def normalize_header_text(header_text):
+    header_text = clean_str(header_text)
+    header_text = re.sub(r"\s+", " ", header_text)
+    return header_text
+
+
+def infer_surface(header_text):
+    lower = clean_str(header_text).lower()
+
+    if any(x in lower for x in ["zemlja", "clay", "Å¡ljaka", "sljaka"]):
+        return "clay"
+
+    if any(x in lower for x in ["trava", "grass"]):
+        return "grass"
+
+    if any(x in lower for x in ["tvrda", "hard", "hardcourt"]):
+        return "hard"
+
+    if any(x in lower for x in ["tepih", "carpet"]):
+        return "carpet"
+
+    return ""
+
+
+def infer_indoor(header_text):
+    lower = clean_str(header_text).lower()
+
+    if any(x in lower for x in ["dvorana", "indoor", "u dvorani"]):
+        return True
+
+    if any(x in lower for x in ["outdoor", "otvoreno"]):
+        return False
+
+    return None
+
+
+def infer_gender(header_text):
+    lower = clean_str(header_text).lower()
+
+    if "wta" in lower or "women" in lower or "Å¾ene" in lower or "zene" in lower:
+        return "women"
+
+    if "atp" in lower or "men" in lower or "muÅ¡karci" in lower or "muskarci" in lower:
+        return "men"
+
+    if "itf women" in lower or "itf Å¾ene" in lower or "itf zene" in lower:
+        return "women"
+
+    if "itf men" in lower:
+        return "men"
+
+    return ""
+
+
+def infer_tour_level(header_text):
+    lower = clean_str(header_text).lower()
+
+    if any(x in lower for x in GRAND_SLAM_MARKERS):
+        return "grand_slam"
+
+    if "challenger" in lower:
+        return "challenger"
+
+    if "itf" in lower:
+        return "itf"
+
+    if "wta" in lower:
+        return "wta"
+
+    if "atp" in lower:
+        return "atp"
+
+    return ""
+
+
+def infer_grand_slam(header_text):
+    lower = clean_str(header_text).lower()
+    return any(x in lower for x in GRAND_SLAM_MARKERS)
+
+
+def extract_tournament_name(header_text):
+    """
+    Header examples vary a lot:
+      ATP - SINGLES: French Open (France), clay
+      ATP - SINGL: Halle (Germany), grass
+      WTA - SINGLES: Nottingham (United Kingdom), grass
+
+    We keep this conservative. Better to store raw_header_text than invent a bad name.
+    """
+    text = normalize_header_text(header_text)
+
+    if not text:
+        return ""
+
+    # Remove table/draw words that sometimes appear in header text.
+    text = re.sub(r"\b(Tablica|Å½drijeb|Zdrijeb|Standings|Draw)\b", "", text, flags=re.IGNORECASE).strip()
+
+    if ":" in text:
+        text = text.split(":", 1)[1].strip()
+
+    # Remove country/surface parenthetical suffix lightly, but keep recognizable tournament name.
+    text = re.sub(r"\s+", " ", text).strip(" -|")
+
+    # If it contains comma surface info, remove after comma.
+    if "," in text:
+        text = text.split(",", 1)[0].strip()
+
+    return text
+
+
+def infer_best_of(sets_1, sets_2, gender="", is_grand_slam=False):
     total_sets = int(sets_1 or 0) + int(sets_2 or 0)
+
     if total_sets > 3:
         return 5
 
-    tournament_lower = clean_str(tournament).lower()
-    gender_lower = clean_str(gender).lower()
-
-    if gender_lower == "men" and any(x in tournament_lower for x in ["french open", "australian open", "wimbledon", "us open", "fo"]):
+    if is_grand_slam and gender == "men":
         return 5
 
     return 3
 
 
-def row_text_to_match(row_text, match_url=""):
+def parse_metadata(header_text, sets_1, sets_2):
+    header_text = normalize_header_text(header_text)
+
+    gender = infer_gender(header_text)
+    tour_level = infer_tour_level(header_text)
+    is_grand_slam = infer_grand_slam(header_text)
+    surface = infer_surface(header_text)
+    indoor = infer_indoor(header_text)
+    tournament = extract_tournament_name(header_text)
+    best_of = infer_best_of(sets_1, sets_2, gender=gender, is_grand_slam=is_grand_slam)
+
+    return {
+        "raw_header_text": header_text,
+        "tournament": tournament,
+        "tour_level": tour_level,
+        "gender": gender,
+        "surface": surface,
+        "indoor": indoor,
+        "best_of": best_of,
+        "is_grand_slam": is_grand_slam,
+    }
+
+
+def row_text_to_match(row_text, match_url="", header_text=""):
     lines = clean_lines(row_text)
 
     if not lines or not is_finished_text(row_text):
@@ -380,6 +540,8 @@ def row_text_to_match(row_text, match_url=""):
     if not p1 or not p2:
         return None
 
+    metadata = parse_metadata(header_text, sets_1, sets_2)
+
     winner = p1 if sets_1 > sets_2 else p2
     loser = p2 if sets_1 > sets_2 else p1
 
@@ -390,14 +552,7 @@ def row_text_to_match(row_text, match_url=""):
         "match_id": match_id,
         "match_url": match_url,
         "source": "rezultati_daily_results",
-        "date": "",
-        "tournament": "",
-        "tour_level": "",
-        "gender": "",
-        "surface": "",
-        "indoor": None,
-        "best_of": estimate_best_of(sets_1, sets_2),
-        "is_grand_slam": None,
+        "date": today_iso(),
         "player_1": p1,
         "player_2": p2,
         "match": f"{p1} - {p2}",
@@ -413,8 +568,76 @@ def row_text_to_match(row_text, match_url=""):
         "raw_parent_text": clean_str(row_text),
     }
 
+    out.update(metadata)
     out.update(derived)
     return out
+
+
+def get_row_header_text(row):
+    """
+    Flashscore/Rezulati DOM usually has event__header elements before match rows.
+    This JS walks backwards from the row and extracts the nearest header text.
+    """
+    try:
+        return row.evaluate(
+            """
+            el => {
+              function txt(x) {
+                try { return (x && x.innerText) ? x.innerText.trim() : ""; }
+                catch(e) { return ""; }
+              }
+
+              let cur = el;
+              let guard = 0;
+
+              while (cur && guard < 60) {
+                guard += 1;
+
+                let sib = cur.previousElementSibling;
+                while (sib) {
+                  const cls = sib.className ? String(sib.className) : "";
+                  const id = sib.id ? String(sib.id) : "";
+                  const t = txt(sib);
+
+                  if (
+                    cls.includes("event__header") ||
+                    cls.includes("wclLeagueHeader") ||
+                    cls.includes("sportName") ||
+                    cls.includes("event__title") ||
+                    id.includes("league")
+                  ) {
+                    return t;
+                  }
+
+                  // Some builds put header-like title in a sibling with no obvious class.
+                  if (
+                    t &&
+                    (
+                      t.includes("ATP") ||
+                      t.includes("WTA") ||
+                      t.includes("ITF") ||
+                      t.includes("Challenger") ||
+                      t.includes("French Open") ||
+                      t.includes("Wimbledon") ||
+                      t.includes("Australian Open") ||
+                      t.includes("US Open")
+                    )
+                  ) {
+                    return t;
+                  }
+
+                  sib = sib.previousElementSibling;
+                }
+
+                cur = cur.parentElement;
+              }
+
+              return "";
+            }
+            """
+        ) or ""
+    except Exception:
+        return ""
 
 
 def collect_rows(page):
@@ -432,10 +655,13 @@ def collect_rows(page):
         try:
             rows = page.locator('[id^="g_2_"]')
             row = rows.nth(idx)
+
             row_text = row.inner_text(timeout=2500)
 
             if not is_finished_text(row_text):
                 continue
+
+            header_text = get_row_header_text(row)
 
             before_url = page.url
             match_url = ""
@@ -460,12 +686,15 @@ def collect_rows(page):
                     page.goto(before_url or DAILY_URL, wait_until="domcontentloaded", timeout=30000)
                     page.wait_for_timeout(2500)
 
-            parsed = row_text_to_match(row_text, match_url=match_url)
+            parsed = row_text_to_match(row_text, match_url=match_url, header_text=header_text)
 
             if not parsed:
                 continue
 
-            key = parsed.get("match_id") or parsed.get("match_url") or f"{parsed.get('player_1')}|{parsed.get('player_2')}|{parsed.get('final_score')}|{parsed.get('raw_parent_text')}"
+            key = parsed.get("match_id") or parsed.get("match_url") or (
+                f"{parsed.get('date')}|{parsed.get('player_1')}|{parsed.get('player_2')}|"
+                f"{parsed.get('final_score')}|{parsed.get('first_set_score')}"
+            )
             results[key] = parsed
 
         except Exception:
@@ -484,6 +713,30 @@ def archive_key(row):
     ])
 
 
+def merge_row(old, new):
+    """
+    Preserve existing row, but fill missing metadata from the newer parse.
+    """
+    if not isinstance(old, dict):
+        return new
+
+    if not isinstance(new, dict):
+        return old
+
+    merged = dict(old)
+
+    for k, v in new.items():
+        if merged.get(k) in [None, "", [], {}] and v not in [None, "", [], {}]:
+            merged[k] = v
+
+    # Prefer newer raw_header_text/metadata if old was empty.
+    for k in ["raw_header_text", "tournament", "tour_level", "gender", "surface", "indoor", "best_of", "is_grand_slam"]:
+        if new.get(k) not in [None, "", [], {}] and old.get(k) in [None, "", [], {}]:
+            merged[k] = new.get(k)
+
+    return merged
+
+
 def merge_archive(existing_rows, new_rows):
     by_key = {}
     order = []
@@ -497,9 +750,7 @@ def merge_archive(existing_rows, new_rows):
             by_key[key] = row
             order.append(key)
         else:
-            old = by_key[key]
-            if isinstance(row, dict) and isinstance(old, dict) and len(row.keys()) > len(old.keys()):
-                by_key[key] = row
+            by_key[key] = merge_row(by_key[key], row)
 
     return [by_key[k] for k in order]
 
@@ -540,6 +791,14 @@ def save_outputs(daily_rows):
         "matches": archive_after,
     }
 
+    metadata_counts = {
+        "with_surface": sum(1 for r in archive_after if r.get("surface")),
+        "with_gender": sum(1 for r in archive_after if r.get("gender")),
+        "with_tour_level": sum(1 for r in archive_after if r.get("tour_level")),
+        "grand_slam": sum(1 for r in archive_after if r.get("is_grand_slam") is True),
+        "best_of_5": sum(1 for r in archive_after if r.get("best_of") == 5),
+    }
+
     report = {
         "generated_at": now_iso(),
         "source_url": DAILY_URL,
@@ -551,6 +810,7 @@ def save_outputs(daily_rows):
             "archive_after": len(archive_after),
             "added": max(0, len(archive_after) - len(archive_before)),
         },
+        "metadata_counts": metadata_counts,
         "sample": daily_rows[:20],
         "debug_files": {
             "text": str(DEBUG_TEXT_FILE),
@@ -580,7 +840,7 @@ def main():
             context = browser.new_context(
                 viewport={"width": 1400, "height": 1200},
                 locale="hr-HR",
-                timezone_id="Europe/Ljubljana",
+                timezone_id=TIMEZONE,
                 user_agent=(
                     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
                     "AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -608,6 +868,7 @@ def main():
     print("")
     print("REZULTATI DAILY RESULTS DONE")
     print(report["counts"])
+    print("Metadata:", report.get("metadata_counts", {}))
     print(f"Daily:   {DAILY_OUTPUT_FILE}")
     print(f"Archive: {ARCHIVE_FILE}")
     print(f"Report:  {REPORT_FILE}")
