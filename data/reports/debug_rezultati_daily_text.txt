@@ -30,11 +30,15 @@ Zverev A.
 Hertogenbosch (Nizozemska) - Kvalifikacije, trava
 ATP - SINGL: 
 Ždrijeb
-11:00
+1. set
 Damm M.
 Ficovich J. P.
--
--
+0
+0
+4
+1
+0
+0
 12:30
 Visker N.
 Ymer E.
@@ -53,16 +57,24 @@ Jong S.
 Stuttgart (Njemačka) - Kvalifikacije, trava
 ATP - SINGL: 
 Ždrijeb
-11:00
+1. set
 Huesler M.
 Onclin G.
--
--
-11:00
+0
+0
+2
+1
+15
+15
+1. set
 Shimabukuro S.
 Rodionov J.
--
--
+0
+0
+3
+2
+0
+0
 12:30
 Alkaya M.
 Herbert P.H.
@@ -76,22 +88,22 @@ Galarneau A.
 London (Ujedinjeno Kraljevstvo) - Kvalifikacije, trava
 WTA - SINGL: 
 Ždrijeb
-11:30
+11:40
 Burrage J.
 Blinkova A.
 -
 -
-11:30
+11:40
 Gibson T.
 Charaeva A.
 -
 -
-11:30
+11:40
 Hon P.
 Kudermetova P.
 -
 -
-11:30
+11:40
 Vekić D.
 Monnet C.
 -
@@ -155,16 +167,24 @@ Miyazaki L.
 S-Hertogenbosch (Nizozemska) - Kvalifikacije, trava
 WTA - SINGL: 
 Ždrijeb
-11:00
+1. set
 Seidel E.
 Minnen G.
--
--
-11:00
+0
+0
+1
+4
+15
+15
+1. set
 Vandewinkel H.
 Koevermans A.
--
--
+0
+0
+5
+0
+15
+0
 12:30
 Volynets K.
 Zhu L.
@@ -178,13 +198,17 @@ Garland J.
 French Open (Francuska), zemlja
 WTA - PAROVI: 
 Ždrijeb
-11:00
+1. set
 Siniakova K.
 Townsend T.
 Danilina A.
 Krunic A.
--
--
+0
+0
+3
+2
+40
+15
 Birmingham (Ujedinjeno Kraljevstvo), trava
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -235,11 +259,15 @@ Merida Aguilar D.
 Prostejov (Češka Republika), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
-11:00
+1. set
 Baez S.
 Molcan A.
--
--
+0
+0
+3
+2
+0
+0
 Tyler (SAD), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -251,34 +279,53 @@ Ilagan A.
 Bratislava (Slovačka) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
-10:30
+2. set
 Krumich M.
 Durasovic V.
--
--
-10:30
+1
+0
+6
+4
+1
+1
+0
+0
+1. set
+Tiebreak
 Marti Pujolras A.
 Hassan B.
--
--
-10:30
+0
+0
+6
+5
+6
+1
+5
+1
+2. set
 Michalski D.
 Martin A.
--
--
+0
+1
+3
+6
+2
+0
+40
+30
 12:00
 Gadamauri B.
 Donald M.
 -
 -
 12:00
-Zakaria F.
-Erhard M.
--
--
-13:00
 Lanik T.
 Daniel T.
+-
+-
+12:00
+Zakaria F.
+Erhard M.
 -
 -
 13:30
@@ -314,21 +361,35 @@ Shelbayh A.
 Cattolica (Italija) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
-10:30
+1. set
 Bosio G.
 Ferrari G.
--
--
-10:30
+0
+0
+5
+4
+0
+40
+2. set
 Braynin A.
 Callejon H. S.
--
--
-10:30
+0
+1
+2
+6
+0
+0
+40
+40
+1. set
 Nesterov P.
 Mecarelli M.
--
--
+0
+0
+5
+4
+30
+0
 12:00
 Mazza M.
 Carboni L.
@@ -440,34 +501,57 @@ Jones B.
 Lyon (Francuska) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
-10:00
+2. set
 Blancaneaux G.
 Staeheli L.
--
--
-10:00
+0
+1
+3
+6
+0
+3
+0
+40
+3. set
 Kestelboim M.
 Radulov I.
--
--
-10:00
+1
+1
+3
+6
+6
+2
+1
+0
+30
+40
+Kraj
 Poullain L.
 Massard L.
--
--
-11:30
+2
+0
+6
+1
+6
+0
+Otkazano
 Jorda Sanchis D.
 Dev S D P.
 -
 -
-11:30
+11:40
+Raquillet L.
+Gulin S.
+-
+-
+11:50
 Karma N.
 Perot R.
 -
 -
-11:30
-Raquillet L.
-Gulin S.
+12:00
+Jorda Sanchis D.
+Winter Lopez B.
 -
 -
 13:00
@@ -601,11 +685,6 @@ McDonald E.
 -
 -
 12:00
-Shymanovich I.
-Dada-Mascoll S.
--
--
-12:00
 Tan H.
 Rajecki A.
 -
@@ -613,11 +692,6 @@ Rajecki A.
 13:30
 Dunne K.
 Kobori M.
--
--
-13:30
-Griffiths E.
-Bains N.
 -
 -
 13:30
@@ -640,9 +714,19 @@ Kozyreva M.
 Ngounoue C.
 -
 -
+15:00
+Shymanovich I.
+Dada-Mascoll S.
+-
+-
 16:30
 Cross K.
 Knight M.
+-
+-
+16:30
+Griffiths E.
+Bains N.
 -
 -
 16:30
@@ -653,12 +737,20 @@ Ishii S.
 Modena (Italija) - Kvalifikacije, zemlja
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
-10:00
+3. set
 Ortenzi J.
 Turini V.
--
--
-11:30
+1
+1
+0
+6
+7
+5
+0
+0
+0
+0
+12:00
 Rakotomanga Rajaonah T.
 Paquet C.
 -
@@ -827,20 +919,29 @@ Kelm Y.
 M15 Tsaghkadzor 2 (Armenija), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
-08:30
-SKR
+Kraj
 Tiukaev R.
 Bocchi L.
--
--
+0
+2
+3
+6
+3
+6
 M25 Bistrita (Rumunjska), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
-10:00
+2. set
 Papoe R. M.
 Haita S. H.
--
--
+1
+0
+6
+2
+2
+4
+15
+30
 M25 Caltanissetta (Italija), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -901,12 +1002,17 @@ Vargova N.
 W15 Focsani (Rumunjska), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
-08:30
-SKR
+Kraj
 Greiner S.
 Yesypchuk D.
--
--
+0
+2
+3
+6
+6
+5
+7
+7
 W15 Kayseri 3 (Turska), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -964,19 +1070,27 @@ Falkner Z.
 W50 Montemor-o-Novo (Portugal), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
-11:00
+1. set
 Jorge F.
 Ku Y.
--
--
+0
+0
+2
+2
+30
+15
 W50 Wuning (Kina), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
-08:00
+Kraj
 Yao X.
 Ren Y.
--
--
+2
+0
+6
+4
+6
+4
 W75 Caserta (Italija), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -1028,11 +1142,11 @@ ATP Stuttgart
 WTA French Open
 WTA London
 WTA S-Hertogenbosch
-ATP French Open
 ATP S-Hertogenbosch
 ATP Stuttgart
 WTA French Open
-Prikaži više (88)
+WTA London
+Prikaži više (79)
 KATEGORIJE
 ATP - singl
 WTA - singl
