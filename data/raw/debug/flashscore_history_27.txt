@@ -1,4 +1,4 @@
-Tomas Lanik - Taro Daniel (07/06/2026)
+Martin Krumich - Viktor Durasovic (07/06/2026)
 Reklama
 PRIJAVA
 FAVORITI
@@ -14,18 +14,20 @@ SNOOKER
 AD
 TENISCHALLENGER - MUŠKI SINGLBRATISLAVA - KVALIFIKACIJE, ZEMLJA - POLUFINALE
 Novi prozor
-07.06.2026 13:15
-Lanik T.
-0
--
-2
-KRAJ
-Daniel T.
+07.06.2026 10:40
+Krumich M.
 ATP
-: 328.
-0
--
+: 296.
 2
+-
+0
+KRAJ
+Durasovic V.
+ATP
+: 457.
+2
+-
+0
 KRAJ
 MEČ
 TEČAJEVI
@@ -35,501 +37,510 @@ SVE PODLOGE
 TRAVA
 TVRDA PODLOGA
 ZEMLJA
-POSLJEDNJI MEČEVI: LANIK T.
-22.04.26
-SHA
-Ursu V.
-Lanik T.
-2
-0
-I
-26.10.25
-BRA
-Lanik T.
-Zhukayev B.
+POSLJEDNJI MEČEVI: KRUMICH M.
+09.03.26
+CHE
+Krumich M.
+Cassone M.
 0
 2
 I
-06.11.24
-SHA
-Vandermeersch C.
-Lanik T.
-2
-1
-I
-27.10.24
-BRA
-Monteiro T.
-Lanik T.
-2
-1
-I
-23.10.24
-TRN
-Bertola R.
-Lanik T.
+05.03.26
+THI
+Rodionov J.
+Krumich M.
 2
 0
 I
-15.10.24
-KAY
-Lorens M.
-Lanik T.
-2
-0
-I
-02.10.24
-TRN
-Lanik T.
-Massard L.
-0
-2
-I
-25.09.24
-TRN
-Michnev P.
-Lanik T.
-2
-1
-I
-27.03.24
-TRN
-Paul J.
-Lanik T.
-2
-1
-I
-13.03.24
-HER
-Lanik T.
-Wiersholm H.
-0
-2
-I
-06.03.24
-HER
-Antonopoulos C.
-Lanik T.
-2
-1
-I
-20.02.24
-MON
-Brunold M.
-Lanik T.
-2
-0
-I
-14.02.24
-MON
-Lanik T.
-Sperle J.
-0
-2
-I
-16.01.24
-BRE
-Lanik T.
-De Schepper K.
-0
-2
-I
-29.11.23
-SHA
-Lanik T.
-Kupcic J.
-0
-2
-I
-22.11.23
-SHA
-Moraing M.
-Lanik T.
-2
-0
-I
-09.11.23
-TRN
-Jong S.
-Lanik T.
-1
-0
-I
-08.11.23
-TRN
-Lanik T.
-Nano M.
-2
-0
-P
-05.11.23
-ZAH
-Lanik T.
-Nesterov P.
-0
-2
-I
-04.11.23
-ZAH
-Schell N.
-Lanik T.
+03.03.26
+THI
+Added D.
+Krumich M.
 0
 2
 P
-03.11.23
-ZAH
-Lanik T.
-Loge J.
-2
-0
-P
-02.11.23
-ZAH
-Lanik T.
-Iakubenko V.
-2
-1
-P
-01.11.23
-ZAH
-Privara P. B.
-Lanik T.
+02.03.26
+THI
+Molleker R.
+Krumich M.
 0
 2
 P
-26.10.23
-ZAH
-Lanik T.
-Artnak B.
-0
-2
-I
-24.10.23
-ZAH
-Lanik T.
-Lalami Laaroussi Y.
-2
-0
-P
-19.04.23
-MON
-Lanik T.
-Naw H.
-0
-2
-I
-29.03.23
-TRN
-Privara P. B.
-Lanik T.
-1
-1
-I
-23.03.23
-SHA
-Lanik T.
-Oliel Y.
-0
-2
-I
-22.03.23
-SHA
-Lanik T.
-Vocel M.
-1
-1
-P
-01.02.23
-SHA
-Ćubelić K.
-Lanik T.
-2
-0
-I
-30.11.22
-TRN
-Poljak D.
-Lanik T.
-2
-0
-I
-25.11.22
-SHA
-Lanik T.
-Krainer L.
-1
-2
-I
-24.11.22
-SHA
-Zgirovsky A.
-Lanik T.
+01.03.26
+THI
+Kotov P.
+Krumich M.
 1
 2
 P
-23.11.22
-SHA
-Chung H.
-Lanik T.
-0
-2
-P
-14.08.22
-GRO
-Setkic A.
-Lanik T.
-2
-1
-I
-POSLJEDNJI MEČEVI: DANIEL T.
-20.04.26
-GWA
-Daniel T.
-Shimizu Y.
-0
-2
-I
-19.04.26
-GWA
-Daniel T.
-Hyun J. H.
-2
-0
-P
-14.04.26
-BUS
-Wu Tung-Lin
-Daniel T.
-2
-0
-I
-13.04.26
-BUS
-Daniel T.
+09.02.26
+PAU
 Zahraj P.
+Krumich M.
+-
+I
+08.02.26
+PAU
+Massard L.
+Krumich M.
+0
+2
+P
+05.02.26
+KOB
+Gentzsch T.
+Krumich M.
+2
+0
+I
+03.02.26
+KOB
+Donald M.
+Krumich M.
+0
+2
+P
+13.01.26
+GLA
+Monday J.
+Krumich M.
+2
+1
+I
+12.01.26
+GLA
+Krumich M.
+Guerrieri A.
+2
+0
+P
+11.01.26
+GLA
+Krumich M.
+Peliwo F.
 2
 1
 P
-12.04.26
-BUS
-Daniel T.
-Lee D. H.
+07.01.26
+NOT
+Krumich M.
+Gentzsch T.
 1
+2
+I
+05.01.26
+NOT
+Krumich M.
+Kopp S.
+2
 0
+P
+08.03.25
+QUI
+Krumich M.
+Curras Abasolo T.
+1
+2
+I
+06.03.25
+QUI
+Fernandez Ruiz R.
+Krumich M.
+0
+2
+P
+13.02.25
+SHA
+Krumich M.
+Ostapenkov D.
+0
+1
+I
+12.02.25
+SHA
+Krumich M.
+Ivanov S.
+2
+1
+P
+09.02.25
+SHA
+Krumich M.
+Purtseladze S.
+1
+2
+I
+08.02.25
+SHA
+Simakin I.
+Krumich M.
+-
+P
+07.02.25
+SHA
+Krumich M.
+Philippov E.
+2
+0
+P
+06.02.25
+SHA
+Krumich M.
+Rivera L.
+2
+0
+P
+05.02.25
+SHA
+Krumich M.
+Rapagnetta D.
+2
+0
+P
+01.02.25
+SHA
+Dussin L.
+Krumich M.
+2
+0
+I
+31.01.25
+SHA
+Balshaw F.
+Krumich M.
+1
+2
+P
+30.01.25
+SHA
+Moraing O.
+Krumich M.
+0
+2
+P
+29.01.25
+SHA
+Gusic Wan B.
+Krumich M.
+0
+2
+P
+20.11.24
+MON
+Krumich M.
+Kucera J.
+0
+0
+I
+03.11.24
+HEL
+Rehberg M. H.
+Krumich M.
+2
+1
+I
+02.01.24
+ESC
+Krumich M.
+Forejtek J.
+0
+2
+I
+17.11.22
+HER
+Peliwo F.
+Krumich M.
+2
+0
+I
+16.11.22
+HER
+Sakellaridis M.
+Krumich M.
+0
+2
+P
+07.11.22
+BRA
+Krumich M.
+Durasovic V.
+0
+2
+I
+06.11.22
+BRA
+Collignon R.
+Krumich M.
+1
+2
+P
+24.10.22
+BRE
+Krumich M.
+Donskoy E.
+0
+2
+I
+23.10.22
+BRE
+Blanch U.
+Krumich M.
+0
+2
+P
+16.10.22
+HAM
+Sperle J.
+Krumich M.
+2
+1
+I
+10.10.22
+ISM
+Harris B.
+Krumich M.
+2
+0
+I
+09.10.22
+ISM
+Engel J.
+Krumich M.
+1
+2
+P
+17.03.22
+SHA
+Krumich M.
+Oradini G.
+1
+2
+I
+16.03.22
+SHA
+Krumich M.
+Zgirovsky A.
+2
+0
+P
+09.02.22
+MON
+Krumich M.
+Matsuda R.
+1
+2
+I
+06.01.22
+MAN
+Krumich M.
+Zima L.
+0
+2
+I
+05.01.22
+MAN
+Krumich M.
+Maute J.
+2
+1
+P
+02.01.22
+DOH
+Madaras N.
+Krumich M.
+2
+0
+I
+01.01.22
+DOH
+Krumich M.
+Palan D.
+2
+0
+P
+31.12.21
+DOH
+Rottoli L.
+Krumich M.
+1
+2
+P
+30.12.21
+DOH
+Reddy R.
+Krumich M.
+1
+2
+P
+29.12.21
+DOH
+Sharipov M.
+Krumich M.
+0
+2
+P
+25.12.21
+DOH
+Krumich M.
+Palan D.
+0
+2
+I
+POSLJEDNJI MEČEVI: DURASOVIC V.
+07.04.26
+MON
+Iannaccone F.
+Durasovic V.
+2
+0
+I
+27.03.26
+SAI
+Onclin G.
+Durasovic V.
+2
+0
+I
+26.03.26
+SAI
+Naw H.
+Durasovic V.
+1
+2
+P
+25.03.26
+SAI
+Murgett F.
+Durasovic V.
+1
+2
 P
 22.03.26
-MOR
-Daniel T.
-Mmoh M.
-1
+TOU
+Durasovic V.
+Onclin G.
+0
 2
 I
 21.03.26
-MOR
-Daniel T.
-Martin A.
+TOU
+Durasovic V.
+Martineau M.
+2
+0
+P
+20.03.26
+TOU
+Durasovic V.
+Ghibaudo A.
 2
 1
 P
-20.03.26
-MOR
-Mena F.
-Daniel T.
+19.03.26
+TOU
+Broom C.
+Durasovic V.
 0
 2
 P
-19.03.26
-MOR
-Daniel T.
-Andrade A.
-2
-1
-P
-17.03.26
-MOR
-Delaney Ja.
-Daniel T.
+18.03.26
+TOU
+Deleersnyder C.
+Durasovic V.
 0
 2
 P
 09.03.26
-PHO
-Hara Friend J. D.
-Daniel T.
+HER
+Giustino L.
+Durasovic V.
+2
+1
+I
+02.03.26
+HER
+Rincon D.
+Durasovic V.
 2
 0
 I
-10.02.26
-BRI
-Daniel T.
-Sweeny D.
-0
+08.02.26
+PAU
+Janvier M.
+Durasovic V.
 2
+1
 I
-04.02.26
-BRI
-Sakamoto R.
-Daniel T.
+27.01.26
+MAN
+Dhamne M.
+Durasovic V.
 2
-0
+1
 I
-02.02.26
-BRI
-Delaney Ja.
-Daniel T.
+26.01.26
+MAN
+Binda A.
+Durasovic V.
 0
 2
 P
-03.11.25
-TAI
-Duckworth J.
-Daniel T.
-2
-1
-I
-30.10.25
-SEO
-Daniel T.
-Zhou Y.
-1
-2
-I
-28.10.25
-SEO
-Daniel T.
-Uchiyama Y.
-2
-1
-P
-11.10.25
-ALM
-Kukushkin M.
-Daniel T.
-2
-0
-I
-08.10.25
-JIN
-Bar Biryukov P.
-Daniel T.
-2
-1
-I
-29.09.25
-SHA
-Daniel T.
-Harris B.
+21.01.26
+SOM
+Durasovic V.
+Pinnington Jones J.
 0
 2
 I
-21.09.25
-CHEN
-Daniel T.
-Shevchenko A.
-1
-2
-I
-20.09.25
-CHEN
-Griekspoor T.
-Daniel T.
-1
-2
-P
-18.09.25
-CHEN
-Daniel T.
-Wong C.
-2
-0
-P
-17.09.25
-CHEN
-Daniel T.
-Harris B.
-2
-0
-P
-16.09.25
-CHEN
-Duckworth J.
-Daniel T.
-0
-2
-P
-09.09.25
-GUA
-Sharipov M.
-Daniel T.
+19.01.26
+SOM
+Durasovic V.
+Paire B.
 2
 1
-I
-21.08.25
-USO
-Daniel T.
-Struff J-L.
-1
-2
-I
-18.08.25
-USO
-Daniel T.
+P
+13.01.26
+AO
 Sachko V.
-2
-0
-P
-05.08.25
-CIN
-Daniel T.
-Galan D. E.
-0
-2
-I
-27.07.25
-TOR
-Daniel T.
-Martin D.
-1
-2
-I
-19.07.25
-WAS
-Zink T.
-Daniel T.
+Durasovic V.
 2
 0
 I
-15.07.25
-LSC
-Daniel T.
-Hernandez A.
-1
-2
-I
-17.03.25
-MIA
-Blanch Dar.
-Daniel T.
+18.11.25
+BER
+Sciahbasi L.
+Durasovic V.
 2
 1
 I
-11.03.25
-PHO
-Daniel T.
-Basilashvili N.
-0
+12.11.25
+LYO
+Jacquet K.
+Durasovic V.
 2
+0
 I
-10.03.25
-PHO
-Daniel T.
-Bondaz M.
+11.11.25
+LYO
+Durasovic V.
+Mochizuki S.
 2
-0
+1
 P
 Prikaži još mečeva
 MEĐUSOBNI MEČEVI
-Nema igara u tijeku.
+07.11.22
+BRA
+Krumich M.
+Durasovic V.
+0
+2
+21.10.21
+HAM
+Krumich M.
+Durasovic V.
+2
+1
 TEČAJEVI
 DOMAĆIN/GOST
 1
@@ -538,18 +549,14 @@ DOMAĆIN/GOST
 -
 -
 -
--
--
-13.20
-1.01
+1.31
+3.21
 Prikaži više
 PROMOCIJE I BONUSI
 FANDUEL - Bet $5 Get $150 If Your Bet Wins!
 21+ $5 first deposit required to get bonus bets which expire 7 days after. T&Cs apply
-BET365 - Bet $10 Get $365 Win or Lose
-21+ GAMBLING PROBLEM? CALL 1-800-GAMBLER or 1-800-BETS OFF (IA). Please gamble responsibly. Minimum $10 deposit required. Minimum odds -500 of greater. Bonus Bets wager excluded from returns. New customers only. T&CS, time limits and exclusions apply.
 BETMGM - Get up to $1,500 bonus on your 1ˢᵗ bet!
-GAMBLING PROBLEM? 21+ TO WAGER. PLEASE GAMBLE RESPONSIBLY. 1-800-BETS-OFF (IA), New customers only. T&C apply Must opt-in and wager $10+ cash on any market to receive $50 in Bonus Bets each day for your first 5 days
+GAMBLING PROBLEM? CALL 1-800-GAMBLER 21+ TO WAGER. PLEASE GAMBLE RESPONSIBLY. VISIT BETMGM.COM FOR TERMS & CONDITIONS, US PROMOTIONAL OFFERS NOT AVAILABLE IN NV, NY OR ON.
 DRAFTKINGS - Bet $5, Get $200 in Bonus Bets Instantly!
 21+ GAMBLING PROBLEM? CALL 1-800-GAMBLER or 1-800-MY-RESET, (800) 327-5050 or visit gamblinghelplinema.org (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY).
 PRIKVAČENE LIGE
@@ -587,7 +594,7 @@ ATP Stuttgart
 WTA French Open
 WTA London
 WTA S-Hertogenbosch
-Prikaži više (59)
+Prikaži više (54)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -612,7 +619,7 @@ Egzibicija - Timovi
 Juniori - singl
 Juniorke - singl
 Prikaži više
-Pratite Tomas Lanik - Taro Daniel 07/06/2026 informacije o utakmici, Tomas Lanik nedavni rezultati, vijesti, video sažeci i Tomas Lanik - Taro Daniel međusobni omjer! Tenis stranica Rezultata uključuje teniske rezultate i vijesti iz tenisa za više od 5000 turnira diljem svijeta. Tomas Lanik, Taro Daniel, ATP Tour, WTA Tour, Challenger turniri, ITF turniri, Novak Đoković, Carlos Alcaraz, Iga Swiatek...
+Pratite Martin Krumich - Viktor Durasovic 07/06/2026 informacije o utakmici, Martin Krumich nedavni rezultati, vijesti, video sažeci i Martin Krumich - Viktor Durasovic međusobni omjer! Tenis stranica Rezultata uključuje teniske rezultate i vijesti iz tenisa za više od 5000 turnira diljem svijeta. Martin Krumich, Viktor Durasovic, ATP Tour, WTA Tour, Challenger turniri, ITF turniri, Novak Đoković, Carlos Alcaraz, Iga Swiatek...
 Vrh
 SP 2026
 Svjetsko Prvenstvo u nogometu utakmice
@@ -637,7 +644,6 @@ World Matchplay
 NHL
 Svjetski kup vaterpolo 2026
 NOGOMET UŽIVO
-Hrvatska - Slovenija
 Maroko - Norveška
 Kolumbija - Jordan
 Nizozemska - Uzbekistan
@@ -647,9 +653,10 @@ Hrvatska Ž - Bugarska Ž
 Saudijska Arabija - Senegal
 Argentina - Island
 Irak - Venezuela
+Portugal - Nigerija
 REZULTATI UŽIVO
-Cibona - Zadar
 Partizan Mozzart Bet - Dubai
+Zadar - Cibona
 Kanada - Bosna i Hercegovina
 Maroko - Norveška
 Olympiakos - Panathinaikos
@@ -659,7 +666,6 @@ Južna Koreja - Češka
 SAD - Paragvaj
 Katar - Švicarska
 LIVESCORE
-Hrvatska - Gruzija
 Čilić - Shapovalov
 Srbija - Argentina
 Belgija - Srbija
@@ -669,6 +675,7 @@ Hrvatska Ž - Estonija Ž
 Finska - Hrvatska
 Mađarska Ž - Hrvatska Ž
 Bugarska - Srbija
+Ekvador - Gvatemala
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
@@ -688,7 +695,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Gambling Problem? Call 1-800-BETS OFF 21+
+Igrajte odgovorno. Gambling Therapy. 18+
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti

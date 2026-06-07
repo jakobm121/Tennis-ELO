@@ -1,4 +1,4 @@
-Daniel Cukierman - Pietro Ricci (07/06/2026)
+Dylan Dietrich - Jan Kupcic (07/06/2026)
 Reklama
 PRIJAVA
 FAVORITI
@@ -12,23 +12,24 @@ VATERPOLO
 ODBOJKA
 SNOOKER
 AD
-TENISCHALLENGER - MUŠKI SINGLCATTOLICA - KVALIFIKACIJE, ZEMLJA - POLUFINALE
+TENISITF - MUŠKI SINGLM15 LJUBLJANA, ZEMLJA - FINALE
 Novi prozor
-07.06.2026 17:50
-Cukierman D.
+07.06.2026 10:00
+Dietrich D.
 ATP
-: 1327.
-0
+: 1000.
+2
 -
 1
-2. SET
-0 : 0 ( 0 : 0 )
-Ricci P.
-0
+KRAJ
+Kupcic J.
+ATP
+: 1448.
+2
 -
 1
-2. SET0 : 0 ( 0 : 0 )
-MEČ
+KRAJ
+DETALJI
 TEČAJEVI
 OMJER
 ŽDRIJEB
@@ -36,387 +37,522 @@ SVE PODLOGE
 TRAVA
 TVRDA PODLOGA
 ZEMLJA
-POSLJEDNJI MEČEVI: CUKIERMAN D.
-28.04.26
-MAU
-Jorda Sanchis D.
-Cukierman D.
+POSLJEDNJI MEČEVI: DIETRICH D.
+07.06.26
+LJU
+Dietrich D.
+Kupcic J.
+2
+1
+P
+06.06.26
+LJU
+Dietrich D.
+Milev Y.
 2
 0
-I
-27.04.26
-MAU
-Martinez A.
-Cukierman D.
+P
+05.06.26
+LJU
+Dietrich D.
+Mueller C.
+2
+0
+P
+04.06.26
+LJU
+Ajdukovic D.
+Dietrich D.
 0
 2
 P
-26.04.26
-MAU
-Cukierman D.
+02.06.26
+LJU
+Dietrich D.
+Kopilevich D.
+2
+0
+P
+03.07.25
+GET
+Dietrich D.
+Delage P.
+0
+2
+I
+01.07.25
+GET
+Dietrich D.
+Basel V.
+2
+0
+P
+23.07.24
+ZUG
+Burruchaga R. A.
+Dietrich D.
+2
+1
+I
+22.07.24
+ZUG
+Dietrich D.
+Guerrieri A.
+2
+0
+P
+21.07.24
+ZUG
+Uzhylovskyi V.
+Dietrich D.
+0
+2
+P
+10.07.24
+HAG
+Dietrich D.
+Visker N.
+0
+2
+I
+28.06.24
+KLO
+Dietrich D.
+Dellavedova M.
+1
+2
+I
+27.06.24
+KLO
+Wenger D.
+Dietrich D.
+0
+2
+P
+25.06.24
+KLO
+Baltensperger R.
+Dietrich D.
+0
+2
+P
+26.07.23
+ZUG
+Kuzmanov D.
+Dietrich D.
+2
+0
+I
+24.07.23
+ZUG
+Dietrich D.
+Jacquet K.
+2
+1
+P
+23.07.23
+ZUG
+Fonio G.
+Dietrich D.
+0
+2
+P
+06.07.23
+KLO
+Dietrich D.
+Kym J.
+1
+2
+I
+04.07.23
+KLO
+Sebesta J.
+Dietrich D.
+0
+2
+P
+22.06.23
+SAA
+Naw H.
+Dietrich D.
+2
+0
+I
+20.06.23
+SAA
+Paroulek T.
+Dietrich D.
+1
+2
+P
+14.06.23
+DUF
+Dietrich D.
+Fonseca J.
+0
+2
+I
+25.05.23
+MOS
+Stodder T.
+Dietrich D.
+2
+1
+I
+24.05.23
+MOS
+Dietrich D.
+Pleva J.
+2
+0
+P
+27.04.23
+ANT
+Madaras N.
+Dietrich D.
+2
+0
+I
+25.04.23
+ANT
+Binda A.
+Dietrich D.
+0
+2
+P
+25.08.22
+CAS
+Dietrich D.
+Echargui M.
+0
+2
+I
+23.08.22
+CAS
+Lucini F.
+Dietrich D.
+0
+2
+P
+02.06.22
+FO
+Bailly G. A.
+Dietrich D.
+2
+0
+I
+01.06.22
+FO
+Butvilas E.
+Dietrich D.
+1
+2
+P
+30.05.22
+FO
+Jucha W.
+Dietrich D.
+0
+2
+P
+29.05.22
+FO
+Dietrich D.
+Bueno G.
+2
+0
+P
+27.05.22
+FO
+Dietrich D.
+Jones L. R.
+2
+0
+P
+26.05.22
+FO
+Basile A.
+Dietrich D.
+0
+2
+P
+17.08.21
+MUT
+Dietrich D.
+Martin Tiffon P.
+0
+2
+I
+POSLJEDNJI MEČEVI: KUPCIC J.
+07.06.26
+LJU
+Dietrich D.
+Kupcic J.
+2
+1
+I
+06.06.26
+LJU
+Kupcic J.
+Jeran A.
+2
+0
+P
+06.06.26
+LJU
+Kupcic J.
+Weis A.
+2
+1
+P
+04.06.26
+LJU
+Castagnola L.
+Kupcic J.
+1
+2
+P
+04.06.26
+LJU
+Pecovnik J.
+Kupcic J.
+0
+2
+P
+28.05.26
+BRC
+Fuele M.
+Kupcic J.
+2
+0
+I
+27.05.26
+BRC
+Djokic A.
+Kupcic J.
+0
+2
+P
+20.05.26
+LIT
+Kupcic J.
+Sesko Z.
+0
+2
+I
+25.09.25
+SLO
+Fiorentini A.
+Kupcic J.
+2
+0
+I
+28.08.25
+MAR
+Popovic S.
+Kupcic J.
+2
+0
+I
+27.08.25
+MAR
+Bogapov A.
+Kupcic J.
+0
+2
+P
+20.08.25
+MAR
+Kupcic J.
+Biletic I.
+0
+2
+I
+09.07.25
+LIT
+Demanet E.
+Kupcic J.
+0
+0
+I
+02.07.25
+STO
+Kupcic J.
+Hurrion M.
+1
+2
+I
+25.06.25
+ZAG
+Havlicek M.
+Kupcic J.
+2
+1
+I
+05.06.25
+LJU
+Fellin P. O.
+Kupcic J.
+2
+1
+I
+04.06.25
+LJU
+Kupcic J.
+Schiessl J. E.
+2
+1
+P
+30.05.25
+DOB
+Caniato C. A.
+Kupcic J.
+2
+0
+I
+28.05.25
+DOB
+Kupcic J.
+Obradovic D.
+2
+0
+P
+22.05.25
+BRC
+Kupcic J.
+Obradovic D.
+1
+2
+I
+22.05.25
+BRC
+Fondriest M.
+Kupcic J.
+0
+2
+P
+15.05.25
+PRI
+Kupcic J.
+Nedic A.
+1
+2
+I
+14.05.25
+PRI
+Kupcic J.
+Monferrer E.
+2
+0
+P
+22.04.25
+KUR
+Milev Y.
+Kupcic J.
+2
+0
+I
+27.03.25
+OPA
+Milic O.
+Kupcic J.
+2
+0
+I
+26.03.25
+OPA
+Ljubicic L.
+Kupcic J.
+0
+2
+P
+18.03.25
+ROV
+Perez Contri S.
+Kupcic J.
+2
+0
+I
+14.03.25
+POR
+Fatic N.
+Kupcic J.
+2
+0
+I
+13.03.25
+POR
+Kupcic J.
 Vrbensky M.
 2
 0
 P
-23.03.26
-SAO
-Schiessl J. E.
-Cukierman D.
--
-I
-22.03.26
-SAO
-Cukierman D.
-Wendler Filho J.
-2
-0
-P
-31.08.25
-GEN
-Cukierman D.
-Bondioli F.
-0
-2
-I
-24.08.25
-COM
-Cukierman D.
-Iannaccone F.
-0
-2
-I
-09.06.25
-BRA
-Cukierman D.
-Dodig M.
-0
-2
-I
-18.05.25
-SKO
-Cukierman D.
-Marmousez L.
-0
-2
-I
-31.03.25
-MEN
-Cukierman D.
-Nijboer R.
-0
-2
-I
-25.03.25
-GIR
-Skatov T.
-Cukierman D.
-2
-0
-I
-24.03.25
-GIR
-Cukierman D.
-Vacherot V.
-2
-0
-P
-18.03.25
-MUR
-Cukierman D.
-Engel J.
-1
-2
-I
-16.03.25
-MUR
-Schwaerzler J. J.
-Cukierman D.
-0
-1
-P
-22.09.24
-LIS
-Cukierman D.
-Kopp S.
-0
-2
-I
-30.08.24
+12.03.25
 POR
-Cukierman D.
-Andreev A.
-0
-2
-I
-28.08.24
-POR
-Forejtek J.
-Cukierman D.
-1
-2
-P
-27.08.24
-POR
-Ferreira Silva F.
-Cukierman D.
+Scomparin P. R.
+Kupcic J.
 0
 2
 P
-26.08.24
-POR
-Krutykh O.
-Cukierman D.
-0
-2
-P
-25.08.24
-POR
-Rocha F.
-Cukierman D.
-0
-2
-P
-01.07.24
-KAR
-Henning B.
-Cukierman D.
-1
-1
-I
-09.06.24
-BRA
-Cukierman D.
-Haliak M.
+17.10.24
+M15
+Kupcic J.
+Basic M.
 1
 2
 I
-02.06.24
-ZAG
-Cukierman D.
-Giustino L.
+16.10.24
+M15
+Basic N.
+Kupcic J.
+0
+2
+P
+20.09.24
+PAR
+Kupcic J.
+Mrva M.
 0
 2
 I
-02.05.24
-SAB
-Ionel N. D.
-Cukierman D.
-2
-1
-I
-01.05.24
-SAB
-Zusman R.
-Cukierman D.
-0
-2
-P
-05.04.24
-FLO
-Mager G.
-Cukierman D.
-2
-0
-I
-03.04.24
-FLO
-Cukierman D.
-Barreiros Reyes M.
-2
-1
-P
-02.04.24
-FLO
-Boscardin Dias P.
-Cukierman D.
-0
-2
-P
-01.04.24
-FLO
-Cukierman D.
-Justo G. I.
-1
-0
-P
-31.03.24
-FLO
-Cukierman D.
-Carou I.
+19.09.24
+PAR
+Kupcic J.
+Cizek J.
 2
 0
 P
-28.03.24
-LEO
-Ugo Carabelli C.
-Cukierman D.
-2
-1
-I
-26.03.24
-LEO
-Cukierman D.
-Sanchez Jover C.
-2
-0
-P
-25.03.24
-LEO
-Cukierman D.
-Leite W.
-2
-0
-P
-24.03.24
-LEO
-Cukierman D.
-Barreiros Reyes M.
-2
-0
-P
-19.03.24
-ASU
-Cukierman D.
-Bueno G.
-0
-2
-I
-18.03.24
-ASU
-Cukierman D.
-Romboli F.
--
-P
-17.03.24
-ASU
-Cukierman D.
-Drozdowski T.
-2
-0
-P
-08.03.24
-RWA
-Wenger D.
-Cukierman D.
-2
-1
-I
-07.03.24
-RWA
-Cukierman D.
-Ayeni A.
-2
-1
-P
-05.03.24
-RWA
-Cukierman D.
-Habiyambere E.
-2
-0
-P
-28.02.24
-RWA
-Cukierman D.
-Kozlov S.
-1
-2
-I
-26.02.24
-RWA
-Habiyambere E.
-Cukierman D.
+18.09.24
+PAR
+Slump S.
+Kupcic J.
 0
 2
 P
-20.08.23
-PRA
-Cukierman D.
-Filip J.
-0
-2
-I
-09.06.23
-COR
-Cukierman D.
-Merida Aguilar D.
-0
-2
-I
-07.06.23
-COR
-Cukierman D.
-Planelles Ripoll G.
-2
-1
-P
-01.06.23
-NUC
-Gulin S.
-Cukierman D.
-2
-1
-I
-01.06.23
-NUC
-Gaubas V.
-Cukierman D.
-1
-1
-P
-21.05.23
-GUR
-Cukierman D.
-Jorda Sanchis D.
-0
-2
-I
-20.05.23
-GUR
-Cukierman D.
-Lamasine T.
-2
-0
-P
-19.05.23
-GUR
-Gill F.
-Cukierman D.
-0
-2
-P
-POSLJEDNJI MEČEVI: RICCI P.
-22.05.24
-CER
-Sakamoto R.
-Ricci P.
-2
-0
-I
+Prikaži još mečeva
 MEĐUSOBNI MEČEVI
-Nema igara u tijeku.
+07.06.26
+LJU
+Dietrich D.
+Kupcic J.
+2
+1
 TEČAJEVI
-LIVE
 DOMAĆIN/GOST
-TEČAJEVI UŽIVO
-TEČAJEVI PRIJE MEČA
 1
 2
 -
 -
 -
 -
--
--
-1.42
-2.66
+1.12
+5.25
+Prikaži više
 PROMOCIJE I BONUSI
 FANDUEL - Bet $5 Get $150 If Your Bet Wins!
 21+ $5 first deposit required to get bonus bets which expire 7 days after. T&Cs apply
-BET365 - Bet $10 Get $365 Win or Lose
-21+ GAMBLING PROBLEM? CALL 1-800-GAMBLER or 1-800-BETS OFF (IA). Please gamble responsibly. Minimum $10 deposit required. Minimum odds -500 of greater. Bonus Bets wager excluded from returns. New customers only. T&CS, time limits and exclusions apply.
 BETMGM - Get up to $1,500 bonus on your 1ˢᵗ bet!
-GAMBLING PROBLEM? 21+ TO WAGER. PLEASE GAMBLE RESPONSIBLY. 1-800-BETS-OFF (IA), New customers only. T&C apply Must opt-in and wager $10+ cash on any market to receive $50 in Bonus Bets each day for your first 5 days
+GAMBLING PROBLEM? CALL 1-800-GAMBLER 21+ TO WAGER. PLEASE GAMBLE RESPONSIBLY. VISIT BETMGM.COM FOR TERMS & CONDITIONS, US PROMOTIONAL OFFERS NOT AVAILABLE IN NV, NY OR ON.
 DRAFTKINGS - Bet $5, Get $200 in Bonus Bets Instantly!
 21+ GAMBLING PROBLEM? CALL 1-800-GAMBLER or 1-800-MY-RESET, (800) 327-5050 or visit gamblinghelplinema.org (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY).
 PRIKVAČENE LIGE
@@ -454,65 +590,7 @@ ATP Stuttgart
 WTA French Open
 WTA London
 WTA S-Hertogenbosch
-Birmingham Challenger Muškarci
-Bratislava Challenger Muškarci
-Cattolica Challenger Muškarci
-Centurion 2 Challenger Muškarci
-Heilbronn Challenger Muškarci
-Ilkley Challenger Muškarci
-Lyon Challenger Muškarci
-Perugia Challenger Muškarci
-Prostejov Challenger Muškarci
-San Miguel de Tucuman Challenger Muškarci
-Tyler Challenger Muškarci
-Birmingham Challenger Žene
-Foggia Challenger Žene
-Ilkley Challenger Žene
-Makarska Challenger Žene
-Modena Challenger Žene
-Birmingham Challenger Muškarci
-Bratislava Challenger Muškarci
-Cattolica Challenger Muškarci
-Heilbronn Challenger Muškarci
-Ilkley Challenger Muškarci
-Lyon Challenger Muškarci
-San Miguel de Tucuman Challenger Muškarci
-Tyler Challenger Muškarci
-Makarska Challenger Žene
-ITF M15 Harmon Muškarci
-ITF M15 Kayseri 3 Muškarci
-ITF M15 Kursumlijska Banja 3 Muškarci
-ITF M15 Lakewood, CA 2 Muškarci
-ITF M15 Luan 3 Muškarci
-ITF M15 Ljubljana Muškarci
-ITF M15 Messina Muškarci
-ITF M15 Monastir 21 Muškarci
-ITF M15 Rosbach Muškarci
-ITF M15 Szentendre Muškarci
-ITF M15 Tsaghkadzor 2 Muškarci
-ITF M25 Bistrita Muškarci
-ITF M25 Caltanissetta Muškarci
-ITF M25 Cuiaba Muškarci
-ITF W100 Sumter, SC Žene
-ITF W15 Banja Luka Žene
-ITF W15 Brasilia Žene
-ITF W15 Casablanca Žene
-ITF W15 Focsani Žene
-ITF W15 Kayseri 3 Žene
-ITF W15 Kursumlijska Banja 3 Žene
-ITF W15 Lakewood, CA 2 Žene
-ITF W15 Monastir 16 Žene
-ITF W15 Ontinyent Žene
-ITF W15 Osijek Žene
-ITF W50 Montemor-o-Novo Žene
-ITF W50 Wuning Žene
-ITF W75 Caserta Žene
-ITF M15 Kayseri 3 Muškarci
-ITF M15 Messina Muškarci
-ITF M25 Cuiaba Muškarci
-ITF W15 Brasilia Žene
-ITF W15 Lakewood, CA 2 Žene
-ITF W50 Montemor-o-Novo Žene
+Prikaži više (54)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -537,7 +615,7 @@ Egzibicija - Timovi
 Juniori - singl
 Juniorke - singl
 Prikaži više
-Pratite Daniel Cukierman - Pietro Ricci 07/06/2026 informacije o utakmici, Daniel Cukierman nedavni rezultati, vijesti, video sažeci i Daniel Cukierman - Pietro Ricci međusobni omjer! Tenis stranica Rezultata uključuje teniske rezultate i vijesti iz tenisa za više od 5000 turnira diljem svijeta. Daniel Cukierman, Pietro Ricci, ATP Tour, WTA Tour, Challenger turniri, ITF turniri, Novak Đoković, Carlos Alcaraz, Iga Swiatek...
+Pratite Dylan Dietrich - Jan Kupcic 07/06/2026 informacije o utakmici, Dylan Dietrich nedavni rezultati, vijesti, video sažeci i Dylan Dietrich - Jan Kupcic međusobni omjer! Tenis stranica Rezultata uključuje teniske rezultate i vijesti iz tenisa za više od 5000 turnira diljem svijeta. Dylan Dietrich, Jan Kupcic, ATP Tour, WTA Tour, Challenger turniri, ITF turniri, Novak Đoković, Carlos Alcaraz, Iga Swiatek...
 Vrh
 SP 2026
 Svjetsko Prvenstvo u nogometu utakmice
@@ -562,7 +640,6 @@ World Matchplay
 NHL
 Svjetski kup vaterpolo 2026
 NOGOMET UŽIVO
-Hrvatska - Slovenija
 Maroko - Norveška
 Kolumbija - Jordan
 Nizozemska - Uzbekistan
@@ -572,9 +649,10 @@ Hrvatska Ž - Bugarska Ž
 Saudijska Arabija - Senegal
 Argentina - Island
 Irak - Venezuela
+Portugal - Nigerija
 REZULTATI UŽIVO
-Cibona - Zadar
 Partizan Mozzart Bet - Dubai
+Zadar - Cibona
 Kanada - Bosna i Hercegovina
 Maroko - Norveška
 Olympiakos - Panathinaikos
@@ -584,7 +662,6 @@ Južna Koreja - Češka
 SAD - Paragvaj
 Katar - Švicarska
 LIVESCORE
-Hrvatska - Gruzija
 Čilić - Shapovalov
 Srbija - Argentina
 Belgija - Srbija
@@ -594,6 +671,7 @@ Hrvatska Ž - Estonija Ž
 Finska - Hrvatska
 Mađarska Ž - Hrvatska Ž
 Bugarska - Srbija
+Ekvador - Gvatemala
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
@@ -613,7 +691,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Gambling Problem? Call 1-800-BETS OFF 21+
+Igrajte odgovorno. Gambling Therapy. 18+
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
