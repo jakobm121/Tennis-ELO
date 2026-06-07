@@ -3,7 +3,7 @@ name: Full History ELO Pipeline
 on:
   workflow_dispatch:
   schedule:
-  - cron: "0 */3 * * *"
+    - cron: "0 */3 * * *"
 
 permissions:
   contents: write
@@ -31,9 +31,15 @@ jobs:
 
       - name: Parse daily matches
         env:
-          MAX_DAILY_MATCHES: "10"
+          MAX_DAILY_MATCHES: "8"
           SKIP_SEEN_MATCHES: "1"
         run: python -m tennis_elo.sources.rezultati_daily_matches
+
+      - name: Parse daily finished results
+        env:
+          MAX_DAILY_RESULT_ROWS: "200"
+          CLICK_FINISHED_TAB: "1"
+        run: python -m tennis_elo.sources.rezultati_daily_results
 
       - name: Generate history URLs
         run: python -m tennis_elo.sources.generate_history_urls
@@ -53,8 +59,22 @@ jobs:
           git config user.email "github-actions@github.com"
 
           git add config/flashscore_urls.txt || true
-          git add data || true
-          git add tennis_elo || true
 
-          git commit -m "Update full history ELO pipeline" || echo "No changes to commit"
+          git add data/input/matches_today.json || true
+          git add data/state/seen_match_urls.json || true
+
+          git add data/raw/flashscore_history_archive.json || true
+          git add data/raw/flashscore_history_raw.json || true
+
+          git add data/normalized/flashscore_matches_normalized.json || true
+          git add data/processed/canonical_matches.json || true
+          git add data/ratings/player_ratings_latest.json || true
+
+          git add data/totals/daily_scorelines.json || true
+          git add data/totals/scorelines_archive.json || true
+
+          git add data/reports/*.json || true
+          git add data/reports/*.md || true
+
+          git commit -m "Update full history ELO and totals data" || echo "No changes to commit"
           git push
