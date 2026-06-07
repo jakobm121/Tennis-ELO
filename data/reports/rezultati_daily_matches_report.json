@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T11:35:49.390950+02:00",
+  "generated_at": "2026-06-07T16:14:33.138961+02:00",
   "source_url": "https://www.rezultati.com/tenis/",
   "output_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/input/matches_today.json",
   "seen_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/state/seen_match_urls.json",
@@ -14,19 +14,19 @@
     "reset_seen_matches": false
   },
   "counts": {
-    "found_matches": 139,
-    "available_unseen": 115,
+    "found_matches": 143,
+    "available_unseen": 109,
     "selected": 10,
-    "skipped_seen": 24,
-    "seen_total": 100,
+    "skipped_seen": 34,
+    "seen_total": 110,
     "blocked": 0,
     "errors": 0
   },
   "error": "",
   "selected": [
     {
-      "match": "Bonding Oliver - Ojakaar Oliver",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/bonding-oliver-SGkttdYl/ojakaar-oliver-IkMOT4kq/?mid=8nM8g7Cm",
+      "match": "Blinkova Anna - Vekic Donna",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/blinkova-anna-f1PZMn7P/vekic-donna-AsWv5414/?mid=AVbQnTnB",
       "date": "",
       "status": "scheduled",
       "tour_level": "",
@@ -34,15 +34,47 @@
       "tournament": "",
       "country": "",
       "surface": "",
-      "player_1": "Bonding Oliver",
-      "player_2": "Ojakaar Oliver",
+      "player_1": "Blinkova Anna",
+      "player_2": "Vekic Donna",
+      "source": "rezultati_daily_click",
+      "source_match_id": "AVbQnTnB",
+      "raw_parent_text": "16:30\nVekić D.\nBlinkova A.\n-\n-"
+    },
+    {
+      "match": "Carballo Mateo - Cundom Julian",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/carballo-mateo-dUtGNbXi/cundom-julian-xdPIYXbS/?mid=jRBSpXcs",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Carballo Mateo",
+      "player_2": "Cundom Julian",
       "source": "rezultati_daily_anchor",
-      "source_match_id": "8nM8g7Cm",
+      "source_match_id": "jRBSpXcs",
+      "raw_parent_text": "16:40\nCarballo M.\nCundom J.\n-\n-"
+    },
+    {
+      "match": "Carboni Lorenzo - Mazza Manuel",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/carboni-lorenzo-2yamY2wB/mazza-manuel-MBgeOclJ/?mid=EyemCpgm",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Carboni Lorenzo",
+      "player_2": "Mazza Manuel",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "EyemCpgm",
       "raw_parent_text": ""
     },
     {
-      "match": "Bonzi Benjamin - Tomic Bernard",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/bonzi-benjamin-M5OpGHqH/tomic-bernard-fVQY2TUC/?mid=6muGvRY7",
+      "match": "Castagnola Luca - Forti Francesco",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/castagnola-luca-4C1GvbsP/forti-francesco-MF7nWtCA/?mid=rg4HH6VP",
       "date": "",
       "status": "scheduled",
       "tour_level": "",
@@ -50,15 +82,15 @@
       "tournament": "",
       "country": "",
       "surface": "",
-      "player_1": "Bonzi Benjamin",
-      "player_2": "Tomic Bernard",
+      "player_1": "Castagnola Luca",
+      "player_2": "Forti Francesco",
       "source": "rezultati_daily_click",
-      "source_match_id": "6muGvRY7",
-      "raw_parent_text": "14:00\nBonzi B.\nTomic B.\n-\n-"
+      "source_match_id": "rg4HH6VP",
+      "raw_parent_text": "2. set\nForti F.\nCastagnola L.\n0\n1\n4\n6\n4\n3\n0\n0"
     },
     {
-      "match": "Bosio Gabriele - Ferrari Gianmarco",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/bosio-gabriele-z3kBxqS5/ferrari-gianmarco-IoLNpAMF/?mid=nkgeAONa",
+      "match": "Castro Leonel Cesar - Cigarran Thiago",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/castro-leonel-cesar-A1lSjx6N/cigarran-thiago-EBRfRytK/?mid=Ae8rskc6",
       "date": "",
       "status": "scheduled",
       "tour_level": "",
@@ -66,15 +98,31 @@
       "tournament": "",
       "country": "",
       "surface": "",
-      "player_1": "Bosio Gabriele",
-      "player_2": "Ferrari Gianmarco",
+      "player_1": "Castro Leonel Cesar",
+      "player_2": "Cigarran Thiago",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "Ae8rskc6",
+      "raw_parent_text": "19:40\nCastro L. C.\nCigarran T.\n-\n-"
+    },
+    {
+      "match": "Ceban Mark - Crawford Oliver",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/ceban-mark-QLdZauXa/crawford-oliver-2VE4Ko5r/?mid=8dinDqjf",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Ceban Mark",
+      "player_2": "Crawford Oliver",
       "source": "rezultati_daily_click",
-      "source_match_id": "nkgeAONa",
-      "raw_parent_text": "1. set\nBosio G.\nFerrari G.\n0\n0\n5\n6\n0\n0"
+      "source_match_id": "8dinDqjf",
+      "raw_parent_text": "16:45\nCrawford O.\nCeban M.\n-\n-"
     },
     {
-      "match": "Bosio Victoria - Pace Francesca",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/bosio-victoria-GG57VeBq/pace-francesca-2iB39Rmo/?mid=GMt4jUWQ",
+      "match": "Ceuca Ann Akasha - Dilek Deniz",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/ceuca-ann-akasha-W0taENun/dilek-deniz-dEQa9FEi/?mid=A9smriMG",
       "date": "",
       "status": "scheduled",
       "tour_level": "",
@@ -82,31 +130,15 @@
       "tournament": "",
       "country": "",
       "surface": "",
-      "player_1": "Bosio Victoria",
-      "player_2": "Pace Francesca",
+      "player_1": "Ceuca Ann Akasha",
+      "player_2": "Dilek Deniz",
       "source": "rezultati_daily_anchor",
-      "source_match_id": "GMt4jUWQ",
-      "raw_parent_text": "13:00\nBosio V.\nPace F.\n-\n-"
-    },
-    {
-      "match": "Bradshaw Jacob - Dlimi Yassine",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/bradshaw-jacob-UZl4cXO5/dlimi-yassine-zeU8VKrH/?mid=GjvSCYjR",
-      "date": "",
-      "status": "scheduled",
-      "tour_level": "",
-      "gender": "",
-      "tournament": "",
-      "country": "",
-      "surface": "",
-      "player_1": "Bradshaw Jacob",
-      "player_2": "Dlimi Yassine",
-      "source": "rezultati_daily_anchor",
-      "source_match_id": "GjvSCYjR",
+      "source_match_id": "A9smriMG",
       "raw_parent_text": ""
     },
     {
-      "match": "Brady Patrick - Noguchi Rio",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/brady-patrick-z3xiJGVh/noguchi-rio-fa2H5LnC/?mid=Onb291kJ",
+      "match": "Charaeva Alina - Kudermetova Polina",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/charaeva-alina-nBSQPTfR/kudermetova-polina-8O9jYpK8/?mid=b3PUOsHP",
       "date": "",
       "status": "scheduled",
       "tour_level": "",
@@ -114,15 +146,15 @@
       "tournament": "",
       "country": "",
       "surface": "",
-      "player_1": "Brady Patrick",
-      "player_2": "Noguchi Rio",
+      "player_1": "Charaeva Alina",
+      "player_2": "Kudermetova Polina",
       "source": "rezultati_daily_click",
-      "source_match_id": "Onb291kJ",
-      "raw_parent_text": "13:30\nNoguchi R.\nBrady P.\n-\n-"
+      "source_match_id": "b3PUOsHP",
+      "raw_parent_text": "16:40\nCharaeva A.\nKudermetova P.\n-\n-"
     },
     {
-      "match": "Brantmeier Reese - Liutova Kristina",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/brantmeier-reese-zLzL0ABD/liutova-kristina-tnW3NSdC/?mid=OtRLTaBE",
+      "match": "Chelia Benjamin - Linde Palacios Samuel Alejandro",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/chelia-benjamin-Ee6VAU16/linde-palacios-samuel-alejandro-Of1uNU3t/?mid=lxdi5JTk",
       "date": "",
       "status": "scheduled",
       "tour_level": "",
@@ -130,15 +162,15 @@
       "tournament": "",
       "country": "",
       "surface": "",
-      "player_1": "Brantmeier Reese",
-      "player_2": "Liutova Kristina",
+      "player_1": "Chelia Benjamin",
+      "player_2": "Linde Palacios Samuel Alejandro",
       "source": "rezultati_daily_anchor",
-      "source_match_id": "OtRLTaBE",
-      "raw_parent_text": "17:00\nLiutova K.\nBrantmeier R.\n-\n-"
+      "source_match_id": "lxdi5JTk",
+      "raw_parent_text": ""
     },
     {
-      "match": "Braynin Aleksandr - Callejon Hernando Sergio",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/braynin-aleksandr-QBQYOYta/callejon-hernando-sergio-beC6R64D/?mid=fFd382hC",
+      "match": "Cobolli Flavio - Zverev Alexander",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/cobolli-flavio-zDtaCcPe/zverev-alexander-dGbUhw9m/?mid=b94RLVkm",
       "date": "",
       "status": "scheduled",
       "tour_level": "",
@@ -146,43 +178,11 @@
       "tournament": "",
       "country": "",
       "surface": "",
-      "player_1": "Braynin Aleksandr",
-      "player_2": "Callejon Hernando Sergio",
+      "player_1": "Cobolli Flavio",
+      "player_2": "Zverev Alexander",
       "source": "rezultati_daily_click",
-      "source_match_id": "fFd382hC",
-      "raw_parent_text": "2. set\nBraynin A.\nCallejon H. S.\n0\n1\n2\n6\n1\n0\n15\n30"
-    },
-    {
-      "match": "Broom Charles - Vandecasteele Quinn",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/broom-charles-pblgp6C1/vandecasteele-quinn-dxMNhGrH/?mid=GtolX4sQ",
-      "date": "",
-      "status": "scheduled",
-      "tour_level": "",
-      "gender": "",
-      "tournament": "",
-      "country": "",
-      "surface": "",
-      "player_1": "Broom Charles",
-      "player_2": "Vandecasteele Quinn",
-      "source": "rezultati_daily_click",
-      "source_match_id": "GtolX4sQ",
-      "raw_parent_text": "13:30\nVandecasteele Q.\nBroom C.\n-\n-"
-    },
-    {
-      "match": "Caniato Carlo Alberto - La Vela Giuseppe",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/caniato-carlo-alberto-l81bYq88/la-vela-giuseppe-pfUhRct8/?mid=nNEA6tNO",
-      "date": "",
-      "status": "scheduled",
-      "tour_level": "",
-      "gender": "",
-      "tournament": "",
-      "country": "",
-      "surface": "",
-      "player_1": "Caniato Carlo Alberto",
-      "player_2": "La Vela Giuseppe",
-      "source": "rezultati_daily_click",
-      "source_match_id": "nNEA6tNO",
-      "raw_parent_text": "15:00\nCaniato C. A.\nLa Vela G.\n-\n-"
+      "source_match_id": "b94RLVkm",
+      "raw_parent_text": "2. set\nCobolli F.\nZverev A.\n0\n1\n1\n6\n0\n1\n30\n15"
     }
   ],
   "skipped_seen_examples": [
@@ -198,9 +198,9 @@
       "surface": "",
       "player_1": "Alcala Gurri Max",
       "player_2": "De Schepper Kenny",
-      "source": "rezultati_daily_click",
+      "source": "rezultati_daily_anchor",
       "source_match_id": "jDW7Jdyf",
-      "raw_parent_text": "13:00\nAlcala Gurri M.\nDe Schepper K.\n-\n-"
+      "raw_parent_text": ""
     },
     {
       "match": "Alkaya Mert - Herbert Pierre Hugues",
@@ -214,9 +214,9 @@
       "surface": "",
       "player_1": "Alkaya Mert",
       "player_2": "Herbert Pierre Hugues",
-      "source": "rezultati_daily_click",
+      "source": "rezultati_daily_anchor",
       "source_match_id": "2qvupDi4",
-      "raw_parent_text": "12:30\nAlkaya M.\nHerbert P.H.\n-\n-"
+      "raw_parent_text": ""
     },
     {
       "match": "Allen Victoria - Stoiber Ranah Akua",
@@ -232,7 +232,7 @@
       "player_2": "Stoiber Ranah Akua",
       "source": "rezultati_daily_anchor",
       "source_match_id": "j31UaKcm",
-      "raw_parent_text": "13:30\nStoiber R. A.\nAllen V.\n-\n-"
+      "raw_parent_text": "2. set\nStoiber R. A.\nAllen V.\n1\n0\n6\n3\n3\n1\n40\nA"
     },
     {
       "match": "Alvarez Varona Nicolas - Karol Milos",
@@ -248,7 +248,7 @@
       "player_2": "Karol Milos",
       "source": "rezultati_daily_click",
       "source_match_id": "OSL4rUjt",
-      "raw_parent_text": "15:00\nAlvarez Varona N.\nKarol M.\n-\n-"
+      "raw_parent_text": "16:30\nAlvarez Varona N.\nKarol M.\n-\n-"
     },
     {
       "match": "Antoine Ghibaudo - Okonkwo Oliver",
@@ -264,7 +264,7 @@
       "player_2": "Okonkwo Oliver",
       "source": "rezultati_daily_click",
       "source_match_id": "QFWJRr5m",
-      "raw_parent_text": "16:30\nOkonkwo O.\nGhibaudo A.\n-\n-"
+      "raw_parent_text": "18:20\nOkonkwo O.\nGhibaudo A.\n-\n-"
     },
     {
       "match": "Appleton Emily - Bush Tegan",
@@ -280,7 +280,7 @@
       "player_2": "Bush Tegan",
       "source": "rezultati_daily_anchor",
       "source_match_id": "K0K4qaD6",
-      "raw_parent_text": "12:00\nBush T.\nAppleton E.\n-\n-"
+      "raw_parent_text": ""
     },
     {
       "match": "Arzhankin Anton - Cuenin Sean",
@@ -326,9 +326,9 @@
       "surface": "",
       "player_1": "Baez Sebastian",
       "player_2": "Molcan Alex",
-      "source": "rezultati_daily_click",
+      "source": "rezultati_daily_anchor",
       "source_match_id": "O0kwT5bM",
-      "raw_parent_text": "1. set\nBaez S.\nMolcan A.\n0\n0\n3\n2\n15\n15"
+      "raw_parent_text": ""
     },
     {
       "match": "Bains Naiktha - Griffiths Edie",
@@ -344,7 +344,7 @@
       "player_2": "Griffiths Edie",
       "source": "rezultati_daily_anchor",
       "source_match_id": "zXKBaB34",
-      "raw_parent_text": "16:30\nGriffiths E.\nBains N.\n-\n-"
+      "raw_parent_text": "19:00\nGriffiths E.\nBains N.\n-\n-"
     },
     {
       "match": "Barton Hynek - Sorger Sebastian",
@@ -360,7 +360,7 @@
       "player_2": "Sorger Sebastian",
       "source": "rezultati_daily_click",
       "source_match_id": "dKIei4ID",
-      "raw_parent_text": "15:00\nBarton H.\nSorger S.\n-\n-"
+      "raw_parent_text": "1. set\nBarton H.\nSorger S.\n0\n0\n2\n2\n15\n0"
     },
     {
       "match": "Bartunkova Nikola - Eala Alexandra",
@@ -376,7 +376,7 @@
       "player_2": "Eala Alexandra",
       "source": "rezultati_daily_anchor",
       "source_match_id": "ziscqz2n",
-      "raw_parent_text": "13:30\nEala A.\nBartunkova N.\n-\n-"
+      "raw_parent_text": ""
     },
     {
       "match": "Basiletti Noemi - Ricci Beatrice",
@@ -392,7 +392,7 @@
       "player_2": "Ricci Beatrice",
       "source": "rezultati_daily_anchor",
       "source_match_id": "KIVsqnP0",
-      "raw_parent_text": "14:30\nBasiletti N.\nRicci B.\n-\n-"
+      "raw_parent_text": "16:30\nBasiletti N.\nRicci B.\n-\n-"
     },
     {
       "match": "Basing Max - Jubb Paul",
@@ -406,9 +406,9 @@
       "surface": "",
       "player_1": "Basing Max",
       "player_2": "Jubb Paul",
-      "source": "rezultati_daily_click",
+      "source": "rezultati_daily_anchor",
       "source_match_id": "6T28KRcK",
-      "raw_parent_text": "12:00\nBasing M.\nJubb P.\n-\n-"
+      "raw_parent_text": ""
     },
     {
       "match": "Bass Finn - Smith Keegan",
@@ -422,9 +422,9 @@
       "surface": "",
       "player_1": "Bass Finn",
       "player_2": "Smith Keegan",
-      "source": "rezultati_daily_click",
+      "source": "rezultati_daily_anchor",
       "source_match_id": "vNAMdO5D",
-      "raw_parent_text": "12:00\nBass F.\nSmith K.\n-\n-"
+      "raw_parent_text": ""
     },
     {
       "match": "Baudel Andrea - Sanchez Quilez Alejo",
@@ -438,9 +438,9 @@
       "surface": "",
       "player_1": "Baudel Andrea",
       "player_2": "Sanchez Quilez Alejo",
-      "source": "rezultati_daily_click",
+      "source": "rezultati_daily_anchor",
       "source_match_id": "AgekJmsB",
-      "raw_parent_text": "13:00\nBaudel A.\nSanchez Quilez A.\n-\n-"
+      "raw_parent_text": ""
     },
     {
       "match": "Bekeni Marko - Santillan Akira",
@@ -456,7 +456,7 @@
       "player_2": "Santillan Akira",
       "source": "rezultati_daily_click",
       "source_match_id": "67Higo5b",
-      "raw_parent_text": "13:30\nSantillan A.\nBekeni M.\n-\n-"
+      "raw_parent_text": "3. set\nSantillan A.\nBekeni M.\n1\n1\n4\n6\n6\n3\n1\n1\n15\n30"
     },
     {
       "match": "Black Brooke - Martincova Tereza",
@@ -472,7 +472,7 @@
       "player_2": "Martincova Tereza",
       "source": "rezultati_daily_anchor",
       "source_match_id": "KKAb5tzQ",
-      "raw_parent_text": "15:00\nBlack B.\nMartincova T.\n-\n-"
+      "raw_parent_text": "1. set\nBlack B.\nMartincova T.\n0\n0\n2\n3\n40\n15"
     },
     {
       "match": "Blancaneaux Geoffrey - Staeheli Luca",
@@ -486,9 +486,9 @@
       "surface": "",
       "player_1": "Blancaneaux Geoffrey",
       "player_2": "Staeheli Luca",
-      "source": "rezultati_daily_click",
+      "source": "rezultati_daily_anchor",
       "source_match_id": "nylUVQQG",
-      "raw_parent_text": "2. set\nBlancaneaux G.\nStaeheli L.\n0\n1\n3\n6\n0\n5\n0\n0"
+      "raw_parent_text": ""
     },
     {
       "match": "Blinkova Anna - Burrage Jodie",
@@ -502,9 +502,9 @@
       "surface": "",
       "player_1": "Blinkova Anna",
       "player_2": "Burrage Jodie",
-      "source": "rezultati_daily_click",
+      "source": "rezultati_daily_anchor",
       "source_match_id": "r7Zp2M9d",
-      "raw_parent_text": "11:40\nBurrage J.\nBlinkova A.\n-\n-"
+      "raw_parent_text": ""
     },
     {
       "match": "Bocchi Lorenzo - Tiukaev Ruslan",
@@ -523,6 +523,166 @@
       "raw_parent_text": ""
     },
     {
+      "match": "Bonding Oliver - Ojakaar Oliver",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/bonding-oliver-SGkttdYl/ojakaar-oliver-IkMOT4kq/?mid=8nM8g7Cm",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Bonding Oliver",
+      "player_2": "Ojakaar Oliver",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "8nM8g7Cm",
+      "raw_parent_text": ""
+    },
+    {
+      "match": "Bonzi Benjamin - Tomic Bernard",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/bonzi-benjamin-M5OpGHqH/tomic-bernard-fVQY2TUC/?mid=6muGvRY7",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Bonzi Benjamin",
+      "player_2": "Tomic Bernard",
+      "source": "rezultati_daily_click",
+      "source_match_id": "6muGvRY7",
+      "raw_parent_text": "3. set\nBonzi B.\nTomic B.\n1\n1\n6\n5\n7\n7\n6\n2\n5\n5\n15\n15"
+    },
+    {
+      "match": "Bosio Gabriele - Ferrari Gianmarco",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/bosio-gabriele-z3kBxqS5/ferrari-gianmarco-IoLNpAMF/?mid=nkgeAONa",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Bosio Gabriele",
+      "player_2": "Ferrari Gianmarco",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "nkgeAONa",
+      "raw_parent_text": ""
+    },
+    {
+      "match": "Bosio Victoria - Pace Francesca",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/bosio-victoria-GG57VeBq/pace-francesca-2iB39Rmo/?mid=GMt4jUWQ",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Bosio Victoria",
+      "player_2": "Pace Francesca",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "GMt4jUWQ",
+      "raw_parent_text": "2. set\nBosio V.\nPace F.\n1\n0\n6\n2\n1\n3\n0\n40"
+    },
+    {
+      "match": "Bradshaw Jacob - Dlimi Yassine",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/bradshaw-jacob-UZl4cXO5/dlimi-yassine-zeU8VKrH/?mid=GjvSCYjR",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Bradshaw Jacob",
+      "player_2": "Dlimi Yassine",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "GjvSCYjR",
+      "raw_parent_text": ""
+    },
+    {
+      "match": "Brady Patrick - Noguchi Rio",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/brady-patrick-z3xiJGVh/noguchi-rio-fa2H5LnC/?mid=Onb291kJ",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Brady Patrick",
+      "player_2": "Noguchi Rio",
+      "source": "rezultati_daily_click",
+      "source_match_id": "Onb291kJ",
+      "raw_parent_text": "16:15\nNoguchi R.\nBrady P.\n-\n-"
+    },
+    {
+      "match": "Brantmeier Reese - Liutova Kristina",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/brantmeier-reese-zLzL0ABD/liutova-kristina-tnW3NSdC/?mid=OtRLTaBE",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Brantmeier Reese",
+      "player_2": "Liutova Kristina",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "OtRLTaBE",
+      "raw_parent_text": "17:00\nLiutova K.\nBrantmeier R.\n-\n-"
+    },
+    {
+      "match": "Braynin Aleksandr - Callejon Hernando Sergio",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/braynin-aleksandr-QBQYOYta/callejon-hernando-sergio-beC6R64D/?mid=fFd382hC",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Braynin Aleksandr",
+      "player_2": "Callejon Hernando Sergio",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "fFd382hC",
+      "raw_parent_text": ""
+    },
+    {
+      "match": "Broom Charles - Vandecasteele Quinn",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/broom-charles-pblgp6C1/vandecasteele-quinn-dxMNhGrH/?mid=GtolX4sQ",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Broom Charles",
+      "player_2": "Vandecasteele Quinn",
+      "source": "rezultati_daily_click",
+      "source_match_id": "GtolX4sQ",
+      "raw_parent_text": "2. set\nVandecasteele Q.\nBroom C.\n0\n1\n3\n6\n1\n3\n15\n15"
+    },
+    {
+      "match": "Caniato Carlo Alberto - La Vela Giuseppe",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/caniato-carlo-alberto-l81bYq88/la-vela-giuseppe-pfUhRct8/?mid=nNEA6tNO",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Caniato Carlo Alberto",
+      "player_2": "La Vela Giuseppe",
+      "source": "rezultati_daily_click",
+      "source_match_id": "nNEA6tNO",
+      "raw_parent_text": "16:45\nCaniato C. A.\nLa Vela G.\n-\n-"
+    },
+    {
       "match": "Charaeva Alina - Gibson Talia",
       "match_url": "https://www.rezultati.com/utakmica/tenis/charaeva-alina-nBSQPTfR/gibson-talia-8GwNXON6/?mid=z1tEPG7K",
       "date": "",
@@ -534,9 +694,9 @@
       "surface": "",
       "player_1": "Charaeva Alina",
       "player_2": "Gibson Talia",
-      "source": "rezultati_daily_click",
+      "source": "rezultati_daily_anchor",
       "source_match_id": "z1tEPG7K",
-      "raw_parent_text": "11:40\nGibson T.\nCharaeva A.\n-\n-"
+      "raw_parent_text": ""
     },
     {
       "match": "Fery Arthur - Yunchaokete Bu",
@@ -550,9 +710,9 @@
       "surface": "",
       "player_1": "Fery Arthur",
       "player_2": "Yunchaokete Bu",
-      "source": "rezultati_daily_click",
+      "source": "rezultati_daily_anchor",
       "source_match_id": "OSuLgUDN",
-      "raw_parent_text": "Prekinuto\nFery A.\nBu Y.\n0\n1\n2\n6\n1\n2\n40\n40"
+      "raw_parent_text": ""
     },
     {
       "match": "Hardt Nick - Villanueva Gonzalo",
