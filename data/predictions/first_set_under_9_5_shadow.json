@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T13:37:31.102796+02:00",
+  "generated_at": "2026-06-08T13:41:45.063575+02:00",
   "source_odds_url": "https://raw.githubusercontent.com/jakobm121/Ai/refs/heads/main/data/tennis_odds_today.json",
   "odds_generated_at": "2026-06-08T13:23:55.291241+02:00",
   "model": "first_set_under_9_5_shadow_v1",
@@ -7,20 +7,76 @@
     "min_favorite_probability": 0.75,
     "high_confidence_favorite_probability": 0.85,
     "min_under_odds": 1.8,
-    "min_player_sample": 15,
-    "min_one_player_sample": 30,
+    "min_player_sample": 10,
+    "min_one_player_sample": 2,
     "min_model_under_probability": 0.56,
     "min_edge": 0.05
   },
   "summary": {
     "odds_matches": 57,
     "evaluated_matches": 55,
-    "shadow_bets": 0,
-    "no_bets": 55,
-    "no_bet": 55,
-    "missing_first_set_9_5": 2
+    "shadow_bets": 1,
+    "no_bets": 54,
+    "no_bet": 54,
+    "missing_first_set_9_5": 2,
+    "shadow_bet": 1
   },
-  "shadow_picks": [],
+  "shadow_picks": [
+    {
+      "event_key": 12134566,
+      "date": "2026-06-08",
+      "time": "16:00",
+      "player_1": "U. Humbert",
+      "player_2": "E. Ymer",
+      "match": "U. Humbert - E. Ymer",
+      "tournament": "Hertogenbosch",
+      "tour_level": "atp",
+      "gender": "men",
+      "surface": "",
+      "favorite": "U. Humbert",
+      "favorite_side": "player_1",
+      "favorite_probability": 0.789474,
+      "market": "1st Set Under 9.5 Games",
+      "line": 9.5,
+      "under_odds": 2.25,
+      "under_bookmaker": "Betfair",
+      "over_odds": 1.83,
+      "model_under_probability": 0.610885,
+      "fair_odds_under": 1.637,
+      "edge": 0.3745,
+      "confidence": "medium",
+      "decision": "SHADOW_BET",
+      "reasons": [],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Humbert U.",
+        "player_2_status": "matched",
+        "player_2_profile_name": "Ymer E."
+      },
+      "model_details": {
+        "segment_under_probability": 0.5853,
+        "player_component_under_probability": 0.6584,
+        "player_1": {
+          "sample_size": 96,
+          "overall_under_rate": 0.4896,
+          "surface_under_rate": null,
+          "surface_sample": 0,
+          "recent_10_under_rate": 0.8,
+          "recent_10_sample": 10,
+          "blended_under_rate": 0.5561
+        },
+        "player_2": {
+          "sample_size": 12,
+          "overall_under_rate": 0.75,
+          "surface_under_rate": null,
+          "surface_sample": 0,
+          "recent_10_under_rate": 0.8,
+          "recent_10_sample": 10,
+          "blended_under_rate": 0.7607
+        }
+      }
+    }
+  ],
   "all_evaluated": [
     {
       "event_key": 12134274,
@@ -47,8 +103,7 @@
       "confidence": "medium",
       "decision": "NO_BET",
       "reasons": [
-        "favorite_probability_below_threshold",
-        "both_players_need_minimum_sample"
+        "favorite_probability_below_threshold"
       ],
       "profile_matches": {
         "player_1_status": "matched",
@@ -568,8 +623,7 @@
       "decision": "NO_BET",
       "reasons": [
         "favorite_probability_below_threshold",
-        "both_players_need_minimum_sample",
-        "one_player_needs_larger_sample"
+        "both_players_need_minimum_sample"
       ],
       "profile_matches": {
         "player_1_status": "matched",
@@ -627,7 +681,6 @@
       "reasons": [
         "favorite_probability_below_threshold",
         "both_players_need_minimum_sample",
-        "one_player_needs_larger_sample",
         "model_probability_below_threshold",
         "edge_below_threshold"
       ],
@@ -906,7 +959,6 @@
       "reasons": [
         "under_odds_below_threshold",
         "both_players_need_minimum_sample",
-        "one_player_needs_larger_sample",
         "model_probability_below_threshold",
         "edge_below_threshold"
       ],
@@ -966,7 +1018,6 @@
       "reasons": [
         "favorite_probability_below_threshold",
         "both_players_need_minimum_sample",
-        "one_player_needs_larger_sample",
         "model_probability_below_threshold",
         "edge_below_threshold"
       ],
@@ -1026,7 +1077,6 @@
       "reasons": [
         "favorite_probability_below_threshold",
         "both_players_need_minimum_sample",
-        "one_player_needs_larger_sample",
         "model_probability_below_threshold"
       ],
       "profile_matches": {
@@ -1085,7 +1135,6 @@
       "reasons": [
         "favorite_probability_below_threshold",
         "both_players_need_minimum_sample",
-        "one_player_needs_larger_sample",
         "model_probability_below_threshold"
       ],
       "profile_matches": {
@@ -1144,7 +1193,6 @@
       "reasons": [
         "favorite_probability_below_threshold",
         "both_players_need_minimum_sample",
-        "one_player_needs_larger_sample",
         "model_probability_below_threshold"
       ],
       "profile_matches": {
@@ -1203,7 +1251,6 @@
       "reasons": [
         "favorite_probability_below_threshold",
         "both_players_need_minimum_sample",
-        "one_player_needs_larger_sample",
         "model_probability_below_threshold"
       ],
       "profile_matches": {
@@ -1372,7 +1419,6 @@
         "favorite_probability_below_threshold",
         "under_odds_below_threshold",
         "both_players_need_minimum_sample",
-        "one_player_needs_larger_sample",
         "edge_below_threshold"
       ],
       "profile_matches": {
@@ -1431,8 +1477,7 @@
       "reasons": [
         "favorite_probability_below_threshold",
         "under_odds_below_threshold",
-        "both_players_need_minimum_sample",
-        "one_player_needs_larger_sample"
+        "both_players_need_minimum_sample"
       ],
       "profile_matches": {
         "player_1_status": "matched",
@@ -1491,7 +1536,6 @@
         "favorite_probability_below_threshold",
         "under_odds_below_threshold",
         "both_players_need_minimum_sample",
-        "one_player_needs_larger_sample",
         "model_probability_below_threshold",
         "edge_below_threshold"
       ],
@@ -1552,7 +1596,6 @@
         "favorite_probability_below_threshold",
         "under_odds_below_threshold",
         "both_players_need_minimum_sample",
-        "one_player_needs_larger_sample",
         "model_probability_below_threshold",
         "edge_below_threshold"
       ],
@@ -1783,8 +1826,7 @@
       "reasons": [
         "favorite_probability_below_threshold",
         "under_odds_below_threshold",
-        "both_players_need_minimum_sample",
-        "one_player_needs_larger_sample"
+        "both_players_need_minimum_sample"
       ],
       "profile_matches": {
         "player_1_status": "matched",
@@ -1843,7 +1885,6 @@
         "favorite_probability_below_threshold",
         "under_odds_below_threshold",
         "both_players_need_minimum_sample",
-        "one_player_needs_larger_sample",
         "model_probability_below_threshold",
         "edge_below_threshold"
       ],
@@ -1939,8 +1980,7 @@
       "decision": "NO_BET",
       "reasons": [
         "favorite_probability_below_threshold",
-        "both_players_need_minimum_sample",
-        "one_player_needs_larger_sample"
+        "both_players_need_minimum_sample"
       ],
       "profile_matches": {
         "player_1_status": "matched",
@@ -2130,8 +2170,6 @@
       "decision": "NO_BET",
       "reasons": [
         "favorite_probability_below_threshold",
-        "both_players_need_minimum_sample",
-        "one_player_needs_larger_sample",
         "model_probability_below_threshold"
       ],
       "profile_matches": {
@@ -2225,8 +2263,7 @@
       "decision": "NO_BET",
       "reasons": [
         "favorite_probability_below_threshold",
-        "both_players_need_minimum_sample",
-        "one_player_needs_larger_sample"
+        "both_players_need_minimum_sample"
       ],
       "profile_matches": {
         "player_1_status": "matched",
@@ -2322,7 +2359,6 @@
         "favorite_probability_below_threshold",
         "under_odds_below_threshold",
         "both_players_need_minimum_sample",
-        "one_player_needs_larger_sample",
         "edge_below_threshold"
       ],
       "profile_matches": {
@@ -2381,7 +2417,6 @@
       "reasons": [
         "under_odds_below_threshold",
         "both_players_need_minimum_sample",
-        "one_player_needs_larger_sample",
         "model_probability_below_threshold",
         "edge_below_threshold"
       ],
@@ -2479,7 +2514,6 @@
         "favorite_probability_below_threshold",
         "under_odds_below_threshold",
         "both_players_need_minimum_sample",
-        "one_player_needs_larger_sample",
         "model_probability_below_threshold",
         "edge_below_threshold"
       ],
@@ -2535,10 +2569,8 @@
       "fair_odds_under": 1.637,
       "edge": 0.3745,
       "confidence": "medium",
-      "decision": "NO_BET",
-      "reasons": [
-        "both_players_need_minimum_sample"
-      ],
+      "decision": "SHADOW_BET",
+      "reasons": [],
       "profile_matches": {
         "player_1_status": "matched",
         "player_1_profile_name": "Humbert U.",
@@ -2634,7 +2666,6 @@
         "favorite_probability_below_threshold",
         "under_odds_below_threshold",
         "both_players_need_minimum_sample",
-        "one_player_needs_larger_sample",
         "model_probability_below_threshold",
         "edge_below_threshold"
       ],
@@ -2695,7 +2726,6 @@
         "favorite_probability_below_threshold",
         "under_odds_below_threshold",
         "both_players_need_minimum_sample",
-        "one_player_needs_larger_sample",
         "edge_below_threshold"
       ],
       "profile_matches": {
