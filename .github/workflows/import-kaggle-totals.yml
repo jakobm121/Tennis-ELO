@@ -1,0 +1,124 @@
+name: Import Kaggle Totals History
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: import-kaggle-totals
+  cancel-in-progress: false
+
+jobs:
+  import-kaggle-totals:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install kaggle
+
+      - name: Check Kaggle token
+        env:
+          KAGGLE_API_TOKEN: ${{ secrets.KAGGLE_API_TOKEN }}
+        run: |
+          test -n "$KAGGLE_API_TOKEN" || {
+            echo "Missing repository secret KAGGLE_API_TOKEN"
+            exit 1
+          }
+
+          echo "Kaggle token is configured."
+
+      - name: Download ATP and WTA datasets
+        env:
+          KAGGLE_API_TOKEN: ${{ secrets.KAGGLE_API_TOKEN }}
+        run: |
+          rm -rf data/external/kaggle_tennis
+
+          mkdir -p data/external/kaggle_tennis/atp
+          mkdir -p data/external/kaggle_tennis/wta
+
+          kaggle datasets download \
+            -d dissfya/atp-tennis-2000-2023daily-pull \
+            -p data/external/kaggle_tennis/atp \
+            --unzip
+
+          kaggle datasets download \
+            -d dissfya/wta-tennis-2007-2023-daily-update \
+            -p data/external/kaggle_tennis/wta \
+            --unzip
+
+          echo "Downloaded files:"
+          find data/external/kaggle_tennis -maxdepth 3 -type f | sort
+
+          CSV_COUNT="$(find data/external/kaggle_tennis -type f -iname '*.csv' | wc -l)"
+
+          test "$CSV_COUNT" -gt 0 || {
+            echo "No CSV files were downloaded."
+            exit 1
+          }
+
+      - name: Import the last 365 days
+        env:
+          KAGGLE_TENNIS_INPUT_DIR: data/external/kaggle_tennis
+          TOTALS_LOOKBACK_DAYS: "365"
+        run: python -m tennis_elo.sources.import_kaggle_scorelines
+
+      - name: Validate generated archive
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          archive_path = Path("data/totals/scorelines_archive.json")
+          report_path = Path("data/reports/import_kaggle_scorelines_report.json")
+
+          if not archive_path.exists():
+              raise SystemExit("Missing scorelines_archive.json")
+
+          if not report_path.exists():
+              raise SystemExit("Missing import report")
+
+          archive = json.loads(
+              archive_path.read_text(encoding="utf-8")
+          )
+
+          matches = archive.get("matches", [])
+
+          if not matches:
+              raise SystemExit("Archive contains no matches")
+
+          print("ARCHIVE MATCHES:", len(matches))
+          print("COUNTS:", archive.get("counts", {}))
+          PY
+
+      - name: Commit generated totals data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/totals/kaggle_scorelines_import.json
+          git add data/totals/scorelines_archive.json
+          git add data/reports/import_kaggle_scorelines_report.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Import one year of Kaggle totals history"
+          git pull --rebase origin main
+          git push origin HEAD:main
