@@ -1,0 +1,255 @@
+{
+  "generated_at": "2026-06-08T12:30:15.128637+02:00",
+  "source_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/totals/scorelines_archive.json",
+  "output_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/totals/player_first_set_profiles.json",
+  "counts": {
+    "invalid_date": 29,
+    "ok": 4919,
+    "valid_matches": 4919,
+    "players": 637,
+    "mature_players": 148,
+    "usable_players": 230
+  },
+  "top_sample_players": [
+    {
+      "player_name": "Sinner J.",
+      "sample_size": 81,
+      "confidence": 1.0,
+      "maturity": "mature",
+      "over_9_5_rate": 0.321,
+      "avg_first_set_games": 9.025
+    },
+    {
+      "player_name": "Zverev A.",
+      "sample_size": 78,
+      "confidence": 1.0,
+      "maturity": "mature",
+      "over_9_5_rate": 0.4744,
+      "avg_first_set_games": 9.667
+    },
+    {
+      "player_name": "Rybakina E.",
+      "sample_size": 77,
+      "confidence": 1.0,
+      "maturity": "mature",
+      "over_9_5_rate": 0.4805,
+      "avg_first_set_games": 9.636
+    },
+    {
+      "player_name": "Auger-Aliassime F.",
+      "sample_size": 70,
+      "confidence": 1.0,
+      "maturity": "mature",
+      "over_9_5_rate": 0.6286,
+      "avg_first_set_games": 10.214
+    },
+    {
+      "player_name": "Medvedev D.",
+      "sample_size": 67,
+      "confidence": 1.0,
+      "maturity": "mature",
+      "over_9_5_rate": 0.4627,
+      "avg_first_set_games": 9.881
+    },
+    {
+      "player_name": "Pegula J.",
+      "sample_size": 65,
+      "confidence": 1.0,
+      "maturity": "mature",
+      "over_9_5_rate": 0.3846,
+      "avg_first_set_games": 9.015
+    },
+    {
+      "player_name": "Cirstea S.",
+      "sample_size": 65,
+      "confidence": 1.0,
+      "maturity": "mature",
+      "over_9_5_rate": 0.3538,
+      "avg_first_set_games": 9.154
+    },
+    {
+      "player_name": "Sabalenka A.",
+      "sample_size": 63,
+      "confidence": 1.0,
+      "maturity": "mature",
+      "over_9_5_rate": 0.4762,
+      "avg_first_set_games": 9.683
+    },
+    {
+      "player_name": "De Minaur A.",
+      "sample_size": 63,
+      "confidence": 1.0,
+      "maturity": "mature",
+      "over_9_5_rate": 0.5873,
+      "avg_first_set_games": 9.968
+    },
+    {
+      "player_name": "Darderi L.",
+      "sample_size": 63,
+      "confidence": 1.0,
+      "maturity": "mature",
+      "over_9_5_rate": 0.5397,
+      "avg_first_set_games": 9.873
+    },
+    {
+      "player_name": "Tien L.",
+      "sample_size": 62,
+      "confidence": 1.0,
+      "maturity": "mature",
+      "over_9_5_rate": 0.6129,
+      "avg_first_set_games": 10.194
+    },
+    {
+      "player_name": "Shelton B.",
+      "sample_size": 62,
+      "confidence": 1.0,
+      "maturity": "mature",
+      "over_9_5_rate": 0.5968,
+      "avg_first_set_games": 10.468
+    },
+    {
+      "player_name": "Fritz T.",
+      "sample_size": 62,
+      "confidence": 1.0,
+      "maturity": "mature",
+      "over_9_5_rate": 0.629,
+      "avg_first_set_games": 10.5
+    },
+    {
+      "player_name": "Andreeva M.",
+      "sample_size": 62,
+      "confidence": 1.0,
+      "maturity": "mature",
+      "over_9_5_rate": 0.4516,
+      "avg_first_set_games": 9.661
+    },
+    {
+      "player_name": "Swiatek I.",
+      "sample_size": 61,
+      "confidence": 1.0,
+      "maturity": "mature",
+      "over_9_5_rate": 0.3443,
+      "avg_first_set_games": 8.803
+    },
+    {
+      "player_name": "Cobolli F.",
+      "sample_size": 61,
+      "confidence": 1.0,
+      "maturity": "mature",
+      "over_9_5_rate": 0.5246,
+      "avg_first_set_games": 10.016
+    },
+    {
+      "player_name": "Bublik A.",
+      "sample_size": 61,
+      "confidence": 1.0,
+      "maturity": "mature",
+      "over_9_5_rate": 0.5902,
+      "avg_first_set_games": 10.033
+    },
+    {
+      "player_name": "Alcaraz C.",
+      "sample_size": 61,
+      "confidence": 1.0,
+      "maturity": "mature",
+      "over_9_5_rate": 0.5902,
+      "avg_first_set_games": 9.836
+    },
+    {
+      "player_name": "Rublev A.",
+      "sample_size": 60,
+      "confidence": 1.0,
+      "maturity": "mature",
+      "over_9_5_rate": 0.5,
+      "avg_first_set_games": 9.95
+    },
+    {
+      "player_name": "Noskova L.",
+      "sample_size": 59,
+      "confidence": 1.0,
+      "maturity": "mature",
+      "over_9_5_rate": 0.4068,
+      "avg_first_set_games": 9.746
+    },
+    {
+      "player_name": "Fernandez L.A.",
+      "sample_size": 59,
+      "confidence": 1.0,
+      "maturity": "mature",
+      "over_9_5_rate": 0.4237,
+      "avg_first_set_games": 9.424
+    },
+    {
+      "player_name": "Alexandrova E.",
+      "sample_size": 59,
+      "confidence": 1.0,
+      "maturity": "mature",
+      "over_9_5_rate": 0.4068,
+      "avg_first_set_games": 9.305
+    },
+    {
+      "player_name": "Nakashima B.",
+      "sample_size": 58,
+      "confidence": 1.0,
+      "maturity": "mature",
+      "over_9_5_rate": 0.6379,
+      "avg_first_set_games": 10.603
+    },
+    {
+      "player_name": "Etcheverry T.",
+      "sample_size": 57,
+      "confidence": 1.0,
+      "maturity": "mature",
+      "over_9_5_rate": 0.5088,
+      "avg_first_set_games": 10.228
+    },
+    {
+      "player_name": "Michelsen A.",
+      "sample_size": 56,
+      "confidence": 1.0,
+      "maturity": "mature",
+      "over_9_5_rate": 0.5714,
+      "avg_first_set_games": 10.018
+    },
+    {
+      "player_name": "Li A.",
+      "sample_size": 56,
+      "confidence": 1.0,
+      "maturity": "mature",
+      "over_9_5_rate": 0.5179,
+      "avg_first_set_games": 9.929
+    },
+    {
+      "player_name": "Lehecka J.",
+      "sample_size": 56,
+      "confidence": 1.0,
+      "maturity": "mature",
+      "over_9_5_rate": 0.6429,
+      "avg_first_set_games": 10.268
+    },
+    {
+      "player_name": "Gauff C.",
+      "sample_size": 56,
+      "confidence": 1.0,
+      "maturity": "mature",
+      "over_9_5_rate": 0.4464,
+      "avg_first_set_games": 9.375
+    },
+    {
+      "player_name": "Shnaider D.",
+      "sample_size": 55,
+      "confidence": 1.0,
+      "maturity": "mature",
+      "over_9_5_rate": 0.4182,
+      "avg_first_set_games": 9.8
+    },
+    {
+      "player_name": "Khachanov K.",
+      "sample_size": 55,
+      "confidence": 1.0,
+      "maturity": "mature",
+      "over_9_5_rate": 0.5455,
+      "avg_first_set_games": 10.109
+    }
+  ]
+}
