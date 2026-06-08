@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-06-08T12:25:02.209911+02:00",
+  "generated_at": "2026-06-08T13:34:21.519073+02:00",
   "input_dir": "data/external/kaggle_tennis",
   "reference_date": "2026-06-08",
-  "cutoff_date": "2025-06-08",
-  "lookback_days": 365,
+  "cutoff_date": "2024-06-08",
+  "lookback_days": 730,
   "counts": {
-    "archive_before": 31,
-    "kaggle_imported_unique": 4917,
-    "archive_after": 4948,
-    "added": 4917
+    "archive_before": 4961,
+    "kaggle_imported_unique": 9802,
+    "archive_after": 9846,
+    "added": 4885
   },
   "coverage": {
-    "men": 2516,
-    "women": 2401,
-    "clay": 1320,
-    "hard": 3017,
-    "grass": 582,
-    "with_odds": 4906
+    "men": 5018,
+    "women": 4788,
+    "clay": 2700,
+    "hard": 5931,
+    "grass": 1186,
+    "with_odds": 9783
   },
   "parse_counts": {
-    "outside_window": 107728,
-    "ok": 4917,
+    "outside_window": 102843,
+    "ok": 9802,
     "winner_score_mismatch": 1,
     "invalid_date": 2
   },
@@ -48,11 +48,11 @@
         "Score"
       ],
       "counts": {
-        "outside_window": 65415,
-        "ok": 2516,
+        "outside_window": 62915,
+        "ok": 5016,
         "winner_score_mismatch": 1
       },
-      "imported": 2516
+      "imported": 5016
     },
     {
       "file": "data/external/kaggle_tennis/wta/wta.csv",
@@ -76,11 +76,11 @@
         "Score"
       ],
       "counts": {
-        "outside_window": 42313,
-        "ok": 2401,
+        "outside_window": 39928,
+        "ok": 4786,
         "invalid_date": 2
       },
-      "imported": 2401
+      "imported": 4786
     }
   ]
 }
