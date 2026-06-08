@@ -18,6 +18,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -85,12 +87,11 @@ jobs:
 
           archive_path = Path("data/totals/scorelines_archive.json")
           report_path = Path("data/reports/import_kaggle_scorelines_report.json")
+          import_path = Path("data/totals/kaggle_scorelines_import.json")
 
-          if not archive_path.exists():
-              raise SystemExit("Missing scorelines_archive.json")
-
-          if not report_path.exists():
-              raise SystemExit("Missing import report")
+          for path in [archive_path, report_path, import_path]:
+              if not path.exists():
+                  raise SystemExit(f"Missing generated file: {path}")
 
           archive = json.loads(
               archive_path.read_text(encoding="utf-8")
@@ -120,5 +121,13 @@ jobs:
           fi
 
           git commit -m "Import one year of Kaggle totals history"
+
+          # Odstrani samo začasno prenesene Kaggle datoteke.
+          rm -rf data/external/kaggle_tennis
+
+          # Počisti morebitne druge nestageane spremembe runnerja.
+          git restore --worktree .
+          git clean -fd data/external || true
+
           git pull --rebase origin main
           git push origin HEAD:main
