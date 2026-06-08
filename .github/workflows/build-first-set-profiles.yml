@@ -1,0 +1,89 @@
+name: Build First Set Profiles
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-first-set-profiles:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Build first set profiles
+        env:
+          FIRST_SET_RECENT_DAYS: "90"
+          MIN_VALID_FIRST_SET_GAMES: "6"
+          MAX_VALID_FIRST_SET_GAMES: "20"
+        run: python -m tennis_elo.totals.build_first_set_profiles
+
+      - name: Validate profiles
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          path = Path("data/totals/player_first_set_profiles.json")
+
+          if not path.exists():
+              raise SystemExit("Missing player_first_set_profiles.json")
+
+          data = json.loads(
+              path.read_text(encoding="utf-8")
+          )
+
+          profiles = data.get("profiles", [])
+
+          if not profiles:
+              raise SystemExit("No first-set profiles were generated")
+
+          print("PLAYERS:", len(profiles))
+          print("COUNTS:", data.get("counts", {}))
+
+          print("\nTOP 10 BY SAMPLE:")
+
+          for player in profiles[:10]:
+              overall = player.get("overall") or {}
+
+              print(
+                  player.get("player_name"),
+                  "sample=", player.get("sample_size"),
+                  "maturity=", player.get("maturity"),
+                  "over9.5=", overall.get("over_9_5_rate"),
+                  "avg=", overall.get("avg_first_set_games"),
+              )
+          PY
+
+      - name: Commit generated profiles
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/totals/player_first_set_profiles.json
+          git add data/reports/build_first_set_profiles_report.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Build first set totals profiles"
+          git pull --rebase --autostash origin main
+          git push origin HEAD:main
