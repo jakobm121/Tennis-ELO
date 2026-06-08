@@ -80,6 +80,61 @@ jobs:
               )
           PY
 
+      - name: Show no-bet reasons
+        run: |
+          python - <<'PY'
+          import json
+          from collections import Counter
+          from pathlib import Path
+
+          path = Path(
+              "data/predictions/first_set_under_9_5_shadow.json"
+          )
+
+          data = json.loads(path.read_text(encoding="utf-8"))
+          rows = data.get("all_evaluated", [])
+
+          reasons = Counter()
+
+          for row in rows:
+              for reason in row.get("reasons", []):
+                  reasons[reason] += 1
+
+          print("NO-BET REASONS:")
+
+          for reason, count in reasons.most_common():
+              print(reason, count)
+
+          print("\nTOP 10 CLOSEST MATCHES:")
+
+          ranked = sorted(
+              rows,
+              key=lambda row: (
+                  row.get("favorite_probability") or 0,
+                  row.get("under_odds") or 0,
+                  row.get("edge") or -999,
+              ),
+              reverse=True,
+          )
+
+          for row in ranked[:10]:
+              print({
+                  "match": row.get("match"),
+                  "favorite_probability": row.get(
+                      "favorite_probability"
+                  ),
+                  "under_odds": row.get("under_odds"),
+                  "model_probability": row.get(
+                      "model_under_probability"
+                  ),
+                  "fair_odds": row.get("fair_odds_under"),
+                  "edge": row.get("edge"),
+                  "decision": row.get("decision"),
+                  "reasons": row.get("reasons"),
+                  "profiles": row.get("profile_matches"),
+              })
+          PY
+
       - name: Commit shadow-picks outputs
         run: |
           git config user.name "github-actions[bot]"
