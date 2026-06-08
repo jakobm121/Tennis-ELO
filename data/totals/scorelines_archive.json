@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T07:19:12.235964+02:00",
+  "generated_at": "2026-06-08T08:06:32.417552+02:00",
   "source": "rezultati_daily_results",
   "counts": {
     "archive_before": 29,
-    "daily_scorelines": 0,
-    "archive_after": 29,
-    "added": 0
+    "daily_scorelines": 2,
+    "archive_after": 31,
+    "added": 2
   },
   "matches": [
     {
@@ -1604,6 +1604,110 @@
       "deciding_set": false,
       "had_tiebreak": true,
       "tiebreak_count": 1
+    },
+    {
+      "match_id": "",
+      "match_url": "",
+      "source": "rezultati_daily_results_text_fallback",
+      "date": "2026-06-08",
+      "player_1": "Castro L. C.",
+      "player_2": "Cigarran T.",
+      "match": "Castro L. C. - Cigarran T.",
+      "winner": "Cigarran T.",
+      "loser": "Castro L. C.",
+      "sets_1": 0,
+      "sets_2": 2,
+      "final_score": "0-2",
+      "set_scores": [
+        {
+          "set_number": 1,
+          "p1_games": 4,
+          "p2_games": 6,
+          "tiebreak": false
+        },
+        {
+          "set_number": 2,
+          "p1_games": 2,
+          "p2_games": 6,
+          "tiebreak": false
+        }
+      ],
+      "completed": true,
+      "retired": false,
+      "walkover": false,
+      "raw_parent_text": "Kraj\nCastro L. C.\nCigarran T.\n0\n2\n4\n6\n2\n6",
+      "raw_header_text": "San Miguel de Tucuman (Argentina) - Kvalifikacije, zemlja\nCHALLENGER - MUŠKI SINGL:",
+      "tournament": "San Miguel de Tucuman (Argentina) - Kvalifikacije",
+      "tour_level": "challenger",
+      "gender": "",
+      "surface": "clay",
+      "indoor": null,
+      "best_of": 3,
+      "is_grand_slam": false,
+      "first_set_score": "4-6",
+      "first_set_games": 10,
+      "first_set_tiebreak": false,
+      "total_games": 18,
+      "p1_total_games_won": 6,
+      "p2_total_games_won": 12,
+      "game_margin_p1": -6,
+      "total_sets": 2,
+      "straight_sets": true,
+      "deciding_set": false,
+      "had_tiebreak": false,
+      "tiebreak_count": 0
+    },
+    {
+      "match_id": "",
+      "match_url": "",
+      "source": "rezultati_daily_results_text_fallback",
+      "date": "2026-06-08",
+      "player_1": "Zarate C. M.",
+      "player_2": "Hardt N.",
+      "match": "Zarate C. M. - Hardt N.",
+      "winner": "Hardt N.",
+      "loser": "Zarate C. M.",
+      "sets_1": 0,
+      "sets_2": 2,
+      "final_score": "0-2",
+      "set_scores": [
+        {
+          "set_number": 1,
+          "p1_games": 2,
+          "p2_games": 6,
+          "tiebreak": false
+        },
+        {
+          "set_number": 2,
+          "p1_games": 2,
+          "p2_games": 6,
+          "tiebreak": false
+        }
+      ],
+      "completed": true,
+      "retired": false,
+      "walkover": false,
+      "raw_parent_text": "Kraj\nZarate C. M.\nHardt N.\n0\n2\n2\n6\n2\n6",
+      "raw_header_text": "M25 Cuiaba (Brazil), zemlja\nITF - MUŠKI SINGL:",
+      "tournament": "M25 Cuiaba (Brazil)",
+      "tour_level": "itf",
+      "gender": "",
+      "surface": "clay",
+      "indoor": null,
+      "best_of": 3,
+      "is_grand_slam": false,
+      "first_set_score": "2-6",
+      "first_set_games": 8,
+      "first_set_tiebreak": false,
+      "total_games": 16,
+      "p1_total_games_won": 4,
+      "p2_total_games_won": 12,
+      "game_margin_p1": -8,
+      "total_sets": 2,
+      "straight_sets": true,
+      "deciding_set": false,
+      "had_tiebreak": false,
+      "tiebreak_count": 0
     }
   ]
 }
