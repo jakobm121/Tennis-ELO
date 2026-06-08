@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T13:35:10.921626+02:00",
+  "generated_at": "2026-06-08T13:37:31.102796+02:00",
   "source_odds_url": "https://raw.githubusercontent.com/jakobm121/Ai/refs/heads/main/data/tennis_odds_today.json",
   "odds_generated_at": "2026-06-08T13:23:55.291241+02:00",
   "model": "first_set_under_9_5_shadow_v1",
@@ -41,15 +41,14 @@
       "under_odds": 1.91,
       "under_bookmaker": "Betfair",
       "over_odds": 2.07,
-      "model_under_probability": 0.59545,
-      "fair_odds_under": 1.679,
-      "edge": 0.1373,
+      "model_under_probability": 0.581678,
+      "fair_odds_under": 1.719,
+      "edge": 0.111,
       "confidence": "medium",
       "decision": "NO_BET",
       "reasons": [
         "favorite_probability_below_threshold",
-        "both_players_need_minimum_sample",
-        "one_player_needs_larger_sample"
+        "both_players_need_minimum_sample"
       ],
       "profile_matches": {
         "player_1_status": "matched",
@@ -59,24 +58,24 @@
       },
       "model_details": {
         "segment_under_probability": 0.5853,
-        "player_component_under_probability": 0.6143,
+        "player_component_under_probability": 0.575,
         "player_1": {
-          "sample_size": 8,
-          "overall_under_rate": 0.75,
+          "sample_size": 14,
+          "overall_under_rate": 0.6429,
           "surface_under_rate": null,
           "surface_sample": 0,
-          "recent_10_under_rate": 0.75,
-          "recent_10_sample": 8,
-          "blended_under_rate": 0.75
+          "recent_10_under_rate": 0.6,
+          "recent_10_sample": 10,
+          "blended_under_rate": 0.6337
         },
         "player_2": {
-          "sample_size": 20,
-          "overall_under_rate": 0.5,
+          "sample_size": 73,
+          "overall_under_rate": 0.5479,
           "surface_under_rate": null,
           "surface_sample": 0,
           "recent_10_under_rate": 0.4,
           "recent_10_sample": 10,
-          "blended_under_rate": 0.4786
+          "blended_under_rate": 0.5162
         }
       }
     },
@@ -99,9 +98,9 @@
       "under_odds": 1.82,
       "under_bookmaker": "Unibet",
       "over_odds": 2.08,
-      "model_under_probability": 0.5993,
-      "fair_odds_under": 1.669,
-      "edge": 0.0907,
+      "model_under_probability": 0.588135,
+      "fair_odds_under": 1.7,
+      "edge": 0.0704,
       "confidence": "medium",
       "decision": "NO_BET",
       "reasons": [
@@ -116,7 +115,7 @@
       },
       "model_details": {
         "segment_under_probability": 0.5853,
-        "player_component_under_probability": 0.6253,
+        "player_component_under_probability": 0.5934,
         "player_1": {
           "sample_size": 3,
           "overall_under_rate": 0.6667,
@@ -127,13 +126,13 @@
           "blended_under_rate": 0.6667
         },
         "player_2": {
-          "sample_size": 41,
-          "overall_under_rate": 0.6341,
+          "sample_size": 85,
+          "overall_under_rate": 0.5529,
           "surface_under_rate": null,
           "surface_sample": 0,
           "recent_10_under_rate": 0.4,
           "recent_10_sample": 10,
-          "blended_under_rate": 0.5839
+          "blended_under_rate": 0.5201
         }
       }
     },
@@ -156,9 +155,9 @@
       "under_odds": 2.63,
       "under_bookmaker": "Betfair",
       "over_odds": 1.57,
-      "model_under_probability": 0.5,
-      "fair_odds_under": 2.0,
-      "edge": 0.315,
+      "model_under_probability": 0.504695,
+      "fair_odds_under": 1.981,
+      "edge": 0.3273,
       "confidence": "medium",
       "decision": "NO_BET",
       "reasons": [
@@ -173,24 +172,24 @@
       },
       "model_details": {
         "segment_under_probability": 0.5853,
-        "player_component_under_probability": 0.3362,
+        "player_component_under_probability": 0.355,
         "player_1": {
-          "sample_size": 34,
-          "overall_under_rate": 0.3235,
+          "sample_size": 51,
+          "overall_under_rate": 0.2941,
           "surface_under_rate": null,
           "surface_sample": 0,
           "recent_10_under_rate": 0.4,
           "recent_10_sample": 10,
-          "blended_under_rate": 0.3399
+          "blended_under_rate": 0.3168
         },
         "player_2": {
-          "sample_size": 41,
-          "overall_under_rate": 0.3415,
+          "sample_size": 86,
+          "overall_under_rate": 0.4186,
           "surface_under_rate": null,
           "surface_sample": 0,
           "recent_10_under_rate": 0.3,
           "recent_10_sample": 10,
-          "blended_under_rate": 0.3326
+          "blended_under_rate": 0.3932
         }
       }
     },
@@ -231,15 +230,15 @@
       },
       "model_details": {
         "segment_under_probability": 0.5853,
-        "player_component_under_probability": 0.218,
+        "player_component_under_probability": 0.2389,
         "player_1": {
-          "sample_size": 43,
-          "overall_under_rate": 0.4186,
+          "sample_size": 106,
+          "overall_under_rate": 0.4717,
           "surface_under_rate": null,
           "surface_sample": 0,
           "recent_10_under_rate": 0.5,
           "recent_10_sample": 10,
-          "blended_under_rate": 0.436
+          "blended_under_rate": 0.4778
         },
         "player_2": {
           "sample_size": 1,
@@ -271,9 +270,9 @@
       "under_odds": 1.87,
       "under_bookmaker": "Betano",
       "over_odds": 2.03,
-      "model_under_probability": 0.545645,
-      "fair_odds_under": 1.833,
-      "edge": 0.0204,
+      "model_under_probability": 0.5433,
+      "fair_odds_under": 1.841,
+      "edge": 0.016,
       "confidence": "medium",
       "decision": "NO_BET",
       "reasons": [
@@ -289,24 +288,24 @@
       },
       "model_details": {
         "segment_under_probability": 0.5853,
-        "player_component_under_probability": 0.472,
+        "player_component_under_probability": 0.4653,
         "player_1": {
-          "sample_size": 39,
-          "overall_under_rate": 0.4615,
+          "sample_size": 78,
+          "overall_under_rate": 0.4359,
           "surface_under_rate": null,
           "surface_sample": 0,
           "recent_10_under_rate": 0.2,
           "recent_10_sample": 10,
-          "blended_under_rate": 0.4055
+          "blended_under_rate": 0.3853
         },
         "player_2": {
-          "sample_size": 59,
-          "overall_under_rate": 0.5763,
+          "sample_size": 106,
+          "overall_under_rate": 0.5849,
           "surface_under_rate": null,
           "surface_sample": 0,
           "recent_10_under_rate": 0.4,
           "recent_10_sample": 10,
-          "blended_under_rate": 0.5385
+          "blended_under_rate": 0.5453
         }
       }
     },
@@ -329,15 +328,14 @@
       "under_odds": 1.68,
       "under_bookmaker": "Unibet",
       "over_odds": 2.2,
-      "model_under_probability": 0.617343,
-      "fair_odds_under": 1.62,
-      "edge": 0.0371,
+      "model_under_probability": 0.593385,
+      "fair_odds_under": 1.685,
+      "edge": -0.0031,
       "confidence": "medium",
       "decision": "NO_BET",
       "reasons": [
         "favorite_probability_below_threshold",
         "under_odds_below_threshold",
-        "both_players_need_minimum_sample",
         "edge_below_threshold"
       ],
       "profile_matches": {
@@ -348,24 +346,24 @@
       },
       "model_details": {
         "segment_under_probability": 0.5853,
-        "player_component_under_probability": 0.6768,
+        "player_component_under_probability": 0.6084,
         "player_1": {
-          "sample_size": 4,
-          "overall_under_rate": 0.75,
+          "sample_size": 25,
+          "overall_under_rate": 0.6,
           "surface_under_rate": null,
           "surface_sample": 0,
-          "recent_10_under_rate": 0.75,
-          "recent_10_sample": 4,
-          "blended_under_rate": 0.75
+          "recent_10_under_rate": 0.7,
+          "recent_10_sample": 10,
+          "blended_under_rate": 0.6214
         },
         "player_2": {
-          "sample_size": 43,
-          "overall_under_rate": 0.6047,
+          "sample_size": 101,
+          "overall_under_rate": 0.5941,
           "surface_under_rate": null,
           "surface_sample": 0,
           "recent_10_under_rate": 0.6,
           "recent_10_sample": 10,
-          "blended_under_rate": 0.6037
+          "blended_under_rate": 0.5954
         }
       }
     },
@@ -388,9 +386,9 @@
       "under_odds": 1.91,
       "under_bookmaker": "Betfair",
       "over_odds": 1.97,
-      "model_under_probability": 0.53805,
-      "fair_odds_under": 1.859,
-      "edge": 0.0277,
+      "model_under_probability": 0.52797,
+      "fair_odds_under": 1.894,
+      "edge": 0.0084,
       "confidence": "medium",
       "decision": "NO_BET",
       "reasons": [
@@ -406,24 +404,24 @@
       },
       "model_details": {
         "segment_under_probability": 0.5853,
-        "player_component_under_probability": 0.4503,
+        "player_component_under_probability": 0.4215,
         "player_1": {
-          "sample_size": 17,
-          "overall_under_rate": 0.4118,
+          "sample_size": 30,
+          "overall_under_rate": 0.3333,
           "surface_under_rate": null,
           "surface_sample": 0,
           "recent_10_under_rate": 0.4,
           "recent_10_sample": 10,
-          "blended_under_rate": 0.4093
+          "blended_under_rate": 0.3476
         },
         "player_2": {
-          "sample_size": 45,
-          "overall_under_rate": 0.4889,
+          "sample_size": 85,
+          "overall_under_rate": 0.4941,
           "surface_under_rate": null,
           "surface_sample": 0,
           "recent_10_under_rate": 0.5,
           "recent_10_sample": 10,
-          "blended_under_rate": 0.4913
+          "blended_under_rate": 0.4954
         }
       }
     },
@@ -446,14 +444,15 @@
       "under_odds": 1.72,
       "under_bookmaker": "Betano",
       "over_odds": 2.32,
-      "model_under_probability": 0.566068,
-      "fair_odds_under": 1.767,
-      "edge": -0.0264,
+      "model_under_probability": 0.549373,
+      "fair_odds_under": 1.82,
+      "edge": -0.0551,
       "confidence": "medium",
       "decision": "NO_BET",
       "reasons": [
         "favorite_probability_below_threshold",
         "under_odds_below_threshold",
+        "model_probability_below_threshold",
         "edge_below_threshold"
       ],
       "profile_matches": {
@@ -464,24 +463,24 @@
       },
       "model_details": {
         "segment_under_probability": 0.5853,
-        "player_component_under_probability": 0.5303,
+        "player_component_under_probability": 0.4826,
         "player_1": {
-          "sample_size": 34,
-          "overall_under_rate": 0.4412,
+          "sample_size": 56,
+          "overall_under_rate": 0.3929,
           "surface_under_rate": null,
           "surface_sample": 0,
           "recent_10_under_rate": 0.4,
           "recent_10_sample": 10,
-          "blended_under_rate": 0.4324
+          "blended_under_rate": 0.3944
         },
         "player_2": {
-          "sample_size": 23,
-          "overall_under_rate": 0.6087,
+          "sample_size": 28,
+          "overall_under_rate": 0.5357,
           "surface_under_rate": null,
           "surface_sample": 0,
           "recent_10_under_rate": 0.7,
           "recent_10_sample": 10,
-          "blended_under_rate": 0.6283
+          "blended_under_rate": 0.5709
         }
       }
     },
@@ -504,15 +503,14 @@
       "under_odds": 1.78,
       "under_bookmaker": "Betano",
       "over_odds": 2.17,
-      "model_under_probability": 0.554815,
-      "fair_odds_under": 1.802,
-      "edge": -0.0124,
+      "model_under_probability": 0.568535,
+      "fair_odds_under": 1.759,
+      "edge": 0.012,
       "confidence": "medium",
       "decision": "NO_BET",
       "reasons": [
         "favorite_probability_below_threshold",
         "under_odds_below_threshold",
-        "model_probability_below_threshold",
         "edge_below_threshold"
       ],
       "profile_matches": {
@@ -523,24 +521,24 @@
       },
       "model_details": {
         "segment_under_probability": 0.5853,
-        "player_component_under_probability": 0.4982,
+        "player_component_under_probability": 0.5374,
         "player_1": {
-          "sample_size": 18,
-          "overall_under_rate": 0.4444,
+          "sample_size": 78,
+          "overall_under_rate": 0.5128,
           "surface_under_rate": null,
           "surface_sample": 0,
           "recent_10_under_rate": 0.4,
           "recent_10_sample": 10,
-          "blended_under_rate": 0.4349
+          "blended_under_rate": 0.4886
         },
         "player_2": {
-          "sample_size": 49,
-          "overall_under_rate": 0.551,
+          "sample_size": 91,
+          "overall_under_rate": 0.5824,
           "surface_under_rate": null,
           "surface_sample": 0,
           "recent_10_under_rate": 0.6,
           "recent_10_sample": 10,
-          "blended_under_rate": 0.5615
+          "blended_under_rate": 0.5862
         }
       }
     },
@@ -563,17 +561,15 @@
       "under_odds": 1.89,
       "under_bookmaker": "Unibet",
       "over_odds": 1.93,
-      "model_under_probability": 0.555445,
-      "fair_odds_under": 1.8,
-      "edge": 0.0498,
+      "model_under_probability": 0.565455,
+      "fair_odds_under": 1.768,
+      "edge": 0.0687,
       "confidence": "medium",
       "decision": "NO_BET",
       "reasons": [
         "favorite_probability_below_threshold",
         "both_players_need_minimum_sample",
-        "one_player_needs_larger_sample",
-        "model_probability_below_threshold",
-        "edge_below_threshold"
+        "one_player_needs_larger_sample"
       ],
       "profile_matches": {
         "player_1_status": "matched",
@@ -583,15 +579,15 @@
       },
       "model_details": {
         "segment_under_probability": 0.5853,
-        "player_component_under_probability": 0.5,
+        "player_component_under_probability": 0.5286,
         "player_1": {
-          "sample_size": 6,
-          "overall_under_rate": 0.5,
+          "sample_size": 11,
+          "overall_under_rate": 0.5455,
           "surface_under_rate": null,
           "surface_sample": 0,
-          "recent_10_under_rate": 0.5,
-          "recent_10_sample": 6,
-          "blended_under_rate": 0.5
+          "recent_10_under_rate": 0.6,
+          "recent_10_sample": 10,
+          "blended_under_rate": 0.5572
         },
         "player_2": {
           "sample_size": 2,
@@ -654,12 +650,12 @@
           "blended_under_rate": 0.5
         },
         "player_2": {
-          "sample_size": 4,
+          "sample_size": 6,
           "overall_under_rate": 0.5,
           "surface_under_rate": null,
           "surface_sample": 0,
           "recent_10_under_rate": 0.5,
-          "recent_10_sample": 4,
+          "recent_10_sample": 6,
           "blended_under_rate": 0.5
         }
       }
@@ -902,15 +898,16 @@
       "under_odds": 1.64,
       "under_bookmaker": "Unibet",
       "over_odds": 2.33,
-      "model_under_probability": 0.583318,
-      "fair_odds_under": 1.714,
-      "edge": -0.0434,
+      "model_under_probability": 0.5,
+      "fair_odds_under": 2.0,
+      "edge": -0.18,
       "confidence": "medium",
       "decision": "NO_BET",
       "reasons": [
         "under_odds_below_threshold",
         "both_players_need_minimum_sample",
         "one_player_needs_larger_sample",
+        "model_probability_below_threshold",
         "edge_below_threshold"
       ],
       "profile_matches": {
@@ -921,24 +918,24 @@
       },
       "model_details": {
         "segment_under_probability": 0.5833,
-        "player_component_under_probability": 0.5834,
+        "player_component_under_probability": 0.3362,
         "player_1": {
-          "sample_size": 1,
-          "overall_under_rate": 1.0,
+          "sample_size": 4,
+          "overall_under_rate": 0.25,
           "surface_under_rate": null,
           "surface_sample": 0,
-          "recent_10_under_rate": 1.0,
-          "recent_10_sample": 1,
-          "blended_under_rate": 1.0
+          "recent_10_under_rate": 0.25,
+          "recent_10_sample": 4,
+          "blended_under_rate": 0.25
         },
         "player_2": {
-          "sample_size": 6,
-          "overall_under_rate": 0.1667,
+          "sample_size": 14,
+          "overall_under_rate": 0.4286,
           "surface_under_rate": null,
           "surface_sample": 0,
-          "recent_10_under_rate": 0.1667,
-          "recent_10_sample": 6,
-          "blended_under_rate": 0.1667
+          "recent_10_under_rate": 0.4,
+          "recent_10_sample": 10,
+          "blended_under_rate": 0.4225
         }
       }
     },
@@ -961,9 +958,9 @@
       "under_odds": 1.98,
       "under_bookmaker": "Unibet",
       "over_odds": 1.83,
-      "model_under_probability": 0.511695,
-      "fair_odds_under": 1.954,
-      "edge": 0.0132,
+      "model_under_probability": 0.5,
+      "fair_odds_under": 2.0,
+      "edge": -0.01,
       "confidence": "medium",
       "decision": "NO_BET",
       "reasons": [
@@ -981,7 +978,7 @@
       },
       "model_details": {
         "segment_under_probability": 0.5853,
-        "player_component_under_probability": 0.375,
+        "player_component_under_probability": 0.2,
         "player_1": {
           "sample_size": 2,
           "overall_under_rate": 0.0,
@@ -992,13 +989,13 @@
           "blended_under_rate": 0.0
         },
         "player_2": {
-          "sample_size": 4,
-          "overall_under_rate": 0.75,
+          "sample_size": 15,
+          "overall_under_rate": 0.4,
           "surface_under_rate": null,
           "surface_sample": 0,
-          "recent_10_under_rate": 0.75,
-          "recent_10_sample": 4,
-          "blended_under_rate": 0.75
+          "recent_10_under_rate": 0.4,
+          "recent_10_sample": 10,
+          "blended_under_rate": 0.4
         }
       }
     },
@@ -1021,9 +1018,9 @@
       "under_odds": 2.18,
       "under_bookmaker": "Betano",
       "over_odds": 1.62,
-      "model_under_probability": 0.50683,
-      "fair_odds_under": 1.973,
-      "edge": 0.1049,
+      "model_under_probability": 0.513567,
+      "fair_odds_under": 1.947,
+      "edge": 0.1196,
       "confidence": "medium",
       "decision": "NO_BET",
       "reasons": [
@@ -1040,15 +1037,15 @@
       },
       "model_details": {
         "segment_under_probability": 0.5853,
-        "player_component_under_probability": 0.3611,
+        "player_component_under_probability": 0.3803,
         "player_1": {
-          "sample_size": 9,
-          "overall_under_rate": 0.2222,
+          "sample_size": 12,
+          "overall_under_rate": 0.25,
           "surface_under_rate": null,
           "surface_sample": 0,
-          "recent_10_under_rate": 0.2222,
-          "recent_10_sample": 9,
-          "blended_under_rate": 0.2222
+          "recent_10_under_rate": 0.3,
+          "recent_10_sample": 10,
+          "blended_under_rate": 0.2607
         },
         "player_2": {
           "sample_size": 2,
@@ -1158,15 +1155,15 @@
       },
       "model_details": {
         "segment_under_probability": 0.5853,
-        "player_component_under_probability": 0.2,
+        "player_component_under_probability": 0.2857,
         "player_1": {
-          "sample_size": 5,
-          "overall_under_rate": 0.4,
+          "sample_size": 7,
+          "overall_under_rate": 0.5714,
           "surface_under_rate": null,
           "surface_sample": 0,
-          "recent_10_under_rate": 0.4,
-          "recent_10_sample": 5,
-          "blended_under_rate": 0.4
+          "recent_10_under_rate": 0.5714,
+          "recent_10_sample": 7,
+          "blended_under_rate": 0.5714
         },
         "player_2": {
           "sample_size": 1,
@@ -1198,9 +1195,9 @@
       "under_odds": 3.0,
       "under_bookmaker": "bet365",
       "over_odds": 1.6,
-      "model_under_probability": 0.51698,
-      "fair_odds_under": 1.934,
-      "edge": 0.5509,
+      "model_under_probability": 0.502997,
+      "fair_odds_under": 1.988,
+      "edge": 0.509,
       "confidence": "medium",
       "decision": "NO_BET",
       "reasons": [
@@ -1217,24 +1214,24 @@
       },
       "model_details": {
         "segment_under_probability": 0.5853,
-        "player_component_under_probability": 0.3901,
+        "player_component_under_probability": 0.3502,
         "player_1": {
-          "sample_size": 13,
-          "overall_under_rate": 0.5385,
+          "sample_size": 23,
+          "overall_under_rate": 0.3913,
           "surface_under_rate": null,
           "surface_sample": 0,
           "recent_10_under_rate": 0.5,
           "recent_10_sample": 10,
-          "blended_under_rate": 0.5302
+          "blended_under_rate": 0.4146
         },
         "player_2": {
-          "sample_size": 4,
-          "overall_under_rate": 0.25,
+          "sample_size": 7,
+          "overall_under_rate": 0.2857,
           "surface_under_rate": null,
           "surface_sample": 0,
-          "recent_10_under_rate": 0.25,
-          "recent_10_sample": 4,
-          "blended_under_rate": 0.25
+          "recent_10_under_rate": 0.2857,
+          "recent_10_sample": 7,
+          "blended_under_rate": 0.2857
         }
       }
     },
@@ -1366,9 +1363,9 @@
       "under_odds": 1.74,
       "under_bookmaker": "1xBet",
       "over_odds": 2.2,
-      "model_under_probability": 0.590445,
-      "fair_odds_under": 1.694,
-      "edge": 0.0274,
+      "model_under_probability": 0.581695,
+      "fair_odds_under": 1.719,
+      "edge": 0.0121,
       "confidence": "medium",
       "decision": "NO_BET",
       "reasons": [
@@ -1386,7 +1383,7 @@
       },
       "model_details": {
         "segment_under_probability": 0.5853,
-        "player_component_under_probability": 0.6,
+        "player_component_under_probability": 0.575,
         "player_1": {
           "sample_size": 2,
           "overall_under_rate": 0.5,
@@ -1397,13 +1394,13 @@
           "blended_under_rate": 0.5
         },
         "player_2": {
-          "sample_size": 10,
-          "overall_under_rate": 0.7,
+          "sample_size": 11,
+          "overall_under_rate": 0.6364,
           "surface_under_rate": null,
           "surface_sample": 0,
           "recent_10_under_rate": 0.7,
           "recent_10_sample": 10,
-          "blended_under_rate": 0.7
+          "blended_under_rate": 0.65
         }
       }
     },
@@ -1426,18 +1423,16 @@
       "under_odds": 1.75,
       "under_bookmaker": "Betano",
       "over_odds": 2.05,
-      "model_under_probability": 0.555445,
-      "fair_odds_under": 1.8,
-      "edge": -0.028,
+      "model_under_probability": 0.607945,
+      "fair_odds_under": 1.645,
+      "edge": 0.0639,
       "confidence": "medium",
       "decision": "NO_BET",
       "reasons": [
         "favorite_probability_below_threshold",
         "under_odds_below_threshold",
         "both_players_need_minimum_sample",
-        "one_player_needs_larger_sample",
-        "model_probability_below_threshold",
-        "edge_below_threshold"
+        "one_player_needs_larger_sample"
       ],
       "profile_matches": {
         "player_1_status": "matched",
@@ -1447,7 +1442,7 @@
       },
       "model_details": {
         "segment_under_probability": 0.5853,
-        "player_component_under_probability": 0.5,
+        "player_component_under_probability": 0.65,
         "player_1": {
           "sample_size": 4,
           "overall_under_rate": 0.5,
@@ -1458,13 +1453,13 @@
           "blended_under_rate": 0.5
         },
         "player_2": {
-          "sample_size": 2,
-          "overall_under_rate": 0.5,
+          "sample_size": 5,
+          "overall_under_rate": 0.8,
           "surface_under_rate": null,
           "surface_sample": 0,
-          "recent_10_under_rate": 0.5,
-          "recent_10_sample": 2,
-          "blended_under_rate": 0.5
+          "recent_10_under_rate": 0.8,
+          "recent_10_sample": 5,
+          "blended_under_rate": 0.8
         }
       }
     },
@@ -1487,9 +1482,9 @@
       "under_odds": 1.7,
       "under_bookmaker": "Betano",
       "over_odds": 2.24,
-      "model_under_probability": 0.5,
-      "fair_odds_under": 2.0,
-      "edge": -0.15,
+      "model_under_probability": 0.50291,
+      "fair_odds_under": 1.988,
+      "edge": -0.1451,
       "confidence": "medium",
       "decision": "NO_BET",
       "reasons": [
@@ -1508,24 +1503,24 @@
       },
       "model_details": {
         "segment_under_probability": 0.5853,
-        "player_component_under_probability": 0.25,
+        "player_component_under_probability": 0.3499,
         "player_1": {
-          "sample_size": 1,
-          "overall_under_rate": 0.0,
+          "sample_size": 13,
+          "overall_under_rate": 0.3846,
           "surface_under_rate": null,
           "surface_sample": 0,
-          "recent_10_under_rate": 0.0,
-          "recent_10_sample": 1,
-          "blended_under_rate": 0.0
+          "recent_10_under_rate": 0.3,
+          "recent_10_sample": 10,
+          "blended_under_rate": 0.3665
         },
         "player_2": {
-          "sample_size": 2,
-          "overall_under_rate": 0.5,
+          "sample_size": 3,
+          "overall_under_rate": 0.3333,
           "surface_under_rate": null,
           "surface_sample": 0,
-          "recent_10_under_rate": 0.5,
-          "recent_10_sample": 2,
-          "blended_under_rate": 0.5
+          "recent_10_under_rate": 0.3333,
+          "recent_10_sample": 3,
+          "blended_under_rate": 0.3333
         }
       }
     },
@@ -1548,9 +1543,9 @@
       "under_odds": 1.78,
       "under_bookmaker": "1xBet",
       "over_odds": 2.1,
-      "model_under_probability": 0.53532,
-      "fair_odds_under": 1.868,
-      "edge": -0.0471,
+      "model_under_probability": 0.53301,
+      "fair_odds_under": 1.876,
+      "edge": -0.0512,
       "confidence": "medium",
       "decision": "NO_BET",
       "reasons": [
@@ -1569,7 +1564,7 @@
       },
       "model_details": {
         "segment_under_probability": 0.5853,
-        "player_component_under_probability": 0.4425,
+        "player_component_under_probability": 0.4359,
         "player_1": {
           "sample_size": 6,
           "overall_under_rate": 0.3333,
@@ -1580,13 +1575,13 @@
           "blended_under_rate": 0.3333
         },
         "player_2": {
-          "sample_size": 13,
-          "overall_under_rate": 0.5385,
+          "sample_size": 23,
+          "overall_under_rate": 0.5217,
           "surface_under_rate": null,
           "surface_sample": 0,
           "recent_10_under_rate": 0.6,
           "recent_10_sample": 10,
-          "blended_under_rate": 0.5517
+          "blended_under_rate": 0.5385
         }
       }
     },
@@ -1721,23 +1716,45 @@
       "under_odds": 1.75,
       "under_bookmaker": "BetVictor",
       "over_odds": 2.17,
-      "model_under_probability": null,
-      "fair_odds_under": null,
-      "edge": null,
+      "model_under_probability": 0.7,
+      "fair_odds_under": 1.429,
+      "edge": 0.225,
       "confidence": "medium",
       "decision": "NO_BET",
       "reasons": [
         "favorite_probability_below_threshold",
         "under_odds_below_threshold",
-        "player_2_profile_missing"
+        "both_players_need_minimum_sample",
+        "one_player_needs_larger_sample"
       ],
       "profile_matches": {
         "player_1_status": "matched",
         "player_1_profile_name": "Tan H.",
-        "player_2_status": "not_found",
-        "player_2_profile_name": null
+        "player_2_status": "matched",
+        "player_2_profile_name": "Appleton E."
       },
-      "model_details": null
+      "model_details": {
+        "segment_under_probability": 0.5853,
+        "player_component_under_probability": 1.0,
+        "player_1": {
+          "sample_size": 1,
+          "overall_under_rate": 1.0,
+          "surface_under_rate": null,
+          "surface_sample": 0,
+          "recent_10_under_rate": 1.0,
+          "recent_10_sample": 1,
+          "blended_under_rate": 1.0
+        },
+        "player_2": {
+          "sample_size": 1,
+          "overall_under_rate": 1.0,
+          "surface_under_rate": null,
+          "surface_sample": 0,
+          "recent_10_under_rate": 1.0,
+          "recent_10_sample": 1,
+          "blended_under_rate": 1.0
+        }
+      }
     },
     {
       "event_key": 12134520,
@@ -1758,17 +1775,16 @@
       "under_odds": 1.68,
       "under_bookmaker": "1xBet",
       "over_odds": 2.26,
-      "model_under_probability": 0.62107,
-      "fair_odds_under": 1.61,
-      "edge": 0.0434,
+      "model_under_probability": 0.633898,
+      "fair_odds_under": 1.578,
+      "edge": 0.0649,
       "confidence": "medium",
       "decision": "NO_BET",
       "reasons": [
         "favorite_probability_below_threshold",
         "under_odds_below_threshold",
         "both_players_need_minimum_sample",
-        "one_player_needs_larger_sample",
-        "edge_below_threshold"
+        "one_player_needs_larger_sample"
       ],
       "profile_matches": {
         "player_1_status": "matched",
@@ -1778,15 +1794,15 @@
       },
       "model_details": {
         "segment_under_probability": 0.5853,
-        "player_component_under_probability": 0.6875,
+        "player_component_under_probability": 0.7241,
         "player_1": {
-          "sample_size": 8,
-          "overall_under_rate": 0.375,
+          "sample_size": 13,
+          "overall_under_rate": 0.4615,
           "surface_under_rate": null,
           "surface_sample": 0,
-          "recent_10_under_rate": 0.375,
-          "recent_10_sample": 8,
-          "blended_under_rate": 0.375
+          "recent_10_under_rate": 0.4,
+          "recent_10_sample": 10,
+          "blended_under_rate": 0.4483
         },
         "player_2": {
           "sample_size": 1,
@@ -1839,15 +1855,15 @@
       },
       "model_details": {
         "segment_under_probability": 0.5853,
-        "player_component_under_probability": 0.25,
+        "player_component_under_probability": 0.2995,
         "player_1": {
-          "sample_size": 2,
-          "overall_under_rate": 0.5,
+          "sample_size": 14,
+          "overall_under_rate": 0.5714,
           "surface_under_rate": null,
           "surface_sample": 0,
-          "recent_10_under_rate": 0.5,
-          "recent_10_sample": 2,
-          "blended_under_rate": 0.5
+          "recent_10_under_rate": 0.7,
+          "recent_10_sample": 10,
+          "blended_under_rate": 0.599
         },
         "player_2": {
           "sample_size": 1,
@@ -1916,22 +1932,44 @@
       "under_odds": 1.99,
       "under_bookmaker": "1xBet",
       "over_odds": 1.71,
-      "model_under_probability": null,
-      "fair_odds_under": null,
-      "edge": null,
+      "model_under_probability": 0.564195,
+      "fair_odds_under": 1.772,
+      "edge": 0.1227,
       "confidence": "medium",
       "decision": "NO_BET",
       "reasons": [
         "favorite_probability_below_threshold",
-        "player_2_profile_missing"
+        "both_players_need_minimum_sample",
+        "one_player_needs_larger_sample"
       ],
       "profile_matches": {
         "player_1_status": "matched",
         "player_1_profile_name": "Lajal M.",
-        "player_2_status": "not_found",
-        "player_2_profile_name": null
+        "player_2_status": "matched",
+        "player_2_profile_name": "Jubb P."
       },
-      "model_details": null
+      "model_details": {
+        "segment_under_probability": 0.5853,
+        "player_component_under_probability": 0.525,
+        "player_1": {
+          "sample_size": 4,
+          "overall_under_rate": 0.25,
+          "surface_under_rate": null,
+          "surface_sample": 0,
+          "recent_10_under_rate": 0.25,
+          "recent_10_sample": 4,
+          "blended_under_rate": 0.25
+        },
+        "player_2": {
+          "sample_size": 5,
+          "overall_under_rate": 0.8,
+          "surface_under_rate": null,
+          "surface_sample": 0,
+          "recent_10_under_rate": 0.8,
+          "recent_10_sample": 5,
+          "blended_under_rate": 0.8
+        }
+      }
     },
     {
       "event_key": 12134536,
@@ -2028,22 +2066,43 @@
       "under_odds": 2.22,
       "under_bookmaker": "Betano",
       "over_odds": 1.72,
-      "model_under_probability": null,
-      "fair_odds_under": null,
-      "edge": null,
+      "model_under_probability": 0.642315,
+      "fair_odds_under": 1.557,
+      "edge": 0.4259,
       "confidence": "medium",
       "decision": "NO_BET",
       "reasons": [
         "favorite_probability_below_threshold",
-        "player_1_profile_missing"
+        "both_players_need_minimum_sample"
       ],
       "profile_matches": {
-        "player_1_status": "not_found",
-        "player_1_profile_name": null,
+        "player_1_status": "matched",
+        "player_1_profile_name": "Onclin G.",
         "player_2_status": "matched",
         "player_2_profile_name": "Marozsan F."
       },
-      "model_details": null
+      "model_details": {
+        "segment_under_probability": 0.5853,
+        "player_component_under_probability": 0.7482,
+        "player_1": {
+          "sample_size": 1,
+          "overall_under_rate": 1.0,
+          "surface_under_rate": null,
+          "surface_sample": 0,
+          "recent_10_under_rate": 1.0,
+          "recent_10_sample": 1,
+          "blended_under_rate": 1.0
+        },
+        "player_2": {
+          "sample_size": 94,
+          "overall_under_rate": 0.4681,
+          "surface_under_rate": null,
+          "surface_sample": 0,
+          "recent_10_under_rate": 0.6,
+          "recent_10_sample": 10,
+          "blended_under_rate": 0.4964
+        }
+      }
     },
     {
       "event_key": 12134539,
@@ -2064,9 +2123,9 @@
       "under_odds": 3.2,
       "under_bookmaker": "Betfair",
       "over_odds": 1.5,
-      "model_under_probability": 0.5,
-      "fair_odds_under": 2.0,
-      "edge": 0.6,
+      "model_under_probability": 0.5139,
+      "fair_odds_under": 1.946,
+      "edge": 0.6445,
       "confidence": "medium",
       "decision": "NO_BET",
       "reasons": [
@@ -2083,24 +2142,24 @@
       },
       "model_details": {
         "segment_under_probability": 0.5853,
-        "player_component_under_probability": 0.3342,
+        "player_component_under_probability": 0.3813,
         "player_1": {
-          "sample_size": 6,
-          "overall_under_rate": 0.1667,
+          "sample_size": 12,
+          "overall_under_rate": 0.3333,
           "surface_under_rate": null,
           "surface_sample": 0,
-          "recent_10_under_rate": 0.1667,
-          "recent_10_sample": 6,
-          "blended_under_rate": 0.1667
+          "recent_10_under_rate": 0.2,
+          "recent_10_sample": 10,
+          "blended_under_rate": 0.3047
         },
         "player_2": {
-          "sample_size": 17,
-          "overall_under_rate": 0.5294,
+          "sample_size": 19,
+          "overall_under_rate": 0.4737,
           "surface_under_rate": null,
           "surface_sample": 0,
           "recent_10_under_rate": 0.4,
           "recent_10_sample": 10,
-          "blended_under_rate": 0.5017
+          "blended_under_rate": 0.4579
         }
       }
     },
@@ -2159,22 +2218,44 @@
       "under_odds": 1.94,
       "under_bookmaker": "1xBet",
       "over_odds": 1.75,
-      "model_under_probability": null,
-      "fair_odds_under": null,
-      "edge": null,
+      "model_under_probability": 0.663053,
+      "fair_odds_under": 1.508,
+      "edge": 0.2863,
       "confidence": "medium",
       "decision": "NO_BET",
       "reasons": [
         "favorite_probability_below_threshold",
-        "player_2_profile_missing"
+        "both_players_need_minimum_sample",
+        "one_player_needs_larger_sample"
       ],
       "profile_matches": {
         "player_1_status": "matched",
         "player_1_profile_name": "Evans D.",
-        "player_2_status": "not_found",
-        "player_2_profile_name": null
+        "player_2_status": "matched",
+        "player_2_profile_name": "Broom C."
       },
-      "model_details": null
+      "model_details": {
+        "segment_under_probability": 0.5853,
+        "player_component_under_probability": 0.8075,
+        "player_1": {
+          "sample_size": 21,
+          "overall_under_rate": 0.619,
+          "surface_under_rate": null,
+          "surface_sample": 0,
+          "recent_10_under_rate": 0.6,
+          "recent_10_sample": 10,
+          "blended_under_rate": 0.6149
+        },
+        "player_2": {
+          "sample_size": 2,
+          "overall_under_rate": 1.0,
+          "surface_under_rate": null,
+          "surface_sample": 0,
+          "recent_10_under_rate": 1.0,
+          "recent_10_sample": 2,
+          "blended_under_rate": 1.0
+        }
+      }
     },
     {
       "event_key": 12134547,
@@ -2203,14 +2284,13 @@
       "reasons": [
         "favorite_probability_below_threshold",
         "under_odds_below_threshold",
-        "player_1_profile_missing",
-        "player_2_profile_missing"
+        "player_1_profile_missing"
       ],
       "profile_matches": {
         "player_1_status": "not_found",
         "player_1_profile_name": null,
-        "player_2_status": "not_found",
-        "player_2_profile_name": null
+        "player_2_status": "matched",
+        "player_2_profile_name": "Shelbayh A."
       },
       "model_details": null
     },
@@ -2233,16 +2313,17 @@
       "under_odds": 1.7,
       "under_bookmaker": "BetVictor",
       "over_odds": 2.1,
-      "model_under_probability": 0.642945,
-      "fair_odds_under": 1.555,
-      "edge": 0.093,
+      "model_under_probability": 0.607945,
+      "fair_odds_under": 1.645,
+      "edge": 0.0335,
       "confidence": "medium",
       "decision": "NO_BET",
       "reasons": [
         "favorite_probability_below_threshold",
         "under_odds_below_threshold",
         "both_players_need_minimum_sample",
-        "one_player_needs_larger_sample"
+        "one_player_needs_larger_sample",
+        "edge_below_threshold"
       ],
       "profile_matches": {
         "player_1_status": "matched",
@@ -2252,24 +2333,24 @@
       },
       "model_details": {
         "segment_under_probability": 0.5853,
-        "player_component_under_probability": 0.75,
+        "player_component_under_probability": 0.65,
         "player_1": {
-          "sample_size": 4,
+          "sample_size": 6,
           "overall_under_rate": 0.5,
           "surface_under_rate": null,
           "surface_sample": 0,
           "recent_10_under_rate": 0.5,
-          "recent_10_sample": 4,
+          "recent_10_sample": 6,
           "blended_under_rate": 0.5
         },
         "player_2": {
-          "sample_size": 3,
-          "overall_under_rate": 1.0,
+          "sample_size": 5,
+          "overall_under_rate": 0.8,
           "surface_under_rate": null,
           "surface_sample": 0,
-          "recent_10_under_rate": 1.0,
-          "recent_10_sample": 3,
-          "blended_under_rate": 1.0
+          "recent_10_under_rate": 0.8,
+          "recent_10_sample": 5,
+          "blended_under_rate": 0.8
         }
       }
     },
@@ -2292,22 +2373,46 @@
       "under_odds": 1.57,
       "under_bookmaker": "BetVictor",
       "over_odds": 2.51,
-      "model_under_probability": null,
-      "fair_odds_under": null,
-      "edge": null,
+      "model_under_probability": 0.5,
+      "fair_odds_under": 2.0,
+      "edge": -0.215,
       "confidence": "medium",
       "decision": "NO_BET",
       "reasons": [
         "under_odds_below_threshold",
-        "player_1_profile_missing"
+        "both_players_need_minimum_sample",
+        "one_player_needs_larger_sample",
+        "model_probability_below_threshold",
+        "edge_below_threshold"
       ],
       "profile_matches": {
-        "player_1_status": "not_found",
-        "player_1_profile_name": null,
+        "player_1_status": "matched",
+        "player_1_profile_name": "Naef C.",
         "player_2_status": "matched",
         "player_2_profile_name": "Kobori M."
       },
-      "model_details": null
+      "model_details": {
+        "segment_under_probability": 0.5833,
+        "player_component_under_probability": 0.0,
+        "player_1": {
+          "sample_size": 2,
+          "overall_under_rate": 0.0,
+          "surface_under_rate": null,
+          "surface_sample": 0,
+          "recent_10_under_rate": 0.0,
+          "recent_10_sample": 2,
+          "blended_under_rate": 0.0
+        },
+        "player_2": {
+          "sample_size": 1,
+          "overall_under_rate": 0.0,
+          "surface_under_rate": null,
+          "surface_sample": 0,
+          "recent_10_under_rate": 0.0,
+          "recent_10_sample": 1,
+          "blended_under_rate": 0.0
+        }
+      }
     },
     {
       "event_key": 12134554,
@@ -2336,12 +2441,11 @@
       "reasons": [
         "favorite_probability_below_threshold",
         "under_odds_below_threshold",
-        "player_1_profile_missing",
         "player_2_profile_missing"
       ],
       "profile_matches": {
-        "player_1_status": "not_found",
-        "player_1_profile_name": null,
+        "player_1_status": "matched",
+        "player_1_profile_name": "Broady L.",
         "player_2_status": "not_found",
         "player_2_profile_name": null
       },
@@ -2427,9 +2531,9 @@
       "under_odds": 2.25,
       "under_bookmaker": "Betfair",
       "over_odds": 1.83,
-      "model_under_probability": 0.623695,
-      "fair_odds_under": 1.603,
-      "edge": 0.4033,
+      "model_under_probability": 0.610885,
+      "fair_odds_under": 1.637,
+      "edge": 0.3745,
       "confidence": "medium",
       "decision": "NO_BET",
       "reasons": [
@@ -2443,24 +2547,24 @@
       },
       "model_details": {
         "segment_under_probability": 0.5853,
-        "player_component_under_probability": 0.695,
+        "player_component_under_probability": 0.6584,
         "player_1": {
-          "sample_size": 50,
-          "overall_under_rate": 0.46,
+          "sample_size": 96,
+          "overall_under_rate": 0.4896,
           "surface_under_rate": null,
           "surface_sample": 0,
           "recent_10_under_rate": 0.8,
           "recent_10_sample": 10,
-          "blended_under_rate": 0.5329
+          "blended_under_rate": 0.5561
         },
         "player_2": {
-          "sample_size": 7,
-          "overall_under_rate": 0.8571,
+          "sample_size": 12,
+          "overall_under_rate": 0.75,
           "surface_under_rate": null,
           "surface_sample": 0,
-          "recent_10_under_rate": 0.8571,
-          "recent_10_sample": 7,
-          "blended_under_rate": 0.8571
+          "recent_10_under_rate": 0.8,
+          "recent_10_sample": 10,
+          "blended_under_rate": 0.7607
         }
       }
     },
@@ -2521,9 +2625,9 @@
       "under_odds": 1.62,
       "under_bookmaker": "BetVictor",
       "over_odds": 2.2,
-      "model_under_probability": 0.50564,
-      "fair_odds_under": 1.978,
-      "edge": -0.1809,
+      "model_under_probability": 0.542512,
+      "fair_odds_under": 1.843,
+      "edge": -0.1211,
       "confidence": "medium",
       "decision": "NO_BET",
       "reasons": [
@@ -2542,24 +2646,24 @@
       },
       "model_details": {
         "segment_under_probability": 0.5853,
-        "player_component_under_probability": 0.3577,
+        "player_component_under_probability": 0.463,
         "player_1": {
-          "sample_size": 2,
-          "overall_under_rate": 0.0,
+          "sample_size": 5,
+          "overall_under_rate": 0.2,
           "surface_under_rate": null,
           "surface_sample": 0,
-          "recent_10_under_rate": 0.0,
-          "recent_10_sample": 2,
-          "blended_under_rate": 0.0
+          "recent_10_under_rate": 0.2,
+          "recent_10_sample": 5,
+          "blended_under_rate": 0.2
         },
         "player_2": {
-          "sample_size": 13,
-          "overall_under_rate": 0.6923,
+          "sample_size": 17,
+          "overall_under_rate": 0.7059,
           "surface_under_rate": null,
           "surface_sample": 0,
           "recent_10_under_rate": 0.8,
           "recent_10_sample": 10,
-          "blended_under_rate": 0.7154
+          "blended_under_rate": 0.7261
         }
       }
     },
