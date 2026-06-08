@@ -1,0 +1,12 @@
+{
+  "generated_at": "2026-06-08T13:17:14.105006+02:00",
+  "source_odds_url": "https://raw.githubusercontent.com/jakobm121/Ai/refs/heads/main/data/tennis_odds_today.json",
+  "summary": {
+    "odds_matches": 59,
+    "evaluated_matches": 0,
+    "shadow_bets": 0,
+    "no_bets": 0,
+    "missing_first_set_9_5": 59
+  },
+  "top_shadow_picks": []
+}
