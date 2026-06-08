@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T23:55:32.323642+02:00",
+  "generated_at": "2026-06-08T23:58:24.529215+02:00",
   "model": "match_winner_elo_walk_forward_v2",
   "source_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/processed/canonical_matches.json",
   "settings": {
