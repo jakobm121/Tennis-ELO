@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-06-09T01:16:26.520120+02:00",
+  "generated_at": "2026-06-09T01:20:47.923109+02:00",
   "source_odds_url": "https://raw.githubusercontent.com/jakobm121/Ai/refs/heads/main/data/tennis_odds_today.json",
   "odds_generated_at": "2026-06-09T00:54:08.607051+02:00",
   "ratings_generated_at": "2026-06-08T18:26:25.969816+02:00",
@@ -875,7 +875,7 @@
       "last_seen_event_key": 12134304,
       "last_seen_tournament": "Stuttgart",
       "last_seen_tournament_key": 2068,
-      "updated_at": "2026-06-09T01:15:55.200836+02:00"
+      "updated_at": "2026-06-09T01:20:22.045297+02:00"
     },
     "1766": {
       "api_player_key": 1766,
@@ -3763,7 +3763,7 @@
       "last_seen_event_key": 12134602,
       "last_seen_tournament": "M15 Maanshan 5",
       "last_seen_tournament_key": 12706,
-      "updated_at": "2026-06-09T01:15:55.860688+02:00"
+      "updated_at": "2026-06-09T01:20:22.581268+02:00"
     },
     "74279": {
       "api_player_key": 74279,
@@ -4011,7 +4011,7 @@
       "last_seen_event_key": 12134608,
       "last_seen_tournament": "M15 Tokyo",
       "last_seen_tournament_key": 11237,
-      "updated_at": "2026-06-09T01:15:56.602921+02:00"
+      "updated_at": "2026-06-09T01:20:23.202183+02:00"
     },
     "82198": {
       "api_player_key": 82198,
@@ -4067,7 +4067,7 @@
       "last_seen_event_key": 12134608,
       "last_seen_tournament": "M15 Tokyo",
       "last_seen_tournament_key": 11237,
-      "updated_at": "2026-06-09T01:15:57.302255+02:00"
+      "updated_at": "2026-06-09T01:20:23.785215+02:00"
     },
     "39537": {
       "api_player_key": 39537,
@@ -4195,7 +4195,7 @@
       "last_seen_event_key": 12134610,
       "last_seen_tournament": "M15 Tokyo",
       "last_seen_tournament_key": 11237,
-      "updated_at": "2026-06-09T01:15:58.065368+02:00"
+      "updated_at": "2026-06-09T01:20:24.417049+02:00"
     },
     "5683": {
       "api_player_key": 5683,
@@ -4371,7 +4371,7 @@
       "last_seen_event_key": 12134617,
       "last_seen_tournament": "W15 Tokyo",
       "last_seen_tournament_key": 11068,
-      "updated_at": "2026-06-09T01:15:58.691904+02:00"
+      "updated_at": "2026-06-09T01:20:24.939068+02:00"
     },
     "58067": {
       "api_player_key": 58067,
@@ -4427,7 +4427,7 @@
       "last_seen_event_key": 12134618,
       "last_seen_tournament": "W15 Tokyo",
       "last_seen_tournament_key": 11068,
-      "updated_at": "2026-06-09T01:15:59.372758+02:00"
+      "updated_at": "2026-06-09T01:20:25.509142+02:00"
     },
     "76009": {
       "api_player_key": 76009,
@@ -4483,7 +4483,7 @@
       "last_seen_event_key": 12134618,
       "last_seen_tournament": "W15 Tokyo",
       "last_seen_tournament_key": 11068,
-      "updated_at": "2026-06-09T01:16:00.085121+02:00"
+      "updated_at": "2026-06-09T01:20:26.105116+02:00"
     },
     "89210": {
       "api_player_key": 89210,
@@ -4539,7 +4539,7 @@
       "last_seen_event_key": 12134619,
       "last_seen_tournament": "W15 Tokyo",
       "last_seen_tournament_key": 11068,
-      "updated_at": "2026-06-09T01:16:00.850482+02:00"
+      "updated_at": "2026-06-09T01:20:26.739230+02:00"
     },
     "50670": {
       "api_player_key": 50670,
@@ -4595,7 +4595,7 @@
       "last_seen_event_key": 12134619,
       "last_seen_tournament": "W15 Tokyo",
       "last_seen_tournament_key": 11068,
-      "updated_at": "2026-06-09T01:16:01.606672+02:00"
+      "updated_at": "2026-06-09T01:20:27.364664+02:00"
     },
     "39077": {
       "api_player_key": 39077,
@@ -4675,7 +4675,7 @@
       "last_seen_event_key": 12134621,
       "last_seen_tournament": "W15 Tokyo",
       "last_seen_tournament_key": 11068,
-      "updated_at": "2026-06-09T01:16:02.304490+02:00"
+      "updated_at": "2026-06-09T01:20:27.940202+02:00"
     },
     "82978": {
       "api_player_key": 82978,
@@ -4731,7 +4731,7 @@
       "last_seen_event_key": 12134622,
       "last_seen_tournament": "W15 Tokyo",
       "last_seen_tournament_key": 11068,
-      "updated_at": "2026-06-09T01:16:03.024491+02:00"
+      "updated_at": "2026-06-09T01:20:28.531274+02:00"
     },
     "61695": {
       "api_player_key": 61695,
@@ -4835,7 +4835,7 @@
       "last_seen_event_key": 12134623,
       "last_seen_tournament": "W15 Tokyo",
       "last_seen_tournament_key": 11068,
-      "updated_at": "2026-06-09T01:16:03.763047+02:00"
+      "updated_at": "2026-06-09T01:20:29.133414+02:00"
     },
     "49582": {
       "api_player_key": 49582,
@@ -5755,7 +5755,7 @@
       "last_seen_event_key": 12134680,
       "last_seen_tournament": "W15 Merzig",
       "last_seen_tournament_key": 12539,
-      "updated_at": "2026-06-09T01:16:04.568587+02:00"
+      "updated_at": "2026-06-09T01:20:29.794020+02:00"
     },
     "85378": {
       "api_player_key": 85378,
@@ -5811,7 +5811,7 @@
       "last_seen_event_key": 12134680,
       "last_seen_tournament": "W15 Merzig",
       "last_seen_tournament_key": 12539,
-      "updated_at": "2026-06-09T01:16:05.305711+02:00"
+      "updated_at": "2026-06-09T01:20:30.405426+02:00"
     },
     "1815": {
       "api_player_key": 1815,
@@ -6347,7 +6347,7 @@
       "last_seen_event_key": 12134701,
       "last_seen_tournament": "W75 Ceska Lipa",
       "last_seen_tournament_key": 12580,
-      "updated_at": "2026-06-09T01:16:06.013786+02:00"
+      "updated_at": "2026-06-09T01:20:30.992271+02:00"
     },
     "9247": {
       "api_player_key": 9247,
@@ -6763,7 +6763,7 @@
       "last_seen_event_key": 12134741,
       "last_seen_tournament": "M25 Ceska Lipa",
       "last_seen_tournament_key": 12621,
-      "updated_at": "2026-06-09T01:16:06.797018+02:00"
+      "updated_at": "2026-06-09T01:20:31.638943+02:00"
     },
     "30785": {
       "api_player_key": 30785,
@@ -6939,7 +6939,7 @@
       "last_seen_event_key": 12134761,
       "last_seen_tournament": "M15 Kayseri 4",
       "last_seen_tournament_key": 12645,
-      "updated_at": "2026-06-09T01:16:07.587575+02:00"
+      "updated_at": "2026-06-09T01:20:32.289384+02:00"
     },
     "103493": {
       "api_player_key": 103493,
@@ -6995,7 +6995,7 @@
       "last_seen_event_key": 12134761,
       "last_seen_tournament": "M15 Kayseri 4",
       "last_seen_tournament_key": 12645,
-      "updated_at": "2026-06-09T01:16:08.325080+02:00"
+      "updated_at": "2026-06-09T01:20:32.896138+02:00"
     },
     "906": {
       "api_player_key": 906,
@@ -7627,7 +7627,7 @@
       "last_seen_event_key": 12134779,
       "last_seen_tournament": "M15 Curtea de Arges",
       "last_seen_tournament_key": 3596,
-      "updated_at": "2026-06-09T01:16:09.082124+02:00"
+      "updated_at": "2026-06-09T01:20:33.521167+02:00"
     },
     "78188": {
       "api_player_key": 78188,
@@ -7683,7 +7683,7 @@
       "last_seen_event_key": 12134779,
       "last_seen_tournament": "M15 Curtea de Arges",
       "last_seen_tournament_key": 3596,
-      "updated_at": "2026-06-09T01:16:10.033557+02:00"
+      "updated_at": "2026-06-09T01:20:34.328972+02:00"
     },
     "81473": {
       "api_player_key": 81473,
@@ -7763,7 +7763,7 @@
       "last_seen_event_key": 12134781,
       "last_seen_tournament": "M15 Monastir 22",
       "last_seen_tournament_key": 4878,
-      "updated_at": "2026-06-09T01:16:10.869742+02:00"
+      "updated_at": "2026-06-09T01:20:35.009381+02:00"
     },
     "1854": {
       "api_player_key": 1854,
@@ -7915,7 +7915,7 @@
       "last_seen_event_key": 12134789,
       "last_seen_tournament": "M25 Martos",
       "last_seen_tournament_key": 7261,
-      "updated_at": "2026-06-09T01:16:11.810227+02:00"
+      "updated_at": "2026-06-09T01:20:35.798542+02:00"
     },
     "12954": {
       "api_player_key": 12954,
@@ -8019,7 +8019,7 @@
       "last_seen_event_key": 12134790,
       "last_seen_tournament": "M25 Martos",
       "last_seen_tournament_key": 7261,
-      "updated_at": "2026-06-09T01:16:12.759487+02:00"
+      "updated_at": "2026-06-09T01:20:36.595229+02:00"
     },
     "663": {
       "api_player_key": 663,
@@ -8147,7 +8147,7 @@
       "last_seen_event_key": 12134792,
       "last_seen_tournament": "M25 Varnamo",
       "last_seen_tournament_key": 9548,
-      "updated_at": "2026-06-09T01:16:13.501323+02:00"
+      "updated_at": "2026-06-09T01:20:37.205675+02:00"
     },
     "59291": {
       "api_player_key": 59291,
@@ -8227,7 +8227,7 @@
       "last_seen_event_key": 12134793,
       "last_seen_tournament": "M25 Varnamo",
       "last_seen_tournament_key": 9548,
-      "updated_at": "2026-06-09T01:16:14.314265+02:00"
+      "updated_at": "2026-06-09T01:20:37.883250+02:00"
     },
     "2592": {
       "api_player_key": 2592,
@@ -8547,7 +8547,7 @@
       "last_seen_event_key": 12134802,
       "last_seen_tournament": "W15 Kursumlijska Banja 4",
       "last_seen_tournament_key": 9556,
-      "updated_at": "2026-06-09T01:16:14.992115+02:00"
+      "updated_at": "2026-06-09T01:20:38.441597+02:00"
     },
     "38670": {
       "api_player_key": 38670,
@@ -8603,7 +8603,7 @@
       "last_seen_event_key": 12134804,
       "last_seen_tournament": "W15 Kursumlijska Banja 4",
       "last_seen_tournament_key": 9556,
-      "updated_at": "2026-06-09T01:16:15.721826+02:00"
+      "updated_at": "2026-06-09T01:20:39.043578+02:00"
     },
     "82804": {
       "api_player_key": 82804,
@@ -8659,7 +8659,7 @@
       "last_seen_event_key": 12134804,
       "last_seen_tournament": "W15 Kursumlijska Banja 4",
       "last_seen_tournament_key": 9556,
-      "updated_at": "2026-06-09T01:16:16.475755+02:00"
+      "updated_at": "2026-06-09T01:20:39.666186+02:00"
     },
     "83338": {
       "api_player_key": 83338,
@@ -8763,7 +8763,7 @@
       "last_seen_event_key": 12134807,
       "last_seen_tournament": "W15 Madrid 2",
       "last_seen_tournament_key": 1932,
-      "updated_at": "2026-06-09T01:16:17.253653+02:00"
+      "updated_at": "2026-06-09T01:20:40.314067+02:00"
     },
     "13742": {
       "api_player_key": 13742,
@@ -8843,7 +8843,7 @@
       "last_seen_event_key": 12134808,
       "last_seen_tournament": "W15 Monastir 17",
       "last_seen_tournament_key": 4058,
-      "updated_at": "2026-06-09T01:16:17.903595+02:00"
+      "updated_at": "2026-06-09T01:20:40.855370+02:00"
     },
     "103494": {
       "api_player_key": 103494,
@@ -8899,7 +8899,7 @@
       "last_seen_event_key": 12134808,
       "last_seen_tournament": "W15 Monastir 17",
       "last_seen_tournament_key": 4058,
-      "updated_at": "2026-06-09T01:16:18.701818+02:00"
+      "updated_at": "2026-06-09T01:20:41.517496+02:00"
     },
     "63416": {
       "api_player_key": 63416,
@@ -8979,7 +8979,7 @@
       "last_seen_event_key": 12134809,
       "last_seen_tournament": "W15 Monastir 17",
       "last_seen_tournament_key": 4058,
-      "updated_at": "2026-06-09T01:16:19.415340+02:00"
+      "updated_at": "2026-06-09T01:20:42.098963+02:00"
     },
     "38903": {
       "api_player_key": 38903,
@@ -9035,7 +9035,7 @@
       "last_seen_event_key": 12134810,
       "last_seen_tournament": "W15 Monastir 17",
       "last_seen_tournament_key": 4058,
-      "updated_at": "2026-06-09T01:16:20.216273+02:00"
+      "updated_at": "2026-06-09T01:20:42.754729+02:00"
     },
     "57795": {
       "api_player_key": 57795,
@@ -9091,7 +9091,7 @@
       "last_seen_event_key": 12134810,
       "last_seen_tournament": "W15 Monastir 17",
       "last_seen_tournament_key": 4058,
-      "updated_at": "2026-06-09T01:16:21.034800+02:00"
+      "updated_at": "2026-06-09T01:20:43.438429+02:00"
     },
     "54858": {
       "api_player_key": 54858,
@@ -9147,7 +9147,7 @@
       "last_seen_event_key": 12134815,
       "last_seen_tournament": "W35 San Gregorio 3 (Italy)",
       "last_seen_tournament_key": 13966,
-      "updated_at": "2026-06-09T01:16:21.730897+02:00"
+      "updated_at": "2026-06-09T01:20:44.009421+02:00"
     },
     "2284": {
       "api_player_key": 2284,
@@ -9371,7 +9371,7 @@
       "last_seen_event_key": 12134820,
       "last_seen_tournament": "W50 Hurghada (Egypt)",
       "last_seen_tournament_key": 13967,
-      "updated_at": "2026-06-09T01:16:22.539073+02:00"
+      "updated_at": "2026-06-09T01:20:44.641119+02:00"
     },
     "58641": {
       "api_player_key": 58641,
@@ -9427,7 +9427,7 @@
       "last_seen_event_key": 12134820,
       "last_seen_tournament": "W50 Hurghada (Egypt)",
       "last_seen_tournament_key": 13967,
-      "updated_at": "2026-06-09T01:16:23.299840+02:00"
+      "updated_at": "2026-06-09T01:20:45.260503+02:00"
     },
     "101": {
       "api_player_key": 101,
@@ -9507,7 +9507,7 @@
       "last_seen_event_key": 12134821,
       "last_seen_tournament": "W50 Hurghada (Egypt)",
       "last_seen_tournament_key": 13967,
-      "updated_at": "2026-06-09T01:16:24.359169+02:00"
+      "updated_at": "2026-06-09T01:20:46.159891+02:00"
     },
     "64779": {
       "api_player_key": 64779,
@@ -9563,7 +9563,7 @@
       "last_seen_event_key": 12134823,
       "last_seen_tournament": "W50 Hurghada (Egypt)",
       "last_seen_tournament_key": 13967,
-      "updated_at": "2026-06-09T01:16:25.155645+02:00"
+      "updated_at": "2026-06-09T01:20:46.820194+02:00"
     },
     "24736": {
       "api_player_key": 24736,
@@ -9643,7 +9643,7 @@
       "last_seen_event_key": 12134824,
       "last_seen_tournament": "W50 Hurghada (Egypt)",
       "last_seen_tournament_key": 13967,
-      "updated_at": "2026-06-09T01:16:25.861530+02:00"
+      "updated_at": "2026-06-09T01:20:47.389398+02:00"
     },
     "58145": {
       "api_player_key": 58145,
@@ -9699,7 +9699,7 @@
       "last_seen_event_key": 12134824,
       "last_seen_tournament": "W50 Hurghada (Egypt)",
       "last_seen_tournament_key": 13967,
-      "updated_at": "2026-06-09T01:16:26.520098+02:00"
+      "updated_at": "2026-06-09T01:20:47.923079+02:00"
     },
     "9264": {
       "api_player_key": 9264,
