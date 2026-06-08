@@ -1,0 +1,83 @@
+name: Backtest First Set Over 9.5
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  backtest-first-set-over-9-5:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run walk-forward backtest
+        env:
+          FIRST_SET_BACKTEST_START: "2026-03-01"
+          FIRST_SET_MIN_PLAYER_SAMPLE: "15"
+          FIRST_SET_MIN_SURFACE_SAMPLE: "8"
+          FIRST_SET_RECENT_WINDOW: "10"
+          FIRST_SET_WEIGHT_OVERALL: "0.45"
+          FIRST_SET_WEIGHT_SURFACE: "0.30"
+          FIRST_SET_WEIGHT_RECENT: "0.15"
+          FIRST_SET_WEIGHT_BALANCE: "0.10"
+        run: python -m tennis_elo.totals.backtest_first_set_over_9_5
+
+      - name: Validate backtest
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          path = Path("data/backtests/first_set_over_9_5_backtest.json")
+
+          if not path.exists():
+              raise SystemExit("Missing backtest output")
+
+          data = json.loads(
+              path.read_text(encoding="utf-8")
+          )
+
+          summary = data.get("summary", {})
+
+          if not summary.get("test_matches"):
+              raise SystemExit("Backtest produced zero test matches")
+
+          print("SUMMARY:", summary)
+          print("BY SURFACE:", data.get("by_surface", {}))
+          print("BY GENDER:", data.get("by_gender", {}))
+          print("CALIBRATION:", data.get("calibration", {}))
+          PY
+
+      - name: Commit backtest outputs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/backtests/first_set_over_9_5_backtest.json
+          git add data/reports/first_set_over_9_5_backtest_report.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Backtest first set over 9.5 model"
+          git pull --rebase --autostash origin main
+          git push origin HEAD:main
