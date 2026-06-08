@@ -1,0 +1,127 @@
+name: Build API Tennis Player Mapping
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "35 */3 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: api-tennis-player-mapping
+  cancel-in-progress: true
+
+jobs:
+  build-api-tennis-player-mapping:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Build API player mapping
+        env:
+          TENNIS_ODDS_URL: "https://raw.githubusercontent.com/jakobm121/Ai/refs/heads/main/data/tennis_odds_today.json"
+          API_PLAYER_MAP_AUTO_CONFIRM_EXACT: "1"
+          API_PLAYER_MAP_AUTO_CONFIRM_UNIQUE_INITIAL_SURNAME: "1"
+          API_PLAYER_MAP_FUZZY_REVIEW_THRESHOLD: "0.82"
+        run: python -m tennis_elo.build_api_player_mapping
+
+      - name: Validate mapping
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          mapping_path = Path(
+              "data/mappings/api_tennis_player_map.json"
+          )
+          report_path = Path(
+              "data/reports/api_tennis_player_mapping_report.json"
+          )
+
+          for path in (mapping_path, report_path):
+              if not path.exists():
+                  raise SystemExit(
+                      f"Missing generated file: {path}"
+                  )
+
+          mapping = json.loads(
+              mapping_path.read_text(encoding="utf-8")
+          )
+          report = json.loads(
+              report_path.read_text(encoding="utf-8")
+          )
+
+          print(
+              "SUMMARY:",
+              report.get("summary", {}),
+          )
+          print(
+              "STATUS COUNTS TODAY:",
+              report.get("status_counts_today", {}),
+          )
+
+          for row in report.get(
+              "manual_review",
+              [],
+          )[:30]:
+              print(
+                  "REVIEW:",
+                  row.get("api_player_key"),
+                  row.get("api_name"),
+                  "->",
+                  row.get("elo_player_name"),
+                  "confidence=",
+                  row.get("confidence"),
+              )
+
+          for row in report.get(
+              "unmatched",
+              [],
+          )[:30]:
+              print(
+                  "UNMATCHED:",
+                  row.get("api_player_key"),
+                  row.get("api_name"),
+              )
+
+          players = mapping.get("players", {})
+
+          if not isinstance(players, dict):
+              raise SystemExit(
+                  "Invalid players mapping structure"
+              )
+          PY
+
+      - name: Commit mapping outputs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/mappings/api_tennis_player_map.json
+          git add data/reports/api_tennis_player_mapping_report.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Update API tennis player mapping"
+          git pull --rebase --autostash origin main
+          git push origin HEAD:main
