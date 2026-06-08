@@ -1,0 +1,80 @@
+{
+  "generated_at": "2026-06-08T12:53:21.610508+02:00",
+  "source_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/backtests/first_set_over_9_5_logistic_v2_backtest.json",
+  "market": "first_set_under_9_5",
+  "settings": {
+    "thresholds": [
+      0.7,
+      0.75,
+      0.8,
+      0.85
+    ],
+    "minimum_sample": 30
+  },
+  "best_threshold": {
+    "threshold": 0.85,
+    "sample_size": 121,
+    "under_hits": 74,
+    "over_hits": 47,
+    "under_hit_rate": 0.6116,
+    "over_hit_rate": 0.3884,
+    "fair_odds_under": 1.635,
+    "avg_favorite_probability": 0.8993,
+    "avg_model_over_probability": 0.3884,
+    "avg_model_under_probability": 0.6116
+  },
+  "threshold_summary": [
+    {
+      "threshold": 0.7,
+      "eligible": true,
+      "sample_size": 465,
+      "under_hits": 253,
+      "over_hits": 212,
+      "under_hit_rate": 0.5441,
+      "over_hit_rate": 0.4559,
+      "fair_odds_under": 1.838,
+      "avg_favorite_probability": 0.7968,
+      "avg_model_over_probability": 0.4325,
+      "avg_model_under_probability": 0.5675
+    },
+    {
+      "threshold": 0.75,
+      "eligible": true,
+      "sample_size": 299,
+      "under_hits": 175,
+      "over_hits": 124,
+      "under_hit_rate": 0.5853,
+      "over_hit_rate": 0.4147,
+      "fair_odds_under": 1.709,
+      "avg_favorite_probability": 0.8373,
+      "avg_model_over_probability": 0.4141,
+      "avg_model_under_probability": 0.5859
+    },
+    {
+      "threshold": 0.8,
+      "eligible": true,
+      "sample_size": 192,
+      "under_hits": 112,
+      "over_hits": 80,
+      "under_hit_rate": 0.5833,
+      "over_hit_rate": 0.4167,
+      "fair_odds_under": 1.714,
+      "avg_favorite_probability": 0.8718,
+      "avg_model_over_probability": 0.4054,
+      "avg_model_under_probability": 0.5946
+    },
+    {
+      "threshold": 0.85,
+      "eligible": true,
+      "sample_size": 121,
+      "under_hits": 74,
+      "over_hits": 47,
+      "under_hit_rate": 0.6116,
+      "over_hit_rate": 0.3884,
+      "fair_odds_under": 1.635,
+      "avg_favorite_probability": 0.8993,
+      "avg_model_over_probability": 0.3884,
+      "avg_model_under_probability": 0.6116
+    }
+  ]
+}
