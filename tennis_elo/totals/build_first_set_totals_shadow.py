@@ -24,6 +24,17 @@ HTTP_TIMEOUT = int(os.getenv("TENNIS_ODDS_HTTP_TIMEOUT", "45"))
 
 STRATEGIES = [
     {
+        "strategy_id": "all_fav75_under_9_5",
+        "side": "under",
+        "line": 9.5,
+        "min_odds": 1.80,
+        "min_favorite_probability": 0.75,
+        "surface": None,
+        "gender": None,
+        "base_probability": 0.5853,
+        "confidence": "medium",
+    },
+    {
         "strategy_id": "clay_fav75_under_10_5",
         "side": "under",
         "line": 10.5,
