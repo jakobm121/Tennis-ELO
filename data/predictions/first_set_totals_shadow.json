@@ -1,13 +1,24 @@
 {
-  "generated_at": "2026-06-08T14:32:17.191856+02:00",
+  "generated_at": "2026-06-08T14:37:52.714016+02:00",
   "source_odds_url": "https://raw.githubusercontent.com/jakobm121/Ai/refs/heads/main/data/tennis_odds_today.json",
   "odds_generated_at": "2026-06-08T14:30:55.169886+02:00",
   "model": "first_set_totals_multi_strategy_shadow_v1",
   "settings": {
     "min_player_sample": 10,
-    "min_one_player_sample": 20,
+    "min_one_player_sample": 15,
     "min_edge": 0.05,
     "strategies": [
+      {
+        "strategy_id": "all_fav75_under_9_5",
+        "side": "under",
+        "line": 9.5,
+        "min_odds": 1.8,
+        "min_favorite_probability": 0.75,
+        "surface": null,
+        "gender": null,
+        "base_probability": 0.5853,
+        "confidence": "medium"
+      },
       {
         "strategy_id": "clay_fav75_under_10_5",
         "side": "under",
@@ -67,15 +78,105 @@
   },
   "summary": {
     "odds_matches": 52,
-    "evaluated_strategy_rows": 250,
-    "shadow_bets": 0,
+    "evaluated_strategy_rows": 300,
+    "shadow_bets": 1,
     "watch_picks": 0,
-    "no_bet": 250,
-    "missing_first_set_totals": 2
+    "no_bet": 299,
+    "missing_first_set_totals": 2,
+    "shadow_bet": 1
   },
-  "shadow_picks": [],
+  "shadow_picks": [
+    {
+      "pick_id": "12134566|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134566,
+      "date": "2026-06-08",
+      "time": "16:00",
+      "match": "U. Humbert - E. Ymer",
+      "player_1": "U. Humbert",
+      "player_2": "E. Ymer",
+      "tournament": "Hertogenbosch",
+      "tour_level": "atp",
+      "gender": "men",
+      "surface": "grass",
+      "favorite": "U. Humbert",
+      "favorite_probability": 0.789474,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 2.25,
+      "bookmaker": "Betfair",
+      "model_probability": 0.60074,
+      "fair_odds": 1.665,
+      "edge": 0.3517,
+      "confidence": "medium",
+      "decision": "SHADOW_BET",
+      "reasons": [],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Humbert U.",
+        "player_1_sample": 96,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Ymer E.",
+        "player_2_sample": 12
+      },
+      "model_details": {
+        "strategy_base_probability": 0.5853,
+        "player_component_probability": 0.6368,
+        "profile_probabilities": [
+          0.5128,
+          0.7607
+        ]
+      }
+    }
+  ],
   "watch_picks": [],
   "all_evaluated": [
+    {
+      "pick_id": "12134274|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134274,
+      "date": "2026-06-08",
+      "time": "14:30",
+      "match": "D. Snigur - P. Badosa",
+      "player_1": "D. Snigur",
+      "player_2": "P. Badosa",
+      "tournament": "Hertogenbosch",
+      "tour_level": "wta",
+      "gender": "women",
+      "surface": "grass",
+      "favorite": "D. Snigur",
+      "favorite_probability": 0.501971,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.91,
+      "bookmaker": "Betfair",
+      "model_probability": 0.581468,
+      "fair_odds": 1.72,
+      "edge": 0.1106,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold"
+      ],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Snigur D.",
+        "player_1_sample": 14,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Badosa P.",
+        "player_2_sample": 73
+      },
+      "model_details": {
+        "strategy_base_probability": 0.5853,
+        "player_component_probability": 0.5725,
+        "profile_probabilities": [
+          0.6337,
+          0.5113
+        ]
+      }
+    },
     {
       "pick_id": "12134274|first_set|under|10.5|clay_fav75_under_10_5",
       "event_key": 12134274,
@@ -306,6 +407,52 @@
         "profile_probabilities": [
           0.1551,
           0.1804
+        ]
+      }
+    },
+    {
+      "pick_id": "12134276|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134276,
+      "date": "2026-06-08",
+      "time": "16:00",
+      "match": "M. Pohankova - C. Tauson",
+      "player_1": "M. Pohankova",
+      "player_2": "C. Tauson",
+      "tournament": "Hertogenbosch",
+      "tour_level": "wta",
+      "gender": "women",
+      "surface": "grass",
+      "favorite": "C. Tauson",
+      "favorite_probability": 0.67853,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.82,
+      "bookmaker": "Unibet",
+      "model_probability": 0.584782,
+      "fair_odds": 1.71,
+      "edge": 0.0643,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "both_players_need_minimum_sample"
+      ],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Pohankova M.",
+        "player_1_sample": 3,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Tauson C.",
+        "player_2_sample": 85
+      },
+      "model_details": {
+        "strategy_base_probability": 0.5853,
+        "player_component_probability": 0.5836,
+        "profile_probabilities": [
+          0.6667,
+          0.5004
         ]
       }
     },
@@ -547,6 +694,51 @@
       }
     },
     {
+      "pick_id": "12134292|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134292,
+      "date": "2026-06-08",
+      "time": "14:30",
+      "match": "M. Cilic - D. Shapovalov",
+      "player_1": "M. Cilic",
+      "player_2": "D. Shapovalov",
+      "tournament": "Hertogenbosch",
+      "tour_level": "atp",
+      "gender": "men",
+      "surface": "grass",
+      "favorite": "M. Cilic",
+      "favorite_probability": 0.575835,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 2.63,
+      "bookmaker": "Betfair",
+      "model_probability": 0.508512,
+      "fair_odds": 1.967,
+      "edge": 0.3374,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold"
+      ],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Cilic M.",
+        "player_1_sample": 51,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Shapovalov D.",
+        "player_2_sample": 86
+      },
+      "model_details": {
+        "strategy_base_probability": 0.5853,
+        "player_component_probability": 0.3293,
+        "profile_probabilities": [
+          0.3168,
+          0.3419
+        ]
+      }
+    },
+    {
       "pick_id": "12134292|first_set|under|10.5|clay_fav75_under_10_5",
       "event_key": 12134292,
       "date": "2026-06-08",
@@ -774,6 +966,52 @@
         "profile_probabilities": [
           0.3724,
           0.336
+        ]
+      }
+    },
+    {
+      "pick_id": "12134298|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134298,
+      "date": "2026-06-08",
+      "time": "15:00",
+      "match": "T. Paul - G. Mpetshi Perricard",
+      "player_1": "T. Paul",
+      "player_2": "G. Mpetshi Perricard",
+      "tournament": "Stuttgart",
+      "tour_level": "atp",
+      "gender": "men",
+      "surface": "grass",
+      "favorite": "T. Paul",
+      "favorite_probability": 0.660355,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 3.75,
+      "bookmaker": "Betfair",
+      "model_probability": 0.480877,
+      "fair_odds": 2.08,
+      "edge": 0.8033,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "both_players_need_minimum_sample"
+      ],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Paul T.",
+        "player_1_sample": 106,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Mpetshi Perricard G.",
+        "player_2_sample": 1
+      },
+      "model_details": {
+        "strategy_base_probability": 0.5853,
+        "player_component_probability": 0.2372,
+        "profile_probabilities": [
+          0.4744,
+          0.0
         ]
       }
     },
@@ -1014,6 +1252,52 @@
       }
     },
     {
+      "pick_id": "12134318|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134318,
+      "date": "2026-06-08",
+      "time": "15:45",
+      "match": "K. Boulter - L. Fernandez",
+      "player_1": "K. Boulter",
+      "player_2": "L. Fernandez",
+      "tournament": "London",
+      "tour_level": "wta",
+      "gender": "women",
+      "surface": "grass",
+      "favorite": "L. Fernandez",
+      "favorite_probability": 0.514512,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.87,
+      "bookmaker": "Betano",
+      "model_probability": 0.560958,
+      "fair_odds": 1.783,
+      "edge": 0.049,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "edge_below_threshold"
+      ],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Boulter K.",
+        "player_1_sample": 78,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Fernandez L.A.",
+        "player_2_sample": 106
+      },
+      "model_details": {
+        "strategy_base_probability": 0.5853,
+        "player_component_probability": 0.5042,
+        "profile_probabilities": [
+          0.3933,
+          0.615
+        ]
+      }
+    },
+    {
       "pick_id": "12134318|first_set|under|10.5|clay_fav75_under_10_5",
       "event_key": 12134318,
       "date": "2026-06-08",
@@ -1246,6 +1530,53 @@
       }
     },
     {
+      "pick_id": "12134319|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134319,
+      "date": "2026-06-08",
+      "time": "14:25",
+      "match": "H. Dart - L. Samsonova",
+      "player_1": "H. Dart",
+      "player_2": "L. Samsonova",
+      "tournament": "London",
+      "tour_level": "wta",
+      "gender": "women",
+      "surface": "grass",
+      "favorite": "L. Samsonova",
+      "favorite_probability": 0.698324,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.68,
+      "bookmaker": "Unibet",
+      "model_probability": 0.591577,
+      "fair_odds": 1.69,
+      "edge": -0.0062,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "odds_below_strategy_threshold",
+        "edge_below_threshold"
+      ],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Dart H.",
+        "player_1_sample": 25,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Samsonova L.",
+        "player_2_sample": 101
+      },
+      "model_details": {
+        "strategy_base_probability": 0.5853,
+        "player_component_probability": 0.6062,
+        "profile_probabilities": [
+          0.61,
+          0.6025
+        ]
+      }
+    },
+    {
       "pick_id": "12134319|first_set|under|10.5|clay_fav75_under_10_5",
       "event_key": 12134319,
       "date": "2026-06-08",
@@ -1473,6 +1804,52 @@
         "profile_probabilities": [
           0.237,
           0.1743
+        ]
+      }
+    },
+    {
+      "pick_id": "12134320|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134320,
+      "date": "2026-06-08",
+      "time": "14:25",
+      "match": "Ka. Pliskova - M. Kessler",
+      "player_1": "Ka. Pliskova",
+      "player_2": "M. Kessler",
+      "tournament": "London",
+      "tour_level": "wta",
+      "gender": "women",
+      "surface": "grass",
+      "favorite": "Ka. Pliskova",
+      "favorite_probability": 0.561608,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.91,
+      "bookmaker": "Betfair",
+      "model_probability": 0.543864,
+      "fair_odds": 1.839,
+      "edge": 0.0388,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "edge_below_threshold"
+      ],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Pliskova Ka.",
+        "player_1_sample": 30,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Kessler M.",
+        "player_2_sample": 85
+      },
+      "model_details": {
+        "strategy_base_probability": 0.5853,
+        "player_component_probability": 0.4472,
+        "profile_probabilities": [
+          0.3476,
+          0.5468
         ]
       }
     },
@@ -1710,6 +2087,53 @@
       }
     },
     {
+      "pick_id": "12134321|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134321,
+      "date": "2026-06-08",
+      "time": "17:15",
+      "match": "L. Siegemund - F. Jones",
+      "player_1": "L. Siegemund",
+      "player_2": "F. Jones",
+      "tournament": "London",
+      "tour_level": "wta",
+      "gender": "women",
+      "surface": "grass",
+      "favorite": "L. Siegemund",
+      "favorite_probability": 0.662338,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.72,
+      "bookmaker": "Betano",
+      "model_probability": 0.561074,
+      "fair_odds": 1.782,
+      "edge": -0.035,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "odds_below_strategy_threshold",
+        "edge_below_threshold"
+      ],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Siegemund L.",
+        "player_1_sample": 56,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Jones F.",
+        "player_2_sample": 28
+      },
+      "model_details": {
+        "strategy_base_probability": 0.5853,
+        "player_component_probability": 0.5045,
+        "profile_probabilities": [
+          0.4428,
+          0.5663
+        ]
+      }
+    },
+    {
       "pick_id": "12134321|first_set|under|10.5|clay_fav75_under_10_5",
       "event_key": 12134321,
       "date": "2026-06-08",
@@ -1938,6 +2362,53 @@
         "profile_probabilities": [
           0.1662,
           0.2145
+        ]
+      }
+    },
+    {
+      "pick_id": "12134323|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134323,
+      "date": "2026-06-08",
+      "time": "14:25",
+      "match": "Q. Zheng - J. Cristian",
+      "player_1": "Q. Zheng",
+      "player_2": "J. Cristian",
+      "tournament": "London",
+      "tour_level": "wta",
+      "gender": "women",
+      "surface": "grass",
+      "favorite": "Q. Zheng",
+      "favorite_probability": 0.703418,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.78,
+      "bookmaker": "Betano",
+      "model_probability": 0.57093,
+      "fair_odds": 1.752,
+      "edge": 0.0163,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "odds_below_strategy_threshold",
+        "edge_below_threshold"
+      ],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Zheng Q.",
+        "player_1_sample": 78,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Cristian J.",
+        "player_2_sample": 91
+      },
+      "model_details": {
+        "strategy_base_probability": 0.5853,
+        "player_component_probability": 0.5374,
+        "profile_probabilities": [
+          0.4886,
+          0.5862
         ]
       }
     },
@@ -2171,6 +2642,53 @@
         "profile_probabilities": [
           0.2128,
           0.2238
+        ]
+      }
+    },
+    {
+      "pick_id": "12134391|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134391,
+      "date": "2026-06-08",
+      "time": "16:10",
+      "match": "F. Cina - M. Topo",
+      "player_1": "F. Cina",
+      "player_2": "M. Topo",
+      "tournament": "Bratislava",
+      "tour_level": "challenger",
+      "gender": "men",
+      "surface": "clay",
+      "favorite": "F. Cina",
+      "favorite_probability": 0.64951,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.89,
+      "bookmaker": "Unibet",
+      "model_probability": 0.571339,
+      "fair_odds": 1.75,
+      "edge": 0.0798,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "both_players_need_minimum_sample",
+        "one_player_needs_larger_sample"
+      ],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Cina F.",
+        "player_1_sample": 11,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Topo M.",
+        "player_2_sample": 2
+      },
+      "model_details": {
+        "strategy_base_probability": 0.5853,
+        "player_component_probability": 0.5388,
+        "profile_probabilities": [
+          0.5775,
+          0.5
         ]
       }
     },
@@ -2411,6 +2929,55 @@
       }
     },
     {
+      "pick_id": "12134392|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134392,
+      "date": "2026-06-08",
+      "time": "16:00",
+      "match": "N. Gombos - J. Choinski",
+      "player_1": "N. Gombos",
+      "player_2": "J. Choinski",
+      "tournament": "Bratislava",
+      "tour_level": "challenger",
+      "gender": "men",
+      "surface": "clay",
+      "favorite": "J. Choinski",
+      "favorite_probability": 0.713971,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.78,
+      "bookmaker": "Betano",
+      "model_probability": 0.55971,
+      "fair_odds": 1.787,
+      "edge": -0.0037,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "odds_below_strategy_threshold",
+        "both_players_need_minimum_sample",
+        "one_player_needs_larger_sample",
+        "edge_below_threshold"
+      ],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Gombos N.",
+        "player_1_sample": 2,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Choinski J.",
+        "player_2_sample": 6
+      },
+      "model_details": {
+        "strategy_base_probability": 0.5853,
+        "player_component_probability": 0.5,
+        "profile_probabilities": [
+          0.5,
+          0.5
+        ]
+      }
+    },
+    {
       "pick_id": "12134392|first_set|under|10.5|clay_fav75_under_10_5",
       "event_key": 12134392,
       "date": "2026-06-08",
@@ -2647,6 +3214,45 @@
       }
     },
     {
+      "pick_id": "12134393|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134393,
+      "date": "2026-06-08",
+      "time": "14:30",
+      "match": "T. Kokkinakis - T. Barrios Vera",
+      "player_1": "T. Kokkinakis",
+      "player_2": "T. Barrios Vera",
+      "tournament": "Bratislava",
+      "tour_level": "challenger",
+      "gender": "men",
+      "surface": "clay",
+      "favorite": "T. Barrios Vera",
+      "favorite_probability": 0.52774,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.91,
+      "bookmaker": "Betano",
+      "model_probability": null,
+      "fair_odds": null,
+      "edge": null,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "player_2_profile_missing"
+      ],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Kokkinakis T.",
+        "player_1_sample": 13,
+        "player_2_status": "not_found",
+        "player_2_profile_name": null,
+        "player_2_sample": null
+      },
+      "model_details": null
+    },
+    {
       "pick_id": "12134393|first_set|under|10.5|clay_fav75_under_10_5",
       "event_key": 12134393,
       "date": "2026-06-08",
@@ -2838,6 +3444,46 @@
         "player_2_status": "not_found",
         "player_2_profile_name": null,
         "player_2_sample": null
+      },
+      "model_details": null
+    },
+    {
+      "pick_id": "12134401|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134401,
+      "date": "2026-06-08",
+      "time": "14:35",
+      "match": "P. Basile - R. Brancaccio",
+      "player_1": "P. Basile",
+      "player_2": "R. Brancaccio",
+      "tournament": "Cattolica (Italy) - Qualification",
+      "tour_level": "challenger",
+      "gender": "men",
+      "surface": "clay",
+      "favorite": "R. Brancaccio",
+      "favorite_probability": 0.602597,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.66,
+      "bookmaker": "1xBet",
+      "model_probability": null,
+      "fair_odds": null,
+      "edge": null,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "player_1_profile_missing",
+        "odds_below_strategy_threshold"
+      ],
+      "profile_matches": {
+        "player_1_status": "not_found",
+        "player_1_profile_name": null,
+        "player_1_sample": null,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Brancaccio R.",
+        "player_2_sample": 1
       },
       "model_details": null
     },
@@ -3040,6 +3686,45 @@
       "model_details": null
     },
     {
+      "pick_id": "12134404|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134404,
+      "date": "2026-06-08",
+      "time": "18:00",
+      "match": "A. Guerrieri - D. Svrcina",
+      "player_1": "A. Guerrieri",
+      "player_2": "D. Svrcina",
+      "tournament": "Cattolica (Italy) - Qualification",
+      "tour_level": "challenger",
+      "gender": "men",
+      "surface": "clay",
+      "favorite": "D. Svrcina",
+      "favorite_probability": 0.662651,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.81,
+      "bookmaker": "Unibet",
+      "model_probability": null,
+      "fair_odds": null,
+      "edge": null,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "player_1_profile_missing"
+      ],
+      "profile_matches": {
+        "player_1_status": "not_found",
+        "player_1_profile_name": null,
+        "player_1_sample": null,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Svrcina D.",
+        "player_2_sample": 13
+      },
+      "model_details": null
+    },
+    {
       "pick_id": "12134404|first_set|under|10.5|clay_fav75_under_10_5",
       "event_key": 12134404,
       "date": "2026-06-08",
@@ -3232,6 +3917,46 @@
         "player_2_status": "matched",
         "player_2_profile_name": "Svrcina D.",
         "player_2_sample": 13
+      },
+      "model_details": null
+    },
+    {
+      "pick_id": "12134410|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134410,
+      "date": "2026-06-08",
+      "time": "14:35",
+      "match": "M. Ribecai - F. Agamenone",
+      "player_1": "M. Ribecai",
+      "player_2": "F. Agamenone",
+      "tournament": "Cattolica (Italy) - Qualification",
+      "tour_level": "challenger",
+      "gender": "men",
+      "surface": "clay",
+      "favorite": "F. Agamenone",
+      "favorite_probability": 0.51552,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.82,
+      "bookmaker": "Betano",
+      "model_probability": null,
+      "fair_odds": null,
+      "edge": null,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "player_1_profile_missing",
+        "player_2_profile_missing"
+      ],
+      "profile_matches": {
+        "player_1_status": "not_found",
+        "player_1_profile_name": null,
+        "player_1_sample": null,
+        "player_2_status": "not_found",
+        "player_2_profile_name": null,
+        "player_2_sample": null
       },
       "model_details": null
     },
@@ -3437,6 +4162,45 @@
       "model_details": null
     },
     {
+      "pick_id": "12134413|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134413,
+      "date": "2026-06-08",
+      "time": "15:45",
+      "match": "L. Djere - K. Coppejans",
+      "player_1": "L. Djere",
+      "player_2": "K. Coppejans",
+      "tournament": "Lyon",
+      "tour_level": "challenger",
+      "gender": "men",
+      "surface": "clay",
+      "favorite": "L. Djere",
+      "favorite_probability": 0.714286,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.88,
+      "bookmaker": "Unibet",
+      "model_probability": null,
+      "fair_odds": null,
+      "edge": null,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "player_2_profile_missing"
+      ],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Djere L.",
+        "player_1_sample": 45,
+        "player_2_status": "not_found",
+        "player_2_profile_name": null,
+        "player_2_sample": null
+      },
+      "model_details": null
+    },
+    {
       "pick_id": "12134413|first_set|under|10.5|clay_fav75_under_10_5",
       "event_key": 12134413,
       "date": "2026-06-08",
@@ -3626,6 +4390,46 @@
         "player_1_status": "matched",
         "player_1_profile_name": "Djere L.",
         "player_1_sample": 45,
+        "player_2_status": "not_found",
+        "player_2_profile_name": null,
+        "player_2_sample": null
+      },
+      "model_details": null
+    },
+    {
+      "pick_id": "12134415|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134415,
+      "date": "2026-06-08",
+      "time": "17:15",
+      "match": "L. Giustino - D. Rincon",
+      "player_1": "L. Giustino",
+      "player_2": "D. Rincon",
+      "tournament": "Lyon",
+      "tour_level": "challenger",
+      "gender": "men",
+      "surface": "clay",
+      "favorite": "L. Giustino",
+      "favorite_probability": 0.518219,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.9,
+      "bookmaker": "Unibet",
+      "model_probability": null,
+      "fair_odds": null,
+      "edge": null,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "player_1_profile_missing",
+        "player_2_profile_missing"
+      ],
+      "profile_matches": {
+        "player_1_status": "not_found",
+        "player_1_profile_name": null,
+        "player_1_sample": null,
         "player_2_status": "not_found",
         "player_2_profile_name": null,
         "player_2_sample": null
@@ -3832,6 +4636,54 @@
         "player_2_sample": null
       },
       "model_details": null
+    },
+    {
+      "pick_id": "12134416|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134416,
+      "date": "2026-06-08",
+      "time": "17:15",
+      "match": "H. Grenier - L. van Assche",
+      "player_1": "H. Grenier",
+      "player_2": "L. van Assche",
+      "tournament": "Lyon",
+      "tour_level": "challenger",
+      "gender": "men",
+      "surface": "clay",
+      "favorite": "L. van Assche",
+      "favorite_probability": 0.84058,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.64,
+      "bookmaker": "Unibet",
+      "model_probability": 0.510581,
+      "fair_odds": 1.959,
+      "edge": -0.1626,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "odds_below_strategy_threshold",
+        "both_players_need_minimum_sample",
+        "one_player_needs_larger_sample",
+        "edge_below_threshold"
+      ],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Grenier H.",
+        "player_1_sample": 4,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Van Assche L.",
+        "player_2_sample": 14
+      },
+      "model_details": {
+        "strategy_base_probability": 0.5853,
+        "player_component_probability": 0.3362,
+        "profile_probabilities": [
+          0.25,
+          0.4225
+        ]
+      }
     },
     {
       "pick_id": "12134416|first_set|under|10.5|clay_fav75_under_10_5",
@@ -4068,6 +4920,53 @@
         "profile_probabilities": [
           0.25,
           0.0775
+        ]
+      }
+    },
+    {
+      "pick_id": "12134461|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134461,
+      "date": "2026-06-08",
+      "time": "16:30",
+      "match": "U. Blanchet - O. Tarvet",
+      "player_1": "U. Blanchet",
+      "player_2": "O. Tarvet",
+      "tournament": "Ilkley",
+      "tour_level": "challenger",
+      "gender": "men",
+      "surface": "grass",
+      "favorite": "O. Tarvet",
+      "favorite_probability": 0.589005,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 2.18,
+      "bookmaker": "Betano",
+      "model_probability": 0.523817,
+      "fair_odds": 1.909,
+      "edge": 0.1419,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "both_players_need_minimum_sample",
+        "one_player_needs_larger_sample"
+      ],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Blanchet U.",
+        "player_1_sample": 12,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Tarvet O.",
+        "player_2_sample": 2
+      },
+      "model_details": {
+        "strategy_base_probability": 0.5853,
+        "player_component_probability": 0.3804,
+        "profile_probabilities": [
+          0.2607,
+          0.5
         ]
       }
     },
@@ -4313,6 +5212,53 @@
       }
     },
     {
+      "pick_id": "12134464|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134464,
+      "date": "2026-06-08",
+      "time": "15:00",
+      "match": "A. Holmgren - N. Budkov Kjaer",
+      "player_1": "A. Holmgren",
+      "player_2": "N. Budkov Kjaer",
+      "tournament": "Ilkley",
+      "tour_level": "challenger",
+      "gender": "men",
+      "surface": "grass",
+      "favorite": "N. Budkov Kjaer",
+      "favorite_probability": 0.589005,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 2.37,
+      "bookmaker": "bet365",
+      "model_probability": 0.50346,
+      "fair_odds": 1.986,
+      "edge": 0.1932,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "both_players_need_minimum_sample",
+        "one_player_needs_larger_sample"
+      ],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Holmgren A.",
+        "player_1_sample": 4,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Budkov Kjaer N.",
+        "player_2_sample": 8
+      },
+      "model_details": {
+        "strategy_base_probability": 0.5853,
+        "player_component_probability": 0.3125,
+        "profile_probabilities": [
+          0.0,
+          0.625
+        ]
+      }
+    },
+    {
       "pick_id": "12134464|first_set|under|10.5|clay_fav75_under_10_5",
       "event_key": 12134464,
       "date": "2026-06-08",
@@ -4550,6 +5496,53 @@
         "profile_probabilities": [
           0.5,
           0.25
+        ]
+      }
+    },
+    {
+      "pick_id": "12134465|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134465,
+      "date": "2026-06-08",
+      "time": "18:00",
+      "match": "K. Jacquet - T. Samuel",
+      "player_1": "K. Jacquet",
+      "player_2": "T. Samuel",
+      "tournament": "Ilkley",
+      "tour_level": "challenger",
+      "gender": "men",
+      "surface": "grass",
+      "favorite": "T. Samuel",
+      "favorite_probability": 0.64951,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 2.12,
+      "bookmaker": "Betano",
+      "model_probability": 0.49542,
+      "fair_odds": 2.018,
+      "edge": 0.0503,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "both_players_need_minimum_sample",
+        "one_player_needs_larger_sample"
+      ],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Jacquet K.",
+        "player_1_sample": 7,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Samuel T.",
+        "player_2_sample": 1
+      },
+      "model_details": {
+        "strategy_base_probability": 0.5853,
+        "player_component_probability": 0.2857,
+        "profile_probabilities": [
+          0.5714,
+          0.0
         ]
       }
     },
@@ -4794,6 +5787,52 @@
       }
     },
     {
+      "pick_id": "12134468|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134468,
+      "date": "2026-06-08",
+      "time": "15:00",
+      "match": "T. Schoolkate - L. Harris",
+      "player_1": "T. Schoolkate",
+      "player_2": "L. Harris",
+      "tournament": "Ilkley",
+      "tour_level": "challenger",
+      "gender": "men",
+      "surface": "grass",
+      "favorite": "L. Harris",
+      "favorite_probability": 0.587927,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 2.35,
+      "bookmaker": "Marathon",
+      "model_probability": 0.514754,
+      "fair_odds": 1.943,
+      "edge": 0.2097,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "both_players_need_minimum_sample"
+      ],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Schoolkate T.",
+        "player_1_sample": 23,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Harris L.",
+        "player_2_sample": 7
+      },
+      "model_details": {
+        "strategy_base_probability": 0.5853,
+        "player_component_probability": 0.3501,
+        "profile_probabilities": [
+          0.4146,
+          0.2857
+        ]
+      }
+    },
+    {
       "pick_id": "12134468|first_set|under|10.5|clay_fav75_under_10_5",
       "event_key": 12134468,
       "date": "2026-06-08",
@@ -5030,6 +6069,45 @@
       }
     },
     {
+      "pick_id": "12134469|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134469,
+      "date": "2026-06-08",
+      "time": "16:00",
+      "match": "H. Wendelken - J. Pinnington Jones",
+      "player_1": "H. Wendelken",
+      "player_2": "J. Pinnington Jones",
+      "tournament": "Ilkley",
+      "tour_level": "challenger",
+      "gender": "men",
+      "surface": "grass",
+      "favorite": "J. Pinnington Jones",
+      "favorite_probability": 0.663462,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 2.12,
+      "bookmaker": "Betano",
+      "model_probability": null,
+      "fair_odds": null,
+      "edge": null,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "player_1_profile_missing"
+      ],
+      "profile_matches": {
+        "player_1_status": "not_found",
+        "player_1_profile_name": null,
+        "player_1_sample": null,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Pinnington Jones J.",
+        "player_2_sample": 7
+      },
+      "model_details": null
+    },
+    {
       "pick_id": "12134469|first_set|under|10.5|clay_fav75_under_10_5",
       "event_key": 12134469,
       "date": "2026-06-08",
@@ -5224,6 +6302,46 @@
         "player_2_status": "matched",
         "player_2_profile_name": "Pinnington Jones J.",
         "player_2_sample": 7
+      },
+      "model_details": null
+    },
+    {
+      "pick_id": "12134471|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134471,
+      "date": "2026-06-08",
+      "time": "16:00",
+      "match": "A. Dudeney - H. Sakatsume",
+      "player_1": "A. Dudeney",
+      "player_2": "H. Sakatsume",
+      "tournament": "Ilkley",
+      "tour_level": "challenger",
+      "gender": "women",
+      "surface": "grass",
+      "favorite": "H. Sakatsume",
+      "favorite_probability": 0.577428,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.78,
+      "bookmaker": "Betano",
+      "model_probability": null,
+      "fair_odds": null,
+      "edge": null,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "player_1_profile_missing",
+        "odds_below_strategy_threshold"
+      ],
+      "profile_matches": {
+        "player_1_status": "not_found",
+        "player_1_profile_name": null,
+        "player_1_sample": null,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Sakatsume H.",
+        "player_2_sample": 6
       },
       "model_details": null
     },
@@ -5429,6 +6547,45 @@
       "model_details": null
     },
     {
+      "pick_id": "12134472|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134472,
+      "date": "2026-06-08",
+      "time": "17:30",
+      "match": "V. Golubic - D. Britton",
+      "player_1": "V. Golubic",
+      "player_2": "D. Britton",
+      "tournament": "Ilkley",
+      "tour_level": "challenger",
+      "gender": "women",
+      "surface": "grass",
+      "favorite": "V. Golubic",
+      "favorite_probability": 0.890985,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.39,
+      "bookmaker": "Betano",
+      "model_probability": null,
+      "fair_odds": null,
+      "edge": null,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "player_2_profile_missing",
+        "odds_below_strategy_threshold"
+      ],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Golubic V.",
+        "player_1_sample": 50,
+        "player_2_status": "not_found",
+        "player_2_profile_name": null,
+        "player_2_sample": null
+      },
+      "model_details": null
+    },
+    {
       "pick_id": "12134472|first_set|under|10.5|clay_fav75_under_10_5",
       "event_key": 12134472,
       "date": "2026-06-08",
@@ -5626,6 +6783,55 @@
         "player_2_sample": null
       },
       "model_details": null
+    },
+    {
+      "pick_id": "12134475|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134475,
+      "date": "2026-06-08",
+      "time": "17:30",
+      "match": "L. Klimovicova - S. Kraus",
+      "player_1": "L. Klimovicova",
+      "player_2": "S. Kraus",
+      "tournament": "Ilkley",
+      "tour_level": "challenger",
+      "gender": "women",
+      "surface": "grass",
+      "favorite": "S. Kraus",
+      "favorite_probability": 0.638404,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.74,
+      "bookmaker": "1xBet",
+      "model_probability": 0.582214,
+      "fair_odds": 1.718,
+      "edge": 0.0131,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "odds_below_strategy_threshold",
+        "both_players_need_minimum_sample",
+        "one_player_needs_larger_sample",
+        "edge_below_threshold"
+      ],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Klimovicova L.",
+        "player_1_sample": 2,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Kraus S.",
+        "player_2_sample": 11
+      },
+      "model_details": {
+        "strategy_base_probability": 0.5853,
+        "player_component_probability": 0.575,
+        "profile_probabilities": [
+          0.5,
+          0.65
+        ]
+      }
     },
     {
       "pick_id": "12134475|first_set|under|10.5|clay_fav75_under_10_5",
@@ -5866,6 +7072,54 @@
         "profile_probabilities": [
           0.5,
           0.1643
+        ]
+      }
+    },
+    {
+      "pick_id": "12134476|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134476,
+      "date": "2026-06-08",
+      "time": "16:00",
+      "match": "V. Podrez - T. Prozorova",
+      "player_1": "V. Podrez",
+      "player_2": "T. Prozorova",
+      "tournament": "Ilkley",
+      "tour_level": "challenger",
+      "gender": "women",
+      "surface": "grass",
+      "favorite": "T. Prozorova",
+      "favorite_probability": 0.581152,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.75,
+      "bookmaker": "1xBet",
+      "model_probability": 0.60471,
+      "fair_odds": 1.654,
+      "edge": 0.0582,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "odds_below_strategy_threshold",
+        "both_players_need_minimum_sample",
+        "one_player_needs_larger_sample"
+      ],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Podrez V.",
+        "player_1_sample": 4,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Prozorova T.",
+        "player_2_sample": 5
+      },
+      "model_details": {
+        "strategy_base_probability": 0.5853,
+        "player_component_probability": 0.65,
+        "profile_probabilities": [
+          0.5,
+          0.8
         ]
       }
     },
@@ -6113,6 +7367,55 @@
       }
     },
     {
+      "pick_id": "12134477|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134477,
+      "date": "2026-06-08",
+      "time": "17:30",
+      "match": "M. Sawangkaew - A. Urhobo",
+      "player_1": "M. Sawangkaew",
+      "player_2": "A. Urhobo",
+      "tournament": "Ilkley",
+      "tour_level": "challenger",
+      "gender": "women",
+      "surface": "grass",
+      "favorite": "M. Sawangkaew",
+      "favorite_probability": 0.662651,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.7,
+      "bookmaker": "1xBet",
+      "model_probability": 0.514676,
+      "fair_odds": 1.943,
+      "edge": -0.1251,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "odds_below_strategy_threshold",
+        "both_players_need_minimum_sample",
+        "one_player_needs_larger_sample",
+        "edge_below_threshold"
+      ],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Sawangkaew M.",
+        "player_1_sample": 13,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Urhobo A.",
+        "player_2_sample": 3
+      },
+      "model_details": {
+        "strategy_base_probability": 0.5853,
+        "player_component_probability": 0.3499,
+        "profile_probabilities": [
+          0.3665,
+          0.3333
+        ]
+      }
+    },
+    {
       "pick_id": "12134477|first_set|under|10.5|clay_fav75_under_10_5",
       "event_key": 12134477,
       "date": "2026-06-08",
@@ -6355,6 +7658,54 @@
       }
     },
     {
+      "pick_id": "12134478|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134478,
+      "date": "2026-06-08",
+      "time": "19:00",
+      "match": "D. Vidmanova - L. Fruhvirtova",
+      "player_1": "D. Vidmanova",
+      "player_2": "L. Fruhvirtova",
+      "tournament": "Ilkley",
+      "tour_level": "challenger",
+      "gender": "women",
+      "surface": "grass",
+      "favorite": "L. Fruhvirtova",
+      "favorite_probability": 0.557769,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.78,
+      "bookmaker": "1xBet",
+      "model_probability": 0.540477,
+      "fair_odds": 1.85,
+      "edge": -0.038,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "odds_below_strategy_threshold",
+        "both_players_need_minimum_sample",
+        "edge_below_threshold"
+      ],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Vidmanova D.",
+        "player_1_sample": 6,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Fruhvirtova L.",
+        "player_2_sample": 23
+      },
+      "model_details": {
+        "strategy_base_probability": 0.5853,
+        "player_component_probability": 0.4359,
+        "profile_probabilities": [
+          0.3333,
+          0.5385
+        ]
+      }
+    },
+    {
       "pick_id": "12134478|first_set|under|10.5|clay_fav75_under_10_5",
       "event_key": 12134478,
       "date": "2026-06-08",
@@ -6592,6 +7943,46 @@
       }
     },
     {
+      "pick_id": "12134500|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134500,
+      "date": "2026-06-08",
+      "time": "19:00",
+      "match": "J. S. Gomez - L. E. Ambrogi",
+      "player_1": "J. S. Gomez",
+      "player_2": "L. E. Ambrogi",
+      "tournament": "San Miguel de Tucuman",
+      "tour_level": "challenger",
+      "gender": "men",
+      "surface": "clay",
+      "favorite": "L. E. Ambrogi",
+      "favorite_probability": 0.806452,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.6,
+      "bookmaker": "Unibet",
+      "model_probability": null,
+      "fair_odds": null,
+      "edge": null,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "player_1_profile_missing",
+        "player_2_profile_missing",
+        "odds_below_strategy_threshold"
+      ],
+      "profile_matches": {
+        "player_1_status": "not_found",
+        "player_1_profile_name": null,
+        "player_1_sample": null,
+        "player_2_status": "not_found",
+        "player_2_profile_name": null,
+        "player_2_sample": null
+      },
+      "model_details": null
+    },
+    {
       "pick_id": "12134500|first_set|under|10.5|clay_fav75_under_10_5",
       "event_key": 12134500,
       "date": "2026-06-08",
@@ -6779,6 +8170,46 @@
       "decision": "NO_BET",
       "reasons": [
         "surface_mismatch",
+        "player_1_profile_missing",
+        "player_2_profile_missing"
+      ],
+      "profile_matches": {
+        "player_1_status": "not_found",
+        "player_1_profile_name": null,
+        "player_1_sample": null,
+        "player_2_status": "not_found",
+        "player_2_profile_name": null,
+        "player_2_sample": null
+      },
+      "model_details": null
+    },
+    {
+      "pick_id": "12134503|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134503,
+      "date": "2026-06-08",
+      "time": "20:30",
+      "match": "F. Mena - L. J. Rodriguez",
+      "player_1": "F. Mena",
+      "player_2": "L. J. Rodriguez",
+      "tournament": "San Miguel de Tucuman",
+      "tour_level": "challenger",
+      "gender": "men",
+      "surface": "clay",
+      "favorite": "F. Mena",
+      "favorite_probability": 0.582011,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.8,
+      "bookmaker": "bet365",
+      "model_probability": null,
+      "fair_odds": null,
+      "edge": null,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
         "player_1_profile_missing",
         "player_2_profile_missing"
       ],
@@ -6994,6 +8425,47 @@
       "model_details": null
     },
     {
+      "pick_id": "12134504|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134504,
+      "date": "2026-06-08",
+      "time": "19:00",
+      "match": "E. Ribeiro - S. De La Fuente",
+      "player_1": "E. Ribeiro",
+      "player_2": "S. De La Fuente",
+      "tournament": "San Miguel de Tucuman",
+      "tour_level": "challenger",
+      "gender": "men",
+      "surface": "clay",
+      "favorite": "E. Ribeiro",
+      "favorite_probability": 0.739583,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.73,
+      "bookmaker": "Unibet",
+      "model_probability": null,
+      "fair_odds": null,
+      "edge": null,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "player_1_profile_missing",
+        "player_2_profile_missing",
+        "odds_below_strategy_threshold"
+      ],
+      "profile_matches": {
+        "player_1_status": "not_found",
+        "player_1_profile_name": null,
+        "player_1_sample": null,
+        "player_2_status": "not_found",
+        "player_2_profile_name": null,
+        "player_2_sample": null
+      },
+      "model_details": null
+    },
+    {
       "pick_id": "12134504|first_set|under|10.5|clay_fav75_under_10_5",
       "event_key": 12134504,
       "date": "2026-06-08",
@@ -7193,6 +8665,54 @@
         "player_2_sample": null
       },
       "model_details": null
+    },
+    {
+      "pick_id": "12134516|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134516,
+      "date": "2026-06-08",
+      "time": "14:30",
+      "match": "H. Tan - E. Appleton",
+      "player_1": "H. Tan",
+      "player_2": "E. Appleton",
+      "tournament": "Ilkley",
+      "tour_level": "challenger",
+      "gender": "women",
+      "surface": "grass",
+      "favorite": "H. Tan",
+      "favorite_probability": 0.707865,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.75,
+      "bookmaker": "BetVictor",
+      "model_probability": 0.70971,
+      "fair_odds": 1.409,
+      "edge": 0.242,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "odds_below_strategy_threshold",
+        "both_players_need_minimum_sample",
+        "one_player_needs_larger_sample"
+      ],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Tan H.",
+        "player_1_sample": 1,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Appleton E.",
+        "player_2_sample": 1
+      },
+      "model_details": {
+        "strategy_base_probability": 0.5853,
+        "player_component_probability": 1.0,
+        "profile_probabilities": [
+          1.0,
+          1.0
+        ]
+      }
     },
     {
       "pick_id": "12134516|first_set|under|10.5|clay_fav75_under_10_5",
@@ -7439,6 +8959,54 @@
       }
     },
     {
+      "pick_id": "12134520|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134520,
+      "date": "2026-06-08",
+      "time": "20:30",
+      "match": "K. Kawa - L. Pigato",
+      "player_1": "K. Kawa",
+      "player_2": "L. Pigato",
+      "tournament": "Modena (Italy) - Qualification",
+      "tour_level": "challenger",
+      "gender": "women",
+      "surface": "clay",
+      "favorite": "L. Pigato",
+      "favorite_probability": 0.557029,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.68,
+      "bookmaker": "1xBet",
+      "model_probability": 0.631786,
+      "fair_odds": 1.583,
+      "edge": 0.0614,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "odds_below_strategy_threshold",
+        "both_players_need_minimum_sample",
+        "one_player_needs_larger_sample"
+      ],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Kawa K.",
+        "player_1_sample": 13,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Pigato L.",
+        "player_2_sample": 1
+      },
+      "model_details": {
+        "strategy_base_probability": 0.5853,
+        "player_component_probability": 0.7403,
+        "profile_probabilities": [
+          0.4805,
+          1.0
+        ]
+      }
+    },
+    {
       "pick_id": "12134520|first_set|under|10.5|clay_fav75_under_10_5",
       "event_key": 12134520,
       "date": "2026-06-08",
@@ -7673,6 +9241,55 @@
         "player_component_probability": 0.1571,
         "profile_probabilities": [
           0.3142,
+          0.0
+        ]
+      }
+    },
+    {
+      "pick_id": "12134525|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134525,
+      "date": "2026-06-08",
+      "time": "18:00",
+      "match": "M. Trevisan - J. Ruggeri",
+      "player_1": "M. Trevisan",
+      "player_2": "J. Ruggeri",
+      "tournament": "Modena (Italy) - Qualification",
+      "tour_level": "challenger",
+      "gender": "women",
+      "surface": "clay",
+      "favorite": "J. Ruggeri",
+      "favorite_probability": 0.557029,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.67,
+      "bookmaker": "1xBet",
+      "model_probability": 0.499554,
+      "fair_odds": 2.002,
+      "edge": -0.1657,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "odds_below_strategy_threshold",
+        "both_players_need_minimum_sample",
+        "one_player_needs_larger_sample",
+        "edge_below_threshold"
+      ],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Trevisan M.",
+        "player_1_sample": 14,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Ruggeri J.",
+        "player_2_sample": 1
+      },
+      "model_details": {
+        "strategy_base_probability": 0.5853,
+        "player_component_probability": 0.2995,
+        "profile_probabilities": [
+          0.599,
           0.0
         ]
       }
@@ -7918,6 +9535,46 @@
       }
     },
     {
+      "pick_id": "12134526|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134526,
+      "date": "2026-06-08",
+      "time": "18:00",
+      "match": "J. Vandromme - A. Fita Boluda",
+      "player_1": "J. Vandromme",
+      "player_2": "A. Fita Boluda",
+      "tournament": "Modena (Italy) - Qualification",
+      "tour_level": "challenger",
+      "gender": "women",
+      "surface": "clay",
+      "favorite": "J. Vandromme",
+      "favorite_probability": 0.534759,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.68,
+      "bookmaker": "1xBet",
+      "model_probability": null,
+      "fair_odds": null,
+      "edge": null,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "player_1_profile_missing",
+        "odds_below_strategy_threshold"
+      ],
+      "profile_matches": {
+        "player_1_status": "not_found",
+        "player_1_profile_name": null,
+        "player_1_sample": null,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Fita Boluda A.",
+        "player_2_sample": 1
+      },
+      "model_details": null
+    },
+    {
       "pick_id": "12134526|first_set|under|10.5|clay_fav75_under_10_5",
       "event_key": 12134526,
       "date": "2026-06-08",
@@ -8113,6 +9770,53 @@
         "player_2_sample": 1
       },
       "model_details": null
+    },
+    {
+      "pick_id": "12134530|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134530,
+      "date": "2026-06-08",
+      "time": "15:00",
+      "match": "M. Lajal - P. Jubb",
+      "player_1": "M. Lajal",
+      "player_2": "P. Jubb",
+      "tournament": "Ilkley",
+      "tour_level": "challenger",
+      "gender": "men",
+      "surface": "grass",
+      "favorite": "M. Lajal",
+      "favorite_probability": 0.683781,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.99,
+      "bookmaker": "1xBet",
+      "model_probability": 0.56721,
+      "fair_odds": 1.763,
+      "edge": 0.1287,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "both_players_need_minimum_sample",
+        "one_player_needs_larger_sample"
+      ],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Lajal M.",
+        "player_1_sample": 4,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Jubb P.",
+        "player_2_sample": 5
+      },
+      "model_details": {
+        "strategy_base_probability": 0.5853,
+        "player_component_probability": 0.525,
+        "profile_probabilities": [
+          0.25,
+          0.8
+        ]
+      }
     },
     {
       "pick_id": "12134530|first_set|under|10.5|clay_fav75_under_10_5",
@@ -8355,6 +10059,47 @@
       }
     },
     {
+      "pick_id": "12134536|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134536,
+      "date": "2026-06-08",
+      "time": "15:00",
+      "match": "S. Heredia - J. Cundom",
+      "player_1": "S. Heredia",
+      "player_2": "J. Cundom",
+      "tournament": "San Miguel de Tucuman",
+      "tour_level": "challenger",
+      "gender": "men",
+      "surface": "clay",
+      "favorite": "S. Heredia",
+      "favorite_probability": 0.612613,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.55,
+      "bookmaker": "1xBet",
+      "model_probability": null,
+      "fair_odds": null,
+      "edge": null,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "player_1_profile_missing",
+        "player_2_profile_missing",
+        "odds_below_strategy_threshold"
+      ],
+      "profile_matches": {
+        "player_1_status": "not_found",
+        "player_1_profile_name": null,
+        "player_1_sample": null,
+        "player_2_status": "not_found",
+        "player_2_profile_name": null,
+        "player_2_sample": null
+      },
+      "model_details": null
+    },
+    {
       "pick_id": "12134536|first_set|under|10.5|clay_fav75_under_10_5",
       "event_key": 12134536,
       "date": "2026-06-08",
@@ -8545,6 +10290,47 @@
         "surface_mismatch",
         "player_1_profile_missing",
         "player_2_profile_missing"
+      ],
+      "profile_matches": {
+        "player_1_status": "not_found",
+        "player_1_profile_name": null,
+        "player_1_sample": null,
+        "player_2_status": "not_found",
+        "player_2_profile_name": null,
+        "player_2_sample": null
+      },
+      "model_details": null
+    },
+    {
+      "pick_id": "12134537|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134537,
+      "date": "2026-06-08",
+      "time": "15:00",
+      "match": "M. Del Pino - A. Huertas Del Pino Cordova",
+      "player_1": "M. Del Pino",
+      "player_2": "A. Huertas Del Pino Cordova",
+      "tournament": "San Miguel de Tucuman",
+      "tour_level": "challenger",
+      "gender": "men",
+      "surface": "clay",
+      "favorite": "A. Huertas Del Pino Cordova",
+      "favorite_probability": 0.60078,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.72,
+      "bookmaker": "1xBet",
+      "model_probability": null,
+      "fair_odds": null,
+      "edge": null,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "player_1_profile_missing",
+        "player_2_profile_missing",
+        "odds_below_strategy_threshold"
       ],
       "profile_matches": {
         "player_1_status": "not_found",
@@ -8757,6 +10543,52 @@
         "player_2_sample": null
       },
       "model_details": null
+    },
+    {
+      "pick_id": "12134538|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134538,
+      "date": "2026-06-08",
+      "time": "16:00",
+      "match": "G. Onclin - F. Marozsan",
+      "player_1": "G. Onclin",
+      "player_2": "F. Marozsan",
+      "tournament": "Stuttgart",
+      "tour_level": "atp",
+      "gender": "men",
+      "surface": "grass",
+      "favorite": "F. Marozsan",
+      "favorite_probability": 0.603034,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 2.22,
+      "bookmaker": "Betano",
+      "model_probability": 0.634328,
+      "fair_odds": 1.576,
+      "edge": 0.4082,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "both_players_need_minimum_sample"
+      ],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Onclin G.",
+        "player_1_sample": 1,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Marozsan F.",
+        "player_2_sample": 94
+      },
+      "model_details": {
+        "strategy_base_probability": 0.5853,
+        "player_component_probability": 0.7487,
+        "profile_probabilities": [
+          1.0,
+          0.4975
+        ]
+      }
     },
     {
       "pick_id": "12134538|first_set|under|10.5|clay_fav75_under_10_5",
@@ -8994,6 +10826,45 @@
       }
     },
     {
+      "pick_id": "12134545|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134545,
+      "date": "2026-06-08",
+      "time": "14:50",
+      "match": "R. Noguchi - K. Smith",
+      "player_1": "R. Noguchi",
+      "player_2": "K. Smith",
+      "tournament": "Ilkley",
+      "tour_level": "challenger",
+      "gender": "men",
+      "surface": "grass",
+      "favorite": "R. Noguchi",
+      "favorite_probability": 0.520325,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.85,
+      "bookmaker": "1xBet",
+      "model_probability": null,
+      "fair_odds": null,
+      "edge": null,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "player_1_profile_missing"
+      ],
+      "profile_matches": {
+        "player_1_status": "not_found",
+        "player_1_profile_name": null,
+        "player_1_sample": null,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Smith C.",
+        "player_2_sample": 10
+      },
+      "model_details": null
+    },
+    {
       "pick_id": "12134545|first_set|under|10.5|clay_fav75_under_10_5",
       "event_key": 12134545,
       "date": "2026-06-08",
@@ -9193,6 +11064,46 @@
       "model_details": null
     },
     {
+      "pick_id": "12134547|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134547,
+      "date": "2026-06-08",
+      "time": "14:40",
+      "match": "A. Santillan - A. Shelbayh",
+      "player_1": "A. Santillan",
+      "player_2": "A. Shelbayh",
+      "tournament": "Bratislava",
+      "tour_level": "challenger",
+      "gender": "men",
+      "surface": "clay",
+      "favorite": "A. Shelbayh",
+      "favorite_probability": 0.5953,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.7,
+      "bookmaker": "1xBet",
+      "model_probability": null,
+      "fair_odds": null,
+      "edge": null,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "player_1_profile_missing",
+        "odds_below_strategy_threshold"
+      ],
+      "profile_matches": {
+        "player_1_status": "not_found",
+        "player_1_profile_name": null,
+        "player_1_sample": null,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Shelbayh A.",
+        "player_2_sample": 1
+      },
+      "model_details": null
+    },
+    {
       "pick_id": "12134547|first_set|under|10.5|clay_fav75_under_10_5",
       "event_key": 12134547,
       "date": "2026-06-08",
@@ -9387,6 +11298,55 @@
         "player_2_sample": 1
       },
       "model_details": null
+    },
+    {
+      "pick_id": "12134550|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134550,
+      "date": "2026-06-08",
+      "time": "16:00",
+      "match": "I. Shymanovich - C. Ngounoue",
+      "player_1": "I. Shymanovich",
+      "player_2": "C. Ngounoue",
+      "tournament": "Ilkley",
+      "tour_level": "challenger",
+      "gender": "women",
+      "surface": "grass",
+      "favorite": "C. Ngounoue",
+      "favorite_probability": 0.572559,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.7,
+      "bookmaker": "BetVictor",
+      "model_probability": 0.60471,
+      "fair_odds": 1.654,
+      "edge": 0.028,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "odds_below_strategy_threshold",
+        "both_players_need_minimum_sample",
+        "one_player_needs_larger_sample",
+        "edge_below_threshold"
+      ],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Shymanovich I.",
+        "player_1_sample": 6,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Ngounoue C.",
+        "player_2_sample": 5
+      },
+      "model_details": {
+        "strategy_base_probability": 0.5853,
+        "player_component_probability": 0.65,
+        "profile_probabilities": [
+          0.5,
+          0.8
+        ]
+      }
     },
     {
       "pick_id": "12134550|first_set|under|10.5|clay_fav75_under_10_5",
@@ -9627,6 +11587,54 @@
         "player_component_probability": 0.1666,
         "profile_probabilities": [
           0.3333,
+          0.0
+        ]
+      }
+    },
+    {
+      "pick_id": "12134551|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134551,
+      "date": "2026-06-08",
+      "time": "14:30",
+      "match": "C. Naef - M. Kobori",
+      "player_1": "C. Naef",
+      "player_2": "M. Kobori",
+      "tournament": "Ilkley",
+      "tour_level": "challenger",
+      "gender": "women",
+      "surface": "grass",
+      "favorite": "C. Naef",
+      "favorite_probability": 0.830816,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.57,
+      "bookmaker": "BetVictor",
+      "model_probability": 0.40971,
+      "fair_odds": 2.441,
+      "edge": -0.3568,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "odds_below_strategy_threshold",
+        "both_players_need_minimum_sample",
+        "one_player_needs_larger_sample",
+        "edge_below_threshold"
+      ],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Naef C.",
+        "player_1_sample": 2,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Kobori M.",
+        "player_2_sample": 1
+      },
+      "model_details": {
+        "strategy_base_probability": 0.5853,
+        "player_component_probability": 0.0,
+        "profile_probabilities": [
+          0.0,
           0.0
         ]
       }
@@ -9876,6 +11884,49 @@
       }
     },
     {
+      "pick_id": "12134566|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134566,
+      "date": "2026-06-08",
+      "time": "16:00",
+      "match": "U. Humbert - E. Ymer",
+      "player_1": "U. Humbert",
+      "player_2": "E. Ymer",
+      "tournament": "Hertogenbosch",
+      "tour_level": "atp",
+      "gender": "men",
+      "surface": "grass",
+      "favorite": "U. Humbert",
+      "favorite_probability": 0.789474,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 2.25,
+      "bookmaker": "Betfair",
+      "model_probability": 0.60074,
+      "fair_odds": 1.665,
+      "edge": 0.3517,
+      "confidence": "medium",
+      "decision": "SHADOW_BET",
+      "reasons": [],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Humbert U.",
+        "player_1_sample": 96,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Ymer E.",
+        "player_2_sample": 12
+      },
+      "model_details": {
+        "strategy_base_probability": 0.5853,
+        "player_component_probability": 0.6368,
+        "profile_probabilities": [
+          0.5128,
+          0.7607
+        ]
+      }
+    },
+    {
       "pick_id": "12134566|first_set|under|10.5|clay_fav75_under_10_5",
       "event_key": 12134566,
       "date": "2026-06-08",
@@ -10106,6 +12157,47 @@
       }
     },
     {
+      "pick_id": "12134568|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134568,
+      "date": "2026-06-08",
+      "time": "14:40",
+      "match": "H. Barton - N. Alvarez Varona",
+      "player_1": "H. Barton",
+      "player_2": "N. Alvarez Varona",
+      "tournament": "Bratislava",
+      "tour_level": "challenger",
+      "gender": "men",
+      "surface": "clay",
+      "favorite": "H. Barton",
+      "favorite_probability": 0.661017,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.77,
+      "bookmaker": "1xBet",
+      "model_probability": null,
+      "fair_odds": null,
+      "edge": null,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "player_1_profile_missing",
+        "player_2_profile_missing",
+        "odds_below_strategy_threshold"
+      ],
+      "profile_matches": {
+        "player_1_status": "not_found",
+        "player_1_profile_name": null,
+        "player_1_sample": null,
+        "player_2_status": "not_found",
+        "player_2_profile_name": null,
+        "player_2_sample": null
+      },
+      "model_details": null
+    },
+    {
       "pick_id": "12134568|first_set|under|10.5|clay_fav75_under_10_5",
       "event_key": 12134568,
       "date": "2026-06-08",
@@ -10306,6 +12398,54 @@
       "model_details": null
     },
     {
+      "pick_id": "12134585|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134585,
+      "date": "2026-06-08",
+      "time": "16:15",
+      "match": "N. Noha Akugue - T. Rakotomanga Rajaonah",
+      "player_1": "N. Noha Akugue",
+      "player_2": "T. Rakotomanga Rajaonah",
+      "tournament": "Modena (Italy) - Qualification",
+      "tour_level": "challenger",
+      "gender": "women",
+      "surface": "clay",
+      "favorite": "N. Noha Akugue",
+      "favorite_probability": 0.596401,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.62,
+      "bookmaker": "Betano",
+      "model_probability": 0.54862,
+      "fair_odds": 1.823,
+      "edge": -0.1112,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "odds_below_strategy_threshold",
+        "both_players_need_minimum_sample",
+        "edge_below_threshold"
+      ],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Noha Akugue N.",
+        "player_1_sample": 5,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Rakotomanga Rajaonah T.",
+        "player_2_sample": 17
+      },
+      "model_details": {
+        "strategy_base_probability": 0.5853,
+        "player_component_probability": 0.463,
+        "profile_probabilities": [
+          0.2,
+          0.7261
+        ]
+      }
+    },
+    {
       "pick_id": "12134585|first_set|under|10.5|clay_fav75_under_10_5",
       "event_key": 12134585,
       "date": "2026-06-08",
@@ -10334,7 +12474,6 @@
         "favorite_probability_below_strategy_threshold",
         "odds_below_strategy_threshold",
         "both_players_need_minimum_sample",
-        "one_player_needs_larger_sample",
         "edge_below_threshold"
       ],
       "profile_matches": {
@@ -10383,7 +12522,6 @@
         "favorite_probability_below_strategy_threshold",
         "odds_below_strategy_threshold",
         "both_players_need_minimum_sample",
-        "one_player_needs_larger_sample",
         "edge_below_threshold"
       ],
       "profile_matches": {
@@ -10430,8 +12568,7 @@
       "decision": "NO_BET",
       "reasons": [
         "gender_mismatch",
-        "both_players_need_minimum_sample",
-        "one_player_needs_larger_sample"
+        "both_players_need_minimum_sample"
       ],
       "profile_matches": {
         "player_1_status": "matched",
@@ -10479,7 +12616,6 @@
         "favorite_probability_below_strategy_threshold",
         "odds_below_strategy_threshold",
         "both_players_need_minimum_sample",
-        "one_player_needs_larger_sample",
         "edge_below_threshold"
       ],
       "profile_matches": {
@@ -10527,8 +12663,7 @@
       "reasons": [
         "surface_mismatch",
         "gender_mismatch",
-        "both_players_need_minimum_sample",
-        "one_player_needs_larger_sample"
+        "both_players_need_minimum_sample"
       ],
       "profile_matches": {
         "player_1_status": "matched",
@@ -10544,6 +12679,55 @@
         "profile_probabilities": [
           0.2,
           0.0924
+        ]
+      }
+    },
+    {
+      "pick_id": "12134586|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134586,
+      "date": "2026-06-08",
+      "time": "14:45",
+      "match": "K. Quevedo - J. Ortenzi",
+      "player_1": "K. Quevedo",
+      "player_2": "J. Ortenzi",
+      "tournament": "Modena (Italy) - Qualification",
+      "tour_level": "challenger",
+      "gender": "women",
+      "surface": "clay",
+      "favorite": "K. Quevedo",
+      "favorite_probability": 0.670588,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.57,
+      "bookmaker": "Betano",
+      "model_probability": 0.598275,
+      "fair_odds": 1.671,
+      "edge": -0.0607,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "odds_below_strategy_threshold",
+        "both_players_need_minimum_sample",
+        "one_player_needs_larger_sample",
+        "edge_below_threshold"
+      ],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Quevedo K.",
+        "player_1_sample": 7,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Ortenzi J.",
+        "player_2_sample": 5
+      },
+      "model_details": {
+        "strategy_base_probability": 0.5853,
+        "player_component_probability": 0.6285,
+        "profile_probabilities": [
+          0.8571,
+          0.4
         ]
       }
     },
@@ -10790,6 +12974,47 @@
       }
     },
     {
+      "pick_id": "12134587|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134587,
+      "date": "2026-06-08",
+      "time": "16:30",
+      "match": "N. Villalon - E. Monferrer",
+      "player_1": "N. Villalon",
+      "player_2": "E. Monferrer",
+      "tournament": "San Miguel de Tucuman",
+      "tour_level": "challenger",
+      "gender": "men",
+      "surface": "clay",
+      "favorite": "N. Villalon",
+      "favorite_probability": 0.613402,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.52,
+      "bookmaker": "1xBet",
+      "model_probability": null,
+      "fair_odds": null,
+      "edge": null,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "player_1_profile_missing",
+        "player_2_profile_missing",
+        "odds_below_strategy_threshold"
+      ],
+      "profile_matches": {
+        "player_1_status": "not_found",
+        "player_1_profile_name": null,
+        "player_1_sample": null,
+        "player_2_status": "not_found",
+        "player_2_profile_name": null,
+        "player_2_sample": null
+      },
+      "model_details": null
+    },
+    {
       "pick_id": "12134587|first_set|under|10.5|clay_fav75_under_10_5",
       "event_key": 12134587,
       "date": "2026-06-08",
@@ -10987,6 +13212,46 @@
         "player_2_status": "not_found",
         "player_2_profile_name": null,
         "player_2_sample": null
+      },
+      "model_details": null
+    },
+    {
+      "pick_id": "12134597|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12134597,
+      "date": "2026-06-08",
+      "time": "16:30",
+      "match": "S. Giamichelle - T. Cigarran",
+      "player_1": "S. Giamichelle",
+      "player_2": "T. Cigarran",
+      "tournament": "San Miguel de Tucuman",
+      "tour_level": "challenger",
+      "gender": "men",
+      "surface": "clay",
+      "favorite": "S. Giamichelle",
+      "favorite_probability": 0.552279,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.58,
+      "bookmaker": "1xBet",
+      "model_probability": null,
+      "fair_odds": null,
+      "edge": null,
+      "confidence": "medium",
+      "decision": "NO_BET",
+      "reasons": [
+        "favorite_probability_below_strategy_threshold",
+        "player_1_profile_missing",
+        "odds_below_strategy_threshold"
+      ],
+      "profile_matches": {
+        "player_1_status": "not_found",
+        "player_1_profile_name": null,
+        "player_1_sample": null,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Cigarran T.",
+        "player_2_sample": 1
       },
       "model_details": null
     },
