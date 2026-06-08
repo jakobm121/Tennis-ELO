@@ -1,0 +1,118 @@
+{
+  "generated_at": "2026-06-09T00:05:37.397747+02:00",
+  "source_odds_url": "https://raw.githubusercontent.com/jakobm121/Ai/refs/heads/main/data/tennis_odds_today.json",
+  "odds_generated_at": "2026-06-08T22:34:32.206078+02:00",
+  "ratings_generated_at": "2026-06-08T18:26:25.969816+02:00",
+  "model": "match_winner_elo_shadow_v1",
+  "settings": {
+    "min_player_matches": 10,
+    "min_model_probability": 0.55,
+    "min_probability_edge": 0.03,
+    "min_ev": 0.05,
+    "min_odds": 1.5,
+    "max_odds": 5.0,
+    "overall_weight": 0.6,
+    "surface_weight": 0.4,
+    "surface_confidence_matches": 20
+  },
+  "summary": {
+    "odds_matches": 2,
+    "ratings_players": 3783,
+    "evaluated_matches": 1,
+    "shadow_bets": 0,
+    "no_bets": 1,
+    "no_bet": 1,
+    "player_1_insufficient_history": 1,
+    "player_2_insufficient_history": 1,
+    "ineligible_status": 1
+  },
+  "shadow_picks": [],
+  "all_evaluated": [
+    {
+      "pick_id": "12134536|match_winner|player_2",
+      "event_key": 12134536,
+      "date": "2026-06-08",
+      "time": "22:35",
+      "match": "S. Heredia - J. Cundom",
+      "player_1": "S. Heredia",
+      "player_2": "J. Cundom",
+      "tournament": "San Miguel de Tucuman",
+      "tournament_key": 10890,
+      "round": "San Miguel de Tucuman - Final",
+      "gender": "men",
+      "tour_level": "challenger",
+      "surface": "clay",
+      "market": "match_winner",
+      "pick_side": "player_2",
+      "pick_player": "J. Cundom",
+      "odds": 2.5,
+      "bookmaker": "Betfair",
+      "median_odds": 2.36,
+      "bookmakers_count": 10,
+      "model_probability": 0.551119,
+      "bookmaker_probability": 0.393316,
+      "probability_edge": 0.157803,
+      "fair_odds": 1.814,
+      "ev": 0.377797,
+      "decision": "NO_BET",
+      "confidence": "high",
+      "reasons": [
+        "player_1_insufficient_history",
+        "player_2_insufficient_history"
+      ],
+      "player_1_market": {
+        "pick_side": "player_1",
+        "pick_player": "S. Heredia",
+        "odds": 1.57,
+        "bookmaker": "Pncl",
+        "median_odds": 1.53,
+        "bookmakers_count": 10,
+        "model_probability": 0.448881,
+        "bookmaker_probability": 0.606684,
+        "probability_edge": -0.157803,
+        "fair_odds": 2.228,
+        "ev": -0.295257,
+        "reasons": [
+          "model_probability_below_threshold",
+          "probability_edge_below_threshold",
+          "ev_below_threshold"
+        ]
+      },
+      "player_2_market": {
+        "pick_side": "player_2",
+        "pick_player": "J. Cundom",
+        "odds": 2.5,
+        "bookmaker": "Betfair",
+        "median_odds": 2.36,
+        "bookmakers_count": 10,
+        "model_probability": 0.551119,
+        "bookmaker_probability": 0.393316,
+        "probability_edge": 0.157803,
+        "fair_odds": 1.814,
+        "ev": 0.377797,
+        "reasons": []
+      },
+      "rating_matches": {
+        "player_1_status": "matched",
+        "player_1_rating_name": "Heredia S.",
+        "player_1_matches": 6,
+        "player_2_status": "matched",
+        "player_2_rating_name": "Cundom J.",
+        "player_2_matches": 2
+      },
+      "elo_details": {
+        "player_1_overall_elo": 1462.127,
+        "player_2_overall_elo": 1498.461,
+        "player_1_surface_elo": 1479.999,
+        "player_2_surface_elo": 1499.192,
+        "player_1_surface_matches": 2,
+        "player_2_surface_matches": 2,
+        "overall_p1_probability": 0.447901,
+        "surface_p1_probability": 0.472407,
+        "blended_p1_probability": 0.448881,
+        "effective_overall_weight": 0.96,
+        "effective_surface_weight": 0.04
+      }
+    }
+  ]
+}

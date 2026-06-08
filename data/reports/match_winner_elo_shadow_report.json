@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-06-09T00:05:37.397769+02:00",
+  "summary": {
+    "odds_matches": 2,
+    "ratings_players": 3783,
+    "evaluated_matches": 1,
+    "shadow_bets": 0,
+    "no_bets": 1,
+    "no_bet": 1,
+    "player_1_insufficient_history": 1,
+    "player_2_insufficient_history": 1,
+    "ineligible_status": 1
+  },
+  "settings": {
+    "min_player_matches": 10,
+    "min_model_probability": 0.55,
+    "min_probability_edge": 0.03,
+    "min_ev": 0.05,
+    "min_odds": 1.5,
+    "max_odds": 5.0,
+    "overall_weight": 0.6,
+    "surface_weight": 0.4,
+    "surface_confidence_matches": 20
+  },
+  "top_shadow_picks": []
+}
