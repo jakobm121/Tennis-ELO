@@ -1,0 +1,1103 @@
+{
+  "generated_at": "2026-06-08T13:55:35.313067+02:00",
+  "model": "all_first_set_totals_segment_backtest_v1",
+  "settings": {
+    "validation_start": "2026-03-01",
+    "lines": [
+      8.5,
+      9.5,
+      10.5,
+      11.5
+    ],
+    "min_discovery_sample": 100,
+    "min_validation_sample": 40,
+    "max_stability_gap": 0.1
+  },
+  "counts": {
+    "all_valid_matches": 9817,
+    "discovery_matches": 8356,
+    "validation_matches": 1461,
+    "segments_tested": 34,
+    "market_segment_tests": 272,
+    "eligible_segments": 214
+  },
+  "best_by_market": {
+    "first_set_under_10.5": {
+      "market": "first_set_under_10.5",
+      "side": "under",
+      "line": 10.5,
+      "segment_id": "surface:clay|favorite_ge:0.75",
+      "segment_label": "clay, favorite >= 0.75",
+      "segment_filters": {
+        "surface": "clay",
+        "favorite_probability_ge": 0.75
+      },
+      "eligible": true,
+      "discovery": {
+        "sample_size": 410,
+        "hits": 323,
+        "hit_rate": 0.7878,
+        "fair_odds": 1.269,
+        "wilson_low": 0.7457,
+        "wilson_high": 0.8246,
+        "avg_first_set_games": 9.351
+      },
+      "validation": {
+        "sample_size": 292,
+        "hits": 239,
+        "hit_rate": 0.8185,
+        "fair_odds": 1.222,
+        "wilson_low": 0.7702,
+        "wilson_high": 0.8585,
+        "avg_first_set_games": 9.243
+      },
+      "stability_gap": 0.0307,
+      "validation_baseline_hit_rate": 0.7577,
+      "validation_lift": 0.0608
+    },
+    "first_set_under_11.5": {
+      "market": "first_set_under_11.5",
+      "side": "under",
+      "line": 11.5,
+      "segment_id": "surface:clay|favorite_ge:0.75",
+      "segment_label": "clay, favorite >= 0.75",
+      "segment_filters": {
+        "surface": "clay",
+        "favorite_probability_ge": 0.75
+      },
+      "eligible": true,
+      "discovery": {
+        "sample_size": 410,
+        "hits": 323,
+        "hit_rate": 0.7878,
+        "fair_odds": 1.269,
+        "wilson_low": 0.7457,
+        "wilson_high": 0.8246,
+        "avg_first_set_games": 9.351
+      },
+      "validation": {
+        "sample_size": 292,
+        "hits": 239,
+        "hit_rate": 0.8185,
+        "fair_odds": 1.222,
+        "wilson_low": 0.7702,
+        "wilson_high": 0.8585,
+        "avg_first_set_games": 9.243
+      },
+      "stability_gap": 0.0307,
+      "validation_baseline_hit_rate": 0.7577,
+      "validation_lift": 0.0608
+    },
+    "first_set_over_8.5": {
+      "market": "first_set_over_8.5",
+      "side": "over",
+      "line": 8.5,
+      "segment_id": "gender:men",
+      "segment_label": "men",
+      "segment_filters": {
+        "gender": "men"
+      },
+      "eligible": true,
+      "discovery": {
+        "sample_size": 4277,
+        "hits": 3401,
+        "hit_rate": 0.7952,
+        "fair_odds": 1.258,
+        "wilson_low": 0.7828,
+        "wilson_high": 0.807,
+        "avg_first_set_games": 10.097
+      },
+      "validation": {
+        "sample_size": 741,
+        "hits": 559,
+        "hit_rate": 0.7544,
+        "fair_odds": 1.326,
+        "wilson_low": 0.7221,
+        "wilson_high": 0.784,
+        "avg_first_set_games": 9.866
+      },
+      "stability_gap": 0.0408,
+      "validation_baseline_hit_rate": 0.7105,
+      "validation_lift": 0.0439
+    },
+    "first_set_under_9.5": {
+      "market": "first_set_under_9.5",
+      "side": "under",
+      "line": 9.5,
+      "segment_id": "surface:clay|favorite_ge:0.85",
+      "segment_label": "clay, favorite >= 0.85",
+      "segment_filters": {
+        "surface": "clay",
+        "favorite_probability_ge": 0.85
+      },
+      "eligible": true,
+      "discovery": {
+        "sample_size": 142,
+        "hits": 101,
+        "hit_rate": 0.7113,
+        "fair_odds": 1.406,
+        "wilson_low": 0.6319,
+        "wilson_high": 0.7795,
+        "avg_first_set_games": 8.951
+      },
+      "validation": {
+        "sample_size": 119,
+        "hits": 78,
+        "hit_rate": 0.6555,
+        "fair_odds": 1.526,
+        "wilson_low": 0.5664,
+        "wilson_high": 0.7348,
+        "avg_first_set_games": 9.067
+      },
+      "stability_gap": 0.0558,
+      "validation_baseline_hit_rate": 0.5284,
+      "validation_lift": 0.1271
+    },
+    "first_set_over_9.5": {
+      "market": "first_set_over_9.5",
+      "side": "over",
+      "line": 9.5,
+      "segment_id": "gender:men",
+      "segment_label": "men",
+      "segment_filters": {
+        "gender": "men"
+      },
+      "eligible": true,
+      "discovery": {
+        "sample_size": 4277,
+        "hits": 2425,
+        "hit_rate": 0.567,
+        "fair_odds": 1.764,
+        "wilson_low": 0.5521,
+        "wilson_high": 0.5818,
+        "avg_first_set_games": 10.097
+      },
+      "validation": {
+        "sample_size": 741,
+        "hits": 375,
+        "hit_rate": 0.5061,
+        "fair_odds": 1.976,
+        "wilson_low": 0.4701,
+        "wilson_high": 0.5419,
+        "avg_first_set_games": 9.866
+      },
+      "stability_gap": 0.0609,
+      "validation_baseline_hit_rate": 0.4716,
+      "validation_lift": 0.0345
+    },
+    "first_set_under_8.5": {
+      "market": "first_set_under_8.5",
+      "side": "under",
+      "line": 8.5,
+      "segment_id": "surface:clay|favorite_ge:0.85",
+      "segment_label": "clay, favorite >= 0.85",
+      "segment_filters": {
+        "surface": "clay",
+        "favorite_probability_ge": 0.85
+      },
+      "eligible": true,
+      "discovery": {
+        "sample_size": 142,
+        "hits": 62,
+        "hit_rate": 0.4366,
+        "fair_odds": 2.29,
+        "wilson_low": 0.3578,
+        "wilson_high": 0.5188,
+        "avg_first_set_games": 8.951
+      },
+      "validation": {
+        "sample_size": 119,
+        "hits": 50,
+        "hit_rate": 0.4202,
+        "fair_odds": 2.38,
+        "wilson_low": 0.3353,
+        "wilson_high": 0.51,
+        "avg_first_set_games": 9.067
+      },
+      "stability_gap": 0.0164,
+      "validation_baseline_hit_rate": 0.2895,
+      "validation_lift": 0.1307
+    },
+    "first_set_over_10.5": {
+      "market": "first_set_over_10.5",
+      "side": "over",
+      "line": 10.5,
+      "segment_id": "gender:men|surface:hard",
+      "segment_label": "men, hard",
+      "segment_filters": {
+        "gender": "men",
+        "surface": "hard"
+      },
+      "eligible": true,
+      "discovery": {
+        "sample_size": 2730,
+        "hits": 869,
+        "hit_rate": 0.3183,
+        "fair_odds": 3.142,
+        "wilson_low": 0.3011,
+        "wilson_high": 0.336,
+        "avg_first_set_games": 10.148
+      },
+      "validation": {
+        "sample_size": 187,
+        "hits": 62,
+        "hit_rate": 0.3316,
+        "fair_odds": 3.016,
+        "wilson_low": 0.2681,
+        "wilson_high": 0.4018,
+        "avg_first_set_games": 10.059
+      },
+      "stability_gap": 0.0133,
+      "validation_baseline_hit_rate": 0.2423,
+      "validation_lift": 0.0893
+    },
+    "first_set_over_11.5": {
+      "market": "first_set_over_11.5",
+      "side": "over",
+      "line": 11.5,
+      "segment_id": "gender:men|surface:hard",
+      "segment_label": "men, hard",
+      "segment_filters": {
+        "gender": "men",
+        "surface": "hard"
+      },
+      "eligible": true,
+      "discovery": {
+        "sample_size": 2730,
+        "hits": 869,
+        "hit_rate": 0.3183,
+        "fair_odds": 3.142,
+        "wilson_low": 0.3011,
+        "wilson_high": 0.336,
+        "avg_first_set_games": 10.148
+      },
+      "validation": {
+        "sample_size": 187,
+        "hits": 62,
+        "hit_rate": 0.3316,
+        "fair_odds": 3.016,
+        "wilson_low": 0.2681,
+        "wilson_high": 0.4018,
+        "avg_first_set_games": 10.059
+      },
+      "stability_gap": 0.0133,
+      "validation_baseline_hit_rate": 0.2423,
+      "validation_lift": 0.0893
+    }
+  },
+  "top_25_segments": [
+    {
+      "market": "first_set_under_10.5",
+      "side": "under",
+      "line": 10.5,
+      "segment_id": "surface:clay|favorite_ge:0.75",
+      "segment_label": "clay, favorite >= 0.75",
+      "segment_filters": {
+        "surface": "clay",
+        "favorite_probability_ge": 0.75
+      },
+      "eligible": true,
+      "discovery": {
+        "sample_size": 410,
+        "hits": 323,
+        "hit_rate": 0.7878,
+        "fair_odds": 1.269,
+        "wilson_low": 0.7457,
+        "wilson_high": 0.8246,
+        "avg_first_set_games": 9.351
+      },
+      "validation": {
+        "sample_size": 292,
+        "hits": 239,
+        "hit_rate": 0.8185,
+        "fair_odds": 1.222,
+        "wilson_low": 0.7702,
+        "wilson_high": 0.8585,
+        "avg_first_set_games": 9.243
+      },
+      "stability_gap": 0.0307,
+      "validation_baseline_hit_rate": 0.7577,
+      "validation_lift": 0.0608
+    },
+    {
+      "market": "first_set_under_11.5",
+      "side": "under",
+      "line": 11.5,
+      "segment_id": "surface:clay|favorite_ge:0.75",
+      "segment_label": "clay, favorite >= 0.75",
+      "segment_filters": {
+        "surface": "clay",
+        "favorite_probability_ge": 0.75
+      },
+      "eligible": true,
+      "discovery": {
+        "sample_size": 410,
+        "hits": 323,
+        "hit_rate": 0.7878,
+        "fair_odds": 1.269,
+        "wilson_low": 0.7457,
+        "wilson_high": 0.8246,
+        "avg_first_set_games": 9.351
+      },
+      "validation": {
+        "sample_size": 292,
+        "hits": 239,
+        "hit_rate": 0.8185,
+        "fair_odds": 1.222,
+        "wilson_low": 0.7702,
+        "wilson_high": 0.8585,
+        "avg_first_set_games": 9.243
+      },
+      "stability_gap": 0.0307,
+      "validation_baseline_hit_rate": 0.7577,
+      "validation_lift": 0.0608
+    },
+    {
+      "market": "first_set_under_10.5",
+      "side": "under",
+      "line": 10.5,
+      "segment_id": "favorite_ge:0.75",
+      "segment_label": "Favorite >= 0.75",
+      "segment_filters": {
+        "favorite_probability_ge": 0.75
+      },
+      "eligible": true,
+      "discovery": {
+        "sample_size": 2145,
+        "hits": 1636,
+        "hit_rate": 0.7627,
+        "fair_odds": 1.311,
+        "wilson_low": 0.7442,
+        "wilson_high": 0.7802,
+        "avg_first_set_games": 9.514
+      },
+      "validation": {
+        "sample_size": 396,
+        "hits": 319,
+        "hit_rate": 0.8056,
+        "fair_odds": 1.241,
+        "wilson_low": 0.7637,
+        "wilson_high": 0.8415,
+        "avg_first_set_games": 9.321
+      },
+      "stability_gap": 0.0429,
+      "validation_baseline_hit_rate": 0.7577,
+      "validation_lift": 0.0479
+    },
+    {
+      "market": "first_set_under_11.5",
+      "side": "under",
+      "line": 11.5,
+      "segment_id": "favorite_ge:0.75",
+      "segment_label": "Favorite >= 0.75",
+      "segment_filters": {
+        "favorite_probability_ge": 0.75
+      },
+      "eligible": true,
+      "discovery": {
+        "sample_size": 2145,
+        "hits": 1636,
+        "hit_rate": 0.7627,
+        "fair_odds": 1.311,
+        "wilson_low": 0.7442,
+        "wilson_high": 0.7802,
+        "avg_first_set_games": 9.514
+      },
+      "validation": {
+        "sample_size": 396,
+        "hits": 319,
+        "hit_rate": 0.8056,
+        "fair_odds": 1.241,
+        "wilson_low": 0.7637,
+        "wilson_high": 0.8415,
+        "avg_first_set_games": 9.321
+      },
+      "stability_gap": 0.0429,
+      "validation_baseline_hit_rate": 0.7577,
+      "validation_lift": 0.0479
+    },
+    {
+      "market": "first_set_under_10.5",
+      "side": "under",
+      "line": 10.5,
+      "segment_id": "gender:women|favorite_ge:0.75",
+      "segment_label": "women, favorite >= 0.75",
+      "segment_filters": {
+        "gender": "women",
+        "favorite_probability_ge": 0.75
+      },
+      "eligible": true,
+      "discovery": {
+        "sample_size": 1061,
+        "hits": 878,
+        "hit_rate": 0.8275,
+        "fair_odds": 1.208,
+        "wilson_low": 0.8036,
+        "wilson_high": 0.8491,
+        "avg_first_set_games": 9.077
+      },
+      "validation": {
+        "sample_size": 202,
+        "hits": 166,
+        "hit_rate": 0.8218,
+        "fair_odds": 1.217,
+        "wilson_low": 0.7632,
+        "wilson_high": 0.8684,
+        "avg_first_set_games": 9.168
+      },
+      "stability_gap": 0.0057,
+      "validation_baseline_hit_rate": 0.7577,
+      "validation_lift": 0.0641
+    },
+    {
+      "market": "first_set_under_11.5",
+      "side": "under",
+      "line": 11.5,
+      "segment_id": "gender:women|favorite_ge:0.75",
+      "segment_label": "women, favorite >= 0.75",
+      "segment_filters": {
+        "gender": "women",
+        "favorite_probability_ge": 0.75
+      },
+      "eligible": true,
+      "discovery": {
+        "sample_size": 1061,
+        "hits": 878,
+        "hit_rate": 0.8275,
+        "fair_odds": 1.208,
+        "wilson_low": 0.8036,
+        "wilson_high": 0.8491,
+        "avg_first_set_games": 9.077
+      },
+      "validation": {
+        "sample_size": 202,
+        "hits": 166,
+        "hit_rate": 0.8218,
+        "fair_odds": 1.217,
+        "wilson_low": 0.7632,
+        "wilson_high": 0.8684,
+        "avg_first_set_games": 9.168
+      },
+      "stability_gap": 0.0057,
+      "validation_baseline_hit_rate": 0.7577,
+      "validation_lift": 0.0641
+    },
+    {
+      "market": "first_set_under_10.5",
+      "side": "under",
+      "line": 10.5,
+      "segment_id": "gender:women|surface:clay",
+      "segment_label": "women, clay",
+      "segment_filters": {
+        "gender": "women",
+        "surface": "clay"
+      },
+      "eligible": true,
+      "discovery": {
+        "sample_size": 669,
+        "hits": 527,
+        "hit_rate": 0.7877,
+        "fair_odds": 1.269,
+        "wilson_low": 0.7552,
+        "wilson_high": 0.817,
+        "avg_first_set_games": 9.348
+      },
+      "validation": {
+        "sample_size": 520,
+        "hits": 413,
+        "hit_rate": 0.7942,
+        "fair_odds": 1.259,
+        "wilson_low": 0.7574,
+        "wilson_high": 0.8268,
+        "avg_first_set_games": 9.365
+      },
+      "stability_gap": 0.0065,
+      "validation_baseline_hit_rate": 0.7577,
+      "validation_lift": 0.0365
+    },
+    {
+      "market": "first_set_under_11.5",
+      "side": "under",
+      "line": 11.5,
+      "segment_id": "gender:women|surface:clay",
+      "segment_label": "women, clay",
+      "segment_filters": {
+        "gender": "women",
+        "surface": "clay"
+      },
+      "eligible": true,
+      "discovery": {
+        "sample_size": 669,
+        "hits": 527,
+        "hit_rate": 0.7877,
+        "fair_odds": 1.269,
+        "wilson_low": 0.7552,
+        "wilson_high": 0.817,
+        "avg_first_set_games": 9.348
+      },
+      "validation": {
+        "sample_size": 520,
+        "hits": 413,
+        "hit_rate": 0.7942,
+        "fair_odds": 1.259,
+        "wilson_low": 0.7574,
+        "wilson_high": 0.8268,
+        "avg_first_set_games": 9.365
+      },
+      "stability_gap": 0.0065,
+      "validation_baseline_hit_rate": 0.7577,
+      "validation_lift": 0.0365
+    },
+    {
+      "market": "first_set_under_10.5",
+      "side": "under",
+      "line": 10.5,
+      "segment_id": "gender:women",
+      "segment_label": "women",
+      "segment_filters": {
+        "gender": "women"
+      },
+      "eligible": true,
+      "discovery": {
+        "sample_size": 4079,
+        "hits": 3226,
+        "hit_rate": 0.7909,
+        "fair_odds": 1.264,
+        "wilson_low": 0.7781,
+        "wilson_high": 0.8031,
+        "avg_first_set_games": 9.422
+      },
+      "validation": {
+        "sample_size": 709,
+        "hits": 558,
+        "hit_rate": 0.787,
+        "fair_odds": 1.271,
+        "wilson_low": 0.7554,
+        "wilson_high": 0.8156,
+        "avg_first_set_games": 9.413
+      },
+      "stability_gap": 0.0039,
+      "validation_baseline_hit_rate": 0.7577,
+      "validation_lift": 0.0293
+    },
+    {
+      "market": "first_set_under_11.5",
+      "side": "under",
+      "line": 11.5,
+      "segment_id": "gender:women",
+      "segment_label": "women",
+      "segment_filters": {
+        "gender": "women"
+      },
+      "eligible": true,
+      "discovery": {
+        "sample_size": 4079,
+        "hits": 3226,
+        "hit_rate": 0.7909,
+        "fair_odds": 1.264,
+        "wilson_low": 0.7781,
+        "wilson_high": 0.8031,
+        "avg_first_set_games": 9.422
+      },
+      "validation": {
+        "sample_size": 709,
+        "hits": 558,
+        "hit_rate": 0.787,
+        "fair_odds": 1.271,
+        "wilson_low": 0.7554,
+        "wilson_high": 0.8156,
+        "avg_first_set_games": 9.413
+      },
+      "stability_gap": 0.0039,
+      "validation_baseline_hit_rate": 0.7577,
+      "validation_lift": 0.0293
+    },
+    {
+      "market": "first_set_under_10.5",
+      "side": "under",
+      "line": 10.5,
+      "segment_id": "surface:clay|favorite_ge:0.85",
+      "segment_label": "clay, favorite >= 0.85",
+      "segment_filters": {
+        "surface": "clay",
+        "favorite_probability_ge": 0.85
+      },
+      "eligible": true,
+      "discovery": {
+        "sample_size": 142,
+        "hits": 120,
+        "hit_rate": 0.8451,
+        "fair_odds": 1.183,
+        "wilson_low": 0.7766,
+        "wilson_high": 0.8954,
+        "avg_first_set_games": 8.951
+      },
+      "validation": {
+        "sample_size": 119,
+        "hits": 99,
+        "hit_rate": 0.8319,
+        "fair_odds": 1.202,
+        "wilson_low": 0.7546,
+        "wilson_high": 0.8885,
+        "avg_first_set_games": 9.067
+      },
+      "stability_gap": 0.0132,
+      "validation_baseline_hit_rate": 0.7577,
+      "validation_lift": 0.0742
+    },
+    {
+      "market": "first_set_under_11.5",
+      "side": "under",
+      "line": 11.5,
+      "segment_id": "surface:clay|favorite_ge:0.85",
+      "segment_label": "clay, favorite >= 0.85",
+      "segment_filters": {
+        "surface": "clay",
+        "favorite_probability_ge": 0.85
+      },
+      "eligible": true,
+      "discovery": {
+        "sample_size": 142,
+        "hits": 120,
+        "hit_rate": 0.8451,
+        "fair_odds": 1.183,
+        "wilson_low": 0.7766,
+        "wilson_high": 0.8954,
+        "avg_first_set_games": 8.951
+      },
+      "validation": {
+        "sample_size": 119,
+        "hits": 99,
+        "hit_rate": 0.8319,
+        "fair_odds": 1.202,
+        "wilson_low": 0.7546,
+        "wilson_high": 0.8885,
+        "avg_first_set_games": 9.067
+      },
+      "stability_gap": 0.0132,
+      "validation_baseline_hit_rate": 0.7577,
+      "validation_lift": 0.0742
+    },
+    {
+      "market": "first_set_under_10.5",
+      "side": "under",
+      "line": 10.5,
+      "segment_id": "surface:clay|favorite_ge:0.80",
+      "segment_label": "clay, favorite >= 0.80",
+      "segment_filters": {
+        "surface": "clay",
+        "favorite_probability_ge": 0.8
+      },
+      "eligible": true,
+      "discovery": {
+        "sample_size": 257,
+        "hits": 209,
+        "hit_rate": 0.8132,
+        "fair_odds": 1.23,
+        "wilson_low": 0.7611,
+        "wilson_high": 0.8561,
+        "avg_first_set_games": 9.175
+      },
+      "validation": {
+        "sample_size": 176,
+        "hits": 143,
+        "hit_rate": 0.8125,
+        "fair_odds": 1.231,
+        "wilson_low": 0.7484,
+        "wilson_high": 0.8633,
+        "avg_first_set_games": 9.25
+      },
+      "stability_gap": 0.0007,
+      "validation_baseline_hit_rate": 0.7577,
+      "validation_lift": 0.0548
+    },
+    {
+      "market": "first_set_under_11.5",
+      "side": "under",
+      "line": 11.5,
+      "segment_id": "surface:clay|favorite_ge:0.80",
+      "segment_label": "clay, favorite >= 0.80",
+      "segment_filters": {
+        "surface": "clay",
+        "favorite_probability_ge": 0.8
+      },
+      "eligible": true,
+      "discovery": {
+        "sample_size": 257,
+        "hits": 209,
+        "hit_rate": 0.8132,
+        "fair_odds": 1.23,
+        "wilson_low": 0.7611,
+        "wilson_high": 0.8561,
+        "avg_first_set_games": 9.175
+      },
+      "validation": {
+        "sample_size": 176,
+        "hits": 143,
+        "hit_rate": 0.8125,
+        "fair_odds": 1.231,
+        "wilson_low": 0.7484,
+        "wilson_high": 0.8633,
+        "avg_first_set_games": 9.25
+      },
+      "stability_gap": 0.0007,
+      "validation_baseline_hit_rate": 0.7577,
+      "validation_lift": 0.0548
+    },
+    {
+      "market": "first_set_under_10.5",
+      "side": "under",
+      "line": 10.5,
+      "segment_id": "favorite_ge:0.80",
+      "segment_label": "Favorite >= 0.80",
+      "segment_filters": {
+        "favorite_probability_ge": 0.8
+      },
+      "eligible": true,
+      "discovery": {
+        "sample_size": 1322,
+        "hits": 1041,
+        "hit_rate": 0.7874,
+        "fair_odds": 1.27,
+        "wilson_low": 0.7646,
+        "wilson_high": 0.8086,
+        "avg_first_set_games": 9.369
+      },
+      "validation": {
+        "sample_size": 247,
+        "hits": 198,
+        "hit_rate": 0.8016,
+        "fair_odds": 1.247,
+        "wilson_low": 0.7474,
+        "wilson_high": 0.8466,
+        "avg_first_set_games": 9.312
+      },
+      "stability_gap": 0.0142,
+      "validation_baseline_hit_rate": 0.7577,
+      "validation_lift": 0.0439
+    },
+    {
+      "market": "first_set_under_11.5",
+      "side": "under",
+      "line": 11.5,
+      "segment_id": "favorite_ge:0.80",
+      "segment_label": "Favorite >= 0.80",
+      "segment_filters": {
+        "favorite_probability_ge": 0.8
+      },
+      "eligible": true,
+      "discovery": {
+        "sample_size": 1322,
+        "hits": 1041,
+        "hit_rate": 0.7874,
+        "fair_odds": 1.27,
+        "wilson_low": 0.7646,
+        "wilson_high": 0.8086,
+        "avg_first_set_games": 9.369
+      },
+      "validation": {
+        "sample_size": 247,
+        "hits": 198,
+        "hit_rate": 0.8016,
+        "fair_odds": 1.247,
+        "wilson_low": 0.7474,
+        "wilson_high": 0.8466,
+        "avg_first_set_games": 9.312
+      },
+      "stability_gap": 0.0142,
+      "validation_baseline_hit_rate": 0.7577,
+      "validation_lift": 0.0439
+    },
+    {
+      "market": "first_set_under_10.5",
+      "side": "under",
+      "line": 10.5,
+      "segment_id": "favorite_ge:0.85",
+      "segment_label": "Favorite >= 0.85",
+      "segment_filters": {
+        "favorite_probability_ge": 0.85
+      },
+      "eligible": true,
+      "discovery": {
+        "sample_size": 737,
+        "hits": 599,
+        "hit_rate": 0.8128,
+        "fair_odds": 1.23,
+        "wilson_low": 0.783,
+        "wilson_high": 0.8393,
+        "avg_first_set_games": 9.213
+      },
+      "validation": {
+        "sample_size": 161,
+        "hits": 131,
+        "hit_rate": 0.8137,
+        "fair_odds": 1.229,
+        "wilson_low": 0.7465,
+        "wilson_high": 0.8662,
+        "avg_first_set_games": 9.186
+      },
+      "stability_gap": 0.0009,
+      "validation_baseline_hit_rate": 0.7577,
+      "validation_lift": 0.056
+    },
+    {
+      "market": "first_set_under_11.5",
+      "side": "under",
+      "line": 11.5,
+      "segment_id": "favorite_ge:0.85",
+      "segment_label": "Favorite >= 0.85",
+      "segment_filters": {
+        "favorite_probability_ge": 0.85
+      },
+      "eligible": true,
+      "discovery": {
+        "sample_size": 737,
+        "hits": 599,
+        "hit_rate": 0.8128,
+        "fair_odds": 1.23,
+        "wilson_low": 0.783,
+        "wilson_high": 0.8393,
+        "avg_first_set_games": 9.213
+      },
+      "validation": {
+        "sample_size": 161,
+        "hits": 131,
+        "hit_rate": 0.8137,
+        "fair_odds": 1.229,
+        "wilson_low": 0.7465,
+        "wilson_high": 0.8662,
+        "avg_first_set_games": 9.186
+      },
+      "stability_gap": 0.0009,
+      "validation_baseline_hit_rate": 0.7577,
+      "validation_lift": 0.056
+    },
+    {
+      "market": "first_set_under_10.5",
+      "side": "under",
+      "line": 10.5,
+      "segment_id": "surface:clay",
+      "segment_label": "clay",
+      "segment_filters": {
+        "surface": "clay"
+      },
+      "eligible": true,
+      "discovery": {
+        "sample_size": 1618,
+        "hits": 1216,
+        "hit_rate": 0.7515,
+        "fair_odds": 1.331,
+        "wilson_low": 0.7299,
+        "wilson_high": 0.772,
+        "avg_first_set_games": 9.66
+      },
+      "validation": {
+        "sample_size": 1082,
+        "hits": 834,
+        "hit_rate": 0.7708,
+        "fair_odds": 1.297,
+        "wilson_low": 0.7448,
+        "wilson_high": 0.7949,
+        "avg_first_set_games": 9.591
+      },
+      "stability_gap": 0.0193,
+      "validation_baseline_hit_rate": 0.7577,
+      "validation_lift": 0.0131
+    },
+    {
+      "market": "first_set_under_11.5",
+      "side": "under",
+      "line": 11.5,
+      "segment_id": "surface:clay",
+      "segment_label": "clay",
+      "segment_filters": {
+        "surface": "clay"
+      },
+      "eligible": true,
+      "discovery": {
+        "sample_size": 1618,
+        "hits": 1216,
+        "hit_rate": 0.7515,
+        "fair_odds": 1.331,
+        "wilson_low": 0.7299,
+        "wilson_high": 0.772,
+        "avg_first_set_games": 9.66
+      },
+      "validation": {
+        "sample_size": 1082,
+        "hits": 834,
+        "hit_rate": 0.7708,
+        "fair_odds": 1.297,
+        "wilson_low": 0.7448,
+        "wilson_high": 0.7949,
+        "avg_first_set_games": 9.591
+      },
+      "stability_gap": 0.0193,
+      "validation_baseline_hit_rate": 0.7577,
+      "validation_lift": 0.0131
+    },
+    {
+      "market": "first_set_under_10.5",
+      "side": "under",
+      "line": 10.5,
+      "segment_id": "gender:men|favorite_ge:0.80",
+      "segment_label": "men, favorite >= 0.80",
+      "segment_filters": {
+        "gender": "men",
+        "favorite_probability_ge": 0.8
+      },
+      "eligible": true,
+      "discovery": {
+        "sample_size": 673,
+        "hits": 492,
+        "hit_rate": 0.7311,
+        "fair_odds": 1.368,
+        "wilson_low": 0.6963,
+        "wilson_high": 0.7632,
+        "avg_first_set_games": 9.771
+      },
+      "validation": {
+        "sample_size": 116,
+        "hits": 95,
+        "hit_rate": 0.819,
+        "fair_odds": 1.221,
+        "wilson_low": 0.739,
+        "wilson_high": 0.8784,
+        "avg_first_set_games": 9.319
+      },
+      "stability_gap": 0.0879,
+      "validation_baseline_hit_rate": 0.7577,
+      "validation_lift": 0.0613
+    },
+    {
+      "market": "first_set_under_11.5",
+      "side": "under",
+      "line": 11.5,
+      "segment_id": "gender:men|favorite_ge:0.80",
+      "segment_label": "men, favorite >= 0.80",
+      "segment_filters": {
+        "gender": "men",
+        "favorite_probability_ge": 0.8
+      },
+      "eligible": true,
+      "discovery": {
+        "sample_size": 673,
+        "hits": 492,
+        "hit_rate": 0.7311,
+        "fair_odds": 1.368,
+        "wilson_low": 0.6963,
+        "wilson_high": 0.7632,
+        "avg_first_set_games": 9.771
+      },
+      "validation": {
+        "sample_size": 116,
+        "hits": 95,
+        "hit_rate": 0.819,
+        "fair_odds": 1.221,
+        "wilson_low": 0.739,
+        "wilson_high": 0.8784,
+        "avg_first_set_games": 9.319
+      },
+      "stability_gap": 0.0879,
+      "validation_baseline_hit_rate": 0.7577,
+      "validation_lift": 0.0613
+    },
+    {
+      "market": "first_set_under_10.5",
+      "side": "under",
+      "line": 10.5,
+      "segment_id": "favorite_ge:0.70",
+      "segment_label": "Favorite >= 0.70",
+      "segment_filters": {
+        "favorite_probability_ge": 0.7
+      },
+      "eligible": true,
+      "discovery": {
+        "sample_size": 3365,
+        "hits": 2529,
+        "hit_rate": 0.7516,
+        "fair_odds": 1.331,
+        "wilson_low": 0.7367,
+        "wilson_high": 0.7659,
+        "avg_first_set_games": 9.625
+      },
+      "validation": {
+        "sample_size": 622,
+        "hits": 481,
+        "hit_rate": 0.7733,
+        "fair_odds": 1.293,
+        "wilson_low": 0.7388,
+        "wilson_high": 0.8045,
+        "avg_first_set_games": 9.519
+      },
+      "stability_gap": 0.0217,
+      "validation_baseline_hit_rate": 0.7577,
+      "validation_lift": 0.0156
+    },
+    {
+      "market": "first_set_under_11.5",
+      "side": "under",
+      "line": 11.5,
+      "segment_id": "favorite_ge:0.70",
+      "segment_label": "Favorite >= 0.70",
+      "segment_filters": {
+        "favorite_probability_ge": 0.7
+      },
+      "eligible": true,
+      "discovery": {
+        "sample_size": 3365,
+        "hits": 2529,
+        "hit_rate": 0.7516,
+        "fair_odds": 1.331,
+        "wilson_low": 0.7367,
+        "wilson_high": 0.7659,
+        "avg_first_set_games": 9.625
+      },
+      "validation": {
+        "sample_size": 622,
+        "hits": 481,
+        "hit_rate": 0.7733,
+        "fair_odds": 1.293,
+        "wilson_low": 0.7388,
+        "wilson_high": 0.8045,
+        "avg_first_set_games": 9.519
+      },
+      "stability_gap": 0.0217,
+      "validation_baseline_hit_rate": 0.7577,
+      "validation_lift": 0.0156
+    },
+    {
+      "market": "first_set_under_10.5",
+      "side": "under",
+      "line": 10.5,
+      "segment_id": "gender:men|favorite_ge:0.85",
+      "segment_label": "men, favorite >= 0.85",
+      "segment_filters": {
+        "gender": "men",
+        "favorite_probability_ge": 0.85
+      },
+      "eligible": true,
+      "discovery": {
+        "sample_size": 394,
+        "hits": 301,
+        "hit_rate": 0.764,
+        "fair_odds": 1.309,
+        "wilson_low": 0.7196,
+        "wilson_high": 0.8032,
+        "avg_first_set_games": 9.591
+      },
+      "validation": {
+        "sample_size": 74,
+        "hits": 62,
+        "hit_rate": 0.8378,
+        "fair_odds": 1.194,
+        "wilson_low": 0.7376,
+        "wilson_high": 0.9047,
+        "avg_first_set_games": 9.176
+      },
+      "stability_gap": 0.0738,
+      "validation_baseline_hit_rate": 0.7577,
+      "validation_lift": 0.0801
+    }
+  ]
+}
