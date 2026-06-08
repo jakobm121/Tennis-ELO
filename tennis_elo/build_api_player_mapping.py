@@ -89,15 +89,28 @@ def split_name(value: Any) -> tuple[list[str], list[str]]:
     if len(parts) == 1:
         return [], parts
 
-    first_is_initial = len(parts[0]) == 1
-    last_is_initial = len(parts[-1]) == 1
+    leading_initials = []
+    for part in parts:
+        if len(part) == 1:
+            leading_initials.append(part)
+        else:
+            break
 
-    if first_is_initial and not last_is_initial:
-        return [parts[0]], parts[1:]
+    trailing_initials = []
+    for part in reversed(parts):
+        if len(part) == 1:
+            trailing_initials.append(part)
+        else:
+            break
+    trailing_initials.reverse()
 
-    if last_is_initial and not first_is_initial:
-        return [parts[-1]], parts[:-1]
+    if leading_initials and len(leading_initials) < len(parts):
+        return leading_initials, parts[len(leading_initials):]
 
+    if trailing_initials and len(trailing_initials) < len(parts):
+        return trailing_initials, parts[:-len(trailing_initials)]
+
+    # Full names without initials are assumed to be "given surname...".
     return [parts[0]], parts[1:]
 
 
@@ -106,29 +119,52 @@ def surname(value: Any) -> str:
     return "".join(surname_parts)
 
 
-def initial(value: Any) -> str:
+def initials(value: Any) -> str:
     given_parts, _ = split_name(value)
-    return given_parts[0][:1] if given_parts else ""
+    return "".join(part[:1] for part in given_parts if part)
+
+
+def initial(value: Any) -> str:
+    value_initials = initials(value)
+    return value_initials[:1]
+
+
+def name_variants(value: Any) -> set[str]:
+    parts = tokens(value)
+    given_parts, surname_parts = split_name(value)
+
+    if not parts:
+        return set()
+
+    surname_text = "".join(surname_parts)
+    given_text = "".join(given_parts)
+    initials_text = "".join(part[:1] for part in given_parts if part)
+
+    variants = {
+        "".join(parts),
+        surname_text + given_text,
+        given_text + surname_text,
+        surname_text + initials_text,
+        initials_text + surname_text,
+    }
+
+    return {compact(item) for item in variants if item}
 
 
 def normalized_full_name(value: Any) -> str:
-    given_parts, surname_parts = split_name(value)
-
-    if not surname_parts:
-        return compact(value)
-
-    return "".join(surname_parts + given_parts)
+    variants = name_variants(value)
+    return max(variants, key=len) if variants else compact(value)
 
 
 def unique_key(
     surname_value: str,
-    initial_value: str,
+    initials_value: str,
     gender: str,
 ) -> str:
     return "|".join(
         (
             surname_value,
-            initial_value,
+            initials_value,
             gender or "unknown",
         )
     )
@@ -170,7 +206,7 @@ def load_mapping() -> dict[str, Any]:
         players = {}
 
     return {
-        "schema_version": 1,
+        "schema_version": 2,
         "generated_at": payload.get("generated_at"),
         "players": players,
     }
@@ -180,7 +216,8 @@ def build_rating_indexes(
     ratings: list[dict[str, Any]],
 ) -> dict[str, Any]:
     exact: dict[str, list[dict[str, Any]]] = defaultdict(list)
-    initial_surname: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    surname_initials: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    surname_first_initial: dict[str, list[dict[str, Any]]] = defaultdict(list)
     by_gender: dict[str, list[dict[str, Any]]] = defaultdict(list)
 
     for rating in ratings:
@@ -190,27 +227,37 @@ def build_rating_indexes(
             continue
 
         gender = rating_gender(rating)
-        exact[normalized_full_name(name)].append(rating)
-        initial_surname[
-            unique_key(
-                surname(name),
-                initial(name),
-                gender,
-            )
-        ].append(rating)
-        initial_surname[
-            unique_key(
-                surname(name),
-                initial(name),
-                "unknown",
-            )
-        ].append(rating)
+
+        for variant in name_variants(name):
+            exact[variant].append(rating)
+
+        full_initials = initials(name)
+        first_initial = full_initials[:1]
+        surname_value = surname(name)
+
+        for gender_key in {gender, "unknown"}:
+            surname_initials[
+                unique_key(
+                    surname_value,
+                    full_initials,
+                    gender_key,
+                )
+            ].append(rating)
+            surname_first_initial[
+                unique_key(
+                    surname_value,
+                    first_initial,
+                    gender_key,
+                )
+            ].append(rating)
+
         by_gender[gender].append(rating)
         by_gender["unknown"].append(rating)
 
     return {
         "exact": dict(exact),
-        "initial_surname": dict(initial_surname),
+        "surname_initials": dict(surname_initials),
+        "surname_first_initial": dict(surname_first_initial),
         "by_gender": dict(by_gender),
     }
 
@@ -274,6 +321,9 @@ def fuzzy_candidates(
     indexes: dict[str, Any],
 ) -> list[dict[str, Any]]:
     candidates = []
+    api_variants = name_variants(api_name)
+    api_surname = surname(api_name)
+    api_initials = initials(api_name)
 
     for rating in indexes["by_gender"].get(
         gender,
@@ -284,25 +334,37 @@ def fuzzy_candidates(
         if not elo_name:
             continue
 
+        elo_variants = name_variants(elo_name)
+        full_score = max(
+            (
+                SequenceMatcher(None, left, right).ratio()
+                for left in api_variants
+                for right in elo_variants
+            ),
+            default=0.0,
+        )
         surname_score = SequenceMatcher(
             None,
-            surname(api_name),
+            api_surname,
             surname(elo_name),
         ).ratio()
-        full_score = SequenceMatcher(
+        initials_score = SequenceMatcher(
             None,
-            normalized_full_name(api_name),
-            normalized_full_name(elo_name),
-        ).ratio()
+            api_initials,
+            initials(elo_name),
+        ).ratio() if api_initials else 0.0
 
         score = (
-            0.65 * surname_score
-            + 0.35 * full_score
+            0.60 * surname_score
+            + 0.30 * full_score
+            + 0.10 * initials_score
         )
 
-        if initial(api_name) and initial(elo_name):
-            if initial(api_name) == initial(elo_name):
+        if api_initials and initials(elo_name):
+            if api_initials == initials(elo_name):
                 score += 0.08
+            elif api_initials[:1] == initials(elo_name)[:1]:
+                score += 0.03
             else:
                 score -= 0.08
 
@@ -325,6 +387,40 @@ def fuzzy_candidates(
     return candidates[:5]
 
 
+def unique_candidates(
+    rows: list[dict[str, Any]],
+) -> list[dict[str, Any]]:
+    return list(
+        {
+            rating_name(row): row
+            for row in rows
+            if rating_name(row)
+        }.values()
+    )
+
+
+def confirmed_proposal(
+    rating: dict[str, Any],
+    method: str,
+    confidence: float,
+    auto_confirm: bool = True,
+) -> dict[str, Any]:
+    return {
+        "status": "confirmed" if auto_confirm else "manual_review",
+        "method": method,
+        "confidence": confidence,
+        "elo_player_name": rating_name(rating),
+        "elo_player_key": rating.get("player_key"),
+        "candidates": [
+            candidate_payload(
+                rating,
+                confidence,
+                method,
+            )
+        ],
+    }
+
+
 def propose_mapping(
     api_player: dict[str, Any],
     indexes: dict[str, Any],
@@ -332,84 +428,66 @@ def propose_mapping(
     api_name = api_player["api_name"]
     gender = api_player["gender"]
 
-    exact_candidates = indexes["exact"].get(
-        normalized_full_name(api_name),
-        [],
-    )
+    exact_rows = []
+    for variant in name_variants(api_name):
+        exact_rows.extend(indexes["exact"].get(variant, []))
+    exact_candidates = unique_candidates(exact_rows)
 
     if len(exact_candidates) == 1:
-        rating = exact_candidates[0]
-
-        return {
-            "status": (
-                "confirmed"
-                if AUTO_CONFIRM_EXACT
-                else "manual_review"
-            ),
-            "method": "exact_normalized_name",
-            "confidence": 1.0,
-            "elo_player_name": rating_name(rating),
-            "elo_player_key": rating.get("player_key"),
-            "candidates": [
-                candidate_payload(
-                    rating,
-                    1.0,
-                    "exact_normalized_name",
-                )
-            ],
-        }
-
-    initial_candidates = indexes[
-        "initial_surname"
-    ].get(
-        unique_key(
-            surname(api_name),
-            initial(api_name),
-            gender,
-        ),
-        [],
-    )
-
-    if not initial_candidates:
-        initial_candidates = indexes[
-            "initial_surname"
-        ].get(
-            unique_key(
-                surname(api_name),
-                initial(api_name),
-                "unknown",
-            ),
-            [],
+        return confirmed_proposal(
+            exact_candidates[0],
+            "exact_name_variant",
+            1.0,
+            AUTO_CONFIRM_EXACT,
         )
 
-    unique_initial_candidates = {
-        rating_name(candidate): candidate
-        for candidate in initial_candidates
-    }
+    full_initials = initials(api_name)
+    first_initial = full_initials[:1]
+    surname_value = surname(api_name)
 
-    if len(unique_initial_candidates) == 1:
-        rating = next(
-            iter(unique_initial_candidates.values())
+    full_initial_rows = []
+    for gender_key in (gender, "unknown"):
+        full_initial_rows.extend(
+            indexes["surname_initials"].get(
+                unique_key(
+                    surname_value,
+                    full_initials,
+                    gender_key,
+                ),
+                [],
+            )
+        )
+    full_initial_candidates = unique_candidates(full_initial_rows)
+
+    if full_initials and len(full_initial_candidates) == 1:
+        return confirmed_proposal(
+            full_initial_candidates[0],
+            "exact_compound_surname_all_initials",
+            0.99,
+            AUTO_CONFIRM_UNIQUE_INITIAL_SURNAME,
         )
 
-        return {
-            "status": (
-                "confirmed"
-                if AUTO_CONFIRM_UNIQUE_INITIAL_SURNAME
-                else "manual_review"
-            ),
-            "method": "unique_initial_surname",
-            "confidence": 0.96,
-            "elo_player_name": rating_name(rating),
-            "elo_player_key": rating.get("player_key"),
-            "candidates": [
-                candidate_payload(
-                    rating,
-                    0.96,
-                    "unique_initial_surname",
-                )
-            ],
-        }
+    first_initial_rows = []
+    for gender_key in (gender, "unknown"):
+        first_initial_rows.extend(
+            indexes["surname_first_initial"].get(
+                unique_key(
+                    surname_value,
+                    first_initial,
+                    gender_key,
+                ),
+                [],
+            )
+        )
+    first_initial_candidates = unique_candidates(first_initial_rows)
+
+    if first_initial and len(first_initial_candidates) == 1:
+        return confirmed_proposal(
+            first_initial_candidates[0],
+            "unique_compound_surname_first_initial",
+            0.96,
+            AUTO_CONFIRM_UNIQUE_INITIAL_SURNAME,
+        )
 
     candidates = fuzzy_candidates(
         api_name,
@@ -439,11 +517,7 @@ def propose_mapping(
     return {
         "status": "unmatched",
         "method": "no_safe_match",
-        "confidence": (
-            best["score"]
-            if best
-            else 0.0
-        ),
+        "confidence": best["score"] if best else 0.0,
         "elo_player_name": None,
         "elo_player_key": None,
         "candidates": candidates,
@@ -524,7 +598,7 @@ def main() -> None:
         changed += 1
 
     output = {
-        "schema_version": 1,
+        "schema_version": 2,
         "generated_at": now_iso(),
         "source_odds_url": ODDS_URL,
         "odds_generated_at": odds_payload.get(
@@ -573,7 +647,7 @@ def main() -> None:
     save_json(REPORT_FILE, report)
 
     print("")
-    print("API TENNIS PLAYER MAPPING DONE")
+    print("API TENNIS PLAYER MAPPING V2 DONE")
     print("SUMMARY:", report["summary"])
     print(
         "STATUS COUNTS TODAY:",
