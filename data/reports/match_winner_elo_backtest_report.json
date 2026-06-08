@@ -1,0 +1,727 @@
+{
+  "generated_at": "2026-06-08T23:47:57.755522+02:00",
+  "model": "match_winner_elo_walk_forward_v1",
+  "settings": {
+    "test_start": "2026-03-01",
+    "default_elo": 1500.0,
+    "overall_k_factor": 24.0,
+    "surface_k_factor": 20.0,
+    "min_player_matches": 10,
+    "blend_overall_weight": 0.6,
+    "blend_surface_weight": 0.4
+  },
+  "counts": {
+    "input_matches": 14983,
+    "test_predictions": 1180,
+    "players_final": 3783,
+    "insufficient_player_history": 2557
+  },
+  "best_model": "blended_elo",
+  "model_ranking": [
+    "blended_elo",
+    "overall_elo",
+    "surface_elo"
+  ],
+  "summary": {
+    "overall_elo": {
+      "sample_size": 1180,
+      "accuracy": 0.5636,
+      "brier_score": 0.241067,
+      "log_loss": 0.674707,
+      "avg_predicted_p1": 0.5038,
+      "actual_p1_win_rate": 0.5398,
+      "calibration": [
+        {
+          "bucket": "0.1-0.2",
+          "sample_size": 3,
+          "avg_predicted": 0.1841,
+          "actual_win_rate": 0.3333
+        },
+        {
+          "bucket": "0.2-0.3",
+          "sample_size": 37,
+          "avg_predicted": 0.2736,
+          "actual_win_rate": 0.3243
+        },
+        {
+          "bucket": "0.3-0.4",
+          "sample_size": 167,
+          "avg_predicted": 0.3601,
+          "actual_win_rate": 0.4431
+        },
+        {
+          "bucket": "0.4-0.5",
+          "sample_size": 351,
+          "avg_predicted": 0.4496,
+          "actual_win_rate": 0.5071
+        },
+        {
+          "bucket": "0.5-0.6",
+          "sample_size": 386,
+          "avg_predicted": 0.5477,
+          "actual_win_rate": 0.5389
+        },
+        {
+          "bucket": "0.6-0.7",
+          "sample_size": 201,
+          "avg_predicted": 0.6406,
+          "actual_win_rate": 0.6567
+        },
+        {
+          "bucket": "0.7-0.8",
+          "sample_size": 34,
+          "avg_predicted": 0.732,
+          "actual_win_rate": 0.9118
+        },
+        {
+          "bucket": "0.8-0.9",
+          "sample_size": 1,
+          "avg_predicted": 0.8069,
+          "actual_win_rate": 1
+        }
+      ]
+    },
+    "surface_elo": {
+      "sample_size": 1180,
+      "accuracy": 0.5593,
+      "brier_score": 0.243591,
+      "log_loss": 0.680192,
+      "avg_predicted_p1": 0.5019,
+      "actual_p1_win_rate": 0.5398,
+      "calibration": [
+        {
+          "bucket": "0.2-0.3",
+          "sample_size": 13,
+          "avg_predicted": 0.2809,
+          "actual_win_rate": 0.3846
+        },
+        {
+          "bucket": "0.3-0.4",
+          "sample_size": 114,
+          "avg_predicted": 0.3665,
+          "actual_win_rate": 0.3947
+        },
+        {
+          "bucket": "0.4-0.5",
+          "sample_size": 452,
+          "avg_predicted": 0.4579,
+          "actual_win_rate": 0.5044
+        },
+        {
+          "bucket": "0.5-0.6",
+          "sample_size": 454,
+          "avg_predicted": 0.5412,
+          "actual_win_rate": 0.5639
+        },
+        {
+          "bucket": "0.6-0.7",
+          "sample_size": 137,
+          "avg_predicted": 0.6341,
+          "actual_win_rate": 0.7007
+        },
+        {
+          "bucket": "0.7-0.8",
+          "sample_size": 10,
+          "avg_predicted": 0.7308,
+          "actual_win_rate": 0.7
+        }
+      ]
+    },
+    "blended_elo": {
+      "sample_size": 1180,
+      "accuracy": 0.5593,
+      "brier_score": 0.240472,
+      "log_loss": 0.673472,
+      "avg_predicted_p1": 0.5035,
+      "actual_p1_win_rate": 0.5398,
+      "calibration": [
+        {
+          "bucket": "0.1-0.2",
+          "sample_size": 2,
+          "avg_predicted": 0.1844,
+          "actual_win_rate": 0.5
+        },
+        {
+          "bucket": "0.2-0.3",
+          "sample_size": 30,
+          "avg_predicted": 0.2769,
+          "actual_win_rate": 0.2333
+        },
+        {
+          "bucket": "0.3-0.4",
+          "sample_size": 167,
+          "avg_predicted": 0.3628,
+          "actual_win_rate": 0.4431
+        },
+        {
+          "bucket": "0.4-0.5",
+          "sample_size": 368,
+          "avg_predicted": 0.4524,
+          "actual_win_rate": 0.5163
+        },
+        {
+          "bucket": "0.5-0.6",
+          "sample_size": 404,
+          "avg_predicted": 0.5496,
+          "actual_win_rate": 0.5347
+        },
+        {
+          "bucket": "0.6-0.7",
+          "sample_size": 180,
+          "avg_predicted": 0.64,
+          "actual_win_rate": 0.6778
+        },
+        {
+          "bucket": "0.7-0.8",
+          "sample_size": 29,
+          "avg_predicted": 0.7287,
+          "actual_win_rate": 0.931
+        }
+      ]
+    }
+  },
+  "by_surface": {
+    "clay": {
+      "overall_elo": {
+        "sample_size": 771,
+        "accuracy": 0.5772,
+        "brier_score": 0.238846,
+        "log_loss": 0.670177,
+        "avg_predicted_p1": 0.5023,
+        "actual_p1_win_rate": 0.5279,
+        "calibration": [
+          {
+            "bucket": "0.1-0.2",
+            "sample_size": 2,
+            "avg_predicted": 0.1862,
+            "actual_win_rate": 0.5
+          },
+          {
+            "bucket": "0.2-0.3",
+            "sample_size": 24,
+            "avg_predicted": 0.2732,
+            "actual_win_rate": 0.2917
+          },
+          {
+            "bucket": "0.3-0.4",
+            "sample_size": 110,
+            "avg_predicted": 0.3586,
+            "actual_win_rate": 0.4727
+          },
+          {
+            "bucket": "0.4-0.5",
+            "sample_size": 238,
+            "avg_predicted": 0.45,
+            "actual_win_rate": 0.4538
+          },
+          {
+            "bucket": "0.5-0.6",
+            "sample_size": 242,
+            "avg_predicted": 0.5474,
+            "actual_win_rate": 0.5331
+          },
+          {
+            "bucket": "0.6-0.7",
+            "sample_size": 133,
+            "avg_predicted": 0.6411,
+            "actual_win_rate": 0.6692
+          },
+          {
+            "bucket": "0.7-0.8",
+            "sample_size": 22,
+            "avg_predicted": 0.7296,
+            "actual_win_rate": 0.9545
+          }
+        ]
+      },
+      "surface_elo": {
+        "sample_size": 771,
+        "accuracy": 0.5837,
+        "brier_score": 0.241495,
+        "log_loss": 0.67593,
+        "avg_predicted_p1": 0.5014,
+        "actual_p1_win_rate": 0.5279,
+        "calibration": [
+          {
+            "bucket": "0.2-0.3",
+            "sample_size": 5,
+            "avg_predicted": 0.2786,
+            "actual_win_rate": 0.4
+          },
+          {
+            "bucket": "0.3-0.4",
+            "sample_size": 87,
+            "avg_predicted": 0.3652,
+            "actual_win_rate": 0.4138
+          },
+          {
+            "bucket": "0.4-0.5",
+            "sample_size": 297,
+            "avg_predicted": 0.4547,
+            "actual_win_rate": 0.4545
+          },
+          {
+            "bucket": "0.5-0.6",
+            "sample_size": 272,
+            "avg_predicted": 0.5441,
+            "actual_win_rate": 0.5699
+          },
+          {
+            "bucket": "0.6-0.7",
+            "sample_size": 104,
+            "avg_predicted": 0.6347,
+            "actual_win_rate": 0.7212
+          },
+          {
+            "bucket": "0.7-0.8",
+            "sample_size": 6,
+            "avg_predicted": 0.7312,
+            "actual_win_rate": 0.6667
+          }
+        ]
+      },
+      "blended_elo": {
+        "sample_size": 771,
+        "accuracy": 0.5785,
+        "brier_score": 0.238084,
+        "log_loss": 0.668576,
+        "avg_predicted_p1": 0.502,
+        "actual_p1_win_rate": 0.5279,
+        "calibration": [
+          {
+            "bucket": "0.1-0.2",
+            "sample_size": 1,
+            "avg_predicted": 0.1889,
+            "actual_win_rate": 1
+          },
+          {
+            "bucket": "0.2-0.3",
+            "sample_size": 19,
+            "avg_predicted": 0.2786,
+            "actual_win_rate": 0.1053
+          },
+          {
+            "bucket": "0.3-0.4",
+            "sample_size": 112,
+            "avg_predicted": 0.362,
+            "actual_win_rate": 0.4911
+          },
+          {
+            "bucket": "0.4-0.5",
+            "sample_size": 247,
+            "avg_predicted": 0.4527,
+            "actual_win_rate": 0.4534
+          },
+          {
+            "bucket": "0.5-0.6",
+            "sample_size": 255,
+            "avg_predicted": 0.5494,
+            "actual_win_rate": 0.5373
+          },
+          {
+            "bucket": "0.6-0.7",
+            "sample_size": 120,
+            "avg_predicted": 0.6401,
+            "actual_win_rate": 0.6917
+          },
+          {
+            "bucket": "0.7-0.8",
+            "sample_size": 17,
+            "avg_predicted": 0.7223,
+            "actual_win_rate": 1
+          }
+        ]
+      }
+    },
+    "grass": {
+      "overall_elo": {
+        "sample_size": 35,
+        "accuracy": 0.5429,
+        "brier_score": 0.24839,
+        "log_loss": 0.688959,
+        "avg_predicted_p1": 0.5144,
+        "actual_p1_win_rate": 0.6,
+        "calibration": [
+          {
+            "bucket": "0.3-0.4",
+            "sample_size": 4,
+            "avg_predicted": 0.3469,
+            "actual_win_rate": 0.5
+          },
+          {
+            "bucket": "0.4-0.5",
+            "sample_size": 10,
+            "avg_predicted": 0.4381,
+            "actual_win_rate": 0.6
+          },
+          {
+            "bucket": "0.5-0.6",
+            "sample_size": 15,
+            "avg_predicted": 0.5526,
+            "actual_win_rate": 0.5333
+          },
+          {
+            "bucket": "0.6-0.7",
+            "sample_size": 4,
+            "avg_predicted": 0.6188,
+            "actual_win_rate": 0.75
+          },
+          {
+            "bucket": "0.7-0.8",
+            "sample_size": 2,
+            "avg_predicted": 0.7358,
+            "actual_win_rate": 1
+          }
+        ]
+      },
+      "surface_elo": {
+        "sample_size": 35,
+        "accuracy": 0.4571,
+        "brier_score": 0.243259,
+        "log_loss": 0.679332,
+        "avg_predicted_p1": 0.5043,
+        "actual_p1_win_rate": 0.6,
+        "calibration": [
+          {
+            "bucket": "0.3-0.4",
+            "sample_size": 1,
+            "avg_predicted": 0.364,
+            "actual_win_rate": 0
+          },
+          {
+            "bucket": "0.4-0.5",
+            "sample_size": 14,
+            "avg_predicted": 0.4693,
+            "actual_win_rate": 0.7143
+          },
+          {
+            "bucket": "0.5-0.6",
+            "sample_size": 20,
+            "avg_predicted": 0.5359,
+            "actual_win_rate": 0.55
+          }
+        ]
+      },
+      "blended_elo": {
+        "sample_size": 35,
+        "accuracy": 0.5143,
+        "brier_score": 0.24935,
+        "log_loss": 0.690966,
+        "avg_predicted_p1": 0.514,
+        "actual_p1_win_rate": 0.6,
+        "calibration": [
+          {
+            "bucket": "0.3-0.4",
+            "sample_size": 4,
+            "avg_predicted": 0.3483,
+            "actual_win_rate": 0.5
+          },
+          {
+            "bucket": "0.4-0.5",
+            "sample_size": 11,
+            "avg_predicted": 0.4449,
+            "actual_win_rate": 0.6364
+          },
+          {
+            "bucket": "0.5-0.6",
+            "sample_size": 14,
+            "avg_predicted": 0.5546,
+            "actual_win_rate": 0.5
+          },
+          {
+            "bucket": "0.6-0.7",
+            "sample_size": 4,
+            "avg_predicted": 0.6184,
+            "actual_win_rate": 0.75
+          },
+          {
+            "bucket": "0.7-0.8",
+            "sample_size": 2,
+            "avg_predicted": 0.7325,
+            "actual_win_rate": 1
+          }
+        ]
+      }
+    },
+    "hard": {
+      "overall_elo": {
+        "sample_size": 290,
+        "accuracy": 0.5448,
+        "brier_score": 0.2465,
+        "log_loss": 0.686005,
+        "avg_predicted_p1": 0.5075,
+        "actual_p1_win_rate": 0.5448,
+        "calibration": [
+          {
+            "bucket": "0.2-0.3",
+            "sample_size": 12,
+            "avg_predicted": 0.2752,
+            "actual_win_rate": 0.3333
+          },
+          {
+            "bucket": "0.3-0.4",
+            "sample_size": 41,
+            "avg_predicted": 0.3658,
+            "actual_win_rate": 0.3902
+          },
+          {
+            "bucket": "0.4-0.5",
+            "sample_size": 75,
+            "avg_predicted": 0.4492,
+            "actual_win_rate": 0.5867
+          },
+          {
+            "bucket": "0.5-0.6",
+            "sample_size": 103,
+            "avg_predicted": 0.5482,
+            "actual_win_rate": 0.5534
+          },
+          {
+            "bucket": "0.6-0.7",
+            "sample_size": 50,
+            "avg_predicted": 0.6398,
+            "actual_win_rate": 0.6
+          },
+          {
+            "bucket": "0.7-0.8",
+            "sample_size": 8,
+            "avg_predicted": 0.7399,
+            "actual_win_rate": 0.75
+          },
+          {
+            "bucket": "0.8-0.9",
+            "sample_size": 1,
+            "avg_predicted": 0.8069,
+            "actual_win_rate": 1
+          }
+        ]
+      },
+      "surface_elo": {
+        "sample_size": 290,
+        "accuracy": 0.5207,
+        "brier_score": 0.247695,
+        "log_loss": 0.688584,
+        "avg_predicted_p1": 0.5062,
+        "actual_p1_win_rate": 0.5448,
+        "calibration": [
+          {
+            "bucket": "0.2-0.3",
+            "sample_size": 8,
+            "avg_predicted": 0.2823,
+            "actual_win_rate": 0.375
+          },
+          {
+            "bucket": "0.3-0.4",
+            "sample_size": 25,
+            "avg_predicted": 0.3702,
+            "actual_win_rate": 0.36
+          },
+          {
+            "bucket": "0.4-0.5",
+            "sample_size": 96,
+            "avg_predicted": 0.4591,
+            "actual_win_rate": 0.5833
+          },
+          {
+            "bucket": "0.5-0.6",
+            "sample_size": 124,
+            "avg_predicted": 0.5437,
+            "actual_win_rate": 0.5323
+          },
+          {
+            "bucket": "0.6-0.7",
+            "sample_size": 33,
+            "avg_predicted": 0.6322,
+            "actual_win_rate": 0.6364
+          },
+          {
+            "bucket": "0.7-0.8",
+            "sample_size": 4,
+            "avg_predicted": 0.7303,
+            "actual_win_rate": 0.75
+          }
+        ]
+      },
+      "blended_elo": {
+        "sample_size": 290,
+        "accuracy": 0.531,
+        "brier_score": 0.245854,
+        "log_loss": 0.684719,
+        "avg_predicted_p1": 0.5071,
+        "actual_p1_win_rate": 0.5448,
+        "calibration": [
+          {
+            "bucket": "0.2-0.3",
+            "sample_size": 10,
+            "avg_predicted": 0.2749,
+            "actual_win_rate": 0.4
+          },
+          {
+            "bucket": "0.3-0.4",
+            "sample_size": 39,
+            "avg_predicted": 0.3676,
+            "actual_win_rate": 0.3333
+          },
+          {
+            "bucket": "0.4-0.5",
+            "sample_size": 81,
+            "avg_predicted": 0.4523,
+            "actual_win_rate": 0.6173
+          },
+          {
+            "bucket": "0.5-0.6",
+            "sample_size": 110,
+            "avg_predicted": 0.5499,
+            "actual_win_rate": 0.5364
+          },
+          {
+            "bucket": "0.6-0.7",
+            "sample_size": 42,
+            "avg_predicted": 0.6404,
+            "actual_win_rate": 0.619
+          },
+          {
+            "bucket": "0.7-0.8",
+            "sample_size": 8,
+            "avg_predicted": 0.743,
+            "actual_win_rate": 0.75
+          }
+        ]
+      }
+    },
+    "unknown": {
+      "overall_elo": {
+        "sample_size": 84,
+        "accuracy": 0.5119,
+        "brier_score": 0.239655,
+        "log_loss": 0.671341,
+        "avg_predicted_p1": 0.5009,
+        "actual_p1_win_rate": 0.6071,
+        "calibration": [
+          {
+            "bucket": "0.1-0.2",
+            "sample_size": 1,
+            "avg_predicted": 0.18,
+            "actual_win_rate": 0
+          },
+          {
+            "bucket": "0.2-0.3",
+            "sample_size": 1,
+            "avg_predicted": 0.2652,
+            "actual_win_rate": 1
+          },
+          {
+            "bucket": "0.3-0.4",
+            "sample_size": 12,
+            "avg_predicted": 0.3591,
+            "actual_win_rate": 0.3333
+          },
+          {
+            "bucket": "0.4-0.5",
+            "sample_size": 28,
+            "avg_predicted": 0.4511,
+            "actual_win_rate": 0.7143
+          },
+          {
+            "bucket": "0.5-0.6",
+            "sample_size": 26,
+            "avg_predicted": 0.5462,
+            "actual_win_rate": 0.5385
+          },
+          {
+            "bucket": "0.6-0.7",
+            "sample_size": 14,
+            "avg_predicted": 0.6456,
+            "actual_win_rate": 0.7143
+          },
+          {
+            "bucket": "0.7-0.8",
+            "sample_size": 2,
+            "avg_predicted": 0.7239,
+            "actual_win_rate": 1
+          }
+        ]
+      },
+      "surface_elo": {
+        "sample_size": 84,
+        "accuracy": 0.5119,
+        "brier_score": 0.248794,
+        "log_loss": 0.690693,
+        "avg_predicted_p1": 0.491,
+        "actual_p1_win_rate": 0.6071,
+        "calibration": [
+          {
+            "bucket": "0.3-0.4",
+            "sample_size": 1,
+            "avg_predicted": 0.3844,
+            "actual_win_rate": 0
+          },
+          {
+            "bucket": "0.4-0.5",
+            "sample_size": 45,
+            "avg_predicted": 0.4725,
+            "actual_win_rate": 0.6
+          },
+          {
+            "bucket": "0.5-0.6",
+            "sample_size": 38,
+            "avg_predicted": 0.5157,
+            "actual_win_rate": 0.6316
+          }
+        ]
+      },
+      "blended_elo": {
+        "sample_size": 84,
+        "accuracy": 0.5,
+        "brier_score": 0.240105,
+        "log_loss": 0.6723,
+        "avg_predicted_p1": 0.5004,
+        "actual_p1_win_rate": 0.6071,
+        "calibration": [
+          {
+            "bucket": "0.1-0.2",
+            "sample_size": 1,
+            "avg_predicted": 0.18,
+            "actual_win_rate": 0
+          },
+          {
+            "bucket": "0.2-0.3",
+            "sample_size": 1,
+            "avg_predicted": 0.2652,
+            "actual_win_rate": 1
+          },
+          {
+            "bucket": "0.3-0.4",
+            "sample_size": 12,
+            "avg_predicted": 0.3603,
+            "actual_win_rate": 0.3333
+          },
+          {
+            "bucket": "0.4-0.5",
+            "sample_size": 29,
+            "avg_predicted": 0.4527,
+            "actual_win_rate": 0.7241
+          },
+          {
+            "bucket": "0.5-0.6",
+            "sample_size": 25,
+            "avg_predicted": 0.5473,
+            "actual_win_rate": 0.52
+          },
+          {
+            "bucket": "0.6-0.7",
+            "sample_size": 14,
+            "avg_predicted": 0.6436,
+            "actual_win_rate": 0.7143
+          },
+          {
+            "bucket": "0.7-0.8",
+            "sample_size": 2,
+            "avg_predicted": 0.7222,
+            "actual_win_rate": 1
+          }
+        ]
+      }
+    }
+  }
+}
