@@ -63,13 +63,59 @@ def compact(value: Any) -> str:
     return re.sub(r"[^a-z0-9]+", "", text)
 
 
+NAME_PARTICLES = {
+    "de", "del", "della", "di", "da", "dos", "das",
+    "van", "von", "der", "den", "la", "le", "du",
+}
+
+
 def tokens(value: Any) -> list[str]:
     text = clean_str(value).lower()
     return re.findall(r"[a-z0-9]+", text)
 
 
+def split_name(value: Any) -> tuple[list[str], list[str]]:
+    """
+    Supports both:
+      I. Surname
+      Surname I.
+      I. van Assche
+      Van Assche L.
+      S. De La Fuente
+      De La Fuente S.
+    """
+    parts = tokens(value)
+
+    if not parts:
+        return [], []
+
+    if len(parts) == 1:
+        return [], parts
+
+    first_is_initial = len(parts[0]) == 1
+    last_is_initial = len(parts[-1]) == 1
+
+    if first_is_initial and not last_is_initial:
+        given = [parts[0]]
+        surname = parts[1:]
+        return given, surname
+
+    if last_is_initial and not first_is_initial:
+        given = [parts[-1]]
+        surname = parts[:-1]
+        return given, surname
+
+    # Full names: first token is treated as given name, while all remaining
+    # tokens form the surname. This preserves compound surnames.
+    given = [parts[0]]
+    surname = parts[1:]
+
+    return given, surname
+
+
 def name_aliases(value: Any) -> set[str]:
     parts = tokens(value)
+    given, surname = split_name(value)
     aliases: set[str] = set()
 
     if not parts:
@@ -78,18 +124,33 @@ def name_aliases(value: Any) -> set[str]:
     aliases.add("".join(parts))
     aliases.add(" ".join(parts))
 
-    if len(parts) >= 2:
-        first = parts[0]
-        last = parts[-1]
+    surname_joined = "".join(surname)
+    given_joined = "".join(given)
+    initial = given[0][:1] if given else ""
 
-        aliases.add(f"{first}{last}")
-        aliases.add(f"{last}{first}")
-        aliases.add(f"{first[:1]}{last}")
-        aliases.add(f"{last}{first[:1]}")
+    if surname_joined:
+        aliases.add(surname_joined)
 
-        # Dataset names often use "Surname I." while the odds API uses "I. Surname".
-        aliases.add(f"{last}{first[:1]}")
-        aliases.add(f"{first[:1]}{last}")
+        if given_joined:
+            aliases.add(f"{given_joined}{surname_joined}")
+            aliases.add(f"{surname_joined}{given_joined}")
+
+        if initial:
+            aliases.add(f"{initial}{surname_joined}")
+            aliases.add(f"{surname_joined}{initial}")
+
+    # Also support particle-stripped aliases, but never replace the full
+    # compound surname with them.
+    stripped_surname = "".join(
+        part for part in surname
+        if part not in NAME_PARTICLES
+    )
+
+    if stripped_surname and stripped_surname != surname_joined:
+        aliases.add(stripped_surname)
+        if initial:
+            aliases.add(f"{initial}{stripped_surname}")
+            aliases.add(f"{stripped_surname}{initial}")
 
     return {compact(alias) for alias in aliases if alias}
 
@@ -108,26 +169,49 @@ def build_profile_index(profiles: list[dict[str, Any]]) -> dict[str, list[dict[s
 def profile_match_score(query_name: str, profile_name: str) -> int:
     query_parts = tokens(query_name)
     profile_parts = tokens(profile_name)
+    query_given, query_surname = split_name(query_name)
+    profile_given, profile_surname = split_name(profile_name)
 
     if not query_parts or not profile_parts:
         return -1
 
     score = 0
 
-    query_last = query_parts[-1]
-    profile_last = profile_parts[-1]
+    query_surname_joined = "".join(query_surname)
+    profile_surname_joined = "".join(profile_surname)
 
-    if query_last == profile_last:
-        score += 10
-    elif query_parts[0] == profile_parts[0]:
-        score += 4
+    if query_surname_joined and query_surname_joined == profile_surname_joined:
+        score += 30
 
-    query_initials = {part[0] for part in query_parts if part}
-    profile_initials = {part[0] for part in profile_parts if part}
-    score += len(query_initials & profile_initials)
+    query_stripped = "".join(
+        part for part in query_surname
+        if part not in NAME_PARTICLES
+    )
+    profile_stripped = "".join(
+        part for part in profile_surname
+        if part not in NAME_PARTICLES
+    )
+
+    if query_stripped and query_stripped == profile_stripped:
+        score += 12
+
+    query_initial = query_given[0][:1] if query_given else ""
+    profile_initial = profile_given[0][:1] if profile_given else ""
+
+    if query_initial and query_initial == profile_initial:
+        score += 8
 
     if compact(query_name) == compact(profile_name):
-        score += 20
+        score += 50
+
+    # Penalize clear surname mismatch.
+    if (
+        query_surname_joined
+        and profile_surname_joined
+        and query_surname_joined != profile_surname_joined
+        and query_stripped != profile_stripped
+    ):
+        score -= 20
 
     return score
 
