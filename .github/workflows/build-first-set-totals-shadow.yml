@@ -85,6 +85,68 @@ jobs:
               )
           PY
 
+      - name: Show multi-strategy no-bet reasons
+        run: |
+          python - <<'PY'
+          import json
+          from collections import Counter, defaultdict
+          from pathlib import Path
+
+          path = Path(
+              "data/predictions/first_set_totals_shadow.json"
+          )
+
+          data = json.loads(path.read_text(encoding="utf-8"))
+          rows = data.get("all_evaluated", [])
+
+          reasons = Counter()
+          by_strategy = defaultdict(Counter)
+
+          for row in rows:
+              strategy = row.get("strategy_id", "unknown")
+
+              for reason in row.get("reasons", []):
+                  reasons[reason] += 1
+                  by_strategy[strategy][reason] += 1
+
+          print("ALL NO-BET REASONS:")
+
+          for reason, count in reasons.most_common():
+              print(reason, count)
+
+          print("\nBY STRATEGY:")
+
+          for strategy, counts in by_strategy.items():
+              print("\n", strategy)
+
+              for reason, count in counts.most_common():
+                  print(" ", reason, count)
+
+          print("\nFIRST 15 ROWS:")
+
+          for row in rows[:15]:
+              print({
+                  "match": row.get("match"),
+                  "strategy": row.get("strategy_id"),
+                  "gender": row.get("gender"),
+                  "surface": row.get("surface"),
+                  "favorite_probability": row.get(
+                      "favorite_probability"
+                  ),
+                  "side": row.get("side"),
+                  "line": row.get("line"),
+                  "odds": row.get("odds"),
+                  "model_probability": row.get(
+                      "model_probability"
+                  ),
+                  "fair_odds": row.get("fair_odds"),
+                  "edge": row.get("edge"),
+                  "decision": row.get("decision"),
+                  "reasons": row.get("reasons"),
+                  "profiles": row.get("profile_matches"),
+              })
+          PY
+
       - name: Commit shadow outputs
         run: |
           git config user.name "github-actions[bot]"
