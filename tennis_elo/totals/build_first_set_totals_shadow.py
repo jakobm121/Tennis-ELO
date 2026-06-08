@@ -1,0 +1,103 @@
+name: Build First Set Totals Multi-Strategy Shadow
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "40 */3 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: first-set-totals-multi-shadow
+  cancel-in-progress: true
+
+jobs:
+  build-first-set-totals-multi-shadow:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Build multi-strategy shadow picks
+        env:
+          TENNIS_ODDS_URL: "https://raw.githubusercontent.com/jakobm121/Ai/refs/heads/main/data/tennis_odds_today.json"
+          FIRST_SET_MULTI_MIN_PLAYER_SAMPLE: "10"
+          FIRST_SET_MULTI_MIN_ONE_PLAYER_SAMPLE: "20"
+          FIRST_SET_MULTI_MIN_EDGE: "0.05"
+        run: python -m tennis_elo.totals.build_first_set_totals_shadow
+
+      - name: Validate shadow picks
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          path = Path(
+              "data/predictions/first_set_totals_shadow.json"
+          )
+
+          if not path.exists():
+              raise SystemExit("Missing multi-strategy shadow output")
+
+          data = json.loads(path.read_text(encoding="utf-8"))
+
+          print("SUMMARY:", data.get("summary", {}))
+
+          for pick in data.get("shadow_picks", [])[:30]:
+              print(
+                  "PICK:",
+                  pick.get("match"),
+                  "strategy=", pick.get("strategy_id"),
+                  "side=", pick.get("side"),
+                  "line=", pick.get("line"),
+                  "odds=", pick.get("odds"),
+                  "model=", pick.get("model_probability"),
+                  "fair=", pick.get("fair_odds"),
+                  "edge=", pick.get("edge"),
+              )
+
+          for pick in data.get("watch_picks", [])[:20]:
+              print(
+                  "WATCH:",
+                  pick.get("match"),
+                  "strategy=", pick.get("strategy_id"),
+                  "side=", pick.get("side"),
+                  "line=", pick.get("line"),
+                  "odds=", pick.get("odds"),
+                  "model=", pick.get("model_probability"),
+                  "edge=", pick.get("edge"),
+              )
+          PY
+
+      - name: Commit shadow outputs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/predictions/first_set_totals_shadow.json
+          git add data/reports/first_set_totals_shadow_report.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Update multi-strategy first set totals shadow picks"
+          git pull --rebase --autostash origin main
+          git push origin HEAD:main
