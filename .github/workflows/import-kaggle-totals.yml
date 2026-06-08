@@ -108,10 +108,10 @@ jobs:
                           break
           PY
 
-      - name: Import the last 365 days
+      - name: Import the last 730 days
         env:
           KAGGLE_TENNIS_INPUT_DIR: data/external/kaggle_tennis
-          TOTALS_LOOKBACK_DAYS: "365"
+          TOTALS_LOOKBACK_DAYS: "730"
         run: python -m tennis_elo.sources.import_kaggle_scorelines
 
       - name: Validate generated archive
