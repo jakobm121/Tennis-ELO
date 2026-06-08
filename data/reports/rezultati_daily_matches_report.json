@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T00:18:08.571323+02:00",
+  "generated_at": "2026-06-08T06:58:16.896783+02:00",
   "source_url": "https://www.rezultati.com/tenis/",
   "output_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/input/matches_today.json",
   "seen_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/state/seen_match_urls.json",
@@ -14,16 +14,146 @@
     "reset_seen_matches": false
   },
   "counts": {
-    "found_matches": 102,
-    "available_unseen": 99,
+    "found_matches": 96,
+    "available_unseen": 86,
     "selected": 8,
-    "skipped_seen": 3,
-    "seen_total": 146,
+    "skipped_seen": 10,
+    "seen_total": 154,
     "blocked": 0,
     "errors": 0
   },
   "error": "",
   "selected": [
+    {
+      "match": "Appleton Emily - Tan Harmony",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/appleton-emily-UTOJG35K/tan-harmony-vqOqBe0i/?mid=tj98Ha9a",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Appleton Emily",
+      "player_2": "Tan Harmony",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "tj98Ha9a",
+      "raw_parent_text": ""
+    },
+    {
+      "match": "Atmane Terence - Borges Nuno",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/atmane-terence-6mkEQ279/borges-nuno-hzbEPIOa/?mid=tzstSvWI",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Atmane Terence",
+      "player_2": "Borges Nuno",
+      "source": "rezultati_daily_click",
+      "source_match_id": "tzstSvWI",
+      "raw_parent_text": "11:00\nBorges N.\nAtmane T.\n-\n-"
+    },
+    {
+      "match": "Badosa Paula - Snigur Daria",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/badosa-paula-Wl76rX3I/snigur-daria-YuOTpKxj/?mid=fFxz8bNk",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Badosa Paula",
+      "player_2": "Snigur Daria",
+      "source": "rezultati_daily_click",
+      "source_match_id": "fFxz8bNk",
+      "raw_parent_text": "14:30\nSnigur D.\nBadosa P.\n-\n-"
+    },
+    {
+      "match": "Bagnolini Daniel - Bilardo Jacopo",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/bagnolini-daniel-Wdu6xkFm/bilardo-jacopo-SAWlTK58/?mid=ALTnTj94",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Bagnolini Daniel",
+      "player_2": "Bilardo Jacopo",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "ALTnTj94",
+      "raw_parent_text": ""
+    },
+    {
+      "match": "Baragiola Mordini Tobia Costanzo - Sciahbasi Matteo",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/baragiola-mordini-tobia-costanzo-M3SIsJoo/sciahbasi-matteo-Ug1oNQ6D/?mid=A1wg79no",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Baragiola Mordini Tobia Costanzo",
+      "player_2": "Sciahbasi Matteo",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "A1wg79no",
+      "raw_parent_text": ""
+    },
+    {
+      "match": "Barrios Vera Marcelo Tomas - Kokkinakis Thanasi",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/kokkinakis-thanasi-rBm7dcxH/?mid=x8kb9ced",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Barrios Vera Marcelo Tomas",
+      "player_2": "Kokkinakis Thanasi",
+      "source": "rezultati_daily_click",
+      "source_match_id": "x8kb9ced",
+      "raw_parent_text": "14:30\nKokkinakis T.\nBarrios Vera T.\n-\n-"
+    },
+    {
+      "match": "Basile Pierluigi - Brancaccio Raul",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/basile-pierluigi-dQSlIBQ0/brancaccio-raul-Ec4ddDyl/?mid=dzczSmk2",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Basile Pierluigi",
+      "player_2": "Brancaccio Raul",
+      "source": "rezultati_daily_click",
+      "source_match_id": "dzczSmk2",
+      "raw_parent_text": "13:30\nBasile P.\nBrancaccio R.\n-\n-"
+    },
+    {
+      "match": "Bellucci Mattia - Davidovich Fokina Alejandro",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/bellucci-mattia-M9pojLqi/davidovich-fokina-alejandro-0zQXLfz4/?mid=6yFFFkPb",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Bellucci Mattia",
+      "player_2": "Davidovich Fokina Alejandro",
+      "source": "rezultati_daily_click",
+      "source_match_id": "6yFFFkPb",
+      "raw_parent_text": "11:00\nDavidovich Fokina A.\nBellucci M.\n-\n-"
+    }
+  ],
+  "skipped_seen_examples": [
     {
       "match": "Agamenone Franco - Ribecai Michele",
       "match_url": "https://www.rezultati.com/utakmica/tenis/agamenone-franco-E9dx5gGD/ribecai-michele-fNFrUmQq/?mid=dfmUmVBL",
@@ -41,22 +171,6 @@
       "raw_parent_text": "13:30\nRibecai M.\nAgamenone F.\n-\n-"
     },
     {
-      "match": "Aguilar Cardozo Joaquin - Justo Guido Ivan",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/aguilar-cardozo-joaquin-rsXrDrGP/justo-guido-ivan-CjaTkiTr/?mid=Oxoe8Re5",
-      "date": "",
-      "status": "scheduled",
-      "tour_level": "",
-      "gender": "",
-      "tournament": "",
-      "country": "",
-      "surface": "",
-      "player_1": "Aguilar Cardozo Joaquin",
-      "player_2": "Justo Guido Ivan",
-      "source": "rezultati_daily_click",
-      "source_match_id": "Oxoe8Re5",
-      "raw_parent_text": "15:00\nJusto G. I.\nAguilar Cardozo J.\n-\n-"
-    },
-    {
       "match": "Akugue Noha Noma - Rakotomanga Rajaonah Tiantsoa Sarah",
       "match_url": "https://www.rezultati.com/utakmica/tenis/akugue-noha-noma-IyMCDvw8/rakotomanga-rajaonah-tiantsoa-sarah-pz7Viwx2/?mid=Odkuk264",
       "date": "",
@@ -70,7 +184,7 @@
       "player_2": "Rakotomanga Rajaonah Tiantsoa Sarah",
       "source": "rezultati_daily_anchor",
       "source_match_id": "Odkuk264",
-      "raw_parent_text": "15:30\nNoha Akugue N.\nRakotomanga Rajaonah T.\n-\n-"
+      "raw_parent_text": ""
     },
     {
       "match": "Alcala Gurri Max - Nikles Johan",
@@ -86,7 +200,7 @@
       "player_2": "Nikles Johan",
       "source": "rezultati_daily_anchor",
       "source_match_id": "ln9s0huI",
-      "raw_parent_text": "11:30\nAlcala Gurri M.\nNikles J.\n-\n-"
+      "raw_parent_text": ""
     },
     {
       "match": "Alexandrova Ekaterina - Udvardy Panna",
@@ -116,7 +230,7 @@
       "surface": "",
       "player_1": "Alvarez Varona Nicolas",
       "player_2": "Barton Hynek",
-      "source": "rezultati_daily_anchor",
+      "source": "rezultati_daily_click",
       "source_match_id": "xUQIDQR7",
       "raw_parent_text": "13:30\nBarton H.\nAlvarez Varona N.\n-\n-"
     },
@@ -134,7 +248,7 @@
       "player_2": "Gomez Juan Sebastian",
       "source": "rezultati_daily_click",
       "source_match_id": "YkTzL4uB",
-      "raw_parent_text": "15:00\nGomez J. S.\nAmbrogi L. E.\n-\n-"
+      "raw_parent_text": "19:00\nGomez J. S.\nAmbrogi L. E.\n-\n-"
     },
     {
       "match": "Andreescu Bianca - Mertens Elise",
@@ -151,9 +265,7 @@
       "source": "rezultati_daily_click",
       "source_match_id": "pnGFKy7e",
       "raw_parent_text": "12:30\nAndreescu B.\nMertens E.\n-\n-"
-    }
-  ],
-  "skipped_seen_examples": [
+    },
     {
       "match": "Antoine Ghibaudo - Okonkwo Oliver",
       "match_url": "https://www.rezultati.com/utakmica/tenis/antoine-ghibaudo-x65w16Vu/okonkwo-oliver-8QMiwhqI/?mid=QFWJRr5m",
@@ -200,7 +312,7 @@
       "player_2": "Cigarran Thiago",
       "source": "rezultati_daily_anchor",
       "source_match_id": "Ae8rskc6",
-      "raw_parent_text": "00:25\nCastro L. C.\nCigarran T.\n-\n-"
+      "raw_parent_text": ""
     }
   ],
   "debug_files": {
