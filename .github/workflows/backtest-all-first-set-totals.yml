@@ -1,0 +1,119 @@
+name: Backtest All First Set Totals
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  backtest-all-first-set-totals:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run all first-set totals backtest
+        env:
+          FIRST_SET_ALL_TOTALS_VALIDATION_START: "2026-03-01"
+          FIRST_SET_ALL_TOTALS_LINES: "8.5,9.5,10.5,11.5"
+          FIRST_SET_ALL_TOTALS_MIN_DISCOVERY_SAMPLE: "100"
+          FIRST_SET_ALL_TOTALS_MIN_VALIDATION_SAMPLE: "40"
+          FIRST_SET_ALL_TOTALS_MAX_STABILITY_GAP: "0.10"
+          FIRST_SET_ALL_TOTALS_TOP_SEGMENTS: "100"
+        run: python -m tennis_elo.totals.backtest_all_first_set_totals
+
+      - name: Validate backtest
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          path = Path(
+              "data/backtests/all_first_set_totals_backtest.json"
+          )
+
+          if not path.exists():
+              raise SystemExit(
+                  "Missing all first-set totals backtest output"
+              )
+
+          data = json.loads(path.read_text(encoding="utf-8"))
+
+          print("COUNTS:", data.get("counts", {}))
+          print("\nBEST BY MARKET:")
+
+          for market, row in data.get(
+              "best_by_market",
+              {},
+          ).items():
+              validation = row.get("validation", {})
+
+              print(
+                  market,
+                  "segment=", row.get("segment_label"),
+                  "discovery_n=", (
+                      row.get("discovery", {})
+                      .get("sample_size")
+                  ),
+                  "discovery_rate=", (
+                      row.get("discovery", {})
+                      .get("hit_rate")
+                  ),
+                  "validation_n=", validation.get("sample_size"),
+                  "validation_rate=", validation.get("hit_rate"),
+                  "fair_odds=", validation.get("fair_odds"),
+                  "wilson_low=", validation.get("wilson_low"),
+                  "lift=", row.get("validation_lift"),
+                  "gap=", row.get("stability_gap"),
+              )
+
+          print("\nTOP 20:")
+
+          for row in data.get("best_segments", [])[:20]:
+              validation = row.get("validation", {})
+
+              print(
+                  row.get("market"),
+                  "|",
+                  row.get("segment_label"),
+                  "| n=", validation.get("sample_size"),
+                  "| hit=", validation.get("hit_rate"),
+                  "| fair=", validation.get("fair_odds"),
+                  "| wilson_low=", validation.get("wilson_low"),
+                  "| lift=", row.get("validation_lift"),
+                  "| gap=", row.get("stability_gap"),
+              )
+          PY
+
+      - name: Commit backtest outputs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/backtests/all_first_set_totals_backtest.json
+          git add data/reports/all_first_set_totals_backtest_report.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Backtest all first set totals markets"
+          git pull --rebase --autostash origin main
+          git push origin HEAD:main
