@@ -73,6 +73,41 @@ jobs:
             exit 1
           }
 
+      - name: Show Kaggle CSV samples
+        run: |
+          python - <<'PY'
+          import csv
+          from pathlib import Path
+
+          for path in Path("data/external/kaggle_tennis").rglob("*.csv"):
+              print("\nFILE:", path)
+
+              with path.open(
+                  "r",
+                  encoding="utf-8-sig",
+                  errors="replace",
+                  newline=""
+              ) as handle:
+                  reader = csv.DictReader(handle)
+
+                  print("HEADERS:", reader.fieldnames)
+
+                  for index, row in enumerate(reader):
+                      print({
+                          "Tournament": row.get("Tournament"),
+                          "Date": row.get("Date"),
+                          "Player_1": row.get("Player_1"),
+                          "Player_2": row.get("Player_2"),
+                          "Winner": row.get("Winner"),
+                          "Score": row.get("Score"),
+                          "Odd_1": row.get("Odd_1"),
+                          "Odd_2": row.get("Odd_2"),
+                      })
+
+                      if index >= 2:
+                          break
+          PY
+
       - name: Import the last 365 days
         env:
           KAGGLE_TENNIS_INPUT_DIR: data/external/kaggle_tennis
@@ -122,10 +157,7 @@ jobs:
 
           git commit -m "Import one year of Kaggle totals history"
 
-          # Odstrani samo začasno prenesene Kaggle datoteke.
           rm -rf data/external/kaggle_tennis
-
-          # Počisti morebitne druge nestageane spremembe runnerja.
           git restore --worktree .
           git clean -fd data/external || true
 
