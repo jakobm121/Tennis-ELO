@@ -1,69 +1,12 @@
 {
-  "generated_at": "2026-06-08T18:38:03.789062+02:00",
+  "generated_at": "2026-06-08T22:41:39.938020+02:00",
   "source_odds_url": "https://raw.githubusercontent.com/jakobm121/Ai/refs/heads/main/data/tennis_odds_today.json",
   "summary": {
-    "odds_matches": 22,
-    "evaluated_matches": 20,
-    "shadow_bets": 1,
-    "no_bets": 19,
-    "no_bet": 19,
-    "missing_first_set_9_5": 2,
-    "shadow_bet": 1
+    "odds_matches": 2,
+    "evaluated_matches": 0,
+    "shadow_bets": 0,
+    "no_bets": 0,
+    "missing_first_set_9_5": 2
   },
-  "top_shadow_picks": [
-    {
-      "event_key": 12134566,
-      "date": "2026-06-08",
-      "time": "17:40",
-      "player_1": "U. Humbert",
-      "player_2": "E. Ymer",
-      "match": "U. Humbert - E. Ymer",
-      "tournament": "Hertogenbosch",
-      "tour_level": "atp",
-      "gender": "men",
-      "surface": "grass",
-      "favorite": "U. Humbert",
-      "favorite_side": "player_1",
-      "favorite_probability": 0.789474,
-      "market": "1st Set Under 9.5 Games",
-      "line": 9.5,
-      "under_odds": 2.25,
-      "under_bookmaker": "Betfair",
-      "over_odds": 1.83,
-      "model_under_probability": 0.603307,
-      "fair_odds_under": 1.658,
-      "edge": 0.3574,
-      "confidence": "medium",
-      "decision": "SHADOW_BET",
-      "reasons": [],
-      "profile_matches": {
-        "player_1_status": "matched",
-        "player_1_profile_name": "Humbert U.",
-        "player_2_status": "matched",
-        "player_2_profile_name": "Ymer E."
-      },
-      "model_details": {
-        "segment_under_probability": 0.5853,
-        "player_component_under_probability": 0.6368,
-        "player_1": {
-          "sample_size": 96,
-          "overall_under_rate": 0.4896,
-          "surface_under_rate": 0.4118,
-          "surface_sample": 17,
-          "recent_10_under_rate": 0.8,
-          "recent_10_sample": 10,
-          "blended_under_rate": 0.5128
-        },
-        "player_2": {
-          "sample_size": 12,
-          "overall_under_rate": 0.75,
-          "surface_under_rate": 1.0,
-          "surface_sample": 1,
-          "recent_10_under_rate": 0.8,
-          "recent_10_sample": 10,
-          "blended_under_rate": 0.7607
-        }
-      }
-    }
-  ]
+  "top_shadow_picks": []
 }
