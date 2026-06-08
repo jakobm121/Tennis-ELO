@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T13:27:20.401583+02:00",
+  "generated_at": "2026-06-08T13:35:10.921626+02:00",
   "source_odds_url": "https://raw.githubusercontent.com/jakobm121/Ai/refs/heads/main/data/tennis_odds_today.json",
   "odds_generated_at": "2026-06-08T13:23:55.291241+02:00",
   "model": "first_set_under_9_5_shadow_v1",
@@ -213,22 +213,44 @@
       "under_odds": 3.75,
       "under_bookmaker": "Betfair",
       "over_odds": 1.24,
-      "model_under_probability": null,
-      "fair_odds_under": null,
-      "edge": null,
+      "model_under_probability": 0.5,
+      "fair_odds_under": 2.0,
+      "edge": 0.875,
       "confidence": "medium",
       "decision": "NO_BET",
       "reasons": [
         "favorite_probability_below_threshold",
-        "player_2_profile_missing"
+        "both_players_need_minimum_sample",
+        "model_probability_below_threshold"
       ],
       "profile_matches": {
         "player_1_status": "matched",
         "player_1_profile_name": "Paul T.",
-        "player_2_status": "not_found",
-        "player_2_profile_name": null
+        "player_2_status": "matched",
+        "player_2_profile_name": "Mpetshi Perricard G."
       },
-      "model_details": null
+      "model_details": {
+        "segment_under_probability": 0.5853,
+        "player_component_under_probability": 0.218,
+        "player_1": {
+          "sample_size": 43,
+          "overall_under_rate": 0.4186,
+          "surface_under_rate": null,
+          "surface_sample": 0,
+          "recent_10_under_rate": 0.5,
+          "recent_10_sample": 10,
+          "blended_under_rate": 0.436
+        },
+        "player_2": {
+          "sample_size": 1,
+          "overall_under_rate": 0.0,
+          "surface_under_rate": null,
+          "surface_sample": 0,
+          "recent_10_under_rate": 0.0,
+          "recent_10_sample": 1,
+          "blended_under_rate": 0.0
+        }
+      }
     },
     {
       "event_key": 12134318,
@@ -249,22 +271,44 @@
       "under_odds": 1.87,
       "under_bookmaker": "Betano",
       "over_odds": 2.03,
-      "model_under_probability": null,
-      "fair_odds_under": null,
-      "edge": null,
+      "model_under_probability": 0.545645,
+      "fair_odds_under": 1.833,
+      "edge": 0.0204,
       "confidence": "medium",
       "decision": "NO_BET",
       "reasons": [
         "favorite_probability_below_threshold",
-        "player_2_profile_missing"
+        "model_probability_below_threshold",
+        "edge_below_threshold"
       ],
       "profile_matches": {
         "player_1_status": "matched",
         "player_1_profile_name": "Boulter K.",
-        "player_2_status": "not_found",
-        "player_2_profile_name": null
+        "player_2_status": "matched",
+        "player_2_profile_name": "Fernandez L.A."
       },
-      "model_details": null
+      "model_details": {
+        "segment_under_probability": 0.5853,
+        "player_component_under_probability": 0.472,
+        "player_1": {
+          "sample_size": 39,
+          "overall_under_rate": 0.4615,
+          "surface_under_rate": null,
+          "surface_sample": 0,
+          "recent_10_under_rate": 0.2,
+          "recent_10_sample": 10,
+          "blended_under_rate": 0.4055
+        },
+        "player_2": {
+          "sample_size": 59,
+          "overall_under_rate": 0.5763,
+          "surface_under_rate": null,
+          "surface_sample": 0,
+          "recent_10_under_rate": 0.4,
+          "recent_10_sample": 10,
+          "blended_under_rate": 0.5385
+        }
+      }
     },
     {
       "event_key": 12134319,
@@ -858,22 +902,45 @@
       "under_odds": 1.64,
       "under_bookmaker": "Unibet",
       "over_odds": 2.33,
-      "model_under_probability": null,
-      "fair_odds_under": null,
-      "edge": null,
+      "model_under_probability": 0.583318,
+      "fair_odds_under": 1.714,
+      "edge": -0.0434,
       "confidence": "medium",
       "decision": "NO_BET",
       "reasons": [
         "under_odds_below_threshold",
-        "player_2_profile_missing"
+        "both_players_need_minimum_sample",
+        "one_player_needs_larger_sample",
+        "edge_below_threshold"
       ],
       "profile_matches": {
         "player_1_status": "matched",
         "player_1_profile_name": "Grenier H.",
-        "player_2_status": "not_found",
-        "player_2_profile_name": null
+        "player_2_status": "matched",
+        "player_2_profile_name": "Van Assche L."
       },
-      "model_details": null
+      "model_details": {
+        "segment_under_probability": 0.5833,
+        "player_component_under_probability": 0.5834,
+        "player_1": {
+          "sample_size": 1,
+          "overall_under_rate": 1.0,
+          "surface_under_rate": null,
+          "surface_sample": 0,
+          "recent_10_under_rate": 1.0,
+          "recent_10_sample": 1,
+          "blended_under_rate": 1.0
+        },
+        "player_2": {
+          "sample_size": 6,
+          "overall_under_rate": 0.1667,
+          "surface_under_rate": null,
+          "surface_sample": 0,
+          "recent_10_under_rate": 0.1667,
+          "recent_10_sample": 6,
+          "blended_under_rate": 0.1667
+        }
+      }
     },
     {
       "event_key": 12134420,
@@ -894,22 +961,46 @@
       "under_odds": 1.98,
       "under_bookmaker": "Unibet",
       "over_odds": 1.83,
-      "model_under_probability": null,
-      "fair_odds_under": null,
-      "edge": null,
+      "model_under_probability": 0.511695,
+      "fair_odds_under": 1.954,
+      "edge": 0.0132,
       "confidence": "medium",
       "decision": "NO_BET",
       "reasons": [
         "favorite_probability_below_threshold",
-        "player_2_profile_missing"
+        "both_players_need_minimum_sample",
+        "one_player_needs_larger_sample",
+        "model_probability_below_threshold",
+        "edge_below_threshold"
       ],
       "profile_matches": {
         "player_1_status": "matched",
         "player_1_profile_name": "Pavlovic L.",
-        "player_2_status": "not_found",
-        "player_2_profile_name": null
+        "player_2_status": "matched",
+        "player_2_profile_name": "Galan D.E."
       },
-      "model_details": null
+      "model_details": {
+        "segment_under_probability": 0.5853,
+        "player_component_under_probability": 0.375,
+        "player_1": {
+          "sample_size": 2,
+          "overall_under_rate": 0.0,
+          "surface_under_rate": null,
+          "surface_sample": 0,
+          "recent_10_under_rate": 0.0,
+          "recent_10_sample": 2,
+          "blended_under_rate": 0.0
+        },
+        "player_2": {
+          "sample_size": 4,
+          "overall_under_rate": 0.75,
+          "surface_under_rate": null,
+          "surface_sample": 0,
+          "recent_10_under_rate": 0.75,
+          "recent_10_sample": 4,
+          "blended_under_rate": 0.75
+        }
+      }
     },
     {
       "event_key": 12134461,
@@ -989,22 +1080,45 @@
       "under_odds": 2.25,
       "under_bookmaker": "Betano",
       "over_odds": 1.63,
-      "model_under_probability": null,
-      "fair_odds_under": null,
-      "edge": null,
+      "model_under_probability": 0.5,
+      "fair_odds_under": 2.0,
+      "edge": 0.125,
       "confidence": "medium",
       "decision": "NO_BET",
       "reasons": [
         "favorite_probability_below_threshold",
-        "player_2_profile_missing"
+        "both_players_need_minimum_sample",
+        "one_player_needs_larger_sample",
+        "model_probability_below_threshold"
       ],
       "profile_matches": {
         "player_1_status": "matched",
         "player_1_profile_name": "Holmgren A.",
-        "player_2_status": "not_found",
-        "player_2_profile_name": null
+        "player_2_status": "matched",
+        "player_2_profile_name": "Budkov Kjaer N."
       },
-      "model_details": null
+      "model_details": {
+        "segment_under_probability": 0.5853,
+        "player_component_under_probability": 0.3125,
+        "player_1": {
+          "sample_size": 4,
+          "overall_under_rate": 0.0,
+          "surface_under_rate": null,
+          "surface_sample": 0,
+          "recent_10_under_rate": 0.0,
+          "recent_10_sample": 4,
+          "blended_under_rate": 0.0
+        },
+        "player_2": {
+          "sample_size": 8,
+          "overall_under_rate": 0.625,
+          "surface_under_rate": null,
+          "surface_sample": 0,
+          "recent_10_under_rate": 0.625,
+          "recent_10_sample": 8,
+          "blended_under_rate": 0.625
+        }
+      }
     },
     {
       "event_key": 12134465,
@@ -1150,14 +1264,13 @@
       "decision": "NO_BET",
       "reasons": [
         "favorite_probability_below_threshold",
-        "player_1_profile_missing",
-        "player_2_profile_missing"
+        "player_1_profile_missing"
       ],
       "profile_matches": {
         "player_1_status": "not_found",
         "player_1_profile_name": null,
-        "player_2_status": "not_found",
-        "player_2_profile_name": null
+        "player_2_status": "matched",
+        "player_2_profile_name": "Pinnington Jones J."
       },
       "model_details": null
     },
@@ -1774,14 +1887,13 @@
       "reasons": [
         "favorite_probability_below_threshold",
         "under_odds_below_threshold",
-        "player_1_profile_missing",
-        "player_2_profile_missing"
+        "player_1_profile_missing"
       ],
       "profile_matches": {
         "player_1_status": "not_found",
         "player_1_profile_name": null,
-        "player_2_status": "not_found",
-        "player_2_profile_name": null
+        "player_2_status": "matched",
+        "player_2_profile_name": "Fita Boluda A."
       },
       "model_details": null
     },
@@ -2018,14 +2130,13 @@
       "decision": "NO_BET",
       "reasons": [
         "favorite_probability_below_threshold",
-        "player_1_profile_missing",
-        "player_2_profile_missing"
+        "player_1_profile_missing"
       ],
       "profile_matches": {
         "player_1_status": "not_found",
         "player_1_profile_name": null,
-        "player_2_status": "not_found",
-        "player_2_profile_name": null
+        "player_2_status": "matched",
+        "player_2_profile_name": "Smith C."
       },
       "model_details": null
     },
@@ -2410,24 +2521,47 @@
       "under_odds": 1.62,
       "under_bookmaker": "BetVictor",
       "over_odds": 2.2,
-      "model_under_probability": null,
-      "fair_odds_under": null,
-      "edge": null,
+      "model_under_probability": 0.50564,
+      "fair_odds_under": 1.978,
+      "edge": -0.1809,
       "confidence": "medium",
       "decision": "NO_BET",
       "reasons": [
         "favorite_probability_below_threshold",
         "under_odds_below_threshold",
-        "player_1_profile_missing",
-        "player_2_profile_missing"
+        "both_players_need_minimum_sample",
+        "one_player_needs_larger_sample",
+        "model_probability_below_threshold",
+        "edge_below_threshold"
       ],
       "profile_matches": {
-        "player_1_status": "not_found",
-        "player_1_profile_name": null,
-        "player_2_status": "not_found",
-        "player_2_profile_name": null
+        "player_1_status": "matched",
+        "player_1_profile_name": "Noha Akugue N.",
+        "player_2_status": "matched",
+        "player_2_profile_name": "Rakotomanga Rajaonah T."
       },
-      "model_details": null
+      "model_details": {
+        "segment_under_probability": 0.5853,
+        "player_component_under_probability": 0.3577,
+        "player_1": {
+          "sample_size": 2,
+          "overall_under_rate": 0.0,
+          "surface_under_rate": null,
+          "surface_sample": 0,
+          "recent_10_under_rate": 0.0,
+          "recent_10_sample": 2,
+          "blended_under_rate": 0.0
+        },
+        "player_2": {
+          "sample_size": 13,
+          "overall_under_rate": 0.6923,
+          "surface_under_rate": null,
+          "surface_sample": 0,
+          "recent_10_under_rate": 0.8,
+          "recent_10_sample": 10,
+          "blended_under_rate": 0.7154
+        }
+      }
     },
     {
       "event_key": 12134586,
