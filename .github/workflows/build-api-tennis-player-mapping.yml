@@ -109,6 +109,72 @@ jobs:
               )
           PY
 
+      - name: Diagnose unmatched rating names
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          ratings_path = Path(
+              "data/ratings/player_ratings_latest.json"
+          )
+          mapping_path = Path(
+              "data/mappings/api_tennis_player_map.json"
+          )
+
+          ratings = json.loads(
+              ratings_path.read_text(encoding="utf-8")
+          ).get("ratings", [])
+
+          mapping = json.loads(
+              mapping_path.read_text(encoding="utf-8")
+          ).get("players", {})
+
+          needles = [
+              "bautista",
+              "imai",
+              "noguchi",
+              "makarova",
+              "thompson",
+              "shang",
+          ]
+
+          print("RATING CANDIDATES:")
+
+          for needle in needles:
+              matches = []
+
+              for row in ratings:
+                  name = str(
+                      row.get("player_name")
+                      or row.get("player_key")
+                      or ""
+                  )
+
+                  if needle in name.lower():
+                      matches.append({
+                          "name": name,
+                          "player_key": row.get("player_key"),
+                          "matches_total": row.get("matches_total"),
+                      })
+
+              print(needle, matches[:20])
+
+          print("\nUNMATCHED WITH CANDIDATES:")
+
+          for api_key, row in mapping.items():
+              if row.get("status") != "unmatched":
+                  continue
+
+              candidates = row.get("candidates", [])
+
+              print({
+                  "api_key": api_key,
+                  "api_name": row.get("api_name"),
+                  "candidates": candidates[:3],
+              })
+          PY
+
       - name: Commit mapping outputs
         run: |
           git config user.name "github-actions[bot]"
