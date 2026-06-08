@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-09T00:18:23.616761+02:00",
+  "generated_at": "2026-06-09T01:02:43.719458+02:00",
   "summary": {
-    "odds_matches": 174,
-    "evaluated_strategy_rows": 660,
+    "odds_matches": 176,
+    "evaluated_strategy_rows": 780,
     "shadow_bets": 0,
     "watch_picks": 0,
-    "no_bet": 660,
-    "missing_first_set_totals": 63,
+    "no_bet": 780,
+    "missing_first_set_totals": 45,
     "missing_match_winner": 1
   },
   "top_shadow_picks": [],
