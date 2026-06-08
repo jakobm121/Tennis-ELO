@@ -38,7 +38,7 @@ jobs:
         env:
           TENNIS_ODDS_URL: "https://raw.githubusercontent.com/jakobm121/Ai/refs/heads/main/data/tennis_odds_today.json"
           FIRST_SET_MULTI_MIN_PLAYER_SAMPLE: "10"
-          FIRST_SET_MULTI_MIN_ONE_PLAYER_SAMPLE: "20"
+          FIRST_SET_MULTI_MIN_ONE_PLAYER_SAMPLE: "15"
           FIRST_SET_MULTI_MIN_EDGE: "0.05"
         run: python -m tennis_elo.totals.build_first_set_totals_shadow
 
