@@ -40,6 +40,19 @@ Rottgering M.
 4
 6
 4
+Kraj
+Čilić M.
+Shapovalov D.
+2
+1
+6
+5
+7
+7
+6
+4
+7
+5
 Stuttgart (Njemačka), trava
 ATP - SINGL: 
 Ždrijeb
@@ -56,6 +69,78 @@ Bellucci M.
 5
 1
 6
+Kraj
+Herbert P.H.
+Landaluce M.
+1
+2
+7
+5
+3
+6
+4
+6
+Otkazano
+Paul T.
+Mpetshi Perricard G.
+-
+-
+Kraj
+Onclin G.
+Marozsan F.
+2
+0
+7
+8
+6
+6
+6
+3
+Prekinuto
+Safiullin R.
+Mpetshi Perricard G.
+1
+1
+5
+7
+7
+7
+6
+4
+4
+1
+15
+40
+London (Ujedinjeno Kraljevstvo), trava
+WTA - SINGL: 
+Ždrijeb
+Prekinuto
+Dart H.
+Samsonova L.
+0
+0
+0
+0
+15
+0
+Prekinuto
+Pliskova Ka.
+Kessler M.
+0
+0
+1
+0
+15
+30
+Prekinuto
+Zheng Q.
+Cristian J.
+0
+0
+1
+0
+15
+15
 S-Hertogenbosch (Nizozemska), trava
 WTA - SINGL: 
 Ždrijeb
@@ -82,6 +167,17 @@ Birrell K.
 6
 2
 Kraj
+Kasatkina D.
+Montgomery R.
+1
+2
+7
+5
+0
+6
+4
+6
+Kraj
 Andreescu B.
 Mertens E.
 0
@@ -90,6 +186,26 @@ Mertens E.
 6
 2
 6
+Kraj
+Snigur D.
+Badosa P.
+2
+0
+6
+1
+7
+7
+6
+2
+Kraj
+Pohankova M.
+Tauson C.
+2
+0
+6
+4
+6
+4
 S-Hertogenbosch (Nizozemska), trava
 ATP - PAROVI: 
 Ždrijeb
@@ -121,6 +237,30 @@ Venus M.
 4
 14
 12
+Kraj
+Bergs Z.
+Rinderknech A.
+Galloway R.
+Peers J.
+2
+1
+4
+6
+7
+5
+10
+3
+Kraj
+Griekspoor T.
+Van De Zandschulp B.
+Cash R.
+Tracy J.
+2
+0
+6
+4
+6
+4
 Stuttgart (Njemačka), trava
 ATP - PAROVI: 
 Ždrijeb
@@ -135,6 +275,37 @@ Moutet C.
 6
 3
 6
+Kraj
+Hanfmann Y.
+Struff J-L.
+Doumbia S.
+Gonzalez S.
+2
+0
+6
+4
+7
+7
+6
+1
+S-Hertogenbosch (Nizozemska), trava
+WTA - PAROVI: 
+Ždrijeb
+Kraj
+Kempen M.
+Tang Q.
+Hozumi E.
+Wu F.
+1
+2
+2
+6
+7
+7
+6
+5
+9
+11
 Bratislava (Slovačka), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -149,6 +320,33 @@ Watanuki Y.
 7
 6
 4
+Kraj
+Kokkinakis T.
+Barrios Vera T.
+2
+0
+6
+4
+6
+4
+Kraj
+Cina F.
+Topo M.
+2
+0
+6
+3
+6
+2
+Kraj
+Gombos N.
+Choinski J.
+0
+2
+3
+6
+4
+6
 Cattolica (Italija), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -167,6 +365,43 @@ Rehberg M. H.
 Travaglia S.
 -
 -
+Kraj
+Broady L.
+Xilas I.
+2
+1
+6
+3
+3
+6
+6
+2
+Kraj
+Ribecai M.
+Agamenone F.
+1
+2
+6
+3
+6
+5
+7
+7
+3
+6
+Kraj
+Basile P.
+Brancaccio R.
+0
+2
+6
+4
+7
+7
+6
+4
+7
+7
 Ilkley (Ujedinjeno Kraljevstvo), trava
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -183,6 +418,28 @@ Martin Tiffon P.
 Blanch D.
 -
 -
+Kraj
+Pavlovic L.
+Galan D. E.
+0
+2
+6
+3
+7
+7
+2
+6
+Kraj
+Djere L.
+Coppejans K.
+1
+2
+2
+6
+6
+2
+4
+6
 Bratislava (Slovačka) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -216,6 +473,38 @@ Daniel T.
 4
 6
 3
+6
+Kraj
+Gadamauri B.
+Kuzmanov D.
+2
+1
+3
+6
+6
+4
+6
+2
+Kraj
+(predano)
+Barton H.
+Alvarez Varona N.
+0
+0
+4
+3
+Kraj
+Santillan A.
+Shelbayh A.
+1
+2
+6
+0
+7
+7
+6
+2
+0
 6
 Cattolica (Italija) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
@@ -271,6 +560,19 @@ Martin Manzano J. C.
 5
 6
 4
+Kraj
+Forti F.
+Pieri S.
+2
+0
+7
+7
+6
+2
+7
+7
+6
+5
 Ilkley (Ujedinjeno Kraljevstvo) - Kvalifikacije, trava
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -308,6 +610,19 @@ Jones B.
 7
 7
 Kraj
+Evans D.
+Broom C.
+1
+2
+6
+2
+6
+7
+7
+9
+3
+6
+Kraj
 Hurrion M.
 Stewart H.
 1
@@ -318,6 +633,43 @@ Stewart H.
 6
 4
 6
+Kraj
+Noguchi R.
+Smith K.
+1
+2
+3
+6
+6
+4
+2
+6
+Kraj
+Lajal M.
+Jubb P.
+1
+2
+7
+9
+6
+7
+2
+6
+6
+5
+7
+7
+Kraj
+Romano F.
+Gray A.
+2
+0
+6
+2
+7
+9
+6
+7
 Lyon (Francuska) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -389,6 +741,18 @@ Cigarran T.
 6
 2
 6
+Ilkley (Ujedinjeno Kraljevstvo), trava
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Dudeney A.
+Sakatsume H.
+2
+0
+6
+4
+6
+3
 Modena (Italija), zemlja
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -403,6 +767,24 @@ Samson L.
 7
 5
 7
+Kraj
+Quevedo K.
+Ortenzi J.
+2
+0
+6
+3
+6
+4
+Kraj
+Noha Akugue N.
+Rakotomanga Rajaonah T.
+2
+0
+6
+4
+6
+4
 Ilkley (Ujedinjeno Kraljevstvo) - Kvalifikacije, trava
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -428,6 +810,51 @@ Stoiber R. A.
 2
 6
 4
+Kraj
+Cross K.
+Martincova T.
+0
+2
+3
+6
+4
+6
+Kraj
+Tan H.
+Appleton E.
+2
+0
+7
+5
+6
+3
+Kraj
+Naef C.
+Kobori M.
+2
+0
+7
+5
+7
+5
+Kraj
+Valdmannova V.
+Griffiths E.
+2
+0
+6
+2
+6
+2
+Kraj
+Shymanovich I.
+Ngounoue C.
+2
+0
+6
+3
+6
+3
 M25 Cuiaba (Brazil), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -440,6 +867,20 @@ Hardt N.
 6
 2
 6
+M15 Messina (Italija), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Catini N.
+Miletich I.
+Ruffino E.
+Strazza M.
+2
+0
+6
+4
+6
+4
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -466,7 +907,6 @@ WTA Parovi
 ATP Parovi Race
 WTA Parovi Race
 AKTUALNI TURNIRI
-ATP French Open
 ATP Hertogenbosch
 ATP Stuttgart
 WTA London
@@ -475,8 +915,9 @@ ATP S-Hertogenbosch
 ATP Stuttgart
 WTA London
 WTA S-Hertogenbosch
-Birmingham Challenger Muškarci
-Prikaži više (36)
+Bratislava Challenger Muškarci
+Cattolica Challenger Muškarci
+Prikaži više (50)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -502,7 +943,7 @@ Juniori - singl
 Juniorke - singl
 Prikaži više
 Tenis livescore na Rezultatima nudi teniske rezultate uživo za preko 5000 teniskih turnira diljem svijeta, uključujući Australian Open, French Open, Wimbledon, US Open i mnoge druge. Pratite najnovije rezultate iz tenisa na Rezultatima, gdje možete pronaći detaljnu statistiku (asevi, dvostruke pogreške, postotak servisa, osvojeni servisi, spašene break lopte, neprisiljene pogreške, itd.), usporedbu koeficijenata, međuosboni omjer, vijesti, video sažetke ili tijek meča poen po poen. Pronađite sve današnje rezultate i vijesti iz tenisa na Rezultatima, uključujući ATP rezultate, WTA rezultate, ATP poredak, ATP kalendar 2026, WTA kalendar 2026, ili profile igrača (npr. Jannik Sinner, Carlos Alcaraz, Novak Đoković, Donna Vekić). Usluga tenis livescore se automatski ažurira, tako da nema potrebe da osvježavate stranicu.
-08.06. Paul Tommy - Mpetshi Perricard Giovanni, Onclin Gauthier - Marozsan Fabian, 09.06. Bautista-Agut Roberto - Giron Marcos, Kyrgios Nick - Moutet Corentin, Dedura Diego - Duckworth James, Altmaier Daniel - Tiafoe Frances, Hanfmann Yannick - Kovacevic Aleksandar, Gentzsch Tom - Hijikata Rinky, Struff Jan-Lennard - Galarneau Alexis, Halys Quentin - Shimabukuro Sho
+09.06. Bautista-Agut Roberto - Giron Marcos, Hanfmann Yannick - Kovacevic Aleksandar, Halys Quentin - Shimabukuro Sho, Struff Jan-Lennard - Galarneau Alexis, Gentzsch Tom - Hijikata Rinky, Altmaier Daniel - Tiafoe Frances, Dedura Diego - Duckworth James, Kyrgios Nick - Moutet Corentin, 10.06. Landaluce Martin - Fritz Taylor
 
 SP 2026
 Svjetsko Prvenstvo u nogometu utakmice
@@ -549,7 +990,8 @@ SAD - Paragvaj
 Katar - Švicarska
 Brazil - Maroko
 LIVESCORE
-Čilić - Shapovalov
+Boskovic - Andreeva
+Borges - Čilić
 Srbija - Argentina
 Belgija - Srbija
 Hrvatska - Albanija
@@ -558,7 +1000,6 @@ Hrvatska Ž - Estonija Ž
 Finska - Hrvatska
 Mađarska Ž - Hrvatska Ž
 Bugarska - Srbija
-Nizozemska - Uzbekistan
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
