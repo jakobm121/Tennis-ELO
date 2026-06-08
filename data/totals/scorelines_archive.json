@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T08:06:32.417552+02:00",
-  "source": "rezultati_daily_results",
+  "generated_at": "2026-06-08T12:16:05.571176+02:00",
+  "source": "kaggle_plus_rezultati",
   "counts": {
-    "archive_before": 29,
-    "daily_scorelines": 2,
+    "archive_before": 31,
+    "kaggle_imported_unique": 0,
     "archive_after": 31,
-    "added": 2
+    "added": 0
   },
   "matches": [
     {

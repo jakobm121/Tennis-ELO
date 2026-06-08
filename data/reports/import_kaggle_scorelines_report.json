@@ -1,0 +1,79 @@
+{
+  "generated_at": "2026-06-08T12:16:05.571200+02:00",
+  "input_dir": "data/external/kaggle_tennis",
+  "reference_date": "2026-06-08",
+  "cutoff_date": "2025-06-08",
+  "lookback_days": 365,
+  "counts": {
+    "archive_before": 31,
+    "kaggle_imported_unique": 0,
+    "archive_after": 31,
+    "added": 0
+  },
+  "coverage": {
+    "men": 0,
+    "women": 0,
+    "clay": 2,
+    "hard": 0,
+    "grass": 0,
+    "with_odds": 0
+  },
+  "parse_counts": {
+    "missing_required_columns": 2
+  },
+  "files": [
+    {
+      "file": "data/external/kaggle_tennis/atp/atp_tennis.csv",
+      "gender": "men",
+      "headers": [
+        "Tournament",
+        "Date",
+        "Series",
+        "Court",
+        "Surface",
+        "Round",
+        "Best of",
+        "Player_1",
+        "Player_2",
+        "Winner",
+        "Rank_1",
+        "Rank_2",
+        "Pts_1",
+        "Pts_2",
+        "Odd_1",
+        "Odd_2",
+        "Score"
+      ],
+      "counts": {
+        "missing_required_columns": 1
+      },
+      "imported": 0
+    },
+    {
+      "file": "data/external/kaggle_tennis/wta/wta.csv",
+      "gender": "women",
+      "headers": [
+        "Tournament",
+        "Date",
+        "Court",
+        "Surface",
+        "Round",
+        "Best of",
+        "Player_1",
+        "Player_2",
+        "Winner",
+        "Rank_1",
+        "Rank_2",
+        "Pts_1",
+        "Pts_2",
+        "Odd_1",
+        "Odd_2",
+        "Score"
+      ],
+      "counts": {
+        "missing_required_columns": 1
+      },
+      "imported": 0
+    }
+  ]
+}
