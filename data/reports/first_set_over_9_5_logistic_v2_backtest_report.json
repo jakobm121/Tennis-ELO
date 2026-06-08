@@ -1,0 +1,123 @@
+{
+  "generated_at": "2026-06-08T12:48:46.195791+02:00",
+  "model": "first_set_over_9_5_walk_forward_logistic_v2_odds_rank",
+  "summary": {
+    "sample_size": 1089,
+    "accuracy": 0.5298,
+    "brier_score": 0.255074,
+    "log_loss": 0.70505,
+    "actual_over_rate": 0.4848,
+    "avg_predicted_over": 0.4722,
+    "test_start": "2026-03-01",
+    "baseline_over_9_5": 0.5128,
+    "test_matches": 1089,
+    "train_rows_final": 2443
+  },
+  "by_surface": {
+    "clay": {
+      "sample_size": 783,
+      "accuracy": 0.5287,
+      "brier_score": 0.257567,
+      "log_loss": 0.710554,
+      "actual_over_rate": 0.4815,
+      "avg_predicted_over": 0.4486
+    },
+    "hard": {
+      "sample_size": 306,
+      "accuracy": 0.5327,
+      "brier_score": 0.248696,
+      "log_loss": 0.690966,
+      "actual_over_rate": 0.4935,
+      "avg_predicted_over": 0.5327
+    }
+  },
+  "by_gender": {
+    "men": {
+      "sample_size": 576,
+      "accuracy": 0.526,
+      "brier_score": 0.252375,
+      "log_loss": 0.698516,
+      "actual_over_rate": 0.5156,
+      "avg_predicted_over": 0.5316
+    },
+    "women": {
+      "sample_size": 513,
+      "accuracy": 0.5341,
+      "brier_score": 0.258105,
+      "log_loss": 0.712386,
+      "actual_over_rate": 0.4503,
+      "avg_predicted_over": 0.4056
+    }
+  },
+  "by_match_balance": {
+    "balanced_favorite_prob_le_0_60": {
+      "sample_size": 303,
+      "accuracy": 0.5347,
+      "brier_score": 0.25405,
+      "log_loss": 0.703742,
+      "actual_over_rate": 0.4917,
+      "avg_predicted_over": 0.5104
+    },
+    "strong_favorite_prob_ge_0_75": {
+      "sample_size": 299,
+      "accuracy": 0.5719,
+      "brier_score": 0.24555,
+      "log_loss": 0.685166,
+      "actual_over_rate": 0.4147,
+      "avg_predicted_over": 0.4141
+    }
+  },
+  "calibration": [
+    {
+      "bucket": "0.0-0.1",
+      "sample_size": 1,
+      "avg_predicted": 0.0509,
+      "actual_over_rate": 0
+    },
+    {
+      "bucket": "0.1-0.2",
+      "sample_size": 9,
+      "avg_predicted": 0.1449,
+      "actual_over_rate": 0.4444
+    },
+    {
+      "bucket": "0.2-0.3",
+      "sample_size": 52,
+      "avg_predicted": 0.2678,
+      "actual_over_rate": 0.5385
+    },
+    {
+      "bucket": "0.3-0.4",
+      "sample_size": 246,
+      "avg_predicted": 0.3565,
+      "actual_over_rate": 0.4309
+    },
+    {
+      "bucket": "0.4-0.5",
+      "sample_size": 339,
+      "avg_predicted": 0.4497,
+      "actual_over_rate": 0.4749
+    },
+    {
+      "bucket": "0.5-0.6",
+      "sample_size": 287,
+      "avg_predicted": 0.5453,
+      "actual_over_rate": 0.4913
+    },
+    {
+      "bucket": "0.6-0.7",
+      "sample_size": 121,
+      "avg_predicted": 0.6401,
+      "actual_over_rate": 0.5702
+    },
+    {
+      "bucket": "0.7-0.8",
+      "sample_size": 34,
+      "avg_predicted": 0.7325,
+      "actual_over_rate": 0.5588
+    }
+  ],
+  "counters": {
+    "insufficient_sample": 2476
+  }
+}
