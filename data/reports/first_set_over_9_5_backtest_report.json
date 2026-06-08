@@ -1,0 +1,85 @@
+{
+  "generated_at": "2026-06-08T12:36:49.096346+02:00",
+  "model": "first_set_over_9_5_walk_forward_v1",
+  "source_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/totals/scorelines_archive.json",
+  "output_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/backtests/first_set_over_9_5_backtest.json",
+  "summary": {
+    "test_start": "2026-03-01",
+    "baseline_over_9_5": 0.5128,
+    "test_matches": 940,
+    "accuracy": 0.5383,
+    "brier_score": 0.250476,
+    "log_loss": 0.694302,
+    "actual_over_rate": 0.4755,
+    "avg_predicted_over": 0.5021
+  },
+  "parse_counts": {
+    "invalid_date": 29,
+    "ok": 4919,
+    "insufficient_player_sample": 508
+  },
+  "by_surface": {
+    "clay": {
+      "sample_size": 665,
+      "accuracy": 0.5414,
+      "brier_score": 0.250494,
+      "log_loss": 0.694303,
+      "actual_over_rate": 0.4707,
+      "avg_predicted_over": 0.4984
+    },
+    "hard": {
+      "sample_size": 275,
+      "accuracy": 0.5309,
+      "brier_score": 0.250433,
+      "log_loss": 0.6943,
+      "actual_over_rate": 0.4873,
+      "avg_predicted_over": 0.511
+    }
+  },
+  "by_gender": {
+    "men": {
+      "sample_size": 497,
+      "accuracy": 0.5191,
+      "brier_score": 0.251964,
+      "log_loss": 0.697307
+    },
+    "women": {
+      "sample_size": 443,
+      "accuracy": 0.5598,
+      "brier_score": 0.248808,
+      "log_loss": 0.690931
+    }
+  },
+  "calibration": [
+    {
+      "bucket": "0.3-0.4",
+      "sample_size": 51,
+      "avg_predicted": 0.3784,
+      "actual_over_rate": 0.4314
+    },
+    {
+      "bucket": "0.4-0.5",
+      "sample_size": 438,
+      "avg_predicted": 0.4569,
+      "actual_over_rate": 0.4406
+    },
+    {
+      "bucket": "0.5-0.6",
+      "sample_size": 359,
+      "avg_predicted": 0.5427,
+      "actual_over_rate": 0.5097
+    },
+    {
+      "bucket": "0.6-0.7",
+      "sample_size": 91,
+      "avg_predicted": 0.6271,
+      "actual_over_rate": 0.5275
+    },
+    {
+      "bucket": "0.7-0.8",
+      "sample_size": 1,
+      "avg_predicted": 0.7178,
+      "actual_over_rate": 1
+    }
+  ]
+}
