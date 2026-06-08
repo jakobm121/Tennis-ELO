@@ -33,15 +33,18 @@ ALIASES = {
     "surface": ("surface", "court"),
     "round": ("round", "rnd"),
     "best_of": ("best of", "best_of", "bestof"),
+    "player_1": ("player_1", "player1", "p1"),
+    "player_2": ("player_2", "player2", "p2"),
     "winner": ("winner", "winner_name", "w_name"),
-    "loser": ("loser", "loser_name", "l_name"),
     "score": ("score", "match_score", "result"),
     "comment": ("comment", "status"),
-    "winner_rank": ("wrank", "winner_rank", "w_rank"),
-    "loser_rank": ("lrank", "loser_rank", "l_rank"),
-    "winner_odds": ("b365w", "psw", "avgw", "maxw", "winner_odds"),
-    "loser_odds": ("b365l", "psl", "avgl", "maxl", "loser_odds"),
-    "location": ("court", "location"),
+    "rank_1": ("rank_1", "rank1", "wrank", "winner_rank", "w_rank"),
+    "rank_2": ("rank_2", "rank2", "lrank", "loser_rank", "l_rank"),
+    "points_1": ("pts_1", "points_1", "pts1"),
+    "points_2": ("pts_2", "points_2", "pts2"),
+    "odd_1": ("odd_1", "odds_1", "b365w", "psw", "avgw", "maxw"),
+    "odd_2": ("odd_2", "odds_2", "b365l", "psl", "avgl", "maxl"),
+    "court": ("court", "location"),
 }
 
 
@@ -88,6 +91,7 @@ def parse_date(raw: str) -> date | None:
     for fmt in (
         "%Y-%m-%d", "%Y/%m/%d", "%d/%m/%Y", "%d.%m.%Y",
         "%m/%d/%Y", "%Y%m%d", "%d-%m-%Y",
+        "%d/%m/%y", "%d.%m.%y", "%m/%d/%y",
     ):
         try:
             return datetime.strptime(raw, fmt).date()
@@ -135,8 +139,8 @@ def grand_slam(tournament: str) -> bool:
     )
 
 
-def tour_level(tournament: str, gender: str) -> str:
-    lower = tournament.lower()
+def tour_level(tournament: str, gender: str, series: str = "") -> str:
+    lower = f"{tournament} {series}".lower()
 
     if grand_slam(tournament):
         return "grand_slam"
@@ -196,7 +200,6 @@ def parse_score(raw: str) -> list[dict[str, Any]] | None:
     sets: list[dict[str, Any]] = []
 
     for token in raw.split():
-        # Ignore final match-tiebreak notation; it is not a normal set total.
         if re.fullmatch(r"\[\d{1,2}-\d{1,2}\]", token):
             continue
 
@@ -242,6 +245,11 @@ def invalid_score(score: str, comment: str) -> bool:
     return not score or any(marker in combined for marker in INVALID_MARKERS)
 
 
+def same_name(a: str, b: str) -> bool:
+    compact = lambda x: re.sub(r"[^a-z0-9]+", "", clean_str(x).lower())
+    return bool(compact(a)) and compact(a) == compact(b)
+
+
 def row_to_match(
     row: dict[str, Any],
     mapping: dict[str, str],
@@ -254,13 +262,15 @@ def row_to_match(
     if played < cutoff:
         return None, "outside_window"
 
+    player_1 = value(row, mapping, "player_1")
+    player_2 = value(row, mapping, "player_2")
     winner = value(row, mapping, "winner")
-    loser = value(row, mapping, "loser")
     score = value(row, mapping, "score")
     comment = value(row, mapping, "comment")
 
-    if not winner or not loser:
+    if not player_1 or not player_2 or not winner:
         return None, "missing_players"
+
     if invalid_score(score, comment):
         return None, "invalid_or_incomplete"
 
@@ -270,8 +280,18 @@ def row_to_match(
 
     derived = derived_fields(sets)
 
-    # Kaggle files normally provide score from the winner's perspective.
-    if derived["sets_1"] <= derived["sets_2"]:
+    if same_name(winner, player_1):
+        expected_winner = 1
+        loser = player_2
+    elif same_name(winner, player_2):
+        expected_winner = 2
+        loser = player_1
+    else:
+        return None, "winner_name_mismatch"
+
+    actual_winner = 1 if derived["sets_1"] > derived["sets_2"] else 2
+
+    if actual_winner != expected_winner:
         return None, "winner_score_mismatch"
 
     gender = gender_from_path(source_file)
@@ -282,15 +302,30 @@ def row_to_match(
     if best_of not in {3, 5}:
         best_of = 5 if is_gs and gender == "men" else 3
 
-    location_text = " ".join(
-        [value(row, mapping, "location"), tournament]
-    ).lower()
-
+    court_text = value(row, mapping, "court").lower()
     indoor: bool | None = None
-    if "indoor" in location_text:
+    if "indoor" in court_text:
         indoor = True
-    elif "outdoor" in location_text:
+    elif "outdoor" in court_text:
         indoor = False
+
+    odd_1 = as_float(value(row, mapping, "odd_1"))
+    odd_2 = as_float(value(row, mapping, "odd_2"))
+
+    bookmaker = {
+        "player_1_odds": odd_1 if odd_1 and odd_1 > 1 else None,
+        "player_2_odds": odd_2 if odd_2 and odd_2 > 1 else None,
+        "winner_odds": (
+            odd_1 if expected_winner == 1 and odd_1 and odd_1 > 1
+            else odd_2 if expected_winner == 2 and odd_2 and odd_2 > 1
+            else None
+        ),
+        "loser_odds": (
+            odd_2 if expected_winner == 1 and odd_2 and odd_2 > 1
+            else odd_1 if expected_winner == 2 and odd_1 and odd_1 > 1
+            else None
+        ),
+    }
 
     match: dict[str, Any] = {
         "match_id": "",
@@ -306,22 +341,22 @@ def row_to_match(
         "indoor": indoor,
         "best_of": best_of,
         "is_grand_slam": is_gs,
-        "player_1": winner,
-        "player_2": loser,
-        "match": f"{winner} - {loser}",
+        "player_1": player_1,
+        "player_2": player_2,
+        "match": f"{player_1} - {player_2}",
         "winner": winner,
         "loser": loser,
+        "winner_side": expected_winner,
         "set_scores": sets,
         "completed": True,
         "retired": False,
         "walkover": False,
         "raw_score": score,
-        "winner_rank": as_int(value(row, mapping, "winner_rank")),
-        "loser_rank": as_int(value(row, mapping, "loser_rank")),
-        "bookmaker": {
-            "winner_odds": as_float(value(row, mapping, "winner_odds")),
-            "loser_odds": as_float(value(row, mapping, "loser_odds")),
-        },
+        "rank_1": as_int(value(row, mapping, "rank_1")),
+        "rank_2": as_int(value(row, mapping, "rank_2")),
+        "points_1": as_int(value(row, mapping, "points_1")),
+        "points_2": as_int(value(row, mapping, "points_2")),
+        "bookmaker": bookmaker,
     }
     match.update(derived)
     return match, "ok"
@@ -401,9 +436,10 @@ def import_csv(
         headers = reader.fieldnames or []
         mapping = make_mapping(headers)
 
-        missing = {"date", "winner", "loser", "score"} - set(mapping)
+        missing = {"date", "player_1", "player_2", "winner", "score"} - set(mapping)
         if missing:
             counts["missing_required_columns"] = 1
+            counts["missing_columns_count"] = len(missing)
             return imported, counts, headers
 
         for row in reader:
@@ -482,8 +518,8 @@ def main() -> None:
         "hard": sum(row.get("surface") == "hard" for row in archive_after),
         "grass": sum(row.get("surface") == "grass" for row in archive_after),
         "with_odds": sum(
-            bool((row.get("bookmaker") or {}).get("winner_odds"))
-            and bool((row.get("bookmaker") or {}).get("loser_odds"))
+            bool((row.get("bookmaker") or {}).get("player_1_odds"))
+            and bool((row.get("bookmaker") or {}).get("player_2_odds"))
             for row in archive_after
         ),
     }
