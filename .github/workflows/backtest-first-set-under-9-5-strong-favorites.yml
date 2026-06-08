@@ -1,0 +1,81 @@
+name: Backtest First Set Under 9.5 Strong Favorites
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  backtest-first-set-under-9-5-strong-favorites:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run strong-favorites backtest
+        env:
+          STRONG_FAVORITE_THRESHOLDS: "0.70,0.75,0.80,0.85"
+          STRONG_FAVORITE_MIN_SAMPLE: "30"
+        run: python -m tennis_elo.totals.backtest_first_set_under_9_5_strong_favorites
+
+      - name: Validate backtest
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          path = Path(
+              "data/backtests/first_set_under_9_5_strong_favorites.json"
+          )
+
+          if not path.exists():
+              raise SystemExit("Missing strong-favorites backtest output")
+
+          data = json.loads(path.read_text(encoding="utf-8"))
+
+          print("BEST:", data.get("best_threshold"))
+
+          for row in data.get("threshold_results", []):
+              overall = row.get("overall", {})
+
+              print(
+                  "THRESHOLD:",
+                  row.get("threshold"),
+                  "sample=", overall.get("sample_size"),
+                  "under_rate=", overall.get("under_hit_rate"),
+                  "fair_odds=", overall.get("fair_odds_under"),
+              )
+          PY
+
+      - name: Commit backtest outputs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/backtests/first_set_under_9_5_strong_favorites.json
+          git add data/reports/first_set_under_9_5_strong_favorites_report.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Backtest first set under 9.5 strong favorites"
+          git pull --rebase --autostash origin main
+          git push origin HEAD:main
