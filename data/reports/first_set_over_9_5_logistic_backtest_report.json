@@ -1,0 +1,105 @@
+{
+  "generated_at": "2026-06-08T12:43:25.830939+02:00",
+  "model": "first_set_over_9_5_walk_forward_logistic_v1",
+  "summary": {
+    "sample_size": 1027,
+    "accuracy": 0.5161,
+    "brier_score": 0.259181,
+    "log_loss": 0.713551,
+    "actual_over_rate": 0.481,
+    "avg_predicted_over": 0.4794,
+    "test_start": "2026-03-01",
+    "baseline_over_9_5": 0.5128,
+    "test_matches": 1027,
+    "train_rows_final": 2164
+  },
+  "by_surface": {
+    "clay": {
+      "sample_size": 739,
+      "accuracy": 0.5034,
+      "brier_score": 0.261523,
+      "log_loss": 0.718179,
+      "actual_over_rate": 0.4777,
+      "avg_predicted_over": 0.4626
+    },
+    "hard": {
+      "sample_size": 288,
+      "accuracy": 0.5486,
+      "brier_score": 0.253173,
+      "log_loss": 0.701676,
+      "actual_over_rate": 0.4896,
+      "avg_predicted_over": 0.5225
+    }
+  },
+  "by_gender": {
+    "men": {
+      "sample_size": 544,
+      "accuracy": 0.5129,
+      "brier_score": 0.260824,
+      "log_loss": 0.716876,
+      "actual_over_rate": 0.5055,
+      "avg_predicted_over": 0.5282
+    },
+    "women": {
+      "sample_size": 483,
+      "accuracy": 0.5197,
+      "brier_score": 0.257331,
+      "log_loss": 0.709807,
+      "actual_over_rate": 0.4534,
+      "avg_predicted_over": 0.4244
+    }
+  },
+  "calibration": [
+    {
+      "bucket": "0.1-0.2",
+      "sample_size": 2,
+      "avg_predicted": 0.1936,
+      "actual_over_rate": 0.5
+    },
+    {
+      "bucket": "0.2-0.3",
+      "sample_size": 54,
+      "avg_predicted": 0.2661,
+      "actual_over_rate": 0.537
+    },
+    {
+      "bucket": "0.3-0.4",
+      "sample_size": 220,
+      "avg_predicted": 0.3571,
+      "actual_over_rate": 0.4318
+    },
+    {
+      "bucket": "0.4-0.5",
+      "sample_size": 324,
+      "avg_predicted": 0.4513,
+      "actual_over_rate": 0.4846
+    },
+    {
+      "bucket": "0.5-0.6",
+      "sample_size": 254,
+      "avg_predicted": 0.5476,
+      "actual_over_rate": 0.4803
+    },
+    {
+      "bucket": "0.6-0.7",
+      "sample_size": 146,
+      "avg_predicted": 0.6426,
+      "actual_over_rate": 0.5342
+    },
+    {
+      "bucket": "0.7-0.8",
+      "sample_size": 26,
+      "avg_predicted": 0.734,
+      "actual_over_rate": 0.4615
+    },
+    {
+      "bucket": "0.8-0.9",
+      "sample_size": 1,
+      "avg_predicted": 0.8128,
+      "actual_over_rate": 0
+    }
+  ],
+  "counters": {
+    "insufficient_sample": 2755
+  }
+}
