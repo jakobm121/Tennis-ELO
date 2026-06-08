@@ -2,8 +2,8 @@ import json
 import math
 import os
 import re
-from collections import defaultdict
-from datetime import datetime
+from collections import Counter, defaultdict
+from datetime import datetime, timedelta
 from statistics import mean
 from typing import Any
 from urllib.request import Request, urlopen
@@ -48,6 +48,16 @@ SURFACE_WEIGHT = float(
 SURFACE_CONFIDENCE_MATCHES = int(
     os.getenv("ELO_AI_RESULTS_SURFACE_CONFIDENCE_MATCHES", "20")
 )
+MAX_DATE_SHIFT_DAYS = int(
+    os.getenv("ELO_AI_RESULTS_MAX_DATE_SHIFT_DAYS", "1")
+)
+MIN_NAME_MATCH_SCORE = int(
+    os.getenv("ELO_AI_RESULTS_MIN_NAME_MATCH_SCORE", "70")
+)
+MAX_DIAGNOSTIC_ROWS = int(
+    os.getenv("ELO_AI_RESULTS_MAX_DIAGNOSTIC_ROWS", "250")
+)
+
 EV_THRESHOLDS = [
     float(value.strip())
     for value in os.getenv(
@@ -81,7 +91,7 @@ def fetch_json(url: str) -> Any:
     request = Request(
         url,
         headers={
-            "User-Agent": "Tennis-ELO AI-results backtest/1.0",
+            "User-Agent": "Tennis-ELO AI-results backtest/2.0",
             "Accept": "application/json",
         },
     )
@@ -150,47 +160,68 @@ def split_name(value: Any) -> tuple[list[str], list[str]]:
     return [parts[0]], parts[1:]
 
 
-def name_aliases(value: Any) -> set[str]:
-    parts = tokens(value)
-    given, surname = split_name(value)
-    output: set[str] = set()
-
-    if not parts:
-        return output
-
-    output.add("".join(parts))
-    output.add(" ".join(parts))
-
-    surname_text = "".join(surname)
-    given_text = "".join(given)
-    initial = given[0][:1] if given else ""
-
-    if surname_text:
-        output.add(surname_text)
-
-        if given_text:
-            output.add(f"{given_text}{surname_text}")
-            output.add(f"{surname_text}{given_text}")
-
-        if initial:
-            output.add(f"{initial}{surname_text}")
-            output.add(f"{surname_text}{initial}")
-
-    return {
-        compact(alias)
-        for alias in output
-        if alias
-    }
+def surname_text(value: Any) -> str:
+    _, surname = split_name(value)
+    return "".join(surname)
 
 
-def canonical_name(value: Any) -> str:
-    aliases = sorted(name_aliases(value))
+def initial_text(value: Any) -> str:
+    given, _ = split_name(value)
+    return given[0][:1] if given else ""
 
-    if not aliases:
-        return ""
 
-    # Prefer the longest alias because it preserves compound surnames.
-    return max(aliases, key=len)
+def name_match_score(query: Any, candidate: Any) -> int:
+    query_clean = compact(query)
+    candidate_clean = compact(candidate)
+
+    if not query_clean or not candidate_clean:
+        return 0
+
+    if query_clean == candidate_clean:
+        return 100
+
+    q_surname = surname_text(query)
+    c_surname = surname_text(candidate)
+    q_initial = initial_text(query)
+    c_initial = initial_text(candidate)
+
+    if q_surname and q_surname == c_surname:
+        if q_initial and c_initial and q_initial == c_initial:
+            return 85
+        return 65
+
+    if (
+        q_surname
+        and c_surname
+        and (
+            q_surname in c_surname
+            or c_surname in q_surname
+        )
+    ):
+        if q_initial and c_initial and q_initial == c_initial:
+            return 75
+        return 50
+
+    return 0
+
+
+def tournament_match_score(query: Any, candidate: Any) -> int:
+    query_clean = compact(query)
+    candidate_clean = compact(candidate)
+
+    if not query_clean or not candidate_clean:
+        return 0
+
+    if query_clean == candidate_clean:
+        return 15
+
+    if (
+        query_clean in candidate_clean
+        or candidate_clean in query_clean
+    ):
+        return 8
+
+    return 0
 
 
 def expected_score(a: float, b: float) -> float:
@@ -231,6 +262,11 @@ def normalized_surface(value: Any) -> str:
         if surface in KNOWN_SURFACES
         else "unknown"
     )
+
+
+def player_key(value: Any) -> str:
+    text = compact(value)
+    return text
 
 
 def new_player_state() -> dict[str, Any]:
@@ -330,23 +366,23 @@ def blended_probability(
         "p2_surface_elo": p2_surface,
         "p1_surface_matches": p1_surface_matches,
         "p2_surface_matches": p2_surface_matches,
+        "effective_overall_weight": effective_overall_weight,
+        "effective_surface_weight": effective_surface_weight,
     }
 
 
 def valid_canonical_match(row: dict[str, Any]) -> bool:
-    if not parse_date(row.get("date")):
-        return False
-
+    match_date = parse_date(row.get("date"))
     player_1 = clean_str(row.get("player_1"))
     player_2 = clean_str(row.get("player_2"))
     winner = clean_str(row.get("winner"))
 
-    if not player_1 or not player_2 or not winner:
+    if not match_date or not player_1 or not player_2 or not winner:
         return False
 
-    p1_key = canonical_name(player_1)
-    p2_key = canonical_name(player_2)
-    winner_key = canonical_name(winner)
+    p1_key = player_key(player_1)
+    p2_key = player_key(player_2)
+    winner_key = player_key(winner)
 
     if (
         not p1_key
@@ -366,7 +402,9 @@ def valid_canonical_match(row: dict[str, Any]) -> bool:
 
 
 def valid_ai_result(row: dict[str, Any]) -> bool:
-    if clean_str(row.get("result")).lower() not in SETTLED_RESULTS:
+    result = clean_str(row.get("result")).lower()
+
+    if result not in SETTLED_RESULTS:
         return False
 
     if not parse_date(row.get("date")):
@@ -387,13 +425,7 @@ def valid_ai_result(row: dict[str, Any]) -> bool:
 
 
 def flat_profit(result: str, odds: float) -> float:
-    if result == "win":
-        return odds - 1.0
-
-    if result == "loss":
-        return -1.0
-
-    return 0.0
+    return odds - 1.0 if result == "win" else -1.0
 
 
 def summarize_bets(
@@ -463,16 +495,12 @@ def threshold_grid(
                     and row["odds"] >= min_odds
                 ]
 
-                summary = summarize_bets(subset)
-
                 output.append(
                     {
                         "min_ev": min_ev,
-                        "min_model_probability": (
-                            min_probability
-                        ),
+                        "min_model_probability": min_probability,
                         "min_odds": min_odds,
-                        **summary,
+                        **summarize_bets(subset),
                     }
                 )
 
@@ -487,23 +515,300 @@ def threshold_grid(
     return output
 
 
+def build_pre_match_snapshots(
+    canonical_matches: list[dict[str, Any]],
+) -> tuple[
+    dict[Any, list[dict[str, Any]]],
+    dict[str, Any],
+]:
+    players: dict[str, dict[str, Any]] = defaultdict(
+        new_player_state
+    )
+    snapshots_by_date: dict[Any, list[dict[str, Any]]] = defaultdict(list)
+    counters: dict[str, int] = defaultdict(int)
+
+    for row in canonical_matches:
+        match_date = parse_date(row["date"])
+        player_1 = clean_str(row["player_1"])
+        player_2 = clean_str(row["player_2"])
+        winner = clean_str(row["winner"])
+        p1_key = player_key(player_1)
+        p2_key = player_key(player_2)
+        winner_key = player_key(winner)
+        surface = normalized_surface(row.get("surface"))
+
+        p1_state = players[p1_key]
+        p2_state = players[p2_key]
+        model = blended_probability(
+            p1_state,
+            p2_state,
+            surface,
+        )
+
+        snapshots_by_date[match_date].append(
+            {
+                "date": match_date,
+                "player_1": player_1,
+                "player_2": player_2,
+                "player_1_key": p1_key,
+                "player_2_key": p2_key,
+                "winner": winner,
+                "surface": surface,
+                "tournament": (
+                    row.get("tournament")
+                    or row.get("tournament_code")
+                    or ""
+                ),
+                "tour_level": row.get("tour_level"),
+                "gender": row.get("gender"),
+                "canonical_match_id": row.get(
+                    "canonical_match_id"
+                ),
+                "player_1_matches_before": int(
+                    p1_state["matches_total"]
+                ),
+                "player_2_matches_before": int(
+                    p2_state["matches_total"]
+                ),
+                "model": model,
+            }
+        )
+
+        if winner_key == p1_key:
+            winner_state = p1_state
+            loser_state = p2_state
+        else:
+            winner_state = p2_state
+            loser_state = p1_state
+
+        (
+            winner_state["overall_elo"],
+            loser_state["overall_elo"],
+        ) = update_pair(
+            float(winner_state["overall_elo"]),
+            float(loser_state["overall_elo"]),
+            K_FACTOR,
+        )
+
+        if surface in KNOWN_SURFACES:
+            (
+                winner_state["surface_elo"][surface],
+                loser_state["surface_elo"][surface],
+            ) = update_pair(
+                get_surface_rating(
+                    winner_state,
+                    surface,
+                ),
+                get_surface_rating(
+                    loser_state,
+                    surface,
+                ),
+                SURFACE_K_FACTOR,
+            )
+
+            p1_state["surface_matches"][surface] += 1
+            p2_state["surface_matches"][surface] += 1
+        else:
+            counters["unknown_surface_matches"] += 1
+
+        p1_state["matches_total"] += 1
+        p2_state["matches_total"] += 1
+
+    return dict(snapshots_by_date), {
+        "players_final": len(players),
+        **dict(counters),
+    }
+
+
+def candidate_score(
+    ai_row: dict[str, Any],
+    snapshot: dict[str, Any],
+    date_shift: int,
+) -> tuple[int, str, int, int]:
+    pick_player = clean_str(ai_row.get("player_name"))
+    opponent = clean_str(ai_row.get("opponent_name"))
+
+    direct_pick_score = name_match_score(
+        pick_player,
+        snapshot["player_1"],
+    )
+    direct_opponent_score = name_match_score(
+        opponent,
+        snapshot["player_2"],
+    )
+    reverse_pick_score = name_match_score(
+        pick_player,
+        snapshot["player_2"],
+    )
+    reverse_opponent_score = name_match_score(
+        opponent,
+        snapshot["player_1"],
+    )
+
+    direct_total = direct_pick_score + direct_opponent_score
+    reverse_total = reverse_pick_score + reverse_opponent_score
+
+    if direct_total >= reverse_total:
+        orientation = "player_1"
+        pick_score = direct_pick_score
+        opponent_score = direct_opponent_score
+        total = direct_total
+    else:
+        orientation = "player_2"
+        pick_score = reverse_pick_score
+        opponent_score = reverse_opponent_score
+        total = reverse_total
+
+    total += 20 if date_shift == 0 else 5
+    total += tournament_match_score(
+        ai_row.get("tournament"),
+        snapshot.get("tournament"),
+    )
+
+    return total, orientation, pick_score, opponent_score
+
+
+def find_snapshot(
+    ai_row: dict[str, Any],
+    snapshots_by_date: dict[Any, list[dict[str, Any]]],
+) -> tuple[
+    dict[str, Any] | None,
+    dict[str, Any],
+]:
+    ai_date = parse_date(ai_row.get("date"))
+
+    if not ai_date:
+        return None, {
+            "reason": "invalid_ai_date",
+        }
+
+    candidates = []
+
+    for shift in range(
+        -MAX_DATE_SHIFT_DAYS,
+        MAX_DATE_SHIFT_DAYS + 1,
+    ):
+        candidate_date = ai_date + timedelta(days=shift)
+
+        for snapshot in snapshots_by_date.get(
+            candidate_date,
+            [],
+        ):
+            (
+                score,
+                orientation,
+                pick_score,
+                opponent_score,
+            ) = candidate_score(
+                ai_row,
+                snapshot,
+                abs(shift),
+            )
+
+            if (
+                pick_score >= MIN_NAME_MATCH_SCORE
+                and opponent_score >= MIN_NAME_MATCH_SCORE
+            ):
+                candidates.append(
+                    {
+                        "score": score,
+                        "orientation": orientation,
+                        "pick_name_score": pick_score,
+                        "opponent_name_score": opponent_score,
+                        "date_shift_days": shift,
+                        "snapshot": snapshot,
+                    }
+                )
+
+    if not candidates:
+        same_date_rows = snapshots_by_date.get(ai_date, [])
+        return None, {
+            "reason": (
+                "no_pair_match_within_date_window"
+                if same_date_rows
+                else "no_canonical_matches_near_date"
+            ),
+            "same_date_candidates": len(same_date_rows),
+        }
+
+    candidates.sort(
+        key=lambda item: (
+            item["score"],
+            -abs(item["date_shift_days"]),
+        ),
+        reverse=True,
+    )
+
+    best = candidates[0]
+
+    if (
+        len(candidates) > 1
+        and candidates[1]["score"] == best["score"]
+        and candidates[1]["snapshot"].get(
+            "canonical_match_id"
+        ) != best["snapshot"].get(
+            "canonical_match_id"
+        )
+    ):
+        return None, {
+            "reason": "ambiguous_pair_match",
+            "best_score": best["score"],
+            "candidate_count": len(candidates),
+        }
+
+    return best["snapshot"], {
+        "reason": "matched",
+        "score": best["score"],
+        "orientation": best["orientation"],
+        "pick_name_score": best["pick_name_score"],
+        "opponent_name_score": best["opponent_name_score"],
+        "date_shift_days": best["date_shift_days"],
+        "candidate_count": len(candidates),
+    }
+
+
+def grouped_summary(
+    rows: list[dict[str, Any]],
+    field: str,
+) -> dict[str, Any]:
+    output = {}
+
+    for value in sorted(
+        {
+            clean_str(row.get(field)) or "unknown"
+            for row in rows
+        }
+    ):
+        subset = [
+            row
+            for row in rows
+            if (
+                clean_str(row.get(field))
+                or "unknown"
+            ) == value
+        ]
+        output[value] = summarize_bets(subset)
+
+    return output
+
+
 def main() -> None:
     canonical_payload = load_json(
         CANONICAL_MATCHES_FILE,
         {},
     )
-    canonical_matches = (
+    raw_canonical = (
         canonical_payload.get("matches", [])
         if isinstance(canonical_payload, dict)
         else []
     )
 
-    if not isinstance(canonical_matches, list):
-        canonical_matches = []
+    if not isinstance(raw_canonical, list):
+        raw_canonical = []
 
     canonical_matches = [
         row
-        for row in canonical_matches
+        for row in raw_canonical
         if isinstance(row, dict)
         and valid_canonical_match(row)
     ]
@@ -520,8 +825,14 @@ def main() -> None:
         )
     )
 
+    snapshots_by_date, snapshot_counts = (
+        build_pre_match_snapshots(
+            canonical_matches
+        )
+    )
+
     ai_payload = fetch_json(AI_RESULTS_URL)
-    ai_results = (
+    raw_ai_results = (
         ai_payload
         if isinstance(ai_payload, list)
         else ai_payload.get("results", [])
@@ -529,249 +840,210 @@ def main() -> None:
         else []
     )
 
+    if not isinstance(raw_ai_results, list):
+        raw_ai_results = []
+
     ai_results = [
         row
-        for row in ai_results
+        for row in raw_ai_results
         if isinstance(row, dict)
         and valid_ai_result(row)
     ]
 
-    by_date: dict[Any, list[dict[str, Any]]] = defaultdict(list)
-
-    for row in ai_results:
-        by_date[parse_date(row["date"])].append(row)
-
-    players: dict[str, dict[str, Any]] = defaultdict(
-        new_player_state
-    )
     evaluated: list[dict[str, Any]] = []
+    diagnostics: list[dict[str, Any]] = []
     counters: dict[str, int] = defaultdict(int)
 
-    ai_dates = sorted(by_date)
-    ai_date_set = set(ai_dates)
+    canonical_dates = sorted(snapshots_by_date)
+    canonical_min_date = (
+        canonical_dates[0]
+        if canonical_dates
+        else None
+    )
+    canonical_max_date = (
+        canonical_dates[-1]
+        if canonical_dates
+        else None
+    )
 
-    # Walk forward through canonical history.
-    for row in canonical_matches:
-        match_date = parse_date(row["date"])
-        player_1 = clean_str(row["player_1"])
-        player_2 = clean_str(row["player_2"])
-        winner = clean_str(row["winner"])
+    for ai_row in ai_results:
+        snapshot, match_info = find_snapshot(
+            ai_row,
+            snapshots_by_date,
+        )
 
-        p1_key = canonical_name(player_1)
-        p2_key = canonical_name(player_2)
-        winner_key = canonical_name(winner)
-        surface = normalized_surface(row.get("surface"))
+        if snapshot is None:
+            reason = match_info["reason"]
+            counters[reason] += 1
 
-        # Before updating this date's match, evaluate any AI picks for this date
-        # that correspond to this player pair. This keeps the ELO strictly pre-match.
-        if match_date in ai_date_set:
-            remaining = []
-
-            for pick in by_date[match_date]:
-                pick_player = clean_str(pick["player_name"])
-                opponent = clean_str(pick["opponent_name"])
-                pick_key = canonical_name(pick_player)
-                opponent_key = canonical_name(opponent)
-
-                pair_matches = {
-                    pick_key,
-                    opponent_key,
-                } == {
-                    p1_key,
-                    p2_key,
-                }
-
-                if not pair_matches:
-                    remaining.append(pick)
-                    continue
-
-                pick_state = players[pick_key]
-                opponent_state = players[opponent_key]
-
-                if (
-                    int(pick_state["matches_total"])
-                    < MIN_PLAYER_MATCHES
-                    or int(opponent_state["matches_total"])
-                    < MIN_PLAYER_MATCHES
-                ):
-                    counters[
-                        "insufficient_player_history"
-                    ] += 1
-                    continue
-
-                model = blended_probability(
-                    pick_state,
-                    opponent_state,
-                    surface,
-                )
-                model_probability = model["blended_p1"]
-                odds = float(pick["odds"])
-                result = clean_str(
-                    pick["result"]
-                ).lower()
-                ev = model_probability * odds - 1.0
-
-                evaluated.append(
+            if len(diagnostics) < MAX_DIAGNOSTIC_ROWS:
+                diagnostics.append(
                     {
-                        "pick_id": pick.get("pick_id"),
-                        "event_key": pick.get("event_key"),
-                        "date": match_date.isoformat(),
-                        "match": pick.get("match"),
-                        "pick_player": pick_player,
-                        "opponent": opponent,
-                        "tournament": pick.get("tournament"),
-                        "tour_level": pick.get("tour_level"),
-                        "gender": pick.get("gender"),
-                        "surface": surface,
-                        "odds": odds,
-                        "result": result,
-                        "flat_profit": round(
-                            flat_profit(result, odds),
-                            4,
-                        ),
-                        "original_stake": pick.get("stake"),
-                        "original_profit": pick.get("profit"),
-                        "ai_model_probability": pick.get(
-                            "model_prob"
-                        ),
-                        "ai_implied_probability": pick.get(
-                            "implied_prob"
-                        ),
-                        "elo_model_probability": round(
-                            model_probability,
-                            6,
-                        ),
-                        "elo_fair_odds": round(
-                            1.0 / model_probability,
-                            3,
-                        ),
-                        "elo_ev": round(ev, 6),
-                        "pick_matches_before": int(
-                            pick_state["matches_total"]
-                        ),
-                        "opponent_matches_before": int(
-                            opponent_state["matches_total"]
-                        ),
-                        "elo_details": model,
+                        "status": "unmatched",
+                        "reason": reason,
+                        "date": ai_row.get("date"),
+                        "event_key": ai_row.get("event_key"),
+                        "player_name": ai_row.get("player_name"),
+                        "opponent_name": ai_row.get("opponent_name"),
+                        "tournament": ai_row.get("tournament"),
+                        "details": match_info,
                     }
                 )
-                counters["matched_ai_pick"] += 1
+            continue
 
-            by_date[match_date] = remaining
+        orientation = match_info["orientation"]
 
-        # Update ELO only after pre-match evaluation.
-        p1_state = players[p1_key]
-        p2_state = players[p2_key]
-
-        if winner_key == p1_key:
-            winner_state = p1_state
-            loser_state = p2_state
+        if orientation == "player_1":
+            pick_matches_before = snapshot[
+                "player_1_matches_before"
+            ]
+            opponent_matches_before = snapshot[
+                "player_2_matches_before"
+            ]
+            model_probability = snapshot[
+                "model"
+            ]["blended_p1"]
         else:
-            winner_state = p2_state
-            loser_state = p1_state
-
-        winner_overall = float(
-            winner_state["overall_elo"]
-        )
-        loser_overall = float(
-            loser_state["overall_elo"]
-        )
-
-        (
-            winner_state["overall_elo"],
-            loser_state["overall_elo"],
-        ) = update_pair(
-            winner_overall,
-            loser_overall,
-            K_FACTOR,
-        )
-
-        if surface in KNOWN_SURFACES:
-            winner_surface = get_surface_rating(
-                winner_state,
-                surface,
-            )
-            loser_surface = get_surface_rating(
-                loser_state,
-                surface,
+            pick_matches_before = snapshot[
+                "player_2_matches_before"
+            ]
+            opponent_matches_before = snapshot[
+                "player_1_matches_before"
+            ]
+            model_probability = (
+                1.0
+                - snapshot["model"]["blended_p1"]
             )
 
-            (
-                winner_state["surface_elo"][surface],
-                loser_state["surface_elo"][surface],
-            ) = update_pair(
-                winner_surface,
-                loser_surface,
-                SURFACE_K_FACTOR,
-            )
+        if (
+            pick_matches_before < MIN_PLAYER_MATCHES
+            or opponent_matches_before < MIN_PLAYER_MATCHES
+        ):
+            counters[
+                "insufficient_player_history"
+            ] += 1
 
-            p1_state["surface_matches"][surface] += 1
-            p2_state["surface_matches"][surface] += 1
+            if len(diagnostics) < MAX_DIAGNOSTIC_ROWS:
+                diagnostics.append(
+                    {
+                        "status": "matched_but_ineligible",
+                        "reason": "insufficient_player_history",
+                        "date": ai_row.get("date"),
+                        "event_key": ai_row.get("event_key"),
+                        "player_name": ai_row.get("player_name"),
+                        "opponent_name": ai_row.get("opponent_name"),
+                        "canonical_match_id": snapshot.get(
+                            "canonical_match_id"
+                        ),
+                        "pick_matches_before": pick_matches_before,
+                        "opponent_matches_before": opponent_matches_before,
+                        "join": match_info,
+                    }
+                )
+            continue
 
-        p1_state["matches_total"] += 1
-        p2_state["matches_total"] += 1
+        odds = float(ai_row["odds"])
+        result = clean_str(
+            ai_row["result"]
+        ).lower()
+        ev = model_probability * odds - 1.0
 
-    unmatched = sum(
-        len(rows)
-        for rows in by_date.values()
-    )
-    counters["unmatched_ai_results"] = unmatched
+        evaluated.append(
+            {
+                "pick_id": ai_row.get("pick_id"),
+                "event_key": ai_row.get("event_key"),
+                "date": parse_date(
+                    ai_row["date"]
+                ).isoformat(),
+                "canonical_date": snapshot[
+                    "date"
+                ].isoformat(),
+                "date_shift_days": match_info[
+                    "date_shift_days"
+                ],
+                "canonical_match_id": snapshot.get(
+                    "canonical_match_id"
+                ),
+                "match": ai_row.get("match"),
+                "pick_player": clean_str(
+                    ai_row.get("player_name")
+                ),
+                "opponent": clean_str(
+                    ai_row.get("opponent_name")
+                ),
+                "canonical_player_1": snapshot[
+                    "player_1"
+                ],
+                "canonical_player_2": snapshot[
+                    "player_2"
+                ],
+                "orientation": orientation,
+                "tournament": (
+                    ai_row.get("tournament")
+                    or snapshot.get("tournament")
+                ),
+                "tour_level": (
+                    ai_row.get("tour_level")
+                    or snapshot.get("tour_level")
+                ),
+                "gender": (
+                    ai_row.get("gender")
+                    or snapshot.get("gender")
+                ),
+                "surface": snapshot["surface"],
+                "odds": odds,
+                "result": result,
+                "flat_profit": round(
+                    flat_profit(result, odds),
+                    4,
+                ),
+                "original_stake": ai_row.get("stake"),
+                "original_profit": ai_row.get("profit"),
+                "ai_model_probability": ai_row.get(
+                    "model_prob"
+                ),
+                "ai_implied_probability": ai_row.get(
+                    "implied_prob"
+                ),
+                "elo_model_probability": round(
+                    model_probability,
+                    6,
+                ),
+                "elo_fair_odds": round(
+                    1.0 / model_probability,
+                    3,
+                ),
+                "elo_ev": round(ev, 6),
+                "pick_matches_before": pick_matches_before,
+                "opponent_matches_before": opponent_matches_before,
+                "join_score": match_info["score"],
+                "pick_name_score": match_info[
+                    "pick_name_score"
+                ],
+                "opponent_name_score": match_info[
+                    "opponent_name_score"
+                ],
+                "elo_details": snapshot["model"],
+            }
+        )
+        counters["matched_ai_pick"] += 1
 
-    all_summary = summarize_bets(evaluated)
     grid = threshold_grid(evaluated)
 
-    by_gender = {}
-    for gender in sorted(
-        {
-            clean_str(row.get("gender")) or "unknown"
-            for row in evaluated
+    unmatched_count = sum(
+        value
+        for key, value in counters.items()
+        if key in {
+            "invalid_ai_date",
+            "no_pair_match_within_date_window",
+            "no_canonical_matches_near_date",
+            "ambiguous_pair_match",
         }
-    ):
-        subset = [
-            row
-            for row in evaluated
-            if (clean_str(row.get("gender")) or "unknown")
-            == gender
-        ]
-        by_gender[gender] = summarize_bets(subset)
-
-    by_tour_level = {}
-    for level in sorted(
-        {
-            clean_str(row.get("tour_level")) or "unknown"
-            for row in evaluated
-        }
-    ):
-        subset = [
-            row
-            for row in evaluated
-            if (
-                clean_str(row.get("tour_level"))
-                or "unknown"
-            ) == level
-        ]
-        by_tour_level[level] = summarize_bets(subset)
-
-    by_surface = {}
-    for surface in sorted(
-        {
-            clean_str(row.get("surface")) or "unknown"
-            for row in evaluated
-        }
-    ):
-        subset = [
-            row
-            for row in evaluated
-            if (
-                clean_str(row.get("surface"))
-                or "unknown"
-            ) == surface
-        ]
-        by_surface[surface] = summarize_bets(subset)
+    )
 
     output = {
         "generated_at": now_iso(),
-        "model": "elo_on_ai_results_walk_forward_v1",
+        "model": "elo_on_ai_results_walk_forward_v2",
         "source_ai_results_url": AI_RESULTS_URL,
         "source_canonical_file": str(
             CANONICAL_MATCHES_FILE
@@ -783,26 +1055,82 @@ def main() -> None:
             "surface_confidence_matches": (
                 SURFACE_CONFIDENCE_MATCHES
             ),
+            "max_date_shift_days": MAX_DATE_SHIFT_DAYS,
+            "min_name_match_score": MIN_NAME_MATCH_SCORE,
             "ev_thresholds": EV_THRESHOLDS,
             "min_model_probabilities": (
                 MIN_MODEL_PROBABILITIES
             ),
             "min_odds_values": MIN_ODDS_VALUES,
         },
+        "coverage": {
+            "canonical_min_date": (
+                canonical_min_date.isoformat()
+                if canonical_min_date
+                else None
+            ),
+            "canonical_max_date": (
+                canonical_max_date.isoformat()
+                if canonical_max_date
+                else None
+            ),
+            "ai_min_date": (
+                min(
+                    parse_date(row["date"])
+                    for row in ai_results
+                ).isoformat()
+                if ai_results
+                else None
+            ),
+            "ai_max_date": (
+                max(
+                    parse_date(row["date"])
+                    for row in ai_results
+                ).isoformat()
+                if ai_results
+                else None
+            ),
+        },
         "counts": {
-            "canonical_matches": len(
+            "canonical_matches_raw": len(
+                raw_canonical
+            ),
+            "canonical_matches_valid": len(
                 canonical_matches
             ),
-            "ai_results_total": len(ai_results),
+            "ai_results_raw": len(raw_ai_results),
+            "ai_results_valid": len(ai_results),
             "evaluated_ai_results": len(evaluated),
+            "unmatched_ai_results": unmatched_count,
+            **snapshot_counts,
             **dict(counters),
         },
-        "all_ai_results_summary": all_summary,
+        "all_ai_results_summary": summarize_bets(
+            evaluated
+        ),
         "best_thresholds": grid[:25],
         "threshold_grid": grid,
-        "by_gender": by_gender,
-        "by_tour_level": by_tour_level,
-        "by_surface": by_surface,
+        "by_gender": grouped_summary(
+            evaluated,
+            "gender",
+        ),
+        "by_tour_level": grouped_summary(
+            evaluated,
+            "tour_level",
+        ),
+        "by_surface": grouped_summary(
+            evaluated,
+            "surface",
+        ),
+        "join_diagnostics": {
+            "reason_counts": dict(
+                Counter(
+                    row["reason"]
+                    for row in diagnostics
+                )
+            ),
+            "sample_rows": diagnostics,
+        },
         "evaluated_results": evaluated,
     }
 
@@ -810,33 +1138,54 @@ def main() -> None:
         "generated_at": now_iso(),
         "model": output["model"],
         "settings": output["settings"],
+        "coverage": output["coverage"],
         "counts": output["counts"],
-        "all_ai_results_summary": all_summary,
-        "best_thresholds": grid[:25],
-        "by_gender": by_gender,
-        "by_tour_level": by_tour_level,
-        "by_surface": by_surface,
+        "all_ai_results_summary": output[
+            "all_ai_results_summary"
+        ],
+        "best_thresholds": output[
+            "best_thresholds"
+        ],
+        "by_gender": output["by_gender"],
+        "by_tour_level": output[
+            "by_tour_level"
+        ],
+        "by_surface": output["by_surface"],
+        "join_diagnostics": output[
+            "join_diagnostics"
+        ],
     }
 
     save_json(OUTPUT_FILE, output)
     save_json(REPORT_FILE, report)
 
     print("")
-    print("ELO ON AI RESULTS BACKTEST DONE")
+    print("ELO ON AI RESULTS BACKTEST V2 DONE")
+    print("COVERAGE:", output["coverage"])
     print("COUNTS:", output["counts"])
     print(
         "ALL RESULTS:",
         output["all_ai_results_summary"],
     )
 
+    print("\nJOIN REASONS:")
+
+    for reason, count in output[
+        "join_diagnostics"
+    ]["reason_counts"].items():
+        print(reason, count)
+
     print("\nBEST THRESHOLDS:")
 
     for row in output["best_thresholds"][:20]:
         print(row)
 
-    print("\nBY GENDER:", by_gender)
-    print("BY TOUR LEVEL:", by_tour_level)
-    print("BY SURFACE:", by_surface)
+    print("\nBY GENDER:", output["by_gender"])
+    print(
+        "BY TOUR LEVEL:",
+        output["by_tour_level"],
+    )
+    print("BY SURFACE:", output["by_surface"])
     print(f"\nOutput: {OUTPUT_FILE}")
     print(f"Report: {REPORT_FILE}")
     print("")
