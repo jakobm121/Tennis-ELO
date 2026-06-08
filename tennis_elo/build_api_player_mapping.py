@@ -1,7 +1,7 @@
 import json
 import os
 import re
-from collections import defaultdict
+from collections import Counter, defaultdict
 from difflib import SequenceMatcher
 from typing import Any
 from urllib.request import Request, urlopen
