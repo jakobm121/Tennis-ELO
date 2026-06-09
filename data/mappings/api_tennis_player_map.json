@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-06-09T17:42:51.322933+02:00",
+  "generated_at": "2026-06-09T22:32:07.963086+02:00",
   "source_odds_url": "https://raw.githubusercontent.com/jakobm121/Ai/refs/heads/main/data/tennis_odds_today.json",
-  "odds_generated_at": "2026-06-09T17:29:33.884324+02:00",
-  "ratings_generated_at": "2026-06-09T17:37:21.027023+02:00",
+  "odds_generated_at": "2026-06-09T22:21:27.600835+02:00",
+  "ratings_generated_at": "2026-06-09T22:30:18.624426+02:00",
   "players": {
     "2813": {
       "api_player_key": 2813,
@@ -11746,7 +11746,7 @@
         {
           "elo_player_name": "Balshaw F.",
           "elo_player_key": "balshaw f",
-          "matches_total": 11,
+          "matches_total": 48,
           "gender": "unknown",
           "score": 0.6514,
           "method": "fuzzy"
@@ -11755,7 +11755,7 @@
       "last_seen_event_key": 12135019,
       "last_seen_tournament": "M15 Brasilia",
       "last_seen_tournament_key": 4908,
-      "updated_at": "2026-06-09T17:42:47.669726+02:00"
+      "updated_at": "2026-06-09T22:32:04.484338+02:00"
     },
     "10508": {
       "api_player_key": 10508,
@@ -12322,7 +12322,7 @@
         {
           "elo_player_name": "Fomin S.",
           "elo_player_key": "fomin s",
-          "matches_total": 9,
+          "matches_total": 10,
           "gender": "unknown",
           "score": 0.74,
           "method": "fuzzy"
@@ -12330,7 +12330,7 @@
         {
           "elo_player_name": "Fomin S.",
           "elo_player_key": "fomin s",
-          "matches_total": 9,
+          "matches_total": 10,
           "gender": "unknown",
           "score": 0.74,
           "method": "fuzzy"
@@ -12363,7 +12363,7 @@
       "last_seen_event_key": 12135090,
       "last_seen_tournament": "M15 Los Angeles, CA",
       "last_seen_tournament_key": 7368,
-      "updated_at": "2026-06-09T17:42:49.674387+02:00"
+      "updated_at": "2026-06-09T22:32:05.083600+02:00"
     },
     "28596": {
       "api_player_key": 28596,
@@ -12683,7 +12683,7 @@
       "last_seen_event_key": 12135108,
       "last_seen_tournament": "W15 Los Angeles, CA",
       "last_seen_tournament_key": 7372,
-      "updated_at": "2026-06-09T17:42:50.084836+02:00"
+      "updated_at": "2026-06-09T22:32:05.793434+02:00"
     },
     "1351": {
       "api_player_key": 1351,
@@ -12787,7 +12787,7 @@
       "last_seen_event_key": 12135109,
       "last_seen_tournament": "W15 Los Angeles, CA",
       "last_seen_tournament_key": 7372,
-      "updated_at": "2026-06-09T17:42:50.455922+02:00"
+      "updated_at": "2026-06-09T22:32:06.442325+02:00"
     },
     "40122": {
       "api_player_key": 40122,
@@ -12843,7 +12843,7 @@
       "last_seen_event_key": 12135110,
       "last_seen_tournament": "W15 Los Angeles, CA",
       "last_seen_tournament_key": 7372,
-      "updated_at": "2026-06-09T17:42:50.941384+02:00"
+      "updated_at": "2026-06-09T22:32:07.314501+02:00"
     },
     "1358": {
       "api_player_key": 1358,
@@ -12906,7 +12906,7 @@
         {
           "elo_player_name": "Marcondes I.",
           "elo_player_key": "marcondes i",
-          "matches_total": 4,
+          "matches_total": 5,
           "gender": "unknown",
           "score": 0.7918,
           "method": "fuzzy"
@@ -12914,7 +12914,7 @@
         {
           "elo_player_name": "Marcondes I.",
           "elo_player_key": "marcondes i",
-          "matches_total": 4,
+          "matches_total": 5,
           "gender": "unknown",
           "score": 0.7918,
           "method": "fuzzy"
@@ -12947,7 +12947,103 @@
       "last_seen_event_key": 12135111,
       "last_seen_tournament": "W15 Los Angeles, CA",
       "last_seen_tournament_key": 7372,
-      "updated_at": "2026-06-09T17:42:51.322919+02:00"
+      "updated_at": "2026-06-09T22:32:07.962948+02:00"
+    },
+    "38184": {
+      "api_player_key": 38184,
+      "api_name": "C. Melleiro",
+      "gender": "women",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Melleiro C.",
+      "elo_player_key": "melleiro c",
+      "candidates": [
+        {
+          "elo_player_name": "Melleiro C.",
+          "elo_player_key": "melleiro c",
+          "matches_total": 2,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12135204,
+      "last_seen_tournament": "W35 Cuiaba",
+      "last_seen_tournament_key": 12982,
+      "updated_at": "2026-06-09T22:32:07.963025+02:00"
+    },
+    "2556": {
+      "api_player_key": 2556,
+      "api_name": "M. Gomez Pezuela Cano",
+      "gender": "women",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Gomez Pezuela Cano M.",
+      "elo_player_key": "gomez pezuela cano m",
+      "candidates": [
+        {
+          "elo_player_name": "Gomez Pezuela Cano M.",
+          "elo_player_key": "gomez pezuela cano m",
+          "matches_total": 1,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12135204,
+      "last_seen_tournament": "W35 Cuiaba",
+      "last_seen_tournament_key": 12982,
+      "updated_at": "2026-06-09T22:32:07.963050+02:00"
+    },
+    "114": {
+      "api_player_key": 114,
+      "api_name": "G. Price",
+      "gender": "women",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Price G.",
+      "elo_player_key": "price g",
+      "candidates": [
+        {
+          "elo_player_name": "Price G.",
+          "elo_player_key": "price g",
+          "matches_total": 1,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12135205,
+      "last_seen_tournament": "W35 Cuiaba",
+      "last_seen_tournament_key": 12982,
+      "updated_at": "2026-06-09T22:32:07.963067+02:00"
+    },
+    "10902": {
+      "api_player_key": 10902,
+      "api_name": "A. Candiotto",
+      "gender": "women",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Candiotto A.",
+      "elo_player_key": "candiotto a",
+      "candidates": [
+        {
+          "elo_player_name": "Candiotto A.",
+          "elo_player_key": "candiotto a",
+          "matches_total": 5,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12135205,
+      "last_seen_tournament": "W35 Cuiaba",
+      "last_seen_tournament_key": 12982,
+      "updated_at": "2026-06-09T22:32:07.963083+02:00"
     }
   }
 }
