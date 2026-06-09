@@ -1,0 +1,1662 @@
+{
+  "generated_at": "2026-06-10T00:58:15.745084+02:00",
+  "source_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/processed/canonical_matches.json",
+  "settings": {
+    "pilot_limit": 30,
+    "max_source_urls": 12,
+    "target_players": [
+      "rehberg",
+      "carballes baena"
+    ],
+    "wait_ms": 5000,
+    "row_click_wait_ms": 3000
+  },
+  "summary": {
+    "selected_matches": 30,
+    "matched": 0,
+    "success_rate": 0.0,
+    "status_counts": {
+      "row_not_found": 30
+    }
+  },
+  "results": [
+    {
+      "canonical_match_id": "01_02_24|jorda_sanchis_d|rehberg_m_h|kob|0_2",
+      "date": "01.02.24",
+      "player_1": "Jorda Sanchis D.",
+      "player_2": "Rehberg M. H.",
+      "winner": "Rehberg M. H.",
+      "score": "0-2",
+      "tournament_code": "KOB",
+      "surface_existing": "hard",
+      "source_url": "https://www.rezultati.com/utakmica/tenis/dev-s-d-prajwal-bwAEIrYh/jorda-sanchis-david-plc0lDOK/omjer/tvrda-podloga/?mid=bwzGHz66",
+      "status": "row_not_found",
+      "candidate_rows_seen": 6,
+      "candidate_examples": [
+        {
+          "selector": "[class*=\"event__match\"]",
+          "index": 0,
+          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "href": null
+        },
+        {
+          "selector": "[class*=\"eventRow\"]",
+          "index": 0,
+          "text": "",
+          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 0,
+          "text": "Boskovic - Andreeva",
+          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 1,
+          "text": "Toffanin - Ajdukovic",
+          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 2,
+          "text": "Bouzkova - Vekić",
+          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 3,
+          "text": "Borges - Čilić",
+          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+        }
+      ]
+    },
+    {
+      "canonical_match_id": "01_04_26|houkes_m|rehberg_m_h|san|2_0",
+      "date": "01.04.26",
+      "player_1": "Houkes M.",
+      "player_2": "Rehberg M. H.",
+      "winner": "Houkes M.",
+      "score": "2-0",
+      "tournament_code": "SAN",
+      "surface_existing": "clay",
+      "source_url": "https://www.rezultati.com/utakmica/tenis/damm-martin-2003-vX7WOXtP/houkes-max-00P4vHo8/omjer/sve-podloge/?mid=Ot9uUybD",
+      "status": "row_not_found",
+      "candidate_rows_seen": 6,
+      "candidate_examples": [
+        {
+          "selector": "[class*=\"event__match\"]",
+          "index": 0,
+          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "href": null
+        },
+        {
+          "selector": "[class*=\"eventRow\"]",
+          "index": 0,
+          "text": "",
+          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 0,
+          "text": "Boskovic - Andreeva",
+          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 1,
+          "text": "Toffanin - Ajdukovic",
+          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 2,
+          "text": "Bouzkova - Vekić",
+          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 3,
+          "text": "Borges - Čilić",
+          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+        }
+      ]
+    },
+    {
+      "canonical_match_id": "02_02_25|jorda_sanchis_d|rehberg_m_h|lil|2_0",
+      "date": "02.02.25",
+      "player_1": "Rehberg M. H.",
+      "player_2": "Jorda Sanchis D.",
+      "winner": "Rehberg M. H.",
+      "score": "2-0",
+      "tournament_code": "LIL",
+      "surface_existing": "hard",
+      "source_url": "https://www.rezultati.com/utakmica/tenis/dev-s-d-prajwal-bwAEIrYh/jorda-sanchis-david-plc0lDOK/omjer/tvrda-podloga/?mid=bwzGHz66",
+      "status": "row_not_found",
+      "candidate_rows_seen": 6,
+      "candidate_examples": [
+        {
+          "selector": "[class*=\"event__match\"]",
+          "index": 0,
+          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "href": null
+        },
+        {
+          "selector": "[class*=\"eventRow\"]",
+          "index": 0,
+          "text": "",
+          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 0,
+          "text": "Boskovic - Andreeva",
+          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 1,
+          "text": "Toffanin - Ajdukovic",
+          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 2,
+          "text": "Bouzkova - Vekić",
+          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 3,
+          "text": "Borges - Čilić",
+          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+        }
+      ]
+    },
+    {
+      "canonical_match_id": "02_06_26|carballes_baena_r|carboni_l|per|2_1",
+      "date": "02.06.26",
+      "player_1": "Carballes Baena R.",
+      "player_2": "Carboni L.",
+      "winner": "Carballes Baena R.",
+      "score": "2-1",
+      "tournament_code": "PER",
+      "surface_existing": "clay",
+      "source_url": "https://www.rezultati.com/utakmica/tenis/carboni-lorenzo-2yamY2wB/mazza-manuel-MBgeOclJ/omjer/sve-podloge/?mid=EyemCpgm",
+      "status": "row_not_found",
+      "candidate_rows_seen": 6,
+      "candidate_examples": [
+        {
+          "selector": "[class*=\"event__match\"]",
+          "index": 0,
+          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "href": null
+        },
+        {
+          "selector": "[class*=\"eventRow\"]",
+          "index": 0,
+          "text": "",
+          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 0,
+          "text": "Boskovic - Andreeva",
+          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 1,
+          "text": "Toffanin - Ajdukovic",
+          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 2,
+          "text": "Bouzkova - Vekić",
+          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 3,
+          "text": "Borges - Čilić",
+          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+        }
+      ]
+    },
+    {
+      "canonical_match_id": "02_07_24|carballes_baena_r|zverev_a|wim|0_3",
+      "date": "02.07.24",
+      "player_1": "Carballes Baena R.",
+      "player_2": "Zverev A.",
+      "winner": "Zverev A.",
+      "score": "0-3",
+      "tournament_code": "WIM",
+      "surface_existing": "grass",
+      "source_url": "https://www.rezultati.com/utakmica/tenis/cobolli-flavio-zDtaCcPe/zverev-alexander-dGbUhw9m/omjer/trava/?mid=b94RLVkm",
+      "status": "row_not_found",
+      "candidate_rows_seen": 6,
+      "candidate_examples": [
+        {
+          "selector": "[class*=\"event__match\"]",
+          "index": 0,
+          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "href": null
+        },
+        {
+          "selector": "[class*=\"eventRow\"]",
+          "index": 0,
+          "text": "",
+          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 0,
+          "text": "Boskovic - Andreeva",
+          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 1,
+          "text": "Toffanin - Ajdukovic",
+          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 2,
+          "text": "Bouzkova - Vekić",
+          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 3,
+          "text": "Borges - Čilić",
+          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+        }
+      ]
+    },
+    {
+      "canonical_match_id": "03_11_24|krumich_m|rehberg_m_h|hel|2_1",
+      "date": "03.11.24",
+      "player_1": "Rehberg M. H.",
+      "player_2": "Krumich M.",
+      "winner": "Rehberg M. H.",
+      "score": "2-1",
+      "tournament_code": "HEL",
+      "surface_existing": "hard",
+      "source_url": "https://www.rezultati.com/utakmica/tenis/durasovic-viktor-Wv6uZNr5/krumich-martin-WKaCDElC/omjer/tvrda-podloga/?mid=4vqzy4kU",
+      "status": "row_not_found",
+      "candidate_rows_seen": 6,
+      "candidate_examples": [
+        {
+          "selector": "[class*=\"event__match\"]",
+          "index": 0,
+          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "href": null
+        },
+        {
+          "selector": "[class*=\"eventRow\"]",
+          "index": 0,
+          "text": "",
+          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 0,
+          "text": "Boskovic - Andreeva",
+          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 1,
+          "text": "Toffanin - Ajdukovic",
+          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 2,
+          "text": "Bouzkova - Vekić",
+          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 3,
+          "text": "Borges - Čilić",
+          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+        }
+      ]
+    },
+    {
+      "canonical_match_id": "04_04_25|borges_n|carballes_baena_r|mar|2_0",
+      "date": "04.04.25",
+      "player_1": "Carballes Baena R.",
+      "player_2": "Borges N.",
+      "winner": "Carballes Baena R.",
+      "score": "2-0",
+      "tournament_code": "MAR",
+      "surface_existing": "clay",
+      "source_url": "https://www.rezultati.com/utakmica/tenis/atmane-terence-6mkEQ279/borges-nuno-hzbEPIOa/omjer/zemlja/?mid=tzstSvWI",
+      "status": "row_not_found",
+      "candidate_rows_seen": 6,
+      "candidate_examples": [
+        {
+          "selector": "[class*=\"event__match\"]",
+          "index": 0,
+          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "href": null
+        },
+        {
+          "selector": "[class*=\"eventRow\"]",
+          "index": 0,
+          "text": "",
+          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 0,
+          "text": "Boskovic - Andreeva",
+          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 1,
+          "text": "Toffanin - Ajdukovic",
+          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 2,
+          "text": "Bouzkova - Vekić",
+          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 3,
+          "text": "Borges - Čilić",
+          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+        }
+      ]
+    },
+    {
+      "canonical_match_id": "04_06_26|carballes_baena_r|pellegrino_a|per|2_1",
+      "date": "04.06.26",
+      "player_1": "Pellegrino A.",
+      "player_2": "Carballes Baena R.",
+      "winner": "Pellegrino A.",
+      "score": "2-1",
+      "tournament_code": "PER",
+      "surface_existing": "clay",
+      "source_url": "https://www.rezultati.com/utakmica/tenis/daniel-merida-aguilar-WOtXbAu5/pellegrino-andrea-ENPUiYgk/omjer/sve-podloge/?mid=xz0hkRCO",
+      "status": "row_not_found",
+      "candidate_rows_seen": 6,
+      "candidate_examples": [
+        {
+          "selector": "[class*=\"event__match\"]",
+          "index": 0,
+          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "href": null
+        },
+        {
+          "selector": "[class*=\"eventRow\"]",
+          "index": 0,
+          "text": "",
+          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 0,
+          "text": "Boskovic - Andreeva",
+          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 1,
+          "text": "Toffanin - Ajdukovic",
+          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 2,
+          "text": "Bouzkova - Vekić",
+          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 3,
+          "text": "Borges - Čilić",
+          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+        }
+      ]
+    },
+    {
+      "canonical_match_id": "04_08_24|carballes_baena_r|kokkinakis_t|mon|0_2",
+      "date": "04.08.24",
+      "player_1": "Carballes Baena R.",
+      "player_2": "Kokkinakis T.",
+      "winner": "Kokkinakis T.",
+      "score": "0-2",
+      "tournament_code": "MON",
+      "surface_existing": "hard",
+      "source_url": "https://www.rezultati.com/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/kokkinakis-thanasi-rBm7dcxH/omjer/sve-podloge/?mid=x8kb9ced",
+      "status": "row_not_found",
+      "candidate_rows_seen": 34,
+      "candidate_examples": [
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 0,
+          "text": "08.06.26\nBRA\nKokkinakis T.\nBarrios Vera T.\n2\n0\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/kokkinakis-thanasi-rBm7dcxH/?mid=x8kb9ced"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 1,
+          "text": "27.05.26\nFO\nKokkinakis T.\nCarreno-Busta P.\n1\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/carreno-busta-pablo-W8WmcXdq/kokkinakis-thanasi-rBm7dcxH/?mid=GvtTBr8T"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 2,
+          "text": "25.05.26\nFO\nKokkinakis T.\nAtmane T.\n3\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/atmane-terence-6mkEQ279/kokkinakis-thanasi-rBm7dcxH/?mid=M1tZ0Nq2"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 3,
+          "text": "13.05.26\nZAG\nAlexandrescou Y. T.\nKokkinakis T.\n-\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/alexandrescou-yannick-theodor-t89u7NAc/kokkinakis-thanasi-rBm7dcxH/?mid=274ZQ1Lb"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 4,
+          "text": "11.05.26\nZAG\nRibecai M.\nKokkinakis T.\n1\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/kokkinakis-thanasi-rBm7dcxH/ribecai-michele-fNFrUmQq/?mid=2TFRAg7d"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 5,
+          "text": "08.06.26\nBRA\nKokkinakis T.\nBarrios Vera T.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/kokkinakis-thanasi-rBm7dcxH/?mid=x8kb9ced"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 6,
+          "text": "20.05.26\nFO\nPavlovic L.\nBarrios Vera T.\n2\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/pavlovic-luka-Mkf0LF4j/?mid=AwmTioWP"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 7,
+          "text": "19.05.26\nFO\nMayot H.\nBarrios Vera T.\n1\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/mayot-harold-jPfM16Z1/?mid=0pJdCXig"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 8,
+          "text": "14.05.26\nOEI\nBarrios Vera T.\nNava E.\n1\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/nava-emilio-AJGo8fir/?mid=2BtqaSDi"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 9,
+          "text": "13.05.26\nOEI\nBarrios Vera T.\nBasavareddy N.\n2\n0\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/basavareddy-nishesh-rqtJueQt/?mid=WS1Sp8um"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 10,
+          "text": "08.06.26\nBRA\nKokkinakis T.\nBarrios Vera T.\n2\n0",
+          "href": "https://www.rezultati.com/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/kokkinakis-thanasi-rBm7dcxH/?mid=x8kb9ced"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 0,
+          "text": "MEČ",
+          "href": "/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/kokkinakis-thanasi-rBm7dcxH/?mid=x8kb9ced"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 1,
+          "text": "TEČAJEVI",
+          "href": "/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/kokkinakis-thanasi-rBm7dcxH/tecajevi/?mid=x8kb9ced"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 2,
+          "text": "OMJER",
+          "href": "/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/kokkinakis-thanasi-rBm7dcxH/omjer/?mid=x8kb9ced"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 3,
+          "text": "ŽDRIJEB",
+          "href": "/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/kokkinakis-thanasi-rBm7dcxH/zdrijeb/?mid=x8kb9ced"
+        }
+      ]
+    },
+    {
+      "canonical_match_id": "04_11_24|barton_h|rehberg_m_h|hel|2_0",
+      "date": "04.11.24",
+      "player_1": "Rehberg M. H.",
+      "player_2": "Barton H.",
+      "winner": "Rehberg M. H.",
+      "score": "2-0",
+      "tournament_code": "HEL",
+      "surface_existing": "hard",
+      "source_url": "https://www.rezultati.com/utakmica/tenis/barton-hynek-UoDybC2H/molcan-alex-drgiRTl7/omjer/tvrda-podloga/?mid=h2MpAkb4",
+      "status": "row_not_found",
+      "candidate_rows_seen": 6,
+      "candidate_examples": [
+        {
+          "selector": "[class*=\"event__match\"]",
+          "index": 0,
+          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "href": null
+        },
+        {
+          "selector": "[class*=\"eventRow\"]",
+          "index": 0,
+          "text": "",
+          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 0,
+          "text": "Boskovic - Andreeva",
+          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 1,
+          "text": "Toffanin - Ajdukovic",
+          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 2,
+          "text": "Bouzkova - Vekić",
+          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 3,
+          "text": "Borges - Čilić",
+          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+        }
+      ]
+    },
+    {
+      "canonical_match_id": "05_02_26|gadamauri_b|rehberg_m_h|kob|2_1",
+      "date": "05.02.26",
+      "player_1": "Rehberg M. H.",
+      "player_2": "Gadamauri B.",
+      "winner": "Rehberg M. H.",
+      "score": "2-1",
+      "tournament_code": "KOB",
+      "surface_existing": "hard",
+      "source_url": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/gadamauri-buvaysar-QX3MNSXf/omjer/sve-podloge/?mid=GzvCt8Lh",
+      "status": "row_not_found",
+      "candidate_rows_seen": 6,
+      "candidate_examples": [
+        {
+          "selector": "[class*=\"event__match\"]",
+          "index": 0,
+          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "href": null
+        },
+        {
+          "selector": "[class*=\"eventRow\"]",
+          "index": 0,
+          "text": "",
+          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 0,
+          "text": "Boskovic - Andreeva",
+          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 1,
+          "text": "Toffanin - Ajdukovic",
+          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 2,
+          "text": "Bouzkova - Vekić",
+          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 3,
+          "text": "Borges - Čilić",
+          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+        }
+      ]
+    },
+    {
+      "canonical_match_id": "05_11_24|blancaneaux_g|rehberg_m_h|hel|2_1",
+      "date": "05.11.24",
+      "player_1": "Rehberg M. H.",
+      "player_2": "Blancaneaux G.",
+      "winner": "Rehberg M. H.",
+      "score": "2-1",
+      "tournament_code": "HEL",
+      "surface_existing": "hard",
+      "source_url": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/staeheli-luca-Eegw5r5O/omjer/tvrda-podloga/?mid=nylUVQQG",
+      "status": "row_not_found",
+      "candidate_rows_seen": 6,
+      "candidate_examples": [
+        {
+          "selector": "[class*=\"event__match\"]",
+          "index": 0,
+          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "href": null
+        },
+        {
+          "selector": "[class*=\"eventRow\"]",
+          "index": 0,
+          "text": "",
+          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 0,
+          "text": "Boskovic - Andreeva",
+          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 1,
+          "text": "Toffanin - Ajdukovic",
+          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 2,
+          "text": "Bouzkova - Vekić",
+          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 3,
+          "text": "Borges - Čilić",
+          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+        }
+      ]
+    },
+    {
+      "canonical_match_id": "06_01_25|altmaier_d|carballes_baena_r|auc|2_1",
+      "date": "06.01.25",
+      "player_1": "Carballes Baena R.",
+      "player_2": "Altmaier D.",
+      "winner": "Carballes Baena R.",
+      "score": "2-1",
+      "tournament_code": "AUC",
+      "surface_existing": "hard",
+      "source_url": "https://www.rezultati.com/utakmica/tenis/altmaier-daniel-IPR8h9gM/tiafoe-frances-AHDLJaph/omjer/tvrda-podloga/?mid=nFGVB7ON",
+      "status": "row_not_found",
+      "candidate_rows_seen": 6,
+      "candidate_examples": [
+        {
+          "selector": "[class*=\"event__match\"]",
+          "index": 0,
+          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "href": null
+        },
+        {
+          "selector": "[class*=\"eventRow\"]",
+          "index": 0,
+          "text": "",
+          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 0,
+          "text": "Boskovic - Andreeva",
+          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 1,
+          "text": "Toffanin - Ajdukovic",
+          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 2,
+          "text": "Bouzkova - Vekić",
+          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 3,
+          "text": "Borges - Čilić",
+          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+        }
+      ]
+    },
+    {
+      "canonical_match_id": "01_01_22|krumich_m|palan_d|doh|2_0",
+      "date": "01.01.22",
+      "player_1": "Krumich M.",
+      "player_2": "Palan D.",
+      "winner": "Krumich M.",
+      "score": "2-0",
+      "tournament_code": "DOH",
+      "surface_existing": "hard",
+      "source_url": "https://www.rezultati.com/utakmica/tenis/durasovic-viktor-Wv6uZNr5/krumich-martin-WKaCDElC/omjer/tvrda-podloga/?mid=4vqzy4kU",
+      "status": "row_not_found",
+      "candidate_rows_seen": 6,
+      "candidate_examples": [
+        {
+          "selector": "[class*=\"event__match\"]",
+          "index": 0,
+          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "href": null
+        },
+        {
+          "selector": "[class*=\"eventRow\"]",
+          "index": 0,
+          "text": "",
+          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 0,
+          "text": "Boskovic - Andreeva",
+          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 1,
+          "text": "Toffanin - Ajdukovic",
+          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 2,
+          "text": "Bouzkova - Vekić",
+          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 3,
+          "text": "Borges - Čilić",
+          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+        }
+      ]
+    },
+    {
+      "canonical_match_id": "01_02_25|altmaier_d|sanchez_jover_c|rot|2_0",
+      "date": "01.02.25",
+      "player_1": "Altmaier D.",
+      "player_2": "Sanchez Jover C.",
+      "winner": "Altmaier D.",
+      "score": "2-0",
+      "tournament_code": "ROT",
+      "surface_existing": "hard",
+      "source_url": "https://www.rezultati.com/utakmica/tenis/altmaier-daniel-IPR8h9gM/tiafoe-frances-AHDLJaph/omjer/tvrda-podloga/?mid=nFGVB7ON",
+      "status": "row_not_found",
+      "candidate_rows_seen": 6,
+      "candidate_examples": [
+        {
+          "selector": "[class*=\"event__match\"]",
+          "index": 0,
+          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "href": null
+        },
+        {
+          "selector": "[class*=\"eventRow\"]",
+          "index": 0,
+          "text": "",
+          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 0,
+          "text": "Boskovic - Andreeva",
+          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 1,
+          "text": "Toffanin - Ajdukovic",
+          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 2,
+          "text": "Bouzkova - Vekić",
+          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 3,
+          "text": "Borges - Čilić",
+          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+        }
+      ]
+    },
+    {
+      "canonical_match_id": "01_02_25|blancaneaux_g|evans_d|rot|2_0",
+      "date": "01.02.25",
+      "player_1": "Blancaneaux G.",
+      "player_2": "Evans D.",
+      "winner": "Blancaneaux G.",
+      "score": "2-0",
+      "tournament_code": "ROT",
+      "surface_existing": "hard",
+      "source_url": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/staeheli-luca-Eegw5r5O/omjer/tvrda-podloga/?mid=nylUVQQG",
+      "status": "row_not_found",
+      "candidate_rows_seen": 6,
+      "candidate_examples": [
+        {
+          "selector": "[class*=\"event__match\"]",
+          "index": 0,
+          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "href": null
+        },
+        {
+          "selector": "[class*=\"eventRow\"]",
+          "index": 0,
+          "text": "",
+          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 0,
+          "text": "Boskovic - Andreeva",
+          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 1,
+          "text": "Toffanin - Ajdukovic",
+          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 2,
+          "text": "Bouzkova - Vekić",
+          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 3,
+          "text": "Borges - Čilić",
+          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+        }
+      ]
+    },
+    {
+      "canonical_match_id": "01_02_25|dussin_l|krumich_m|sha|2_0",
+      "date": "01.02.25",
+      "player_1": "Dussin L.",
+      "player_2": "Krumich M.",
+      "winner": "Dussin L.",
+      "score": "2-0",
+      "tournament_code": "SHA",
+      "surface_existing": "hard",
+      "source_url": "https://www.rezultati.com/utakmica/tenis/durasovic-viktor-Wv6uZNr5/krumich-martin-WKaCDElC/omjer/tvrda-podloga/?mid=4vqzy4kU",
+      "status": "row_not_found",
+      "candidate_rows_seen": 6,
+      "candidate_examples": [
+        {
+          "selector": "[class*=\"event__match\"]",
+          "index": 0,
+          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "href": null
+        },
+        {
+          "selector": "[class*=\"eventRow\"]",
+          "index": 0,
+          "text": "",
+          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 0,
+          "text": "Boskovic - Andreeva",
+          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 1,
+          "text": "Toffanin - Ajdukovic",
+          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 2,
+          "text": "Bouzkova - Vekić",
+          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 3,
+          "text": "Borges - Čilić",
+          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+        }
+      ]
+    },
+    {
+      "canonical_match_id": "01_02_26|dazert_j|gadamauri_b|kob|2_0",
+      "date": "01.02.26",
+      "player_1": "Gadamauri B.",
+      "player_2": "Dazert J.",
+      "winner": "Gadamauri B.",
+      "score": "2-0",
+      "tournament_code": "KOB",
+      "surface_existing": "hard",
+      "source_url": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/gadamauri-buvaysar-QX3MNSXf/omjer/sve-podloge/?mid=GzvCt8Lh",
+      "status": "row_not_found",
+      "candidate_rows_seen": 6,
+      "candidate_examples": [
+        {
+          "selector": "[class*=\"event__match\"]",
+          "index": 0,
+          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "href": null
+        },
+        {
+          "selector": "[class*=\"eventRow\"]",
+          "index": 0,
+          "text": "",
+          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 0,
+          "text": "Boskovic - Andreeva",
+          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 1,
+          "text": "Toffanin - Ajdukovic",
+          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 2,
+          "text": "Bouzkova - Vekić",
+          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 3,
+          "text": "Borges - Čilić",
+          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+        }
+      ]
+    },
+    {
+      "canonical_match_id": "01_02_26|damm_m|martineau_m|mon|0_2",
+      "date": "01.02.26",
+      "player_1": "Martineau M.",
+      "player_2": "Damm M.",
+      "winner": "Damm M.",
+      "score": "0-2",
+      "tournament_code": "MON",
+      "surface_existing": "hard",
+      "source_url": "https://www.rezultati.com/utakmica/tenis/damm-martin-2003-vX7WOXtP/houkes-max-00P4vHo8/omjer/sve-podloge/?mid=Ot9uUybD",
+      "status": "row_not_found",
+      "candidate_rows_seen": 6,
+      "candidate_examples": [
+        {
+          "selector": "[class*=\"event__match\"]",
+          "index": 0,
+          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "href": null
+        },
+        {
+          "selector": "[class*=\"eventRow\"]",
+          "index": 0,
+          "text": "",
+          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 0,
+          "text": "Boskovic - Andreeva",
+          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 1,
+          "text": "Toffanin - Ajdukovic",
+          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 2,
+          "text": "Bouzkova - Vekić",
+          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 3,
+          "text": "Borges - Čilić",
+          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+        }
+      ]
+    },
+    {
+      "canonical_match_id": "01_02_26|staeheli_l|sultanov_k|zah|2_0",
+      "date": "01.02.26",
+      "player_1": "Sultanov K.",
+      "player_2": "Staeheli L.",
+      "winner": "Sultanov K.",
+      "score": "2-0",
+      "tournament_code": "ZAH",
+      "surface_existing": "hard",
+      "source_url": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/staeheli-luca-Eegw5r5O/omjer/tvrda-podloga/?mid=nylUVQQG",
+      "status": "row_not_found",
+      "candidate_rows_seen": 6,
+      "candidate_examples": [
+        {
+          "selector": "[class*=\"event__match\"]",
+          "index": 0,
+          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "href": null
+        },
+        {
+          "selector": "[class*=\"eventRow\"]",
+          "index": 0,
+          "text": "",
+          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 0,
+          "text": "Boskovic - Andreeva",
+          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 1,
+          "text": "Toffanin - Ajdukovic",
+          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 2,
+          "text": "Bouzkova - Vekić",
+          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 3,
+          "text": "Borges - Čilić",
+          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+        }
+      ]
+    },
+    {
+      "canonical_match_id": "01_03_24|blancaneaux_g|sekulic_p|del|0_2",
+      "date": "01.03.24",
+      "player_1": "Sekulic P.",
+      "player_2": "Blancaneaux G.",
+      "winner": "Blancaneaux G.",
+      "score": "0-2",
+      "tournament_code": "DEL",
+      "surface_existing": "hard",
+      "source_url": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/staeheli-luca-Eegw5r5O/omjer/tvrda-podloga/?mid=nylUVQQG",
+      "status": "row_not_found",
+      "candidate_rows_seen": 6,
+      "candidate_examples": [
+        {
+          "selector": "[class*=\"event__match\"]",
+          "index": 0,
+          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "href": null
+        },
+        {
+          "selector": "[class*=\"eventRow\"]",
+          "index": 0,
+          "text": "",
+          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 0,
+          "text": "Boskovic - Andreeva",
+          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 1,
+          "text": "Toffanin - Ajdukovic",
+          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 2,
+          "text": "Bouzkova - Vekić",
+          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 3,
+          "text": "Borges - Čilić",
+          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+        }
+      ]
+    },
+    {
+      "canonical_match_id": "01_03_26|gadamauri_b|mansilla_diez_m|her|2_0",
+      "date": "01.03.26",
+      "player_1": "Gadamauri B.",
+      "player_2": "Mansilla Diez M.",
+      "winner": "Gadamauri B.",
+      "score": "2-0",
+      "tournament_code": "HER",
+      "surface_existing": "hard",
+      "source_url": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/gadamauri-buvaysar-QX3MNSXf/omjer/sve-podloge/?mid=GzvCt8Lh",
+      "status": "row_not_found",
+      "candidate_rows_seen": 6,
+      "candidate_examples": [
+        {
+          "selector": "[class*=\"event__match\"]",
+          "index": 0,
+          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "href": null
+        },
+        {
+          "selector": "[class*=\"eventRow\"]",
+          "index": 0,
+          "text": "",
+          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 0,
+          "text": "Boskovic - Andreeva",
+          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 1,
+          "text": "Toffanin - Ajdukovic",
+          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 2,
+          "text": "Bouzkova - Vekić",
+          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 3,
+          "text": "Borges - Čilić",
+          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+        }
+      ]
+    },
+    {
+      "canonical_match_id": "01_04_24|borges_n|pouille_l|est|1_2",
+      "date": "01.04.24",
+      "player_1": "Pouille L.",
+      "player_2": "Borges N.",
+      "winner": "Borges N.",
+      "score": "1-2",
+      "tournament_code": "EST",
+      "surface_existing": "clay",
+      "source_url": "https://www.rezultati.com/utakmica/tenis/atmane-terence-6mkEQ279/borges-nuno-hzbEPIOa/omjer/zemlja/?mid=tzstSvWI",
+      "status": "row_not_found",
+      "candidate_rows_seen": 6,
+      "candidate_examples": [
+        {
+          "selector": "[class*=\"event__match\"]",
+          "index": 0,
+          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "href": null
+        },
+        {
+          "selector": "[class*=\"eventRow\"]",
+          "index": 0,
+          "text": "",
+          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 0,
+          "text": "Boskovic - Andreeva",
+          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 1,
+          "text": "Toffanin - Ajdukovic",
+          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 2,
+          "text": "Bouzkova - Vekić",
+          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 3,
+          "text": "Borges - Čilić",
+          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+        }
+      ]
+    },
+    {
+      "canonical_match_id": "01_05_24|borges_n|maestrelli_f|cag|2_0",
+      "date": "01.05.24",
+      "player_1": "Borges N.",
+      "player_2": "Maestrelli F.",
+      "winner": "Borges N.",
+      "score": "2-0",
+      "tournament_code": "CAG",
+      "surface_existing": "clay",
+      "source_url": "https://www.rezultati.com/utakmica/tenis/atmane-terence-6mkEQ279/borges-nuno-hzbEPIOa/omjer/zemlja/?mid=tzstSvWI",
+      "status": "row_not_found",
+      "candidate_rows_seen": 6,
+      "candidate_examples": [
+        {
+          "selector": "[class*=\"event__match\"]",
+          "index": 0,
+          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "href": null
+        },
+        {
+          "selector": "[class*=\"eventRow\"]",
+          "index": 0,
+          "text": "",
+          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 0,
+          "text": "Boskovic - Andreeva",
+          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 1,
+          "text": "Toffanin - Ajdukovic",
+          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 2,
+          "text": "Bouzkova - Vekić",
+          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 3,
+          "text": "Borges - Čilić",
+          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+        }
+      ]
+    },
+    {
+      "canonical_match_id": "01_05_25|borges_n|fucsovics_m|est|1_2",
+      "date": "01.05.25",
+      "player_1": "Fucsovics M.",
+      "player_2": "Borges N.",
+      "winner": "Borges N.",
+      "score": "1-2",
+      "tournament_code": "EST",
+      "surface_existing": "clay",
+      "source_url": "https://www.rezultati.com/utakmica/tenis/atmane-terence-6mkEQ279/borges-nuno-hzbEPIOa/omjer/zemlja/?mid=tzstSvWI",
+      "status": "row_not_found",
+      "candidate_rows_seen": 6,
+      "candidate_examples": [
+        {
+          "selector": "[class*=\"event__match\"]",
+          "index": 0,
+          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "href": null
+        },
+        {
+          "selector": "[class*=\"eventRow\"]",
+          "index": 0,
+          "text": "",
+          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 0,
+          "text": "Boskovic - Andreeva",
+          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 1,
+          "text": "Toffanin - Ajdukovic",
+          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 2,
+          "text": "Bouzkova - Vekić",
+          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 3,
+          "text": "Borges - Čilić",
+          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+        }
+      ]
+    },
+    {
+      "canonical_match_id": "01_05_26|blanch_dar|donald_m|mau|2_0",
+      "date": "01.05.26",
+      "player_1": "Blanch Dar.",
+      "player_2": "Donald M.",
+      "winner": "Blanch Dar.",
+      "score": "2-0",
+      "tournament_code": "MAU",
+      "surface_existing": "clay",
+      "source_url": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/gadamauri-buvaysar-QX3MNSXf/omjer/sve-podloge/?mid=GzvCt8Lh",
+      "status": "row_not_found",
+      "candidate_rows_seen": 6,
+      "candidate_examples": [
+        {
+          "selector": "[class*=\"event__match\"]",
+          "index": 0,
+          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "href": null
+        },
+        {
+          "selector": "[class*=\"eventRow\"]",
+          "index": 0,
+          "text": "",
+          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 0,
+          "text": "Boskovic - Andreeva",
+          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 1,
+          "text": "Toffanin - Ajdukovic",
+          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 2,
+          "text": "Bouzkova - Vekić",
+          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 3,
+          "text": "Borges - Čilić",
+          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+        }
+      ]
+    },
+    {
+      "canonical_match_id": "01_05_26|gadamauri_b|poljicak_m|shy|2_0",
+      "date": "01.05.26",
+      "player_1": "Gadamauri B.",
+      "player_2": "Poljicak M.",
+      "winner": "Gadamauri B.",
+      "score": "2-0",
+      "tournament_code": "SHY",
+      "surface_existing": "clay",
+      "source_url": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/gadamauri-buvaysar-QX3MNSXf/omjer/sve-podloge/?mid=GzvCt8Lh",
+      "status": "row_not_found",
+      "candidate_rows_seen": 6,
+      "candidate_examples": [
+        {
+          "selector": "[class*=\"event__match\"]",
+          "index": 0,
+          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "href": null
+        },
+        {
+          "selector": "[class*=\"eventRow\"]",
+          "index": 0,
+          "text": "",
+          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 0,
+          "text": "Boskovic - Andreeva",
+          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 1,
+          "text": "Toffanin - Ajdukovic",
+          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 2,
+          "text": "Bouzkova - Vekić",
+          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 3,
+          "text": "Borges - Čilić",
+          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+        }
+      ]
+    },
+    {
+      "canonical_match_id": "01_06_24|fritz_t|kokkinakis_t|fo|3_2",
+      "date": "01.06.24",
+      "player_1": "Fritz T.",
+      "player_2": "Kokkinakis T.",
+      "winner": "Fritz T.",
+      "score": "3-2",
+      "tournament_code": "FO",
+      "surface_existing": "clay",
+      "source_url": "https://www.rezultati.com/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/kokkinakis-thanasi-rBm7dcxH/omjer/sve-podloge/?mid=x8kb9ced",
+      "status": "row_not_found",
+      "candidate_rows_seen": 34,
+      "candidate_examples": [
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 0,
+          "text": "08.06.26\nBRA\nKokkinakis T.\nBarrios Vera T.\n2\n0\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/kokkinakis-thanasi-rBm7dcxH/?mid=x8kb9ced"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 1,
+          "text": "27.05.26\nFO\nKokkinakis T.\nCarreno-Busta P.\n1\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/carreno-busta-pablo-W8WmcXdq/kokkinakis-thanasi-rBm7dcxH/?mid=GvtTBr8T"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 2,
+          "text": "25.05.26\nFO\nKokkinakis T.\nAtmane T.\n3\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/atmane-terence-6mkEQ279/kokkinakis-thanasi-rBm7dcxH/?mid=M1tZ0Nq2"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 3,
+          "text": "13.05.26\nZAG\nAlexandrescou Y. T.\nKokkinakis T.\n-\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/alexandrescou-yannick-theodor-t89u7NAc/kokkinakis-thanasi-rBm7dcxH/?mid=274ZQ1Lb"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 4,
+          "text": "11.05.26\nZAG\nRibecai M.\nKokkinakis T.\n1\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/kokkinakis-thanasi-rBm7dcxH/ribecai-michele-fNFrUmQq/?mid=2TFRAg7d"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 5,
+          "text": "08.06.26\nBRA\nKokkinakis T.\nBarrios Vera T.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/kokkinakis-thanasi-rBm7dcxH/?mid=x8kb9ced"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 6,
+          "text": "20.05.26\nFO\nPavlovic L.\nBarrios Vera T.\n2\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/pavlovic-luka-Mkf0LF4j/?mid=AwmTioWP"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 7,
+          "text": "19.05.26\nFO\nMayot H.\nBarrios Vera T.\n1\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/mayot-harold-jPfM16Z1/?mid=0pJdCXig"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 8,
+          "text": "14.05.26\nOEI\nBarrios Vera T.\nNava E.\n1\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/nava-emilio-AJGo8fir/?mid=2BtqaSDi"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 9,
+          "text": "13.05.26\nOEI\nBarrios Vera T.\nBasavareddy N.\n2\n0\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/basavareddy-nishesh-rqtJueQt/?mid=WS1Sp8um"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 10,
+          "text": "08.06.26\nBRA\nKokkinakis T.\nBarrios Vera T.\n2\n0",
+          "href": "https://www.rezultati.com/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/kokkinakis-thanasi-rBm7dcxH/?mid=x8kb9ced"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 0,
+          "text": "MEČ",
+          "href": "/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/kokkinakis-thanasi-rBm7dcxH/?mid=x8kb9ced"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 1,
+          "text": "TEČAJEVI",
+          "href": "/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/kokkinakis-thanasi-rBm7dcxH/tecajevi/?mid=x8kb9ced"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 2,
+          "text": "OMJER",
+          "href": "/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/kokkinakis-thanasi-rBm7dcxH/omjer/?mid=x8kb9ced"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 3,
+          "text": "ŽDRIJEB",
+          "href": "/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/kokkinakis-thanasi-rBm7dcxH/zdrijeb/?mid=x8kb9ced"
+        }
+      ]
+    },
+    {
+      "canonical_match_id": "01_06_26|damm_m|mccabe_j|bir|1_2",
+      "date": "01.06.26",
+      "player_1": "Damm M.",
+      "player_2": "McCabe J.",
+      "winner": "McCabe J.",
+      "score": "1-2",
+      "tournament_code": "BIR",
+      "surface_existing": "",
+      "source_url": "https://www.rezultati.com/utakmica/tenis/damm-martin-2003-vX7WOXtP/houkes-max-00P4vHo8/omjer/sve-podloge/?mid=Ot9uUybD",
+      "status": "row_not_found",
+      "candidate_rows_seen": 6,
+      "candidate_examples": [
+        {
+          "selector": "[class*=\"event__match\"]",
+          "index": 0,
+          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "href": null
+        },
+        {
+          "selector": "[class*=\"eventRow\"]",
+          "index": 0,
+          "text": "",
+          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 0,
+          "text": "Boskovic - Andreeva",
+          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 1,
+          "text": "Toffanin - Ajdukovic",
+          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 2,
+          "text": "Bouzkova - Vekić",
+          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 3,
+          "text": "Borges - Čilić",
+          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+        }
+      ]
+    },
+    {
+      "canonical_match_id": "01_06_26|houkes_m|nava_e|hei|0_2",
+      "date": "01.06.26",
+      "player_1": "Houkes M.",
+      "player_2": "Nava E.",
+      "winner": "Nava E.",
+      "score": "0-2",
+      "tournament_code": "HEI",
+      "surface_existing": "clay",
+      "source_url": "https://www.rezultati.com/utakmica/tenis/damm-martin-2003-vX7WOXtP/houkes-max-00P4vHo8/omjer/sve-podloge/?mid=Ot9uUybD",
+      "status": "row_not_found",
+      "candidate_rows_seen": 6,
+      "candidate_examples": [
+        {
+          "selector": "[class*=\"event__match\"]",
+          "index": 0,
+          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "href": null
+        },
+        {
+          "selector": "[class*=\"eventRow\"]",
+          "index": 0,
+          "text": "",
+          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 0,
+          "text": "Boskovic - Andreeva",
+          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 1,
+          "text": "Toffanin - Ajdukovic",
+          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 2,
+          "text": "Bouzkova - Vekić",
+          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+        },
+        {
+          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "index": 3,
+          "text": "Borges - Čilić",
+          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+        }
+      ]
+    }
+  ]
+}
