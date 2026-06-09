@@ -186,6 +186,95 @@ def page_text(page: Page) -> str:
         return ""
 
 
+def open_h2h_tab(page: Page, source_url: str) -> tuple[bool, str]:
+    direct_urls = [
+        source_url.rstrip("/") + "#/h2h/overall",
+        source_url.rstrip("/") + "#/h2h",
+    ]
+
+    for target in direct_urls:
+        try:
+            page.goto(
+                target,
+                wait_until="domcontentloaded",
+                timeout=45000,
+            )
+            page.wait_for_timeout(WAIT_MS)
+
+            body = page_text(page)
+
+            if any(
+                token in body.upper()
+                for token in (
+                    "OMJER",
+                    "H2H",
+                    "MEÄUSOBNI",
+                    "HEAD-TO-HEAD",
+                )
+            ):
+                return True, ""
+        except Exception:
+            pass
+
+    try:
+        page.goto(
+            source_url,
+            wait_until="domcontentloaded",
+            timeout=45000,
+        )
+        page.wait_for_timeout(WAIT_MS)
+        accept_cookies(page)
+    except Exception as exc:
+        return False, (
+            f"source_navigation_failed: "
+            f"{type(exc).__name__}: {exc}"
+        )
+
+    for label in (
+        "OMJER",
+        "H2H",
+        "MEÄUSOBNI SUSRETI",
+        "HEAD-TO-HEAD",
+    ):
+        try:
+            locator = page.get_by_text(
+                label,
+                exact=False,
+            ).first
+
+            if (
+                locator.count() > 0
+                and locator.is_visible(timeout=1200)
+            ):
+                locator.click(timeout=4000)
+                page.wait_for_timeout(WAIT_MS)
+                return True, ""
+        except Exception:
+            pass
+
+    return False, "h2h_tab_not_found"
+
+
+def wait_for_h2h_rows(page: Page) -> None:
+    selectors = [
+        '[id^="g_2_"]',
+        '[class*="h2h__row"]',
+        '[class*="h2h__section"]',
+        '[class*="event__match"]',
+        '[class*="eventRow"]',
+    ]
+
+    for selector in selectors:
+        try:
+            page.locator(selector).first.wait_for(
+                state="attached",
+                timeout=5000,
+            )
+            return
+        except Exception:
+            pass
+
+
 def is_blocked(text: str) -> bool:
     return any(
         value.lower() in text.lower()
@@ -204,50 +293,45 @@ def row_text_matches(
 
     if date_value:
         date_variants = {
-            compact(
-                date_value.strftime("%d.%m.%y")
-            ),
-            compact(
-                date_value.strftime("%d.%m.%Y")
-            ),
-            compact(
-                date_value.strftime("%d/%m/%y")
-            ),
+            compact(date_value.strftime("%d.%m.%y")),
+            compact(date_value.strftime("%d.%m.%Y")),
+            compact(date_value.strftime("%d/%m/%y")),
+            compact(date_value.strftime("%d/%m/%Y")),
         }
 
-    player_1_surname = surname(
-        match.get("player_1")
-    )
-    player_2_surname = surname(
-        match.get("player_2")
-    )
+    player_1_surname = surname(match.get("player_1"))
+    player_2_surname = surname(match.get("player_2"))
 
-    has_date = (
-        not date_variants
-        or any(
-            value and value in normalized
-            for value in date_variants
-        )
-    )
-    has_player_1 = (
+    has_player_1 = bool(
         player_1_surname
         and player_1_surname in normalized
     )
-    has_player_2 = (
+    has_player_2 = bool(
         player_2_surname
         and player_2_surname in normalized
     )
+    has_date = any(
+        value and value in normalized
+        for value in date_variants
+    )
 
-    return has_date and has_player_1 and has_player_2
+    # On Rezultati H2H rows the date can be rendered outside the clickable
+    # match node, so both surnames are the primary requirement.
+    return has_player_1 and has_player_2 and (
+        has_date or len(normalized) > 0
+    )
 
 
 def detail_candidates(page: Page):
     selectors = [
         '[id^="g_2_"]',
         '[class*="h2h__row"]',
+        '[class*="h2h__section"] [class*="row"]',
         '[class*="event__match"]',
         '[class*="eventRow"]',
+        '[data-testid*="wcl"]',
         'a[href*="/utakmica/tenis/"]',
+        'a[href*="/match/"]',
     ]
 
     seen = set()
@@ -542,23 +626,19 @@ def process_match(
         "source_url": source_url,
     }
 
-    try:
-        page.goto(
-            source_url,
-            wait_until="domcontentloaded",
-            timeout=45000,
-        )
-        page.wait_for_timeout(WAIT_MS)
-        accept_cookies(page)
-    except Exception as exc:
+    opened_h2h, h2h_error = open_h2h_tab(
+        page,
+        source_url,
+    )
+
+    if not opened_h2h:
         return {
             **base,
-            "status": "source_page_failed",
-            "error": (
-                f"{type(exc).__name__}: {exc}"
-            ),
+            "status": "h2h_tab_not_found",
+            "error": h2h_error,
         }
 
+    wait_for_h2h_rows(page)
     text = page_text(page)
 
     if is_blocked(text):
@@ -568,6 +648,7 @@ def process_match(
             "error": "Rezultati page appears blocked",
         }
 
+    h2h_url = page.url
     candidates = detail_candidates(page)
     matched = [
         candidate
@@ -599,17 +680,18 @@ def process_match(
     ):
         try:
             page.goto(
-                source_url,
+                h2h_url,
                 wait_until="domcontentloaded",
                 timeout=45000,
             )
             page.wait_for_timeout(WAIT_MS)
+            wait_for_h2h_rows(page)
         except Exception:
             pass
 
         opened, error = open_candidate(
             page,
-            source_url,
+            h2h_url,
             candidate,
         )
 
@@ -788,7 +870,7 @@ def main() -> None:
     save_json(REPORT_FILE, report)
 
     print("")
-    print("HISTORICAL MATCH ENRICHMENT PILOT DONE")
+    print("HISTORICAL MATCH ENRICHMENT PILOT V2 DONE")
     print("SUMMARY:", output["summary"])
 
     for row in matched_rows[:20]:
