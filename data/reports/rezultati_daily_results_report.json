@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-06-09T17:26:27.407746+02:00",
+  "generated_at": "2026-06-09T17:45:10.252344+02:00",
   "source_url": "https://www.rezultati.com/tenis/",
   "counts": {
-    "archive_before": 9947,
-    "daily_scorelines": 129,
-    "archive_after": 10038,
-    "added": 91
+    "archive_before": 10038,
+    "daily_scorelines": 152,
+    "archive_after": 10061,
+    "added": 23
   },
   "metadata_counts": {
-    "with_surface": 10009,
-    "with_gender": 9836,
-    "with_tour_level": 10009,
+    "with_surface": 10032,
+    "with_gender": 9837,
+    "with_tour_level": 10032,
     "grand_slam": 1950,
     "best_of_5": 957
   },
@@ -810,6 +810,58 @@
       "match_url": "",
       "source": "rezultati_daily_results_text_fallback",
       "date": "2026-06-09",
+      "player_1": "Zhang S.",
+      "player_2": "Eala A.",
+      "match": "Zhang S. - Eala A.",
+      "winner": "Eala A.",
+      "loser": "Zhang S.",
+      "sets_1": 0,
+      "sets_2": 2,
+      "final_score": "0-2",
+      "set_scores": [
+        {
+          "set_number": 1,
+          "p1_games": 3,
+          "p2_games": 6,
+          "tiebreak": false
+        },
+        {
+          "set_number": 2,
+          "p1_games": 2,
+          "p2_games": 6,
+          "tiebreak": false
+        }
+      ],
+      "completed": true,
+      "retired": false,
+      "walkover": false,
+      "raw_parent_text": "Kraj\nZhang S.\nEala A.\n0\n2\n3\n6\n2\n6",
+      "raw_header_text": "London (Ujedinjeno Kraljevstvo), trava\nWTA - SINGL:",
+      "tournament": "London (Ujedinjeno Kraljevstvo)",
+      "tour_level": "wta",
+      "gender": "women",
+      "surface": "grass",
+      "indoor": null,
+      "best_of": 3,
+      "is_grand_slam": false,
+      "first_set_score": "3-6",
+      "first_set_games": 9,
+      "first_set_tiebreak": false,
+      "total_games": 17,
+      "p1_total_games_won": 5,
+      "p2_total_games_won": 12,
+      "game_margin_p1": -7,
+      "total_sets": 2,
+      "straight_sets": true,
+      "deciding_set": false,
+      "had_tiebreak": false,
+      "tiebreak_count": 0
+    },
+    {
+      "match_id": "",
+      "match_url": "",
+      "source": "rezultati_daily_results_text_fallback",
+      "date": "2026-06-09",
       "player_1": "Yastremska D.",
       "player_2": "Bejlek S.",
       "match": "Yastremska D. - Bejlek S.",
@@ -1074,64 +1126,6 @@
       "deciding_set": false,
       "had_tiebreak": true,
       "tiebreak_count": 1
-    },
-    {
-      "match_id": "",
-      "match_url": "",
-      "source": "rezultati_daily_results_text_fallback",
-      "date": "2026-06-09",
-      "player_1": "Pereira T.",
-      "player_2": "Martin A.",
-      "match": "Pereira T. - Martin A.",
-      "winner": "Martin A.",
-      "loser": "Pereira T.",
-      "sets_1": 1,
-      "sets_2": 2,
-      "final_score": "1-2",
-      "set_scores": [
-        {
-          "set_number": 1,
-          "p1_games": 7,
-          "p2_games": 5,
-          "tiebreak": false
-        },
-        {
-          "set_number": 2,
-          "p1_games": 3,
-          "p2_games": 6,
-          "tiebreak": false
-        },
-        {
-          "set_number": 3,
-          "p1_games": 4,
-          "p2_games": 6,
-          "tiebreak": false
-        }
-      ],
-      "completed": true,
-      "retired": false,
-      "walkover": false,
-      "raw_parent_text": "Kraj\nPereira T.\nMartin A.\n1\n2\n7\n5\n3\n6\n4\n6",
-      "raw_header_text": "Bratislava (Slovačka), zemlja\nCHALLENGER - MUŠKI SINGL:",
-      "tournament": "Bratislava (Slovačka)",
-      "tour_level": "challenger",
-      "gender": "",
-      "surface": "clay",
-      "indoor": null,
-      "best_of": 3,
-      "is_grand_slam": false,
-      "first_set_score": "7-5",
-      "first_set_games": 12,
-      "first_set_tiebreak": false,
-      "total_games": 31,
-      "p1_total_games_won": 14,
-      "p2_total_games_won": 17,
-      "game_margin_p1": -3,
-      "total_sets": 3,
-      "straight_sets": false,
-      "deciding_set": true,
-      "had_tiebreak": false,
-      "tiebreak_count": 0
     }
   ],
   "debug_files": {
