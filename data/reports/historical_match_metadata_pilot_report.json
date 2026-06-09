@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T00:58:15.745112+02:00",
+  "generated_at": "2026-06-10T01:11:29.845029+02:00",
   "settings": {
     "pilot_limit": 30,
     "max_source_urls": 12,
@@ -12,13 +12,99 @@
   },
   "summary": {
     "selected_matches": 30,
-    "matched": 0,
-    "success_rate": 0.0,
+    "matched": 4,
+    "success_rate": 0.1333,
     "status_counts": {
-      "row_not_found": 30
+      "row_not_found": 26,
+      "matched": 4
     }
   },
-  "matched_examples": [],
+  "matched_examples": [
+    {
+      "canonical_match_id": "02_06_26|carballes_baena_r|carboni_l|per|2_1",
+      "date": "02.06.26",
+      "player_1": "Carballes Baena R.",
+      "player_2": "Carboni L.",
+      "winner": "Carballes Baena R.",
+      "score": "2-1",
+      "tournament_code": "PER",
+      "surface_existing": "clay",
+      "source_url": "https://www.rezultati.com/utakmica/tenis/carboni-lorenzo-2yamY2wB/mazza-manuel-MBgeOclJ/omjer/sve-podloge/?mid=EyemCpgm",
+      "status": "matched",
+      "matched_row_text": "02.06.26\nPER\nCarballes Baena R.\nCarboni L.\n2\n1\nI",
+      "matched_row_href": "https://www.rezultati.com/utakmica/tenis/carballes-baena-roberto-hj8fIZPg/carboni-lorenzo-2yamY2wB/?mid=8IrpyMTN",
+      "candidate_index": 0,
+      "detail_url": "https://www.rezultati.com/utakmica/tenis/carballes-baena-roberto-hj8fIZPg/carboni-lorenzo-2yamY2wB/?mid=8IrpyMTN",
+      "header_text": "TENISCHALLENGER - MUŠKI SINGLPERUGIA, ZEMLJA - 1/16 FINALA",
+      "tour_level": "grand_slam",
+      "surface_from_detail": "clay",
+      "tournament_name": "TENISCHALLENGER - MUŠKI SINGLPERUGIA, ZEMLJA - 1/16 FINALA",
+      "round": "1/16 FINALA"
+    },
+    {
+      "canonical_match_id": "04_06_26|carballes_baena_r|pellegrino_a|per|2_1",
+      "date": "04.06.26",
+      "player_1": "Pellegrino A.",
+      "player_2": "Carballes Baena R.",
+      "winner": "Pellegrino A.",
+      "score": "2-1",
+      "tournament_code": "PER",
+      "surface_existing": "clay",
+      "source_url": "https://www.rezultati.com/utakmica/tenis/daniel-merida-aguilar-WOtXbAu5/pellegrino-andrea-ENPUiYgk/omjer/sve-podloge/?mid=xz0hkRCO",
+      "status": "matched",
+      "matched_row_text": "04.06.26\nPER\nPellegrino A.\nCarballes Baena R.\n2\n1\nP",
+      "matched_row_href": "https://www.rezultati.com/utakmica/tenis/carballes-baena-roberto-hj8fIZPg/pellegrino-andrea-ENPUiYgk/?mid=hv4cElHt",
+      "candidate_index": 0,
+      "detail_url": "https://www.rezultati.com/utakmica/tenis/carballes-baena-roberto-hj8fIZPg/pellegrino-andrea-ENPUiYgk/?mid=hv4cElHt",
+      "header_text": "TENISCHALLENGER - MUŠKI SINGLPERUGIA, ZEMLJA - 1/8 FINALA",
+      "tour_level": "grand_slam",
+      "surface_from_detail": "clay",
+      "tournament_name": "TENISCHALLENGER - MUŠKI SINGLPERUGIA, ZEMLJA - 1/8 FINALA",
+      "round": "1/8 FINALA"
+    },
+    {
+      "canonical_match_id": "01_06_26|damm_m|mccabe_j|bir|1_2",
+      "date": "01.06.26",
+      "player_1": "Damm M.",
+      "player_2": "McCabe J.",
+      "winner": "McCabe J.",
+      "score": "1-2",
+      "tournament_code": "BIR",
+      "surface_existing": "",
+      "source_url": "https://www.rezultati.com/utakmica/tenis/damm-martin-2003-vX7WOXtP/houkes-max-00P4vHo8/omjer/sve-podloge/?mid=Ot9uUybD",
+      "status": "matched",
+      "matched_row_text": "01.06.26\nBIR\nDamm M.\nMcCabe J.\n1\n2\nI",
+      "matched_row_href": "https://www.rezultati.com/utakmica/tenis/damm-martin-2003-vX7WOXtP/mccabe-james-2uDohcK5/?mid=MqD7MugU",
+      "candidate_index": 0,
+      "detail_url": "https://www.rezultati.com/utakmica/tenis/damm-martin-2003-vX7WOXtP/mccabe-james-2uDohcK5/?mid=MqD7MugU",
+      "header_text": "TENISCHALLENGER - MUŠKI SINGLBIRMINGHAM - KVALIFIKACIJE, TRAVA - FINALE",
+      "tour_level": "grand_slam",
+      "surface_from_detail": "grass",
+      "tournament_name": "TENISCHALLENGER - MUŠKI SINGLBIRMINGHAM - KVALIFIKACIJE, TRAVA - FINALE",
+      "round": "KVALIFIKACIJE"
+    },
+    {
+      "canonical_match_id": "01_06_26|houkes_m|nava_e|hei|0_2",
+      "date": "01.06.26",
+      "player_1": "Houkes M.",
+      "player_2": "Nava E.",
+      "winner": "Nava E.",
+      "score": "0-2",
+      "tournament_code": "HEI",
+      "surface_existing": "clay",
+      "source_url": "https://www.rezultati.com/utakmica/tenis/damm-martin-2003-vX7WOXtP/houkes-max-00P4vHo8/omjer/sve-podloge/?mid=Ot9uUybD",
+      "status": "matched",
+      "matched_row_text": "01.06.26\nHEI\nHoukes M.\nNava E.\n0\n2\nI",
+      "matched_row_href": "https://www.rezultati.com/utakmica/tenis/houkes-max-00P4vHo8/nava-emilio-AJGo8fir/?mid=W8wdKfae",
+      "candidate_index": 0,
+      "detail_url": "https://www.rezultati.com/utakmica/tenis/houkes-max-00P4vHo8/nava-emilio-AJGo8fir/?mid=W8wdKfae",
+      "header_text": "TENISCHALLENGER - MUŠKI SINGLHEILBRONN, ZEMLJA - 1/16 FINALA",
+      "tour_level": "grand_slam",
+      "surface_from_detail": "clay",
+      "tournament_name": "TENISCHALLENGER - MUŠKI SINGLHEILBRONN, ZEMLJA - 1/16 FINALA",
+      "round": "1/16 FINALA"
+    }
+  ],
   "failed_examples": [
     {
       "canonical_match_id": "01_02_24|jorda_sanchis_d|rehberg_m_h|kob|0_2",
@@ -31,43 +117,97 @@
       "surface_existing": "hard",
       "source_url": "https://www.rezultati.com/utakmica/tenis/dev-s-d-prajwal-bwAEIrYh/jorda-sanchis-david-plc0lDOK/omjer/tvrda-podloga/?mid=bwzGHz66",
       "status": "row_not_found",
-      "candidate_rows_seen": 6,
+      "candidate_rows_seen": 284,
       "candidate_examples": [
         {
-          "selector": "[class*=\"event__match\"]",
+          "selector": "[class*=\"h2h__row\"]",
           "index": 0,
-          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "text": "24.02.26\nPUN\nJorda Sanchis D.\nImamura M.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/imamura-masamichi-n7tjloOD/jorda-sanchis-david-plc0lDOK/?mid=6HzfSSxp"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 1,
+          "text": "23.02.26\nPUN\nJorda Sanchis D.\nImamura M.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/imamura-masamichi-n7tjloOD/jorda-sanchis-david-plc0lDOK/?mid=2aY0jHmo"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 2,
+          "text": "22.02.26\nPUN\nJorda Sanchis D.\nDonski A.\n2\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/donski-alexander-hvM3ptDk/jorda-sanchis-david-plc0lDOK/?mid=OYv1zvkA"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 3,
+          "text": "17.02.26\nDEL\nJorda Sanchis D.\nNagal S.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/jorda-sanchis-david-plc0lDOK/nagal-sumit-46aHbwDc/?mid=pSFRRCtm"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 4,
+          "text": "09.02.26\nBRI\nWeber A.\nJorda Sanchis D.\n2\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/jorda-sanchis-david-plc0lDOK/weber-arthur-6Bmf3gr6/?mid=vDmTfod2"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 5,
+          "text": "19.05.26\nBEN\nDev S D P.\nIvashka I.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/dev-s-d-prajwal-bwAEIrYh/ivashka-ilya-nkLki9VA/?mid=ldGxqcW7"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 6,
+          "text": "12.05.26\nBEN\nDev S D P.\nCharlton J.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/charlton-joshua-2JGzwSMm/dev-s-d-prajwal-bwAEIrYh/?mid=AeIVcxR7"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 7,
+          "text": "08.05.26\nNAK\nLeong M. W. K.\nDev S D P.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/dev-s-d-prajwal-bwAEIrYh/leong-mitsuki-wei-kang-6wmyFFV7/?mid=Cfib5P0t"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 8,
+          "text": "07.05.26\nNAK\nDev S D P.\nSureshkumar M.\n2\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/dev-s-d-prajwal-bwAEIrYh/sureshkumar-manish-zZLFNUKk/?mid=A9DhGEv2"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 9,
+          "text": "05.05.26\nNAK\nRifqi Fitriadi M.\nDev S D P.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/dev-s-d-prajwal-bwAEIrYh/m-rifqi-fitriadi-YX3TOSit/?mid=0nlBlbG6"
+        },
+        {
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
+          "index": 0,
+          "text": "24.02.26\nPUN\nJorda Sanchis D.\nImamura M.\n0\n2\nI\n23.02.26\nPUN\nJorda Sanchis D.\nImamura M.\n0\n2\nI\n22.02.26\nPUN\nJorda Sanchis D.\nDonski A.\n2\n1\nP\n17.02.26\nDEL\nJorda Sanchis D.\nNagal S.\n0\n2\nI\n09.02.26\nBRI\nWeber A.\nJorda Sanchis D.\n2\n1\nI",
           "href": null
         },
         {
-          "selector": "[class*=\"eventRow\"]",
-          "index": 0,
-          "text": "",
-          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 0,
-          "text": "Boskovic - Andreeva",
-          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 1,
-          "text": "Toffanin - Ajdukovic",
-          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+          "text": "24.02.26\nPUN\nJorda Sanchis D.\nImamura M.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/imamura-masamichi-n7tjloOD/jorda-sanchis-david-plc0lDOK/?mid=6HzfSSxp"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 2,
-          "text": "Bouzkova - Vekić",
-          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+          "text": "23.02.26\nPUN\nJorda Sanchis D.\nImamura M.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/imamura-masamichi-n7tjloOD/jorda-sanchis-david-plc0lDOK/?mid=2aY0jHmo"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 3,
-          "text": "Borges - Čilić",
-          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+          "text": "22.02.26\nPUN\nJorda Sanchis D.\nDonski A.\n2\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/donski-alexander-hvM3ptDk/jorda-sanchis-david-plc0lDOK/?mid=OYv1zvkA"
+        },
+        {
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
+          "index": 4,
+          "text": "17.02.26\nDEL\nJorda Sanchis D.\nNagal S.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/jorda-sanchis-david-plc0lDOK/nagal-sumit-46aHbwDc/?mid=pSFRRCtm"
         }
       ]
     },
@@ -82,43 +222,97 @@
       "surface_existing": "clay",
       "source_url": "https://www.rezultati.com/utakmica/tenis/damm-martin-2003-vX7WOXtP/houkes-max-00P4vHo8/omjer/sve-podloge/?mid=Ot9uUybD",
       "status": "row_not_found",
-      "candidate_rows_seen": 6,
+      "candidate_rows_seen": 296,
       "candidate_examples": [
         {
-          "selector": "[class*=\"event__match\"]",
+          "selector": "[class*=\"h2h__row\"]",
           "index": 0,
-          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "text": "09.06.26\nHER\nMunar J.\nDamm M.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/damm-martin-2003-vX7WOXtP/munar-jaume-zZieQm4D/?mid=YiOcQ3BD"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 1,
+          "text": "07.06.26\nHER\nDamm M.\nFicovich J. P.\n2\n0\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/damm-martin-2003-vX7WOXtP/ficovich-juan-pablo-WpchB57t/?mid=YXooylYh"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 2,
+          "text": "06.06.26\nHER\nDamm M.\nHoukes M.\n2\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/damm-martin-2003-vX7WOXtP/houkes-max-00P4vHo8/?mid=Ot9uUybD"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 3,
+          "text": "02.06.26\nBIR\nDamm M.\nHarris B.\n1\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/damm-martin-2003-vX7WOXtP/harris-billy-G0X2O6XR/?mid=l4Spojx8"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 4,
+          "text": "01.06.26\nBIR\nDamm M.\nMcCabe J.\n1\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/damm-martin-2003-vX7WOXtP/mccabe-james-2uDohcK5/?mid=MqD7MugU"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 5,
+          "text": "06.06.26\nHER\nDamm M.\nHoukes M.\n2\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/damm-martin-2003-vX7WOXtP/houkes-max-00P4vHo8/?mid=Ot9uUybD"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 6,
+          "text": "01.06.26\nHEI\nHoukes M.\nNava E.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/houkes-max-00P4vHo8/nava-emilio-AJGo8fir/?mid=W8wdKfae"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 7,
+          "text": "18.05.26\nFO\nHoukes M.\nCecchinato M.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/cecchinato-marco-4zpGaSnG/houkes-max-00P4vHo8/?mid=MkrAY8j5"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 8,
+          "text": "13.05.26\nTUN\nHoukes M.\nMontes-De La Torre I.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/houkes-max-00P4vHo8/montes-de-la-torre-inaki-4CYXUVX7/?mid=jqF108tQ"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 9,
+          "text": "11.05.26\nTUN\nUchida K.\nHoukes M.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/houkes-max-00P4vHo8/uchida-kaichi-CWzmZ02f/?mid=bJwnrwPF"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 10,
+          "text": "06.06.26\nHER\nDamm M.\nHoukes M.\n2\n1",
+          "href": "https://www.rezultati.com/utakmica/tenis/damm-martin-2003-vX7WOXtP/houkes-max-00P4vHo8/?mid=Ot9uUybD"
+        },
+        {
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
+          "index": 0,
+          "text": "09.06.26\nHER\nMunar J.\nDamm M.\n0\n2\nP\n07.06.26\nHER\nDamm M.\nFicovich J. P.\n2\n0\nP\n06.06.26\nHER\nDamm M.\nHoukes M.\n2\n1\nP\n02.06.26\nBIR\nDamm M.\nHarris B.\n1\n2\nI\n01.06.26\nBIR\nDamm M.\nMcCabe J.\n1\n2\nI",
           "href": null
         },
         {
-          "selector": "[class*=\"eventRow\"]",
-          "index": 0,
-          "text": "",
-          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 0,
-          "text": "Boskovic - Andreeva",
-          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 1,
-          "text": "Toffanin - Ajdukovic",
-          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+          "text": "09.06.26\nHER\nMunar J.\nDamm M.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/damm-martin-2003-vX7WOXtP/munar-jaume-zZieQm4D/?mid=YiOcQ3BD"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 2,
-          "text": "Bouzkova - Vekić",
-          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+          "text": "07.06.26\nHER\nDamm M.\nFicovich J. P.\n2\n0\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/damm-martin-2003-vX7WOXtP/ficovich-juan-pablo-WpchB57t/?mid=YXooylYh"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 3,
-          "text": "Borges - Čilić",
-          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+          "text": "06.06.26\nHER\nDamm M.\nHoukes M.\n2\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/damm-martin-2003-vX7WOXtP/houkes-max-00P4vHo8/?mid=Ot9uUybD"
         }
       ]
     },
@@ -133,94 +327,97 @@
       "surface_existing": "hard",
       "source_url": "https://www.rezultati.com/utakmica/tenis/dev-s-d-prajwal-bwAEIrYh/jorda-sanchis-david-plc0lDOK/omjer/tvrda-podloga/?mid=bwzGHz66",
       "status": "row_not_found",
-      "candidate_rows_seen": 6,
+      "candidate_rows_seen": 284,
       "candidate_examples": [
         {
-          "selector": "[class*=\"event__match\"]",
+          "selector": "[class*=\"h2h__row\"]",
           "index": 0,
-          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "text": "24.02.26\nPUN\nJorda Sanchis D.\nImamura M.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/imamura-masamichi-n7tjloOD/jorda-sanchis-david-plc0lDOK/?mid=6HzfSSxp"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 1,
+          "text": "23.02.26\nPUN\nJorda Sanchis D.\nImamura M.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/imamura-masamichi-n7tjloOD/jorda-sanchis-david-plc0lDOK/?mid=2aY0jHmo"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 2,
+          "text": "22.02.26\nPUN\nJorda Sanchis D.\nDonski A.\n2\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/donski-alexander-hvM3ptDk/jorda-sanchis-david-plc0lDOK/?mid=OYv1zvkA"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 3,
+          "text": "17.02.26\nDEL\nJorda Sanchis D.\nNagal S.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/jorda-sanchis-david-plc0lDOK/nagal-sumit-46aHbwDc/?mid=pSFRRCtm"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 4,
+          "text": "09.02.26\nBRI\nWeber A.\nJorda Sanchis D.\n2\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/jorda-sanchis-david-plc0lDOK/weber-arthur-6Bmf3gr6/?mid=vDmTfod2"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 5,
+          "text": "19.05.26\nBEN\nDev S D P.\nIvashka I.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/dev-s-d-prajwal-bwAEIrYh/ivashka-ilya-nkLki9VA/?mid=ldGxqcW7"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 6,
+          "text": "12.05.26\nBEN\nDev S D P.\nCharlton J.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/charlton-joshua-2JGzwSMm/dev-s-d-prajwal-bwAEIrYh/?mid=AeIVcxR7"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 7,
+          "text": "08.05.26\nNAK\nLeong M. W. K.\nDev S D P.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/dev-s-d-prajwal-bwAEIrYh/leong-mitsuki-wei-kang-6wmyFFV7/?mid=Cfib5P0t"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 8,
+          "text": "07.05.26\nNAK\nDev S D P.\nSureshkumar M.\n2\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/dev-s-d-prajwal-bwAEIrYh/sureshkumar-manish-zZLFNUKk/?mid=A9DhGEv2"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 9,
+          "text": "05.05.26\nNAK\nRifqi Fitriadi M.\nDev S D P.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/dev-s-d-prajwal-bwAEIrYh/m-rifqi-fitriadi-YX3TOSit/?mid=0nlBlbG6"
+        },
+        {
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
+          "index": 0,
+          "text": "24.02.26\nPUN\nJorda Sanchis D.\nImamura M.\n0\n2\nI\n23.02.26\nPUN\nJorda Sanchis D.\nImamura M.\n0\n2\nI\n22.02.26\nPUN\nJorda Sanchis D.\nDonski A.\n2\n1\nP\n17.02.26\nDEL\nJorda Sanchis D.\nNagal S.\n0\n2\nI\n09.02.26\nBRI\nWeber A.\nJorda Sanchis D.\n2\n1\nI",
           "href": null
         },
         {
-          "selector": "[class*=\"eventRow\"]",
-          "index": 0,
-          "text": "",
-          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 0,
-          "text": "Boskovic - Andreeva",
-          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 1,
-          "text": "Toffanin - Ajdukovic",
-          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+          "text": "24.02.26\nPUN\nJorda Sanchis D.\nImamura M.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/imamura-masamichi-n7tjloOD/jorda-sanchis-david-plc0lDOK/?mid=6HzfSSxp"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 2,
-          "text": "Bouzkova - Vekić",
-          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+          "text": "23.02.26\nPUN\nJorda Sanchis D.\nImamura M.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/imamura-masamichi-n7tjloOD/jorda-sanchis-david-plc0lDOK/?mid=2aY0jHmo"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 3,
-          "text": "Borges - Čilić",
-          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
-        }
-      ]
-    },
-    {
-      "canonical_match_id": "02_06_26|carballes_baena_r|carboni_l|per|2_1",
-      "date": "02.06.26",
-      "player_1": "Carballes Baena R.",
-      "player_2": "Carboni L.",
-      "winner": "Carballes Baena R.",
-      "score": "2-1",
-      "tournament_code": "PER",
-      "surface_existing": "clay",
-      "source_url": "https://www.rezultati.com/utakmica/tenis/carboni-lorenzo-2yamY2wB/mazza-manuel-MBgeOclJ/omjer/sve-podloge/?mid=EyemCpgm",
-      "status": "row_not_found",
-      "candidate_rows_seen": 6,
-      "candidate_examples": [
-        {
-          "selector": "[class*=\"event__match\"]",
-          "index": 0,
-          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
-          "href": null
+          "text": "22.02.26\nPUN\nJorda Sanchis D.\nDonski A.\n2\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/donski-alexander-hvM3ptDk/jorda-sanchis-david-plc0lDOK/?mid=OYv1zvkA"
         },
         {
-          "selector": "[class*=\"eventRow\"]",
-          "index": 0,
-          "text": "",
-          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 0,
-          "text": "Boskovic - Andreeva",
-          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 1,
-          "text": "Toffanin - Ajdukovic",
-          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 2,
-          "text": "Bouzkova - Vekić",
-          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 3,
-          "text": "Borges - Čilić",
-          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
+          "index": 4,
+          "text": "17.02.26\nDEL\nJorda Sanchis D.\nNagal S.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/jorda-sanchis-david-plc0lDOK/nagal-sumit-46aHbwDc/?mid=pSFRRCtm"
         }
       ]
     },
@@ -235,43 +432,97 @@
       "surface_existing": "grass",
       "source_url": "https://www.rezultati.com/utakmica/tenis/cobolli-flavio-zDtaCcPe/zverev-alexander-dGbUhw9m/omjer/trava/?mid=b94RLVkm",
       "status": "row_not_found",
-      "candidate_rows_seen": 6,
+      "candidate_rows_seen": 300,
       "candidate_examples": [
         {
-          "selector": "[class*=\"event__match\"]",
+          "selector": "[class*=\"h2h__row\"]",
           "index": 0,
-          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "text": "09.07.25\nWIM\nCobolli F.\nĐoković N.\n1\n3\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/cobolli-flavio-zDtaCcPe/dokovic-novak-AZg49Et9/?mid=UVtzEDE6"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 1,
+          "text": "07.07.25\nWIM\nČilić M.\nCobolli F.\n1\n3\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/cilic-marin-nLoK5syL/cobolli-flavio-zDtaCcPe/?mid=YZsZEE0B"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 2,
+          "text": "05.07.25\nWIM\nCobolli F.\nMensik J.\n3\n0\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/cobolli-flavio-zDtaCcPe/mensik-jakub-UFj257G8/?mid=K4RU5Z8j"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 3,
+          "text": "03.07.25\nWIM\nCobolli F.\nPinnington Jones J.\n3\n0\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/cobolli-flavio-zDtaCcPe/pinnington-jones-jack-jRDvhb4q/?mid=UsPACXEa"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 4,
+          "text": "01.07.25\nWIM\nCobolli F.\nZhukayev B.\n3\n0\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/cobolli-flavio-zDtaCcPe/zhukayev-beibit-pxo4hgC3/?mid=pfwzekjB"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 5,
+          "text": "01.07.25\nWIM\nRinderknech A.\nZverev A.\n3\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/rinderknech-arthur-pIxZZsof/zverev-alexander-dGbUhw9m/?mid=jg94PCIG"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 6,
+          "text": "21.06.25\nHAL\nMedvedev D.\nZverev A.\n2\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/medvedev-daniil-O8qG0Nhb/zverev-alexander-dGbUhw9m/?mid=noOHgD3b"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 7,
+          "text": "20.06.25\nHAL\nCobolli F.\nZverev A.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/cobolli-flavio-zDtaCcPe/zverev-alexander-dGbUhw9m/?mid=C4cwZXcU"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 8,
+          "text": "19.06.25\nHAL\nSonego L.\nZverev A.\n1\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/sonego-lorenzo-zVuMEJTT/zverev-alexander-dGbUhw9m/?mid=SpDcseJk"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 9,
+          "text": "18.06.25\nHAL\nGiron M.\nZverev A.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/giron-marcos-OWOgryOk/zverev-alexander-dGbUhw9m/?mid=YofWXuke"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 10,
+          "text": "20.06.25\nHAL\nCobolli F.\nZverev A.\n0\n2",
+          "href": "https://www.rezultati.com/utakmica/tenis/cobolli-flavio-zDtaCcPe/zverev-alexander-dGbUhw9m/?mid=C4cwZXcU"
+        },
+        {
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
+          "index": 0,
+          "text": "09.07.25\nWIM\nCobolli F.\nĐoković N.\n1\n3\nI\n07.07.25\nWIM\nČilić M.\nCobolli F.\n1\n3\nP\n05.07.25\nWIM\nCobolli F.\nMensik J.\n3\n0\nP\n03.07.25\nWIM\nCobolli F.\nPinnington Jones J.\n3\n0\nP\n01.07.25\nWIM\nCobolli F.\nZhukayev B.\n3\n0\nP",
           "href": null
         },
         {
-          "selector": "[class*=\"eventRow\"]",
-          "index": 0,
-          "text": "",
-          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 0,
-          "text": "Boskovic - Andreeva",
-          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 1,
-          "text": "Toffanin - Ajdukovic",
-          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+          "text": "09.07.25\nWIM\nCobolli F.\nĐoković N.\n1\n3\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/cobolli-flavio-zDtaCcPe/dokovic-novak-AZg49Et9/?mid=UVtzEDE6"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 2,
-          "text": "Bouzkova - Vekić",
-          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+          "text": "07.07.25\nWIM\nČilić M.\nCobolli F.\n1\n3\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/cilic-marin-nLoK5syL/cobolli-flavio-zDtaCcPe/?mid=YZsZEE0B"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 3,
-          "text": "Borges - Čilić",
-          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+          "text": "05.07.25\nWIM\nCobolli F.\nMensik J.\n3\n0\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/cobolli-flavio-zDtaCcPe/mensik-jakub-UFj257G8/?mid=K4RU5Z8j"
         }
       ]
     },
@@ -286,43 +537,97 @@
       "surface_existing": "hard",
       "source_url": "https://www.rezultati.com/utakmica/tenis/durasovic-viktor-Wv6uZNr5/krumich-martin-WKaCDElC/omjer/tvrda-podloga/?mid=4vqzy4kU",
       "status": "row_not_found",
-      "candidate_rows_seen": 6,
+      "candidate_rows_seen": 308,
       "candidate_examples": [
         {
-          "selector": "[class*=\"event__match\"]",
+          "selector": "[class*=\"h2h__row\"]",
           "index": 0,
-          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "text": "09.03.26\nCHE\nKrumich M.\nCassone M.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/cassone-murphy-O4aHjdoE/krumich-martin-WKaCDElC/?mid=UZqKYzN9"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 1,
+          "text": "05.03.26\nTHI\nRodionov J.\nKrumich M.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/krumich-martin-WKaCDElC/rodionov-jurij-CKjcTLz1/?mid=jDp0ohsQ"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 2,
+          "text": "03.03.26\nTHI\nAdded D.\nKrumich M.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/added-dan-bwW3LbI0/krumich-martin-WKaCDElC/?mid=Q72yJNsh"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 3,
+          "text": "02.03.26\nTHI\nMolleker R.\nKrumich M.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/krumich-martin-WKaCDElC/molleker-rudolf-6RBmhB5N/?mid=zRLNGBC7"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 4,
+          "text": "01.03.26\nTHI\nKotov P.\nKrumich M.\n1\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/kotov-pavel-809HrNqi/krumich-martin-WKaCDElC/?mid=8KaAfbUN"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 5,
+          "text": "07.04.26\nMON\nIannaccone F.\nDurasovic V.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/durasovic-viktor-Wv6uZNr5/iannaccone-federico-4OUbV0RG/?mid=vRKutPYG"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 6,
+          "text": "27.03.26\nSAI\nOnclin G.\nDurasovic V.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/durasovic-viktor-Wv6uZNr5/onclin-gauthier-dtG17O9l/?mid=dIyy19pR"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 7,
+          "text": "26.03.26\nSAI\nNaw H.\nDurasovic V.\n1\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/durasovic-viktor-Wv6uZNr5/naw-hazem-ED89IbMk/?mid=Oh9dUq1c"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 8,
+          "text": "25.03.26\nSAI\nMurgett F.\nDurasovic V.\n1\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/durasovic-viktor-Wv6uZNr5/murgett-finn-EcIrRrO5/?mid=6BPTz8uJ"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 9,
+          "text": "22.03.26\nTOU\nDurasovic V.\nOnclin G.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/durasovic-viktor-Wv6uZNr5/onclin-gauthier-dtG17O9l/?mid=AeKQUVbC"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 10,
+          "text": "07.11.22\nBRA\nKrumich M.\nDurasovic V.\n0\n2",
+          "href": "https://www.rezultati.com/utakmica/tenis/durasovic-viktor-Wv6uZNr5/krumich-martin-WKaCDElC/?mid=0UcfiII8"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 11,
+          "text": "21.10.21\nHAM\nKrumich M.\nDurasovic V.\n2\n1",
+          "href": "https://www.rezultati.com/utakmica/tenis/durasovic-viktor-Wv6uZNr5/krumich-martin-WKaCDElC/?mid=rXm9OiBo"
+        },
+        {
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
+          "index": 0,
+          "text": "09.03.26\nCHE\nKrumich M.\nCassone M.\n0\n2\nI\n05.03.26\nTHI\nRodionov J.\nKrumich M.\n2\n0\nI\n03.03.26\nTHI\nAdded D.\nKrumich M.\n0\n2\nP\n02.03.26\nTHI\nMolleker R.\nKrumich M.\n0\n2\nP\n01.03.26\nTHI\nKotov P.\nKrumich M.\n1\n2\nP",
           "href": null
         },
         {
-          "selector": "[class*=\"eventRow\"]",
-          "index": 0,
-          "text": "",
-          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 0,
-          "text": "Boskovic - Andreeva",
-          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 1,
-          "text": "Toffanin - Ajdukovic",
-          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+          "text": "09.03.26\nCHE\nKrumich M.\nCassone M.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/cassone-murphy-O4aHjdoE/krumich-martin-WKaCDElC/?mid=UZqKYzN9"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 2,
-          "text": "Bouzkova - Vekić",
-          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 3,
-          "text": "Borges - Čilić",
-          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+          "text": "05.03.26\nTHI\nRodionov J.\nKrumich M.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/krumich-martin-WKaCDElC/rodionov-jurij-CKjcTLz1/?mid=jDp0ohsQ"
         }
       ]
     },
@@ -337,94 +642,97 @@
       "surface_existing": "clay",
       "source_url": "https://www.rezultati.com/utakmica/tenis/atmane-terence-6mkEQ279/borges-nuno-hzbEPIOa/omjer/zemlja/?mid=tzstSvWI",
       "status": "row_not_found",
-      "candidate_rows_seen": 6,
+      "candidate_rows_seen": 286,
       "candidate_examples": [
         {
-          "selector": "[class*=\"event__match\"]",
+          "selector": "[class*=\"h2h__row\"]",
           "index": 0,
-          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "text": "29.05.26\nFO\nBorges N.\nRublev A.\n0\n3\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/borges-nuno-hzbEPIOa/rublev-andrey-AeAn4gP0/?mid=WIzfqXXr"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 1,
+          "text": "27.05.26\nFO\nBorges N.\nKecmanovic M.\n3\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/borges-nuno-hzbEPIOa/kecmanovic-miomir-MTQ5CPOR/?mid=vVC89C3C"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 2,
+          "text": "24.05.26\nFO\nEtcheverry T. M.\nBorges N.\n0\n3\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/borges-nuno-hzbEPIOa/etcheverry-tomas-martin-AXL5qpKa/?mid=h4NbHrUr"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 3,
+          "text": "08.05.26\nROM\nBorges N.\nJodar R.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/borges-nuno-hzbEPIOa/jodar-rafael-OdngshVK/?mid=UcO5NkQ1"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 4,
+          "text": "06.05.26\nROM\nDe Jong J.\nBorges N.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/borges-nuno-hzbEPIOa/de-jong-jesper-8jStUWzB/?mid=6krZ7UnK"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 5,
+          "text": "25.05.26\nFO\nKokkinakis T.\nAtmane T.\n3\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/atmane-terence-6mkEQ279/kokkinakis-thanasi-rBm7dcxH/?mid=M1tZ0Nq2"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 6,
+          "text": "18.05.26\nHAM\nAtmane T.\nEtcheverry T. M.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/atmane-terence-6mkEQ279/etcheverry-tomas-martin-AXL5qpKa/?mid=Gjn6Fdxq"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 7,
+          "text": "14.05.26\nBOR\nDroguet T.\nAtmane T.\n2\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/atmane-terence-6mkEQ279/droguet-titouan-A57Xet1f/?mid=8GFyhO9k"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 8,
+          "text": "09.05.26\nROM\nCobolli F.\nAtmane T.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/atmane-terence-6mkEQ279/cobolli-flavio-zDtaCcPe/?mid=tGxA5h6N"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 9,
+          "text": "07.05.26\nROM\nBergs Z.\nAtmane T.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/atmane-terence-6mkEQ279/bergs-zizou-SbeTx1o8/?mid=610QWs8m"
+        },
+        {
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
+          "index": 0,
+          "text": "29.05.26\nFO\nBorges N.\nRublev A.\n0\n3\nI\n27.05.26\nFO\nBorges N.\nKecmanovic M.\n3\n1\nP\n24.05.26\nFO\nEtcheverry T. M.\nBorges N.\n0\n3\nP\n08.05.26\nROM\nBorges N.\nJodar R.\n0\n2\nI\n06.05.26\nROM\nDe Jong J.\nBorges N.\n0\n2\nP",
           "href": null
         },
         {
-          "selector": "[class*=\"eventRow\"]",
-          "index": 0,
-          "text": "",
-          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 0,
-          "text": "Boskovic - Andreeva",
-          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 1,
-          "text": "Toffanin - Ajdukovic",
-          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+          "text": "29.05.26\nFO\nBorges N.\nRublev A.\n0\n3\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/borges-nuno-hzbEPIOa/rublev-andrey-AeAn4gP0/?mid=WIzfqXXr"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 2,
-          "text": "Bouzkova - Vekić",
-          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+          "text": "27.05.26\nFO\nBorges N.\nKecmanovic M.\n3\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/borges-nuno-hzbEPIOa/kecmanovic-miomir-MTQ5CPOR/?mid=vVC89C3C"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 3,
-          "text": "Borges - Čilić",
-          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
-        }
-      ]
-    },
-    {
-      "canonical_match_id": "04_06_26|carballes_baena_r|pellegrino_a|per|2_1",
-      "date": "04.06.26",
-      "player_1": "Pellegrino A.",
-      "player_2": "Carballes Baena R.",
-      "winner": "Pellegrino A.",
-      "score": "2-1",
-      "tournament_code": "PER",
-      "surface_existing": "clay",
-      "source_url": "https://www.rezultati.com/utakmica/tenis/daniel-merida-aguilar-WOtXbAu5/pellegrino-andrea-ENPUiYgk/omjer/sve-podloge/?mid=xz0hkRCO",
-      "status": "row_not_found",
-      "candidate_rows_seen": 6,
-      "candidate_examples": [
-        {
-          "selector": "[class*=\"event__match\"]",
-          "index": 0,
-          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
-          "href": null
+          "text": "24.05.26\nFO\nEtcheverry T. M.\nBorges N.\n0\n3\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/borges-nuno-hzbEPIOa/etcheverry-tomas-martin-AXL5qpKa/?mid=h4NbHrUr"
         },
         {
-          "selector": "[class*=\"eventRow\"]",
-          "index": 0,
-          "text": "",
-          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 0,
-          "text": "Boskovic - Andreeva",
-          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 1,
-          "text": "Toffanin - Ajdukovic",
-          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 2,
-          "text": "Bouzkova - Vekić",
-          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 3,
-          "text": "Borges - Čilić",
-          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
+          "index": 4,
+          "text": "08.05.26\nROM\nBorges N.\nJodar R.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/borges-nuno-hzbEPIOa/jodar-rafael-OdngshVK/?mid=UcO5NkQ1"
         }
       ]
     },
@@ -439,7 +747,7 @@
       "surface_existing": "hard",
       "source_url": "https://www.rezultati.com/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/kokkinakis-thanasi-rBm7dcxH/omjer/sve-podloge/?mid=x8kb9ced",
       "status": "row_not_found",
-      "candidate_rows_seen": 34,
+      "candidate_rows_seen": 295,
       "candidate_examples": [
         {
           "selector": "[class*=\"h2h__row\"]",
@@ -508,28 +816,28 @@
           "href": "https://www.rezultati.com/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/kokkinakis-thanasi-rBm7dcxH/?mid=x8kb9ced"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 0,
-          "text": "MEČ",
-          "href": "/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/kokkinakis-thanasi-rBm7dcxH/?mid=x8kb9ced"
+          "text": "08.06.26\nBRA\nKokkinakis T.\nBarrios Vera T.\n2\n0\nP\n27.05.26\nFO\nKokkinakis T.\nCarreno-Busta P.\n1\n1\nI\n25.05.26\nFO\nKokkinakis T.\nAtmane T.\n3\n2\nP\n13.05.26\nZAG\nAlexandrescou Y. T.\nKokkinakis T.\n-\nI\n11.05.26\nZAG\nRibecai M.\nKokkinakis T.\n1\n2\nP",
+          "href": null
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 1,
-          "text": "TEČAJEVI",
-          "href": "/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/kokkinakis-thanasi-rBm7dcxH/tecajevi/?mid=x8kb9ced"
+          "text": "08.06.26\nBRA\nKokkinakis T.\nBarrios Vera T.\n2\n0\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/kokkinakis-thanasi-rBm7dcxH/?mid=x8kb9ced"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 2,
-          "text": "OMJER",
-          "href": "/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/kokkinakis-thanasi-rBm7dcxH/omjer/?mid=x8kb9ced"
+          "text": "27.05.26\nFO\nKokkinakis T.\nCarreno-Busta P.\n1\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/carreno-busta-pablo-W8WmcXdq/kokkinakis-thanasi-rBm7dcxH/?mid=GvtTBr8T"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 3,
-          "text": "ŽDRIJEB",
-          "href": "/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/kokkinakis-thanasi-rBm7dcxH/zdrijeb/?mid=x8kb9ced"
+          "text": "25.05.26\nFO\nKokkinakis T.\nAtmane T.\n3\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/atmane-terence-6mkEQ279/kokkinakis-thanasi-rBm7dcxH/?mid=M1tZ0Nq2"
         }
       ]
     },
@@ -544,43 +852,97 @@
       "surface_existing": "hard",
       "source_url": "https://www.rezultati.com/utakmica/tenis/barton-hynek-UoDybC2H/molcan-alex-drgiRTl7/omjer/tvrda-podloga/?mid=h2MpAkb4",
       "status": "row_not_found",
-      "candidate_rows_seen": 6,
+      "candidate_rows_seen": 284,
       "candidate_examples": [
         {
-          "selector": "[class*=\"event__match\"]",
+          "selector": "[class*=\"h2h__row\"]",
           "index": 0,
-          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "text": "16.02.26\nLIL\nKukushkin M.\nBarton H.\n2\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/barton-hynek-UoDybC2H/kukushkin-mikhail-OSUB7Jy0/?mid=QLDO5eXg"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 1,
+          "text": "15.02.26\nLIL\nBroska F.\nBarton H.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/barton-hynek-UoDybC2H/broska-florian-8K76hSpA/?mid=IRdRpGOb"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 2,
+          "text": "12.02.26\nTEN\nTravaglia S.\nBarton H.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/barton-hynek-UoDybC2H/travaglia-stefano-KAYoXgme/?mid=v3xWeBin"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 3,
+          "text": "10.02.26\nTEN\nBarton H.\nPeniston R.\n2\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/barton-hynek-UoDybC2H/peniston-ryan-E7o4KyVI/?mid=bPlVT5Ba"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 4,
+          "text": "09.02.26\nTEN\nBarton H.\nPiraino G.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/barton-hynek-UoDybC2H/piraino-gabriele-2VTqlA8l/?mid=EsrGpZ7b"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 5,
+          "text": "02.03.26\nTHI\nBudkov Kjaer N.\nMolcan A.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/budkov-kjaer-nicolai-Gj3CGbX5/molcan-alex-drgiRTl7/?mid=bPWOUTkm"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 6,
+          "text": "29.01.26\nQUI\nMolcan A.\nvan Assche L.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/molcan-alex-drgiRTl7/van-assche-luca-nP9K42Bg/?mid=CGqSaSzp"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 7,
+          "text": "27.01.26\nQUI\nMolcan A.\nAdded D.\n2\n0\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/added-dan-bwW3LbI0/molcan-alex-drgiRTl7/?mid=QwY7UTJa"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 8,
+          "text": "14.01.26\nAO\nBlockx A.\nMolcan A.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/blockx-alexander-xll0TzGG/molcan-alex-drgiRTl7/?mid=fRu1mSVN"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 9,
+          "text": "13.01.26\nAO\nShimabukuro S.\nMolcan A.\n1\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/molcan-alex-drgiRTl7/shimabukuro-sho-86URR6MP/?mid=KYKriVFr"
+        },
+        {
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
+          "index": 0,
+          "text": "16.02.26\nLIL\nKukushkin M.\nBarton H.\n2\n1\nI\n15.02.26\nLIL\nBroska F.\nBarton H.\n0\n2\nP\n12.02.26\nTEN\nTravaglia S.\nBarton H.\n2\n0\nI\n10.02.26\nTEN\nBarton H.\nPeniston R.\n2\n1\nP\n09.02.26\nTEN\nBarton H.\nPiraino G.\n0\n2\nI",
           "href": null
         },
         {
-          "selector": "[class*=\"eventRow\"]",
-          "index": 0,
-          "text": "",
-          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 0,
-          "text": "Boskovic - Andreeva",
-          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 1,
-          "text": "Toffanin - Ajdukovic",
-          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+          "text": "16.02.26\nLIL\nKukushkin M.\nBarton H.\n2\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/barton-hynek-UoDybC2H/kukushkin-mikhail-OSUB7Jy0/?mid=QLDO5eXg"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 2,
-          "text": "Bouzkova - Vekić",
-          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+          "text": "15.02.26\nLIL\nBroska F.\nBarton H.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/barton-hynek-UoDybC2H/broska-florian-8K76hSpA/?mid=IRdRpGOb"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 3,
-          "text": "Borges - Čilić",
-          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+          "text": "12.02.26\nTEN\nTravaglia S.\nBarton H.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/barton-hynek-UoDybC2H/travaglia-stefano-KAYoXgme/?mid=v3xWeBin"
+        },
+        {
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
+          "index": 4,
+          "text": "10.02.26\nTEN\nBarton H.\nPeniston R.\n2\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/barton-hynek-UoDybC2H/peniston-ryan-E7o4KyVI/?mid=bPlVT5Ba"
         }
       ]
     },
@@ -595,43 +957,97 @@
       "surface_existing": "hard",
       "source_url": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/gadamauri-buvaysar-QX3MNSXf/omjer/sve-podloge/?mid=GzvCt8Lh",
       "status": "row_not_found",
-      "candidate_rows_seen": 6,
+      "candidate_rows_seen": 307,
       "candidate_examples": [
         {
-          "selector": "[class*=\"event__match\"]",
+          "selector": "[class*=\"h2h__row\"]",
           "index": 0,
-          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "text": "09.06.26\nBRA\nBarton H.\nGadamauri B.\n2\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/barton-hynek-UoDybC2H/gadamauri-buvaysar-QX3MNSXf/?mid=SOzk7c6b"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 1,
+          "text": "08.06.26\nBRA\nGadamauri B.\nKuzmanov D.\n2\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/gadamauri-buvaysar-QX3MNSXf/kuzmanov-dimitar-WEwUtEGs/?mid=0leTo2K7"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 2,
+          "text": "07.06.26\nBRA\nGadamauri B.\nDonald M.\n2\n0\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/gadamauri-buvaysar-QX3MNSXf/?mid=GzvCt8Lh"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 3,
+          "text": "23.05.26\nCER\nAlcala Gurri M.\nGadamauri B.\n2\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/alcala-gurri-max-pISmOkA6/gadamauri-buvaysar-QX3MNSXf/?mid=Ice0sucl"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 4,
+          "text": "22.05.26\nCER\nGadamauri B.\nCompagnucci T.\n2\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/compagnucci-tommaso-ETKnHZom/gadamauri-buvaysar-QX3MNSXf/?mid=jT6fc89F"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 5,
+          "text": "07.06.26\nBRA\nGadamauri B.\nDonald M.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/gadamauri-buvaysar-QX3MNSXf/?mid=GzvCt8Lh"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 6,
+          "text": "31.05.26\nPER\nDonald M.\nForti F.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/forti-francesco-MF7nWtCA/?mid=M7kZ1wQp"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 7,
+          "text": "29.05.26\nGRA\nSorger S.\nDonald M.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/sorger-sebastian-YVX2xrZ3/?mid=4xzogk5t"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 8,
+          "text": "28.05.26\nGRA\nPlunger M.\nDonald M.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/plunger-manuel-x0jclBBa/?mid=YTuTQgHs"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 9,
+          "text": "26.05.26\nGRA\nBaragiola Mordini T. C.\nDonald M.\n1\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/baragiola-mordini-tobia-costanzo-M3SIsJoo/donald-matthew-CvEGpt6B/?mid=zohFjNTb"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 10,
+          "text": "07.06.26\nBRA\nGadamauri B.\nDonald M.\n2\n0",
+          "href": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/gadamauri-buvaysar-QX3MNSXf/?mid=GzvCt8Lh"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 11,
+          "text": "27.07.25\nHAG\nDonald M.\nGadamauri B.\n1\n2",
+          "href": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/gadamauri-buvaysar-QX3MNSXf/?mid=UNUpsft2"
+        },
+        {
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
+          "index": 0,
+          "text": "09.06.26\nBRA\nBarton H.\nGadamauri B.\n2\n1\nI\n08.06.26\nBRA\nGadamauri B.\nKuzmanov D.\n2\n1\nP\n07.06.26\nBRA\nGadamauri B.\nDonald M.\n2\n0\nP\n23.05.26\nCER\nAlcala Gurri M.\nGadamauri B.\n2\n1\nI\n22.05.26\nCER\nGadamauri B.\nCompagnucci T.\n2\n1\nP",
           "href": null
         },
         {
-          "selector": "[class*=\"eventRow\"]",
-          "index": 0,
-          "text": "",
-          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 0,
-          "text": "Boskovic - Andreeva",
-          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 1,
-          "text": "Toffanin - Ajdukovic",
-          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+          "text": "09.06.26\nBRA\nBarton H.\nGadamauri B.\n2\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/barton-hynek-UoDybC2H/gadamauri-buvaysar-QX3MNSXf/?mid=SOzk7c6b"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 2,
-          "text": "Bouzkova - Vekić",
-          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 3,
-          "text": "Borges - Čilić",
-          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+          "text": "08.06.26\nBRA\nGadamauri B.\nKuzmanov D.\n2\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/gadamauri-buvaysar-QX3MNSXf/kuzmanov-dimitar-WEwUtEGs/?mid=0leTo2K7"
         }
       ]
     },
@@ -646,43 +1062,97 @@
       "surface_existing": "hard",
       "source_url": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/staeheli-luca-Eegw5r5O/omjer/tvrda-podloga/?mid=nylUVQQG",
       "status": "row_not_found",
-      "candidate_rows_seen": 6,
+      "candidate_rows_seen": 284,
       "candidate_examples": [
         {
-          "selector": "[class*=\"event__match\"]",
+          "selector": "[class*=\"h2h__row\"]",
           "index": 0,
-          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "text": "11.03.26\nCHE\nBlancaneaux G.\nGojo B.\n1\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/gojo-borna-px9AXG3g/?mid=SpUOEKPh"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 1,
+          "text": "09.03.26\nCHE\nSels J.\nBlancaneaux G.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/sels-jelle-b98aFqya/?mid=QcsaoE6F"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 2,
+          "text": "02.03.26\nTHI\nBroom C.\nBlancaneaux G.\n2\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/broom-charles-pblgp6C1/?mid=rLO3vONc"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 3,
+          "text": "01.03.26\nTHI\nJanvier M.\nBlancaneaux G.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/janvier-maxime-S4riPNES/?mid=vNtzBJE4"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 4,
+          "text": "25.02.26\nSAI\nOfner S.\nBlancaneaux G.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/ofner-sebastian-h6vs3iR2/?mid=QPa1HxHc"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 5,
+          "text": "31.03.26\nHER\nStaeheli L.\nXilas I.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/staeheli-luca-Eegw5r5O/xilas-ioannis-CjZOlKb3/?mid=4lt13nn2"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 6,
+          "text": "29.03.26\nHER\nStaeheli L.\nKumstat J.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/kumstat-jan-tpkd9exs/staeheli-luca-Eegw5r5O/?mid=QsPlT5ek"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 7,
+          "text": "29.03.26\nHER\nStaeheli L.\nKountourakis I.\n2\n0\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/kountourakis-ioannis-AqJTOfTc/staeheli-luca-Eegw5r5O/?mid=EyBOlEKa"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 8,
+          "text": "27.03.26\nHER\nStaeheli L.\nTailleu P. A.\n2\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/staeheli-luca-Eegw5r5O/tailleu-pierre-antoine-xzcDZbIN/?mid=llAiwsfR"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 9,
+          "text": "27.03.26\nHER\nStaeheli L.\nJozwicki P.\n2\n0\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/jozwicki-patrick-SAS9qQpo/staeheli-luca-Eegw5r5O/?mid=SlAmuzSb"
+        },
+        {
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
+          "index": 0,
+          "text": "11.03.26\nCHE\nBlancaneaux G.\nGojo B.\n1\n2\nI\n09.03.26\nCHE\nSels J.\nBlancaneaux G.\n0\n2\nP\n02.03.26\nTHI\nBroom C.\nBlancaneaux G.\n2\n1\nI\n01.03.26\nTHI\nJanvier M.\nBlancaneaux G.\n0\n2\nP\n25.02.26\nSAI\nOfner S.\nBlancaneaux G.\n2\n0\nI",
           "href": null
         },
         {
-          "selector": "[class*=\"eventRow\"]",
-          "index": 0,
-          "text": "",
-          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 0,
-          "text": "Boskovic - Andreeva",
-          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 1,
-          "text": "Toffanin - Ajdukovic",
-          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+          "text": "11.03.26\nCHE\nBlancaneaux G.\nGojo B.\n1\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/gojo-borna-px9AXG3g/?mid=SpUOEKPh"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 2,
-          "text": "Bouzkova - Vekić",
-          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+          "text": "09.03.26\nCHE\nSels J.\nBlancaneaux G.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/sels-jelle-b98aFqya/?mid=QcsaoE6F"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 3,
-          "text": "Borges - Čilić",
-          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+          "text": "02.03.26\nTHI\nBroom C.\nBlancaneaux G.\n2\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/broom-charles-pblgp6C1/?mid=rLO3vONc"
+        },
+        {
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
+          "index": 4,
+          "text": "01.03.26\nTHI\nJanvier M.\nBlancaneaux G.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/janvier-maxime-S4riPNES/?mid=vNtzBJE4"
         }
       ]
     },
@@ -697,43 +1167,97 @@
       "surface_existing": "hard",
       "source_url": "https://www.rezultati.com/utakmica/tenis/altmaier-daniel-IPR8h9gM/tiafoe-frances-AHDLJaph/omjer/tvrda-podloga/?mid=nFGVB7ON",
       "status": "row_not_found",
-      "candidate_rows_seen": 6,
+      "candidate_rows_seen": 298,
       "candidate_examples": [
         {
-          "selector": "[class*=\"event__match\"]",
+          "selector": "[class*=\"h2h__row\"]",
           "index": 0,
-          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "text": "20.03.26\nMIA\nAtmane T.\nAltmaier D.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/altmaier-daniel-IPR8h9gM/atmane-terence-6mkEQ279/?mid=O4PZFSTN"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 1,
+          "text": "04.03.26\nIND\nAltmaier D.\nKecmanovic M.\n0\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/altmaier-daniel-IPR8h9gM/kecmanovic-miomir-MTQ5CPOR/?mid=Ecn03miK"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 2,
+          "text": "24.02.26\nACA\nAltmaier D.\nDavidovich Fokina A.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/altmaier-daniel-IPR8h9gM/davidovich-fokina-alejandro-0zQXLfz4/?mid=8bSeBaDc"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 3,
+          "text": "19.01.26\nAO\nAltmaier D.\nČilić M.\n0\n3\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/altmaier-daniel-IPR8h9gM/cilic-marin-nLoK5syL/?mid=IT2u11L5"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 4,
+          "text": "12.01.26\nADE\nAltmaier D.\nMunar J.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/altmaier-daniel-IPR8h9gM/munar-jaume-zZieQm4D/?mid=tYGteVzi"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 5,
+          "text": "26.03.26\nMIA\nTiafoe F.\nSinner J.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/sinner-jannik-6HdC3z4H/tiafoe-frances-AHDLJaph/?mid=pKaE2dj4"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 6,
+          "text": "24.03.26\nMIA\nAtmane T.\nTiafoe F.\n1\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/atmane-terence-6mkEQ279/tiafoe-frances-AHDLJaph/?mid=6PKZtLIi"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 7,
+          "text": "23.03.26\nMIA\nTiafoe F.\nMensik J.\n2\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/mensik-jakub-UFj257G8/tiafoe-frances-AHDLJaph/?mid=djHvPg15"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 8,
+          "text": "22.03.26\nMIA\nTiafoe F.\nCazaux A.\n2\n0\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/cazaux-arthur-bJR9AFq5/tiafoe-frances-AHDLJaph/?mid=pMvlWtI5"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 9,
+          "text": "10.03.26\nIND\nTiafoe F.\nZverev A.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/tiafoe-frances-AHDLJaph/zverev-alexander-dGbUhw9m/?mid=lULp2MJk"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 10,
+          "text": "16.01.23\nAO\nAltmaier D.\nTiafoe F.\n1\n3",
+          "href": "https://www.rezultati.com/utakmica/tenis/altmaier-daniel-IPR8h9gM/tiafoe-frances-AHDLJaph/?mid=dC934qYE"
+        },
+        {
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
+          "index": 0,
+          "text": "20.03.26\nMIA\nAtmane T.\nAltmaier D.\n2\n0\nI\n04.03.26\nIND\nAltmaier D.\nKecmanovic M.\n0\n1\nI\n24.02.26\nACA\nAltmaier D.\nDavidovich Fokina A.\n0\n2\nI\n19.01.26\nAO\nAltmaier D.\nČilić M.\n0\n3\nI\n12.01.26\nADE\nAltmaier D.\nMunar J.\n0\n2\nI",
           "href": null
         },
         {
-          "selector": "[class*=\"eventRow\"]",
-          "index": 0,
-          "text": "",
-          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 0,
-          "text": "Boskovic - Andreeva",
-          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 1,
-          "text": "Toffanin - Ajdukovic",
-          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+          "text": "20.03.26\nMIA\nAtmane T.\nAltmaier D.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/altmaier-daniel-IPR8h9gM/atmane-terence-6mkEQ279/?mid=O4PZFSTN"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 2,
-          "text": "Bouzkova - Vekić",
-          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+          "text": "04.03.26\nIND\nAltmaier D.\nKecmanovic M.\n0\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/altmaier-daniel-IPR8h9gM/kecmanovic-miomir-MTQ5CPOR/?mid=Ecn03miK"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 3,
-          "text": "Borges - Čilić",
-          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+          "text": "24.02.26\nACA\nAltmaier D.\nDavidovich Fokina A.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/altmaier-daniel-IPR8h9gM/davidovich-fokina-alejandro-0zQXLfz4/?mid=8bSeBaDc"
         }
       ]
     },
@@ -748,43 +1272,97 @@
       "surface_existing": "hard",
       "source_url": "https://www.rezultati.com/utakmica/tenis/durasovic-viktor-Wv6uZNr5/krumich-martin-WKaCDElC/omjer/tvrda-podloga/?mid=4vqzy4kU",
       "status": "row_not_found",
-      "candidate_rows_seen": 6,
+      "candidate_rows_seen": 308,
       "candidate_examples": [
         {
-          "selector": "[class*=\"event__match\"]",
+          "selector": "[class*=\"h2h__row\"]",
           "index": 0,
-          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "text": "09.03.26\nCHE\nKrumich M.\nCassone M.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/cassone-murphy-O4aHjdoE/krumich-martin-WKaCDElC/?mid=UZqKYzN9"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 1,
+          "text": "05.03.26\nTHI\nRodionov J.\nKrumich M.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/krumich-martin-WKaCDElC/rodionov-jurij-CKjcTLz1/?mid=jDp0ohsQ"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 2,
+          "text": "03.03.26\nTHI\nAdded D.\nKrumich M.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/added-dan-bwW3LbI0/krumich-martin-WKaCDElC/?mid=Q72yJNsh"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 3,
+          "text": "02.03.26\nTHI\nMolleker R.\nKrumich M.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/krumich-martin-WKaCDElC/molleker-rudolf-6RBmhB5N/?mid=zRLNGBC7"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 4,
+          "text": "01.03.26\nTHI\nKotov P.\nKrumich M.\n1\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/kotov-pavel-809HrNqi/krumich-martin-WKaCDElC/?mid=8KaAfbUN"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 5,
+          "text": "07.04.26\nMON\nIannaccone F.\nDurasovic V.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/durasovic-viktor-Wv6uZNr5/iannaccone-federico-4OUbV0RG/?mid=vRKutPYG"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 6,
+          "text": "27.03.26\nSAI\nOnclin G.\nDurasovic V.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/durasovic-viktor-Wv6uZNr5/onclin-gauthier-dtG17O9l/?mid=dIyy19pR"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 7,
+          "text": "26.03.26\nSAI\nNaw H.\nDurasovic V.\n1\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/durasovic-viktor-Wv6uZNr5/naw-hazem-ED89IbMk/?mid=Oh9dUq1c"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 8,
+          "text": "25.03.26\nSAI\nMurgett F.\nDurasovic V.\n1\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/durasovic-viktor-Wv6uZNr5/murgett-finn-EcIrRrO5/?mid=6BPTz8uJ"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 9,
+          "text": "22.03.26\nTOU\nDurasovic V.\nOnclin G.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/durasovic-viktor-Wv6uZNr5/onclin-gauthier-dtG17O9l/?mid=AeKQUVbC"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 10,
+          "text": "07.11.22\nBRA\nKrumich M.\nDurasovic V.\n0\n2",
+          "href": "https://www.rezultati.com/utakmica/tenis/durasovic-viktor-Wv6uZNr5/krumich-martin-WKaCDElC/?mid=0UcfiII8"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 11,
+          "text": "21.10.21\nHAM\nKrumich M.\nDurasovic V.\n2\n1",
+          "href": "https://www.rezultati.com/utakmica/tenis/durasovic-viktor-Wv6uZNr5/krumich-martin-WKaCDElC/?mid=rXm9OiBo"
+        },
+        {
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
+          "index": 0,
+          "text": "09.03.26\nCHE\nKrumich M.\nCassone M.\n0\n2\nI\n05.03.26\nTHI\nRodionov J.\nKrumich M.\n2\n0\nI\n03.03.26\nTHI\nAdded D.\nKrumich M.\n0\n2\nP\n02.03.26\nTHI\nMolleker R.\nKrumich M.\n0\n2\nP\n01.03.26\nTHI\nKotov P.\nKrumich M.\n1\n2\nP",
           "href": null
         },
         {
-          "selector": "[class*=\"eventRow\"]",
-          "index": 0,
-          "text": "",
-          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 0,
-          "text": "Boskovic - Andreeva",
-          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 1,
-          "text": "Toffanin - Ajdukovic",
-          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+          "text": "09.03.26\nCHE\nKrumich M.\nCassone M.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/cassone-murphy-O4aHjdoE/krumich-martin-WKaCDElC/?mid=UZqKYzN9"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 2,
-          "text": "Bouzkova - Vekić",
-          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 3,
-          "text": "Borges - Čilić",
-          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+          "text": "05.03.26\nTHI\nRodionov J.\nKrumich M.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/krumich-martin-WKaCDElC/rodionov-jurij-CKjcTLz1/?mid=jDp0ohsQ"
         }
       ]
     },
@@ -799,43 +1377,97 @@
       "surface_existing": "hard",
       "source_url": "https://www.rezultati.com/utakmica/tenis/altmaier-daniel-IPR8h9gM/tiafoe-frances-AHDLJaph/omjer/tvrda-podloga/?mid=nFGVB7ON",
       "status": "row_not_found",
-      "candidate_rows_seen": 6,
+      "candidate_rows_seen": 298,
       "candidate_examples": [
         {
-          "selector": "[class*=\"event__match\"]",
+          "selector": "[class*=\"h2h__row\"]",
           "index": 0,
-          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "text": "20.03.26\nMIA\nAtmane T.\nAltmaier D.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/altmaier-daniel-IPR8h9gM/atmane-terence-6mkEQ279/?mid=O4PZFSTN"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 1,
+          "text": "04.03.26\nIND\nAltmaier D.\nKecmanovic M.\n0\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/altmaier-daniel-IPR8h9gM/kecmanovic-miomir-MTQ5CPOR/?mid=Ecn03miK"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 2,
+          "text": "24.02.26\nACA\nAltmaier D.\nDavidovich Fokina A.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/altmaier-daniel-IPR8h9gM/davidovich-fokina-alejandro-0zQXLfz4/?mid=8bSeBaDc"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 3,
+          "text": "19.01.26\nAO\nAltmaier D.\nČilić M.\n0\n3\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/altmaier-daniel-IPR8h9gM/cilic-marin-nLoK5syL/?mid=IT2u11L5"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 4,
+          "text": "12.01.26\nADE\nAltmaier D.\nMunar J.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/altmaier-daniel-IPR8h9gM/munar-jaume-zZieQm4D/?mid=tYGteVzi"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 5,
+          "text": "26.03.26\nMIA\nTiafoe F.\nSinner J.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/sinner-jannik-6HdC3z4H/tiafoe-frances-AHDLJaph/?mid=pKaE2dj4"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 6,
+          "text": "24.03.26\nMIA\nAtmane T.\nTiafoe F.\n1\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/atmane-terence-6mkEQ279/tiafoe-frances-AHDLJaph/?mid=6PKZtLIi"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 7,
+          "text": "23.03.26\nMIA\nTiafoe F.\nMensik J.\n2\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/mensik-jakub-UFj257G8/tiafoe-frances-AHDLJaph/?mid=djHvPg15"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 8,
+          "text": "22.03.26\nMIA\nTiafoe F.\nCazaux A.\n2\n0\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/cazaux-arthur-bJR9AFq5/tiafoe-frances-AHDLJaph/?mid=pMvlWtI5"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 9,
+          "text": "10.03.26\nIND\nTiafoe F.\nZverev A.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/tiafoe-frances-AHDLJaph/zverev-alexander-dGbUhw9m/?mid=lULp2MJk"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 10,
+          "text": "16.01.23\nAO\nAltmaier D.\nTiafoe F.\n1\n3",
+          "href": "https://www.rezultati.com/utakmica/tenis/altmaier-daniel-IPR8h9gM/tiafoe-frances-AHDLJaph/?mid=dC934qYE"
+        },
+        {
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
+          "index": 0,
+          "text": "20.03.26\nMIA\nAtmane T.\nAltmaier D.\n2\n0\nI\n04.03.26\nIND\nAltmaier D.\nKecmanovic M.\n0\n1\nI\n24.02.26\nACA\nAltmaier D.\nDavidovich Fokina A.\n0\n2\nI\n19.01.26\nAO\nAltmaier D.\nČilić M.\n0\n3\nI\n12.01.26\nADE\nAltmaier D.\nMunar J.\n0\n2\nI",
           "href": null
         },
         {
-          "selector": "[class*=\"eventRow\"]",
-          "index": 0,
-          "text": "",
-          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 0,
-          "text": "Boskovic - Andreeva",
-          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 1,
-          "text": "Toffanin - Ajdukovic",
-          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+          "text": "20.03.26\nMIA\nAtmane T.\nAltmaier D.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/altmaier-daniel-IPR8h9gM/atmane-terence-6mkEQ279/?mid=O4PZFSTN"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 2,
-          "text": "Bouzkova - Vekić",
-          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+          "text": "04.03.26\nIND\nAltmaier D.\nKecmanovic M.\n0\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/altmaier-daniel-IPR8h9gM/kecmanovic-miomir-MTQ5CPOR/?mid=Ecn03miK"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 3,
-          "text": "Borges - Čilić",
-          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+          "text": "24.02.26\nACA\nAltmaier D.\nDavidovich Fokina A.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/altmaier-daniel-IPR8h9gM/davidovich-fokina-alejandro-0zQXLfz4/?mid=8bSeBaDc"
         }
       ]
     },
@@ -850,43 +1482,97 @@
       "surface_existing": "hard",
       "source_url": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/staeheli-luca-Eegw5r5O/omjer/tvrda-podloga/?mid=nylUVQQG",
       "status": "row_not_found",
-      "candidate_rows_seen": 6,
+      "candidate_rows_seen": 284,
       "candidate_examples": [
         {
-          "selector": "[class*=\"event__match\"]",
+          "selector": "[class*=\"h2h__row\"]",
           "index": 0,
-          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "text": "11.03.26\nCHE\nBlancaneaux G.\nGojo B.\n1\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/gojo-borna-px9AXG3g/?mid=SpUOEKPh"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 1,
+          "text": "09.03.26\nCHE\nSels J.\nBlancaneaux G.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/sels-jelle-b98aFqya/?mid=QcsaoE6F"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 2,
+          "text": "02.03.26\nTHI\nBroom C.\nBlancaneaux G.\n2\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/broom-charles-pblgp6C1/?mid=rLO3vONc"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 3,
+          "text": "01.03.26\nTHI\nJanvier M.\nBlancaneaux G.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/janvier-maxime-S4riPNES/?mid=vNtzBJE4"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 4,
+          "text": "25.02.26\nSAI\nOfner S.\nBlancaneaux G.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/ofner-sebastian-h6vs3iR2/?mid=QPa1HxHc"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 5,
+          "text": "31.03.26\nHER\nStaeheli L.\nXilas I.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/staeheli-luca-Eegw5r5O/xilas-ioannis-CjZOlKb3/?mid=4lt13nn2"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 6,
+          "text": "29.03.26\nHER\nStaeheli L.\nKumstat J.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/kumstat-jan-tpkd9exs/staeheli-luca-Eegw5r5O/?mid=QsPlT5ek"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 7,
+          "text": "29.03.26\nHER\nStaeheli L.\nKountourakis I.\n2\n0\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/kountourakis-ioannis-AqJTOfTc/staeheli-luca-Eegw5r5O/?mid=EyBOlEKa"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 8,
+          "text": "27.03.26\nHER\nStaeheli L.\nTailleu P. A.\n2\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/staeheli-luca-Eegw5r5O/tailleu-pierre-antoine-xzcDZbIN/?mid=llAiwsfR"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 9,
+          "text": "27.03.26\nHER\nStaeheli L.\nJozwicki P.\n2\n0\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/jozwicki-patrick-SAS9qQpo/staeheli-luca-Eegw5r5O/?mid=SlAmuzSb"
+        },
+        {
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
+          "index": 0,
+          "text": "11.03.26\nCHE\nBlancaneaux G.\nGojo B.\n1\n2\nI\n09.03.26\nCHE\nSels J.\nBlancaneaux G.\n0\n2\nP\n02.03.26\nTHI\nBroom C.\nBlancaneaux G.\n2\n1\nI\n01.03.26\nTHI\nJanvier M.\nBlancaneaux G.\n0\n2\nP\n25.02.26\nSAI\nOfner S.\nBlancaneaux G.\n2\n0\nI",
           "href": null
         },
         {
-          "selector": "[class*=\"eventRow\"]",
-          "index": 0,
-          "text": "",
-          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 0,
-          "text": "Boskovic - Andreeva",
-          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 1,
-          "text": "Toffanin - Ajdukovic",
-          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+          "text": "11.03.26\nCHE\nBlancaneaux G.\nGojo B.\n1\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/gojo-borna-px9AXG3g/?mid=SpUOEKPh"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 2,
-          "text": "Bouzkova - Vekić",
-          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+          "text": "09.03.26\nCHE\nSels J.\nBlancaneaux G.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/sels-jelle-b98aFqya/?mid=QcsaoE6F"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 3,
-          "text": "Borges - Čilić",
-          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+          "text": "02.03.26\nTHI\nBroom C.\nBlancaneaux G.\n2\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/broom-charles-pblgp6C1/?mid=rLO3vONc"
+        },
+        {
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
+          "index": 4,
+          "text": "01.03.26\nTHI\nJanvier M.\nBlancaneaux G.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/janvier-maxime-S4riPNES/?mid=vNtzBJE4"
         }
       ]
     },
@@ -901,43 +1587,97 @@
       "surface_existing": "hard",
       "source_url": "https://www.rezultati.com/utakmica/tenis/durasovic-viktor-Wv6uZNr5/krumich-martin-WKaCDElC/omjer/tvrda-podloga/?mid=4vqzy4kU",
       "status": "row_not_found",
-      "candidate_rows_seen": 6,
+      "candidate_rows_seen": 308,
       "candidate_examples": [
         {
-          "selector": "[class*=\"event__match\"]",
+          "selector": "[class*=\"h2h__row\"]",
           "index": 0,
-          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "text": "09.03.26\nCHE\nKrumich M.\nCassone M.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/cassone-murphy-O4aHjdoE/krumich-martin-WKaCDElC/?mid=UZqKYzN9"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 1,
+          "text": "05.03.26\nTHI\nRodionov J.\nKrumich M.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/krumich-martin-WKaCDElC/rodionov-jurij-CKjcTLz1/?mid=jDp0ohsQ"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 2,
+          "text": "03.03.26\nTHI\nAdded D.\nKrumich M.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/added-dan-bwW3LbI0/krumich-martin-WKaCDElC/?mid=Q72yJNsh"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 3,
+          "text": "02.03.26\nTHI\nMolleker R.\nKrumich M.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/krumich-martin-WKaCDElC/molleker-rudolf-6RBmhB5N/?mid=zRLNGBC7"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 4,
+          "text": "01.03.26\nTHI\nKotov P.\nKrumich M.\n1\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/kotov-pavel-809HrNqi/krumich-martin-WKaCDElC/?mid=8KaAfbUN"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 5,
+          "text": "07.04.26\nMON\nIannaccone F.\nDurasovic V.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/durasovic-viktor-Wv6uZNr5/iannaccone-federico-4OUbV0RG/?mid=vRKutPYG"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 6,
+          "text": "27.03.26\nSAI\nOnclin G.\nDurasovic V.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/durasovic-viktor-Wv6uZNr5/onclin-gauthier-dtG17O9l/?mid=dIyy19pR"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 7,
+          "text": "26.03.26\nSAI\nNaw H.\nDurasovic V.\n1\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/durasovic-viktor-Wv6uZNr5/naw-hazem-ED89IbMk/?mid=Oh9dUq1c"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 8,
+          "text": "25.03.26\nSAI\nMurgett F.\nDurasovic V.\n1\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/durasovic-viktor-Wv6uZNr5/murgett-finn-EcIrRrO5/?mid=6BPTz8uJ"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 9,
+          "text": "22.03.26\nTOU\nDurasovic V.\nOnclin G.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/durasovic-viktor-Wv6uZNr5/onclin-gauthier-dtG17O9l/?mid=AeKQUVbC"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 10,
+          "text": "07.11.22\nBRA\nKrumich M.\nDurasovic V.\n0\n2",
+          "href": "https://www.rezultati.com/utakmica/tenis/durasovic-viktor-Wv6uZNr5/krumich-martin-WKaCDElC/?mid=0UcfiII8"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 11,
+          "text": "21.10.21\nHAM\nKrumich M.\nDurasovic V.\n2\n1",
+          "href": "https://www.rezultati.com/utakmica/tenis/durasovic-viktor-Wv6uZNr5/krumich-martin-WKaCDElC/?mid=rXm9OiBo"
+        },
+        {
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
+          "index": 0,
+          "text": "09.03.26\nCHE\nKrumich M.\nCassone M.\n0\n2\nI\n05.03.26\nTHI\nRodionov J.\nKrumich M.\n2\n0\nI\n03.03.26\nTHI\nAdded D.\nKrumich M.\n0\n2\nP\n02.03.26\nTHI\nMolleker R.\nKrumich M.\n0\n2\nP\n01.03.26\nTHI\nKotov P.\nKrumich M.\n1\n2\nP",
           "href": null
         },
         {
-          "selector": "[class*=\"eventRow\"]",
-          "index": 0,
-          "text": "",
-          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 0,
-          "text": "Boskovic - Andreeva",
-          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 1,
-          "text": "Toffanin - Ajdukovic",
-          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+          "text": "09.03.26\nCHE\nKrumich M.\nCassone M.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/cassone-murphy-O4aHjdoE/krumich-martin-WKaCDElC/?mid=UZqKYzN9"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 2,
-          "text": "Bouzkova - Vekić",
-          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 3,
-          "text": "Borges - Čilić",
-          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+          "text": "05.03.26\nTHI\nRodionov J.\nKrumich M.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/krumich-martin-WKaCDElC/rodionov-jurij-CKjcTLz1/?mid=jDp0ohsQ"
         }
       ]
     },
@@ -952,43 +1692,97 @@
       "surface_existing": "hard",
       "source_url": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/gadamauri-buvaysar-QX3MNSXf/omjer/sve-podloge/?mid=GzvCt8Lh",
       "status": "row_not_found",
-      "candidate_rows_seen": 6,
+      "candidate_rows_seen": 307,
       "candidate_examples": [
         {
-          "selector": "[class*=\"event__match\"]",
+          "selector": "[class*=\"h2h__row\"]",
           "index": 0,
-          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "text": "09.06.26\nBRA\nBarton H.\nGadamauri B.\n2\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/barton-hynek-UoDybC2H/gadamauri-buvaysar-QX3MNSXf/?mid=SOzk7c6b"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 1,
+          "text": "08.06.26\nBRA\nGadamauri B.\nKuzmanov D.\n2\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/gadamauri-buvaysar-QX3MNSXf/kuzmanov-dimitar-WEwUtEGs/?mid=0leTo2K7"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 2,
+          "text": "07.06.26\nBRA\nGadamauri B.\nDonald M.\n2\n0\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/gadamauri-buvaysar-QX3MNSXf/?mid=GzvCt8Lh"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 3,
+          "text": "23.05.26\nCER\nAlcala Gurri M.\nGadamauri B.\n2\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/alcala-gurri-max-pISmOkA6/gadamauri-buvaysar-QX3MNSXf/?mid=Ice0sucl"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 4,
+          "text": "22.05.26\nCER\nGadamauri B.\nCompagnucci T.\n2\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/compagnucci-tommaso-ETKnHZom/gadamauri-buvaysar-QX3MNSXf/?mid=jT6fc89F"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 5,
+          "text": "07.06.26\nBRA\nGadamauri B.\nDonald M.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/gadamauri-buvaysar-QX3MNSXf/?mid=GzvCt8Lh"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 6,
+          "text": "31.05.26\nPER\nDonald M.\nForti F.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/forti-francesco-MF7nWtCA/?mid=M7kZ1wQp"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 7,
+          "text": "29.05.26\nGRA\nSorger S.\nDonald M.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/sorger-sebastian-YVX2xrZ3/?mid=4xzogk5t"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 8,
+          "text": "28.05.26\nGRA\nPlunger M.\nDonald M.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/plunger-manuel-x0jclBBa/?mid=YTuTQgHs"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 9,
+          "text": "26.05.26\nGRA\nBaragiola Mordini T. C.\nDonald M.\n1\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/baragiola-mordini-tobia-costanzo-M3SIsJoo/donald-matthew-CvEGpt6B/?mid=zohFjNTb"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 10,
+          "text": "07.06.26\nBRA\nGadamauri B.\nDonald M.\n2\n0",
+          "href": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/gadamauri-buvaysar-QX3MNSXf/?mid=GzvCt8Lh"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 11,
+          "text": "27.07.25\nHAG\nDonald M.\nGadamauri B.\n1\n2",
+          "href": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/gadamauri-buvaysar-QX3MNSXf/?mid=UNUpsft2"
+        },
+        {
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
+          "index": 0,
+          "text": "09.06.26\nBRA\nBarton H.\nGadamauri B.\n2\n1\nI\n08.06.26\nBRA\nGadamauri B.\nKuzmanov D.\n2\n1\nP\n07.06.26\nBRA\nGadamauri B.\nDonald M.\n2\n0\nP\n23.05.26\nCER\nAlcala Gurri M.\nGadamauri B.\n2\n1\nI\n22.05.26\nCER\nGadamauri B.\nCompagnucci T.\n2\n1\nP",
           "href": null
         },
         {
-          "selector": "[class*=\"eventRow\"]",
-          "index": 0,
-          "text": "",
-          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 0,
-          "text": "Boskovic - Andreeva",
-          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 1,
-          "text": "Toffanin - Ajdukovic",
-          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+          "text": "09.06.26\nBRA\nBarton H.\nGadamauri B.\n2\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/barton-hynek-UoDybC2H/gadamauri-buvaysar-QX3MNSXf/?mid=SOzk7c6b"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 2,
-          "text": "Bouzkova - Vekić",
-          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 3,
-          "text": "Borges - Čilić",
-          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+          "text": "08.06.26\nBRA\nGadamauri B.\nKuzmanov D.\n2\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/gadamauri-buvaysar-QX3MNSXf/kuzmanov-dimitar-WEwUtEGs/?mid=0leTo2K7"
         }
       ]
     },
@@ -1003,43 +1797,97 @@
       "surface_existing": "hard",
       "source_url": "https://www.rezultati.com/utakmica/tenis/damm-martin-2003-vX7WOXtP/houkes-max-00P4vHo8/omjer/sve-podloge/?mid=Ot9uUybD",
       "status": "row_not_found",
-      "candidate_rows_seen": 6,
+      "candidate_rows_seen": 296,
       "candidate_examples": [
         {
-          "selector": "[class*=\"event__match\"]",
+          "selector": "[class*=\"h2h__row\"]",
           "index": 0,
-          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "text": "09.06.26\nHER\nMunar J.\nDamm M.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/damm-martin-2003-vX7WOXtP/munar-jaume-zZieQm4D/?mid=YiOcQ3BD"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 1,
+          "text": "07.06.26\nHER\nDamm M.\nFicovich J. P.\n2\n0\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/damm-martin-2003-vX7WOXtP/ficovich-juan-pablo-WpchB57t/?mid=YXooylYh"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 2,
+          "text": "06.06.26\nHER\nDamm M.\nHoukes M.\n2\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/damm-martin-2003-vX7WOXtP/houkes-max-00P4vHo8/?mid=Ot9uUybD"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 3,
+          "text": "02.06.26\nBIR\nDamm M.\nHarris B.\n1\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/damm-martin-2003-vX7WOXtP/harris-billy-G0X2O6XR/?mid=l4Spojx8"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 4,
+          "text": "01.06.26\nBIR\nDamm M.\nMcCabe J.\n1\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/damm-martin-2003-vX7WOXtP/mccabe-james-2uDohcK5/?mid=MqD7MugU"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 5,
+          "text": "06.06.26\nHER\nDamm M.\nHoukes M.\n2\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/damm-martin-2003-vX7WOXtP/houkes-max-00P4vHo8/?mid=Ot9uUybD"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 6,
+          "text": "01.06.26\nHEI\nHoukes M.\nNava E.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/houkes-max-00P4vHo8/nava-emilio-AJGo8fir/?mid=W8wdKfae"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 7,
+          "text": "18.05.26\nFO\nHoukes M.\nCecchinato M.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/cecchinato-marco-4zpGaSnG/houkes-max-00P4vHo8/?mid=MkrAY8j5"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 8,
+          "text": "13.05.26\nTUN\nHoukes M.\nMontes-De La Torre I.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/houkes-max-00P4vHo8/montes-de-la-torre-inaki-4CYXUVX7/?mid=jqF108tQ"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 9,
+          "text": "11.05.26\nTUN\nUchida K.\nHoukes M.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/houkes-max-00P4vHo8/uchida-kaichi-CWzmZ02f/?mid=bJwnrwPF"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 10,
+          "text": "06.06.26\nHER\nDamm M.\nHoukes M.\n2\n1",
+          "href": "https://www.rezultati.com/utakmica/tenis/damm-martin-2003-vX7WOXtP/houkes-max-00P4vHo8/?mid=Ot9uUybD"
+        },
+        {
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
+          "index": 0,
+          "text": "09.06.26\nHER\nMunar J.\nDamm M.\n0\n2\nP\n07.06.26\nHER\nDamm M.\nFicovich J. P.\n2\n0\nP\n06.06.26\nHER\nDamm M.\nHoukes M.\n2\n1\nP\n02.06.26\nBIR\nDamm M.\nHarris B.\n1\n2\nI\n01.06.26\nBIR\nDamm M.\nMcCabe J.\n1\n2\nI",
           "href": null
         },
         {
-          "selector": "[class*=\"eventRow\"]",
-          "index": 0,
-          "text": "",
-          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 0,
-          "text": "Boskovic - Andreeva",
-          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 1,
-          "text": "Toffanin - Ajdukovic",
-          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+          "text": "09.06.26\nHER\nMunar J.\nDamm M.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/damm-martin-2003-vX7WOXtP/munar-jaume-zZieQm4D/?mid=YiOcQ3BD"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 2,
-          "text": "Bouzkova - Vekić",
-          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+          "text": "07.06.26\nHER\nDamm M.\nFicovich J. P.\n2\n0\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/damm-martin-2003-vX7WOXtP/ficovich-juan-pablo-WpchB57t/?mid=YXooylYh"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 3,
-          "text": "Borges - Čilić",
-          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+          "text": "06.06.26\nHER\nDamm M.\nHoukes M.\n2\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/damm-martin-2003-vX7WOXtP/houkes-max-00P4vHo8/?mid=Ot9uUybD"
         }
       ]
     },
@@ -1054,43 +1902,97 @@
       "surface_existing": "hard",
       "source_url": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/staeheli-luca-Eegw5r5O/omjer/tvrda-podloga/?mid=nylUVQQG",
       "status": "row_not_found",
-      "candidate_rows_seen": 6,
+      "candidate_rows_seen": 284,
       "candidate_examples": [
         {
-          "selector": "[class*=\"event__match\"]",
+          "selector": "[class*=\"h2h__row\"]",
           "index": 0,
-          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "text": "11.03.26\nCHE\nBlancaneaux G.\nGojo B.\n1\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/gojo-borna-px9AXG3g/?mid=SpUOEKPh"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 1,
+          "text": "09.03.26\nCHE\nSels J.\nBlancaneaux G.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/sels-jelle-b98aFqya/?mid=QcsaoE6F"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 2,
+          "text": "02.03.26\nTHI\nBroom C.\nBlancaneaux G.\n2\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/broom-charles-pblgp6C1/?mid=rLO3vONc"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 3,
+          "text": "01.03.26\nTHI\nJanvier M.\nBlancaneaux G.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/janvier-maxime-S4riPNES/?mid=vNtzBJE4"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 4,
+          "text": "25.02.26\nSAI\nOfner S.\nBlancaneaux G.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/ofner-sebastian-h6vs3iR2/?mid=QPa1HxHc"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 5,
+          "text": "31.03.26\nHER\nStaeheli L.\nXilas I.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/staeheli-luca-Eegw5r5O/xilas-ioannis-CjZOlKb3/?mid=4lt13nn2"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 6,
+          "text": "29.03.26\nHER\nStaeheli L.\nKumstat J.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/kumstat-jan-tpkd9exs/staeheli-luca-Eegw5r5O/?mid=QsPlT5ek"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 7,
+          "text": "29.03.26\nHER\nStaeheli L.\nKountourakis I.\n2\n0\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/kountourakis-ioannis-AqJTOfTc/staeheli-luca-Eegw5r5O/?mid=EyBOlEKa"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 8,
+          "text": "27.03.26\nHER\nStaeheli L.\nTailleu P. A.\n2\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/staeheli-luca-Eegw5r5O/tailleu-pierre-antoine-xzcDZbIN/?mid=llAiwsfR"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 9,
+          "text": "27.03.26\nHER\nStaeheli L.\nJozwicki P.\n2\n0\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/jozwicki-patrick-SAS9qQpo/staeheli-luca-Eegw5r5O/?mid=SlAmuzSb"
+        },
+        {
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
+          "index": 0,
+          "text": "11.03.26\nCHE\nBlancaneaux G.\nGojo B.\n1\n2\nI\n09.03.26\nCHE\nSels J.\nBlancaneaux G.\n0\n2\nP\n02.03.26\nTHI\nBroom C.\nBlancaneaux G.\n2\n1\nI\n01.03.26\nTHI\nJanvier M.\nBlancaneaux G.\n0\n2\nP\n25.02.26\nSAI\nOfner S.\nBlancaneaux G.\n2\n0\nI",
           "href": null
         },
         {
-          "selector": "[class*=\"eventRow\"]",
-          "index": 0,
-          "text": "",
-          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 0,
-          "text": "Boskovic - Andreeva",
-          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 1,
-          "text": "Toffanin - Ajdukovic",
-          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+          "text": "11.03.26\nCHE\nBlancaneaux G.\nGojo B.\n1\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/gojo-borna-px9AXG3g/?mid=SpUOEKPh"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 2,
-          "text": "Bouzkova - Vekić",
-          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+          "text": "09.03.26\nCHE\nSels J.\nBlancaneaux G.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/sels-jelle-b98aFqya/?mid=QcsaoE6F"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 3,
-          "text": "Borges - Čilić",
-          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+          "text": "02.03.26\nTHI\nBroom C.\nBlancaneaux G.\n2\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/broom-charles-pblgp6C1/?mid=rLO3vONc"
+        },
+        {
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
+          "index": 4,
+          "text": "01.03.26\nTHI\nJanvier M.\nBlancaneaux G.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/janvier-maxime-S4riPNES/?mid=vNtzBJE4"
         }
       ]
     },
@@ -1105,43 +2007,97 @@
       "surface_existing": "hard",
       "source_url": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/staeheli-luca-Eegw5r5O/omjer/tvrda-podloga/?mid=nylUVQQG",
       "status": "row_not_found",
-      "candidate_rows_seen": 6,
+      "candidate_rows_seen": 284,
       "candidate_examples": [
         {
-          "selector": "[class*=\"event__match\"]",
+          "selector": "[class*=\"h2h__row\"]",
           "index": 0,
-          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "text": "11.03.26\nCHE\nBlancaneaux G.\nGojo B.\n1\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/gojo-borna-px9AXG3g/?mid=SpUOEKPh"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 1,
+          "text": "09.03.26\nCHE\nSels J.\nBlancaneaux G.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/sels-jelle-b98aFqya/?mid=QcsaoE6F"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 2,
+          "text": "02.03.26\nTHI\nBroom C.\nBlancaneaux G.\n2\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/broom-charles-pblgp6C1/?mid=rLO3vONc"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 3,
+          "text": "01.03.26\nTHI\nJanvier M.\nBlancaneaux G.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/janvier-maxime-S4riPNES/?mid=vNtzBJE4"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 4,
+          "text": "25.02.26\nSAI\nOfner S.\nBlancaneaux G.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/ofner-sebastian-h6vs3iR2/?mid=QPa1HxHc"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 5,
+          "text": "31.03.26\nHER\nStaeheli L.\nXilas I.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/staeheli-luca-Eegw5r5O/xilas-ioannis-CjZOlKb3/?mid=4lt13nn2"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 6,
+          "text": "29.03.26\nHER\nStaeheli L.\nKumstat J.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/kumstat-jan-tpkd9exs/staeheli-luca-Eegw5r5O/?mid=QsPlT5ek"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 7,
+          "text": "29.03.26\nHER\nStaeheli L.\nKountourakis I.\n2\n0\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/kountourakis-ioannis-AqJTOfTc/staeheli-luca-Eegw5r5O/?mid=EyBOlEKa"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 8,
+          "text": "27.03.26\nHER\nStaeheli L.\nTailleu P. A.\n2\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/staeheli-luca-Eegw5r5O/tailleu-pierre-antoine-xzcDZbIN/?mid=llAiwsfR"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 9,
+          "text": "27.03.26\nHER\nStaeheli L.\nJozwicki P.\n2\n0\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/jozwicki-patrick-SAS9qQpo/staeheli-luca-Eegw5r5O/?mid=SlAmuzSb"
+        },
+        {
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
+          "index": 0,
+          "text": "11.03.26\nCHE\nBlancaneaux G.\nGojo B.\n1\n2\nI\n09.03.26\nCHE\nSels J.\nBlancaneaux G.\n0\n2\nP\n02.03.26\nTHI\nBroom C.\nBlancaneaux G.\n2\n1\nI\n01.03.26\nTHI\nJanvier M.\nBlancaneaux G.\n0\n2\nP\n25.02.26\nSAI\nOfner S.\nBlancaneaux G.\n2\n0\nI",
           "href": null
         },
         {
-          "selector": "[class*=\"eventRow\"]",
-          "index": 0,
-          "text": "",
-          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 0,
-          "text": "Boskovic - Andreeva",
-          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 1,
-          "text": "Toffanin - Ajdukovic",
-          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+          "text": "11.03.26\nCHE\nBlancaneaux G.\nGojo B.\n1\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/gojo-borna-px9AXG3g/?mid=SpUOEKPh"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 2,
-          "text": "Bouzkova - Vekić",
-          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+          "text": "09.03.26\nCHE\nSels J.\nBlancaneaux G.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/sels-jelle-b98aFqya/?mid=QcsaoE6F"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 3,
-          "text": "Borges - Čilić",
-          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+          "text": "02.03.26\nTHI\nBroom C.\nBlancaneaux G.\n2\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/broom-charles-pblgp6C1/?mid=rLO3vONc"
+        },
+        {
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
+          "index": 4,
+          "text": "01.03.26\nTHI\nJanvier M.\nBlancaneaux G.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/blancaneaux-geoffrey-EFwAtztn/janvier-maxime-S4riPNES/?mid=vNtzBJE4"
         }
       ]
     },
@@ -1156,43 +2112,97 @@
       "surface_existing": "hard",
       "source_url": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/gadamauri-buvaysar-QX3MNSXf/omjer/sve-podloge/?mid=GzvCt8Lh",
       "status": "row_not_found",
-      "candidate_rows_seen": 6,
+      "candidate_rows_seen": 307,
       "candidate_examples": [
         {
-          "selector": "[class*=\"event__match\"]",
+          "selector": "[class*=\"h2h__row\"]",
           "index": 0,
-          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "text": "09.06.26\nBRA\nBarton H.\nGadamauri B.\n2\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/barton-hynek-UoDybC2H/gadamauri-buvaysar-QX3MNSXf/?mid=SOzk7c6b"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 1,
+          "text": "08.06.26\nBRA\nGadamauri B.\nKuzmanov D.\n2\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/gadamauri-buvaysar-QX3MNSXf/kuzmanov-dimitar-WEwUtEGs/?mid=0leTo2K7"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 2,
+          "text": "07.06.26\nBRA\nGadamauri B.\nDonald M.\n2\n0\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/gadamauri-buvaysar-QX3MNSXf/?mid=GzvCt8Lh"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 3,
+          "text": "23.05.26\nCER\nAlcala Gurri M.\nGadamauri B.\n2\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/alcala-gurri-max-pISmOkA6/gadamauri-buvaysar-QX3MNSXf/?mid=Ice0sucl"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 4,
+          "text": "22.05.26\nCER\nGadamauri B.\nCompagnucci T.\n2\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/compagnucci-tommaso-ETKnHZom/gadamauri-buvaysar-QX3MNSXf/?mid=jT6fc89F"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 5,
+          "text": "07.06.26\nBRA\nGadamauri B.\nDonald M.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/gadamauri-buvaysar-QX3MNSXf/?mid=GzvCt8Lh"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 6,
+          "text": "31.05.26\nPER\nDonald M.\nForti F.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/forti-francesco-MF7nWtCA/?mid=M7kZ1wQp"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 7,
+          "text": "29.05.26\nGRA\nSorger S.\nDonald M.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/sorger-sebastian-YVX2xrZ3/?mid=4xzogk5t"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 8,
+          "text": "28.05.26\nGRA\nPlunger M.\nDonald M.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/plunger-manuel-x0jclBBa/?mid=YTuTQgHs"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 9,
+          "text": "26.05.26\nGRA\nBaragiola Mordini T. C.\nDonald M.\n1\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/baragiola-mordini-tobia-costanzo-M3SIsJoo/donald-matthew-CvEGpt6B/?mid=zohFjNTb"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 10,
+          "text": "07.06.26\nBRA\nGadamauri B.\nDonald M.\n2\n0",
+          "href": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/gadamauri-buvaysar-QX3MNSXf/?mid=GzvCt8Lh"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 11,
+          "text": "27.07.25\nHAG\nDonald M.\nGadamauri B.\n1\n2",
+          "href": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/gadamauri-buvaysar-QX3MNSXf/?mid=UNUpsft2"
+        },
+        {
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
+          "index": 0,
+          "text": "09.06.26\nBRA\nBarton H.\nGadamauri B.\n2\n1\nI\n08.06.26\nBRA\nGadamauri B.\nKuzmanov D.\n2\n1\nP\n07.06.26\nBRA\nGadamauri B.\nDonald M.\n2\n0\nP\n23.05.26\nCER\nAlcala Gurri M.\nGadamauri B.\n2\n1\nI\n22.05.26\nCER\nGadamauri B.\nCompagnucci T.\n2\n1\nP",
           "href": null
         },
         {
-          "selector": "[class*=\"eventRow\"]",
-          "index": 0,
-          "text": "",
-          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 0,
-          "text": "Boskovic - Andreeva",
-          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 1,
-          "text": "Toffanin - Ajdukovic",
-          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+          "text": "09.06.26\nBRA\nBarton H.\nGadamauri B.\n2\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/barton-hynek-UoDybC2H/gadamauri-buvaysar-QX3MNSXf/?mid=SOzk7c6b"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 2,
-          "text": "Bouzkova - Vekić",
-          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 3,
-          "text": "Borges - Čilić",
-          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+          "text": "08.06.26\nBRA\nGadamauri B.\nKuzmanov D.\n2\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/gadamauri-buvaysar-QX3MNSXf/kuzmanov-dimitar-WEwUtEGs/?mid=0leTo2K7"
         }
       ]
     },
@@ -1207,43 +2217,97 @@
       "surface_existing": "clay",
       "source_url": "https://www.rezultati.com/utakmica/tenis/atmane-terence-6mkEQ279/borges-nuno-hzbEPIOa/omjer/zemlja/?mid=tzstSvWI",
       "status": "row_not_found",
-      "candidate_rows_seen": 6,
+      "candidate_rows_seen": 286,
       "candidate_examples": [
         {
-          "selector": "[class*=\"event__match\"]",
+          "selector": "[class*=\"h2h__row\"]",
           "index": 0,
-          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "text": "29.05.26\nFO\nBorges N.\nRublev A.\n0\n3\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/borges-nuno-hzbEPIOa/rublev-andrey-AeAn4gP0/?mid=WIzfqXXr"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 1,
+          "text": "27.05.26\nFO\nBorges N.\nKecmanovic M.\n3\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/borges-nuno-hzbEPIOa/kecmanovic-miomir-MTQ5CPOR/?mid=vVC89C3C"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 2,
+          "text": "24.05.26\nFO\nEtcheverry T. M.\nBorges N.\n0\n3\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/borges-nuno-hzbEPIOa/etcheverry-tomas-martin-AXL5qpKa/?mid=h4NbHrUr"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 3,
+          "text": "08.05.26\nROM\nBorges N.\nJodar R.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/borges-nuno-hzbEPIOa/jodar-rafael-OdngshVK/?mid=UcO5NkQ1"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 4,
+          "text": "06.05.26\nROM\nDe Jong J.\nBorges N.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/borges-nuno-hzbEPIOa/de-jong-jesper-8jStUWzB/?mid=6krZ7UnK"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 5,
+          "text": "25.05.26\nFO\nKokkinakis T.\nAtmane T.\n3\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/atmane-terence-6mkEQ279/kokkinakis-thanasi-rBm7dcxH/?mid=M1tZ0Nq2"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 6,
+          "text": "18.05.26\nHAM\nAtmane T.\nEtcheverry T. M.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/atmane-terence-6mkEQ279/etcheverry-tomas-martin-AXL5qpKa/?mid=Gjn6Fdxq"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 7,
+          "text": "14.05.26\nBOR\nDroguet T.\nAtmane T.\n2\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/atmane-terence-6mkEQ279/droguet-titouan-A57Xet1f/?mid=8GFyhO9k"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 8,
+          "text": "09.05.26\nROM\nCobolli F.\nAtmane T.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/atmane-terence-6mkEQ279/cobolli-flavio-zDtaCcPe/?mid=tGxA5h6N"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 9,
+          "text": "07.05.26\nROM\nBergs Z.\nAtmane T.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/atmane-terence-6mkEQ279/bergs-zizou-SbeTx1o8/?mid=610QWs8m"
+        },
+        {
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
+          "index": 0,
+          "text": "29.05.26\nFO\nBorges N.\nRublev A.\n0\n3\nI\n27.05.26\nFO\nBorges N.\nKecmanovic M.\n3\n1\nP\n24.05.26\nFO\nEtcheverry T. M.\nBorges N.\n0\n3\nP\n08.05.26\nROM\nBorges N.\nJodar R.\n0\n2\nI\n06.05.26\nROM\nDe Jong J.\nBorges N.\n0\n2\nP",
           "href": null
         },
         {
-          "selector": "[class*=\"eventRow\"]",
-          "index": 0,
-          "text": "",
-          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 0,
-          "text": "Boskovic - Andreeva",
-          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 1,
-          "text": "Toffanin - Ajdukovic",
-          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+          "text": "29.05.26\nFO\nBorges N.\nRublev A.\n0\n3\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/borges-nuno-hzbEPIOa/rublev-andrey-AeAn4gP0/?mid=WIzfqXXr"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 2,
-          "text": "Bouzkova - Vekić",
-          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+          "text": "27.05.26\nFO\nBorges N.\nKecmanovic M.\n3\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/borges-nuno-hzbEPIOa/kecmanovic-miomir-MTQ5CPOR/?mid=vVC89C3C"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 3,
-          "text": "Borges - Čilić",
-          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+          "text": "24.05.26\nFO\nEtcheverry T. M.\nBorges N.\n0\n3\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/borges-nuno-hzbEPIOa/etcheverry-tomas-martin-AXL5qpKa/?mid=h4NbHrUr"
+        },
+        {
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
+          "index": 4,
+          "text": "08.05.26\nROM\nBorges N.\nJodar R.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/borges-nuno-hzbEPIOa/jodar-rafael-OdngshVK/?mid=UcO5NkQ1"
         }
       ]
     },
@@ -1258,43 +2322,97 @@
       "surface_existing": "clay",
       "source_url": "https://www.rezultati.com/utakmica/tenis/atmane-terence-6mkEQ279/borges-nuno-hzbEPIOa/omjer/zemlja/?mid=tzstSvWI",
       "status": "row_not_found",
-      "candidate_rows_seen": 6,
+      "candidate_rows_seen": 286,
       "candidate_examples": [
         {
-          "selector": "[class*=\"event__match\"]",
+          "selector": "[class*=\"h2h__row\"]",
           "index": 0,
-          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "text": "29.05.26\nFO\nBorges N.\nRublev A.\n0\n3\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/borges-nuno-hzbEPIOa/rublev-andrey-AeAn4gP0/?mid=WIzfqXXr"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 1,
+          "text": "27.05.26\nFO\nBorges N.\nKecmanovic M.\n3\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/borges-nuno-hzbEPIOa/kecmanovic-miomir-MTQ5CPOR/?mid=vVC89C3C"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 2,
+          "text": "24.05.26\nFO\nEtcheverry T. M.\nBorges N.\n0\n3\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/borges-nuno-hzbEPIOa/etcheverry-tomas-martin-AXL5qpKa/?mid=h4NbHrUr"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 3,
+          "text": "08.05.26\nROM\nBorges N.\nJodar R.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/borges-nuno-hzbEPIOa/jodar-rafael-OdngshVK/?mid=UcO5NkQ1"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 4,
+          "text": "06.05.26\nROM\nDe Jong J.\nBorges N.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/borges-nuno-hzbEPIOa/de-jong-jesper-8jStUWzB/?mid=6krZ7UnK"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 5,
+          "text": "25.05.26\nFO\nKokkinakis T.\nAtmane T.\n3\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/atmane-terence-6mkEQ279/kokkinakis-thanasi-rBm7dcxH/?mid=M1tZ0Nq2"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 6,
+          "text": "18.05.26\nHAM\nAtmane T.\nEtcheverry T. M.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/atmane-terence-6mkEQ279/etcheverry-tomas-martin-AXL5qpKa/?mid=Gjn6Fdxq"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 7,
+          "text": "14.05.26\nBOR\nDroguet T.\nAtmane T.\n2\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/atmane-terence-6mkEQ279/droguet-titouan-A57Xet1f/?mid=8GFyhO9k"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 8,
+          "text": "09.05.26\nROM\nCobolli F.\nAtmane T.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/atmane-terence-6mkEQ279/cobolli-flavio-zDtaCcPe/?mid=tGxA5h6N"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 9,
+          "text": "07.05.26\nROM\nBergs Z.\nAtmane T.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/atmane-terence-6mkEQ279/bergs-zizou-SbeTx1o8/?mid=610QWs8m"
+        },
+        {
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
+          "index": 0,
+          "text": "29.05.26\nFO\nBorges N.\nRublev A.\n0\n3\nI\n27.05.26\nFO\nBorges N.\nKecmanovic M.\n3\n1\nP\n24.05.26\nFO\nEtcheverry T. M.\nBorges N.\n0\n3\nP\n08.05.26\nROM\nBorges N.\nJodar R.\n0\n2\nI\n06.05.26\nROM\nDe Jong J.\nBorges N.\n0\n2\nP",
           "href": null
         },
         {
-          "selector": "[class*=\"eventRow\"]",
-          "index": 0,
-          "text": "",
-          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 0,
-          "text": "Boskovic - Andreeva",
-          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 1,
-          "text": "Toffanin - Ajdukovic",
-          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+          "text": "29.05.26\nFO\nBorges N.\nRublev A.\n0\n3\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/borges-nuno-hzbEPIOa/rublev-andrey-AeAn4gP0/?mid=WIzfqXXr"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 2,
-          "text": "Bouzkova - Vekić",
-          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+          "text": "27.05.26\nFO\nBorges N.\nKecmanovic M.\n3\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/borges-nuno-hzbEPIOa/kecmanovic-miomir-MTQ5CPOR/?mid=vVC89C3C"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 3,
-          "text": "Borges - Čilić",
-          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+          "text": "24.05.26\nFO\nEtcheverry T. M.\nBorges N.\n0\n3\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/borges-nuno-hzbEPIOa/etcheverry-tomas-martin-AXL5qpKa/?mid=h4NbHrUr"
+        },
+        {
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
+          "index": 4,
+          "text": "08.05.26\nROM\nBorges N.\nJodar R.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/borges-nuno-hzbEPIOa/jodar-rafael-OdngshVK/?mid=UcO5NkQ1"
         }
       ]
     },
@@ -1309,43 +2427,97 @@
       "surface_existing": "clay",
       "source_url": "https://www.rezultati.com/utakmica/tenis/atmane-terence-6mkEQ279/borges-nuno-hzbEPIOa/omjer/zemlja/?mid=tzstSvWI",
       "status": "row_not_found",
-      "candidate_rows_seen": 6,
+      "candidate_rows_seen": 286,
       "candidate_examples": [
         {
-          "selector": "[class*=\"event__match\"]",
+          "selector": "[class*=\"h2h__row\"]",
           "index": 0,
-          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "text": "29.05.26\nFO\nBorges N.\nRublev A.\n0\n3\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/borges-nuno-hzbEPIOa/rublev-andrey-AeAn4gP0/?mid=WIzfqXXr"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 1,
+          "text": "27.05.26\nFO\nBorges N.\nKecmanovic M.\n3\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/borges-nuno-hzbEPIOa/kecmanovic-miomir-MTQ5CPOR/?mid=vVC89C3C"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 2,
+          "text": "24.05.26\nFO\nEtcheverry T. M.\nBorges N.\n0\n3\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/borges-nuno-hzbEPIOa/etcheverry-tomas-martin-AXL5qpKa/?mid=h4NbHrUr"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 3,
+          "text": "08.05.26\nROM\nBorges N.\nJodar R.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/borges-nuno-hzbEPIOa/jodar-rafael-OdngshVK/?mid=UcO5NkQ1"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 4,
+          "text": "06.05.26\nROM\nDe Jong J.\nBorges N.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/borges-nuno-hzbEPIOa/de-jong-jesper-8jStUWzB/?mid=6krZ7UnK"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 5,
+          "text": "25.05.26\nFO\nKokkinakis T.\nAtmane T.\n3\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/atmane-terence-6mkEQ279/kokkinakis-thanasi-rBm7dcxH/?mid=M1tZ0Nq2"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 6,
+          "text": "18.05.26\nHAM\nAtmane T.\nEtcheverry T. M.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/atmane-terence-6mkEQ279/etcheverry-tomas-martin-AXL5qpKa/?mid=Gjn6Fdxq"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 7,
+          "text": "14.05.26\nBOR\nDroguet T.\nAtmane T.\n2\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/atmane-terence-6mkEQ279/droguet-titouan-A57Xet1f/?mid=8GFyhO9k"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 8,
+          "text": "09.05.26\nROM\nCobolli F.\nAtmane T.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/atmane-terence-6mkEQ279/cobolli-flavio-zDtaCcPe/?mid=tGxA5h6N"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 9,
+          "text": "07.05.26\nROM\nBergs Z.\nAtmane T.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/atmane-terence-6mkEQ279/bergs-zizou-SbeTx1o8/?mid=610QWs8m"
+        },
+        {
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
+          "index": 0,
+          "text": "29.05.26\nFO\nBorges N.\nRublev A.\n0\n3\nI\n27.05.26\nFO\nBorges N.\nKecmanovic M.\n3\n1\nP\n24.05.26\nFO\nEtcheverry T. M.\nBorges N.\n0\n3\nP\n08.05.26\nROM\nBorges N.\nJodar R.\n0\n2\nI\n06.05.26\nROM\nDe Jong J.\nBorges N.\n0\n2\nP",
           "href": null
         },
         {
-          "selector": "[class*=\"eventRow\"]",
-          "index": 0,
-          "text": "",
-          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 0,
-          "text": "Boskovic - Andreeva",
-          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 1,
-          "text": "Toffanin - Ajdukovic",
-          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+          "text": "29.05.26\nFO\nBorges N.\nRublev A.\n0\n3\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/borges-nuno-hzbEPIOa/rublev-andrey-AeAn4gP0/?mid=WIzfqXXr"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 2,
-          "text": "Bouzkova - Vekić",
-          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+          "text": "27.05.26\nFO\nBorges N.\nKecmanovic M.\n3\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/borges-nuno-hzbEPIOa/kecmanovic-miomir-MTQ5CPOR/?mid=vVC89C3C"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 3,
-          "text": "Borges - Čilić",
-          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+          "text": "24.05.26\nFO\nEtcheverry T. M.\nBorges N.\n0\n3\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/borges-nuno-hzbEPIOa/etcheverry-tomas-martin-AXL5qpKa/?mid=h4NbHrUr"
+        },
+        {
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
+          "index": 4,
+          "text": "08.05.26\nROM\nBorges N.\nJodar R.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/borges-nuno-hzbEPIOa/jodar-rafael-OdngshVK/?mid=UcO5NkQ1"
         }
       ]
     },
@@ -1360,43 +2532,97 @@
       "surface_existing": "clay",
       "source_url": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/gadamauri-buvaysar-QX3MNSXf/omjer/sve-podloge/?mid=GzvCt8Lh",
       "status": "row_not_found",
-      "candidate_rows_seen": 6,
+      "candidate_rows_seen": 307,
       "candidate_examples": [
         {
-          "selector": "[class*=\"event__match\"]",
+          "selector": "[class*=\"h2h__row\"]",
           "index": 0,
-          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "text": "09.06.26\nBRA\nBarton H.\nGadamauri B.\n2\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/barton-hynek-UoDybC2H/gadamauri-buvaysar-QX3MNSXf/?mid=SOzk7c6b"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 1,
+          "text": "08.06.26\nBRA\nGadamauri B.\nKuzmanov D.\n2\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/gadamauri-buvaysar-QX3MNSXf/kuzmanov-dimitar-WEwUtEGs/?mid=0leTo2K7"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 2,
+          "text": "07.06.26\nBRA\nGadamauri B.\nDonald M.\n2\n0\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/gadamauri-buvaysar-QX3MNSXf/?mid=GzvCt8Lh"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 3,
+          "text": "23.05.26\nCER\nAlcala Gurri M.\nGadamauri B.\n2\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/alcala-gurri-max-pISmOkA6/gadamauri-buvaysar-QX3MNSXf/?mid=Ice0sucl"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 4,
+          "text": "22.05.26\nCER\nGadamauri B.\nCompagnucci T.\n2\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/compagnucci-tommaso-ETKnHZom/gadamauri-buvaysar-QX3MNSXf/?mid=jT6fc89F"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 5,
+          "text": "07.06.26\nBRA\nGadamauri B.\nDonald M.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/gadamauri-buvaysar-QX3MNSXf/?mid=GzvCt8Lh"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 6,
+          "text": "31.05.26\nPER\nDonald M.\nForti F.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/forti-francesco-MF7nWtCA/?mid=M7kZ1wQp"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 7,
+          "text": "29.05.26\nGRA\nSorger S.\nDonald M.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/sorger-sebastian-YVX2xrZ3/?mid=4xzogk5t"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 8,
+          "text": "28.05.26\nGRA\nPlunger M.\nDonald M.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/plunger-manuel-x0jclBBa/?mid=YTuTQgHs"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 9,
+          "text": "26.05.26\nGRA\nBaragiola Mordini T. C.\nDonald M.\n1\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/baragiola-mordini-tobia-costanzo-M3SIsJoo/donald-matthew-CvEGpt6B/?mid=zohFjNTb"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 10,
+          "text": "07.06.26\nBRA\nGadamauri B.\nDonald M.\n2\n0",
+          "href": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/gadamauri-buvaysar-QX3MNSXf/?mid=GzvCt8Lh"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 11,
+          "text": "27.07.25\nHAG\nDonald M.\nGadamauri B.\n1\n2",
+          "href": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/gadamauri-buvaysar-QX3MNSXf/?mid=UNUpsft2"
+        },
+        {
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
+          "index": 0,
+          "text": "09.06.26\nBRA\nBarton H.\nGadamauri B.\n2\n1\nI\n08.06.26\nBRA\nGadamauri B.\nKuzmanov D.\n2\n1\nP\n07.06.26\nBRA\nGadamauri B.\nDonald M.\n2\n0\nP\n23.05.26\nCER\nAlcala Gurri M.\nGadamauri B.\n2\n1\nI\n22.05.26\nCER\nGadamauri B.\nCompagnucci T.\n2\n1\nP",
           "href": null
         },
         {
-          "selector": "[class*=\"eventRow\"]",
-          "index": 0,
-          "text": "",
-          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 0,
-          "text": "Boskovic - Andreeva",
-          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 1,
-          "text": "Toffanin - Ajdukovic",
-          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+          "text": "09.06.26\nBRA\nBarton H.\nGadamauri B.\n2\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/barton-hynek-UoDybC2H/gadamauri-buvaysar-QX3MNSXf/?mid=SOzk7c6b"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 2,
-          "text": "Bouzkova - Vekić",
-          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 3,
-          "text": "Borges - Čilić",
-          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+          "text": "08.06.26\nBRA\nGadamauri B.\nKuzmanov D.\n2\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/gadamauri-buvaysar-QX3MNSXf/kuzmanov-dimitar-WEwUtEGs/?mid=0leTo2K7"
         }
       ]
     },
@@ -1411,43 +2637,97 @@
       "surface_existing": "clay",
       "source_url": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/gadamauri-buvaysar-QX3MNSXf/omjer/sve-podloge/?mid=GzvCt8Lh",
       "status": "row_not_found",
-      "candidate_rows_seen": 6,
+      "candidate_rows_seen": 307,
       "candidate_examples": [
         {
-          "selector": "[class*=\"event__match\"]",
+          "selector": "[class*=\"h2h__row\"]",
           "index": 0,
-          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "text": "09.06.26\nBRA\nBarton H.\nGadamauri B.\n2\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/barton-hynek-UoDybC2H/gadamauri-buvaysar-QX3MNSXf/?mid=SOzk7c6b"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 1,
+          "text": "08.06.26\nBRA\nGadamauri B.\nKuzmanov D.\n2\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/gadamauri-buvaysar-QX3MNSXf/kuzmanov-dimitar-WEwUtEGs/?mid=0leTo2K7"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 2,
+          "text": "07.06.26\nBRA\nGadamauri B.\nDonald M.\n2\n0\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/gadamauri-buvaysar-QX3MNSXf/?mid=GzvCt8Lh"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 3,
+          "text": "23.05.26\nCER\nAlcala Gurri M.\nGadamauri B.\n2\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/alcala-gurri-max-pISmOkA6/gadamauri-buvaysar-QX3MNSXf/?mid=Ice0sucl"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 4,
+          "text": "22.05.26\nCER\nGadamauri B.\nCompagnucci T.\n2\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/compagnucci-tommaso-ETKnHZom/gadamauri-buvaysar-QX3MNSXf/?mid=jT6fc89F"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 5,
+          "text": "07.06.26\nBRA\nGadamauri B.\nDonald M.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/gadamauri-buvaysar-QX3MNSXf/?mid=GzvCt8Lh"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 6,
+          "text": "31.05.26\nPER\nDonald M.\nForti F.\n0\n2\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/forti-francesco-MF7nWtCA/?mid=M7kZ1wQp"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 7,
+          "text": "29.05.26\nGRA\nSorger S.\nDonald M.\n2\n0\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/sorger-sebastian-YVX2xrZ3/?mid=4xzogk5t"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 8,
+          "text": "28.05.26\nGRA\nPlunger M.\nDonald M.\n0\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/plunger-manuel-x0jclBBa/?mid=YTuTQgHs"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 9,
+          "text": "26.05.26\nGRA\nBaragiola Mordini T. C.\nDonald M.\n1\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/baragiola-mordini-tobia-costanzo-M3SIsJoo/donald-matthew-CvEGpt6B/?mid=zohFjNTb"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 10,
+          "text": "07.06.26\nBRA\nGadamauri B.\nDonald M.\n2\n0",
+          "href": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/gadamauri-buvaysar-QX3MNSXf/?mid=GzvCt8Lh"
+        },
+        {
+          "selector": "[class*=\"h2h__row\"]",
+          "index": 11,
+          "text": "27.07.25\nHAG\nDonald M.\nGadamauri B.\n1\n2",
+          "href": "https://www.rezultati.com/utakmica/tenis/donald-matthew-CvEGpt6B/gadamauri-buvaysar-QX3MNSXf/?mid=UNUpsft2"
+        },
+        {
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
+          "index": 0,
+          "text": "09.06.26\nBRA\nBarton H.\nGadamauri B.\n2\n1\nI\n08.06.26\nBRA\nGadamauri B.\nKuzmanov D.\n2\n1\nP\n07.06.26\nBRA\nGadamauri B.\nDonald M.\n2\n0\nP\n23.05.26\nCER\nAlcala Gurri M.\nGadamauri B.\n2\n1\nI\n22.05.26\nCER\nGadamauri B.\nCompagnucci T.\n2\n1\nP",
           "href": null
         },
         {
-          "selector": "[class*=\"eventRow\"]",
-          "index": 0,
-          "text": "",
-          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 0,
-          "text": "Boskovic - Andreeva",
-          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 1,
-          "text": "Toffanin - Ajdukovic",
-          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+          "text": "09.06.26\nBRA\nBarton H.\nGadamauri B.\n2\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/barton-hynek-UoDybC2H/gadamauri-buvaysar-QX3MNSXf/?mid=SOzk7c6b"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 2,
-          "text": "Bouzkova - Vekić",
-          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 3,
-          "text": "Borges - Čilić",
-          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+          "text": "08.06.26\nBRA\nGadamauri B.\nKuzmanov D.\n2\n1\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/gadamauri-buvaysar-QX3MNSXf/kuzmanov-dimitar-WEwUtEGs/?mid=0leTo2K7"
         }
       ]
     },
@@ -1462,7 +2742,7 @@
       "surface_existing": "clay",
       "source_url": "https://www.rezultati.com/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/kokkinakis-thanasi-rBm7dcxH/omjer/sve-podloge/?mid=x8kb9ced",
       "status": "row_not_found",
-      "candidate_rows_seen": 34,
+      "candidate_rows_seen": 295,
       "candidate_examples": [
         {
           "selector": "[class*=\"h2h__row\"]",
@@ -1531,130 +2811,28 @@
           "href": "https://www.rezultati.com/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/kokkinakis-thanasi-rBm7dcxH/?mid=x8kb9ced"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 0,
-          "text": "MEČ",
-          "href": "/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/kokkinakis-thanasi-rBm7dcxH/?mid=x8kb9ced"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 1,
-          "text": "TEČAJEVI",
-          "href": "/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/kokkinakis-thanasi-rBm7dcxH/tecajevi/?mid=x8kb9ced"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 2,
-          "text": "OMJER",
-          "href": "/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/kokkinakis-thanasi-rBm7dcxH/omjer/?mid=x8kb9ced"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 3,
-          "text": "ŽDRIJEB",
-          "href": "/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/kokkinakis-thanasi-rBm7dcxH/zdrijeb/?mid=x8kb9ced"
-        }
-      ]
-    },
-    {
-      "canonical_match_id": "01_06_26|damm_m|mccabe_j|bir|1_2",
-      "date": "01.06.26",
-      "player_1": "Damm M.",
-      "player_2": "McCabe J.",
-      "winner": "McCabe J.",
-      "score": "1-2",
-      "tournament_code": "BIR",
-      "surface_existing": "",
-      "source_url": "https://www.rezultati.com/utakmica/tenis/damm-martin-2003-vX7WOXtP/houkes-max-00P4vHo8/omjer/sve-podloge/?mid=Ot9uUybD",
-      "status": "row_not_found",
-      "candidate_rows_seen": 6,
-      "candidate_examples": [
-        {
-          "selector": "[class*=\"event__match\"]",
-          "index": 0,
-          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
+          "text": "08.06.26\nBRA\nKokkinakis T.\nBarrios Vera T.\n2\n0\nP\n27.05.26\nFO\nKokkinakis T.\nCarreno-Busta P.\n1\n1\nI\n25.05.26\nFO\nKokkinakis T.\nAtmane T.\n3\n2\nP\n13.05.26\nZAG\nAlexandrescou Y. T.\nKokkinakis T.\n-\nI\n11.05.26\nZAG\nRibecai M.\nKokkinakis T.\n1\n2\nP",
           "href": null
         },
         {
-          "selector": "[class*=\"eventRow\"]",
-          "index": 0,
-          "text": "",
-          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 0,
-          "text": "Boskovic - Andreeva",
-          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 1,
-          "text": "Toffanin - Ajdukovic",
-          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
+          "text": "08.06.26\nBRA\nKokkinakis T.\nBarrios Vera T.\n2\n0\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/kokkinakis-thanasi-rBm7dcxH/?mid=x8kb9ced"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 2,
-          "text": "Bouzkova - Vekić",
-          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
+          "text": "27.05.26\nFO\nKokkinakis T.\nCarreno-Busta P.\n1\n1\nI",
+          "href": "https://www.rezultati.com/utakmica/tenis/carreno-busta-pablo-W8WmcXdq/kokkinakis-thanasi-rBm7dcxH/?mid=GvtTBr8T"
         },
         {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
+          "selector": "[class*=\"h2h__section\"] [class*=\"row\"]",
           "index": 3,
-          "text": "Borges - Čilić",
-          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
-        }
-      ]
-    },
-    {
-      "canonical_match_id": "01_06_26|houkes_m|nava_e|hei|0_2",
-      "date": "01.06.26",
-      "player_1": "Houkes M.",
-      "player_2": "Nava E.",
-      "winner": "Nava E.",
-      "score": "0-2",
-      "tournament_code": "HEI",
-      "surface_existing": "clay",
-      "source_url": "https://www.rezultati.com/utakmica/tenis/damm-martin-2003-vX7WOXtP/houkes-max-00P4vHo8/omjer/sve-podloge/?mid=Ot9uUybD",
-      "status": "row_not_found",
-      "candidate_rows_seen": 6,
-      "candidate_examples": [
-        {
-          "selector": "[class*=\"event__match\"]",
-          "index": 0,
-          "text": "02:00\nVegas Golden Knights\nCarolina Hurricanes\n-\n-",
-          "href": null
-        },
-        {
-          "selector": "[class*=\"eventRow\"]",
-          "index": 0,
-          "text": "",
-          "href": "https://www.rezultati.com/utakmica/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 0,
-          "text": "Boskovic - Andreeva",
-          "href": "/utakmica/tenis/andreeva-erika-GWuBzqkB/boskovic-lea-YDN2k7yT/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 1,
-          "text": "Toffanin - Ajdukovic",
-          "href": "/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 2,
-          "text": "Bouzkova - Vekić",
-          "href": "/utakmica/tenis/bouzkova-marie-WMS3AdAb/vekic-donna-AsWv5414/"
-        },
-        {
-          "selector": "a[href*=\"/utakmica/tenis/\"]",
-          "index": 3,
-          "text": "Borges - Čilić",
-          "href": "/utakmica/tenis/borges-nuno-hzbEPIOa/cilic-marin-nLoK5syL/"
+          "text": "25.05.26\nFO\nKokkinakis T.\nAtmane T.\n3\n2\nP",
+          "href": "https://www.rezultati.com/utakmica/tenis/atmane-terence-6mkEQ279/kokkinakis-thanasi-rBm7dcxH/?mid=M1tZ0Nq2"
         }
       ]
     }
