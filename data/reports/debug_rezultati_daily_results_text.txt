@@ -41,6 +41,15 @@ London (Ujedinjeno Kraljevstvo), trava
 WTA - SINGL: 
 Ždrijeb
 Prekinuto
+Cirstea S.
+Inglis M.
+0
+0
+0
+0
+0
+15
+Prekinuto
 Boulter K.
 Fernandez L.
 0
@@ -51,14 +60,82 @@ Fernandez L.
 3
 0
 0
+Stuttgart (Njemačka), trava
+ATP - PAROVI: 
+Ždrijeb
+Otkazano
+Schnaitter J.
+Wallner M.
+Paul T.
+Shelton B.
+-
+-
 Bratislava (Slovačka), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
+Otkazano
+Olivieri G. A.
+Tseng C. H.
+-
+-
 Otkazano
 Molcan A.
 Brunclik P.
 -
 -
+Cattolica (Italija), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Ferrari G.
+Callejon H. S.
+2
+0
+7
+8
+6
+6
+6
+0
+Kraj
+Rehberg M. H.
+Carballes Baena R.
+0
+2
+4
+6
+4
+6
+Kraj
+Tobon M.
+Vasilev A.
+0
+2
+4
+6
+2
+6
+Lyon (Francuska), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Bertrand R.
+Sanchez Izquierdo N.
+0
+2
+3
+6
+2
+6
+Kraj
+Boyer T.
+Perot R.
+2
+0
+6
+3
+6
+2
 San Miguel de Tucuman (Argentina) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -91,6 +168,50 @@ Fruhvirtova L.
 0
 0
 0
+M15 Kayseri 4 (Turska), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Milushev A.
+Baybars A.
+2
+0
+6
+2
+6
+0
+M15 Maanshan 5 (Kina), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Ferguson C.
+Liu H.
+0
+2
+5
+7
+2
+6
+Kraj
+Huang T.
+Kim D. J.
+0
+2
+0
+6
+2
+6
+Kraj
+Park U.
+Imai S.
+2
+0
+7
+5
+7
+7
+6
+2
 M15 Tokyo (Japan), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -123,6 +244,59 @@ Oki Y.
 2
 6
 1
+Kraj
+Hazawa S.
+Kikuchi Y.
+2
+1
+4
+6
+6
+0
+6
+3
+Kraj
+Nakagawa N.
+Kumasaka T.
+0
+2
+5
+7
+5
+7
+Kraj
+Takahata R.
+Tange S.
+2
+1
+4
+6
+6
+3
+6
+3
+Kraj
+Honda N.
+Heck H.
+2
+0
+7
+7
+6
+4
+6
+3
+Kraj
+Mochizuki Y.
+Ichikawa T.
+0
+2
+6
+3
+7
+7
+3
+6
 W100 Wuning (Kina), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -155,6 +329,81 @@ Khomutsianskaya D.
 7
 2
 6
+Kraj
+Ma Y.
+Zhiyenbayeva S.
+0
+2
+3
+6
+1
+6
+Kraj
+Okamura K.
+Abe H.
+2
+1
+6
+1
+3
+6
+6
+4
+Kraj
+Yamaguchi M.
+Lee E.
+2
+1
+4
+6
+6
+2
+6
+3
+W100 Zagreb (Hrvatska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Brockmann T. J.
+Avanesyan E.
+0
+2
+6
+5
+7
+7
+3
+6
+Kraj
+Rinaldo Persson K.
+Falkowska W.
+2
+0
+6
+3
+6
+3
+Kraj
+Szabo B.
+Dencheva R.
+0
+2
+3
+6
+2
+6
+W15 Kursumlijska Banja 4 (Srbija), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Zozaya Menendez E.
+Higuita Barraza M. I.
+2
+0
+6
+3
+6
+2
 W15 Tokyo (Japan), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -185,6 +434,360 @@ Hayasaka K.
 7
 1
 6
+Kraj
+Kim C.
+Yoshimoto N.
+0
+2
+1
+6
+3
+6
+Kraj
+Sato H.
+Hosoki Y.
+2
+0
+6
+2
+6
+1
+Kraj
+Wakana R.
+Kitahara Y.
+0
+2
+6
+6
+7
+8
+3
+6
+Kraj
+Miyamoto A.
+Ohashi R.
+2
+0
+6
+3
+6
+1
+Kraj
+Nishimura K.
+Sato N.
+2
+0
+6
+2
+6
+2
+W50 Hurghada (Egipat), trava
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Samardzic A. E.
+Van Poppel E.
+2
+0
+6
+4
+6
+3
+Kraj
+Rozhkova E.
+Yardley S.
+0
+2
+4
+6
+2
+6
+Kraj
+Ryser V.
+Hercegovac-Sadikovic A.
+2
+1
+6
+9
+7
+11
+7
+5
+6
+2
+Kraj
+Monteleone G. A.
+Wirges A.
+0
+2
+3
+6
+2
+6
+Kraj
+Danilova O.
+Knutson G.
+0
+2
+2
+6
+4
+6
+Kraj
+Iatcenko P.
+Zolotareva R.
+2
+0
+6
+4
+6
+4
+Kraj
+Ipunesso L.
+Popovic K.
+2
+0
+6
+4
+6
+2
+W75 Ceska Lipa (Češka Republika), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+(predano)
+Kucmova A.
+Hennemann C. W.
+0
+0
+2
+3
+M15 Maanshan 5 (Kina), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Charlton J.
+Wang A.
+Tang S.
+Yang M.
+2
+0
+6
+3
+6
+4
+Kraj
+Jin Y.
+Sun Qian
+Dellavedova M.
+Lee D. H.
+2
+0
+6
+4
+6
+4
+Kraj
+Liu S.
+Yang X.
+Auytayakul S.
+Samrej K.
+2
+0
+6
+2
+6
+4
+M15 Tokyo (Japan), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Masabayashi T.
+Ochi M.
+Jones H.
+Kim J.
+0
+2
+2
+6
+2
+6
+Kraj
+Fukuda S.
+Vithoontien L.
+Hazawa S.
+Sach T.
+0
+2
+5
+7
+3
+6
+Kraj
+Delaney Je.
+Sinclair C.
+Oki Y.
+Sumizawa D.
+2
+1
+6
+3
+3
+6
+10
+7
+Kraj
+Delaney Ja.
+Kusuhara Y.
+Ogura K.
+Tomida Y.
+2
+0
+6
+3
+6
+1
+W100 Wuning (Kina), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Hou Y.
+Wang J.
+Khomutsianskaya D.
+Yashina E.
+0
+2
+5
+7
+5
+7
+Kraj
+Lee Y.
+Wong Hong Yi C.
+Goto R.
+Sema E.
+1
+2
+4
+6
+7
+5
+8
+10
+Kraj
+Wang J.
+Zhang J.
+Saito S.
+Shimizu A.
+1
+2
+6
+2
+7
+7
+7
+5
+6
+10
+Kraj
+Abe H.
+Plipuech P.
+An L.
+Ye S.
+2
+0
+6
+1
+6
+0
+Kraj
+Nugroho P. M.
+Raina A.
+Panshina V.
+Zelinskaya D.
+2
+0
+6
+3
+7
+7
+6
+5
+W15 Kursumlijska Banja 4 (Srbija), zemlja
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Bulatovic S.
+Picorusevic E. L.
+Panasa O.
+Ramirez K.
+1
+2
+6
+4
+1
+6
+6
+10
+W15 Tokyo (Japan), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Nishino N.
+Tsujioka S.
+Nagata A.
+Sato H.
+1
+2
+4
+6
+7
+7
+6
+4
+8
+10
+Kraj
+Jang G.
+Kim Y.J.
+Barry M.
+Webb S.
+2
+1
+6
+3
+3
+6
+11
+9
+Kraj
+Ohwaki Yui
+Uchijima M.
+Arakawa N.
+Katsumi N.
+0
+2
+6
+11
+7
+13
+4
+6
+Kraj
+Kozaki F.
+Naklo T.
+Kawagishi N.
+Saigo Y.
+2
+1
+7
+7
+6
+5
+1
+6
+10
+4
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -221,7 +824,7 @@ WTA London
 WTA S-Hertogenbosch
 Bratislava Challenger Muškarci
 Cattolica Challenger Muškarci
-Prikaži više (74)
+Prikaži više (76)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -247,7 +850,7 @@ Juniori - singl
 Juniorke - singl
 Prikaži više
 Tenis livescore na Rezultatima nudi teniske rezultate uživo za preko 5000 teniskih turnira diljem svijeta, uključujući Australian Open, French Open, Wimbledon, US Open i mnoge druge. Pratite najnovije rezultate iz tenisa na Rezultatima, gdje možete pronaći detaljnu statistiku (asevi, dvostruke pogreške, postotak servisa, osvojeni servisi, spašene break lopte, neprisiljene pogreške, itd.), usporedbu koeficijenata, međuosboni omjer, vijesti, video sažetke ili tijek meča poen po poen. Pronađite sve današnje rezultate i vijesti iz tenisa na Rezultatima, uključujući ATP rezultate, WTA rezultate, ATP poredak, ATP kalendar 2026, WTA kalendar 2026, ili profile igrača (npr. Jannik Sinner, Carlos Alcaraz, Novak Đoković, Donna Vekić). Usluga tenis livescore se automatski ažurira, tako da nema potrebe da osvježavate stranicu.
-09.06. Bautista-Agut Roberto - Giron Marcos, Hanfmann Yannick - Kovacevic Aleksandar, Halys Quentin - Shimabukuro Sho, Struff Jan-Lennard - Galarneau Alexis, Gentzsch Tom - Hijikata Rinky, Altmaier Daniel - Tiafoe Frances, Dedura Diego - Duckworth James, Kyrgios Nick - Moutet Corentin, 10.06. Landaluce Martin - Fritz Taylor
+09.06. Struff Jan-Lennard - Galarneau Alexis, Gentzsch Tom - Hijikata Rinky, Altmaier Daniel - Tiafoe Frances, Dedura Diego - Duckworth James, Kyrgios Nick - Moutet Corentin, 10.06. Landaluce Martin - Fritz Taylor
 
 SP 2026
 Svjetsko Prvenstvo u nogometu utakmice
