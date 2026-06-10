@@ -1,0 +1,14 @@
+rank,date,time,tour_level,gender,surface,tournament,match,selection,odds,tle_probability,book_probability_devig,tle_edge,tle_ev,model,odds_source
+1,2026-06-10,20:00,itf,women,unknown,"W15 Los Angeles, CA",T. Messerli - K. Kosan,T. Messerli,4.35,0.515697,0.219031,0.296666,1.243282,itf_100_level_overall,Pncl
+2,2026-06-10,21:30,itf,men,unknown,"M15 Los Angeles, CA",K. Bigun - V. Gurenko,V. Gurenko,9.76,0.369295,0.0988,0.270495,2.604318,itf_100_level_overall,Pncl
+3,2026-06-10,21:30,itf,women,unknown,"W15 Los Angeles, CA",A. Shcherbinina - C. Jauffret,C. Jauffret,3.55,0.505396,0.261186,0.244209,0.794155,itf_100_level_overall,median|median
+4,2026-06-10,21:30,itf,men,unknown,"M15 Los Angeles, CA",J. Roddick - E. Bynoe,E. Bynoe,3.65,0.417179,0.261134,0.156045,0.522702,itf_100_level_overall,Pncl
+5,2026-06-10,20:00,itf,women,unknown,"W15 Los Angeles, CA",S. Shapatava - K. Penickova,S. Shapatava,3.34,0.424949,0.277056,0.147892,0.419328,itf_100_level_overall,median|median
+6,2026-06-10,14:00,itf,women,unknown,W15 Merzig,M. Maslenkova - F. Gettwart,M. Maslenkova,8.79,0.254375,0.109422,0.144953,1.235957,itf_100_level_overall,Pncl
+7,2026-06-10,22:50,itf,men,unknown,"M25 Wichita, KS",K. Miyoshi - C. Langmo,C. Langmo,1.89,0.63362,0.505236,0.128384,0.197541,itf_100_level_overall,Pncl
+8,2026-06-10,13:00,itf,men,unknown,M15 Nyiregyhaza,L. Couturier - J. Schifris,L. Couturier,2.0,0.59327,0.477807,0.115463,0.18654,itf_100_level_overall,Pncl
+9,2026-06-10,19:30,itf,men,unknown,"M25 Wichita, KS",P. Sekulic - B. Ellis,B. Ellis,2.48,0.492467,0.386139,0.106329,0.221319,itf_100_level_overall,Pncl
+10,2026-06-10,23:00,itf,men,unknown,"M15 Los Angeles, CA",V. Kalina - T. Dean,T. Dean,1.63,0.672577,0.580977,0.0916,0.0963,itf_100_level_overall,Pncl
+11,2026-06-10,20:00,itf,women,unknown,"W15 Los Angeles, CA",M. Castillo Meza - K. Nguyen,M. Castillo Meza,2.49,0.473262,0.383663,0.089598,0.178421,itf_100_level_overall,Pncl
+12,2026-06-10,21:30,itf,men,unknown,"M15 Los Angeles, CA",S. Rozin - O. Bonding,O. Bonding,1.44,0.706936,0.64268,0.064257,0.017989,itf_100_level_overall,median|median
+13,2026-06-10,18:00,itf,men,unknown,M15 Vaasa,J. Leroux - L. Rossi,L. Rossi,1.44,0.699024,0.662763,0.03626,0.006594,itf_100_level_overall,Pncl
