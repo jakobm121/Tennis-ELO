@@ -1,0 +1,113 @@
+name: TLE Walk-Forward Backtest
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tle-walk-forward-backtest
+  cancel-in-progress: true
+
+jobs:
+  tle-walk-forward-backtest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          fi
+
+      - name: Run TLE walk-forward backtest
+        env:
+          TLE_DEFAULT_ELO: "1500"
+          TLE_GLOBAL_K: "24"
+          TLE_GLOBAL_SURFACE_K: "20"
+          TLE_LEVEL_K: "24"
+          TLE_LEVEL_SURFACE_K: "20"
+          TLE_MIN_LEVEL_MATCHES: "10"
+          TLE_MIN_LEVEL_SURFACE_MATCHES: "5"
+          TLE_TEST_START_DATE: "2025-01-01"
+        run: |
+          python -m tennis_elo.tle_backtest
+
+      - name: Validate TLE backtest
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          output_path = Path(
+              "data/tle/backtests/"
+              "tle_walk_forward_backtest.json"
+          )
+          report_path = Path(
+              "data/tle/reports/"
+              "tle_walk_forward_backtest_report.json"
+          )
+
+          for path in (
+              output_path,
+              report_path,
+          ):
+              if not path.exists():
+                  raise SystemExit(
+                      f"Missing generated file: {path}"
+                  )
+
+          data = json.loads(
+              output_path.read_text(
+                  encoding="utf-8"
+              )
+          )
+
+          print("COUNTS:", data.get("counts", {}))
+          print("BEST MODEL:", data.get("best_model"))
+          print(
+              "MODEL RANKING:",
+              data.get("model_ranking", []),
+          )
+          print("OVERALL:", data.get("overall", {}))
+          print("BY LEVEL:", data.get("by_level", {}))
+          print(
+              "BY SURFACE:",
+              data.get("by_surface", {}),
+          )
+          print(
+              "BY GENDER:",
+              data.get("by_gender", {}),
+          )
+          PY
+
+      - name: Commit TLE backtest outputs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/tle/backtests/tle_walk_forward_backtest.json
+          git add data/tle/reports/tle_walk_forward_backtest_report.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Backtest TLE models"
+          git pull --rebase --autostash origin main
+          git push origin HEAD:main
