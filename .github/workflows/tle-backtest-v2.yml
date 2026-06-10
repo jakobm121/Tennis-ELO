@@ -1,0 +1,117 @@
+name: TLE Model Search V2
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tle-model-search-v2
+  cancel-in-progress: true
+
+jobs:
+  tle-model-search-v2:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          fi
+
+      - name: Run TLE model search V2
+        env:
+          TLE_DEFAULT_ELO: "1500"
+          TLE_GLOBAL_K: "24"
+          TLE_GLOBAL_SURFACE_K: "20"
+          TLE_LEVEL_K: "24"
+          TLE_LEVEL_SURFACE_K: "20"
+          TLE_TEST_START_DATE: "2025-01-01"
+          TLE_LEVEL_SAMPLE_GRID: "5,10,15,20"
+          TLE_SURFACE_SAMPLE_GRID: "3,5,10"
+          TLE_SURFACE_WEIGHT_GRID: "0,0.1,0.15,0.2,0.25,0.3,0.4"
+          TLE_GLOBAL_WEIGHT_GRID: "0,0.1,0.2,0.25,0.3,0.4,0.5"
+        run: |
+          python -m tennis_elo.tle_backtest_v2
+
+      - name: Validate TLE model search
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          output_path = Path(
+              "data/tle/backtests/"
+              "tle_model_search_v2.json"
+          )
+          report_path = Path(
+              "data/tle/reports/"
+              "tle_model_search_v2_report.json"
+          )
+
+          for path in (output_path, report_path):
+              if not path.exists():
+                  raise SystemExit(
+                      f"Missing generated file: {path}"
+                  )
+
+          data = json.loads(
+              output_path.read_text(
+                  encoding="utf-8"
+              )
+          )
+
+          print("COUNTS:", data.get("counts", {}))
+
+          for level, rows in data.get(
+              "best_by_level",
+              {},
+          ).items():
+              print(f"\nBEST {level.upper()}:")
+
+              for row in rows[:10]:
+                  print(row)
+
+          for level, rows in data.get(
+              "common_sample_best_by_level",
+              {},
+          ).items():
+              print(
+                  f"\nCOMMON SAMPLE {level.upper()}:"
+              )
+
+              for row in rows[:10]:
+                  print(row)
+          PY
+
+      - name: Commit TLE model-search outputs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/tle/backtests/tle_model_search_v2.json
+          git add data/tle/reports/tle_model_search_v2_report.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Search TLE model weights"
+          git pull --rebase --autostash origin main
+          git push origin HEAD:main
