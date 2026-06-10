@@ -1,0 +1,3050 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-10T17:34:10+00:00",
+  "source": {
+    "api_report": "https://raw.githubusercontent.com/jakobm121/Ai/refs/heads/main/data/tle/tle_api_results_backfill_report.json",
+    "sackmann_manifest": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/tle/processed/sackmann/tle_sackmann_manifest.json"
+  },
+  "summary": {
+    "api_tournaments": 113,
+    "mapping_statuses": {
+      "review": 37,
+      "unmatched": 3,
+      "matched": 57,
+      "already_known": 16
+    },
+    "matches_by_status": {
+      "review": 875,
+      "unmatched": 117,
+      "matched": 1092,
+      "already_known": 596
+    },
+    "resolved_tournaments": 73,
+    "unresolved_tournaments": 40,
+    "resolved_matches": 1688,
+    "unresolved_matches": 992,
+    "rows_seen": 221280,
+    "catalog_entries": 2580
+  },
+  "tournaments": {
+    "2282": {
+      "name": "French Open",
+      "event_type": "Girls Singles",
+      "gender": "unknown",
+      "tour_level": "main_tour",
+      "surface": "clay",
+      "matches_seen": 87,
+      "status": "already_known",
+      "match_method": "api_existing_surface",
+      "confidence": 1.0,
+      "matched_sackmann": null,
+      "needs_review": false
+    },
+    "2281": {
+      "name": "French Open",
+      "event_type": "Boys Singles",
+      "gender": "unknown",
+      "tour_level": "main_tour",
+      "surface": "clay",
+      "matches_seen": 86,
+      "status": "already_known",
+      "match_method": "api_existing_surface",
+      "confidence": 1.0,
+      "matched_sackmann": null,
+      "needs_review": false
+    },
+    "2156": {
+      "name": "French Open",
+      "event_type": "Wta Singles",
+      "gender": "women",
+      "tour_level": "main_tour",
+      "surface": "clay",
+      "matches_seen": 61,
+      "status": "already_known",
+      "match_method": "api_existing_surface",
+      "confidence": 1.0,
+      "matched_sackmann": null,
+      "needs_review": false
+    },
+    "2155": {
+      "name": "French Open",
+      "event_type": "Atp Singles",
+      "gender": "men",
+      "tour_level": "main_tour",
+      "surface": "clay",
+      "matches_seen": 58,
+      "status": "already_known",
+      "match_method": "api_existing_surface",
+      "confidence": 1.0,
+      "matched_sackmann": null,
+      "needs_review": false
+    },
+    "2389": {
+      "name": "Lyon",
+      "event_type": "Challenger Men Singles",
+      "gender": "men",
+      "tour_level": "qualifying",
+      "surface": "clay",
+      "matches_seen": 33,
+      "status": "already_known",
+      "match_method": "api_existing_surface",
+      "confidence": 1.0,
+      "matched_sackmann": null,
+      "needs_review": false
+    },
+    "3137": {
+      "name": "Bratislava",
+      "event_type": "Challenger Men Singles",
+      "gender": "men",
+      "tour_level": "qualifying",
+      "surface": "clay",
+      "matches_seen": 31,
+      "status": "already_known",
+      "match_method": "api_existing_surface",
+      "confidence": 1.0,
+      "matched_sackmann": null,
+      "needs_review": false
+    },
+    "13955": {
+      "name": "Cattolica (Italy) - Qualification",
+      "event_type": "Challenger Men Singles",
+      "gender": "men",
+      "tour_level": "qualifying",
+      "surface": "clay",
+      "matches_seen": 31,
+      "status": "already_known",
+      "match_method": "api_existing_surface",
+      "confidence": 1.0,
+      "matched_sackmann": null,
+      "needs_review": false
+    },
+    "9872": {
+      "name": "M15 Lakewood, CA 2",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "hard",
+      "matches_seen": 31,
+      "status": "matched",
+      "match_method": "exact_tokens_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "M15 Lakewood CA",
+        "normalized_name": "15 lakewood ca",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 153
+        },
+        "matches": 153,
+        "year_counts": {
+          "2024": 62,
+          "2025": 31,
+          "2026": 60
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": false
+    },
+    "12564": {
+      "name": "M15 Ljubljana",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "clay",
+      "matches_seen": 31,
+      "status": "matched",
+      "match_method": "exact_name_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "M15 Ljubljana",
+        "normalized_name": "15 ljubljana",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 62
+        },
+        "matches": 62,
+        "year_counts": {
+          "2025": 31,
+          "2026": 31
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": false
+    },
+    "12484": {
+      "name": "M15 Szentendre",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "clay",
+      "matches_seen": 31,
+      "status": "matched",
+      "match_method": "exact_name_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "M15 Szentendre",
+        "normalized_name": "15 szentendre",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 62
+        },
+        "matches": 62,
+        "year_counts": {
+          "2025": 31,
+          "2026": 31
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": false
+    },
+    "7394": {
+      "name": "W15 Casablanca",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "clay",
+      "matches_seen": 31,
+      "status": "matched",
+      "match_method": "exact_name_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "W15 Casablanca",
+        "normalized_name": "15 casablanca",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 174
+        },
+        "matches": 174,
+        "year_counts": {
+          "2023": 62,
+          "2024": 52,
+          "2025": 30,
+          "2026": 30
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": false
+    },
+    "12584": {
+      "name": "W15 Kayseri 3",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "hard",
+      "matches_seen": 31,
+      "status": "matched",
+      "match_method": "exact_tokens_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "W15 Kayseri",
+        "normalized_name": "15 kayseri",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 464
+        },
+        "matches": 464,
+        "year_counts": {
+          "2024": 35,
+          "2025": 338,
+          "2026": 91
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": false
+    },
+    "12571": {
+      "name": "London",
+      "event_type": "Wta Singles",
+      "gender": "women",
+      "tour_level": "qualifying",
+      "surface": "grass",
+      "matches_seen": 30,
+      "status": "already_known",
+      "match_method": "api_existing_surface",
+      "confidence": 1.0,
+      "matched_sackmann": null,
+      "needs_review": false
+    },
+    "11100": {
+      "name": "M15 Harmon",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "hard",
+      "matches_seen": 30,
+      "status": "matched",
+      "match_method": "exact_name_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "M15 Harmon",
+        "normalized_name": "15 harmon",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 92
+        },
+        "matches": 92,
+        "year_counts": {
+          "2024": 31,
+          "2025": 31,
+          "2026": 30
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": false
+    },
+    "11903": {
+      "name": "M15 Tsaghkadzor 2",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "clay",
+      "matches_seen": 30,
+      "status": "matched",
+      "match_method": "exact_tokens_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "M15 Tsaghkadzor",
+        "normalized_name": "15 tsaghkadzor",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 185
+        },
+        "matches": 185,
+        "year_counts": {
+          "2024": 62,
+          "2025": 62,
+          "2026": 61
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": false
+    },
+    "13021": {
+      "name": "M25 Cuiaba",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "clay",
+      "matches_seen": 30,
+      "status": "matched",
+      "match_method": "exact_name_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "M25 Cuiaba",
+        "normalized_name": "25 cuiaba",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 59
+        },
+        "matches": 59,
+        "year_counts": {
+          "2025": 30,
+          "2026": 29
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": false
+    },
+    "11107": {
+      "name": "W15 Focsani",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "clay",
+      "matches_seen": 30,
+      "status": "matched",
+      "match_method": "exact_name_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "W15 Focsani",
+        "normalized_name": "15 focsani",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 124
+        },
+        "matches": 124,
+        "year_counts": {
+          "2024": 63,
+          "2025": 31,
+          "2026": 30
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": false
+    },
+    "11121": {
+      "name": "W75 Caserta",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "clay",
+      "matches_seen": 30,
+      "status": "matched",
+      "match_method": "exact_name_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "W75 Caserta",
+        "normalized_name": "75 caserta",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 110
+        },
+        "matches": 110,
+        "year_counts": {
+          "2024": 49,
+          "2025": 30,
+          "2026": 31
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": false
+    },
+    "12572": {
+      "name": "Ilkley",
+      "event_type": "Challenger Women Singles",
+      "gender": "women",
+      "tour_level": "qualifying",
+      "surface": "grass",
+      "matches_seen": 29,
+      "status": "already_known",
+      "match_method": "api_existing_surface",
+      "confidence": 1.0,
+      "matched_sackmann": null,
+      "needs_review": false
+    },
+    "9614": {
+      "name": "M15 Kursumlijska Banja 3",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "clay",
+      "matches_seen": 29,
+      "status": "matched",
+      "match_method": "exact_tokens_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "M15 Kursumlijska Banja",
+        "normalized_name": "15 kursumlijska banja",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 1431
+        },
+        "matches": 1431,
+        "year_counts": {
+          "2023": 278,
+          "2024": 533,
+          "2025": 527,
+          "2026": 93
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": false
+    },
+    "13097": {
+      "name": "M15 Luan 2",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "hard",
+      "matches_seen": 29,
+      "status": "matched",
+      "match_method": "exact_tokens_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "M15 Luan",
+        "normalized_name": "15 luan",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 250
+        },
+        "matches": 250,
+        "year_counts": {
+          "2025": 160,
+          "2026": 90
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": false
+    },
+    "11873": {
+      "name": "M15 Tsaghkadzor",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "clay",
+      "matches_seen": 29,
+      "status": "matched",
+      "match_method": "exact_name_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "M15 Tsaghkadzor",
+        "normalized_name": "15 tsaghkadzor",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 185
+        },
+        "matches": 185,
+        "year_counts": {
+          "2024": 62,
+          "2025": 62,
+          "2026": 61
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": false
+    },
+    "9527": {
+      "name": "W15 Kursumlijska Banja 3",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "clay",
+      "matches_seen": 29,
+      "status": "matched",
+      "match_method": "exact_tokens_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "W15 Kursumlijska Banja",
+        "normalized_name": "15 kursumlijska banja",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 2602
+        },
+        "matches": 2602,
+        "year_counts": {
+          "2023": 774,
+          "2024": 1276,
+          "2025": 461,
+          "2026": 91
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": false
+    },
+    "9873": {
+      "name": "W15 Lakewood, CA 2",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "hard",
+      "matches_seen": 29,
+      "status": "matched",
+      "match_method": "exact_tokens_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "W15 Lakewood CA",
+        "normalized_name": "15 lakewood ca",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 196
+        },
+        "matches": 196,
+        "year_counts": {
+          "2024": 106,
+          "2025": 30,
+          "2026": 60
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": false
+    },
+    "10953": {
+      "name": "W15 Osijek",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "clay",
+      "matches_seen": 29,
+      "status": "matched",
+      "match_method": "exact_name_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "W15 Osijek",
+        "normalized_name": "15 osijek",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 129
+        },
+        "matches": 129,
+        "year_counts": {
+          "2024": 67,
+          "2025": 31,
+          "2026": 31
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": false
+    },
+    "11076": {
+      "name": "W50 Montemor-o-Novo",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "hard",
+      "matches_seen": 29,
+      "status": "matched",
+      "match_method": "exact_name_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "W50 Montemor-o-Novo",
+        "normalized_name": "50 montemor o novo",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 171
+        },
+        "matches": 171,
+        "year_counts": {
+          "2024": 109,
+          "2025": 31,
+          "2026": 31
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": false
+    },
+    "10920": {
+      "name": "W50 Wuning",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "hard",
+      "matches_seen": 29,
+      "status": "matched",
+      "match_method": "exact_name_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "W50 Wuning",
+        "normalized_name": "50 wuning",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 86
+        },
+        "matches": 86,
+        "year_counts": {
+          "2024": 55,
+          "2026": 31
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": false
+    },
+    "11960": {
+      "name": "M15 Kayseri 3",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "hard",
+      "matches_seen": 28,
+      "status": "matched",
+      "match_method": "exact_tokens_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "M15 Kayseri",
+        "normalized_name": "15 kayseri",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 461
+        },
+        "matches": 461,
+        "year_counts": {
+          "2024": 93,
+          "2025": 276,
+          "2026": 92
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": false
+    },
+    "4136": {
+      "name": "W15 Banja Luka",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "clay",
+      "matches_seen": 28,
+      "status": "matched",
+      "match_method": "exact_name_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "W15 Banja Luka",
+        "normalized_name": "15 banja luka",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 181
+        },
+        "matches": 181,
+        "year_counts": {
+          "2023": 67,
+          "2024": 52,
+          "2025": 31,
+          "2026": 31
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": false
+    },
+    "9482": {
+      "name": "W15 Fukui",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "hard",
+      "matches_seen": 28,
+      "status": "matched",
+      "match_method": "exact_name_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "W15 Fukui",
+        "normalized_name": "15 fukui",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 141
+        },
+        "matches": 141,
+        "year_counts": {
+          "2023": 55,
+          "2024": 55,
+          "2026": 31
+        },
+        "latest_date": "2026-05-25"
+      },
+      "needs_review": false
+    },
+    "7440": {
+      "name": "M15 Lakewood, CA",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "hard",
+      "matches_seen": 27,
+      "status": "matched",
+      "match_method": "exact_name_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "M15 Lakewood CA",
+        "normalized_name": "15 lakewood ca",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 153
+        },
+        "matches": 153,
+        "year_counts": {
+          "2024": 62,
+          "2025": 31,
+          "2026": 60
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": false
+    },
+    "13096": {
+      "name": "M15 Luan 3",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "hard",
+      "matches_seen": 27,
+      "status": "matched",
+      "match_method": "exact_tokens_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "M15 Luan",
+        "normalized_name": "15 luan",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 250
+        },
+        "matches": 250,
+        "year_counts": {
+          "2025": 160,
+          "2026": 90
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": false
+    },
+    "7441": {
+      "name": "W15 Lakewood, CA",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "hard",
+      "matches_seen": 27,
+      "status": "matched",
+      "match_method": "exact_name_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "W15 Lakewood CA",
+        "normalized_name": "15 lakewood ca",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 196
+        },
+        "matches": 196,
+        "year_counts": {
+          "2024": 106,
+          "2025": 30,
+          "2026": 60
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": false
+    },
+    "12568": {
+      "name": "W15 Kayseri 2",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "hard",
+      "matches_seen": 26,
+      "status": "matched",
+      "match_method": "exact_tokens_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "W15 Kayseri",
+        "normalized_name": "15 kayseri",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 464
+        },
+        "matches": 464,
+        "year_counts": {
+          "2024": 35,
+          "2025": 338,
+          "2026": 91
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": false
+    },
+    "11451": {
+      "name": "W75 Kursumlijska Banja",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "clay",
+      "matches_seen": 26,
+      "status": "matched",
+      "match_method": "exact_name_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "W75 Kursumlijska Banja",
+        "normalized_name": "75 kursumlijska banja",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 262
+        },
+        "matches": 262,
+        "year_counts": {
+          "2024": 139,
+          "2025": 92,
+          "2026": 31
+        },
+        "latest_date": "2026-05-25"
+      },
+      "needs_review": false
+    },
+    "2507": {
+      "name": "Ilkley",
+      "event_type": "Challenger Men Singles",
+      "gender": "men",
+      "tour_level": "qualifying",
+      "surface": "grass",
+      "matches_seen": 25,
+      "status": "already_known",
+      "match_method": "api_existing_surface",
+      "confidence": 1.0,
+      "matched_sackmann": null,
+      "needs_review": false
+    },
+    "4081": {
+      "name": "M15 Brcko",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "clay",
+      "matches_seen": 25,
+      "status": "matched",
+      "match_method": "exact_name_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "M15 Brcko",
+        "normalized_name": "15 brcko",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 123
+        },
+        "matches": 123,
+        "year_counts": {
+          "2023": 30,
+          "2024": 31,
+          "2025": 31,
+          "2026": 31
+        },
+        "latest_date": "2026-05-25"
+      },
+      "needs_review": false
+    },
+    "9554": {
+      "name": "M25 Kursumlijska Banja",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "clay",
+      "matches_seen": 25,
+      "status": "matched",
+      "match_method": "exact_name_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "M25 Kursumlijska Banja",
+        "normalized_name": "25 kursumlijska banja",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 217
+        },
+        "matches": 217,
+        "year_counts": {
+          "2023": 93,
+          "2024": 62,
+          "2025": 31,
+          "2026": 31
+        },
+        "latest_date": "2026-05-25"
+      },
+      "needs_review": false
+    },
+    "12541": {
+      "name": "W35 Bol 2",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "clay",
+      "matches_seen": 25,
+      "status": "matched",
+      "match_method": "exact_tokens_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "W35 Bol",
+        "normalized_name": "35 bol",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 123
+        },
+        "matches": 123,
+        "year_counts": {
+          "2025": 62,
+          "2026": 61
+        },
+        "latest_date": "2026-05-25"
+      },
+      "needs_review": false
+    },
+    "11202": {
+      "name": "W35 Wichita, KS",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "hard",
+      "matches_seen": 25,
+      "status": "matched",
+      "match_method": "exact_name_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "W35 Wichita KS",
+        "normalized_name": "35 wichita ks",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 124
+        },
+        "matches": 124,
+        "year_counts": {
+          "2024": 62,
+          "2025": 31,
+          "2026": 31
+        },
+        "latest_date": "2026-05-25"
+      },
+      "needs_review": false
+    },
+    "10890": {
+      "name": "San Miguel de Tucuman",
+      "event_type": "Challenger Men Singles",
+      "gender": "men",
+      "tour_level": "qualifying",
+      "surface": "clay",
+      "matches_seen": 24,
+      "status": "already_known",
+      "match_method": "api_existing_surface",
+      "confidence": 1.0,
+      "matched_sackmann": null,
+      "needs_review": false
+    },
+    "2068": {
+      "name": "Stuttgart",
+      "event_type": "Atp Singles",
+      "gender": "men",
+      "tour_level": "qualifying",
+      "surface": "grass",
+      "matches_seen": 24,
+      "status": "already_known",
+      "match_method": "api_existing_surface",
+      "confidence": 1.0,
+      "matched_sackmann": null,
+      "needs_review": false
+    },
+    "4150": {
+      "name": "W15 Monastir 15",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "hard",
+      "matches_seen": 24,
+      "status": "matched",
+      "match_method": "exact_tokens_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "W15 Monastir",
+        "normalized_name": "15 monastir",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 7305
+        },
+        "matches": 7305,
+        "year_counts": {
+          "2023": 2615,
+          "2024": 2973,
+          "2025": 1254,
+          "2026": 463
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": false
+    },
+    "2050": {
+      "name": "Hertogenbosch",
+      "event_type": "Wta Singles",
+      "gender": "women",
+      "tour_level": "qualifying",
+      "surface": "grass",
+      "matches_seen": 23,
+      "status": "already_known",
+      "match_method": "api_existing_surface",
+      "confidence": 1.0,
+      "matched_sackmann": null,
+      "needs_review": false
+    },
+    "9636": {
+      "name": "M15 Karuizawa",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "clay",
+      "matches_seen": 23,
+      "status": "matched",
+      "match_method": "exact_name_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "M15 Karuizawa",
+        "normalized_name": "15 karuizawa",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 124
+        },
+        "matches": 124,
+        "year_counts": {
+          "2023": 31,
+          "2024": 31,
+          "2025": 31,
+          "2026": 31
+        },
+        "latest_date": "2026-05-25"
+      },
+      "needs_review": false
+    },
+    "11929": {
+      "name": "M15 Kayseri 2",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "hard",
+      "matches_seen": 23,
+      "status": "matched",
+      "match_method": "exact_tokens_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "M15 Kayseri",
+        "normalized_name": "15 kayseri",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 461
+        },
+        "matches": 461,
+        "year_counts": {
+          "2024": 93,
+          "2025": 276,
+          "2026": 92
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": false
+    },
+    "12547": {
+      "name": "M25 Bol 2",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "clay",
+      "matches_seen": 23,
+      "status": "matched",
+      "match_method": "exact_tokens_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "M25 Bol",
+        "normalized_name": "25 bol",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 124
+        },
+        "matches": 124,
+        "year_counts": {
+          "2025": 62,
+          "2026": 62
+        },
+        "latest_date": "2026-05-25"
+      },
+      "needs_review": false
+    },
+    "13519": {
+      "name": "M15 Gimcheon 2",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "hard",
+      "matches_seen": 20,
+      "status": "matched",
+      "match_method": "exact_tokens_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "M15 Gimcheon",
+        "normalized_name": "15 gimcheon",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 124
+        },
+        "matches": 124,
+        "year_counts": {
+          "2025": 62,
+          "2026": 62
+        },
+        "latest_date": "2026-05-25"
+      },
+      "needs_review": false
+    },
+    "13956": {
+      "name": "Modena (Italy) - Qualification",
+      "event_type": "Challenger Women Singles",
+      "gender": "women",
+      "tour_level": "qualifying",
+      "surface": "clay",
+      "matches_seen": 20,
+      "status": "already_known",
+      "match_method": "api_existing_surface",
+      "confidence": 1.0,
+      "matched_sackmann": null,
+      "needs_review": false
+    },
+    "11884": {
+      "name": "W15 Tsaghkadzor 2",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "clay",
+      "matches_seen": 20,
+      "status": "matched",
+      "match_method": "exact_tokens_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "W15 Tsaghkadzor",
+        "normalized_name": "15 tsaghkadzor",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 200
+        },
+        "matches": 200,
+        "year_counts": {
+          "2024": 109,
+          "2025": 30,
+          "2026": 61
+        },
+        "latest_date": "2026-05-25"
+      },
+      "needs_review": false
+    },
+    "2051": {
+      "name": "Hertogenbosch",
+      "event_type": "Atp Singles",
+      "gender": "men",
+      "tour_level": "qualifying",
+      "surface": "grass",
+      "matches_seen": 19,
+      "status": "already_known",
+      "match_method": "api_existing_surface",
+      "confidence": 1.0,
+      "matched_sackmann": null,
+      "needs_review": false
+    },
+    "12576": {
+      "name": "M15 Messina",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "clay",
+      "matches_seen": 15,
+      "status": "already_known",
+      "match_method": "api_existing_surface",
+      "confidence": 1.0,
+      "matched_sackmann": null,
+      "needs_review": false
+    },
+    "9628": {
+      "name": "M25 Carnac",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "clay",
+      "matches_seen": 14,
+      "status": "matched",
+      "match_method": "exact_name_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "M25 Carnac",
+        "normalized_name": "25 carnac",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 123
+        },
+        "matches": 123,
+        "year_counts": {
+          "2023": 31,
+          "2024": 30,
+          "2025": 31,
+          "2026": 31
+        },
+        "latest_date": "2026-05-25"
+      },
+      "needs_review": false
+    },
+    "11237": {
+      "name": "M15 Tokyo",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "hard",
+      "matches_seen": 8,
+      "status": "matched",
+      "match_method": "exact_name_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "M15 Tokyo",
+        "normalized_name": "15 tokyo",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 122
+        },
+        "matches": 122,
+        "year_counts": {
+          "2024": 60,
+          "2025": 62
+        },
+        "latest_date": "2025-07-07"
+      },
+      "needs_review": false
+    },
+    "12647": {
+      "name": "W15 Kayseri 4",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "hard",
+      "matches_seen": 8,
+      "status": "matched",
+      "match_method": "exact_tokens_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "W15 Kayseri",
+        "normalized_name": "15 kayseri",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 464
+        },
+        "matches": 464,
+        "year_counts": {
+          "2024": 35,
+          "2025": 338,
+          "2026": 91
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": false
+    },
+    "11068": {
+      "name": "W15 Tokyo",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "hard",
+      "matches_seen": 8,
+      "status": "matched",
+      "match_method": "exact_name_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "W15 Tokyo",
+        "normalized_name": "15 tokyo",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 110
+        },
+        "matches": 110,
+        "year_counts": {
+          "2024": 110
+        },
+        "latest_date": "2024-06-10"
+      },
+      "needs_review": false
+    },
+    "12621": {
+      "name": "M25 Ceska Lipa",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "clay",
+      "matches_seen": 7,
+      "status": "matched",
+      "match_method": "exact_name_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "M25 Ceska Lipa",
+        "normalized_name": "25 ceska lipa",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 31
+        },
+        "matches": 31,
+        "year_counts": {
+          "2025": 31
+        },
+        "latest_date": "2025-06-09"
+      },
+      "needs_review": false
+    },
+    "9556": {
+      "name": "W15 Kursumlijska Banja 4",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "clay",
+      "matches_seen": 7,
+      "status": "matched",
+      "match_method": "exact_tokens_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "W15 Kursumlijska Banja",
+        "normalized_name": "15 kursumlijska banja",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 2602
+        },
+        "matches": 2602,
+        "year_counts": {
+          "2023": 774,
+          "2024": 1276,
+          "2025": 461,
+          "2026": 91
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": false
+    },
+    "12982": {
+      "name": "W35 Cuiaba",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "clay",
+      "matches_seen": 7,
+      "status": "matched",
+      "match_method": "exact_name_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "W35 Cuiaba",
+        "normalized_name": "35 cuiaba",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 30
+        },
+        "matches": 30,
+        "year_counts": {
+          "2025": 30
+        },
+        "latest_date": "2025-09-01"
+      },
+      "needs_review": false
+    },
+    "12539": {
+      "name": "W15 Merzig",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "clay",
+      "matches_seen": 5,
+      "status": "matched",
+      "match_method": "exact_name_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "W15 Merzig",
+        "normalized_name": "15 merzig",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 31
+        },
+        "matches": 31,
+        "year_counts": {
+          "2025": 31
+        },
+        "latest_date": "2025-05-26"
+      },
+      "needs_review": false
+    },
+    "12580": {
+      "name": "W75 Ceska Lipa",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "clay",
+      "matches_seen": 5,
+      "status": "matched",
+      "match_method": "exact_name_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "W75 Ceska Lipa",
+        "normalized_name": "75 ceska lipa",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 30
+        },
+        "matches": 30,
+        "year_counts": {
+          "2025": 30
+        },
+        "latest_date": "2025-06-09"
+      },
+      "needs_review": false
+    },
+    "3596": {
+      "name": "M15 Curtea de Arges",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "clay",
+      "matches_seen": 4,
+      "status": "matched",
+      "match_method": "exact_name_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "M15 Curtea de Arges",
+        "normalized_name": "15 curtea de arges",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 93
+        },
+        "matches": 93,
+        "year_counts": {
+          "2023": 31,
+          "2024": 31,
+          "2025": 31
+        },
+        "latest_date": "2025-08-04"
+      },
+      "needs_review": false
+    },
+    "9644": {
+      "name": "M15 Kursumlijska Banja 4",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "clay",
+      "matches_seen": 4,
+      "status": "matched",
+      "match_method": "exact_tokens_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "M15 Kursumlijska Banja",
+        "normalized_name": "15 kursumlijska banja",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 1431
+        },
+        "matches": 1431,
+        "year_counts": {
+          "2023": 278,
+          "2024": 533,
+          "2025": 527,
+          "2026": 93
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": false
+    },
+    "12706": {
+      "name": "M15 Maanshan 5",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "hard",
+      "matches_seen": 4,
+      "status": "matched",
+      "match_method": "exact_tokens_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "M15 Maanshan",
+        "normalized_name": "15 maanshan",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 401
+        },
+        "matches": 401,
+        "year_counts": {
+          "2025": 278,
+          "2026": 123
+        },
+        "latest_date": "2026-03-23"
+      },
+      "needs_review": false
+    },
+    "9683": {
+      "name": "M15 Nyiregyhaza",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "clay",
+      "matches_seen": 4,
+      "status": "matched",
+      "match_method": "exact_name_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "M15 Nyiregyhaza",
+        "normalized_name": "15 nyiregyhaza",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 155
+        },
+        "matches": 155,
+        "year_counts": {
+          "2023": 31,
+          "2024": 62,
+          "2025": 62
+        },
+        "latest_date": "2025-06-16"
+      },
+      "needs_review": false
+    },
+    "7261": {
+      "name": "M25 Martos",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "hard",
+      "matches_seen": 4,
+      "status": "matched",
+      "match_method": "exact_name_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "M25 Martos",
+        "normalized_name": "25 martos",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 93
+        },
+        "matches": 93,
+        "year_counts": {
+          "2023": 31,
+          "2024": 31,
+          "2025": 31
+        },
+        "latest_date": "2025-06-09"
+      },
+      "needs_review": false
+    },
+    "12645": {
+      "name": "M15 Kayseri 4",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "hard",
+      "matches_seen": 3,
+      "status": "matched",
+      "match_method": "exact_tokens_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "M15 Kayseri",
+        "normalized_name": "15 kayseri",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 461
+        },
+        "matches": 461,
+        "year_counts": {
+          "2024": 93,
+          "2025": 276,
+          "2026": 92
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": false
+    },
+    "4195": {
+      "name": "M25 Wichita, KS",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "hard",
+      "matches_seen": 3,
+      "status": "matched",
+      "match_method": "exact_name_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "M25 Wichita KS",
+        "normalized_name": "25 wichita ks",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 61
+        },
+        "matches": 61,
+        "year_counts": {
+          "2024": 31,
+          "2025": 30
+        },
+        "latest_date": "2025-06-09"
+      },
+      "needs_review": false
+    },
+    "7372": {
+      "name": "W15 Los Angeles, CA",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "hard",
+      "matches_seen": 3,
+      "status": "matched",
+      "match_method": "exact_name_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "W15 Los Angeles CA",
+        "normalized_name": "15 los angeles ca",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 140
+        },
+        "matches": 140,
+        "year_counts": {
+          "2023": 54,
+          "2024": 55,
+          "2025": 31
+        },
+        "latest_date": "2025-06-30"
+      },
+      "needs_review": false
+    },
+    "12582": {
+      "name": "W50 Guimaraes",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "hard",
+      "matches_seen": 3,
+      "status": "matched",
+      "match_method": "exact_name_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "W50 Guimaraes",
+        "normalized_name": "50 guimaraes",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 31
+        },
+        "matches": 31,
+        "year_counts": {
+          "2025": 31
+        },
+        "latest_date": "2025-06-09"
+      },
+      "needs_review": false
+    },
+    "7368": {
+      "name": "M15 Los Angeles, CA",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "hard",
+      "matches_seen": 2,
+      "status": "matched",
+      "match_method": "exact_name_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "M15 Los Angeles CA",
+        "normalized_name": "15 los angeles ca",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 62
+        },
+        "matches": 62,
+        "year_counts": {
+          "2024": 31,
+          "2025": 31
+        },
+        "latest_date": "2025-06-30"
+      },
+      "needs_review": false
+    },
+    "4114": {
+      "name": "M25 Kiseljak",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "clay",
+      "matches_seen": 1,
+      "status": "matched",
+      "match_method": "exact_name_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "M25 Kiseljak",
+        "normalized_name": "25 kiseljak",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 93
+        },
+        "matches": 93,
+        "year_counts": {
+          "2023": 31,
+          "2024": 31,
+          "2025": 31
+        },
+        "latest_date": "2025-06-09"
+      },
+      "needs_review": false
+    },
+    "12629": {
+      "name": "W35 Decatur, IL",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "hard",
+      "matches_seen": 1,
+      "status": "matched",
+      "match_method": "exact_name_gender_level",
+      "confidence": 1.0,
+      "matched_sackmann": {
+        "name": "W35 Decatur IL",
+        "normalized_name": "35 decatur il",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 31
+        },
+        "matches": 31,
+        "year_counts": {
+          "2025": 31
+        },
+        "latest_date": "2025-06-09"
+      },
+      "needs_review": false
+    },
+    "9660": {
+      "name": "Tyler",
+      "event_type": "Challenger Men Singles",
+      "gender": "men",
+      "tour_level": "challenger",
+      "surface": "unknown",
+      "matches_seen": 49,
+      "status": "review",
+      "match_method": "fuzzy_name_gender_level",
+      "confidence": 0.675,
+      "matched_sackmann": {
+        "name": "Tyler CH",
+        "normalized_name": "tyler ch",
+        "gender": "men",
+        "tour_level": "challenger",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 195
+        },
+        "matches": 195,
+        "year_counts": {
+          "2023": 49,
+          "2024": 49,
+          "2025": 48,
+          "2026": 49
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": true
+    },
+    "12548": {
+      "name": "Birmingham",
+      "event_type": "Challenger Women Singles",
+      "gender": "women",
+      "tour_level": "challenger",
+      "surface": "unknown",
+      "matches_seen": 48,
+      "status": "unmatched",
+      "match_method": "no_candidates",
+      "confidence": 0.0,
+      "matched_sackmann": null,
+      "needs_review": true
+    },
+    "12554": {
+      "name": "Birmingham",
+      "event_type": "Challenger Men Singles",
+      "gender": "men",
+      "tour_level": "challenger",
+      "surface": "unknown",
+      "matches_seen": 48,
+      "status": "review",
+      "match_method": "fuzzy_name_gender_level",
+      "confidence": 0.740217,
+      "matched_sackmann": {
+        "name": "Birmingham CH",
+        "normalized_name": "birmingham ch",
+        "gender": "men",
+        "tour_level": "challenger",
+        "surface": "grass",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "grass": 96
+        },
+        "matches": 96,
+        "year_counts": {
+          "2025": 49,
+          "2026": 47
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": true
+    },
+    "13938": {
+      "name": "Centurion 2 (South Africa) - Qualification",
+      "event_type": "Challenger Men Singles",
+      "gender": "men",
+      "tour_level": "qualifying",
+      "surface": "unknown",
+      "matches_seen": 48,
+      "status": "review",
+      "match_method": "fuzzy_name_gender_level",
+      "confidence": 0.532237,
+      "matched_sackmann": {
+        "name": "Centurion 2 CH",
+        "normalized_name": "centurion 2 ch",
+        "gender": "men",
+        "tour_level": "challenger",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 49
+        },
+        "matches": 49,
+        "year_counts": {
+          "2026": 49
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": true
+    },
+    "2648": {
+      "name": "Heilbronn",
+      "event_type": "Challenger Men Singles",
+      "gender": "men",
+      "tour_level": "challenger",
+      "surface": "unknown",
+      "matches_seen": 47,
+      "status": "review",
+      "match_method": "fuzzy_name_gender_level",
+      "confidence": 0.732143,
+      "matched_sackmann": {
+        "name": "Heilbronn CH",
+        "normalized_name": "heilbronn ch",
+        "gender": "men",
+        "tour_level": "challenger",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 191
+        },
+        "matches": 191,
+        "year_counts": {
+          "2023": 48,
+          "2024": 49,
+          "2025": 48,
+          "2026": 46
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": true
+    },
+    "2518": {
+      "name": "Perugia",
+      "event_type": "Challenger Men Singles",
+      "gender": "men",
+      "tour_level": "challenger",
+      "surface": "unknown",
+      "matches_seen": 47,
+      "status": "review",
+      "match_method": "fuzzy_name_gender_level",
+      "confidence": 0.710294,
+      "matched_sackmann": {
+        "name": "Perugia CH",
+        "normalized_name": "perugia ch",
+        "gender": "men",
+        "tour_level": "challenger",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 190
+        },
+        "matches": 190,
+        "year_counts": {
+          "2023": 47,
+          "2024": 49,
+          "2025": 48,
+          "2026": 46
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": true
+    },
+    "2591": {
+      "name": "Prostejov",
+      "event_type": "Challenger Men Singles",
+      "gender": "men",
+      "tour_level": "challenger",
+      "surface": "unknown",
+      "matches_seen": 47,
+      "status": "review",
+      "match_method": "fuzzy_name_gender_level",
+      "confidence": 0.732143,
+      "matched_sackmann": {
+        "name": "Prostejov CH",
+        "normalized_name": "prostejov ch",
+        "gender": "men",
+        "tour_level": "challenger",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 195
+        },
+        "matches": 195,
+        "year_counts": {
+          "2023": 49,
+          "2024": 49,
+          "2025": 49,
+          "2026": 48
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": true
+    },
+    "7149": {
+      "name": "Makarska",
+      "event_type": "Challenger Women Singles",
+      "gender": "women",
+      "tour_level": "challenger",
+      "surface": "unknown",
+      "matches_seen": 35,
+      "status": "unmatched",
+      "match_method": "no_candidates",
+      "confidence": 0.0,
+      "matched_sackmann": null,
+      "needs_review": true
+    },
+    "13939": {
+      "name": "Foggia (Italy)",
+      "event_type": "Challenger Women Singles",
+      "gender": "women",
+      "tour_level": "challenger",
+      "surface": "unknown",
+      "matches_seen": 34,
+      "status": "unmatched",
+      "match_method": "no_candidates",
+      "confidence": 0.0,
+      "matched_sackmann": null,
+      "needs_review": true
+    },
+    "4184": {
+      "name": "W15 Monastir 16",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "unknown",
+      "matches_seen": 31,
+      "status": "review",
+      "match_method": "fuzzy_name_gender_level",
+      "confidence": 0.805333,
+      "matched_sackmann": {
+        "name": "W15 Monastir",
+        "normalized_name": "15 monastir",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 7305
+        },
+        "matches": 7305,
+        "year_counts": {
+          "2023": 2615,
+          "2024": 2973,
+          "2025": 1254,
+          "2026": 463
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": true
+    },
+    "13943": {
+      "name": "W15 Ontinyent (Spain)",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "unknown",
+      "matches_seen": 31,
+      "status": "review",
+      "match_method": "fuzzy_name_gender_level",
+      "confidence": 0.753333,
+      "matched_sackmann": {
+        "name": "W15 Ontinyent",
+        "normalized_name": "15 ontinyent",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 30
+        },
+        "matches": 30,
+        "year_counts": {
+          "2026": 30
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": true
+    },
+    "13928": {
+      "name": "W75 Zaragoza (Spain)",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "unknown",
+      "matches_seen": 31,
+      "status": "review",
+      "match_method": "fuzzy_name_gender_level",
+      "confidence": 0.744048,
+      "matched_sackmann": {
+        "name": "W75 Zaragoza",
+        "normalized_name": "75 zaragoza",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 31
+        },
+        "matches": 31,
+        "year_counts": {
+          "2026": 31
+        },
+        "latest_date": "2026-05-25"
+      },
+      "needs_review": true
+    },
+    "13942": {
+      "name": "M15 Rosbach (Germany)",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "unknown",
+      "matches_seen": 30,
+      "status": "review",
+      "match_method": "fuzzy_name_gender_level",
+      "confidence": 0.697619,
+      "matched_sackmann": {
+        "name": "M15 Rosbach",
+        "normalized_name": "15 rosbach",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 30
+        },
+        "matches": 30,
+        "year_counts": {
+          "2026": 30
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": true
+    },
+    "13952": {
+      "name": "M25 Bistrita (Romania)",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "unknown",
+      "matches_seen": 30,
+      "status": "review",
+      "match_method": "fuzzy_name_gender_level",
+      "confidence": 0.71,
+      "matched_sackmann": {
+        "name": "M25 Bistrita",
+        "normalized_name": "25 bistrita",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 31
+        },
+        "matches": 31,
+        "year_counts": {
+          "2026": 31
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": true
+    },
+    "13941": {
+      "name": "M25 Caltanissetta (Italy)",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "unknown",
+      "matches_seen": 30,
+      "status": "review",
+      "match_method": "fuzzy_name_gender_level",
+      "confidence": 0.780702,
+      "matched_sackmann": {
+        "name": "M25 Caltanissetta",
+        "normalized_name": "25 caltanissetta",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 31
+        },
+        "matches": 31,
+        "year_counts": {
+          "2026": 31
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": true
+    },
+    "13947": {
+      "name": "W100 Sumter",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "unknown",
+      "matches_seen": 30,
+      "status": "review",
+      "match_method": "fuzzy_name_gender_level",
+      "confidence": 0.798551,
+      "matched_sackmann": {
+        "name": "W100 Sumter SC",
+        "normalized_name": "100 sumter sc",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 31
+        },
+        "matches": 31,
+        "year_counts": {
+          "2026": 31
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": true
+    },
+    "13948": {
+      "name": "W15 Brasilia (Brazil)",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "unknown",
+      "matches_seen": 30,
+      "status": "review",
+      "match_method": "fuzzy_name_gender_level",
+      "confidence": 0.726437,
+      "matched_sackmann": {
+        "name": "W15 Brasilia",
+        "normalized_name": "15 brasilia",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 31
+        },
+        "matches": 31,
+        "year_counts": {
+          "2026": 31
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": true
+    },
+    "4877": {
+      "name": "M15 Monastir 21",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "unknown",
+      "matches_seen": 29,
+      "status": "review",
+      "match_method": "fuzzy_name_gender_level",
+      "confidence": 0.805333,
+      "matched_sackmann": {
+        "name": "M15 Monastir",
+        "normalized_name": "15 monastir",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 4884
+        },
+        "matches": 4884,
+        "year_counts": {
+          "2023": 1604,
+          "2024": 1482,
+          "2025": 1278,
+          "2026": 520
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": true
+    },
+    "13918": {
+      "name": "M15 Kranjska Gora (Slovenia)",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "unknown",
+      "matches_seen": 28,
+      "status": "review",
+      "match_method": "fuzzy_name_gender_level",
+      "confidence": 0.769817,
+      "matched_sackmann": {
+        "name": "M15 Kranjska Gora",
+        "normalized_name": "15 kranjska gora",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 31
+        },
+        "matches": 31,
+        "year_counts": {
+          "2026": 31
+        },
+        "latest_date": "2026-05-25"
+      },
+      "needs_review": true
+    },
+    "13921": {
+      "name": "W15 Oliva (Spain)",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "unknown",
+      "matches_seen": 28,
+      "status": "review",
+      "match_method": "fuzzy_name_gender_level",
+      "confidence": 0.706061,
+      "matched_sackmann": {
+        "name": "W15 Oliva",
+        "normalized_name": "15 oliva",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 31
+        },
+        "matches": 31,
+        "year_counts": {
+          "2026": 31
+        },
+        "latest_date": "2026-05-25"
+      },
+      "needs_review": true
+    },
+    "4876": {
+      "name": "M15 Monastir 20",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "unknown",
+      "matches_seen": 27,
+      "status": "review",
+      "match_method": "fuzzy_name_gender_level",
+      "confidence": 0.805333,
+      "matched_sackmann": {
+        "name": "M15 Monastir",
+        "normalized_name": "15 monastir",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 4884
+        },
+        "matches": 4884,
+        "year_counts": {
+          "2023": 1604,
+          "2024": 1482,
+          "2025": 1278,
+          "2026": 520
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": true
+    },
+    "13919": {
+      "name": "M25 Grado (Italy)",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "unknown",
+      "matches_seen": 27,
+      "status": "review",
+      "match_method": "fuzzy_name_gender_level",
+      "confidence": 0.706061,
+      "matched_sackmann": {
+        "name": "M25 Grado",
+        "normalized_name": "25 grado",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 31
+        },
+        "matches": 31,
+        "year_counts": {
+          "2026": 31
+        },
+        "latest_date": "2026-05-25"
+      },
+      "needs_review": true
+    },
+    "13916": {
+      "name": "W35 Wuning 2 (China)",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "unknown",
+      "matches_seen": 25,
+      "status": "review",
+      "match_method": "fuzzy_name_gender_level",
+      "confidence": 0.683333,
+      "matched_sackmann": {
+        "name": "W35 Wuning",
+        "normalized_name": "35 wuning",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 62
+        },
+        "matches": 62,
+        "year_counts": {
+          "2026": 62
+        },
+        "latest_date": "2026-05-25"
+      },
+      "needs_review": true
+    },
+    "13920": {
+      "name": "M25 Troisdorf (Germany)",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "unknown",
+      "matches_seen": 24,
+      "status": "review",
+      "match_method": "fuzzy_name_gender_level",
+      "confidence": 0.720833,
+      "matched_sackmann": {
+        "name": "M25 Troisdorf",
+        "normalized_name": "25 troisdorf",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 30
+        },
+        "matches": 30,
+        "year_counts": {
+          "2026": 30
+        },
+        "latest_date": "2026-05-25"
+      },
+      "needs_review": true
+    },
+    "13922": {
+      "name": "W15 Szentendre (Hungary)",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "unknown",
+      "matches_seen": 22,
+      "status": "review",
+      "match_method": "fuzzy_name_gender_level",
+      "confidence": 0.730392,
+      "matched_sackmann": {
+        "name": "W15 Szentendre",
+        "normalized_name": "15 szentendre",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 31
+        },
+        "matches": 31,
+        "year_counts": {
+          "2026": 31
+        },
+        "latest_date": "2026-05-25"
+      },
+      "needs_review": true
+    },
+    "13914": {
+      "name": "M15 Kutaisi (Georgia)",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "unknown",
+      "matches_seen": 21,
+      "status": "review",
+      "match_method": "fuzzy_name_gender_level",
+      "confidence": 0.697619,
+      "matched_sackmann": {
+        "name": "M15 Kutaisi",
+        "normalized_name": "15 kutaisi",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 29
+        },
+        "matches": 29,
+        "year_counts": {
+          "2026": 29
+        },
+        "latest_date": "2026-05-25"
+      },
+      "needs_review": true
+    },
+    "3130": {
+      "name": "Little Rock",
+      "event_type": "Challenger Men Singles",
+      "gender": "men",
+      "tour_level": "challenger",
+      "surface": "unknown",
+      "matches_seen": 16,
+      "status": "review",
+      "match_method": "fuzzy_name_gender_level",
+      "confidence": 0.805333,
+      "matched_sackmann": {
+        "name": "Little Rock CH",
+        "normalized_name": "little rock ch",
+        "gender": "men",
+        "tour_level": "challenger",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 193
+        },
+        "matches": 193,
+        "year_counts": {
+          "2023": 48,
+          "2024": 47,
+          "2025": 49,
+          "2026": 49
+        },
+        "latest_date": "2026-05-25"
+      },
+      "needs_review": true
+    },
+    "13913": {
+      "name": "Centurion (South Africa) - Qualification",
+      "event_type": "Challenger Men Singles",
+      "gender": "men",
+      "tour_level": "qualifying",
+      "surface": "unknown",
+      "matches_seen": 15,
+      "status": "review",
+      "match_method": "fuzzy_name_gender_level",
+      "confidence": 0.484722,
+      "matched_sackmann": {
+        "name": "Centurion 2 CH",
+        "normalized_name": "centurion 2 ch",
+        "gender": "men",
+        "tour_level": "challenger",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 49
+        },
+        "matches": 49,
+        "year_counts": {
+          "2026": 49
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": true
+    },
+    "2542": {
+      "name": "Vicenza",
+      "event_type": "Challenger Men Singles",
+      "gender": "men",
+      "tour_level": "challenger",
+      "surface": "unknown",
+      "matches_seen": 15,
+      "status": "review",
+      "match_method": "fuzzy_name_gender_level",
+      "confidence": 0.710294,
+      "matched_sackmann": {
+        "name": "Vicenza CH",
+        "normalized_name": "vicenza ch",
+        "gender": "men",
+        "tour_level": "challenger",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 191
+        },
+        "matches": 191,
+        "year_counts": {
+          "2023": 49,
+          "2024": 47,
+          "2025": 48,
+          "2026": 47
+        },
+        "latest_date": "2026-05-25"
+      },
+      "needs_review": true
+    },
+    "12527": {
+      "name": "Chisinau",
+      "event_type": "Challenger Men Singles",
+      "gender": "men",
+      "tour_level": "challenger",
+      "surface": "unknown",
+      "matches_seen": 14,
+      "status": "review",
+      "match_method": "fuzzy_name_gender_level",
+      "confidence": 0.622368,
+      "matched_sackmann": {
+        "name": "Chisinau CH",
+        "normalized_name": "chisinau ch",
+        "gender": "men",
+        "tour_level": "challenger",
+        "surface": "hard",
+        "surface_share": 0.515789,
+        "surface_counts": {
+          "hard": 49,
+          "clay": 46
+        },
+        "matches": 95,
+        "year_counts": {
+          "2025": 49,
+          "2026": 46
+        },
+        "latest_date": "2026-05-25"
+      },
+      "needs_review": true
+    },
+    "2569": {
+      "name": "Kosice",
+      "event_type": "Challenger Men Singles",
+      "gender": "men",
+      "tour_level": "challenger",
+      "surface": "unknown",
+      "matches_seen": 14,
+      "status": "review",
+      "match_method": "fuzzy_name_gender_level",
+      "confidence": 0.695,
+      "matched_sackmann": {
+        "name": "Kosice CH",
+        "normalized_name": "kosice ch",
+        "gender": "men",
+        "tour_level": "challenger",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 46
+        },
+        "matches": 46,
+        "year_counts": {
+          "2026": 46
+        },
+        "latest_date": "2026-05-25"
+      },
+      "needs_review": true
+    },
+    "4908": {
+      "name": "M15 Brasilia",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "unknown",
+      "matches_seen": 8,
+      "status": "review",
+      "match_method": "fuzzy_name_gender_level",
+      "confidence": 0.622222,
+      "matched_sackmann": {
+        "name": "M15 Bali",
+        "normalized_name": "15 bali",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 124
+        },
+        "matches": 124,
+        "year_counts": {
+          "2024": 93,
+          "2025": 31
+        },
+        "latest_date": "2025-07-28"
+      },
+      "needs_review": true
+    },
+    "13967": {
+      "name": "W50 Hurghada (Egypt)",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "unknown",
+      "matches_seen": 8,
+      "status": "review",
+      "match_method": "fuzzy_name_gender_level",
+      "confidence": 0.551786,
+      "matched_sackmann": {
+        "name": "W15 Hurghada",
+        "normalized_name": "15 hurghada",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 248
+        },
+        "matches": 248,
+        "year_counts": {
+          "2025": 93,
+          "2026": 155
+        },
+        "latest_date": "2026-05-18"
+      },
+      "needs_review": true
+    },
+    "13962": {
+      "name": "W100 Wuning (China)",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "unknown",
+      "matches_seen": 6,
+      "status": "review",
+      "match_method": "fuzzy_name_gender_level",
+      "confidence": 0.520833,
+      "matched_sackmann": {
+        "name": "W100 Incheon",
+        "normalized_name": "100 incheon",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 86
+        },
+        "matches": 86,
+        "year_counts": {
+          "2024": 55,
+          "2025": 31
+        },
+        "latest_date": "2025-09-22"
+      },
+      "needs_review": true
+    },
+    "13964": {
+      "name": "W100 Zagreb (Croatia)",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "unknown",
+      "matches_seen": 6,
+      "status": "review",
+      "match_method": "fuzzy_name_gender_level",
+      "confidence": 0.490588,
+      "matched_sackmann": {
+        "name": "W100 Gran Canaria",
+        "normalized_name": "100 gran canaria",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 51
+        },
+        "matches": 51,
+        "year_counts": {
+          "2024": 51
+        },
+        "latest_date": "2024-07-29"
+      },
+      "needs_review": true
+    },
+    "13965": {
+      "name": "W35 Nice + H (France)",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "unknown",
+      "matches_seen": 4,
+      "status": "review",
+      "match_method": "fuzzy_name_gender_level",
+      "confidence": 0.4515,
+      "matched_sackmann": {
+        "name": "W35 Naiman",
+        "normalized_name": "35 naiman",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 59
+        },
+        "matches": 59,
+        "year_counts": {
+          "2024": 59
+        },
+        "latest_date": "2024-07-22"
+      },
+      "needs_review": true
+    },
+    "13966": {
+      "name": "W35 San Gregorio 3 (Italy)",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "unknown",
+      "matches_seen": 4,
+      "status": "review",
+      "match_method": "fuzzy_name_gender_level",
+      "confidence": 0.775658,
+      "matched_sackmann": {
+        "name": "W35 San Gregorio",
+        "normalized_name": "35 san gregorio",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "clay",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "clay": 62
+        },
+        "matches": 62,
+        "year_counts": {
+          "2026": 62
+        },
+        "latest_date": "2026-03-23"
+      },
+      "needs_review": true
+    },
+    "4058": {
+      "name": "W15 Monastir 17",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "unknown",
+      "matches_seen": 3,
+      "status": "review",
+      "match_method": "fuzzy_name_gender_level",
+      "confidence": 0.805333,
+      "matched_sackmann": {
+        "name": "W15 Monastir",
+        "normalized_name": "15 monastir",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 7305
+        },
+        "matches": 7305,
+        "year_counts": {
+          "2023": 2615,
+          "2024": 2973,
+          "2025": 1254,
+          "2026": 463
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": true
+    },
+    "4878": {
+      "name": "M15 Monastir 22",
+      "event_type": "Itf Men Singles",
+      "gender": "men",
+      "tour_level": "itf",
+      "surface": "unknown",
+      "matches_seen": 1,
+      "status": "review",
+      "match_method": "fuzzy_name_gender_level",
+      "confidence": 0.805333,
+      "matched_sackmann": {
+        "name": "M15 Monastir",
+        "normalized_name": "15 monastir",
+        "gender": "men",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 1.0,
+        "surface_counts": {
+          "hard": 4884
+        },
+        "matches": 4884,
+        "year_counts": {
+          "2023": 1604,
+          "2024": 1482,
+          "2025": 1278,
+          "2026": 520
+        },
+        "latest_date": "2026-06-01"
+      },
+      "needs_review": true
+    },
+    "1932": {
+      "name": "W15 Madrid 2",
+      "event_type": "Itf Women Singles",
+      "gender": "women",
+      "tour_level": "itf",
+      "surface": "unknown",
+      "matches_seen": 1,
+      "status": "review",
+      "match_method": "exact_tokens_gender_level",
+      "confidence": 0.935,
+      "matched_sackmann": {
+        "name": "W15 Madrid",
+        "normalized_name": "15 madrid",
+        "gender": "women",
+        "tour_level": "itf",
+        "surface": "hard",
+        "surface_share": 0.608696,
+        "surface_counts": {
+          "hard": 182,
+          "clay": 117
+        },
+        "matches": 299,
+        "year_counts": {
+          "2024": 237,
+          "2025": 31,
+          "2026": 31
+        },
+        "latest_date": "2026-04-27"
+      },
+      "needs_review": true
+    }
+  }
+}
