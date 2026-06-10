@@ -1,0 +1,1666 @@
+{
+  "generated_at": "2026-06-10T17:58:16+00:00",
+  "summary": {
+    "input_matches": 2680,
+    "skipped_not_after_latest_sackmann": 1361,
+    "imported": 1138,
+    "imported_unknown_surface_overall_only": 262,
+    "skipped_not_ready": 181,
+    "latest_sackmann_date": "2026-06-02",
+    "year_files": [
+      {
+        "year": 2026,
+        "path": "data/tle/source/api/tle_api_matches_2026.jsonl.gz",
+        "matches": 1138,
+        "created_at": "2026-06-10T17:58:16+00:00"
+      }
+    ],
+    "levels": {
+      "atp_wta": 8,
+      "itf": 825,
+      "qualifying": 305
+    },
+    "surfaces": {
+      "clay": 479,
+      "grass": 150,
+      "hard": 247,
+      "unknown": 262
+    },
+    "genders": {
+      "men": 596,
+      "women": 542
+    }
+  },
+  "skipped_sample": [
+    {
+      "event_key": 12132687,
+      "date": "2026-06-03",
+      "tournament": "French Open",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "gender_unknown"
+      ]
+    },
+    {
+      "event_key": 12132688,
+      "date": "2026-06-03",
+      "tournament": "French Open",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "gender_unknown"
+      ]
+    },
+    {
+      "event_key": 12132911,
+      "date": "2026-06-03",
+      "tournament": "Makarska",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12132913,
+      "date": "2026-06-03",
+      "tournament": "Makarska",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133089,
+      "date": "2026-06-03",
+      "tournament": "French Open",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "gender_unknown"
+      ]
+    },
+    {
+      "event_key": 12133090,
+      "date": "2026-06-03",
+      "tournament": "French Open",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "gender_unknown"
+      ]
+    },
+    {
+      "event_key": 12133091,
+      "date": "2026-06-03",
+      "tournament": "French Open",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "gender_unknown"
+      ]
+    },
+    {
+      "event_key": 12133094,
+      "date": "2026-06-03",
+      "tournament": "French Open",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "gender_unknown"
+      ]
+    },
+    {
+      "event_key": 12133337,
+      "date": "2026-06-03",
+      "tournament": "French Open",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "gender_unknown"
+      ]
+    },
+    {
+      "event_key": 12133049,
+      "date": "2026-06-03",
+      "tournament": "Prostejov",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12132711,
+      "date": "2026-06-03",
+      "tournament": "Heilbronn",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12132908,
+      "date": "2026-06-03",
+      "tournament": "Heilbronn",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133083,
+      "date": "2026-06-03",
+      "tournament": "French Open",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "gender_unknown"
+      ]
+    },
+    {
+      "event_key": 12132685,
+      "date": "2026-06-03",
+      "tournament": "French Open",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "gender_unknown"
+      ]
+    },
+    {
+      "event_key": 12132686,
+      "date": "2026-06-03",
+      "tournament": "French Open",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "gender_unknown"
+      ]
+    },
+    {
+      "event_key": 12133093,
+      "date": "2026-06-03",
+      "tournament": "French Open",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "gender_unknown"
+      ]
+    },
+    {
+      "event_key": 12133048,
+      "date": "2026-06-03",
+      "tournament": "Prostejov",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12132719,
+      "date": "2026-06-03",
+      "tournament": "Foggia (Italy)",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133085,
+      "date": "2026-06-03",
+      "tournament": "French Open",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "gender_unknown"
+      ]
+    },
+    {
+      "event_key": 12133077,
+      "date": "2026-06-03",
+      "tournament": "Heilbronn",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12132683,
+      "date": "2026-06-03",
+      "tournament": "French Open",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "gender_unknown"
+      ]
+    },
+    {
+      "event_key": 12132720,
+      "date": "2026-06-03",
+      "tournament": "Foggia (Italy)",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133092,
+      "date": "2026-06-03",
+      "tournament": "French Open",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "gender_unknown"
+      ]
+    },
+    {
+      "event_key": 12132529,
+      "date": "2026-06-03",
+      "tournament": "Birmingham",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12132546,
+      "date": "2026-06-03",
+      "tournament": "Birmingham",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12132751,
+      "date": "2026-06-03",
+      "tournament": "Birmingham",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12132753,
+      "date": "2026-06-03",
+      "tournament": "Birmingham",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12132565,
+      "date": "2026-06-03",
+      "tournament": "Birmingham",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12132317,
+      "date": "2026-06-03",
+      "tournament": "Birmingham",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133098,
+      "date": "2026-06-03",
+      "tournament": "Perugia",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133102,
+      "date": "2026-06-03",
+      "tournament": "Prostejov",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12132684,
+      "date": "2026-06-03",
+      "tournament": "French Open",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "gender_unknown"
+      ]
+    },
+    {
+      "event_key": 12132752,
+      "date": "2026-06-03",
+      "tournament": "Birmingham",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12132437,
+      "date": "2026-06-03",
+      "tournament": "Tyler",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12132443,
+      "date": "2026-06-03",
+      "tournament": "Tyler",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133101,
+      "date": "2026-06-03",
+      "tournament": "Prostejov",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133084,
+      "date": "2026-06-03",
+      "tournament": "French Open",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "gender_unknown"
+      ]
+    },
+    {
+      "event_key": 12133250,
+      "date": "2026-06-03",
+      "tournament": "Foggia (Italy)",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12132325,
+      "date": "2026-06-03",
+      "tournament": "Birmingham",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12132441,
+      "date": "2026-06-03",
+      "tournament": "Tyler",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12132436,
+      "date": "2026-06-03",
+      "tournament": "Tyler",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12132439,
+      "date": "2026-06-03",
+      "tournament": "Tyler",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133045,
+      "date": "2026-06-03",
+      "tournament": "Heilbronn",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133047,
+      "date": "2026-06-03",
+      "tournament": "Perugia",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12132444,
+      "date": "2026-06-03",
+      "tournament": "Tyler",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12132442,
+      "date": "2026-06-03",
+      "tournament": "Tyler",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133272,
+      "date": "2026-06-03",
+      "tournament": "Foggia (Italy)",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12132440,
+      "date": "2026-06-03",
+      "tournament": "Tyler",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133506,
+      "date": "2026-06-03",
+      "tournament": "Tyler",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133507,
+      "date": "2026-06-03",
+      "tournament": "Tyler",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133505,
+      "date": "2026-06-03",
+      "tournament": "Tyler",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133097,
+      "date": "2026-06-03",
+      "tournament": "Perugia",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133508,
+      "date": "2026-06-03",
+      "tournament": "Tyler",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133510,
+      "date": "2026-06-03",
+      "tournament": "Tyler",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133509,
+      "date": "2026-06-04",
+      "tournament": "Tyler",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133511,
+      "date": "2026-06-04",
+      "tournament": "Tyler",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133483,
+      "date": "2026-06-04",
+      "tournament": "French Open",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "gender_unknown"
+      ]
+    },
+    {
+      "event_key": 12133497,
+      "date": "2026-06-04",
+      "tournament": "French Open",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "gender_unknown"
+      ]
+    },
+    {
+      "event_key": 12133499,
+      "date": "2026-06-04",
+      "tournament": "French Open",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "gender_unknown"
+      ]
+    },
+    {
+      "event_key": 12133099,
+      "date": "2026-06-04",
+      "tournament": "Prostejov",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133145,
+      "date": "2026-06-04",
+      "tournament": "Makarska",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133078,
+      "date": "2026-06-04",
+      "tournament": "Birmingham",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133593,
+      "date": "2026-06-04",
+      "tournament": "Birmingham",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12132910,
+      "date": "2026-06-04",
+      "tournament": "Makarska",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133592,
+      "date": "2026-06-04",
+      "tournament": "Birmingham",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133270,
+      "date": "2026-06-04",
+      "tournament": "Birmingham",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133343,
+      "date": "2026-06-04",
+      "tournament": "Heilbronn",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133105,
+      "date": "2026-06-04",
+      "tournament": "Heilbronn",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12132912,
+      "date": "2026-06-04",
+      "tournament": "Makarska",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133481,
+      "date": "2026-06-04",
+      "tournament": "French Open",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "gender_unknown"
+      ]
+    },
+    {
+      "event_key": 12132914,
+      "date": "2026-06-04",
+      "tournament": "Makarska",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133496,
+      "date": "2026-06-04",
+      "tournament": "French Open",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "gender_unknown"
+      ]
+    },
+    {
+      "event_key": 12133498,
+      "date": "2026-06-04",
+      "tournament": "French Open",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "gender_unknown"
+      ]
+    },
+    {
+      "event_key": 12132528,
+      "date": "2026-06-04",
+      "tournament": "Birmingham",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133590,
+      "date": "2026-06-04",
+      "tournament": "Birmingham",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133249,
+      "date": "2026-06-04",
+      "tournament": "Foggia (Italy)",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133480,
+      "date": "2026-06-04",
+      "tournament": "French Open",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "gender_unknown"
+      ]
+    },
+    {
+      "event_key": 12133800,
+      "date": "2026-06-04",
+      "tournament": "Makarska",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133146,
+      "date": "2026-06-04",
+      "tournament": "Makarska",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133495,
+      "date": "2026-06-04",
+      "tournament": "French Open",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "gender_unknown"
+      ]
+    },
+    {
+      "event_key": 12133233,
+      "date": "2026-06-04",
+      "tournament": "Birmingham",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133269,
+      "date": "2026-06-04",
+      "tournament": "Birmingham",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133346,
+      "date": "2026-06-04",
+      "tournament": "Prostejov",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133096,
+      "date": "2026-06-04",
+      "tournament": "Perugia",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133588,
+      "date": "2026-06-04",
+      "tournament": "Birmingham",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133103,
+      "date": "2026-06-04",
+      "tournament": "Heilbronn",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133271,
+      "date": "2026-06-04",
+      "tournament": "Birmingham",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133231,
+      "date": "2026-06-04",
+      "tournament": "Birmingham",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133347,
+      "date": "2026-06-04",
+      "tournament": "Foggia (Italy)",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133589,
+      "date": "2026-06-04",
+      "tournament": "Birmingham",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133801,
+      "date": "2026-06-04",
+      "tournament": "Makarska",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133095,
+      "date": "2026-06-04",
+      "tournament": "Perugia",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133100,
+      "date": "2026-06-04",
+      "tournament": "Prostejov",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133144,
+      "date": "2026-06-04",
+      "tournament": "Makarska",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133104,
+      "date": "2026-06-04",
+      "tournament": "Heilbronn",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133143,
+      "date": "2026-06-04",
+      "tournament": "Makarska",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133832,
+      "date": "2026-06-04",
+      "tournament": "Birmingham",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133363,
+      "date": "2026-06-04",
+      "tournament": "Birmingham",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133234,
+      "date": "2026-06-04",
+      "tournament": "Birmingham",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133718,
+      "date": "2026-06-04",
+      "tournament": "Tyler",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133719,
+      "date": "2026-06-04",
+      "tournament": "Tyler",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133248,
+      "date": "2026-06-04",
+      "tournament": "Foggia (Italy)",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133841,
+      "date": "2026-06-04",
+      "tournament": "Makarska",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133361,
+      "date": "2026-06-04",
+      "tournament": "Makarska",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133364,
+      "date": "2026-06-04",
+      "tournament": "Perugia",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133442,
+      "date": "2026-06-04",
+      "tournament": "Makarska",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133345,
+      "date": "2026-06-04",
+      "tournament": "Prostejov",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133531,
+      "date": "2026-06-04",
+      "tournament": "Tyler",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133752,
+      "date": "2026-06-04",
+      "tournament": "Tyler",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133232,
+      "date": "2026-06-04",
+      "tournament": "Birmingham",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133845,
+      "date": "2026-06-04",
+      "tournament": "Makarska",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133793,
+      "date": "2026-06-04",
+      "tournament": "Makarska",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133602,
+      "date": "2026-06-04",
+      "tournament": "Foggia (Italy)",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133717,
+      "date": "2026-06-04",
+      "tournament": "Tyler",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133348,
+      "date": "2026-06-04",
+      "tournament": "Makarska",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133740,
+      "date": "2026-06-04",
+      "tournament": "Tyler",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133344,
+      "date": "2026-06-04",
+      "tournament": "Perugia",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133532,
+      "date": "2026-06-04",
+      "tournament": "Tyler",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133840,
+      "date": "2026-06-04",
+      "tournament": "Makarska",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133710,
+      "date": "2026-06-05",
+      "tournament": "Tyler",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133830,
+      "date": "2026-06-05",
+      "tournament": "French Open",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "gender_unknown"
+      ]
+    },
+    {
+      "event_key": 12133831,
+      "date": "2026-06-05",
+      "tournament": "French Open",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "gender_unknown"
+      ]
+    },
+    {
+      "event_key": 12133809,
+      "date": "2026-06-05",
+      "tournament": "Birmingham",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133810,
+      "date": "2026-06-05",
+      "tournament": "Birmingham",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133896,
+      "date": "2026-06-05",
+      "tournament": "Birmingham",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133690,
+      "date": "2026-06-05",
+      "tournament": "Heilbronn",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133863,
+      "date": "2026-06-05",
+      "tournament": "Prostejov",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133856,
+      "date": "2026-06-05",
+      "tournament": "French Open",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "gender_unknown"
+      ]
+    },
+    {
+      "event_key": 12133914,
+      "date": "2026-06-05",
+      "tournament": "Birmingham",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133897,
+      "date": "2026-06-05",
+      "tournament": "Birmingham",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133857,
+      "date": "2026-06-05",
+      "tournament": "French Open",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "gender_unknown"
+      ]
+    },
+    {
+      "event_key": 12133601,
+      "date": "2026-06-05",
+      "tournament": "Foggia (Italy)",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133727,
+      "date": "2026-06-05",
+      "tournament": "Perugia",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133917,
+      "date": "2026-06-05",
+      "tournament": "Prostejov",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133482,
+      "date": "2026-06-05",
+      "tournament": "Heilbronn",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133915,
+      "date": "2026-06-05",
+      "tournament": "Birmingham",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133899,
+      "date": "2026-06-05",
+      "tournament": "Birmingham",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133984,
+      "date": "2026-06-05",
+      "tournament": "Makarska",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12134002,
+      "date": "2026-06-05",
+      "tournament": "Makarska",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12134006,
+      "date": "2026-06-05",
+      "tournament": "Tyler",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12134007,
+      "date": "2026-06-05",
+      "tournament": "Tyler",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133904,
+      "date": "2026-06-05",
+      "tournament": "Foggia (Italy)",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12134001,
+      "date": "2026-06-05",
+      "tournament": "Perugia",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133513,
+      "date": "2026-06-05",
+      "tournament": "Prostejov",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133514,
+      "date": "2026-06-05",
+      "tournament": "Prostejov",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133865,
+      "date": "2026-06-05",
+      "tournament": "Heilbronn",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133864,
+      "date": "2026-06-05",
+      "tournament": "Heilbronn",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133919,
+      "date": "2026-06-05",
+      "tournament": "Makarska",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133712,
+      "date": "2026-06-05",
+      "tournament": "Foggia (Italy)",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133898,
+      "date": "2026-06-05",
+      "tournament": "Birmingham",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133766,
+      "date": "2026-06-05",
+      "tournament": "Perugia",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133985,
+      "date": "2026-06-05",
+      "tournament": "Makarska",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133992,
+      "date": "2026-06-05",
+      "tournament": "Foggia (Italy)",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133918,
+      "date": "2026-06-05",
+      "tournament": "Tyler",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12133916,
+      "date": "2026-06-05",
+      "tournament": "Perugia",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12134028,
+      "date": "2026-06-05",
+      "tournament": "Tyler",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12134075,
+      "date": "2026-06-06",
+      "tournament": "Prostejov",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12134076,
+      "date": "2026-06-06",
+      "tournament": "Heilbronn",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12134074,
+      "date": "2026-06-06",
+      "tournament": "Prostejov",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12134052,
+      "date": "2026-06-06",
+      "tournament": "French Open",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "gender_unknown"
+      ]
+    },
+    {
+      "event_key": 12134094,
+      "date": "2026-06-06",
+      "tournament": "Birmingham",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12134110,
+      "date": "2026-06-06",
+      "tournament": "Birmingham",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12134111,
+      "date": "2026-06-06",
+      "tournament": "Heilbronn",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12134068,
+      "date": "2026-06-06",
+      "tournament": "French Open",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "gender_unknown"
+      ]
+    },
+    {
+      "event_key": 12134113,
+      "date": "2026-06-06",
+      "tournament": "Makarska",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12134134,
+      "date": "2026-06-06",
+      "tournament": "Makarska",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12134112,
+      "date": "2026-06-06",
+      "tournament": "Foggia (Italy)",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12134072,
+      "date": "2026-06-06",
+      "tournament": "Perugia",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12134142,
+      "date": "2026-06-06",
+      "tournament": "Tyler",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12134160,
+      "date": "2026-06-06",
+      "tournament": "Tyler",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12134143,
+      "date": "2026-06-06",
+      "tournament": "Foggia (Italy)",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12134140,
+      "date": "2026-06-06",
+      "tournament": "Perugia",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12134308,
+      "date": "2026-06-07",
+      "tournament": "Prostejov",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12134043,
+      "date": "2026-06-07",
+      "tournament": "Birmingham",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12134095,
+      "date": "2026-06-07",
+      "tournament": "Birmingham",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12134316,
+      "date": "2026-06-07",
+      "tournament": "Birmingham",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12134509,
+      "date": "2026-06-07",
+      "tournament": "Birmingham",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12134372,
+      "date": "2026-06-07",
+      "tournament": "Foggia (Italy)",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12134441,
+      "date": "2026-06-07",
+      "tournament": "Tyler",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12134312,
+      "date": "2026-06-07",
+      "tournament": "Makarska",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    },
+    {
+      "event_key": 12134457,
+      "date": "2026-06-07",
+      "tournament": "Perugia",
+      "reason": "not_ready_for_tle",
+      "not_ready_reasons": [
+        "surface_unknown_required_for_level"
+      ]
+    }
+  ],
+  "skipped_count": 181
+}
