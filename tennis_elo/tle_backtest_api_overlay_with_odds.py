@@ -5,7 +5,7 @@ import json
 import math
 import statistics
 import urllib.request
-from collections import Counter, defaultdict
+from collections import Counter
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
@@ -14,20 +14,11 @@ from tennis_elo.config import ROOT_DIR
 
 
 DEFAULT_MODEL_BACKTEST = (
-    ROOT_DIR
-    / "data"
-    / "tle"
-    / "backtests"
-    / "tle_api_overlay_backtest.json"
+    ROOT_DIR / "data" / "tle" / "backtests" / "tle_api_overlay_backtest.json"
 )
 
 DEFAULT_ENRICHED = (
-    ROOT_DIR
-    / "data"
-    / "tle"
-    / "source"
-    / "api"
-    / "tle_api_results_backfill_enriched.json"
+    ROOT_DIR / "data" / "tle" / "source" / "api" / "tle_api_results_backfill_enriched.json"
 )
 
 DEFAULT_ODDS = (
@@ -36,19 +27,11 @@ DEFAULT_ODDS = (
 )
 
 DEFAULT_OUTPUT = (
-    ROOT_DIR
-    / "data"
-    / "tle"
-    / "backtests"
-    / "tle_api_overlay_odds_backtest.json"
+    ROOT_DIR / "data" / "tle" / "backtests" / "tle_api_overlay_odds_backtest.json"
 )
 
 DEFAULT_REPORT = (
-    ROOT_DIR
-    / "data"
-    / "tle"
-    / "reports"
-    / "tle_api_overlay_odds_backtest_report.json"
+    ROOT_DIR / "data" / "tle" / "reports" / "tle_api_overlay_odds_backtest_report.json"
 )
 
 
@@ -58,6 +41,10 @@ def now_iso() -> str:
 
 def clean(value: Any) -> str:
     return "" if value is None else str(value).strip()
+
+
+def normalized(value: Any) -> str:
+    return " ".join(clean(value).lower().replace("-", " ").split())
 
 
 def safe_float(value: Any) -> float | None:
@@ -103,11 +90,7 @@ def load_json(path_or_url: str | Path) -> dict[str, Any]:
 def event_key_from_tle_match_id(tle_match_id: Any) -> str:
     text = clean(tle_match_id)
     prefix = "api_tennis_"
-
-    if text.startswith(prefix):
-        return text[len(prefix):]
-
-    return text
+    return text[len(prefix):] if text.startswith(prefix) else text
 
 
 def build_enriched_index(path: str | Path) -> dict[str, dict[str, Any]]:
@@ -118,12 +101,9 @@ def build_enriched_index(path: str | Path) -> dict[str, dict[str, Any]]:
     for match in matches:
         if not isinstance(match, dict):
             continue
-
         event_key = clean(match.get("event_key"))
-        if not event_key:
-            continue
-
-        index[event_key] = match
+        if event_key:
+            index[event_key] = match
 
     return index
 
@@ -195,15 +175,12 @@ def side_pair_odds(
     home_odds, home_book = chosen_book_odds(market, "Home", bookmaker, fallback)
     away_odds, away_book = chosen_book_odds(market, "Away", bookmaker, fallback)
 
-    if home_odds is None or away_odds is None:
-        return None, None, None
+    if home_odds is not None and away_odds is not None:
+        if home_book == bookmaker and away_book == bookmaker:
+            return home_odds, away_odds, bookmaker
 
-    if home_book == bookmaker and away_book == bookmaker:
-        return home_odds, away_odds, bookmaker
-
-    # Äe eden od obeh nima izbrane stavnice, za par uporabimo isti fallback naÄin.
-    if fallback == "none":
-        return None, None, None
+        if fallback == "none":
+            return None, None, None
 
     def all_side_values(side: str) -> list[float]:
         side_odds = market.get(side) or {}
@@ -236,37 +213,93 @@ def devig_probs(home_odds: float, away_odds: float) -> tuple[float, float, float
     home_raw = 1.0 / home_odds
     away_raw = 1.0 / away_odds
     total = home_raw + away_raw
-
     return home_raw / total, away_raw / total, total - 1.0
+
+
+def opposite_api_side(side: str) -> str | None:
+    if side == "player_1":
+        return "player_2"
+    if side == "player_2":
+        return "player_1"
+    return None
+
+
+def api_side_to_odds_side(side: str) -> str | None:
+    if side == "player_1":
+        return "Home"
+    if side == "player_2":
+        return "Away"
+    return None
+
+
+def determine_actual_winner_side(
+    prediction: dict[str, Any],
+    enriched_match: dict[str, Any],
+    winner_side_mode: str,
+) -> tuple[str | None, str]:
+    """Return actual winner side in API fixture coordinates.
+
+    API-Tennis enriched data currently appears to have winner_side inverted
+    relative to player_1/player_2 for this backfill. This function therefore
+    supports explicit and auto modes.
+    """
+    actual_winner = normalized(prediction.get("actual_winner"))
+    player_1 = normalized(enriched_match.get("player_1"))
+    player_2 = normalized(enriched_match.get("player_2"))
+    enriched_side = clean(enriched_match.get("winner_side"))
+
+    if actual_winner and actual_winner == player_1:
+        return "player_1", "actual_name_matches_player_1"
+
+    if actual_winner and actual_winner == player_2:
+        return "player_2", "actual_name_matches_player_2"
+
+    if winner_side_mode == "enriched":
+        if enriched_side in {"player_1", "player_2"}:
+            return enriched_side, "enriched_winner_side"
+        return None, "missing_enriched_winner_side"
+
+    if winner_side_mode == "inverted":
+        inverted = opposite_api_side(enriched_side)
+        if inverted:
+            return inverted, "inverted_enriched_winner_side"
+        return None, "missing_enriched_winner_side"
+
+    # auto mode: when names do not match, use the inversion because audit
+    # showed enriched winner_side points to the opposite player on this data.
+    inverted = opposite_api_side(enriched_side)
+    if inverted:
+        return inverted, "auto_inverted_enriched_winner_side"
+
+    return None, "could_not_determine_actual_winner_side"
 
 
 def selection_side_from_prediction(
     prediction: dict[str, Any],
     enriched_match: dict[str, Any],
-) -> tuple[str | None, str | None]:
-    winner_side = clean(enriched_match.get("winner_side"))
-    if winner_side not in {"player_1", "player_2"}:
-        return None, "missing_winner_side"
+    winner_side_mode: str,
+) -> tuple[str | None, str | None, str | None]:
+    actual_side, method = determine_actual_winner_side(
+        prediction,
+        enriched_match,
+        winner_side_mode,
+    )
+    if actual_side is None:
+        return None, None, method
 
-    predicted_winner = clean(prediction.get("predicted_winner"))
-    actual_winner = clean(prediction.get("actual_winner"))
+    predicted_is_actual = bool(prediction.get("correct_pick"))
 
-    if not predicted_winner or not actual_winner:
-        return None, "missing_prediction_names"
+    selected_api_side = (
+        actual_side
+        if predicted_is_actual
+        else opposite_api_side(actual_side)
+    )
 
-    if predicted_winner == actual_winner:
-        selected_api_side = winner_side
-    else:
-        selected_api_side = "player_2" if winner_side == "player_1" else "player_1"
+    selected_odds_side = api_side_to_odds_side(selected_api_side or "")
+    if selected_odds_side is None:
+        return None, actual_side, "could_not_determine_selected_side"
 
-    # API-Tennis Home/Away market uses event first/second player convention.
-    if selected_api_side == "player_1":
-        return "Home", None
-
-    if selected_api_side == "player_2":
-        return "Away", None
-
-    return None, "unknown_selected_side"
+    return selected_odds_side, actual_side, method
 
 
 def summarize_bets(bets: list[dict[str, Any]]) -> dict[str, Any]:
@@ -315,7 +348,8 @@ def main() -> None:
     parser = argparse.ArgumentParser(
         description=(
             "ZdruÅ¾i model-only API overlay backtest z zgodovinskimi Home/Away "
-            "kvotami in izraÄuna EV/profit/ROI."
+            "kvotami in izraÄuna EV/profit/ROI. V2 popravi winner_side/odds-side "
+            "logiko po audit ugotovitvi."
         )
     )
 
@@ -329,6 +363,15 @@ def main() -> None:
         "--fallback",
         choices=["none", "median", "max", "min"],
         default="median",
+    )
+    parser.add_argument(
+        "--winner-side-mode",
+        choices=["auto", "enriched", "inverted"],
+        default="auto",
+        help=(
+            "auto najprej poskusi match po imenih, nato invertira enriched winner_side; "
+            "za ta backfill je audit pokazal, da je enriched winner_side obrnjen."
+        ),
     )
     parser.add_argument("--min-edge", type=float, default=0.03)
     parser.add_argument("--min-ev", type=float, default=0.0)
@@ -364,9 +407,17 @@ def main() -> None:
             counters["skipped_missing_home_away_odds"] += 1
             continue
 
-        selected_side, side_reason = selection_side_from_prediction(prediction, enriched)
+        selected_side, actual_winner_api_side, side_method = (
+            selection_side_from_prediction(
+                prediction,
+                enriched,
+                args.winner_side_mode,
+            )
+        )
+        counters[f"winner_side_method_{side_method}"] += 1
+
         if not selected_side:
-            counters[f"skipped_{side_reason}"] += 1
+            counters[f"skipped_{side_method}"] += 1
             continue
 
         home_odds, away_odds, odds_source = side_pair_odds(
@@ -407,6 +458,9 @@ def main() -> None:
             "selection": prediction.get("predicted_winner"),
             "actual_winner": prediction.get("actual_winner"),
             "selected_side": selected_side,
+            "actual_winner_api_side": actual_winner_api_side,
+            "winner_side_method": side_method,
+            "enriched_winner_side_raw": enriched.get("winner_side"),
             "won": won,
             "model_probability": round(model_probability, 6),
             "winner_probability": prediction.get("winner_probability"),
@@ -419,6 +473,8 @@ def main() -> None:
             "overround": round(overround, 6),
             "odds_source": odds_source,
             "profit": round(profit, 6),
+            "player_1": enriched.get("player_1"),
+            "player_2": enriched.get("player_2"),
         }
 
         all_rows.append(row)
@@ -441,6 +497,7 @@ def main() -> None:
         "generated_at": now_iso(),
         "bookmaker": args.bookmaker,
         "fallback": args.fallback,
+        "winner_side_mode": args.winner_side_mode,
         "min_edge": args.min_edge,
         "min_ev": args.min_ev,
         "counters": dict(sorted(counters.items())),
@@ -449,17 +506,21 @@ def main() -> None:
         "value_bets_by_level": summarize_by_field(value_bets, "tour_level"),
         "value_bets_by_gender": summarize_by_field(value_bets, "gender"),
         "thresholds": thresholds,
+        "important_note": (
+            "V2 ne zaupa slepo enriched winner_side; auto najprej uporabi match po imenih, "
+            "sicer obrne enriched winner_side, ker je audit pokazal obrnjen mapping."
+        ),
     }
 
     output_payload = {
-        "schema_version": 1,
+        "schema_version": 2,
         "summary": summary,
         "priced_predictions": all_rows,
         "value_bets": value_bets,
     }
 
     report_payload = {
-        "schema_version": 1,
+        "schema_version": 2,
         "summary": summary,
         "sample_value_bets": value_bets[:200],
         "sample_priced_predictions": all_rows[:200],
@@ -468,7 +529,7 @@ def main() -> None:
     save_json(Path(args.output), output_payload)
     save_json(Path(args.report), report_payload)
 
-    print("TLE API OVERLAY ODDS BACKTEST DONE")
+    print("TLE API OVERLAY ODDS BACKTEST V2 DONE")
     print(json.dumps(summary, indent=2, ensure_ascii=False))
     print(f"Output: {args.output}")
     print(f"Report: {args.report}")
