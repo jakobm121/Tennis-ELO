@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T06:32:01.965401+02:00",
+  "generated_at": "2026-06-10T12:23:07.130294+02:00",
   "source_url": "https://www.rezultati.com/tenis/",
   "output_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/input/matches_today.json",
   "seen_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/state/seen_match_urls.json",
@@ -14,16 +14,146 @@
     "reset_seen_matches": false
   },
   "counts": {
-    "found_matches": 460,
-    "available_unseen": 458,
+    "found_matches": 453,
+    "available_unseen": 443,
     "selected": 8,
-    "skipped_seen": 2,
-    "seen_total": 194,
+    "skipped_seen": 10,
+    "seen_total": 202,
     "blocked": 0,
     "errors": 0
   },
   "error": "",
   "selected": [
+    {
+      "match": "Ajdukovic Duje - Toffanin Nicolo",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/?mid=ELvy8rre",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Ajdukovic Duje",
+      "player_2": "Toffanin Nicolo",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "ELvy8rre",
+      "raw_parent_text": "15:30\nToffanin N.\nAjdukovic D.\n-\n-"
+    },
+    {
+      "match": "Aksu Semra - Melnikova Aleksandra",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/aksu-semra-OvCzr4ZB/melnikova-aleksandra-rcIMnyhU/?mid=zsbtiCoK",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Aksu Semra",
+      "player_2": "Melnikova Aleksandra",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "zsbtiCoK",
+      "raw_parent_text": ""
+    },
+    {
+      "match": "Akugue Noha Noma - Kawa Katarzyna",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/akugue-noha-noma-IyMCDvw8/kawa-katarzyna-2kS2AMrn/?mid=r3DyyI2S",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Akugue Noha Noma",
+      "player_2": "Kawa Katarzyna",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "r3DyyI2S",
+      "raw_parent_text": "1. set\nNoha Akugue N.\nKawa K.\n0\n0\n2\n0\n40\n30"
+    },
+    {
+      "match": "Alekseychuk Artem - Matsuda Koki",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/alekseychuk-artem-8U71ey5I/matsuda-koki-Yw4PpvMH/?mid=OGk3E6RG",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Alekseychuk Artem",
+      "player_2": "Matsuda Koki",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "OGk3E6RG",
+      "raw_parent_text": ""
+    },
+    {
+      "match": "Alevtina Ibragimova - Bonardi Berta",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/alevtina-ibragimova-dhN0o6oN/bonardi-berta-GQxuhPTH/?mid=f3dsT83b",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Alevtina Ibragimova",
+      "player_2": "Bonardi Berta",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "f3dsT83b",
+      "raw_parent_text": "17:00\nIbragimova A.\nBonardi B.\n-\n-"
+    },
+    {
+      "match": "Alhussein Abdel Aziz Lamis - Bista Abhilasha",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/alhussein-abdel-aziz-lamis-CvDob5Zt/bista-abhilasha-SO78gtLL/?mid=SIJanI8k",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Alhussein Abdel Aziz Lamis",
+      "player_2": "Bista Abhilasha",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "SIJanI8k",
+      "raw_parent_text": ""
+    },
+    {
+      "match": "Alopaeus Felix - Guilleme Joaquin",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/alopaeus-felix-0jZc6zIr/guilleme-joaquin-U9TnwRSi/?mid=t8zdbXnA",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Alopaeus Felix",
+      "player_2": "Guilleme Joaquin",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "t8zdbXnA",
+      "raw_parent_text": ""
+    },
+    {
+      "match": "Anastasiya Konstantinovna Soboleva - Pastikova Julie",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/anastasiya-konstantinovna-soboleva-4AGU3dN1/pastikova-julie-U1ZWDeaH/?mid=xbzw9bKl",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Anastasiya Konstantinovna Soboleva",
+      "player_2": "Pastikova Julie",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "xbzw9bKl",
+      "raw_parent_text": "12:40\nSobolieva A.\nPastikova J.\n-\n-"
+    }
+  ],
+  "skipped_seen_examples": [
     {
       "match": "Abbagnato Anastasia - Ferro Galatea",
       "match_url": "https://www.rezultati.com/utakmica/tenis/abbagnato-anastasia-UcSf4KWB/ferro-galatea-CQUWRxNE/?mid=8GecKCXH",
@@ -38,7 +168,7 @@
       "player_2": "Ferro Galatea",
       "source": "rezultati_daily_anchor",
       "source_match_id": "8GecKCXH",
-      "raw_parent_text": "10:00\nFerro G.\nAbbagnato A.\n-\n-"
+      "raw_parent_text": ""
     },
     {
       "match": "Abendroth Jolie Angelique - Gadamauri Tamila",
@@ -102,7 +232,23 @@
       "player_2": "Forti Francesco",
       "source": "rezultati_daily_click",
       "source_match_id": "KGjVKXKE",
-      "raw_parent_text": "13:00\nForti F.\nAgamenone F.\n-\n-"
+      "raw_parent_text": "13:05\nForti F.\nAgamenone F.\n-\n-"
+    },
+    {
+      "match": "Aguiard Enzo - Soriano Barrera Adria",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/aguiard-enzo-2gzfIDcj/soriano-barrera-adria-xCD2BANp/?mid=0KyO4SY0",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Aguiard Enzo",
+      "player_2": "Soriano Barrera Adria",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "0KyO4SY0",
+      "raw_parent_text": "20:00\nAguiard E.\nSoriano Barrera A.\n-\n-"
     },
     {
       "match": "Ahti Vesa - Ymer Rafael",
@@ -151,24 +297,6 @@
       "source": "rezultati_daily_anchor",
       "source_match_id": "MygWKLZR",
       "raw_parent_text": "12:30\nEnnaciri M.\nAit el Bachir W.\n-\n-"
-    }
-  ],
-  "skipped_seen_examples": [
-    {
-      "match": "Aguiard Enzo - Soriano Barrera Adria",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/aguiard-enzo-2gzfIDcj/soriano-barrera-adria-xCD2BANp/?mid=0KyO4SY0",
-      "date": "",
-      "status": "scheduled",
-      "tour_level": "",
-      "gender": "",
-      "tournament": "",
-      "country": "",
-      "surface": "",
-      "player_1": "Aguiard Enzo",
-      "player_2": "Soriano Barrera Adria",
-      "source": "rezultati_daily_anchor",
-      "source_match_id": "0KyO4SY0",
-      "raw_parent_text": ""
     },
     {
       "match": "Alves Carolina - Mattioli Francesca",
@@ -184,7 +312,7 @@
       "player_2": "Mattioli Francesca",
       "source": "rezultati_daily_anchor",
       "source_match_id": "EecGQwW0",
-      "raw_parent_text": ""
+      "raw_parent_text": "22:30\nMattioli F.\nAlves C.\n-\n-"
     }
   ],
   "debug_files": {
