@@ -1,8 +1,9 @@
 {
   "schema_version": 1,
   "source": "api_tennis",
-  "generated_at": "2026-06-10T17:58:16+00:00",
+  "generated_at": "2026-06-10T18:27:26+00:00",
   "input": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/tle/source/api/tle_api_results_backfill_enriched.json",
+  "player_mapping": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/tle/mappings/api_player_to_sackmann.json",
   "latest_sackmann_date": "2026-06-02",
   "include_before_latest_sackmann": false,
   "year_files": [
@@ -10,7 +11,7 @@
       "year": 2026,
       "path": "data/tle/source/api/tle_api_matches_2026.jsonl.gz",
       "matches": 1138,
-      "created_at": "2026-06-10T17:58:16+00:00"
+      "created_at": "2026-06-10T18:27:26+00:00"
     }
   ],
   "matches_total": 1138,

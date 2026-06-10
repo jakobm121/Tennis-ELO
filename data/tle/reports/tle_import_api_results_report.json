@@ -1,9 +1,11 @@
 {
-  "generated_at": "2026-06-10T17:58:16+00:00",
+  "generated_at": "2026-06-10T18:27:26+00:00",
   "summary": {
     "input_matches": 2680,
     "skipped_not_after_latest_sackmann": 1361,
     "imported": 1138,
+    "mapped_player_sides": 2069,
+    "unmapped_player_sides": 207,
     "imported_unknown_surface_overall_only": 262,
     "skipped_not_ready": 181,
     "latest_sackmann_date": "2026-06-02",
@@ -12,7 +14,7 @@
         "year": 2026,
         "path": "data/tle/source/api/tle_api_matches_2026.jsonl.gz",
         "matches": 1138,
-        "created_at": "2026-06-10T17:58:16+00:00"
+        "created_at": "2026-06-10T18:27:26+00:00"
       }
     ],
     "levels": {
