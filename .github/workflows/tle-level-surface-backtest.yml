@@ -71,7 +71,7 @@ jobs:
                   )
 
           data = json.loads(
-              output_path.read_text(
+              report_path.read_text(
                   encoding="utf-8"
               )
           )
@@ -90,7 +90,32 @@ jobs:
               )
 
               for row in rows[:10]:
-                  print(row)
+                  print({
+                      "min_level_matches": row.get(
+                          "min_level_matches"
+                      ),
+                      "min_surface_matches": row.get(
+                          "min_surface_matches"
+                      ),
+                      "level_weight": row.get(
+                          "level_weight"
+                      ),
+                      "surface_weight": row.get(
+                          "surface_weight"
+                      ),
+                      "sample_size": row.get(
+                          "sample_size"
+                      ),
+                      "accuracy": row.get(
+                          "accuracy"
+                      ),
+                      "brier_score": row.get(
+                          "brier_score"
+                      ),
+                      "log_loss": row.get(
+                          "log_loss"
+                      ),
+                  })
 
           for level, surfaces in data.get(
               "best_by_level_surface",
@@ -107,7 +132,32 @@ jobs:
                   )
 
                   for row in rows[:5]:
-                      print(row)
+                      print({
+                          "min_level_matches": row.get(
+                              "min_level_matches"
+                          ),
+                          "min_surface_matches": row.get(
+                              "min_surface_matches"
+                          ),
+                          "level_weight": row.get(
+                              "level_weight"
+                          ),
+                          "surface_weight": row.get(
+                              "surface_weight"
+                          ),
+                          "sample_size": row.get(
+                              "sample_size"
+                          ),
+                          "accuracy": row.get(
+                              "accuracy"
+                          ),
+                          "brier_score": row.get(
+                              "brier_score"
+                          ),
+                          "log_loss": row.get(
+                              "log_loss"
+                          ),
+                      })
           PY
 
       - name: Commit TLE level-surface outputs
