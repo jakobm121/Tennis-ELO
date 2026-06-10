@@ -1478,7 +1478,7 @@
     },
     "https://www.rezultati.com/utakmica/tenis/aguiard-enzo-2gzfIDcj/soriano-barrera-adria-xCD2BANp/?mid=0KyO4SY0": {
       "first_seen_at": "2026-06-09T06:21:05.406067+02:00",
-      "last_seen_at": "2026-06-09T17:25:59.067855+02:00",
+      "last_seen_at": "2026-06-10T06:32:01.965154+02:00",
       "match": "Aguiard Enzo - Soriano Barrera Adria",
       "player_1": "Aguiard Enzo",
       "player_2": "Soriano Barrera Adria",
@@ -1505,7 +1505,7 @@
     },
     "https://www.rezultati.com/utakmica/tenis/alves-carolina-vJWWbpH8/mattioli-francesca-4bvZOiHa/?mid=EecGQwW0": {
       "first_seen_at": "2026-06-09T06:21:05.406067+02:00",
-      "last_seen_at": "2026-06-09T17:25:59.067855+02:00",
+      "last_seen_at": "2026-06-10T06:32:01.965154+02:00",
       "match": "Alves Carolina - Mattioli Francesca",
       "player_1": "Alves Carolina",
       "player_2": "Mattioli Francesca",
@@ -1673,14 +1673,94 @@
       "player_2": "Semenistaja Darja",
       "status": "scheduled",
       "source_match_id": "8M4QiFU7"
+    },
+    "https://www.rezultati.com/utakmica/tenis/abbagnato-anastasia-UcSf4KWB/ferro-galatea-CQUWRxNE/?mid=8GecKCXH": {
+      "first_seen_at": "2026-06-10T06:32:01.965154+02:00",
+      "last_seen_at": "2026-06-10T06:32:01.965154+02:00",
+      "match": "Abbagnato Anastasia - Ferro Galatea",
+      "player_1": "Abbagnato Anastasia",
+      "player_2": "Ferro Galatea",
+      "status": "scheduled",
+      "source_match_id": "8GecKCXH"
+    },
+    "https://www.rezultati.com/utakmica/tenis/abendroth-jolie-angelique-MoRIbmVn/gadamauri-tamila-OUmUlddT/?mid=I9LYa5uC": {
+      "first_seen_at": "2026-06-10T06:32:01.965154+02:00",
+      "last_seen_at": "2026-06-10T06:32:01.965154+02:00",
+      "match": "Abendroth Jolie Angelique - Gadamauri Tamila",
+      "player_1": "Abendroth Jolie Angelique",
+      "player_2": "Gadamauri Tamila",
+      "status": "scheduled",
+      "source_match_id": "I9LYa5uC"
+    },
+    "https://www.rezultati.com/utakmica/tenis/aboian-valerio-6BsiXzTM/cigarran-thiago-EBRfRytK/?mid=M9QdQTin": {
+      "first_seen_at": "2026-06-10T06:32:01.965154+02:00",
+      "last_seen_at": "2026-06-10T06:32:01.965154+02:00",
+      "match": "Aboian Valerio - Cigarran Thiago",
+      "player_1": "Aboian Valerio",
+      "player_2": "Cigarran Thiago",
+      "status": "scheduled",
+      "source_match_id": "M9QdQTin"
+    },
+    "https://www.rezultati.com/utakmica/tenis/adams-julia-rNpx5PyM/hossam-salah-jana-dC3FEWpE/?mid=z7T7fohC": {
+      "first_seen_at": "2026-06-10T06:32:01.965154+02:00",
+      "last_seen_at": "2026-06-10T06:32:01.965154+02:00",
+      "match": "Adams Julia - Hossam Salah Jana",
+      "player_1": "Adams Julia",
+      "player_2": "Hossam Salah Jana",
+      "status": "scheduled",
+      "source_match_id": "z7T7fohC"
+    },
+    "https://www.rezultati.com/utakmica/tenis/agamenone-franco-E9dx5gGD/forti-francesco-MF7nWtCA/?mid=KGjVKXKE": {
+      "first_seen_at": "2026-06-10T06:32:01.965154+02:00",
+      "last_seen_at": "2026-06-10T06:32:01.965154+02:00",
+      "match": "Agamenone Franco - Forti Francesco",
+      "player_1": "Agamenone Franco",
+      "player_2": "Forti Francesco",
+      "status": "scheduled",
+      "source_match_id": "KGjVKXKE"
+    },
+    "https://www.rezultati.com/utakmica/tenis/ahti-vesa-ULGjM0EI/ymer-rafael-KhH073S2/?mid=WEbWsC2T": {
+      "first_seen_at": "2026-06-10T06:32:01.965154+02:00",
+      "last_seen_at": "2026-06-10T06:32:01.965154+02:00",
+      "match": "Ahti Vesa - Ymer Rafael",
+      "player_1": "Ahti Vesa",
+      "player_2": "Ymer Rafael",
+      "status": "scheduled",
+      "source_match_id": "WEbWsC2T"
+    },
+    "https://www.rezultati.com/utakmica/tenis/aikawa-mayuka-8brlAqYt/yoshioka-kisa-4vTImBMR/?mid=htgNKWPM": {
+      "first_seen_at": "2026-06-10T06:32:01.965154+02:00",
+      "last_seen_at": "2026-06-10T06:32:01.965154+02:00",
+      "match": "Aikawa Mayuka - Yoshioka Kisa",
+      "player_1": "Aikawa Mayuka",
+      "player_2": "Yoshioka Kisa",
+      "status": "scheduled",
+      "source_match_id": "htgNKWPM"
+    },
+    "https://www.rezultati.com/utakmica/tenis/ait-el-bachir-warda-6aSuqMCP/ennaciri-manal-2cKYR43n/?mid=MygWKLZR": {
+      "first_seen_at": "2026-06-10T06:32:01.965154+02:00",
+      "last_seen_at": "2026-06-10T06:32:01.965154+02:00",
+      "match": "Ait El Bachir Warda - Ennaciri Manal",
+      "player_1": "Ait El Bachir Warda",
+      "player_2": "Ennaciri Manal",
+      "status": "scheduled",
+      "source_match_id": "MygWKLZR"
     }
   },
   "seen_urls": [
+    "https://www.rezultati.com/utakmica/tenis/abbagnato-anastasia-UcSf4KWB/ferro-galatea-CQUWRxNE/?mid=8GecKCXH",
+    "https://www.rezultati.com/utakmica/tenis/abendroth-jolie-angelique-MoRIbmVn/gadamauri-tamila-OUmUlddT/?mid=I9LYa5uC",
     "https://www.rezultati.com/utakmica/tenis/abibsi-mohamed-ali-fLsxCRR2/fradkin-jeffrey-8lnAfpc5/?mid=4dluF2B5",
+    "https://www.rezultati.com/utakmica/tenis/aboian-valerio-6BsiXzTM/cigarran-thiago-EBRfRytK/?mid=M9QdQTin",
+    "https://www.rezultati.com/utakmica/tenis/adams-julia-rNpx5PyM/hossam-salah-jana-dC3FEWpE/?mid=z7T7fohC",
     "https://www.rezultati.com/utakmica/tenis/added-dan-bwW3LbI0/pedrico-kravtsov-albert-SC9if6GJ/?mid=n1JMWEP1",
+    "https://www.rezultati.com/utakmica/tenis/agamenone-franco-E9dx5gGD/forti-francesco-MF7nWtCA/?mid=KGjVKXKE",
     "https://www.rezultati.com/utakmica/tenis/agamenone-franco-E9dx5gGD/ribecai-michele-fNFrUmQq/?mid=dfmUmVBL",
     "https://www.rezultati.com/utakmica/tenis/aguiard-enzo-2gzfIDcj/soriano-barrera-adria-xCD2BANp/?mid=0KyO4SY0",
     "https://www.rezultati.com/utakmica/tenis/aguilar-cardozo-joaquin-rsXrDrGP/justo-guido-ivan-CjaTkiTr/?mid=Oxoe8Re5",
+    "https://www.rezultati.com/utakmica/tenis/ahti-vesa-ULGjM0EI/ymer-rafael-KhH073S2/?mid=WEbWsC2T",
+    "https://www.rezultati.com/utakmica/tenis/aikawa-mayuka-8brlAqYt/yoshioka-kisa-4vTImBMR/?mid=htgNKWPM",
+    "https://www.rezultati.com/utakmica/tenis/ait-el-bachir-warda-6aSuqMCP/ennaciri-manal-2cKYR43n/?mid=MygWKLZR",
     "https://www.rezultati.com/utakmica/tenis/akugue-noha-noma-IyMCDvw8/rakotomanga-rajaonah-tiantsoa-sarah-pz7Viwx2/?mid=Odkuk264",
     "https://www.rezultati.com/utakmica/tenis/alcala-gurri-max-pISmOkA6/blanch-dali-tEewFwuI/?mid=OSJW8H3T",
     "https://www.rezultati.com/utakmica/tenis/alcala-gurri-max-pISmOkA6/de-schepper-kenny-0bPhsiMF/?mid=jDW7Jdyf",
@@ -1863,5 +1943,5 @@
     "https://www.rezultati.com/utakmica/tenis/jovanovic-mirjana-0jieYeGh/korpanec-davies-allegra-YFozIkkt/?mid=drsm3vJG",
     "https://www.rezultati.com/utakmica/tenis/kadiri-hassani-youssef-YstL8s3O/koyama-hiromasa-lMQ1mPlU/?mid=KnkmQLA7"
   ],
-  "generated_at": "2026-06-09T22:17:42.995197+02:00"
+  "generated_at": "2026-06-10T06:32:01.965744+02:00"
 }
