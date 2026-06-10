@@ -1,0 +1,111 @@
+name: TLE Backtest AI Results
+
+on:
+  workflow_dispatch:
+    inputs:
+      ai_json:
+        description: "Comma separated AI result JSON local paths or raw GitHub URLs"
+        required: true
+        default: ""
+
+      min_date:
+        description: "Optional min date YYYY-MM-DD"
+        required: false
+        default: ""
+
+      max_date:
+        description: "Optional max date YYYY-MM-DD"
+        required: false
+        default: ""
+
+      min_edge:
+        description: "Minimum TLE edge"
+        required: true
+        default: "0.03"
+
+      min_ev:
+        description: "Minimum TLE EV"
+        required: true
+        default: "0.0"
+
+permissions:
+  contents: write
+
+jobs:
+  tle-backtest-ai-results:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Tennis-ELO repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run TLE backtest on AI result JSONs
+        run: |
+          MIN_DATE_ARG=""
+          MAX_DATE_ARG=""
+
+          if [ -n "${{ inputs.min_date }}" ]; then
+            MIN_DATE_ARG="--min-date ${{ inputs.min_date }}"
+          fi
+
+          if [ -n "${{ inputs.max_date }}" ]; then
+            MAX_DATE_ARG="--max-date ${{ inputs.max_date }}"
+          fi
+
+          python -m tennis_elo.tle_backtest_ai_results \
+            --ai-json "${{ inputs.ai_json }}" \
+            --min-edge "${{ inputs.min_edge }}" \
+            --min-ev "${{ inputs.min_ev }}" \
+            ${MIN_DATE_ARG} \
+            ${MAX_DATE_ARG}
+
+      - name: Show TLE AI-results backtest summary
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          path = Path("data/tle/reports/tle_backtest_ai_results_report.json")
+
+          if not path.exists():
+              raise SystemExit(f"Missing report: {path}")
+
+          payload = json.loads(path.read_text(encoding="utf-8"))
+
+          print(json.dumps(
+              payload.get("summary", {}),
+              indent=2,
+              ensure_ascii=False,
+          ))
+
+          print("\nKEY GROUPS")
+          print(json.dumps(
+              payload.get("key_groups", {}),
+              indent=2,
+              ensure_ascii=False,
+          ))
+          PY
+
+      - name: Commit TLE AI-results backtest
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email \
+            "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add \
+            data/tle/backtests/tle_backtest_ai_results.json \
+            data/tle/reports/tle_backtest_ai_results_report.json \
+            data/tle/backtests/tle_backtest_ai_results_by_group.csv
+
+          if git diff --cached --quiet; then
+            echo "No TLE AI-results backtest changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Backtest AI tennis results with TLE Elo"
+          git push
