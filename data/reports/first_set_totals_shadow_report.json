@@ -1,58 +1,13 @@
 {
-  "generated_at": "2026-06-10T12:43:22.150068+02:00",
+  "generated_at": "2026-06-10T18:25:13.240174+02:00",
   "summary": {
-    "odds_matches": 215,
-    "evaluated_strategy_rows": 1236,
-    "shadow_bets": 1,
+    "odds_matches": 84,
+    "evaluated_strategy_rows": 444,
+    "shadow_bets": 0,
     "watch_picks": 0,
-    "no_bet": 1235,
-    "missing_first_set_totals": 9,
-    "shadow_bet": 1
+    "no_bet": 444,
+    "missing_first_set_totals": 10
   },
-  "top_shadow_picks": [
-    {
-      "pick_id": "12135131|first_set|under|9.5|all_fav75_under_9_5",
-      "event_key": 12135131,
-      "date": "2026-06-10",
-      "time": "14:00",
-      "match": "M. Damm - A. De Minaur",
-      "player_1": "M. Damm",
-      "player_2": "A. De Minaur",
-      "tournament": "Hertogenbosch",
-      "tour_level": "atp",
-      "gender": "men",
-      "surface": "grass",
-      "favorite": "A. De Minaur",
-      "favorite_probability": 0.758221,
-      "strategy_id": "all_fav75_under_9_5",
-      "market": "first_set_total_games",
-      "side": "under",
-      "line": 9.5,
-      "odds": 2.55,
-      "bookmaker": "Unibet",
-      "model_probability": 0.562139,
-      "fair_odds": 1.779,
-      "edge": 0.4335,
-      "confidence": "medium",
-      "decision": "SHADOW_BET",
-      "reasons": [],
-      "profile_matches": {
-        "player_1_status": "matched",
-        "player_1_profile_name": "Damm M.",
-        "player_1_sample": 12,
-        "player_2_status": "matched",
-        "player_2_profile_name": "De Minaur A.",
-        "player_2_sample": 123
-      },
-      "model_details": {
-        "strategy_base_probability": 0.5853,
-        "player_component_probability": 0.5081,
-        "profile_probabilities": [
-          0.5,
-          0.5162
-        ]
-      }
-    }
-  ],
+  "top_shadow_picks": [],
   "top_watch_picks": []
 }
