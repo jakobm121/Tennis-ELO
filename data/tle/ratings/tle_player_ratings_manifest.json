@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-10T20:12:19.488299+02:00",
+  "generated_at": "2026-06-10T20:33:49.866846+02:00",
   "model": "tle_ratings_v1",
   "schema_version": 1,
   "ratings_file": "data/tle/ratings/tle_player_ratings.json.gz",
-  "ratings_file_size_mb": 0.945,
+  "ratings_file_size_mb": 0.915,
   "summary": {
-    "players_total": 13315,
-    "players_men": 5968,
-    "players_women": 7347,
+    "players_total": 12084,
+    "players_men": 5313,
+    "players_women": 6771,
     "processed_matches": 215534,
     "processed_men": 106991,
     "processed_level_challenger": 33294,
