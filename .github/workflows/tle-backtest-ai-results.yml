@@ -1,4 +1,4 @@
-name: TLE Backtest AI Results
+name: TLE Backtest AI Tennis Results
 
 on:
   workflow_dispatch:
@@ -14,10 +14,10 @@ jobs:
       - name: Checkout Tennis-ELO repository
         uses: actions/checkout@v4
 
-      - name: Run TLE backtest on AI tennis result JSONs
+      - name: Run TLE backtest on AI tennis results
         run: |
           python -m tennis_elo.tle_backtest_ai_results \
-            --ai-json "https://raw.githubusercontent.com/jakobm121/Ai/refs/heads/main/data/tennis_value_results.json,https://raw.githubusercontent.com/jakobm121/Ai/refs/heads/main/data/tennis_totals_results.json" \
+            --ai-json "https://raw.githubusercontent.com/jakobm121/Ai/refs/heads/main/data/tennis_results.json" \
             --min-edge 0.03 \
             --min-ev 0.0
 
