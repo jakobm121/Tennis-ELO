@@ -1,0 +1,75 @@
+name: TLE Backtest API Overlay Level Only Odds
+
+on:
+  workflow_dispatch:
+    inputs:
+      min_edge:
+        description: "Minimum TLE edge"
+        required: true
+        default: "0.03"
+
+      min_ev:
+        description: "Minimum TLE EV"
+        required: true
+        default: "0.0"
+
+      bookmaker:
+        description: "Bookmaker key"
+        required: true
+        default: "Pncl"
+
+      fallback:
+        description: "Fallback if bookmaker missing: none, median, max, min"
+        required: true
+        default: "median"
+
+permissions:
+  contents: write
+
+jobs:
+  level-only-odds-backtest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Tennis-ELO repository
+        uses: actions/checkout@v4
+
+      - name: Run level-only odds backtest
+        run: |
+          python -m tennis_elo.tle_backtest_api_overlay_level_only_odds \
+            --bookmaker "${{ inputs.bookmaker }}" \
+            --fallback "${{ inputs.fallback }}" \
+            --min-edge "${{ inputs.min_edge }}" \
+            --min-ev "${{ inputs.min_ev }}"
+
+      - name: Show report
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          path = Path("data/tle/reports/tle_api_overlay_level_only_odds_backtest_report.json")
+          if not path.exists():
+              raise SystemExit(f"Missing report: {path}")
+
+          payload = json.loads(path.read_text(encoding="utf-8"))
+          print(json.dumps(payload.get("summary", {}), indent=2, ensure_ascii=False))
+          PY
+
+      - name: Commit backtest outputs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email \
+            "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add \
+            data/tle/backtests/tle_api_overlay_level_only_odds_backtest.json \
+            data/tle/reports/tle_api_overlay_level_only_odds_backtest_report.json
+
+          if git diff --cached --quiet; then
+            echo "No backtest changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Run TLE level-only odds backtest"
+          git push
