@@ -1,0 +1,488 @@
+{
+  "generated_at": "2026-06-10T13:37:52.639391+02:00",
+  "model": "tle_walk_forward_v1",
+  "settings": {
+    "default_elo": 1500.0,
+    "global_k": 24.0,
+    "global_surface_k": 20.0,
+    "level_k": 24.0,
+    "level_surface_k": 20.0,
+    "min_level_matches": 10,
+    "min_level_surface_matches": 5,
+    "test_start_date": "2025-01-01",
+    "grand_slam_mapped_to": "main_tour"
+  },
+  "counts": {
+    "processed_matches": 214560,
+    "level_challenger": 33294,
+    "surface_hard": 114970,
+    "level_itf": 160167,
+    "level_qualifying": 4379,
+    "level_main_tour": 16720,
+    "surface_clay": 92406,
+    "not_ready_for_tle": 6720,
+    "surface_carpet": 2256,
+    "surface_unknown": 164,
+    "surface_grass": 4764,
+    "test_predictions": 77908,
+    "players_final": 11965
+  },
+  "best_model": "global_overall",
+  "model_ranking": [
+    "global_overall",
+    "level_overall",
+    "global_blended",
+    "hybrid",
+    "level_blended"
+  ],
+  "overall": {
+    "global_overall": {
+      "sample_size": 77908,
+      "accuracy": 0.6593,
+      "brier_score": 0.213181,
+      "log_loss": 0.614811,
+      "avg_predicted_winner_probability": 0.5596
+    },
+    "global_blended": {
+      "sample_size": 77908,
+      "accuracy": 0.6585,
+      "brier_score": 0.214337,
+      "log_loss": 0.617689,
+      "avg_predicted_winner_probability": 0.5554
+    },
+    "level_overall": {
+      "sample_size": 62671,
+      "accuracy": 0.6565,
+      "brier_score": 0.214405,
+      "log_loss": 0.617425,
+      "avg_predicted_winner_probability": 0.5606
+    },
+    "level_blended": {
+      "sample_size": 62671,
+      "accuracy": 0.6556,
+      "brier_score": 0.215156,
+      "log_loss": 0.619297,
+      "avg_predicted_winner_probability": 0.5567
+    },
+    "hybrid": {
+      "sample_size": 62671,
+      "accuracy": 0.6594,
+      "brier_score": 0.214655,
+      "log_loss": 0.618307,
+      "avg_predicted_winner_probability": 0.556
+    }
+  },
+  "by_level": {
+    "challenger": {
+      "global_overall": {
+        "sample_size": 14728,
+        "accuracy": 0.6359,
+        "brier_score": 0.221417,
+        "log_loss": 0.63248,
+        "avg_predicted_winner_probability": 0.5492
+      },
+      "global_blended": {
+        "sample_size": 14728,
+        "accuracy": 0.6348,
+        "brier_score": 0.222026,
+        "log_loss": 0.634104,
+        "avg_predicted_winner_probability": 0.5459
+      },
+      "level_overall": {
+        "sample_size": 11587,
+        "accuracy": 0.6166,
+        "brier_score": 0.230361,
+        "log_loss": 0.652588,
+        "avg_predicted_winner_probability": 0.5354
+      },
+      "level_blended": {
+        "sample_size": 11587,
+        "accuracy": 0.6166,
+        "brier_score": 0.230648,
+        "log_loss": 0.653231,
+        "avg_predicted_winner_probability": 0.5331
+      },
+      "hybrid": {
+        "sample_size": 11587,
+        "accuracy": 0.6281,
+        "brier_score": 0.229073,
+        "log_loss": 0.649946,
+        "avg_predicted_winner_probability": 0.5332
+      }
+    },
+    "itf": {
+      "global_overall": {
+        "sample_size": 54325,
+        "accuracy": 0.6693,
+        "brier_score": 0.209748,
+        "log_loss": 0.607569,
+        "avg_predicted_winner_probability": 0.5634
+      },
+      "global_blended": {
+        "sample_size": 54325,
+        "accuracy": 0.6688,
+        "brier_score": 0.211218,
+        "log_loss": 0.611156,
+        "avg_predicted_winner_probability": 0.559
+      },
+      "level_overall": {
+        "sample_size": 44369,
+        "accuracy": 0.6702,
+        "brier_score": 0.209475,
+        "log_loss": 0.606724,
+        "avg_predicted_winner_probability": 0.5669
+      },
+      "level_blended": {
+        "sample_size": 44369,
+        "accuracy": 0.6685,
+        "brier_score": 0.210545,
+        "log_loss": 0.609402,
+        "avg_predicted_winner_probability": 0.5627
+      },
+      "hybrid": {
+        "sample_size": 44369,
+        "accuracy": 0.6698,
+        "brier_score": 0.210436,
+        "log_loss": 0.609235,
+        "avg_predicted_winner_probability": 0.562
+      }
+    },
+    "main_tour": {
+      "global_overall": {
+        "sample_size": 7114,
+        "accuracy": 0.6428,
+        "brier_score": 0.218287,
+        "log_loss": 0.624979,
+        "avg_predicted_winner_probability": 0.5579
+      },
+      "global_blended": {
+        "sample_size": 7114,
+        "accuracy": 0.6396,
+        "brier_score": 0.219048,
+        "log_loss": 0.626883,
+        "avg_predicted_winner_probability": 0.5525
+      },
+      "level_overall": {
+        "sample_size": 5743,
+        "accuracy": 0.6502,
+        "brier_score": 0.214504,
+        "log_loss": 0.616716,
+        "avg_predicted_winner_probability": 0.5718
+      },
+      "level_blended": {
+        "sample_size": 5743,
+        "accuracy": 0.6521,
+        "brier_score": 0.21416,
+        "log_loss": 0.615798,
+        "avg_predicted_winner_probability": 0.5664
+      },
+      "hybrid": {
+        "sample_size": 5743,
+        "accuracy": 0.6552,
+        "brier_score": 0.21364,
+        "log_loss": 0.61484,
+        "avg_predicted_winner_probability": 0.5632
+      }
+    },
+    "qualifying": {
+      "global_overall": {
+        "sample_size": 1741,
+        "accuracy": 0.6123,
+        "brier_score": 0.229798,
+        "log_loss": 0.64976,
+        "avg_predicted_winner_probability": 0.5375
+      },
+      "global_blended": {
+        "sample_size": 1741,
+        "accuracy": 0.6134,
+        "brier_score": 0.227375,
+        "log_loss": 0.645114,
+        "avg_predicted_winner_probability": 0.5369
+      },
+      "level_overall": {
+        "sample_size": 972,
+        "accuracy": 0.5432,
+        "brier_score": 0.248626,
+        "log_loss": 0.690913,
+        "avg_predicted_winner_probability": 0.5105
+      },
+      "level_blended": {
+        "sample_size": 972,
+        "accuracy": 0.5514,
+        "brier_score": 0.246873,
+        "log_loss": 0.687157,
+        "avg_predicted_winner_probability": 0.5104
+      },
+      "hybrid": {
+        "sample_size": 972,
+        "accuracy": 0.5813,
+        "brier_score": 0.241344,
+        "log_loss": 0.675723,
+        "avg_predicted_winner_probability": 0.5141
+      }
+    }
+  },
+  "by_surface": {
+    "carpet": {
+      "global_overall": {
+        "sample_size": 662,
+        "accuracy": 0.6903,
+        "brier_score": 0.20733,
+        "log_loss": 0.60363,
+        "avg_predicted_winner_probability": 0.5662
+      },
+      "global_blended": {
+        "sample_size": 662,
+        "accuracy": 0.6918,
+        "brier_score": 0.210605,
+        "log_loss": 0.611332,
+        "avg_predicted_winner_probability": 0.5559
+      },
+      "level_overall": {
+        "sample_size": 534,
+        "accuracy": 0.6723,
+        "brier_score": 0.211477,
+        "log_loss": 0.612925,
+        "avg_predicted_winner_probability": 0.5637
+      },
+      "level_blended": {
+        "sample_size": 534,
+        "accuracy": 0.6779,
+        "brier_score": 0.211461,
+        "log_loss": 0.612418,
+        "avg_predicted_winner_probability": 0.5611
+      },
+      "hybrid": {
+        "sample_size": 534,
+        "accuracy": 0.676,
+        "brier_score": 0.211833,
+        "log_loss": 0.61345,
+        "avg_predicted_winner_probability": 0.5589
+      }
+    },
+    "clay": {
+      "global_overall": {
+        "sample_size": 32669,
+        "accuracy": 0.6604,
+        "brier_score": 0.212466,
+        "log_loss": 0.613238,
+        "avg_predicted_winner_probability": 0.5603
+      },
+      "global_blended": {
+        "sample_size": 32669,
+        "accuracy": 0.6608,
+        "brier_score": 0.213526,
+        "log_loss": 0.615962,
+        "avg_predicted_winner_probability": 0.5562
+      },
+      "level_overall": {
+        "sample_size": 26446,
+        "accuracy": 0.6562,
+        "brier_score": 0.214423,
+        "log_loss": 0.617484,
+        "avg_predicted_winner_probability": 0.5605
+      },
+      "level_blended": {
+        "sample_size": 26446,
+        "accuracy": 0.655,
+        "brier_score": 0.215176,
+        "log_loss": 0.619395,
+        "avg_predicted_winner_probability": 0.5565
+      },
+      "hybrid": {
+        "sample_size": 26446,
+        "accuracy": 0.659,
+        "brier_score": 0.214669,
+        "log_loss": 0.618394,
+        "avg_predicted_winner_probability": 0.5557
+      }
+    },
+    "grass": {
+      "global_overall": {
+        "sample_size": 1681,
+        "accuracy": 0.5967,
+        "brier_score": 0.233815,
+        "log_loss": 0.658706,
+        "avg_predicted_winner_probability": 0.5376
+      },
+      "global_blended": {
+        "sample_size": 1681,
+        "accuracy": 0.5949,
+        "brier_score": 0.232685,
+        "log_loss": 0.656516,
+        "avg_predicted_winner_probability": 0.531
+      },
+      "level_overall": {
+        "sample_size": 1382,
+        "accuracy": 0.6056,
+        "brier_score": 0.23099,
+        "log_loss": 0.654529,
+        "avg_predicted_winner_probability": 0.5444
+      },
+      "level_blended": {
+        "sample_size": 1382,
+        "accuracy": 0.6049,
+        "brier_score": 0.230178,
+        "log_loss": 0.652209,
+        "avg_predicted_winner_probability": 0.5401
+      },
+      "hybrid": {
+        "sample_size": 1382,
+        "accuracy": 0.6143,
+        "brier_score": 0.229948,
+        "log_loss": 0.651413,
+        "avg_predicted_winner_probability": 0.5375
+      }
+    },
+    "hard": {
+      "global_overall": {
+        "sample_size": 42840,
+        "accuracy": 0.6603,
+        "brier_score": 0.213042,
+        "log_loss": 0.614536,
+        "avg_predicted_winner_probability": 0.5598
+      },
+      "global_blended": {
+        "sample_size": 42840,
+        "accuracy": 0.6586,
+        "brier_score": 0.21433,
+        "log_loss": 0.61766,
+        "avg_predicted_winner_probability": 0.5557
+      },
+      "level_overall": {
+        "sample_size": 34284,
+        "accuracy": 0.6585,
+        "brier_score": 0.213773,
+        "log_loss": 0.615967,
+        "avg_predicted_winner_probability": 0.5614
+      },
+      "level_blended": {
+        "sample_size": 34284,
+        "accuracy": 0.6578,
+        "brier_score": 0.214599,
+        "log_loss": 0.618017,
+        "avg_predicted_winner_probability": 0.5575
+      },
+      "hybrid": {
+        "sample_size": 34284,
+        "accuracy": 0.6612,
+        "brier_score": 0.214076,
+        "log_loss": 0.61699,
+        "avg_predicted_winner_probability": 0.5569
+      }
+    },
+    "unknown": {
+      "global_overall": {
+        "sample_size": 56,
+        "accuracy": 0.7321,
+        "brier_score": 0.186714,
+        "log_loss": 0.55712,
+        "avg_predicted_winner_probability": 0.5923
+      },
+      "global_blended": {
+        "sample_size": 56,
+        "accuracy": 0.7321,
+        "brier_score": 0.186714,
+        "log_loss": 0.55712,
+        "avg_predicted_winner_probability": 0.5923
+      },
+      "level_overall": {
+        "sample_size": 25,
+        "accuracy": 0.68,
+        "brier_score": 0.206877,
+        "log_loss": 0.599638,
+        "avg_predicted_winner_probability": 0.5717
+      },
+      "level_blended": {
+        "sample_size": 25,
+        "accuracy": 0.68,
+        "brier_score": 0.206877,
+        "log_loss": 0.599638,
+        "avg_predicted_winner_probability": 0.5717
+      },
+      "hybrid": {
+        "sample_size": 25,
+        "accuracy": 0.64,
+        "brier_score": 0.208263,
+        "log_loss": 0.605041,
+        "avg_predicted_winner_probability": 0.5635
+      }
+    }
+  },
+  "by_gender": {
+    "men": {
+      "global_overall": {
+        "sample_size": 44820,
+        "accuracy": 0.6548,
+        "brier_score": 0.214644,
+        "log_loss": 0.617951,
+        "avg_predicted_winner_probability": 0.5584
+      },
+      "global_blended": {
+        "sample_size": 44820,
+        "accuracy": 0.6543,
+        "brier_score": 0.215521,
+        "log_loss": 0.620176,
+        "avg_predicted_winner_probability": 0.5546
+      },
+      "level_overall": {
+        "sample_size": 33841,
+        "accuracy": 0.6523,
+        "brier_score": 0.216335,
+        "log_loss": 0.621647,
+        "avg_predicted_winner_probability": 0.5596
+      },
+      "level_blended": {
+        "sample_size": 33841,
+        "accuracy": 0.6517,
+        "brier_score": 0.216829,
+        "log_loss": 0.622876,
+        "avg_predicted_winner_probability": 0.556
+      },
+      "hybrid": {
+        "sample_size": 33841,
+        "accuracy": 0.6585,
+        "brier_score": 0.215975,
+        "log_loss": 0.621183,
+        "avg_predicted_winner_probability": 0.5551
+      }
+    },
+    "women": {
+      "global_overall": {
+        "sample_size": 33088,
+        "accuracy": 0.6653,
+        "brier_score": 0.2112,
+        "log_loss": 0.610557,
+        "avg_predicted_winner_probability": 0.5613
+      },
+      "global_blended": {
+        "sample_size": 33088,
+        "accuracy": 0.6642,
+        "brier_score": 0.212735,
+        "log_loss": 0.614321,
+        "avg_predicted_winner_probability": 0.5565
+      },
+      "level_overall": {
+        "sample_size": 28830,
+        "accuracy": 0.6615,
+        "brier_score": 0.212139,
+        "log_loss": 0.61247,
+        "avg_predicted_winner_probability": 0.5619
+      },
+      "level_blended": {
+        "sample_size": 28830,
+        "accuracy": 0.6602,
+        "brier_score": 0.213194,
+        "log_loss": 0.615097,
+        "avg_predicted_winner_probability": 0.5576
+      },
+      "hybrid": {
+        "sample_size": 28830,
+        "accuracy": 0.6605,
+        "brier_score": 0.213104,
+        "log_loss": 0.61493,
+        "avg_predicted_winner_probability": 0.5571
+      }
+    }
+  }
+}
