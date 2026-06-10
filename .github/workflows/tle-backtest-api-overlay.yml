@@ -1,0 +1,85 @@
+name: TLE Backtest API Overlay
+
+on:
+  workflow_dispatch:
+    inputs:
+      from_date:
+        description: "First API test date, YYYY-MM-DD"
+        required: false
+        default: ""
+
+      to_date:
+        description: "Last API test date, YYYY-MM-DD"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+jobs:
+  backtest-api-overlay:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Tennis-ELO repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run API overlay backtest
+        run: |
+          FROM_DATE_ARG=""
+          TO_DATE_ARG=""
+
+          if [ -n "${{ inputs.from_date }}" ]; then
+            FROM_DATE_ARG="--from-date ${{ inputs.from_date }}"
+          fi
+
+          if [ -n "${{ inputs.to_date }}" ]; then
+            TO_DATE_ARG="--to-date ${{ inputs.to_date }}"
+          fi
+
+          python -m tennis_elo.tle_backtest_api_overlay \
+            ${FROM_DATE_ARG} \
+            ${TO_DATE_ARG}
+
+      - name: Show backtest summary
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          path = Path("data/tle/reports/tle_api_overlay_backtest_report.json")
+
+          if not path.exists():
+              raise SystemExit(f"Missing report: {path}")
+
+          payload = json.loads(path.read_text(encoding="utf-8"))
+
+          print(json.dumps(
+              payload.get("summary", {}),
+              indent=2,
+              ensure_ascii=False,
+          ))
+          PY
+
+      - name: Commit API overlay backtest
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email \
+            "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add \
+            data/tle/backtests/tle_api_overlay_backtest.json \
+            data/tle/reports/tle_api_overlay_backtest_report.json
+
+          if git diff --cached --quiet; then
+            echo "No API overlay backtest changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Backtest TLE API overlay"
+          git push
