@@ -1,22 +1,79 @@
 {
-  "generated_at": "2026-06-10T23:10:50.408759+02:00",
+  "generated_at": "2026-06-11T01:11:59.640343+02:00",
   "summary": {
-    "api_players_today": 53,
+    "api_players_today": 254,
     "ratings_players": 4218,
-    "mapping_records_total": 1021,
-    "mapping_records_changed": 15,
-    "existing_confirmed": 38,
-    "unmatched": 15
+    "mapping_records_total": 1065,
+    "mapping_records_changed": 60,
+    "confirmed": 43,
+    "unmatched": 17,
+    "existing_confirmed": 194
   },
   "status_counts_today": {
-    "confirmed": 38,
-    "unmatched": 15
+    "confirmed": 237,
+    "unmatched": 17
   },
   "manual_review": [],
   "unmatched": [
     {
-      "api_player_key": 55609,
-      "api_name": "S. Rozin",
+      "api_player_key": 2167,
+      "api_name": "M. Cilic",
+      "gender": "men",
+      "status": "unmatched",
+      "method": "no_safe_match",
+      "confidence": 0.87,
+      "elo_player_name": null,
+      "elo_player_key": null,
+      "candidates": [
+        {
+          "elo_player_name": "Čilić M.",
+          "elo_player_key": "cilic m",
+          "matches_total": 13,
+          "gender": "unknown",
+          "score": 0.87,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Čilić M.",
+          "elo_player_key": "cilic m",
+          "matches_total": 13,
+          "gender": "unknown",
+          "score": 0.87,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Nikolic M.",
+          "elo_player_key": "nikolic m",
+          "matches_total": 3,
+          "gender": "unknown",
+          "score": 0.7943,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Nikolic M.",
+          "elo_player_key": "nikolic m",
+          "matches_total": 3,
+          "gender": "unknown",
+          "score": 0.7943,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Copil M.",
+          "elo_player_key": "copil m",
+          "matches_total": 4,
+          "gender": "unknown",
+          "score": 0.74,
+          "method": "fuzzy"
+        }
+      ],
+      "last_seen_event_key": 12134657,
+      "last_seen_tournament": "Hertogenbosch",
+      "last_seen_tournament_key": 2051,
+      "updated_at": "2026-06-11T01:11:46.934699+02:00"
+    },
+    {
+      "api_player_key": 30842,
+      "api_name": "A. Duda",
       "gender": "men",
       "status": "unmatched",
       "method": "no_safe_match",
@@ -25,110 +82,110 @@
       "elo_player_key": null,
       "candidates": [
         {
-          "elo_player_name": "Fomin S.",
-          "elo_player_key": "fomin s",
-          "matches_total": 10,
+          "elo_player_name": "Dougaz A.",
+          "elo_player_key": "dougaz a",
+          "matches_total": 8,
           "gender": "unknown",
           "score": 0.74,
           "method": "fuzzy"
         },
         {
-          "elo_player_name": "Fomin S.",
-          "elo_player_key": "fomin s",
-          "matches_total": 10,
+          "elo_player_name": "Dougaz A.",
+          "elo_player_key": "dougaz a",
+          "matches_total": 8,
           "gender": "unknown",
           "score": 0.74,
           "method": "fuzzy"
         },
         {
-          "elo_player_name": "Rabin S.",
-          "elo_player_key": "rabin s",
+          "elo_player_name": "Das A.",
+          "elo_player_key": "das a",
           "matches_total": 1,
           "gender": "unknown",
-          "score": 0.74,
+          "score": 0.7229,
           "method": "fuzzy"
         },
         {
-          "elo_player_name": "Rabin S.",
-          "elo_player_key": "rabin s",
+          "elo_player_name": "Das A.",
+          "elo_player_key": "das a",
           "matches_total": 1,
           "gender": "unknown",
-          "score": 0.74,
+          "score": 0.7229,
           "method": "fuzzy"
         },
         {
-          "elo_player_name": "Gorzny S.",
-          "elo_player_key": "gorzny s",
-          "matches_total": 29,
+          "elo_player_name": "Dudeney A.",
+          "elo_player_key": "dudeney a",
+          "matches_total": 9,
           "gender": "unknown",
           "score": 0.6919,
           "method": "fuzzy"
         }
       ],
-      "last_seen_event_key": 12135090,
-      "last_seen_tournament": "M15 Los Angeles, CA",
-      "last_seen_tournament_key": 7368,
-      "updated_at": "2026-06-10T23:10:38.479882+02:00"
+      "last_seen_event_key": 12134751,
+      "last_seen_tournament": "M25 Ceska Lipa",
+      "last_seen_tournament_key": 12621,
+      "updated_at": "2026-06-11T01:11:47.599860+02:00"
     },
     {
-      "api_player_key": 88006,
-      "api_name": "F. Alopaeus",
-      "gender": "men",
+      "api_player_key": 24996,
+      "api_name": "C. Di Genova",
+      "gender": "women",
       "status": "unmatched",
       "method": "no_safe_match",
-      "confidence": 0.7492,
+      "confidence": 0.7309,
       "elo_player_name": null,
       "elo_player_key": null,
       "candidates": [
         {
-          "elo_player_name": "Lopez F.",
-          "elo_player_key": "lopez f",
+          "elo_player_name": "Gimeno Valero C.",
+          "elo_player_key": "gimeno valero c",
+          "matches_total": 1,
+          "gender": "unknown",
+          "score": 0.7309,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Gimeno Valero C.",
+          "elo_player_key": "gimeno valero c",
+          "matches_total": 1,
+          "gender": "unknown",
+          "score": 0.7309,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Djonov C.",
+          "elo_player_key": "djonov c",
           "matches_total": 3,
           "gender": "unknown",
-          "score": 0.7492,
+          "score": 0.7104,
           "method": "fuzzy"
         },
         {
-          "elo_player_name": "Lopez F.",
-          "elo_player_key": "lopez f",
+          "elo_player_name": "Djonov C.",
+          "elo_player_key": "djonov c",
           "matches_total": 3,
           "gender": "unknown",
-          "score": 0.7492,
+          "score": 0.7104,
           "method": "fuzzy"
         },
         {
-          "elo_player_name": "Pace F.",
-          "elo_player_key": "pace f",
-          "matches_total": 49,
+          "elo_player_name": "Denolly C.",
+          "elo_player_key": "denolly c",
+          "matches_total": 11,
           "gender": "unknown",
-          "score": 0.6514,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Pace F.",
-          "elo_player_key": "pace f",
-          "matches_total": 49,
-          "gender": "unknown",
-          "score": 0.6514,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Zeballos F.",
-          "elo_player_key": "zeballos f",
-          "matches_total": 6,
-          "gender": "unknown",
-          "score": 0.6467,
+          "score": 0.6765,
           "method": "fuzzy"
         }
       ],
-      "last_seen_event_key": 12135383,
-      "last_seen_tournament": "M15 Vaasa",
-      "last_seen_tournament_key": 7189,
-      "updated_at": "2026-06-10T23:10:39.359230+02:00"
+      "last_seen_event_key": 12135351,
+      "last_seen_tournament": "W35 Cuiaba",
+      "last_seen_tournament_key": 12982,
+      "updated_at": "2026-06-11T01:11:48.455296+02:00"
     },
     {
-      "api_player_key": 30582,
-      "api_name": "J. Guilleme",
+      "api_player_key": 89241,
+      "api_name": "T. Konduri",
       "gender": "men",
       "status": "unmatched",
       "method": "no_safe_match",
@@ -137,279 +194,111 @@
       "elo_player_key": null,
       "candidates": [
         {
-          "elo_player_name": "Gimenez J.",
-          "elo_player_key": "gimenez j",
+          "elo_player_name": "Kokkinis T.",
+          "elo_player_key": "kokkinis t",
+          "matches_total": 4,
+          "gender": "unknown",
+          "score": 0.6765,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Kokkinis T.",
+          "elo_player_key": "kokkinis t",
+          "matches_total": 4,
+          "gender": "unknown",
+          "score": 0.6765,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Kodat T.",
+          "elo_player_key": "kodat t",
+          "matches_total": 7,
+          "gender": "unknown",
+          "score": 0.6514,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Kodat T.",
+          "elo_player_key": "kodat t",
+          "matches_total": 7,
+          "gender": "unknown",
+          "score": 0.6514,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Duran T.",
+          "elo_player_key": "duran t",
+          "matches_total": 6,
+          "gender": "unknown",
+          "score": 0.6514,
+          "method": "fuzzy"
+        }
+      ],
+      "last_seen_event_key": 12135533,
+      "last_seen_tournament": "M15 Los Angeles, CA",
+      "last_seen_tournament_key": 7368,
+      "updated_at": "2026-06-11T01:11:49.271936+02:00"
+    },
+    {
+      "api_player_key": 63159,
+      "api_name": "N. Trouve",
+      "gender": "men",
+      "status": "unmatched",
+      "method": "no_safe_match",
+      "confidence": 0.6765,
+      "elo_player_name": null,
+      "elo_player_key": null,
+      "candidates": [
+        {
+          "elo_player_name": "Rodrigues N.",
+          "elo_player_key": "rodrigues n",
           "matches_total": 1,
           "gender": "unknown",
           "score": 0.6765,
           "method": "fuzzy"
         },
         {
-          "elo_player_name": "Gimenez J.",
-          "elo_player_key": "gimenez j",
+          "elo_player_name": "Rodrigues N.",
+          "elo_player_key": "rodrigues n",
           "matches_total": 1,
           "gender": "unknown",
           "score": 0.6765,
           "method": "fuzzy"
         },
         {
-          "elo_player_name": "Guillen Meza A.",
-          "elo_player_key": "guillen meza a",
-          "matches_total": 6,
+          "elo_player_name": "Orlova N.",
+          "elo_player_key": "orlova n",
+          "matches_total": 1,
           "gender": "unknown",
-          "score": 0.6538,
+          "score": 0.6514,
           "method": "fuzzy"
         },
         {
-          "elo_player_name": "Guillen Meza A.",
-          "elo_player_key": "guillen meza a",
-          "matches_total": 6,
+          "elo_player_name": "Orlova N.",
+          "elo_player_key": "orlova n",
+          "matches_total": 1,
           "gender": "unknown",
-          "score": 0.6538,
+          "score": 0.6514,
           "method": "fuzzy"
         },
         {
-          "elo_player_name": "Niemeier J.",
-          "elo_player_key": "niemeier j",
-          "matches_total": 12,
+          "elo_player_name": "Rohrer N.",
+          "elo_player_key": "rohrer n",
+          "matches_total": 1,
           "gender": "unknown",
-          "score": 0.6467,
+          "score": 0.6514,
           "method": "fuzzy"
         }
       ],
-      "last_seen_event_key": 12135383,
-      "last_seen_tournament": "M15 Vaasa",
-      "last_seen_tournament_key": 7189,
-      "updated_at": "2026-06-10T23:10:40.167706+02:00"
-    },
-    {
-      "api_player_key": 7030,
-      "api_name": "M. Maslenkova",
-      "gender": "women",
-      "status": "unmatched",
-      "method": "no_safe_match",
-      "confidence": 0.8507,
-      "elo_player_name": null,
-      "elo_player_key": null,
-      "candidates": [
-        {
-          "elo_player_name": "Melnikova M.",
-          "elo_player_key": "melnikova m",
-          "matches_total": 1,
-          "gender": "unknown",
-          "score": 0.8507,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Melnikova M.",
-          "elo_player_key": "melnikova m",
-          "matches_total": 1,
-          "gender": "unknown",
-          "score": 0.8507,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Mylnikova M.",
-          "elo_player_key": "mylnikova m",
-          "matches_total": 1,
-          "gender": "unknown",
-          "score": 0.8507,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Mylnikova M.",
-          "elo_player_key": "mylnikova m",
-          "matches_total": 1,
-          "gender": "unknown",
-          "score": 0.8507,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Pohankova M.",
-          "elo_player_key": "pohankova m",
-          "matches_total": 8,
-          "gender": "unknown",
-          "score": 0.7589,
-          "method": "fuzzy"
-        }
-      ],
-      "last_seen_event_key": 12135397,
-      "last_seen_tournament": "W15 Merzig",
-      "last_seen_tournament_key": 12539,
-      "updated_at": "2026-06-10T23:10:41.094023+02:00"
-    },
-    {
-      "api_player_key": 73860,
-      "api_name": "G. Grumet",
-      "gender": "men",
-      "status": "unmatched",
-      "method": "no_safe_match",
-      "confidence": 0.74,
-      "elo_player_name": null,
-      "elo_player_key": null,
-      "candidates": [
-        {
-          "elo_player_name": "Ruse G.",
-          "elo_player_key": "ruse g",
-          "matches_total": 14,
-          "gender": "unknown",
-          "score": 0.74,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Ruse G.",
-          "elo_player_key": "ruse g",
-          "matches_total": 14,
-          "gender": "unknown",
-          "score": 0.74,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Ghetu G.",
-          "elo_player_key": "ghetu g",
-          "matches_total": 9,
-          "gender": "unknown",
-          "score": 0.6919,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Ghetu G.",
-          "elo_player_key": "ghetu g",
-          "matches_total": 9,
-          "gender": "unknown",
-          "score": 0.6919,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Groth G.",
-          "elo_player_key": "groth g",
-          "matches_total": 1,
-          "gender": "unknown",
-          "score": 0.6919,
-          "method": "fuzzy"
-        }
-      ],
-      "last_seen_event_key": 12135513,
+      "last_seen_event_key": 12135564,
       "last_seen_tournament": "M15 Los Angeles, CA",
       "last_seen_tournament_key": 7368,
-      "updated_at": "2026-06-10T23:10:41.844244+02:00"
+      "updated_at": "2026-06-11T01:11:50.064924+02:00"
     },
     {
-      "api_player_key": 89239,
-      "api_name": "M. Latak",
+      "api_player_key": 74752,
+      "api_name": "S. Storch",
       "gender": "men",
-      "status": "unmatched",
-      "method": "no_safe_match",
-      "confidence": 0.7982,
-      "elo_player_name": null,
-      "elo_player_key": null,
-      "candidates": [
-        {
-          "elo_player_name": "Laki M.",
-          "elo_player_key": "laki m",
-          "matches_total": 2,
-          "gender": "unknown",
-          "score": 0.7982,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Laki M.",
-          "elo_player_key": "laki m",
-          "matches_total": 2,
-          "gender": "unknown",
-          "score": 0.7982,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Lajal M.",
-          "elo_player_key": "lajal m",
-          "matches_total": 11,
-          "gender": "unknown",
-          "score": 0.74,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Lajal M.",
-          "elo_player_key": "lajal m",
-          "matches_total": 11,
-          "gender": "unknown",
-          "score": 0.74,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Lauva M.",
-          "elo_player_key": "lauva m",
-          "matches_total": 1,
-          "gender": "unknown",
-          "score": 0.74,
-          "method": "fuzzy"
-        }
-      ],
-      "last_seen_event_key": 12135526,
-      "last_seen_tournament": "M15 Los Angeles, CA",
-      "last_seen_tournament_key": 7368,
-      "updated_at": "2026-06-10T23:10:42.607298+02:00"
-    },
-    {
-      "api_player_key": 54651,
-      "api_name": "A. Tallakson",
-      "gender": "men",
-      "status": "unmatched",
-      "method": "no_safe_match",
-      "confidence": 0.7589,
-      "elo_player_name": null,
-      "elo_player_key": null,
-      "candidates": [
-        {
-          "elo_player_name": "Williamson A.",
-          "elo_player_key": "williamson a",
-          "matches_total": 2,
-          "gender": "unknown",
-          "score": 0.7589,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Williamson A.",
-          "elo_player_key": "williamson a",
-          "matches_total": 2,
-          "gender": "unknown",
-          "score": 0.7589,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Paulson A.",
-          "elo_player_key": "paulson a",
-          "matches_total": 4,
-          "gender": "unknown",
-          "score": 0.755,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Paulson A.",
-          "elo_player_key": "paulson a",
-          "matches_total": 4,
-          "gender": "unknown",
-          "score": 0.755,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Palazon A.",
-          "elo_player_key": "palazon a",
-          "matches_total": 1,
-          "gender": "unknown",
-          "score": 0.755,
-          "method": "fuzzy"
-        }
-      ],
-      "last_seen_event_key": 12135532,
-      "last_seen_tournament": "M15 Los Angeles, CA",
-      "last_seen_tournament_key": 7368,
-      "updated_at": "2026-06-10T23:10:43.510664+02:00"
-    },
-    {
-      "api_player_key": 103768,
-      "api_name": "Z. Olmos",
-      "gender": "women",
       "status": "unmatched",
       "method": "no_safe_match",
       "confidence": 0.7943,
@@ -417,110 +306,334 @@
       "elo_player_key": null,
       "candidates": [
         {
-          "elo_player_name": "Kolonus Z.",
-          "elo_player_key": "kolonus z",
+          "elo_player_name": "Stosur S.",
+          "elo_player_key": "stosur s",
           "matches_total": 2,
           "gender": "unknown",
           "score": 0.7943,
           "method": "fuzzy"
         },
         {
-          "elo_player_name": "Kolonus Z.",
-          "elo_player_key": "kolonus z",
+          "elo_player_name": "Stosur S.",
+          "elo_player_key": "stosur s",
           "matches_total": 2,
           "gender": "unknown",
           "score": 0.7943,
           "method": "fuzzy"
         },
         {
-          "elo_player_name": "Ludoski Z.",
-          "elo_player_key": "ludoski z",
-          "matches_total": 1,
+          "elo_player_name": "Saito S.",
+          "elo_player_key": "saito s",
+          "matches_total": 9,
           "gender": "unknown",
-          "score": 0.6514,
+          "score": 0.6919,
           "method": "fuzzy"
         },
         {
-          "elo_player_name": "Ludoski Z.",
-          "elo_player_key": "ludoski z",
-          "matches_total": 1,
+          "elo_player_name": "Saito S.",
+          "elo_player_key": "saito s",
+          "matches_total": 9,
           "gender": "unknown",
-          "score": 0.6514,
+          "score": 0.6919,
           "method": "fuzzy"
         },
         {
-          "elo_player_name": "Piros Z.",
-          "elo_player_key": "piros z",
-          "matches_total": 13,
+          "elo_player_name": "Stankovic S.",
+          "elo_player_key": "stankovic s",
+          "matches_total": 40,
           "gender": "unknown",
-          "score": 0.57,
+          "score": 0.6765,
           "method": "fuzzy"
         }
       ],
-      "last_seen_event_key": 12135538,
-      "last_seen_tournament": "W15 Los Angeles, CA",
-      "last_seen_tournament_key": 7372,
-      "updated_at": "2026-06-10T23:10:44.229006+02:00"
+      "last_seen_event_key": 12135592,
+      "last_seen_tournament": "M15 Maanshan 5",
+      "last_seen_tournament_key": 12706,
+      "updated_at": "2026-06-11T01:11:50.820399+02:00"
     },
     {
-      "api_player_key": 84317,
-      "api_name": "K. Nguyen",
-      "gender": "women",
+      "api_player_key": 49021,
+      "api_name": "R. Takahata",
+      "gender": "men",
       "status": "unmatched",
       "method": "no_safe_match",
-      "confidence": 0.7771,
+      "confidence": 0.8336,
       "elo_player_name": null,
       "elo_player_key": null,
       "candidates": [
         {
-          "elo_player_name": "Nguyen A.",
-          "elo_player_key": "nguyen a",
-          "matches_total": 2,
+          "elo_player_name": "Tabata R.",
+          "elo_player_key": "tabata r",
+          "matches_total": 3,
           "gender": "unknown",
-          "score": 0.7771,
+          "score": 0.8336,
           "method": "fuzzy"
         },
         {
-          "elo_player_name": "Nguyen A.",
-          "elo_player_key": "nguyen a",
-          "matches_total": 2,
+          "elo_player_name": "Tabata R.",
+          "elo_player_key": "tabata r",
+          "matches_total": 3,
           "gender": "unknown",
-          "score": 0.7771,
+          "score": 0.8336,
           "method": "fuzzy"
         },
         {
-          "elo_player_name": "Edengren K.",
-          "elo_player_key": "edengren k",
-          "matches_total": 1,
-          "gender": "unknown",
-          "score": 0.7104,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Edengren K.",
-          "elo_player_key": "edengren k",
-          "matches_total": 1,
+          "elo_player_name": "Bhatia R.",
+          "elo_player_key": "bhatia r",
+          "matches_total": 3,
           "gender": "unknown",
           "score": 0.7104,
           "method": "fuzzy"
         },
         {
-          "elo_player_name": "Bigun K.",
-          "elo_player_key": "bigun k",
-          "matches_total": 10,
+          "elo_player_name": "Bhatia R.",
+          "elo_player_key": "bhatia r",
+          "matches_total": 3,
+          "gender": "unknown",
+          "score": 0.7104,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Wakana R.",
+          "elo_player_key": "wakana r",
+          "matches_total": 1,
+          "gender": "unknown",
+          "score": 0.7104,
+          "method": "fuzzy"
+        }
+      ],
+      "last_seen_event_key": 12135596,
+      "last_seen_tournament": "M15 Tokyo",
+      "last_seen_tournament_key": 11237,
+      "updated_at": "2026-06-11T01:11:51.654243+02:00"
+    },
+    {
+      "api_player_key": 2018,
+      "api_name": "T. Ichikawa",
+      "gender": "men",
+      "status": "unmatched",
+      "method": "no_safe_match",
+      "confidence": 0.7104,
+      "elo_player_name": null,
+      "elo_player_key": null,
+      "candidates": [
+        {
+          "elo_player_name": "Chanta T.",
+          "elo_player_key": "chanta t",
+          "matches_total": 2,
+          "gender": "unknown",
+          "score": 0.7104,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Chanta T.",
+          "elo_player_key": "chanta t",
+          "matches_total": 2,
+          "gender": "unknown",
+          "score": 0.7104,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Cacao T.",
+          "elo_player_key": "cacao t",
+          "matches_total": 6,
+          "gender": "unknown",
+          "score": 0.6169,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Cacao T.",
+          "elo_player_key": "cacao t",
+          "matches_total": 6,
+          "gender": "unknown",
+          "score": 0.6169,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Schoolkate T.",
+          "elo_player_key": "schoolkate t",
+          "matches_total": 14,
+          "gender": "unknown",
+          "score": 0.5967,
+          "method": "fuzzy"
+        }
+      ],
+      "last_seen_event_key": 12135598,
+      "last_seen_tournament": "M15 Tokyo",
+      "last_seen_tournament_key": 11237,
+      "updated_at": "2026-06-11T01:11:52.516638+02:00"
+    },
+    {
+      "api_player_key": 13797,
+      "api_name": "M. Ponce de Leon Gomila",
+      "gender": "men",
+      "status": "unmatched",
+      "method": "no_safe_match",
+      "confidence": 0.6507,
+      "elo_player_name": null,
+      "elo_player_key": null,
+      "candidates": [
+        {
+          "elo_player_name": "Pucinelli de Almeida M.",
+          "elo_player_key": "pucinelli de almeida m",
+          "matches_total": 11,
+          "gender": "unknown",
+          "score": 0.6507,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Pucinelli de Almeida M.",
+          "elo_player_key": "pucinelli de almeida m",
+          "matches_total": 11,
+          "gender": "unknown",
+          "score": 0.6507,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Lazaro Juncadella M.",
+          "elo_player_key": "lazaro juncadella m",
+          "matches_total": 2,
+          "gender": "unknown",
+          "score": 0.6252,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Lazaro Juncadella M.",
+          "elo_player_key": "lazaro juncadella m",
+          "matches_total": 2,
+          "gender": "unknown",
+          "score": 0.6252,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Kononova M.",
+          "elo_player_key": "kononova m",
+          "matches_total": 2,
+          "gender": "unknown",
+          "score": 0.6236,
+          "method": "fuzzy"
+        }
+      ],
+      "last_seen_event_key": 12135607,
+      "last_seen_tournament": "M25 Kiseljak",
+      "last_seen_tournament_key": 4114,
+      "updated_at": "2026-06-11T01:11:53.593956+02:00"
+    },
+    {
+      "api_player_key": 32808,
+      "api_name": "G. Jang",
+      "gender": "women",
+      "status": "unmatched",
+      "method": "no_safe_match",
+      "confidence": 0.76,
+      "elo_player_name": null,
+      "elo_player_key": null,
+      "candidates": [
+        {
+          "elo_player_name": "Jang Y.",
+          "elo_player_key": "jang y",
+          "matches_total": 1,
+          "gender": "unknown",
+          "score": 0.76,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Jang Y.",
+          "elo_player_key": "jang y",
+          "matches_total": 1,
+          "gender": "unknown",
+          "score": 0.76,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Jang S. J.",
+          "elo_player_key": "jang s j",
+          "matches_total": 3,
+          "gender": "unknown",
+          "score": 0.7382,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Jang S. J.",
+          "elo_player_key": "jang s j",
+          "matches_total": 3,
+          "gender": "unknown",
+          "score": 0.7382,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Arangio G.",
+          "elo_player_key": "arangio g",
+          "matches_total": 1,
           "gender": "unknown",
           "score": 0.6919,
           "method": "fuzzy"
         }
       ],
-      "last_seen_event_key": 12135539,
-      "last_seen_tournament": "W15 Los Angeles, CA",
-      "last_seen_tournament_key": 7372,
-      "updated_at": "2026-06-10T23:10:44.979441+02:00"
+      "last_seen_event_key": 12135619,
+      "last_seen_tournament": "W15 Tokyo",
+      "last_seen_tournament_key": 11068,
+      "updated_at": "2026-06-11T01:11:54.282038+02:00"
     },
     {
-      "api_player_key": 100746,
-      "api_name": "T. Messerli",
+      "api_player_key": 53278,
+      "api_name": "N. Yoshimoto",
+      "gender": "women",
+      "status": "unmatched",
+      "method": "no_safe_match",
+      "confidence": 0.7224,
+      "elo_player_name": null,
+      "elo_player_key": null,
+      "candidates": [
+        {
+          "elo_player_name": "Yamamoto N.",
+          "elo_player_key": "yamamoto n",
+          "matches_total": 1,
+          "gender": "unknown",
+          "score": 0.7224,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Yamamoto N.",
+          "elo_player_key": "yamamoto n",
+          "matches_total": 1,
+          "gender": "unknown",
+          "score": 0.7224,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Nishino N.",
+          "elo_player_key": "nishino n",
+          "matches_total": 1,
+          "gender": "unknown",
+          "score": 0.6467,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Nishino N.",
+          "elo_player_key": "nishino n",
+          "matches_total": 1,
+          "gender": "unknown",
+          "score": 0.6467,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Nishimoto S.",
+          "elo_player_key": "nishimoto s",
+          "matches_total": 1,
+          "gender": "unknown",
+          "score": 0.6267,
+          "method": "fuzzy"
+        }
+      ],
+      "last_seen_event_key": 12135619,
+      "last_seen_tournament": "W15 Tokyo",
+      "last_seen_tournament_key": 11068,
+      "updated_at": "2026-06-11T01:11:55.126132+02:00"
+    },
+    {
+      "api_player_key": 40160,
+      "api_name": "N. Katsumi",
       "gender": "women",
       "status": "unmatched",
       "method": "no_safe_match",
@@ -529,330 +642,330 @@
       "elo_player_key": null,
       "candidates": [
         {
-          "elo_player_name": "Menzel T.",
-          "elo_player_key": "menzel t",
-          "matches_total": 2,
+          "elo_player_name": "Koizumi N.",
+          "elo_player_key": "koizumi n",
+          "matches_total": 1,
           "gender": "unknown",
           "score": 0.7104,
           "method": "fuzzy"
         },
         {
-          "elo_player_name": "Menzel T.",
-          "elo_player_key": "menzel t",
-          "matches_total": 2,
+          "elo_player_name": "Koizumi N.",
+          "elo_player_key": "koizumi n",
+          "matches_total": 1,
           "gender": "unknown",
           "score": 0.7104,
           "method": "fuzzy"
         },
         {
-          "elo_player_name": "Majeric T.",
-          "elo_player_key": "majeric t",
+          "elo_player_name": "Fatic N.",
+          "elo_player_key": "fatic n",
+          "matches_total": 12,
+          "gender": "unknown",
+          "score": 0.6514,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Fatic N.",
+          "elo_player_key": "fatic n",
+          "matches_total": 12,
+          "gender": "unknown",
+          "score": 0.6514,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Kawaguchi N.",
+          "elo_player_key": "kawaguchi n",
+          "matches_total": 2,
+          "gender": "unknown",
+          "score": 0.6467,
+          "method": "fuzzy"
+        }
+      ],
+      "last_seen_event_key": 12135621,
+      "last_seen_tournament": "W15 Tokyo",
+      "last_seen_tournament_key": 11068,
+      "updated_at": "2026-06-11T01:11:55.953990+02:00"
+    },
+    {
+      "api_player_key": 13258,
+      "api_name": "E. Lene",
+      "gender": "women",
+      "status": "unmatched",
+      "method": "no_safe_match",
+      "confidence": 0.961,
+      "elo_player_name": null,
+      "elo_player_key": null,
+      "candidates": [
+        {
+          "elo_player_name": "Lee E.",
+          "elo_player_key": "lee e",
+          "matches_total": 5,
+          "gender": "unknown",
+          "score": 0.961,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Lee E.",
+          "elo_player_key": "lee e",
+          "matches_total": 5,
+          "gender": "unknown",
+          "score": 0.961,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Lee J. E.",
+          "elo_player_key": "lee j e",
+          "matches_total": 1,
+          "gender": "unknown",
+          "score": 0.741,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Lee J. E.",
+          "elo_player_key": "lee j e",
+          "matches_total": 1,
+          "gender": "unknown",
+          "score": 0.741,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Leshem E.",
+          "elo_player_key": "leshem e",
+          "matches_total": 1,
+          "gender": "unknown",
+          "score": 0.74,
+          "method": "fuzzy"
+        }
+      ],
+      "last_seen_event_key": 12135625,
+      "last_seen_tournament": "W35 Casablanca",
+      "last_seen_tournament_key": 11365,
+      "updated_at": "2026-06-11T01:11:56.647660+02:00"
+    },
+    {
+      "api_player_key": 87044,
+      "api_name": "A. Reva",
+      "gender": "women",
+      "status": "unmatched",
+      "method": "no_safe_match",
+      "confidence": 0.91,
+      "elo_player_name": null,
+      "elo_player_key": null,
+      "candidates": [
+        {
+          "elo_player_name": "Gureva A.",
+          "elo_player_key": "gureva a",
+          "matches_total": 2,
+          "gender": "unknown",
+          "score": 0.91,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Gureva A.",
+          "elo_player_key": "gureva a",
+          "matches_total": 2,
+          "gender": "unknown",
+          "score": 0.91,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Alame Re.",
+          "elo_player_key": "alame re",
+          "matches_total": 1,
+          "gender": "unknown",
+          "score": 0.805,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Alame Re.",
+          "elo_player_key": "alame re",
+          "matches_total": 1,
+          "gender": "unknown",
+          "score": 0.805,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Reami A.",
+          "elo_player_key": "reami a",
+          "matches_total": 3,
+          "gender": "unknown",
+          "score": 0.7982,
+          "method": "fuzzy"
+        }
+      ],
+      "last_seen_event_key": 12135634,
+      "last_seen_tournament": "W50 Hurghada (Egypt)",
+      "last_seen_tournament_key": 13967,
+      "updated_at": "2026-06-11T01:11:57.363921+02:00"
+    },
+    {
+      "api_player_key": 58641,
+      "api_name": "S. Yardley",
+      "gender": "women",
+      "status": "unmatched",
+      "method": "no_safe_match",
+      "confidence": 0.6765,
+      "elo_player_name": null,
+      "elo_player_key": null,
+      "candidates": [
+        {
+          "elo_player_name": "Yitbarek S.",
+          "elo_player_key": "yitbarek s",
           "matches_total": 1,
           "gender": "unknown",
           "score": 0.6765,
           "method": "fuzzy"
         },
         {
-          "elo_player_name": "Majeric T.",
-          "elo_player_key": "majeric t",
+          "elo_player_name": "Yitbarek S.",
+          "elo_player_key": "yitbarek s",
           "matches_total": 1,
           "gender": "unknown",
           "score": 0.6765,
           "method": "fuzzy"
         },
         {
-          "elo_player_name": "Maria T.",
-          "elo_player_key": "maria t",
-          "matches_total": 20,
+          "elo_player_name": "Andre S.",
+          "elo_player_key": "andre s",
+          "matches_total": 51,
           "gender": "unknown",
-          "score": 0.6169,
+          "score": 0.6514,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Andre S.",
+          "elo_player_key": "andre s",
+          "matches_total": 51,
+          "gender": "unknown",
+          "score": 0.6514,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Halep S.",
+          "elo_player_key": "halep s",
+          "matches_total": 5,
+          "gender": "unknown",
+          "score": 0.6514,
           "method": "fuzzy"
         }
       ],
-      "last_seen_event_key": 12135541,
-      "last_seen_tournament": "W15 Los Angeles, CA",
-      "last_seen_tournament_key": 7372,
-      "updated_at": "2026-06-10T23:10:45.829729+02:00"
+      "last_seen_event_key": 12135639,
+      "last_seen_tournament": "W50 Hurghada (Egypt)",
+      "last_seen_tournament_key": 13967,
+      "updated_at": "2026-06-11T01:11:58.178968+02:00"
     },
     {
-      "api_player_key": 40122,
-      "api_name": "V. Miroshnichenko",
+      "api_player_key": 65718,
+      "api_name": "L. Vujovic",
       "gender": "women",
       "status": "unmatched",
       "method": "no_safe_match",
-      "confidence": 0.7877,
+      "confidence": 0.8336,
       "elo_player_name": null,
       "elo_player_key": null,
       "candidates": [
         {
-          "elo_player_name": "Yushchenko V.",
-          "elo_player_key": "yushchenko v",
+          "elo_player_name": "Ivkovic L.",
+          "elo_player_key": "ivkovic l",
           "matches_total": 1,
           "gender": "unknown",
-          "score": 0.7877,
+          "score": 0.8336,
           "method": "fuzzy"
         },
         {
-          "elo_player_name": "Yushchenko V.",
-          "elo_player_key": "yushchenko v",
+          "elo_player_name": "Ivkovic L.",
+          "elo_player_key": "ivkovic l",
           "matches_total": 1,
           "gender": "unknown",
-          "score": 0.7877,
+          "score": 0.8336,
           "method": "fuzzy"
         },
         {
-          "elo_player_name": "Diatchenko V.",
-          "elo_player_key": "diatchenko v",
-          "matches_total": 7,
-          "gender": "unknown",
-          "score": 0.7146,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Diatchenko V.",
-          "elo_player_key": "diatchenko v",
-          "matches_total": 7,
-          "gender": "unknown",
-          "score": 0.7146,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Mincheva V.",
-          "elo_player_key": "mincheva v",
-          "matches_total": 3,
-          "gender": "unknown",
-          "score": 0.6823,
-          "method": "fuzzy"
-        }
-      ],
-      "last_seen_event_key": 12135543,
-      "last_seen_tournament": "W15 Los Angeles, CA",
-      "last_seen_tournament_key": 7372,
-      "updated_at": "2026-06-10T23:10:46.873566+02:00"
-    },
-    {
-      "api_player_key": 38259,
-      "api_name": "S. Ewing",
-      "gender": "women",
-      "status": "unmatched",
-      "method": "no_safe_match",
-      "confidence": 0.74,
-      "elo_player_name": null,
-      "elo_player_key": null,
-      "candidates": [
-        {
-          "elo_player_name": "Kenin S.",
-          "elo_player_key": "kenin s",
-          "matches_total": 15,
-          "gender": "unknown",
-          "score": 0.74,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Kenin S.",
-          "elo_player_key": "kenin s",
-          "matches_total": 15,
-          "gender": "unknown",
-          "score": 0.74,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Zheng S.",
-          "elo_player_key": "zheng s",
-          "matches_total": 1,
-          "gender": "unknown",
-          "score": 0.74,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Zheng S.",
-          "elo_player_key": "zheng s",
-          "matches_total": 1,
-          "gender": "unknown",
-          "score": 0.74,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Singh S.",
-          "elo_player_key": "singh s",
-          "matches_total": 1,
-          "gender": "unknown",
-          "score": 0.74,
-          "method": "fuzzy"
-        }
-      ],
-      "last_seen_event_key": 12135547,
-      "last_seen_tournament": "W15 Los Angeles, CA",
-      "last_seen_tournament_key": 7372,
-      "updated_at": "2026-06-10T23:10:47.614003+02:00"
-    },
-    {
-      "api_player_key": 10899,
-      "api_name": "L. Fairclough",
-      "gender": "women",
-      "status": "unmatched",
-      "method": "no_safe_match",
-      "confidence": 0.6202,
-      "elo_player_name": null,
-      "elo_player_key": null,
-      "candidates": [
-        {
-          "elo_player_name": "Chirico L.",
-          "elo_player_key": "chirico l",
-          "matches_total": 9,
-          "gender": "unknown",
-          "score": 0.6202,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Chirico L.",
-          "elo_player_key": "chirico l",
-          "matches_total": 9,
-          "gender": "unknown",
-          "score": 0.6202,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Mair L.",
-          "elo_player_key": "mair l",
+          "elo_player_name": "Pavlovic L.",
+          "elo_player_key": "pavlovic l",
           "matches_total": 11,
           "gender": "unknown",
-          "score": 0.5871,
+          "score": 0.7918,
           "method": "fuzzy"
         },
         {
-          "elo_player_name": "Mair L.",
-          "elo_player_key": "mair l",
+          "elo_player_name": "Pavlovic L.",
+          "elo_player_key": "pavlovic l",
           "matches_total": 11,
           "gender": "unknown",
-          "score": 0.5871,
+          "score": 0.7918,
           "method": "fuzzy"
         },
         {
-          "elo_player_name": "Virc L.",
-          "elo_player_key": "virc l",
-          "matches_total": 2,
+          "elo_player_name": "Palovic L.",
+          "elo_player_key": "palovic l",
+          "matches_total": 1,
           "gender": "unknown",
-          "score": 0.5871,
+          "score": 0.7104,
           "method": "fuzzy"
         }
       ],
-      "last_seen_event_key": 12135547,
-      "last_seen_tournament": "W15 Los Angeles, CA",
-      "last_seen_tournament_key": 7372,
-      "updated_at": "2026-06-10T23:10:48.559891+02:00"
+      "last_seen_event_key": 12135659,
+      "last_seen_tournament": "W35 Casablanca",
+      "last_seen_tournament_key": 11365,
+      "updated_at": "2026-06-11T01:11:58.961317+02:00"
     },
     {
-      "api_player_key": 9255,
-      "api_name": "A. Shcherbinina",
+      "api_player_key": 92973,
+      "api_name": "L. Peer",
       "gender": "women",
       "status": "unmatched",
       "method": "no_safe_match",
-      "confidence": 0.6933,
+      "confidence": 0.7982,
       "elo_player_name": null,
       "elo_player_key": null,
       "candidates": [
         {
-          "elo_player_name": "Senica A.",
-          "elo_player_key": "senica a",
-          "matches_total": 3,
-          "gender": "unknown",
-          "score": 0.6933,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Senica A.",
-          "elo_player_key": "senica a",
-          "matches_total": 3,
-          "gender": "unknown",
-          "score": 0.6933,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Shevchenko A.",
-          "elo_player_key": "shevchenko a",
-          "matches_total": 17,
-          "gender": "unknown",
-          "score": 0.6823,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Shevchenko A.",
-          "elo_player_key": "shevchenko a",
-          "matches_total": 17,
-          "gender": "unknown",
-          "score": 0.6823,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Pastorini A.",
-          "elo_player_key": "pastorini a",
+          "elo_player_name": "Peyre L.",
+          "elo_player_key": "peyre l",
           "matches_total": 1,
           "gender": "unknown",
-          "score": 0.6483,
+          "score": 0.7982,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Peyre L.",
+          "elo_player_key": "peyre l",
+          "matches_total": 1,
+          "gender": "unknown",
+          "score": 0.7982,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Hooper L.",
+          "elo_player_key": "hooper l",
+          "matches_total": 4,
+          "gender": "unknown",
+          "score": 0.74,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Hooper L.",
+          "elo_player_key": "hooper l",
+          "matches_total": 4,
+          "gender": "unknown",
+          "score": 0.74,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Poertner L.",
+          "elo_player_key": "poertner l",
+          "matches_total": 1,
+          "gender": "unknown",
+          "score": 0.6943,
           "method": "fuzzy"
         }
       ],
-      "last_seen_event_key": 12135549,
-      "last_seen_tournament": "W15 Los Angeles, CA",
-      "last_seen_tournament_key": 7372,
-      "updated_at": "2026-06-10T23:10:49.564781+02:00"
-    },
-    {
-      "api_player_key": 58202,
-      "api_name": "P. Charney",
-      "gender": "women",
-      "status": "unmatched",
-      "method": "no_safe_match",
-      "confidence": 0.7492,
-      "elo_player_name": null,
-      "elo_player_key": null,
-      "candidates": [
-        {
-          "elo_player_name": "Corley P.",
-          "elo_player_key": "corley p",
-          "matches_total": 1,
-          "gender": "unknown",
-          "score": 0.7492,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Corley P.",
-          "elo_player_key": "corley p",
-          "matches_total": 1,
-          "gender": "unknown",
-          "score": 0.7492,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Maloney P.",
-          "elo_player_key": "maloney p",
-          "matches_total": 2,
-          "gender": "unknown",
-          "score": 0.7104,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Maloney P.",
-          "elo_player_key": "maloney p",
-          "matches_total": 2,
-          "gender": "unknown",
-          "score": 0.7104,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Michnev P.",
-          "elo_player_key": "michnev p",
-          "matches_total": 1,
-          "gender": "unknown",
-          "score": 0.7104,
-          "method": "fuzzy"
-        }
-      ],
-      "last_seen_event_key": 12135554,
-      "last_seen_tournament": "W35 Decatur, IL",
-      "last_seen_tournament_key": 12629,
-      "updated_at": "2026-06-10T23:10:50.408683+02:00"
+      "last_seen_event_key": 12135660,
+      "last_seen_tournament": "W35 San Gregorio 3 (Italy)",
+      "last_seen_tournament_key": 13966,
+      "updated_at": "2026-06-11T01:11:59.640013+02:00"
     }
   ]
 }
