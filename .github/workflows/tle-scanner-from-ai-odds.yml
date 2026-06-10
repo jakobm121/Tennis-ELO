@@ -1,0 +1,100 @@
+name: TLE Scanner From AI Odds
+
+on:
+  workflow_dispatch:
+    inputs:
+      min_edge:
+        description: "Minimum TLE edge"
+        required: true
+        default: "0.03"
+
+      min_ev:
+        description: "Minimum TLE EV"
+        required: true
+        default: "0.0"
+
+      levels:
+        description: "Comma separated levels"
+        required: true
+        default: "challenger,itf,atp_wta,grand_slam"
+
+      bookmaker:
+        description: "Bookmaker key"
+        required: true
+        default: "Pncl"
+
+      fallback:
+        description: "Fallback if bookmaker missing: none, median, best, max, min"
+        required: true
+        default: "median"
+
+permissions:
+  contents: write
+
+jobs:
+  tle-scanner-from-ai-odds:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Tennis-ELO repository
+        uses: actions/checkout@v4
+
+      - name: Run TLE scanner from AI odds
+        run: |
+          python -m tennis_elo.tle_scanner_from_ai_odds \
+            --ai-odds-url "https://raw.githubusercontent.com/jakobm121/Ai/refs/heads/main/data/tennis_odds_today.json" \
+            --levels "${{ inputs.levels }}" \
+            --bookmaker "${{ inputs.bookmaker }}" \
+            --fallback "${{ inputs.fallback }}" \
+            --min-edge "${{ inputs.min_edge }}" \
+            --min-ev "${{ inputs.min_ev }}"
+
+      - name: Show scanner summary and markdown table
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          latest = Path("data/tle/predictions/tle_scanner_picks_latest.json")
+          table = Path("data/tle/predictions/tle_scanner_table_latest.md")
+
+          if not latest.exists():
+              raise SystemExit(f"Missing scanner output: {latest}")
+
+          payload = json.loads(latest.read_text(encoding="utf-8"))
+
+          print("SUMMARY")
+          print(json.dumps(
+              payload.get("summary", {}),
+              indent=2,
+              ensure_ascii=False,
+          ))
+
+          if table.exists():
+              print("\nTABLE")
+              print(table.read_text(encoding="utf-8"))
+          else:
+              print(f"\nMissing table: {table}")
+          PY
+
+      - name: Commit scanner outputs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email \
+            "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add \
+            data/tle/predictions/tle_scanner_from_ai_odds_*.json \
+            data/tle/predictions/tle_scanner_picks_latest.json \
+            data/tle/predictions/tle_scanner_table_*.csv \
+            data/tle/predictions/tle_scanner_table_*.md \
+            data/tle/predictions/tle_scanner_table_latest.csv \
+            data/tle/predictions/tle_scanner_table_latest.md
+
+          if git diff --cached --quiet; then
+            echo "No scanner outputs to commit."
+            exit 0
+          fi
+
+          git commit -m "Run TLE scanner from AI odds"
+          git push
