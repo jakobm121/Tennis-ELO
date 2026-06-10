@@ -1,0 +1,65 @@
+name: TLE Merge Canonical
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  merge-canonical:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Tennis-ELO repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Merge Sackmann and API sources into canonical TLE database
+        run: |
+          python -m tennis_elo.tle_merge_canonical
+
+      - name: Show canonical merge summary
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          path = Path(
+              "data/tle/reports/tle_merge_canonical_report.json"
+          )
+
+          if not path.exists():
+              raise SystemExit(f"Missing report: {path}")
+
+          payload = json.loads(path.read_text(encoding="utf-8"))
+
+          print(json.dumps(
+              payload.get("summary", {}),
+              indent=2,
+              ensure_ascii=False,
+          ))
+          PY
+
+      - name: Commit canonical TLE database
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email \
+            "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add \
+            data/tle/processed/canonical/tle_matches_*.jsonl.gz \
+            data/tle/processed/canonical/tle_matches_manifest.json \
+            data/tle/reports/tle_merge_canonical_report.json
+
+          if git diff --cached --quiet; then
+            echo "No canonical merge changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Merge TLE canonical matches"
+          git push
