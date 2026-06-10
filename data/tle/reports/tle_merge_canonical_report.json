@@ -1,0 +1,1865 @@
+{
+  "generated_at": "2026-06-10T18:09:29+00:00",
+  "summary": {
+    "canonical_matches": 215534,
+    "year_files": [
+      {
+        "year": 2023,
+        "path": "data/tle/processed/canonical/tle_matches_2023.jsonl.gz",
+        "matches": 65635,
+        "created_at": "2026-06-10T18:09:22+00:00"
+      },
+      {
+        "year": 2024,
+        "path": "data/tle/processed/canonical/tle_matches_2024.jsonl.gz",
+        "matches": 70909,
+        "created_at": "2026-06-10T18:09:25+00:00"
+      },
+      {
+        "year": 2025,
+        "path": "data/tle/processed/canonical/tle_matches_2025.jsonl.gz",
+        "matches": 54306,
+        "created_at": "2026-06-10T18:09:27+00:00"
+      },
+      {
+        "year": 2026,
+        "path": "data/tle/processed/canonical/tle_matches_2026.jsonl.gz",
+        "matches": 24684,
+        "created_at": "2026-06-10T18:09:29+00:00"
+      }
+    ],
+    "levels": {
+      "atp_wta": 13122,
+      "challenger": 33294,
+      "grand_slam": 3442,
+      "itf": 160992,
+      "qualifying": 4684
+    },
+    "surfaces": {
+      "carpet": 2256,
+      "clay": 92885,
+      "grass": 4914,
+      "hard": 115217,
+      "unknown": 262
+    },
+    "genders": {
+      "men": 106991,
+      "women": 108543
+    },
+    "sources": {
+      "api_tennis": 1138,
+      "sackmann": 214396
+    },
+    "input_source_sackmann": 221280,
+    "kept_source_sackmann": 214396,
+    "skipped_not_ready_for_tle": 6720,
+    "skipped_unknown_surface_not_allowed_for_level": 164,
+    "input_source_api_tennis": 1138,
+    "kept_source_api_tennis": 1138
+  },
+  "replaced_sample": [],
+  "replaced_count": 0,
+  "skipped_sample": [
+    {
+      "tle_match_id": "tle_sackmann_7962084a85298099c9a0",
+      "source": "sackmann",
+      "date": "2023-01-02",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_a9a8685c464d68872446",
+      "source": "sackmann",
+      "date": "2023-01-02",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_bd4cc868bb0180622528",
+      "source": "sackmann",
+      "date": "2023-01-02",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_be91a94e25ec33672653",
+      "source": "sackmann",
+      "date": "2023-01-02",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_ef9c8655b92e29058dc5",
+      "source": "sackmann",
+      "date": "2023-01-02",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_401db58b3b6ad7920134",
+      "source": "sackmann",
+      "date": "2023-01-02",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_63f1f3943aae923fea63",
+      "source": "sackmann",
+      "date": "2023-01-02",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_3116f8f7c9da0657c6e5",
+      "source": "sackmann",
+      "date": "2023-01-02",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_17692795f946290c67a3",
+      "source": "sackmann",
+      "date": "2023-01-02",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_7b4ef927bb4807245ef4",
+      "source": "sackmann",
+      "date": "2023-01-02",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_96e252feb2cf6cabadc9",
+      "source": "sackmann",
+      "date": "2023-01-02",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_d384502e72e4f634dea7",
+      "source": "sackmann",
+      "date": "2023-01-02",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_de2fd3ebb76763e2243f",
+      "source": "sackmann",
+      "date": "2023-01-02",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_f821296c4521cbd273c5",
+      "source": "sackmann",
+      "date": "2023-01-02",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_fe64e486ad34a3095461",
+      "source": "sackmann",
+      "date": "2023-01-02",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_37ca0ea80a8eba2f5ec5",
+      "source": "sackmann",
+      "date": "2023-01-09",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_258fbe93549170d77095",
+      "source": "sackmann",
+      "date": "2023-01-09",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_42b1dce505f8272157bc",
+      "source": "sackmann",
+      "date": "2023-01-09",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_71476b6347594244453c",
+      "source": "sackmann",
+      "date": "2023-01-09",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_7d98b8572ed905375a9b",
+      "source": "sackmann",
+      "date": "2023-01-09",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_840d20fa67d5b9dce78a",
+      "source": "sackmann",
+      "date": "2023-01-09",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_97bb76549b02aabcf21d",
+      "source": "sackmann",
+      "date": "2023-01-09",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_b8585a34b936a2474a3e",
+      "source": "sackmann",
+      "date": "2023-01-09",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_cc7db86128e353409c53",
+      "source": "sackmann",
+      "date": "2023-01-09",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_1e259daee15ac214484a",
+      "source": "sackmann",
+      "date": "2023-01-09",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_c66db430db1c1d6b0d7e",
+      "source": "sackmann",
+      "date": "2023-01-09",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_f1f7cc45b00967917f0b",
+      "source": "sackmann",
+      "date": "2023-01-09",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_b66606e72555b0aad66b",
+      "source": "sackmann",
+      "date": "2023-01-09",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_c0cecaa5ce4a83d3773d",
+      "source": "sackmann",
+      "date": "2023-01-09",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_30b48ec46b9b66922ec0",
+      "source": "sackmann",
+      "date": "2023-01-09",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_3300ca2404037a007751",
+      "source": "sackmann",
+      "date": "2023-01-09",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_4a2fac429a59b067cf05",
+      "source": "sackmann",
+      "date": "2023-01-09",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_52db25fe613642434598",
+      "source": "sackmann",
+      "date": "2023-01-09",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_559090ca8837d1ea0fe2",
+      "source": "sackmann",
+      "date": "2023-01-09",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_5954317a71bc3863f8c7",
+      "source": "sackmann",
+      "date": "2023-01-09",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_77ea43cd84d9e62f292f",
+      "source": "sackmann",
+      "date": "2023-01-09",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_7f2bff4a5a84718b4779",
+      "source": "sackmann",
+      "date": "2023-01-09",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_ab6fecc72d0c6ad8fd71",
+      "source": "sackmann",
+      "date": "2023-01-09",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_b8ee525dda1f76dfee09",
+      "source": "sackmann",
+      "date": "2023-01-09",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_b9fb92557c91bef4cf5f",
+      "source": "sackmann",
+      "date": "2023-01-09",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_d1a927eaf4f2238701c0",
+      "source": "sackmann",
+      "date": "2023-01-09",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_ed485800ee04e73245a8",
+      "source": "sackmann",
+      "date": "2023-01-09",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_100bdf5b7ccaf878b5c8",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_20bfc461ec9547653e13",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_308b80ecc6fbf30ec5db",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_654dc0151d84f89cf413",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_6664cfc5002395ffd8d2",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_930f8f549ace5122871b",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_b279ef4c5396a1528411",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_c9c386d08cbe14ea24c8",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_cdb328ebe3b29ba7df0a",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_d7f55ba49ce55c9bdb7b",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_e05f38133732b1bac8b1",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_2a73d1f0d763c53f628d",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_501c69ec583706d3983e",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_58caf078230f53faef2f",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_71dee5c22d58fd76975e",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_8993b49b980f2ef6d849",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_a5dc0387a682c109e80f",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_a800170d9141c4ebc5ea",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_be9e0e68984c178b3201",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_e1622257a4184a3afafc",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_3eb036ef85e4e9cadfb6",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_7b19361d2d0b8733ec09",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_83ff45449115345bdabc",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_89c6417aba051c2aef84",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_b7eef90ae5a826e7c70e",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_178a8f6a69a746d2f6d1",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_1f60529e62afa1266f5e",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_4d7e26a4c8998f034328",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_600a74a7567fd43aa25d",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_647ba17ac61975a3fd62",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_6e87537b77d2a9aa1ce6",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_74858b2b5d6ec49e16b0",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_7866383ab7e54e47a43d",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_96a2d497a742730725a6",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_9a20593499a9c073ba4f",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_a38fe4956614578869a2",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_b0ac5f4a0060dcf13724",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_f2dbcda49a91e863b573",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_fd22b552a50104ecf8b6",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_ff9736b0c11ccdc6166f",
+      "source": "sackmann",
+      "date": "2023-01-16",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_2726e058b26138d68651",
+      "source": "sackmann",
+      "date": "2023-01-23",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_5af6fe647eafc46cd7d4",
+      "source": "sackmann",
+      "date": "2023-01-23",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_9881e4b9b427415e7715",
+      "source": "sackmann",
+      "date": "2023-01-23",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_a62072e96ba72b354236",
+      "source": "sackmann",
+      "date": "2023-01-23",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_e9be2b7016736aac6a87",
+      "source": "sackmann",
+      "date": "2023-01-23",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_024564b0c972c266bbe5",
+      "source": "sackmann",
+      "date": "2023-01-23",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_231631f365cf58a01813",
+      "source": "sackmann",
+      "date": "2023-01-23",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_2fab06d2f37ac358e649",
+      "source": "sackmann",
+      "date": "2023-01-23",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_38c0f1bcd0a7754b6c79",
+      "source": "sackmann",
+      "date": "2023-01-23",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_6b2b12f2d0d9233ca69b",
+      "source": "sackmann",
+      "date": "2023-01-23",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_a35a966070a1c219946c",
+      "source": "sackmann",
+      "date": "2023-01-23",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_b5bc53c6457b17ffcc6c",
+      "source": "sackmann",
+      "date": "2023-01-23",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_c10b13b358c41ea4efcb",
+      "source": "sackmann",
+      "date": "2023-01-23",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_c14af42c2db947f37ab9",
+      "source": "sackmann",
+      "date": "2023-01-23",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_d9f342e9972d92392a0f",
+      "source": "sackmann",
+      "date": "2023-01-23",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_dc8ef2dbae2d2b95756d",
+      "source": "sackmann",
+      "date": "2023-01-23",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_decf53ffe94065d684f0",
+      "source": "sackmann",
+      "date": "2023-01-23",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_03fa3c2229a2868a8fd5",
+      "source": "sackmann",
+      "date": "2023-01-23",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_1d207f881379b1c740c1",
+      "source": "sackmann",
+      "date": "2023-01-23",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_537cd7ae7a25c02f9ee2",
+      "source": "sackmann",
+      "date": "2023-01-23",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_5649b39c02c6535aa838",
+      "source": "sackmann",
+      "date": "2023-01-23",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_582d7209a724a961401a",
+      "source": "sackmann",
+      "date": "2023-01-23",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_5886677c1a1cdbfe4aed",
+      "source": "sackmann",
+      "date": "2023-01-23",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_59a5113d895b28aaa7dd",
+      "source": "sackmann",
+      "date": "2023-01-23",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_6569f1c86e5cfa81891b",
+      "source": "sackmann",
+      "date": "2023-01-23",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_65c1fd4cd2bb4048eb75",
+      "source": "sackmann",
+      "date": "2023-01-23",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_7b57fe38b3b0b6335fd7",
+      "source": "sackmann",
+      "date": "2023-01-23",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_7b8a563fabeb8ac7c54d",
+      "source": "sackmann",
+      "date": "2023-01-23",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_a2f428552abaee188d6e",
+      "source": "sackmann",
+      "date": "2023-01-23",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_ca24195eab941f0c2c36",
+      "source": "sackmann",
+      "date": "2023-01-23",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_f9f289378598465dc932",
+      "source": "sackmann",
+      "date": "2023-01-23",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_18aa0b032c9db5ee14d3",
+      "source": "sackmann",
+      "date": "2023-01-30",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_3b5cbfcfe2a70a006a8c",
+      "source": "sackmann",
+      "date": "2023-01-30",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_7b407a5d335bb0e90c2e",
+      "source": "sackmann",
+      "date": "2023-01-30",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_83398c18d3fb099c16dd",
+      "source": "sackmann",
+      "date": "2023-01-30",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_b98d64ecd38098fd748c",
+      "source": "sackmann",
+      "date": "2023-01-30",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_cbd61ea3557930d0fa4d",
+      "source": "sackmann",
+      "date": "2023-01-30",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_d80147bb6fa0beeb0c33",
+      "source": "sackmann",
+      "date": "2023-01-30",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_45970a826cecb8b6632c",
+      "source": "sackmann",
+      "date": "2023-01-30",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_79cc7e0b7e093282f0e3",
+      "source": "sackmann",
+      "date": "2023-01-30",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_92791704488391d5083b",
+      "source": "sackmann",
+      "date": "2023-01-30",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_ed9e807a075c52f8877d",
+      "source": "sackmann",
+      "date": "2023-01-30",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_09174634caf84e09a5b0",
+      "source": "sackmann",
+      "date": "2023-01-30",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_1090d2cbb149d2f9047d",
+      "source": "sackmann",
+      "date": "2023-01-30",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_232efdbe440a00befbc7",
+      "source": "sackmann",
+      "date": "2023-01-30",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_28b3ebb4897de40ac48e",
+      "source": "sackmann",
+      "date": "2023-01-30",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_2a96790f36b1cdb7063c",
+      "source": "sackmann",
+      "date": "2023-01-30",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_3c34df9f85dde6ccbd2d",
+      "source": "sackmann",
+      "date": "2023-01-30",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_4d936c9da707f73a7caa",
+      "source": "sackmann",
+      "date": "2023-01-30",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_5278968af4498c2e9d79",
+      "source": "sackmann",
+      "date": "2023-01-30",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_57667bb23e0623d92534",
+      "source": "sackmann",
+      "date": "2023-01-30",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_7c9289d3e67d25d19e74",
+      "source": "sackmann",
+      "date": "2023-01-30",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_8fe40a075dc0b9af1436",
+      "source": "sackmann",
+      "date": "2023-01-30",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_a80e3606be7ae229aaaa",
+      "source": "sackmann",
+      "date": "2023-01-30",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_b5c2d735273cafb92df1",
+      "source": "sackmann",
+      "date": "2023-01-30",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_c07860dedb316529decb",
+      "source": "sackmann",
+      "date": "2023-01-30",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_d2ee7d1b2201713d6dd3",
+      "source": "sackmann",
+      "date": "2023-01-30",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_ff134e41506cf8843928",
+      "source": "sackmann",
+      "date": "2023-01-30",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_a143e5a1cac0d74a1b75",
+      "source": "sackmann",
+      "date": "2023-02-02",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_aa3641dd5702cc3f5290",
+      "source": "sackmann",
+      "date": "2023-02-02",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_e4b65bed02920c0bfb4f",
+      "source": "sackmann",
+      "date": "2023-02-02",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_016a30a3952550b93ef9",
+      "source": "sackmann",
+      "date": "2023-02-03",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_0fbb1295555a4fb448b6",
+      "source": "sackmann",
+      "date": "2023-02-03",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_15e3da657c1c8e2275cc",
+      "source": "sackmann",
+      "date": "2023-02-03",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_1f5a343871b3986764e8",
+      "source": "sackmann",
+      "date": "2023-02-03",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_30bb19c89200f5802f1b",
+      "source": "sackmann",
+      "date": "2023-02-03",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_35fae699d3ab958845e5",
+      "source": "sackmann",
+      "date": "2023-02-03",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_36d510d1e8557a689c38",
+      "source": "sackmann",
+      "date": "2023-02-03",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_3814cf9ccd8dc6ce5810",
+      "source": "sackmann",
+      "date": "2023-02-03",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_3957f776caadcc4a3e0a",
+      "source": "sackmann",
+      "date": "2023-02-03",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_4f142501b2c4297e4a49",
+      "source": "sackmann",
+      "date": "2023-02-03",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_50c8821bf7a6ae498b06",
+      "source": "sackmann",
+      "date": "2023-02-03",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_5710954b167b5fbf9647",
+      "source": "sackmann",
+      "date": "2023-02-03",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_5814660a4c78ea4e2e0d",
+      "source": "sackmann",
+      "date": "2023-02-03",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_596fef9ff6fca610ec5b",
+      "source": "sackmann",
+      "date": "2023-02-03",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_6161d1d7b629af2c38ba",
+      "source": "sackmann",
+      "date": "2023-02-03",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_64bc4d9fff4a7574e329",
+      "source": "sackmann",
+      "date": "2023-02-03",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_6891545b69be55e44ef7",
+      "source": "sackmann",
+      "date": "2023-02-03",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_6bbf9d1c97a3f3e21ae1",
+      "source": "sackmann",
+      "date": "2023-02-03",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_7068568911f01a76f54b",
+      "source": "sackmann",
+      "date": "2023-02-03",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_731b1c25488635935154",
+      "source": "sackmann",
+      "date": "2023-02-03",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_89ab7763f786bd4cea45",
+      "source": "sackmann",
+      "date": "2023-02-03",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_8b979416bd24a8eca88d",
+      "source": "sackmann",
+      "date": "2023-02-03",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_8bee331c75964575dfff",
+      "source": "sackmann",
+      "date": "2023-02-03",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_90cfae7f37b939ef8100",
+      "source": "sackmann",
+      "date": "2023-02-03",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_954397b9c339354d4d40",
+      "source": "sackmann",
+      "date": "2023-02-03",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_a23aaa107308da308c67",
+      "source": "sackmann",
+      "date": "2023-02-03",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_b09baeb3753f9335d278",
+      "source": "sackmann",
+      "date": "2023-02-03",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_bbb7ef09580de63704fb",
+      "source": "sackmann",
+      "date": "2023-02-03",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_bbf5dde1f29c4e53f4d7",
+      "source": "sackmann",
+      "date": "2023-02-03",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_bcf1779581ab0f30bcfc",
+      "source": "sackmann",
+      "date": "2023-02-03",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_d58cc0a5f09131796937",
+      "source": "sackmann",
+      "date": "2023-02-03",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_dfe9010fb421bb92b435",
+      "source": "sackmann",
+      "date": "2023-02-03",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_e0aff7fdaa380de8292a",
+      "source": "sackmann",
+      "date": "2023-02-03",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_f5d57fb2dd020d8104c8",
+      "source": "sackmann",
+      "date": "2023-02-03",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_1f05b2c6a53d99ea7ab3",
+      "source": "sackmann",
+      "date": "2023-02-04",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_26415a912a153e7c460b",
+      "source": "sackmann",
+      "date": "2023-02-04",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_26cdbf02baefafb2fd46",
+      "source": "sackmann",
+      "date": "2023-02-04",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_3604ee58fd740df1330e",
+      "source": "sackmann",
+      "date": "2023-02-04",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_4ad92518db5209d505f1",
+      "source": "sackmann",
+      "date": "2023-02-04",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_51b1d52d018cf6045af6",
+      "source": "sackmann",
+      "date": "2023-02-04",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_59678d5419c56f6a9b84",
+      "source": "sackmann",
+      "date": "2023-02-04",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_76add98e8e05c85c6add",
+      "source": "sackmann",
+      "date": "2023-02-04",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_77be7bbb8af2232a32f9",
+      "source": "sackmann",
+      "date": "2023-02-04",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_a0c21c73d4322c4fbe96",
+      "source": "sackmann",
+      "date": "2023-02-04",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_a2dc70c58fffbb8cb7f7",
+      "source": "sackmann",
+      "date": "2023-02-04",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_b88347729a2b7756c3f5",
+      "source": "sackmann",
+      "date": "2023-02-04",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_bf07aa2fb97dc0b736a1",
+      "source": "sackmann",
+      "date": "2023-02-04",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_c59212c1c4e5622f0cb9",
+      "source": "sackmann",
+      "date": "2023-02-04",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_e8fdb9b288ce118b38dc",
+      "source": "sackmann",
+      "date": "2023-02-04",
+      "reason": "unknown_surface_not_allowed_for_level"
+    },
+    {
+      "tle_match_id": "tle_sackmann_fb15ee23a5939a5e0343",
+      "source": "sackmann",
+      "date": "2023-02-04",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_6a52ae7f81a137c6f8d2",
+      "source": "sackmann",
+      "date": "2023-02-06",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_7098a18fd9ec93683428",
+      "source": "sackmann",
+      "date": "2023-02-06",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_9d6824d216e0cfd5c17b",
+      "source": "sackmann",
+      "date": "2023-02-06",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_fec2fdbc317f0a7435e8",
+      "source": "sackmann",
+      "date": "2023-02-06",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_0238d46f86df6233e736",
+      "source": "sackmann",
+      "date": "2023-02-06",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_21da80d2f985163e3797",
+      "source": "sackmann",
+      "date": "2023-02-06",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_7a0a874998a7bf08c64e",
+      "source": "sackmann",
+      "date": "2023-02-06",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_8a8dd15bf1d905a3d1b1",
+      "source": "sackmann",
+      "date": "2023-02-06",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_97b35474b91de26d1f69",
+      "source": "sackmann",
+      "date": "2023-02-06",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_df2d1cc10e6023398e6d",
+      "source": "sackmann",
+      "date": "2023-02-06",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_dffc25047ca69a60dd9b",
+      "source": "sackmann",
+      "date": "2023-02-06",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_e2a788bf7904542272cf",
+      "source": "sackmann",
+      "date": "2023-02-06",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_1399d05e622ccb6675d3",
+      "source": "sackmann",
+      "date": "2023-02-06",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_450321ddf193e9acd223",
+      "source": "sackmann",
+      "date": "2023-02-06",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_832f3c6bc3dc44bc509a",
+      "source": "sackmann",
+      "date": "2023-02-06",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_ab3ea12348b327525b55",
+      "source": "sackmann",
+      "date": "2023-02-06",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_cbc7aafe87a3a7dd5883",
+      "source": "sackmann",
+      "date": "2023-02-06",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_f500343a9a43ac97351d",
+      "source": "sackmann",
+      "date": "2023-02-06",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_74ba2a101c5d12c5d94e",
+      "source": "sackmann",
+      "date": "2023-02-06",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_0c24350191cedf8f055f",
+      "source": "sackmann",
+      "date": "2023-02-06",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_0f543acf3ed0771b7e69",
+      "source": "sackmann",
+      "date": "2023-02-06",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_1321399ced7c0e56b705",
+      "source": "sackmann",
+      "date": "2023-02-06",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_4f8eef1c0eb018e6ab55",
+      "source": "sackmann",
+      "date": "2023-02-06",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_81480fbe10df77d7a744",
+      "source": "sackmann",
+      "date": "2023-02-06",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_86e241e27921b89485a7",
+      "source": "sackmann",
+      "date": "2023-02-06",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_986f23ddda4d5da5433f",
+      "source": "sackmann",
+      "date": "2023-02-06",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_9af1bfe34f3e70c66802",
+      "source": "sackmann",
+      "date": "2023-02-06",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_a39b8ae1fc98e600f25e",
+      "source": "sackmann",
+      "date": "2023-02-06",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_a79b38b9e0f82a627927",
+      "source": "sackmann",
+      "date": "2023-02-06",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_b66750c99c62a9ca3ae7",
+      "source": "sackmann",
+      "date": "2023-02-06",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_b9aee3a0cd12e3e21261",
+      "source": "sackmann",
+      "date": "2023-02-06",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_bca7b5281786f6c8a32a",
+      "source": "sackmann",
+      "date": "2023-02-06",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_d14a95bf379cd4d0a033",
+      "source": "sackmann",
+      "date": "2023-02-06",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_dd72dbab1accd088cfd4",
+      "source": "sackmann",
+      "date": "2023-02-06",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_e99c50b50e6e79e01a51",
+      "source": "sackmann",
+      "date": "2023-02-06",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_fc64cc5f011b0500c84e",
+      "source": "sackmann",
+      "date": "2023-02-06",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_e20cef60e9147194779e",
+      "source": "sackmann",
+      "date": "2023-02-13",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_02dee75f1a9d6d7f102d",
+      "source": "sackmann",
+      "date": "2023-02-13",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_4e1991b9b6553b7ef770",
+      "source": "sackmann",
+      "date": "2023-02-13",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_5498723481f5ac92b377",
+      "source": "sackmann",
+      "date": "2023-02-13",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_678e2097368c395f37df",
+      "source": "sackmann",
+      "date": "2023-02-13",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_6f17b58911e335c8a98a",
+      "source": "sackmann",
+      "date": "2023-02-13",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_f7a1f25ee956d82df309",
+      "source": "sackmann",
+      "date": "2023-02-13",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_735f52e485340b601ab5",
+      "source": "sackmann",
+      "date": "2023-02-13",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_102b07d5bd0cedef77d1",
+      "source": "sackmann",
+      "date": "2023-02-13",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_13d3780031b3488d368e",
+      "source": "sackmann",
+      "date": "2023-02-13",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_2c7888343ed25282d86c",
+      "source": "sackmann",
+      "date": "2023-02-13",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_3eab527cbe4317eca997",
+      "source": "sackmann",
+      "date": "2023-02-13",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_3ee07edf03af5530ac87",
+      "source": "sackmann",
+      "date": "2023-02-13",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_536921fcce9d273e7992",
+      "source": "sackmann",
+      "date": "2023-02-13",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_5d32d84769ab56c6490a",
+      "source": "sackmann",
+      "date": "2023-02-13",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_639cd35d001abc54f930",
+      "source": "sackmann",
+      "date": "2023-02-13",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_87066b18009adbef9470",
+      "source": "sackmann",
+      "date": "2023-02-13",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_985de6aaae44dd388fbd",
+      "source": "sackmann",
+      "date": "2023-02-13",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_9d4f326d389de93e1973",
+      "source": "sackmann",
+      "date": "2023-02-13",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_e0ab5df3993d5967db50",
+      "source": "sackmann",
+      "date": "2023-02-13",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_e7a4ccf5160e48adcb11",
+      "source": "sackmann",
+      "date": "2023-02-13",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_5e363824ffd8fb616eae",
+      "source": "sackmann",
+      "date": "2023-02-20",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_fa9d102416b6dc7b9606",
+      "source": "sackmann",
+      "date": "2023-02-20",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_2e6e021773b42d26c543",
+      "source": "sackmann",
+      "date": "2023-02-20",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_402d1791a33efa13f2e6",
+      "source": "sackmann",
+      "date": "2023-02-20",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_7a4751dcc24e7bfad887",
+      "source": "sackmann",
+      "date": "2023-02-20",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_ac437696e11dbcfae8ef",
+      "source": "sackmann",
+      "date": "2023-02-20",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_af40310d594fc6cebd44",
+      "source": "sackmann",
+      "date": "2023-02-20",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_b06d47a6e15765095f71",
+      "source": "sackmann",
+      "date": "2023-02-20",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_e1f631a9ad45fe604e84",
+      "source": "sackmann",
+      "date": "2023-02-20",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_f1af2b80535c389c0dca",
+      "source": "sackmann",
+      "date": "2023-02-20",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_1ce56e27acb699af3660",
+      "source": "sackmann",
+      "date": "2023-02-20",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_2c61f46d57215c66cba9",
+      "source": "sackmann",
+      "date": "2023-02-20",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_884a60be366246c55b65",
+      "source": "sackmann",
+      "date": "2023-02-20",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_c95bf977f31f06815840",
+      "source": "sackmann",
+      "date": "2023-02-20",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_cadd25d3d97f0ff1fb84",
+      "source": "sackmann",
+      "date": "2023-02-20",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_d6d201660da92f25dad4",
+      "source": "sackmann",
+      "date": "2023-02-20",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_dd4caaf5b5b7a02be89d",
+      "source": "sackmann",
+      "date": "2023-02-20",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_0284073975db9af2390a",
+      "source": "sackmann",
+      "date": "2023-02-20",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_10d7aee29f96a2d310a1",
+      "source": "sackmann",
+      "date": "2023-02-20",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_1849c8f400bd1535ff4e",
+      "source": "sackmann",
+      "date": "2023-02-20",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_44474713704ab71a8d46",
+      "source": "sackmann",
+      "date": "2023-02-20",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_489401e359ebfe2b725a",
+      "source": "sackmann",
+      "date": "2023-02-20",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_4b1fe381f15ae7c01737",
+      "source": "sackmann",
+      "date": "2023-02-20",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_4d8fc7def13471b9b94f",
+      "source": "sackmann",
+      "date": "2023-02-20",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_614dd062276c7734b13d",
+      "source": "sackmann",
+      "date": "2023-02-20",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_6aa9e0b18d91adf8559a",
+      "source": "sackmann",
+      "date": "2023-02-20",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_6d7be7a1cf3ff78e8195",
+      "source": "sackmann",
+      "date": "2023-02-20",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_a16c8a84162472a7fea9",
+      "source": "sackmann",
+      "date": "2023-02-20",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_a383158672f56b33c201",
+      "source": "sackmann",
+      "date": "2023-02-20",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_a98519cd4a54ecc90691",
+      "source": "sackmann",
+      "date": "2023-02-20",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_b98febd953a7ceb398f4",
+      "source": "sackmann",
+      "date": "2023-02-20",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_c7a396bb44f394de6ca5",
+      "source": "sackmann",
+      "date": "2023-02-20",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_e882dcdd1f30f236f1f1",
+      "source": "sackmann",
+      "date": "2023-02-20",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_fef1d082cdbe12673820",
+      "source": "sackmann",
+      "date": "2023-02-20",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_029f7bd59c37a8dbe229",
+      "source": "sackmann",
+      "date": "2023-02-27",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_04be5d5db6820fe4e277",
+      "source": "sackmann",
+      "date": "2023-02-27",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_17ee394bd3032c1cee89",
+      "source": "sackmann",
+      "date": "2023-02-27",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_27053e5f8e4cbe923680",
+      "source": "sackmann",
+      "date": "2023-02-27",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_27f1627b54cb2dee25c9",
+      "source": "sackmann",
+      "date": "2023-02-27",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_5e5b8a2f5582b6ec35d1",
+      "source": "sackmann",
+      "date": "2023-02-27",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_e8b2023732f2ac263c1d",
+      "source": "sackmann",
+      "date": "2023-02-27",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_01c65185768fc3d289ea",
+      "source": "sackmann",
+      "date": "2023-02-27",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_27a3c813cd17f700f618",
+      "source": "sackmann",
+      "date": "2023-02-27",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_5eaee28c4dd327946c15",
+      "source": "sackmann",
+      "date": "2023-02-27",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_7bc884abca23a549d719",
+      "source": "sackmann",
+      "date": "2023-02-27",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_a549b96ebc340a13c402",
+      "source": "sackmann",
+      "date": "2023-02-27",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_c2ee660c49947e7a7078",
+      "source": "sackmann",
+      "date": "2023-02-27",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_023e64e3659671e65cfa",
+      "source": "sackmann",
+      "date": "2023-02-27",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_102ca17bd9bc43b43e06",
+      "source": "sackmann",
+      "date": "2023-02-27",
+      "reason": "not_ready_for_tle"
+    },
+    {
+      "tle_match_id": "tle_sackmann_17e4328cb53d5cde76b5",
+      "source": "sackmann",
+      "date": "2023-02-27",
+      "reason": "not_ready_for_tle"
+    }
+  ],
+  "skipped_count": 6884
+}

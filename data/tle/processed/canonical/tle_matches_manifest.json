@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "source": "canonical",
+  "generated_at": "2026-06-10T18:09:29+00:00",
+  "source_priority": {
+    "sackmann": 1,
+    "api_tennis": 2
+  },
+  "inputs": {
+    "sackmann_manifest": "data/tle/processed/sackmann/tle_sackmann_manifest.json",
+    "api_manifest": "data/tle/source/api/tle_api_matches_manifest.json"
+  },
+  "year_files": [
+    {
+      "year": 2023,
+      "path": "data/tle/processed/canonical/tle_matches_2023.jsonl.gz",
+      "matches": 65635,
+      "created_at": "2026-06-10T18:09:22+00:00"
+    },
+    {
+      "year": 2024,
+      "path": "data/tle/processed/canonical/tle_matches_2024.jsonl.gz",
+      "matches": 70909,
+      "created_at": "2026-06-10T18:09:25+00:00"
+    },
+    {
+      "year": 2025,
+      "path": "data/tle/processed/canonical/tle_matches_2025.jsonl.gz",
+      "matches": 54306,
+      "created_at": "2026-06-10T18:09:27+00:00"
+    },
+    {
+      "year": 2026,
+      "path": "data/tle/processed/canonical/tle_matches_2026.jsonl.gz",
+      "matches": 24684,
+      "created_at": "2026-06-10T18:09:29+00:00"
+    }
+  ],
+  "matches_total": 215534,
+  "surface_policy": {
+    "unknown_surface_allowed_for_levels": [
+      "itf",
+      "qualifying"
+    ],
+    "rating_behavior": "unknown surface matches update overall layers only; surface layers are skipped by tle_build_ratings.py"
+  }
+}
