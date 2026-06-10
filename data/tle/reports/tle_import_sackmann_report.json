@@ -1,0 +1,286 @@
+{
+  "generated_at": "2026-06-10T12:55:02.843530+02:00",
+  "model_family": "tle",
+  "summary": {
+    "start_year": 2023,
+    "end_year": 2026,
+    "matches_total": 221280,
+    "ready_for_tle": 214560,
+    "retired_matches": 6720,
+    "files_requested": 20,
+    "files_loaded": 20,
+    "files_missing_or_failed": 0,
+    "by_gender": {
+      "men": 110087,
+      "women": 111193
+    },
+    "by_tour_level": {
+      "atp_wta": 13663,
+      "grand_slam": 3540,
+      "challenger": 34547,
+      "qualifying": 4498,
+      "itf": 165032
+    },
+    "by_surface": {
+      "hard": 118681,
+      "clay": 95262,
+      "grass": 4871,
+      "unknown": 168,
+      "carpet": 2298
+    },
+    "by_source_family": {
+      "main": 19902,
+      "qual_chall": 39045,
+      "futures": 60662,
+      "qual_itf": 101671
+    },
+    "skipped": {
+      "walkover": 1205,
+      "same_player": 1
+    }
+  },
+  "year_files": [
+    {
+      "year": 2023,
+      "path": "data/tle/processed/sackmann/tle_sackmann_matches_2023.jsonl.gz",
+      "matches": 67989,
+      "ready_for_tle": 65686,
+      "retired_matches": 2303,
+      "size_bytes": 5600214,
+      "size_mb": 5.34,
+      "format": "jsonl.gz"
+    },
+    {
+      "year": 2024,
+      "path": "data/tle/processed/sackmann/tle_sackmann_matches_2024.jsonl.gz",
+      "matches": 72867,
+      "ready_for_tle": 70418,
+      "retired_matches": 2449,
+      "size_bytes": 6026779,
+      "size_mb": 5.75,
+      "format": "jsonl.gz"
+    },
+    {
+      "year": 2025,
+      "path": "data/tle/processed/sackmann/tle_sackmann_matches_2025.jsonl.gz",
+      "matches": 56359,
+      "ready_for_tle": 54890,
+      "retired_matches": 1469,
+      "size_bytes": 4544365,
+      "size_mb": 4.33,
+      "format": "jsonl.gz"
+    },
+    {
+      "year": 2026,
+      "path": "data/tle/processed/sackmann/tle_sackmann_matches_2026.jsonl.gz",
+      "matches": 24065,
+      "ready_for_tle": 23566,
+      "retired_matches": 499,
+      "size_bytes": 1910081,
+      "size_mb": 1.82,
+      "format": "jsonl.gz"
+    }
+  ],
+  "source_files": [
+    {
+      "year": 2023,
+      "gender": "men",
+      "source_family": "main",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_atp/master/atp_matches_2023.csv",
+      "raw_rows": 2986,
+      "accepted_rows": 2966,
+      "duplicate_rows": 0,
+      "error": null
+    },
+    {
+      "year": 2023,
+      "gender": "men",
+      "source_family": "qual_chall",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_atp/master/atp_matches_qual_chall_2023.csv",
+      "raw_rows": 10663,
+      "accepted_rows": 10628,
+      "duplicate_rows": 0,
+      "error": null
+    },
+    {
+      "year": 2023,
+      "gender": "men",
+      "source_family": "futures",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_atp/master/atp_matches_futures_2023.csv",
+      "raw_rows": 17626,
+      "accepted_rows": 17570,
+      "duplicate_rows": 0,
+      "error": null
+    },
+    {
+      "year": 2023,
+      "gender": "women",
+      "source_family": "main",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_wta/master/wta_matches_2023.csv",
+      "raw_rows": 2810,
+      "accepted_rows": 2788,
+      "duplicate_rows": 0,
+      "error": null
+    },
+    {
+      "year": 2023,
+      "gender": "women",
+      "source_family": "qual_itf",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_wta/master/wta_matches_qual_itf_2023.csv",
+      "raw_rows": 34322,
+      "accepted_rows": 34037,
+      "duplicate_rows": 103,
+      "error": null
+    },
+    {
+      "year": 2024,
+      "gender": "men",
+      "source_family": "main",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_atp/master/atp_matches_2024.csv",
+      "raw_rows": 3076,
+      "accepted_rows": 3055,
+      "duplicate_rows": 1,
+      "error": null
+    },
+    {
+      "year": 2024,
+      "gender": "men",
+      "source_family": "qual_chall",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_atp/master/atp_matches_qual_chall_2024.csv",
+      "raw_rows": 11190,
+      "accepted_rows": 11136,
+      "duplicate_rows": 1,
+      "error": null
+    },
+    {
+      "year": 2024,
+      "gender": "men",
+      "source_family": "futures",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_atp/master/atp_matches_futures_2024.csv",
+      "raw_rows": 18423,
+      "accepted_rows": 18343,
+      "duplicate_rows": 0,
+      "error": null
+    },
+    {
+      "year": 2024,
+      "gender": "women",
+      "source_family": "main",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_wta/master/wta_matches_2024.csv",
+      "raw_rows": 2689,
+      "accepted_rows": 2671,
+      "duplicate_rows": 0,
+      "error": null
+    },
+    {
+      "year": 2024,
+      "gender": "women",
+      "source_family": "qual_itf",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_wta/master/wta_matches_qual_itf_2024.csv",
+      "raw_rows": 38281,
+      "accepted_rows": 37662,
+      "duplicate_rows": 168,
+      "error": null
+    },
+    {
+      "year": 2025,
+      "gender": "men",
+      "source_family": "main",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_atp/master/atp_matches_2025.csv",
+      "raw_rows": 2944,
+      "accepted_rows": 2921,
+      "duplicate_rows": 1,
+      "error": null
+    },
+    {
+      "year": 2025,
+      "gender": "men",
+      "source_family": "qual_chall",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_atp/master/atp_matches_qual_chall_2025.csv",
+      "raw_rows": 11629,
+      "accepted_rows": 11565,
+      "duplicate_rows": 1,
+      "error": null
+    },
+    {
+      "year": 2025,
+      "gender": "men",
+      "source_family": "futures",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_atp/master/atp_matches_futures_2025.csv",
+      "raw_rows": 17906,
+      "accepted_rows": 17870,
+      "duplicate_rows": 0,
+      "error": null
+    },
+    {
+      "year": 2025,
+      "gender": "women",
+      "source_family": "main",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_wta/master/wta_matches_2025.csv",
+      "raw_rows": 2795,
+      "accepted_rows": 2777,
+      "duplicate_rows": 0,
+      "error": null
+    },
+    {
+      "year": 2025,
+      "gender": "women",
+      "source_family": "qual_itf",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_wta/master/wta_matches_qual_itf_2025.csv",
+      "raw_rows": 21615,
+      "accepted_rows": 21226,
+      "duplicate_rows": 336,
+      "error": null
+    },
+    {
+      "year": 2026,
+      "gender": "men",
+      "source_family": "main",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_atp/master/atp_matches_2026.csv",
+      "raw_rows": 1449,
+      "accepted_rows": 1438,
+      "duplicate_rows": 0,
+      "error": null
+    },
+    {
+      "year": 2026,
+      "gender": "men",
+      "source_family": "qual_chall",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_atp/master/atp_matches_qual_chall_2026.csv",
+      "raw_rows": 5745,
+      "accepted_rows": 5716,
+      "duplicate_rows": 1,
+      "error": null
+    },
+    {
+      "year": 2026,
+      "gender": "men",
+      "source_family": "futures",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_atp/master/atp_matches_futures_2026.csv",
+      "raw_rows": 6894,
+      "accepted_rows": 6879,
+      "duplicate_rows": 0,
+      "error": null
+    },
+    {
+      "year": 2026,
+      "gender": "women",
+      "source_family": "main",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_wta/master/wta_matches_2026.csv",
+      "raw_rows": 1295,
+      "accepted_rows": 1286,
+      "duplicate_rows": 0,
+      "error": null
+    },
+    {
+      "year": 2026,
+      "gender": "women",
+      "source_family": "qual_itf",
+      "url": "https://raw.githubusercontent.com/JeffSackmann/tennis_wta/master/wta_matches_qual_itf_2026.csv",
+      "raw_rows": 8975,
+      "accepted_rows": 8746,
+      "duplicate_rows": 215,
+      "error": null
+    }
+  ]
+}
