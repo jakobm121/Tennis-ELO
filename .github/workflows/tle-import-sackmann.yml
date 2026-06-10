@@ -22,7 +22,7 @@ concurrency:
 jobs:
   tle-import-sackmann:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45
 
     steps:
       - name: Checkout repository
@@ -43,6 +43,11 @@ jobs:
             pip install -r requirements.txt
           fi
 
+      - name: Remove obsolete large TLE file
+        run: |
+          rm -f data/tle/processed/tle_sackmann_matches.json
+          rm -f data/tle/reports/tle_import_sackmann_report.json
+
       - name: Import Sackmann history for TLE
         env:
           TLE_START_YEAR: ${{ github.event.inputs.start_year || '2023' }}
@@ -54,49 +59,116 @@ jobs:
       - name: Validate TLE import
         run: |
           python - <<'PY'
+          import gzip
           import json
           from pathlib import Path
 
-          output_path = Path(
-              "data/tle/processed/"
-              "tle_sackmann_matches.json"
+          base_dir = Path(
+              "data/tle/processed/sackmann"
+          )
+          manifest_path = (
+              base_dir
+              / "tle_sackmann_manifest.json"
           )
           report_path = Path(
               "data/tle/reports/"
               "tle_import_sackmann_report.json"
           )
 
-          for path in (output_path, report_path):
+          for path in (
+              manifest_path,
+              report_path,
+          ):
               if not path.exists():
                   raise SystemExit(
                       f"Missing generated file: {path}"
                   )
 
-          data = json.loads(
-              output_path.read_text(encoding="utf-8")
+          manifest = json.loads(
+              manifest_path.read_text(
+                  encoding="utf-8"
+              )
+          )
+          report = json.loads(
+              report_path.read_text(
+                  encoding="utf-8"
+              )
           )
 
-          print("SUMMARY:", data.get("summary", {}))
-          print("\nFILES:")
+          print(
+              "SUMMARY:",
+              report.get("summary", {}),
+          )
 
-          for row in data.get("files", []):
+          year_files = manifest.get(
+              "year_files",
+              [],
+          )
+
+          if not year_files:
+              raise SystemExit(
+                  "Manifest contains no year files"
+              )
+
+          print("\nYEAR FILES:")
+
+          total_rows = 0
+
+          for item in year_files:
+              path = Path(item["path"])
+
+              if not path.exists():
+                  raise SystemExit(
+                      f"Missing year file: {path}"
+                  )
+
+              size_mb = (
+                  path.stat().st_size
+                  / 1024
+                  / 1024
+              )
+
+              if size_mb >= 100:
+                  raise SystemExit(
+                      f"File exceeds GitHub limit: "
+                      f"{path} ({size_mb:.2f} MB)"
+                  )
+
+              rows = 0
+
+              with gzip.open(
+                  path,
+                  "rt",
+                  encoding="utf-8",
+              ) as handle:
+                  for line in handle:
+                      if line.strip():
+                          rows += 1
+
+              total_rows += rows
+
               print({
-                  "year": row.get("year"),
-                  "gender": row.get("gender"),
-                  "source_family": row.get("source_family"),
-                  "raw_rows": row.get("raw_rows"),
-                  "accepted_rows": row.get("accepted_rows"),
-                  "duplicate_rows": row.get("duplicate_rows"),
-                  "error": row.get("error"),
+                  "year": item.get("year"),
+                  "path": str(path),
+                  "rows": rows,
+                  "size_mb": round(size_mb, 2),
               })
 
-          matches = data.get("matches", [])
+          expected = int(
+              report.get(
+                  "summary",
+                  {},
+              ).get(
+                  "matches_total",
+                  0,
+              )
+          )
 
-          if not isinstance(matches, list):
-              raise SystemExit("Invalid matches structure")
-
-          if not matches:
-              raise SystemExit("TLE import produced zero matches")
+          if total_rows != expected:
+              raise SystemExit(
+                  f"Row count mismatch: "
+                  f"{total_rows} != {expected}"
+              )
           PY
 
       - name: Commit TLE outputs
@@ -104,7 +176,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add data/tle/processed/tle_sackmann_matches.json
+          git add -A data/tle/processed
           git add data/tle/reports/tle_import_sackmann_report.json
 
           if git diff --cached --quiet; then
