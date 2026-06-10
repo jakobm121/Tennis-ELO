@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-06-10T18:24:12.180291+02:00",
+  "generated_at": "2026-06-10T23:10:50.408708+02:00",
   "source_odds_url": "https://raw.githubusercontent.com/jakobm121/Ai/refs/heads/main/data/tennis_odds_today.json",
-  "odds_generated_at": "2026-06-10T18:11:26.927010+02:00",
-  "ratings_generated_at": "2026-06-10T18:11:19.194945+02:00",
+  "odds_generated_at": "2026-06-10T22:46:33.753073+02:00",
+  "ratings_generated_at": "2026-06-10T22:54:20.705602+02:00",
   "players": {
     "2813": {
       "api_player_key": 2813,
@@ -12352,9 +12352,9 @@
           "method": "fuzzy"
         },
         {
-          "elo_player_name": "Hodkin S.",
-          "elo_player_key": "hodkin s",
-          "matches_total": 2,
+          "elo_player_name": "Gorzny S.",
+          "elo_player_key": "gorzny s",
+          "matches_total": 29,
           "gender": "unknown",
           "score": 0.6919,
           "method": "fuzzy"
@@ -12363,7 +12363,7 @@
       "last_seen_event_key": 12135090,
       "last_seen_tournament": "M15 Los Angeles, CA",
       "last_seen_tournament_key": 7368,
-      "updated_at": "2026-06-10T18:23:41.129800+02:00"
+      "updated_at": "2026-06-10T23:10:38.479882+02:00"
     },
     "28596": {
       "api_player_key": 28596,
@@ -12834,7 +12834,7 @@
         {
           "elo_player_name": "Mincheva V.",
           "elo_player_key": "mincheva v",
-          "matches_total": 2,
+          "matches_total": 3,
           "gender": "unknown",
           "score": 0.6823,
           "method": "fuzzy"
@@ -12843,7 +12843,7 @@
       "last_seen_event_key": 12135543,
       "last_seen_tournament": "W15 Los Angeles, CA",
       "last_seen_tournament_key": 7372,
-      "updated_at": "2026-06-10T18:24:02.986896+02:00"
+      "updated_at": "2026-06-10T23:10:46.873566+02:00"
     },
     "1358": {
       "api_player_key": 1358,
@@ -23011,7 +23011,7 @@
       "last_seen_event_key": 12135383,
       "last_seen_tournament": "M15 Vaasa",
       "last_seen_tournament_key": 7189,
-      "updated_at": "2026-06-10T18:23:48.747944+02:00"
+      "updated_at": "2026-06-10T23:10:39.359230+02:00"
     },
     "30582": {
       "api_player_key": 30582,
@@ -23067,7 +23067,7 @@
       "last_seen_event_key": 12135383,
       "last_seen_tournament": "M15 Vaasa",
       "last_seen_tournament_key": 7189,
-      "updated_at": "2026-06-10T18:23:49.558961+02:00"
+      "updated_at": "2026-06-10T23:10:40.167706+02:00"
     },
     "74727": {
       "api_player_key": 74727,
@@ -23875,7 +23875,7 @@
       "last_seen_event_key": 12135397,
       "last_seen_tournament": "W15 Merzig",
       "last_seen_tournament_key": 12539,
-      "updated_at": "2026-06-10T18:23:55.711198+02:00"
+      "updated_at": "2026-06-10T23:10:41.094023+02:00"
     },
     "14243": {
       "api_player_key": 14243,
@@ -28579,7 +28579,7 @@
       "last_seen_event_key": 12135526,
       "last_seen_tournament": "M15 Los Angeles, CA",
       "last_seen_tournament_key": 7368,
-      "updated_at": "2026-06-10T18:23:58.773318+02:00"
+      "updated_at": "2026-06-10T23:10:42.607298+02:00"
     },
     "90153": {
       "api_player_key": 90153,
@@ -28650,7 +28650,7 @@
         {
           "elo_player_name": "Bigun K.",
           "elo_player_key": "bigun k",
-          "matches_total": 9,
+          "matches_total": 10,
           "gender": "unknown",
           "score": 0.6919,
           "method": "fuzzy"
@@ -28659,7 +28659,7 @@
       "last_seen_event_key": 12135539,
       "last_seen_tournament": "W15 Los Angeles, CA",
       "last_seen_tournament_key": 7372,
-      "updated_at": "2026-06-10T18:24:01.127852+02:00"
+      "updated_at": "2026-06-10T23:10:44.979441+02:00"
     },
     "100746": {
       "api_player_key": 100746,
@@ -28715,7 +28715,7 @@
       "last_seen_event_key": 12135541,
       "last_seen_tournament": "W15 Los Angeles, CA",
       "last_seen_tournament_key": 7372,
-      "updated_at": "2026-06-10T18:24:01.966345+02:00"
+      "updated_at": "2026-06-10T23:10:45.829729+02:00"
     },
     "11728": {
       "api_player_key": 11728,
@@ -29171,7 +29171,7 @@
       "last_seen_event_key": 12135513,
       "last_seen_tournament": "M15 Los Angeles, CA",
       "last_seen_tournament_key": 7368,
-      "updated_at": "2026-06-10T18:23:58.021827+02:00"
+      "updated_at": "2026-06-10T23:10:41.844244+02:00"
     },
     "66326": {
       "api_player_key": 66326,
@@ -29467,7 +29467,7 @@
       "last_seen_event_key": 12135532,
       "last_seen_tournament": "M15 Los Angeles, CA",
       "last_seen_tournament_key": 7368,
-      "updated_at": "2026-06-10T18:23:59.668723+02:00"
+      "updated_at": "2026-06-10T23:10:43.510664+02:00"
     },
     "69941": {
       "api_player_key": 69941,
@@ -29547,7 +29547,7 @@
       "last_seen_event_key": 12135554,
       "last_seen_tournament": "W35 Decatur, IL",
       "last_seen_tournament_key": 12629,
-      "updated_at": "2026-06-10T18:24:06.499766+02:00"
+      "updated_at": "2026-06-10T23:10:50.408683+02:00"
     },
     "38048": {
       "api_player_key": 38048,
@@ -30507,7 +30507,7 @@
       "last_seen_event_key": 12135538,
       "last_seen_tournament": "W15 Los Angeles, CA",
       "last_seen_tournament_key": 7372,
-      "updated_at": "2026-06-10T18:24:00.383894+02:00"
+      "updated_at": "2026-06-10T23:10:44.229006+02:00"
     },
     "7926": {
       "api_player_key": 7926,
@@ -30611,7 +30611,7 @@
       "last_seen_event_key": 12135547,
       "last_seen_tournament": "W15 Los Angeles, CA",
       "last_seen_tournament_key": 7372,
-      "updated_at": "2026-06-10T18:24:03.722041+02:00"
+      "updated_at": "2026-06-10T23:10:47.614003+02:00"
     },
     "10899": {
       "api_player_key": 10899,
@@ -30667,7 +30667,7 @@
       "last_seen_event_key": 12135547,
       "last_seen_tournament": "W15 Los Angeles, CA",
       "last_seen_tournament_key": 7372,
-      "updated_at": "2026-06-10T18:24:04.665886+02:00"
+      "updated_at": "2026-06-10T23:10:48.559891+02:00"
     },
     "9255": {
       "api_player_key": 9255,
@@ -30723,7 +30723,7 @@
       "last_seen_event_key": 12135549,
       "last_seen_tournament": "W15 Los Angeles, CA",
       "last_seen_tournament_key": 7372,
-      "updated_at": "2026-06-10T18:24:05.670421+02:00"
+      "updated_at": "2026-06-10T23:10:49.564781+02:00"
     },
     "32561": {
       "api_player_key": 32561,
