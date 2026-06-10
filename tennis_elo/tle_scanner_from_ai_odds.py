@@ -694,6 +694,143 @@ def write_picks_tables(
     return csv_path, md_path, latest_csv_path, latest_md_path
 
 
+
+def pick_identity(pick: dict[str, Any]) -> str:
+    event_key = clean(pick.get("event_key"))
+    side = clean(pick.get("selected_player_side") or pick.get("selected_side"))
+    selection = clean(pick.get("selection"))
+    return f"{event_key}|{side}|{selection}"
+
+
+def merge_daily_pick_ledger(
+    output_path: Path,
+    current_picks: list[dict[str, Any]],
+    generated_at: str,
+) -> tuple[list[dict[str, Any]], dict[str, Any]]:
+    """Merge current snapshot picks into the daily ledger without duplicates.
+
+    Key: event_key + selected_player_side + selection.
+
+    The first published odds/probabilities are preserved for settlement.
+    Latest odds/probabilities are stored in latest_* fields for audit.
+    """
+    existing_picks: list[dict[str, Any]] = []
+
+    if output_path.exists():
+        try:
+            existing_payload = json.loads(output_path.read_text(encoding="utf-8"))
+            if isinstance(existing_payload, dict) and isinstance(existing_payload.get("picks"), list):
+                existing_picks = [
+                    row for row in existing_payload["picks"]
+                    if isinstance(row, dict) and pick_identity(row)
+                ]
+        except Exception:
+            existing_picks = []
+
+    ledger_by_key: dict[str, dict[str, Any]] = {}
+
+    for old in existing_picks:
+        key = pick_identity(old)
+        if not key:
+            continue
+
+        old = dict(old)
+        old.setdefault("first_seen_at", old.get("generated_at") or generated_at)
+        old.setdefault("last_seen_at", old.get("first_seen_at"))
+        old.setdefault("snapshot_count", 1)
+        old.setdefault("ledger_status", "not_in_latest_snapshot")
+        old.setdefault("first_odds", old.get("odds"))
+        old.setdefault("first_tle_probability", old.get("tle_probability"))
+        old.setdefault("first_book_probability_devig", old.get("book_probability_devig"))
+        old.setdefault("first_tle_edge", old.get("tle_edge"))
+        old.setdefault("first_tle_ev", old.get("tle_ev"))
+        ledger_by_key[key] = old
+
+    current_keys = set()
+
+    for current in current_picks:
+        key = pick_identity(current)
+        if not key:
+            continue
+
+        current_keys.add(key)
+
+        if key not in ledger_by_key:
+            row = dict(current)
+            row["first_seen_at"] = generated_at
+            row["last_seen_at"] = generated_at
+            row["snapshot_count"] = 1
+            row["ledger_status"] = "active_in_latest_snapshot"
+            row["first_odds"] = row.get("odds")
+            row["first_tle_probability"] = row.get("tle_probability")
+            row["first_book_probability_devig"] = row.get("book_probability_devig")
+            row["first_tle_edge"] = row.get("tle_edge")
+            row["first_tle_ev"] = row.get("tle_ev")
+            row["latest_odds"] = row.get("odds")
+            row["latest_tle_probability"] = row.get("tle_probability")
+            row["latest_book_probability_devig"] = row.get("book_probability_devig")
+            row["latest_tle_edge"] = row.get("tle_edge")
+            row["latest_tle_ev"] = row.get("tle_ev")
+            ledger_by_key[key] = row
+            continue
+
+        row = ledger_by_key[key]
+
+        # Preserve first published settlement fields:
+        # odds, tle_probability, book_probability_devig, tle_edge, tle_ev.
+        preserved = {
+            "odds": row.get("odds"),
+            "tle_probability": row.get("tle_probability"),
+            "book_probability_devig": row.get("book_probability_devig"),
+            "tle_edge": row.get("tle_edge"),
+            "tle_ev": row.get("tle_ev"),
+            "first_odds": row.get("first_odds", row.get("odds")),
+            "first_tle_probability": row.get("first_tle_probability", row.get("tle_probability")),
+            "first_book_probability_devig": row.get("first_book_probability_devig", row.get("book_probability_devig")),
+            "first_tle_edge": row.get("first_tle_edge", row.get("tle_edge")),
+            "first_tle_ev": row.get("first_tle_ev", row.get("tle_ev")),
+            "first_seen_at": row.get("first_seen_at", generated_at),
+            "snapshot_count": int(row.get("snapshot_count") or 1) + 1,
+        }
+
+        row.update(current)
+        row.update(preserved)
+
+        row["last_seen_at"] = generated_at
+        row["ledger_status"] = "active_in_latest_snapshot"
+        row["latest_odds"] = current.get("odds")
+        row["latest_tle_probability"] = current.get("tle_probability")
+        row["latest_book_probability_devig"] = current.get("book_probability_devig")
+        row["latest_tle_edge"] = current.get("tle_edge")
+        row["latest_tle_ev"] = current.get("tle_ev")
+        ledger_by_key[key] = row
+
+    for key, row in ledger_by_key.items():
+        if key not in current_keys:
+            row["ledger_status"] = "not_in_latest_snapshot"
+
+    ledger = list(ledger_by_key.values())
+    ledger.sort(
+        key=lambda row: (
+            row.get("date") or "",
+            row.get("time") or "",
+            row.get("event_key") or "",
+            -(float(row.get("first_tle_edge") or row.get("tle_edge") or 0.0)),
+        )
+    )
+
+    stats = {
+        "existing_before_merge": len(existing_picks),
+        "current_snapshot_picks": len(current_picks),
+        "ledger_picks_after_merge": len(ledger),
+        "new_picks_added": max(0, len(ledger) - len(existing_picks)),
+        "active_in_latest_snapshot": sum(1 for row in ledger if row.get("ledger_status") == "active_in_latest_snapshot"),
+        "not_in_latest_snapshot": sum(1 for row in ledger if row.get("ledger_status") == "not_in_latest_snapshot"),
+    }
+
+    return ledger, stats
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(
         description="Pure TLE scanner from AI repo tennis_odds_today.json."
@@ -730,6 +867,7 @@ def main() -> None:
 
     scan_start = date.fromisoformat(dates[0])
     scan_end = date.fromisoformat(dates[-1])
+    generated_at = now_iso()
 
     canonical_manifest = Path(args.canonical_manifest)
     if not canonical_manifest.is_absolute():
@@ -894,7 +1032,7 @@ def main() -> None:
     latest_table_stem = "tle_scanner_table_latest"
 
     summary = {
-        "generated_at": now_iso(),
+        "generated_at": generated_at,
         "ai_odds_url": args.ai_odds_url,
         "ai_generated_at": ai_payload.get("generated_at"),
         "ai_summary": ai_payload.get("summary"),
@@ -939,10 +1077,48 @@ def main() -> None:
         ],
     }
 
+    ledger_picks, ledger_stats = merge_daily_pick_ledger(
+        output_path=output_path,
+        current_picks=picks,
+        generated_at=generated_at,
+    )
+
+    summary["current_snapshot_picks_count"] = len(picks)
+    summary["ledger_picks_count"] = len(ledger_picks)
+    summary["ledger"] = ledger_stats
+    summary["picks_count"] = len(ledger_picks)
+    summary["level_counts"] = dict(Counter(row["tour_level"] for row in ledger_picks))
+    summary["gender_counts"] = dict(Counter(row["gender"] for row in ledger_picks))
+    summary["top_edges"] = [
+        {
+            "event_key": row["event_key"],
+            "date": row["date"],
+            "time": row["time"],
+            "match": row["match"],
+            "selection": row["selection"],
+            "tour_level": row["tour_level"],
+            "odds": row["odds"],
+            "tle_probability": row["tle_probability"],
+            "book_probability_devig": row["book_probability_devig"],
+            "tle_edge": row["tle_edge"],
+            "tle_ev": row["tle_ev"],
+            "ledger_status": row.get("ledger_status"),
+            "first_seen_at": row.get("first_seen_at"),
+            "last_seen_at": row.get("last_seen_at"),
+            "snapshot_count": row.get("snapshot_count"),
+            "model": row["model"],
+        }
+        for row in sorted(
+            ledger_picks,
+            key=lambda x: (-(float(x.get("first_tle_edge") or x.get("tle_edge") or 0.0)), -(float(x.get("first_tle_ev") or x.get("tle_ev") or 0.0)))
+        )[:25]
+    ]
+
     payload = {
-        "schema_version": 1,
+        "schema_version": 2,
         "summary": summary,
-        "picks": picks,
+        "picks": ledger_picks,
+        "current_snapshot_picks": picks,
         "all_scored_sides": all_scored,
     }
 
@@ -954,7 +1130,7 @@ def main() -> None:
         stem=table_stem,
         latest_stem=latest_table_stem,
         summary=summary,
-        picks=picks,
+        picks=ledger_picks,
     )
 
     print("TLE SCANNER FROM AI ODDS DONE")
