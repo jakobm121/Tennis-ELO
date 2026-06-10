@@ -1,0 +1,64 @@
+name: TLE Audit API Overlay Odds
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  audit-api-overlay-odds:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Tennis-ELO repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Audit API overlay odds backtest
+        run: |
+          python -m tennis_elo.tle_audit_api_overlay_odds
+
+      - name: Show audit summary
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          path = Path(
+              "data/tle/reports/tle_api_overlay_odds_audit.json"
+          )
+
+          if not path.exists():
+              raise SystemExit(f"Missing audit JSON: {path}")
+
+          payload = json.loads(path.read_text(encoding="utf-8"))
+
+          print(json.dumps(
+              payload.get("summary", {}),
+              indent=2,
+              ensure_ascii=False,
+          ))
+          PY
+
+      - name: Commit API overlay odds audit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email \
+            "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add \
+            data/tle/reports/tle_api_overlay_odds_audit.json \
+            data/tle/reports/tle_api_overlay_odds_audit.csv
+
+          if git diff --cached --quiet; then
+            echo "No audit changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Audit TLE API overlay odds backtest"
+          git push
