@@ -16,20 +16,11 @@ from tennis_elo.config import ROOT_DIR
 
 
 DEFAULT_ODDS_BACKTEST = (
-    ROOT_DIR
-    / "data"
-    / "tle"
-    / "backtests"
-    / "tle_api_overlay_odds_backtest.json"
+    ROOT_DIR / "data" / "tle" / "backtests" / "tle_api_overlay_odds_backtest.json"
 )
 
 DEFAULT_ENRICHED = (
-    ROOT_DIR
-    / "data"
-    / "tle"
-    / "source"
-    / "api"
-    / "tle_api_results_backfill_enriched.json"
+    ROOT_DIR / "data" / "tle" / "source" / "api" / "tle_api_results_backfill_enriched.json"
 )
 
 DEFAULT_ODDS = (
@@ -38,19 +29,11 @@ DEFAULT_ODDS = (
 )
 
 DEFAULT_OUTPUT_JSON = (
-    ROOT_DIR
-    / "data"
-    / "tle"
-    / "reports"
-    / "tle_api_overlay_odds_audit.json"
+    ROOT_DIR / "data" / "tle" / "reports" / "tle_api_overlay_odds_audit.json"
 )
 
 DEFAULT_OUTPUT_CSV = (
-    ROOT_DIR
-    / "data"
-    / "tle"
-    / "reports"
-    / "tle_api_overlay_odds_audit.csv"
+    ROOT_DIR / "data" / "tle" / "reports" / "tle_api_overlay_odds_audit.csv"
 )
 
 
@@ -60,6 +43,10 @@ def now_iso() -> str:
 
 def clean(value: Any) -> str:
     return "" if value is None else str(value).strip()
+
+
+def normalized(value: Any) -> str:
+    return " ".join(clean(value).lower().replace("-", " ").split())
 
 
 def safe_float(value: Any) -> float | None:
@@ -75,16 +62,14 @@ def safe_float(value: Any) -> float | None:
 
 
 def round_or_none(value: Any, digits: int = 6) -> float | None:
-    number = safe_float(value)
-    if number is None:
-        try:
-            number = float(value)
-        except (TypeError, ValueError):
-            return None
-
+    if value is None:
+        return None
+    try:
+        number = float(value)
+    except (TypeError, ValueError):
+        return None
     if not math.isfinite(number):
         return None
-
     return round(number, digits)
 
 
@@ -113,7 +98,9 @@ def save_csv(path: Path, rows: list[dict[str, Any]]) -> None:
         "round",
         "player_1",
         "player_2",
-        "winner_side",
+        "raw_enriched_winner_side",
+        "actual_winner_api_side",
+        "winner_side_method",
         "actual_winner",
         "selection",
         "selected_side",
@@ -140,14 +127,8 @@ def save_csv(path: Path, rows: list[dict[str, Any]]) -> None:
     with temporary.open("w", encoding="utf-8", newline="") as handle:
         writer = csv.DictWriter(handle, fieldnames=fieldnames)
         writer.writeheader()
-
         for row in rows:
-            writer.writerow(
-                {
-                    field: row.get(field, "")
-                    for field in fieldnames
-                }
-            )
+            writer.writerow({field: row.get(field, "") for field in fieldnames})
 
     temporary.replace(path)
 
@@ -170,16 +151,6 @@ def load_json(path_or_url: str | Path) -> dict[str, Any]:
     return payload
 
 
-def event_key_from_tle_match_id(tle_match_id: Any) -> str:
-    text = clean(tle_match_id)
-    prefix = "api_tennis_"
-
-    if text.startswith(prefix):
-        return text[len(prefix):]
-
-    return text
-
-
 def build_enriched_index(path_or_url: str | Path) -> dict[str, dict[str, Any]]:
     payload = load_json(path_or_url)
     matches = payload.get("matches") or []
@@ -188,7 +159,6 @@ def build_enriched_index(path_or_url: str | Path) -> dict[str, dict[str, Any]]:
     for match in matches:
         if not isinstance(match, dict):
             continue
-
         event_key = clean(match.get("event_key"))
         if event_key:
             index[event_key] = match
@@ -243,34 +213,53 @@ def median_or_none(values: list[float]) -> float | None:
     return float(statistics.median(values))
 
 
-def infer_home_away_names(enriched_match: dict[str, Any]) -> tuple[str, str]:
-    # API-Tennis odds Home/Away praviloma sledi vrstnemu redu fixture:
-    # Home = player_1 / first_player_key, Away = player_2 / second_player_key.
-    return clean(enriched_match.get("player_1")), clean(enriched_match.get("player_2"))
+def side_to_player(side: str, enriched_match: dict[str, Any]) -> str:
+    if side == "player_1":
+        return clean(enriched_match.get("player_1"))
+    if side == "player_2":
+        return clean(enriched_match.get("player_2"))
+    return ""
+
+
+def selected_odds_side_to_api_side(selected_side: str) -> str:
+    if selected_side == "Home":
+        return "player_1"
+    if selected_side == "Away":
+        return "player_2"
+    return ""
+
+
+def opposite_side(side: str) -> str:
+    if side == "player_1":
+        return "player_2"
+    if side == "player_2":
+        return "player_1"
+    return ""
 
 
 def check_side(row: dict[str, Any], enriched_match: dict[str, Any]) -> str:
-    winner_side = clean(enriched_match.get("winner_side"))
+    actual_side = clean(row.get("actual_winner_api_side"))
     selected_side = clean(row.get("selected_side"))
-    selection = clean(row.get("selection"))
-    actual_winner = clean(row.get("actual_winner"))
+    selected_api_side = selected_odds_side_to_api_side(selected_side)
 
-    player_1 = clean(enriched_match.get("player_1"))
-    player_2 = clean(enriched_match.get("player_2"))
+    actual_winner = normalized(row.get("actual_winner"))
+    selection = normalized(row.get("selection"))
 
-    if winner_side not in {"player_1", "player_2"}:
-        return "CHECK: missing winner_side"
+    actual_player = normalized(side_to_player(actual_side, enriched_match))
+    selected_player = normalized(side_to_player(selected_api_side, enriched_match))
+
+    if actual_side not in {"player_1", "player_2"}:
+        return "CHECK: missing actual_winner_api_side"
 
     if selected_side not in {"Home", "Away"}:
         return "CHECK: missing selected_side"
 
-    expected_actual = player_1 if winner_side == "player_1" else player_2
-    if actual_winner and expected_actual and actual_winner != expected_actual:
-        return "CHECK: actual_winner != winner_side player"
+    if actual_winner and actual_player and actual_winner != actual_player:
+        # Zaradi Sackmann/API imen to ni nujno fatalno, zato je REVIEW namesto hard fail.
+        return "REVIEW: actual winner name differs from API side name"
 
-    expected_selected = player_1 if selected_side == "Home" else player_2
-    if selection and expected_selected and selection != expected_selected:
-        return "CHECK: selection != selected_side player"
+    if selection and selected_player and selection != selected_player:
+        return "REVIEW: selection name differs from selected side name"
 
     return "OK"
 
@@ -282,22 +271,20 @@ def enrich_audit_row(
     audit_group: str,
     audit_rank: int,
 ) -> dict[str, Any]:
-    event_key = clean(bet.get("event_key")) or event_key_from_tle_match_id(
-        bet.get("tle_match_id")
-    )
+    event_key = clean(bet.get("event_key"))
     enriched = enriched_index.get(event_key, {})
     market = raw_market_for_event(odds_payload, event_key)
 
     home_values = market_values(market or {}, "Home")
     away_values = market_values(market or {}, "Away")
 
-    player_1, player_2 = infer_home_away_names(enriched)
+    actual_side = clean(bet.get("actual_winner_api_side"))
+    if not actual_side:
+        # kompatibilnost z v1 outputom, Äe ga kdo pomotoma audita
+        raw = clean(enriched.get("winner_side"))
+        actual_side = opposite_side(raw)
 
-    home_odds = bet.get("home_odds")
-    away_odds = bet.get("away_odds")
-    selected_odds = bet.get("odds")
-
-    return {
+    enriched_row = {
         "audit_group": audit_group,
         "audit_rank": audit_rank,
         "date": bet.get("date"),
@@ -307,18 +294,19 @@ def enrich_audit_row(
         "surface": bet.get("surface"),
         "tournament": bet.get("tournament"),
         "round": bet.get("round"),
-        "player_1": player_1,
-        "player_2": player_2,
-        "winner_side": enriched.get("winner_side"),
+        "player_1": clean(enriched.get("player_1")),
+        "player_2": clean(enriched.get("player_2")),
+        "raw_enriched_winner_side": enriched.get("winner_side"),
+        "actual_winner_api_side": actual_side,
+        "winner_side_method": bet.get("winner_side_method", "v1_assumed_inverted_for_audit"),
         "actual_winner": bet.get("actual_winner"),
         "selection": bet.get("selection"),
         "selected_side": bet.get("selected_side"),
-        "side_check": check_side(bet, enriched),
         "home_player_assumption": "Home = player_1",
         "away_player_assumption": "Away = player_2",
-        "home_odds": home_odds,
-        "away_odds": away_odds,
-        "selected_odds": selected_odds,
+        "home_odds": bet.get("home_odds"),
+        "away_odds": bet.get("away_odds"),
+        "selected_odds": bet.get("odds"),
         "odds_source": bet.get("odds_source"),
         "model_probability": bet.get("model_probability"),
         "book_probability_devig": bet.get("book_probability_devig"),
@@ -342,6 +330,9 @@ def enrich_audit_row(
         "raw_away_books": away_values,
     }
 
+    enriched_row["side_check"] = check_side(enriched_row, enriched)
+    return enriched_row
+
 
 def add_ranked_rows(
     output: list[dict[str, Any]],
@@ -355,11 +346,10 @@ def add_ranked_rows(
 
     for row in rows[:limit]:
         key = (group_name, clean(row.get("event_key")))
-
         if key in seen:
             continue
-
         seen.add(key)
+
         output.append(
             enrich_audit_row(
                 row,
@@ -374,8 +364,8 @@ def add_ranked_rows(
 def main() -> None:
     parser = argparse.ArgumentParser(
         description=(
-            "Naredi audit CSV/JSON za TLE API overlay ROI backtest, "
-            "da roÄno preverimo Home/Away mapping, odds side in rezultat."
+            "V2 audit CSV/JSON za TLE API overlay ROI backtest. "
+            "Pravilno podpira V2 actual_winner_api_side in opozori le na realne review primere."
         )
     )
 
@@ -406,46 +396,39 @@ def main() -> None:
 
     audit_rows: list[dict[str, Any]] = []
 
-    top_ev = sorted(
-        value_bets,
-        key=lambda row: float(row.get("ev", 0)),
-        reverse=True,
-    )
     add_ranked_rows(
         audit_rows,
-        top_ev,
+        sorted(value_bets, key=lambda row: float(row.get("ev", 0)), reverse=True),
         enriched_index,
         odds_payload,
         "top_value_by_ev",
         args.top_ev,
     )
 
-    top_lost = sorted(
-        [row for row in value_bets if not bool(row.get("won"))],
-        key=lambda row: float(row.get("ev", 0)),
-        reverse=True,
-    )
     add_ranked_rows(
         audit_rows,
-        top_lost,
+        sorted(
+            [row for row in value_bets if not bool(row.get("won"))],
+            key=lambda row: float(row.get("ev", 0)),
+            reverse=True,
+        ),
         enriched_index,
         odds_payload,
         "top_lost_value_by_ev",
         args.top_lost,
     )
 
-    top_underdog_won = sorted(
-        [
-            row
-            for row in value_bets
-            if bool(row.get("won")) and float(row.get("odds", 0)) >= 2.0
-        ],
-        key=lambda row: float(row.get("odds", 0)),
-        reverse=True,
-    )
     add_ranked_rows(
         audit_rows,
-        top_underdog_won,
+        sorted(
+            [
+                row
+                for row in value_bets
+                if bool(row.get("won")) and float(row.get("odds", 0)) >= 2.0
+            ],
+            key=lambda row: float(row.get("odds", 0)),
+            reverse=True,
+        ),
         enriched_index,
         odds_payload,
         "top_won_underdogs",
@@ -472,7 +455,7 @@ def main() -> None:
         counters[f"group_{row['audit_group']}"] += 1
         unique_events.add(row["event_key"])
 
-    suspicious = [
+    review_rows = [
         row
         for row in audit_rows
         if clean(row.get("side_check")) != "OK"
@@ -489,7 +472,7 @@ def main() -> None:
         "priced_predictions_total": len(priced_predictions),
         "audit_rows": len(audit_rows),
         "unique_events": len(unique_events),
-        "suspicious_rows": len(suspicious),
+        "review_rows": len(review_rows),
         "counters": dict(sorted(counters.items())),
         "audit_groups": {
             "top_value_by_ev": args.top_ev,
@@ -498,24 +481,24 @@ def main() -> None:
             "random_value_sample": args.random_sample,
         },
         "manual_check_instructions": [
-            "Preveri, da player_1 ustreza Home kvotam in player_2 Away kvotam.",
-            "Preveri, da selection + selected_side kaÅ¾eta na istega igralca.",
-            "Preveri, da actual_winner ustreza winner_side.",
-            "Äe je side_check != OK, vrstico preveri roÄno pred zaupanjem ROI.",
+            "Home naj pomeni player_1, Away naj pomeni player_2.",
+            "Preveri, da selected_side kaÅ¾e na selection.",
+            "Preveri nekaj zmag in porazov z actual_winner_api_side + score.",
+            "REVIEW vrstice so lahko samo razlika Sackmann/API imen, niso nujno napaka.",
         ],
     }
 
     payload = {
-        "schema_version": 1,
+        "schema_version": 2,
         "summary": summary,
-        "suspicious_rows": suspicious,
+        "review_rows": review_rows,
         "audit_rows": audit_rows,
     }
 
     save_json(Path(args.output_json), payload)
     save_csv(Path(args.output_csv), audit_rows)
 
-    print("TLE API OVERLAY ODDS AUDIT DONE")
+    print("TLE API OVERLAY ODDS AUDIT V2 DONE")
     print(json.dumps(summary, indent=2, ensure_ascii=False))
     print(f"JSON: {args.output_json}")
     print(f"CSV:  {args.output_csv}")
