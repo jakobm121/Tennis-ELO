@@ -1,0 +1,65 @@
+name: TLE Build Canonical Ratings
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-canonical-ratings:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Tennis-ELO repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build TLE ratings from canonical database
+        run: |
+          python -m tennis_elo.tle_build_canonical_ratings
+
+      - name: Show ratings summary
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          path = Path(
+              "data/tle/reports/tle_build_ratings_report.json"
+          )
+
+          if not path.exists():
+              raise SystemExit(f"Missing report: {path}")
+
+          payload = json.loads(path.read_text(encoding="utf-8"))
+
+          print(json.dumps(
+              payload.get("summary", {}),
+              indent=2,
+              ensure_ascii=False,
+          ))
+          PY
+
+      - name: Commit canonical ratings
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email \
+            "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add \
+            data/tle/ratings/tle_player_ratings.json.gz \
+            data/tle/ratings/tle_player_ratings_manifest.json \
+            data/tle/reports/tle_build_ratings_report.json
+
+          if git diff --cached --quiet; then
+            echo "No rating changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Build TLE ratings from canonical matches"
+          git push
