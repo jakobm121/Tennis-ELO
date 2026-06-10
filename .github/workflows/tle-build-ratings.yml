@@ -1,0 +1,157 @@
+name: TLE Build Ratings
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows:
+      - TLE Import Sackmann History
+    types:
+      - completed
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tle-build-ratings
+  cancel-in-progress: true
+
+jobs:
+  tle-build-ratings:
+    if: >
+      github.event_name == 'workflow_dispatch' ||
+      github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          fi
+
+      - name: Build TLE ratings
+        env:
+          TLE_DEFAULT_ELO: "1500"
+          TLE_GLOBAL_K: "24"
+          TLE_GLOBAL_SURFACE_K: "20"
+          TLE_LEVEL_K: "24"
+          TLE_LEVEL_SURFACE_K: "20"
+        run: |
+          python -m tennis_elo.tle_build_ratings
+
+      - name: Validate TLE ratings
+        run: |
+          python - <<'PY'
+          import gzip
+          import json
+          from pathlib import Path
+
+          ratings_path = Path(
+              "data/tle/ratings/"
+              "tle_player_ratings.json.gz"
+          )
+          manifest_path = Path(
+              "data/tle/ratings/"
+              "tle_player_ratings_manifest.json"
+          )
+          report_path = Path(
+              "data/tle/reports/"
+              "tle_build_ratings_report.json"
+          )
+
+          for path in (
+              ratings_path,
+              manifest_path,
+              report_path,
+          ):
+              if not path.exists():
+                  raise SystemExit(
+                      f"Missing generated file: {path}"
+                  )
+
+          with gzip.open(
+              ratings_path,
+              "rt",
+              encoding="utf-8",
+          ) as handle:
+              ratings = json.load(handle)
+
+          manifest = json.loads(
+              manifest_path.read_text(
+                  encoding="utf-8"
+              )
+          )
+          report = json.loads(
+              report_path.read_text(
+                  encoding="utf-8"
+              )
+          )
+
+          summary = ratings.get("summary", {})
+          print("SUMMARY:", summary)
+          print(
+              "RATINGS FILE SIZE MB:",
+              manifest.get(
+                  "ratings_file_size_mb"
+              ),
+          )
+
+          players = ratings.get("players", [])
+
+          if not isinstance(players, list):
+              raise SystemExit(
+                  "Invalid players structure"
+              )
+
+          if not players:
+              raise SystemExit(
+                  "TLE ratings contain zero players"
+              )
+
+          print("\nTOP GLOBAL MEN:")
+
+          for row in report.get(
+              "top_global",
+              {},
+          ).get("men", [])[:10]:
+              print(row)
+
+          print("\nTOP GLOBAL WOMEN:")
+
+          for row in report.get(
+              "top_global",
+              {},
+          ).get("women", [])[:10]:
+              print(row)
+          PY
+
+      - name: Commit TLE ratings
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/tle/ratings/tle_player_ratings.json.gz
+          git add data/tle/ratings/tle_player_ratings_manifest.json
+          git add data/tle/reports/tle_build_ratings_report.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Build TLE player ratings"
+          git pull --rebase --autostash origin main
+          git push origin HEAD:main
