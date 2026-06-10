@@ -1,0 +1,65 @@
+name: TLE Import API Results
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  import-api-results:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Tennis-ELO repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Import enriched API results to TLE source format
+        run: |
+          python -m tennis_elo.tle_import_api_results
+
+      - name: Show import summary
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          path = Path(
+              "data/tle/reports/tle_import_api_results_report.json"
+          )
+
+          if not path.exists():
+              raise SystemExit(f"Missing report: {path}")
+
+          payload = json.loads(path.read_text(encoding="utf-8"))
+
+          print(json.dumps(
+              payload.get("summary", {}),
+              indent=2,
+              ensure_ascii=False,
+          ))
+          PY
+
+      - name: Commit imported API source matches
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email \
+            "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add \
+            data/tle/source/api/tle_api_matches_*.jsonl.gz \
+            data/tle/source/api/tle_api_matches_manifest.json \
+            data/tle/reports/tle_import_api_results_report.json
+
+          if git diff --cached --quiet; then
+            echo "No API import changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Import TLE API result matches"
+          git push
