@@ -1,0 +1,117 @@
+name: TLE Import Sackmann History
+
+on:
+  workflow_dispatch:
+    inputs:
+      start_year:
+        description: First Sackmann season to import
+        required: false
+        default: "2023"
+      end_year:
+        description: Last Sackmann season to import
+        required: false
+        default: "2026"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tle-import-sackmann
+  cancel-in-progress: true
+
+jobs:
+  tle-import-sackmann:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          fi
+
+      - name: Import Sackmann history for TLE
+        env:
+          TLE_START_YEAR: ${{ github.event.inputs.start_year || '2023' }}
+          TLE_END_YEAR: ${{ github.event.inputs.end_year || '2026' }}
+          TLE_HTTP_TIMEOUT: "90"
+        run: |
+          python -m tennis_elo.tle_import_sackmann
+
+      - name: Validate TLE import
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          output_path = Path(
+              "data/tle/processed/"
+              "tle_sackmann_matches.json"
+          )
+          report_path = Path(
+              "data/tle/reports/"
+              "tle_import_sackmann_report.json"
+          )
+
+          for path in (output_path, report_path):
+              if not path.exists():
+                  raise SystemExit(
+                      f"Missing generated file: {path}"
+                  )
+
+          data = json.loads(
+              output_path.read_text(encoding="utf-8")
+          )
+
+          print("SUMMARY:", data.get("summary", {}))
+          print("\nFILES:")
+
+          for row in data.get("files", []):
+              print({
+                  "year": row.get("year"),
+                  "gender": row.get("gender"),
+                  "source_family": row.get("source_family"),
+                  "raw_rows": row.get("raw_rows"),
+                  "accepted_rows": row.get("accepted_rows"),
+                  "duplicate_rows": row.get("duplicate_rows"),
+                  "error": row.get("error"),
+              })
+
+          matches = data.get("matches", [])
+
+          if not isinstance(matches, list):
+              raise SystemExit("Invalid matches structure")
+
+          if not matches:
+              raise SystemExit("TLE import produced zero matches")
+          PY
+
+      - name: Commit TLE outputs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/tle/processed/tle_sackmann_matches.json
+          git add data/tle/reports/tle_import_sackmann_report.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Update TLE Sackmann history"
+          git pull --rebase --autostash origin main
+          git push origin HEAD:main
