@@ -58,6 +58,14 @@ DEFAULT_REPORT = (
     / "tle_import_api_results_report.json"
 )
 
+DEFAULT_PLAYER_MAPPING = (
+    ROOT_DIR
+    / "data"
+    / "tle"
+    / "mappings"
+    / "api_player_to_sackmann.json"
+)
+
 VALID_GENDERS = {"men", "women"}
 VALID_LEVELS = {"main_tour", "challenger", "itf", "qualifying"}
 VALID_SURFACES = {"hard", "clay", "grass", "carpet"}
@@ -179,11 +187,49 @@ def safe_int(value: Any) -> int | None:
         return None
 
 
+def load_player_mapping(path: Path) -> dict[str, dict[str, Any]]:
+    if not path.exists():
+        return {}
+
+    payload = load_json(path)
+    players = payload.get("players") or {}
+
+    if not isinstance(players, dict):
+        return {}
+
+    return {
+        str(key): value
+        for key, value in players.items()
+        if isinstance(value, dict)
+    }
+
+
 def api_player_identity(
     api_player_key: Any,
     name: str,
+    gender: str,
+    player_mapping: dict[str, dict[str, Any]],
 ) -> dict[str, Any]:
     key = safe_int(api_player_key)
+    mapping = player_mapping.get(str(key)) if key is not None else None
+
+    if isinstance(mapping, dict) and mapping.get("status") == "matched":
+        sackmann_id = mapping.get("sackmann_player_id")
+        mapped_name = clean_text(mapping.get("sackmann_name")) or name
+
+        try:
+            sackmann_id = int(sackmann_id)
+        except (TypeError, ValueError):
+            sackmann_id = None
+
+        if sackmann_id is not None:
+            return {
+                "sackmann_player_id": sackmann_id,
+                "api_player_key": key,
+                "name": mapped_name,
+                "player_key": f"{gender}:sackmann:{sackmann_id}",
+                "mapping_source": "api_player_to_sackmann",
+            }
 
     return {
         "sackmann_player_id": None,
@@ -194,6 +240,7 @@ def api_player_identity(
             if key is not None
             else f"name:{normalize_key(name)}"
         ),
+        "mapping_source": "unmapped_api_player",
     }
 
 
@@ -286,7 +333,10 @@ def validate_surface_for_level(level: str, surface: str) -> str:
     )
 
 
-def convert_to_tle_match(match: dict[str, Any]) -> dict[str, Any]:
+def convert_to_tle_match(
+    match: dict[str, Any],
+    player_mapping: dict[str, dict[str, Any]],
+) -> dict[str, Any]:
     gender = lower_text(match.get("gender"))
     level = lower_text(match.get("tour_level"))
     surface = lower_text(match.get("surface"))
@@ -343,8 +393,18 @@ def convert_to_tle_match(match: dict[str, Any]) -> dict[str, Any]:
         "best_of": int(match.get("best_of") or 3),
         "score": score_from_api(match),
         "retired": False,
-        "winner": api_player_identity(winner_key, winner_name),
-        "loser": api_player_identity(loser_key, loser_name),
+        "winner": api_player_identity(
+            winner_key,
+            winner_name,
+            gender,
+            player_mapping,
+        ),
+        "loser": api_player_identity(
+            loser_key,
+            loser_name,
+            gender,
+            player_mapping,
+        ),
         "ready_for_tle": True,
         "api": {
             "event_id": clean_text(match.get("event_id")),
@@ -399,6 +459,12 @@ def main() -> None:
     )
 
     parser.add_argument(
+        "--player-mapping",
+        default=str(DEFAULT_PLAYER_MAPPING),
+        help="Pot do data/tle/mappings/api_player_to_sackmann.json.",
+    )
+
+    parser.add_argument(
         "--include-before-latest-sackmann",
         action="store_true",
         help=(
@@ -418,6 +484,7 @@ def main() -> None:
         )
 
     latest = latest_sackmann_date(Path(args.sackmann_manifest))
+    player_mapping = load_player_mapping(Path(args.player_mapping))
 
     converted_by_year: dict[int, list[dict[str, Any]]] = defaultdict(list)
     skipped: list[dict[str, Any]] = []
@@ -461,7 +528,7 @@ def main() -> None:
             continue
 
         try:
-            tle_match = convert_to_tle_match(match)
+            tle_match = convert_to_tle_match(match, player_mapping)
         except ValueError as exc:
             counters["skipped_conversion_error"] += 1
             skipped.append(
@@ -482,6 +549,15 @@ def main() -> None:
         seen_ids.add(tle_id)
         converted_by_year[match_date.year].append(tle_match)
         counters["imported"] += 1
+
+        for side in ("winner", "loser"):
+            mapping_source = clean_text(
+                tle_match.get(side, {}).get("mapping_source")
+            )
+            if mapping_source == "api_player_to_sackmann":
+                counters["mapped_player_sides"] += 1
+            else:
+                counters["unmapped_player_sides"] += 1
 
         surface = tle_match["tournament"]["surface"]
         if surface == "unknown":
@@ -534,6 +610,7 @@ def main() -> None:
         "source": "api_tennis",
         "generated_at": now_iso(),
         "input": str(args.enriched),
+        "player_mapping": str(args.player_mapping),
         "latest_sackmann_date": (
             latest.isoformat()
             if latest is not None
