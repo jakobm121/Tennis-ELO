@@ -1,0 +1,58 @@
+name: TLE Build API Player Mapping
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-api-player-mapping:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Tennis-ELO repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build API player mapping
+        run: |
+          python -m tennis_elo.tle_build_api_player_mapping
+
+      - name: Show mapping summary
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          path = Path("data/tle/mappings/api_player_to_sackmann.json")
+          payload = json.loads(path.read_text(encoding="utf-8"))
+
+          print(json.dumps(
+              payload.get("summary", {}),
+              indent=2,
+              ensure_ascii=False,
+          ))
+          PY
+
+      - name: Commit API player mapping
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email \
+            "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add \
+            data/tle/mappings/api_player_to_sackmann.json \
+            data/tle/reports/tle_build_api_player_mapping_report.json
+
+          if git diff --cached --quiet; then
+            echo "No API player mapping changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Build TLE API player mapping"
+          git push
