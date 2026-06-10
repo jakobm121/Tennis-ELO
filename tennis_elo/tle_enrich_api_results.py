@@ -44,6 +44,7 @@ DEFAULT_REPORT = (
 VALID_GENDERS = {"men", "women"}
 VALID_LEVELS = {"main_tour", "challenger", "itf", "qualifying"}
 VALID_SURFACES = {"hard", "clay", "grass", "carpet"}
+LEVELS_ALLOW_UNKNOWN_SURFACE = {"itf", "qualifying"}
 
 
 def now_iso() -> str:
@@ -64,7 +65,7 @@ def load_json(source: str | Path) -> Any:
     if source_text.startswith(("http://", "https://")):
         request = Request(
             source_text,
-            headers={"User-Agent": "Tennis-ELO API result enricher/1.0"},
+            headers={"User-Agent": "Tennis-ELO API result enricher/2.0"},
         )
         with urlopen(request, timeout=120) as response:
             return json.loads(response.read().decode("utf-8"))
@@ -118,6 +119,10 @@ def use_mapping_value(
     return "unknown", "unknown"
 
 
+def is_surface_required(level: str) -> bool:
+    return level not in LEVELS_ALLOW_UNKNOWN_SURFACE
+
+
 def enrich_match(
     match: dict[str, Any],
     mapping: dict[str, dict[str, Any]],
@@ -157,17 +162,23 @@ def enrich_match(
     enriched["gender_source"] = gender_source
     enriched["tour_level"] = level
     enriched["tour_level_source"] = level_source
+    enriched["surface_required_for_tle"] = is_surface_required(level)
 
     ready_reasons = []
 
     if gender not in VALID_GENDERS:
         ready_reasons.append("gender_unknown")
 
-    if surface not in VALID_SURFACES:
-        ready_reasons.append("surface_unknown")
-
     if level not in VALID_LEVELS:
         ready_reasons.append("tour_level_unknown")
+
+    if surface not in VALID_SURFACES and is_surface_required(level):
+        ready_reasons.append("surface_unknown_required_for_level")
+
+    if surface not in VALID_SURFACES and not is_surface_required(level):
+        enriched["surface_policy"] = "allowed_unknown_surface_overall_only"
+    else:
+        enriched["surface_policy"] = "known_surface"
 
     for field in ("date", "winner", "loser", "final_result"):
         if not clean_text(enriched.get(field)):
@@ -265,6 +276,16 @@ def main() -> None:
         for match in enriched_matches
     )
 
+    surface_policies = Counter(
+        match.get("surface_policy") or "unknown"
+        for match in enriched_matches
+    )
+
+    ready_surface_policies = Counter(
+        match.get("surface_policy") or "unknown"
+        for match in ready
+    )
+
     reasons = Counter(
         reason
         for match in not_ready
@@ -281,6 +302,14 @@ def main() -> None:
         for match in not_ready
     )
 
+    ready_by_level_surface = Counter(
+        (
+            match.get("tour_level") or "unknown",
+            match.get("surface") or "unknown",
+        )
+        for match in ready
+    )
+
     summary = {
         "matches_total": len(enriched_matches),
         "ready_for_tle": len(ready),
@@ -288,14 +317,27 @@ def main() -> None:
         "levels": dict(sorted(levels.items())),
         "surfaces": dict(sorted(surfaces.items())),
         "genders": dict(sorted(genders.items())),
+        "surface_policies": dict(sorted(surface_policies.items())),
+        "ready_surface_policies": dict(
+            sorted(ready_surface_policies.items())
+        ),
+        "ready_by_level_surface": {
+            f"{level}|{surface}": count
+            for (level, surface), count in sorted(
+                ready_by_level_surface.items()
+            )
+        },
         "not_ready_reasons": dict(sorted(reasons.items())),
         "metadata_tournaments": len(mapping),
+        "levels_allow_unknown_surface": sorted(
+            LEVELS_ALLOW_UNKNOWN_SURFACE
+        ),
         "source_api_backfill": str(args.api_backfill),
         "source_metadata": str(args.metadata),
     }
 
     output_payload = {
-        "schema_version": 1,
+        "schema_version": 2,
         "generated_at": now_iso(),
         "summary": summary,
         "matches": enriched_matches,
