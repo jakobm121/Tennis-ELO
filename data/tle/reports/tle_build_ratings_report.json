@@ -1,0 +1,1264 @@
+{
+  "generated_at": "2026-06-10T13:31:07.919995+02:00",
+  "model": "tle_ratings_v1",
+  "settings": {
+    "default_elo": 1500.0,
+    "global_k": 24.0,
+    "global_surface_k": 20.0,
+    "level_k": 24.0,
+    "level_surface_k": 20.0
+  },
+  "summary": {
+    "players_total": 11965,
+    "players_men": 5254,
+    "players_women": 6711,
+    "processed_matches": 214560,
+    "processed_men": 106446,
+    "processed_level_challenger": 33294,
+    "processed_women": 108114,
+    "processed_level_itf": 160167,
+    "processed_level_qualifying": 4379,
+    "processed_level_atp_wta": 13278,
+    "not_ready_for_tle": 6720,
+    "processed_level_grand_slam": 3442,
+    "unknown_surface": 164
+  },
+  "ratings_file": "data/tle/ratings/tle_player_ratings.json.gz",
+  "ratings_file_size_mb": 0.904,
+  "top_global": {
+    "men": [
+      {
+        "player_key": "men:sackmann:206173",
+        "display_name": "Jannik Sinner",
+        "rating": 2261.185,
+        "matches": 255
+      },
+      {
+        "player_key": "men:sackmann:207989",
+        "display_name": "Carlos Alcaraz",
+        "rating": 2168.535,
+        "matches": 241
+      },
+      {
+        "player_key": "men:sackmann:100644",
+        "display_name": "Alexander Zverev",
+        "rating": 2072.052,
+        "matches": 293
+      },
+      {
+        "player_key": "men:sackmann:104925",
+        "display_name": "Novak Djokovic",
+        "rating": 2013.096,
+        "matches": 168
+      },
+      {
+        "player_key": "men:sackmann:209950",
+        "display_name": "Arthur Fils",
+        "rating": 1991.259,
+        "matches": 188
+      },
+      {
+        "player_key": "men:sackmann:212588",
+        "display_name": "Rafael Jodar",
+        "rating": 1970.642,
+        "matches": 109
+      },
+      {
+        "player_key": "men:sackmann:134770",
+        "display_name": "Casper Ruud",
+        "rating": 1963.337,
+        "matches": 220
+      },
+      {
+        "player_key": "men:sackmann:106421",
+        "display_name": "Daniil Medvedev",
+        "rating": 1952.843,
+        "matches": 239
+      },
+      {
+        "player_key": "men:sackmann:200000",
+        "display_name": "Felix Auger Aliassime",
+        "rating": 1942.849,
+        "matches": 198
+      },
+      {
+        "player_key": "men:sackmann:210696",
+        "display_name": "Alexander Blockx",
+        "rating": 1940.785,
+        "matches": 213
+      },
+      {
+        "player_key": "men:sackmann:126205",
+        "display_name": "Tommy Paul",
+        "rating": 1934.645,
+        "matches": 213
+      },
+      {
+        "player_key": "men:sackmann:200282",
+        "display_name": "Alex De Minaur",
+        "rating": 1928.413,
+        "matches": 245
+      },
+      {
+        "player_key": "men:sackmann:209920",
+        "display_name": "Raphael Collignon",
+        "rating": 1926.217,
+        "matches": 220
+      },
+      {
+        "player_key": "men:sackmann:210530",
+        "display_name": "Learner Tien",
+        "rating": 1925.191,
+        "matches": 208
+      },
+      {
+        "player_key": "men:sackmann:207518",
+        "display_name": "Lorenzo Musetti",
+        "rating": 1925.04,
+        "matches": 216
+      },
+      {
+        "player_key": "men:sackmann:210150",
+        "display_name": "Jakub Mensik",
+        "rating": 1924.437,
+        "matches": 201
+      },
+      {
+        "player_key": "men:sackmann:209976",
+        "display_name": "Dino Prizmic",
+        "rating": 1922.507,
+        "matches": 181
+      },
+      {
+        "player_key": "men:sackmann:207733",
+        "display_name": "Jack Draper",
+        "rating": 1918.098,
+        "matches": 148
+      },
+      {
+        "player_key": "men:sackmann:207925",
+        "display_name": "Flavio Cobolli",
+        "rating": 1912.592,
+        "matches": 257
+      },
+      {
+        "player_key": "men:sackmann:211663",
+        "display_name": "Joao Fonseca",
+        "rating": 1905.808,
+        "matches": 155
+      }
+    ],
+    "women": [
+      {
+        "player_key": "women:sackmann:214544",
+        "display_name": "Aryna Sabalenka",
+        "rating": 2154.178,
+        "matches": 246
+      },
+      {
+        "player_key": "women:sackmann:214981",
+        "display_name": "Elena Rybakina",
+        "rating": 2116.387,
+        "matches": 220
+      },
+      {
+        "player_key": "women:sackmann:202494",
+        "display_name": "Elina Svitolina",
+        "rating": 2048.727,
+        "matches": 170
+      },
+      {
+        "player_key": "women:sackmann:221103",
+        "display_name": "Coco Gauff",
+        "rating": 2048.663,
+        "matches": 235
+      },
+      {
+        "player_key": "women:sackmann:259799",
+        "display_name": "Mirra Andreeva",
+        "rating": 2042.83,
+        "matches": 190
+      },
+      {
+        "player_key": "women:sackmann:202468",
+        "display_name": "Jessica Pegula",
+        "rating": 2039.01,
+        "matches": 237
+      },
+      {
+        "player_key": "women:sackmann:216347",
+        "display_name": "Iga Swiatek",
+        "rating": 2038.055,
+        "matches": 255
+      },
+      {
+        "player_key": "women:sackmann:216146",
+        "display_name": "Marta Kostyuk",
+        "rating": 2019.328,
+        "matches": 175
+      },
+      {
+        "player_key": "women:sackmann:239475",
+        "display_name": "Victoria Mboko",
+        "rating": 1992.15,
+        "matches": 186
+      },
+      {
+        "player_key": "women:sackmann:214096",
+        "display_name": "Karolina Muchova",
+        "rating": 1986.025,
+        "matches": 143
+      },
+      {
+        "player_key": "women:sackmann:216153",
+        "display_name": "Amanda Anisimova",
+        "rating": 1975.509,
+        "matches": 123
+      },
+      {
+        "player_key": "women:sackmann:201514",
+        "display_name": "Sorana Cirstea",
+        "rating": 1973.121,
+        "matches": 167
+      },
+      {
+        "player_key": "women:sackmann:202505",
+        "display_name": "Belinda Bencic",
+        "rating": 1965.555,
+        "matches": 136
+      },
+      {
+        "player_key": "women:sackmann:201619",
+        "display_name": "Madison Keys",
+        "rating": 1943.467,
+        "matches": 159
+      },
+      {
+        "player_key": "women:sackmann:211768",
+        "display_name": "Naomi Osaka",
+        "rating": 1940.876,
+        "matches": 105
+      },
+      {
+        "player_key": "women:sackmann:215713",
+        "display_name": "Anastasia Potapova",
+        "rating": 1919.465,
+        "matches": 169
+      },
+      {
+        "player_key": "women:sackmann:216081",
+        "display_name": "Maja Chwalinska",
+        "rating": 1914.3,
+        "matches": 189
+      },
+      {
+        "player_key": "women:sackmann:214939",
+        "display_name": "Anna Kalinskaya",
+        "rating": 1909.93,
+        "matches": 165
+      },
+      {
+        "player_key": "women:sackmann:211843",
+        "display_name": "Anhelina Kalinina",
+        "rating": 1909.882,
+        "matches": 166
+      },
+      {
+        "player_key": "women:sackmann:222328",
+        "display_name": "Linda Noskova",
+        "rating": 1906.127,
+        "matches": 184
+      }
+    ]
+  },
+  "top_by_level": {
+    "atp_wta": {
+      "men": [
+        {
+          "player_key": "men:sackmann:206173",
+          "display_name": "Jannik Sinner",
+          "rating": 2078.655,
+          "matches": 180
+        },
+        {
+          "player_key": "men:sackmann:207989",
+          "display_name": "Carlos Alcaraz",
+          "rating": 1923.871,
+          "matches": 172
+        },
+        {
+          "player_key": "men:sackmann:100644",
+          "display_name": "Alexander Zverev",
+          "rating": 1810.513,
+          "matches": 228
+        },
+        {
+          "player_key": "men:sackmann:209950",
+          "display_name": "Arthur Fils",
+          "rating": 1781.508,
+          "matches": 142
+        },
+        {
+          "player_key": "men:sackmann:106421",
+          "display_name": "Daniil Medvedev",
+          "rating": 1777.122,
+          "matches": 194
+        },
+        {
+          "player_key": "men:sackmann:104925",
+          "display_name": "Novak Djokovic",
+          "rating": 1757.33,
+          "matches": 91
+        },
+        {
+          "player_key": "men:sackmann:207733",
+          "display_name": "Jack Draper",
+          "rating": 1756.756,
+          "matches": 106
+        },
+        {
+          "player_key": "men:sackmann:134770",
+          "display_name": "Casper Ruud",
+          "rating": 1743.613,
+          "matches": 179
+        },
+        {
+          "player_key": "men:sackmann:126205",
+          "display_name": "Tommy Paul",
+          "rating": 1712.292,
+          "matches": 157
+        },
+        {
+          "player_key": "men:sackmann:208103",
+          "display_name": "Jiri Lehecka",
+          "rating": 1711.646,
+          "matches": 159
+        },
+        {
+          "player_key": "men:sackmann:200000",
+          "display_name": "Felix Auger Aliassime",
+          "rating": 1709.125,
+          "matches": 165
+        },
+        {
+          "player_key": "men:sackmann:200282",
+          "display_name": "Alex De Minaur",
+          "rating": 1704.02,
+          "matches": 195
+        },
+        {
+          "player_key": "men:sackmann:208029",
+          "display_name": "Holger Rune",
+          "rating": 1701.144,
+          "matches": 147
+        },
+        {
+          "player_key": "men:sackmann:207518",
+          "display_name": "Lorenzo Musetti",
+          "rating": 1695.117,
+          "matches": 169
+        },
+        {
+          "player_key": "men:sackmann:200624",
+          "display_name": "Sebastian Korda",
+          "rating": 1680.823,
+          "matches": 120
+        },
+        {
+          "player_key": "men:sackmann:202103",
+          "display_name": "Francisco Cerundolo",
+          "rating": 1680.05,
+          "matches": 187
+        },
+        {
+          "player_key": "men:sackmann:126203",
+          "display_name": "Taylor Fritz",
+          "rating": 1677.416,
+          "matches": 194
+        },
+        {
+          "player_key": "men:sackmann:210530",
+          "display_name": "Learner Tien",
+          "rating": 1672.909,
+          "matches": 79
+        },
+        {
+          "player_key": "men:sackmann:210150",
+          "display_name": "Jakub Mensik",
+          "rating": 1671.751,
+          "matches": 103
+        },
+        {
+          "player_key": "men:sackmann:122330",
+          "display_name": "Alexander Bublik",
+          "rating": 1665.651,
+          "matches": 154
+        }
+      ],
+      "women": [
+        {
+          "player_key": "women:sackmann:214544",
+          "display_name": "Aryna Sabalenka",
+          "rating": 1899.609,
+          "matches": 163
+        },
+        {
+          "player_key": "women:sackmann:214981",
+          "display_name": "Elena Rybakina",
+          "rating": 1856.58,
+          "matches": 160
+        },
+        {
+          "player_key": "women:sackmann:202468",
+          "display_name": "Jessica Pegula",
+          "rating": 1788.412,
+          "matches": 170
+        },
+        {
+          "player_key": "women:sackmann:221103",
+          "display_name": "Coco Gauff",
+          "rating": 1783.982,
+          "matches": 154
+        },
+        {
+          "player_key": "women:sackmann:216347",
+          "display_name": "Iga Swiatek",
+          "rating": 1781.387,
+          "matches": 158
+        },
+        {
+          "player_key": "women:sackmann:214096",
+          "display_name": "Karolina Muchova",
+          "rating": 1751.021,
+          "matches": 90
+        },
+        {
+          "player_key": "women:sackmann:216146",
+          "display_name": "Marta Kostyuk",
+          "rating": 1745.248,
+          "matches": 121
+        },
+        {
+          "player_key": "women:sackmann:202494",
+          "display_name": "Elina Svitolina",
+          "rating": 1742.198,
+          "matches": 87
+        },
+        {
+          "player_key": "women:sackmann:259799",
+          "display_name": "Mirra Andreeva",
+          "rating": 1735.439,
+          "matches": 106
+        },
+        {
+          "player_key": "women:sackmann:216153",
+          "display_name": "Amanda Anisimova",
+          "rating": 1706.329,
+          "matches": 73
+        },
+        {
+          "player_key": "women:sackmann:221012",
+          "display_name": "Qinwen Zheng",
+          "rating": 1703.014,
+          "matches": 115
+        },
+        {
+          "player_key": "women:sackmann:239475",
+          "display_name": "Victoria Mboko",
+          "rating": 1694.008,
+          "matches": 46
+        },
+        {
+          "player_key": "women:sackmann:202505",
+          "display_name": "Belinda Bencic",
+          "rating": 1675.711,
+          "matches": 84
+        },
+        {
+          "player_key": "women:sackmann:222328",
+          "display_name": "Linda Noskova",
+          "rating": 1668.208,
+          "matches": 113
+        },
+        {
+          "player_key": "women:sackmann:201514",
+          "display_name": "Sorana Cirstea",
+          "rating": 1652.34,
+          "matches": 94
+        },
+        {
+          "player_key": "women:sackmann:215713",
+          "display_name": "Anastasia Potapova",
+          "rating": 1642.974,
+          "matches": 94
+        },
+        {
+          "player_key": "women:sackmann:201619",
+          "display_name": "Madison Keys",
+          "rating": 1639.153,
+          "matches": 94
+        },
+        {
+          "player_key": "women:sackmann:211148",
+          "display_name": "Jasmine Paolini",
+          "rating": 1633.38,
+          "matches": 131
+        },
+        {
+          "player_key": "women:sackmann:214954",
+          "display_name": "Marketa Vondrousova",
+          "rating": 1631.546,
+          "matches": 69
+        },
+        {
+          "player_key": "women:sackmann:211768",
+          "display_name": "Naomi Osaka",
+          "rating": 1627.606,
+          "matches": 61
+        }
+      ]
+    },
+    "challenger": {
+      "men": [
+        {
+          "player_key": "men:sackmann:209920",
+          "display_name": "Raphael Collignon",
+          "rating": 1850.334,
+          "matches": 127
+        },
+        {
+          "player_key": "men:sackmann:200116",
+          "display_name": "Camilo Ugo Carabelli",
+          "rating": 1837.082,
+          "matches": 131
+        },
+        {
+          "player_key": "men:sackmann:207678",
+          "display_name": "Juan Manuel Cerundolo",
+          "rating": 1793.304,
+          "matches": 143
+        },
+        {
+          "player_key": "men:sackmann:208363",
+          "display_name": "Mariano Navone",
+          "rating": 1789.128,
+          "matches": 93
+        },
+        {
+          "player_key": "men:sackmann:210696",
+          "display_name": "Alexander Blockx",
+          "rating": 1782.704,
+          "matches": 109
+        },
+        {
+          "player_key": "men:sackmann:126214",
+          "display_name": "Alejandro Tabilo",
+          "rating": 1775.279,
+          "matches": 83
+        },
+        {
+          "player_key": "men:sackmann:105807",
+          "display_name": "Pablo Carreno Busta",
+          "rating": 1771.536,
+          "matches": 56
+        },
+        {
+          "player_key": "men:sackmann:208882",
+          "display_name": "Roman Andres Burruchaga",
+          "rating": 1769.605,
+          "matches": 190
+        },
+        {
+          "player_key": "men:sackmann:209976",
+          "display_name": "Dino Prizmic",
+          "rating": 1764.958,
+          "matches": 109
+        },
+        {
+          "player_key": "men:sackmann:126128",
+          "display_name": "Roman Safiullin",
+          "rating": 1764.416,
+          "matches": 49
+        },
+        {
+          "player_key": "men:sackmann:207352",
+          "display_name": "Bu Yunchaokete",
+          "rating": 1760.148,
+          "matches": 127
+        },
+        {
+          "player_key": "men:sackmann:106298",
+          "display_name": "Lucas Pouille",
+          "rating": 1756.264,
+          "matches": 55
+        },
+        {
+          "player_key": "men:sackmann:209226",
+          "display_name": "Adolfo Daniel Vallejo",
+          "rating": 1754.666,
+          "matches": 151
+        },
+        {
+          "player_key": "men:sackmann:200436",
+          "display_name": "Zsombor Piros",
+          "rating": 1753.234,
+          "matches": 173
+        },
+        {
+          "player_key": "men:sackmann:209414",
+          "display_name": "Luca Van Assche",
+          "rating": 1752.198,
+          "matches": 113
+        },
+        {
+          "player_key": "men:sackmann:106198",
+          "display_name": "Hugo Dellien",
+          "rating": 1749.484,
+          "matches": 153
+        },
+        {
+          "player_key": "men:sackmann:207680",
+          "display_name": "Facundo Diaz Acosta",
+          "rating": 1748.366,
+          "matches": 117
+        },
+        {
+          "player_key": "men:sackmann:200516",
+          "display_name": "Patrick Kypson",
+          "rating": 1747.688,
+          "matches": 144
+        },
+        {
+          "player_key": "men:sackmann:209260",
+          "display_name": "Luciano Darderi",
+          "rating": 1747.205,
+          "matches": 92
+        },
+        {
+          "player_key": "men:sackmann:106426",
+          "display_name": "Cristian Garin",
+          "rating": 1746.539,
+          "matches": 74
+        }
+      ],
+      "women": []
+    },
+    "grand_slam": {
+      "men": [
+        {
+          "player_key": "men:sackmann:207989",
+          "display_name": "Carlos Alcaraz",
+          "rating": 1888.497,
+          "matches": 69
+        },
+        {
+          "player_key": "men:sackmann:206173",
+          "display_name": "Jannik Sinner",
+          "rating": 1837.348,
+          "matches": 75
+        },
+        {
+          "player_key": "men:sackmann:104925",
+          "display_name": "Novak Djokovic",
+          "rating": 1815.976,
+          "matches": 77
+        },
+        {
+          "player_key": "men:sackmann:100644",
+          "display_name": "Alexander Zverev",
+          "rating": 1758.805,
+          "matches": 65
+        },
+        {
+          "player_key": "men:sackmann:210097",
+          "display_name": "Ben Shelton",
+          "rating": 1676.864,
+          "matches": 47
+        },
+        {
+          "player_key": "men:sackmann:126203",
+          "display_name": "Taylor Fritz",
+          "rating": 1675.465,
+          "matches": 52
+        },
+        {
+          "player_key": "men:sackmann:200282",
+          "display_name": "Alex De Minaur",
+          "rating": 1672.999,
+          "matches": 50
+        },
+        {
+          "player_key": "men:sackmann:105777",
+          "display_name": "Grigor Dimitrov",
+          "rating": 1665.267,
+          "matches": 33
+        },
+        {
+          "player_key": "men:sackmann:207518",
+          "display_name": "Lorenzo Musetti",
+          "rating": 1664.788,
+          "matches": 39
+        },
+        {
+          "player_key": "men:sackmann:126205",
+          "display_name": "Tommy Paul",
+          "rating": 1657.755,
+          "matches": 50
+        },
+        {
+          "player_key": "men:sackmann:126094",
+          "display_name": "Andrey Rublev",
+          "rating": 1646.454,
+          "matches": 50
+        },
+        {
+          "player_key": "men:sackmann:126207",
+          "display_name": "Frances Tiafoe",
+          "rating": 1625.507,
+          "matches": 44
+        },
+        {
+          "player_key": "men:sackmann:134770",
+          "display_name": "Casper Ruud",
+          "rating": 1619.071,
+          "matches": 41
+        },
+        {
+          "player_key": "men:sackmann:111815",
+          "display_name": "Cameron Norrie",
+          "rating": 1618.111,
+          "matches": 34
+        },
+        {
+          "player_key": "men:sackmann:210150",
+          "display_name": "Jakub Mensik",
+          "rating": 1613.318,
+          "matches": 28
+        },
+        {
+          "player_key": "men:sackmann:207925",
+          "display_name": "Flavio Cobolli",
+          "rating": 1607.762,
+          "matches": 29
+        },
+        {
+          "player_key": "men:sackmann:106421",
+          "display_name": "Daniil Medvedev",
+          "rating": 1604.913,
+          "matches": 45
+        },
+        {
+          "player_key": "men:sackmann:208029",
+          "display_name": "Holger Rune",
+          "rating": 1594.564,
+          "matches": 36
+        },
+        {
+          "player_key": "men:sackmann:207830",
+          "display_name": "Tomas Machac",
+          "rating": 1589.58,
+          "matches": 28
+        },
+        {
+          "player_key": "men:sackmann:200000",
+          "display_name": "Felix Auger Aliassime",
+          "rating": 1588.248,
+          "matches": 32
+        }
+      ],
+      "women": [
+        {
+          "player_key": "women:sackmann:214544",
+          "display_name": "Aryna Sabalenka",
+          "rating": 1832.007,
+          "matches": 83
+        },
+        {
+          "player_key": "women:sackmann:216347",
+          "display_name": "Iga Swiatek",
+          "rating": 1770.682,
+          "matches": 70
+        },
+        {
+          "player_key": "women:sackmann:221103",
+          "display_name": "Coco Gauff",
+          "rating": 1731.359,
+          "matches": 62
+        },
+        {
+          "player_key": "women:sackmann:214981",
+          "display_name": "Elena Rybakina",
+          "rating": 1720.998,
+          "matches": 52
+        },
+        {
+          "player_key": "women:sackmann:202494",
+          "display_name": "Elina Svitolina",
+          "rating": 1705.016,
+          "matches": 54
+        },
+        {
+          "player_key": "women:sackmann:259799",
+          "display_name": "Mirra Andreeva",
+          "rating": 1695.201,
+          "matches": 49
+        },
+        {
+          "player_key": "women:sackmann:201619",
+          "display_name": "Madison Keys",
+          "rating": 1690.167,
+          "matches": 49
+        },
+        {
+          "player_key": "women:sackmann:202468",
+          "display_name": "Jessica Pegula",
+          "rating": 1673.388,
+          "matches": 48
+        },
+        {
+          "player_key": "women:sackmann:216153",
+          "display_name": "Amanda Anisimova",
+          "rating": 1659.913,
+          "matches": 35
+        },
+        {
+          "player_key": "women:sackmann:214954",
+          "display_name": "Marketa Vondrousova",
+          "rating": 1644.408,
+          "matches": 33
+        },
+        {
+          "player_key": "women:sackmann:211768",
+          "display_name": "Naomi Osaka",
+          "rating": 1631.435,
+          "matches": 25
+        },
+        {
+          "player_key": "women:sackmann:202505",
+          "display_name": "Belinda Bencic",
+          "rating": 1617.809,
+          "matches": 30
+        },
+        {
+          "player_key": "women:sackmann:215613",
+          "display_name": "Emma Navarro",
+          "rating": 1615.231,
+          "matches": 38
+        },
+        {
+          "player_key": "women:sackmann:211651",
+          "display_name": "Paula Badosa",
+          "rating": 1613.009,
+          "matches": 28
+        },
+        {
+          "player_key": "women:sackmann:211148",
+          "display_name": "Jasmine Paolini",
+          "rating": 1612.403,
+          "matches": 42
+        },
+        {
+          "player_key": "women:sackmann:214096",
+          "display_name": "Karolina Muchova",
+          "rating": 1610.88,
+          "matches": 39
+        },
+        {
+          "player_key": "women:sackmann:202460",
+          "display_name": "Ons Jabeur",
+          "rating": 1608.817,
+          "matches": 32
+        },
+        {
+          "player_key": "women:sackmann:214939",
+          "display_name": "Anna Kalinskaya",
+          "rating": 1600.927,
+          "matches": 30
+        },
+        {
+          "player_key": "women:sackmann:221012",
+          "display_name": "Qinwen Zheng",
+          "rating": 1597.752,
+          "matches": 35
+        },
+        {
+          "player_key": "women:sackmann:214082",
+          "display_name": "Daria Kasatkina",
+          "rating": 1596.312,
+          "matches": 39
+        }
+      ]
+    },
+    "itf": {
+      "men": [
+        {
+          "player_key": "men:sackmann:206904",
+          "display_name": "Gauthier Onclin",
+          "rating": 1887.885,
+          "matches": 89
+        },
+        {
+          "player_key": "men:sackmann:202400",
+          "display_name": "Alastair Gray",
+          "rating": 1882.868,
+          "matches": 115
+        },
+        {
+          "player_key": "men:sackmann:202262",
+          "display_name": "Filip Cristian Jianu",
+          "rating": 1865.313,
+          "matches": 162
+        },
+        {
+          "player_key": "men:sackmann:200610",
+          "display_name": "Oliver Crawford",
+          "rating": 1850.263,
+          "matches": 132
+        },
+        {
+          "player_key": "men:sackmann:208421",
+          "display_name": "Lilian Marmousez",
+          "rating": 1849.875,
+          "matches": 144
+        },
+        {
+          "player_key": "men:sackmann:210338",
+          "display_name": "Arthur Gea",
+          "rating": 1845.822,
+          "matches": 84
+        },
+        {
+          "player_key": "men:sackmann:123819",
+          "display_name": "Goncalo Oliveira",
+          "rating": 1832.799,
+          "matches": 132
+        },
+        {
+          "player_key": "men:sackmann:208269",
+          "display_name": "Felix Gill",
+          "rating": 1828.197,
+          "matches": 138
+        },
+        {
+          "player_key": "men:sackmann:208182",
+          "display_name": "Saba Purtseladze",
+          "rating": 1827.322,
+          "matches": 163
+        },
+        {
+          "player_key": "men:sackmann:202475",
+          "display_name": "Philip Henning",
+          "rating": 1824.938,
+          "matches": 132
+        },
+        {
+          "player_key": "men:sackmann:207546",
+          "display_name": "Pol Martin Tiffon",
+          "rating": 1823.232,
+          "matches": 117
+        },
+        {
+          "player_key": "men:sackmann:208013",
+          "display_name": "Dane Sweeny",
+          "rating": 1822.17,
+          "matches": 87
+        },
+        {
+          "player_key": "men:sackmann:207415",
+          "display_name": "Daniel Michalski",
+          "rating": 1821.487,
+          "matches": 98
+        },
+        {
+          "player_key": "men:sackmann:202147",
+          "display_name": "Florent Bax",
+          "rating": 1820.67,
+          "matches": 172
+        },
+        {
+          "player_key": "men:sackmann:208024",
+          "display_name": "Max Alcala Gurri",
+          "rating": 1818.877,
+          "matches": 181
+        },
+        {
+          "player_key": "men:sackmann:105841",
+          "display_name": "Lorenzo Giustino",
+          "rating": 1817.986,
+          "matches": 91
+        },
+        {
+          "player_key": "men:sackmann:208069",
+          "display_name": "Max Houkes",
+          "rating": 1816.853,
+          "matches": 139
+        },
+        {
+          "player_key": "men:sackmann:208210",
+          "display_name": "Chris Rodesch",
+          "rating": 1816.841,
+          "matches": 66
+        },
+        {
+          "player_key": "men:sackmann:126652",
+          "display_name": "Jay Clarke",
+          "rating": 1816.062,
+          "matches": 123
+        },
+        {
+          "player_key": "men:sackmann:202127",
+          "display_name": "Clement Tabur",
+          "rating": 1815.636,
+          "matches": 94
+        }
+      ],
+      "women": [
+        {
+          "player_key": "women:sackmann:238184",
+          "display_name": "Tereza Valentova",
+          "rating": 1974.085,
+          "matches": 118
+        },
+        {
+          "player_key": "women:sackmann:211843",
+          "display_name": "Anhelina Kalinina",
+          "rating": 1955.021,
+          "matches": 78
+        },
+        {
+          "player_key": "women:sackmann:222145",
+          "display_name": "Janice Tjen",
+          "rating": 1944.682,
+          "matches": 130
+        },
+        {
+          "player_key": "women:sackmann:220716",
+          "display_name": "Oleksandra Oliynykova",
+          "rating": 1934.948,
+          "matches": 207
+        },
+        {
+          "player_key": "women:sackmann:239475",
+          "display_name": "Victoria Mboko",
+          "rating": 1933.396,
+          "matches": 127
+        },
+        {
+          "player_key": "women:sackmann:220750",
+          "display_name": "Daria Snigur",
+          "rating": 1924.344,
+          "matches": 210
+        },
+        {
+          "player_key": "women:sackmann:222290",
+          "display_name": "Lanlana Tararudee",
+          "rating": 1909.85,
+          "matches": 221
+        },
+        {
+          "player_key": "women:sackmann:252499",
+          "display_name": "Alina Korneeva",
+          "rating": 1902.049,
+          "matches": 131
+        },
+        {
+          "player_key": "women:sackmann:216016",
+          "display_name": "Xiyu Wang",
+          "rating": 1901.017,
+          "matches": 114
+        },
+        {
+          "player_key": "women:sackmann:221257",
+          "display_name": "Sinja Kraus",
+          "rating": 1898.273,
+          "matches": 218
+        },
+        {
+          "player_key": "women:sackmann:221237",
+          "display_name": "Maria Timofeeva",
+          "rating": 1894.468,
+          "matches": 165
+        },
+        {
+          "player_key": "women:sackmann:260168",
+          "display_name": "Alexandra Shubladze",
+          "rating": 1894.102,
+          "matches": 183
+        },
+        {
+          "player_key": "women:sackmann:211701",
+          "display_name": "Katerina Siniakova",
+          "rating": 1893.529,
+          "matches": 78
+        },
+        {
+          "player_key": "women:sackmann:220520",
+          "display_name": "Mccartney Kessler",
+          "rating": 1886.767,
+          "matches": 136
+        },
+        {
+          "player_key": "women:sackmann:220465",
+          "display_name": "Katie Volynets",
+          "rating": 1884.728,
+          "matches": 161
+        },
+        {
+          "player_key": "women:sackmann:223253",
+          "display_name": "Alexandra Eala",
+          "rating": 1881.403,
+          "matches": 193
+        },
+        {
+          "player_key": "women:sackmann:239383",
+          "display_name": "Sara Bejlek",
+          "rating": 1877.201,
+          "matches": 138
+        },
+        {
+          "player_key": "women:sackmann:260300",
+          "display_name": "Iva Jovic",
+          "rating": 1872.701,
+          "matches": 91
+        },
+        {
+          "player_key": "women:sackmann:215037",
+          "display_name": "Kayla Day",
+          "rating": 1869.396,
+          "matches": 181
+        },
+        {
+          "player_key": "women:sackmann:216081",
+          "display_name": "Maja Chwalinska",
+          "rating": 1868.318,
+          "matches": 179
+        }
+      ]
+    },
+    "qualifying": {
+      "men": [
+        {
+          "player_key": "men:sackmann:209976",
+          "display_name": "Dino Prizmic",
+          "rating": 1661.576,
+          "matches": 28
+        },
+        {
+          "player_key": "men:sackmann:209992",
+          "display_name": "Juncheng Shang",
+          "rating": 1657.609,
+          "matches": 30
+        },
+        {
+          "player_key": "men:sackmann:210319",
+          "display_name": "Ethan Quinn",
+          "rating": 1649.825,
+          "matches": 43
+        },
+        {
+          "player_key": "men:sackmann:111460",
+          "display_name": "Quentin Halys",
+          "rating": 1637.533,
+          "matches": 45
+        },
+        {
+          "player_key": "men:sackmann:209098",
+          "display_name": "Hamad Medjedovic",
+          "rating": 1636.359,
+          "matches": 46
+        },
+        {
+          "player_key": "men:sackmann:105916",
+          "display_name": "Marton Fucsovics",
+          "rating": 1636.326,
+          "matches": 31
+        },
+        {
+          "player_key": "men:sackmann:206748",
+          "display_name": "Giulio Zeppieri",
+          "rating": 1633.624,
+          "matches": 61
+        },
+        {
+          "player_key": "men:sackmann:105932",
+          "display_name": "Nikoloz Basilashvili",
+          "rating": 1627.671,
+          "matches": 53
+        },
+        {
+          "player_key": "men:sackmann:124116",
+          "display_name": "Sebastian Ofner",
+          "rating": 1627.485,
+          "matches": 25
+        },
+        {
+          "player_key": "men:sackmann:106423",
+          "display_name": "Thanasi Kokkinakis",
+          "rating": 1622.961,
+          "matches": 19
+        },
+        {
+          "player_key": "men:sackmann:105526",
+          "display_name": "Jan Lennard Struff",
+          "rating": 1622.287,
+          "matches": 26
+        },
+        {
+          "player_key": "men:sackmann:105870",
+          "display_name": "Yannick Hanfmann",
+          "rating": 1621.605,
+          "matches": 68
+        },
+        {
+          "player_key": "men:sackmann:210460",
+          "display_name": "Nishesh Basavareddy",
+          "rating": 1619.857,
+          "matches": 29
+        },
+        {
+          "player_key": "men:sackmann:208260",
+          "display_name": "Zachary Svajda",
+          "rating": 1619.792,
+          "matches": 67
+        },
+        {
+          "player_key": "men:sackmann:200267",
+          "display_name": "Zizou Bergs",
+          "rating": 1616.641,
+          "matches": 42
+        },
+        {
+          "player_key": "men:sackmann:207985",
+          "display_name": "Jacob Fearnley",
+          "rating": 1614.568,
+          "matches": 22
+        },
+        {
+          "player_key": "men:sackmann:207925",
+          "display_name": "Flavio Cobolli",
+          "rating": 1612.458,
+          "matches": 23
+        },
+        {
+          "player_key": "men:sackmann:208010",
+          "display_name": "Pablo Llamas Ruiz",
+          "rating": 1609.769,
+          "matches": 36
+        },
+        {
+          "player_key": "men:sackmann:208859",
+          "display_name": "Francesco Passaro",
+          "rating": 1607.128,
+          "matches": 41
+        },
+        {
+          "player_key": "men:sackmann:207830",
+          "display_name": "Tomas Machac",
+          "rating": 1605.338,
+          "matches": 26
+        }
+      ],
+      "women": []
+    }
+  }
+}
