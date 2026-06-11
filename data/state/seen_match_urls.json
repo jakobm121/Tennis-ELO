@@ -1811,7 +1811,7 @@
     },
     "https://www.rezultati.com/utakmica/tenis/anastasiya-konstantinovna-soboleva-4AGU3dN1/pastikova-julie-U1ZWDeaH/?mid=xbzw9bKl": {
       "first_seen_at": "2026-06-10T12:23:07.129954+02:00",
-      "last_seen_at": "2026-06-10T17:59:35.993438+02:00",
+      "last_seen_at": "2026-06-11T06:54:15.445304+02:00",
       "match": "Anastasiya Konstantinovna Soboleva - Pastikova Julie",
       "player_1": "Anastasiya Konstantinovna Soboleva",
       "player_2": "Pastikova Julie",
@@ -1961,22 +1961,100 @@
       "player_2": "Olmos Zoe",
       "status": "scheduled",
       "source_match_id": "8MlH3n3M"
+    },
+    "https://www.rezultati.com/utakmica/tenis/abbagnato-anastasia-UcSf4KWB/gennaro-camilla-Kx3weLNI/?mid=8Q6AJjFF": {
+      "first_seen_at": "2026-06-11T06:54:15.445304+02:00",
+      "last_seen_at": "2026-06-11T06:54:15.445304+02:00",
+      "match": "Abbagnato Anastasia - Gennaro Camilla",
+      "player_1": "Abbagnato Anastasia",
+      "player_2": "Gennaro Camilla",
+      "status": "scheduled",
+      "source_match_id": "8Q6AJjFF"
+    },
+    "https://www.rezultati.com/utakmica/tenis/added-dan-bwW3LbI0/de-felipe-garcia-samuel-lCxq8pdi/?mid=pzxGgOf4": {
+      "first_seen_at": "2026-06-11T06:54:15.445304+02:00",
+      "last_seen_at": "2026-06-11T06:54:15.445304+02:00",
+      "match": "Added Dan - De Felipe Garcia Samuel",
+      "player_1": "Added Dan",
+      "player_2": "De Felipe Garcia Samuel",
+      "status": "scheduled",
+      "source_match_id": "pzxGgOf4"
+    },
+    "https://www.rezultati.com/utakmica/tenis/aguiard-enzo-2gzfIDcj/manning-william-27BNa5to/?mid=WK1S3e55": {
+      "first_seen_at": "2026-06-11T06:54:15.445304+02:00",
+      "last_seen_at": "2026-06-11T06:54:15.445304+02:00",
+      "match": "Aguiard Enzo - Manning William",
+      "player_1": "Aguiard Enzo",
+      "player_2": "Manning William",
+      "status": "scheduled",
+      "source_match_id": "WK1S3e55"
+    },
+    "https://www.rezultati.com/utakmica/tenis/aikawa-mayuka-8brlAqYt/das-aishi-dSN9Y9Oq/?mid=M7ZQNFi4": {
+      "first_seen_at": "2026-06-11T06:54:15.445304+02:00",
+      "last_seen_at": "2026-06-11T06:54:15.445304+02:00",
+      "match": "Aikawa Mayuka - Das Aishi",
+      "player_1": "Aikawa Mayuka",
+      "player_2": "Das Aishi",
+      "status": "scheduled",
+      "source_match_id": "M7ZQNFi4"
+    },
+    "https://www.rezultati.com/utakmica/tenis/ait-el-bachir-warda-6aSuqMCP/teixido-garcia-maria-aran-CMBBiiQi/?mid=UXEnqJUa": {
+      "first_seen_at": "2026-06-11T06:54:15.445304+02:00",
+      "last_seen_at": "2026-06-11T06:54:15.445304+02:00",
+      "match": "Ait El Bachir Warda - Teixido Garcia Maria Aran",
+      "player_1": "Ait El Bachir Warda",
+      "player_2": "Teixido Garcia Maria Aran",
+      "status": "scheduled",
+      "source_match_id": "UXEnqJUa"
+    },
+    "https://www.rezultati.com/utakmica/tenis/ajdukovic-duje-n11bz7QK/biletic-ivan-fuc0xP4r/?mid=jN9pYPoA": {
+      "first_seen_at": "2026-06-11T06:54:15.445304+02:00",
+      "last_seen_at": "2026-06-11T06:54:15.445304+02:00",
+      "match": "Ajdukovic Duje - Biletic Ivan",
+      "player_1": "Ajdukovic Duje",
+      "player_2": "Biletic Ivan",
+      "status": "scheduled",
+      "source_match_id": "jN9pYPoA"
+    },
+    "https://www.rezultati.com/utakmica/tenis/alekseychuk-artem-8U71ey5I/liu-hanyi-zcbzRCjA/?mid=dEN6Ilj5": {
+      "first_seen_at": "2026-06-11T06:54:15.445304+02:00",
+      "last_seen_at": "2026-06-11T06:54:15.445304+02:00",
+      "match": "Alekseychuk Artem - Liu Hanyi",
+      "player_1": "Alekseychuk Artem",
+      "player_2": "Liu Hanyi",
+      "status": "scheduled",
+      "source_match_id": "dEN6Ilj5"
+    },
+    "https://www.rezultati.com/utakmica/tenis/alevtina-ibragimova-dhN0o6oN/glushkova-denislava-GCVy5Dvm/?mid=vZvzwbQ8": {
+      "first_seen_at": "2026-06-11T06:54:15.445304+02:00",
+      "last_seen_at": "2026-06-11T06:54:15.445304+02:00",
+      "match": "Alevtina Ibragimova - Glushkova Denislava",
+      "player_1": "Alevtina Ibragimova",
+      "player_2": "Glushkova Denislava",
+      "status": "scheduled",
+      "source_match_id": "vZvzwbQ8"
     }
   },
   "seen_urls": [
     "https://www.rezultati.com/utakmica/tenis/abbagnato-anastasia-UcSf4KWB/ferro-galatea-CQUWRxNE/?mid=8GecKCXH",
+    "https://www.rezultati.com/utakmica/tenis/abbagnato-anastasia-UcSf4KWB/gennaro-camilla-Kx3weLNI/?mid=8Q6AJjFF",
     "https://www.rezultati.com/utakmica/tenis/abendroth-jolie-angelique-MoRIbmVn/gadamauri-tamila-OUmUlddT/?mid=I9LYa5uC",
     "https://www.rezultati.com/utakmica/tenis/abibsi-mohamed-ali-fLsxCRR2/fradkin-jeffrey-8lnAfpc5/?mid=4dluF2B5",
     "https://www.rezultati.com/utakmica/tenis/aboian-valerio-6BsiXzTM/cigarran-thiago-EBRfRytK/?mid=M9QdQTin",
     "https://www.rezultati.com/utakmica/tenis/adams-julia-rNpx5PyM/hossam-salah-jana-dC3FEWpE/?mid=z7T7fohC",
+    "https://www.rezultati.com/utakmica/tenis/added-dan-bwW3LbI0/de-felipe-garcia-samuel-lCxq8pdi/?mid=pzxGgOf4",
     "https://www.rezultati.com/utakmica/tenis/added-dan-bwW3LbI0/pedrico-kravtsov-albert-SC9if6GJ/?mid=n1JMWEP1",
     "https://www.rezultati.com/utakmica/tenis/agamenone-franco-E9dx5gGD/forti-francesco-MF7nWtCA/?mid=KGjVKXKE",
     "https://www.rezultati.com/utakmica/tenis/agamenone-franco-E9dx5gGD/ribecai-michele-fNFrUmQq/?mid=dfmUmVBL",
+    "https://www.rezultati.com/utakmica/tenis/aguiard-enzo-2gzfIDcj/manning-william-27BNa5to/?mid=WK1S3e55",
     "https://www.rezultati.com/utakmica/tenis/aguiard-enzo-2gzfIDcj/soriano-barrera-adria-xCD2BANp/?mid=0KyO4SY0",
     "https://www.rezultati.com/utakmica/tenis/aguilar-cardozo-joaquin-rsXrDrGP/justo-guido-ivan-CjaTkiTr/?mid=Oxoe8Re5",
     "https://www.rezultati.com/utakmica/tenis/ahti-vesa-ULGjM0EI/ymer-rafael-KhH073S2/?mid=WEbWsC2T",
+    "https://www.rezultati.com/utakmica/tenis/aikawa-mayuka-8brlAqYt/das-aishi-dSN9Y9Oq/?mid=M7ZQNFi4",
     "https://www.rezultati.com/utakmica/tenis/aikawa-mayuka-8brlAqYt/yoshioka-kisa-4vTImBMR/?mid=htgNKWPM",
     "https://www.rezultati.com/utakmica/tenis/ait-el-bachir-warda-6aSuqMCP/ennaciri-manal-2cKYR43n/?mid=MygWKLZR",
+    "https://www.rezultati.com/utakmica/tenis/ait-el-bachir-warda-6aSuqMCP/teixido-garcia-maria-aran-CMBBiiQi/?mid=UXEnqJUa",
+    "https://www.rezultati.com/utakmica/tenis/ajdukovic-duje-n11bz7QK/biletic-ivan-fuc0xP4r/?mid=jN9pYPoA",
     "https://www.rezultati.com/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/?mid=ELvy8rre",
     "https://www.rezultati.com/utakmica/tenis/aksu-semra-OvCzr4ZB/melnikova-aleksandra-rcIMnyhU/?mid=zsbtiCoK",
     "https://www.rezultati.com/utakmica/tenis/akugue-noha-noma-IyMCDvw8/kawa-katarzyna-2kS2AMrn/?mid=r3DyyI2S",
@@ -1984,8 +2062,10 @@
     "https://www.rezultati.com/utakmica/tenis/alcala-gurri-max-pISmOkA6/blanch-dali-tEewFwuI/?mid=OSJW8H3T",
     "https://www.rezultati.com/utakmica/tenis/alcala-gurri-max-pISmOkA6/de-schepper-kenny-0bPhsiMF/?mid=jDW7Jdyf",
     "https://www.rezultati.com/utakmica/tenis/alcala-gurri-max-pISmOkA6/nikles-johan-rN9JzXam/?mid=ln9s0huI",
+    "https://www.rezultati.com/utakmica/tenis/alekseychuk-artem-8U71ey5I/liu-hanyi-zcbzRCjA/?mid=dEN6Ilj5",
     "https://www.rezultati.com/utakmica/tenis/alekseychuk-artem-8U71ey5I/matsuda-koki-Yw4PpvMH/?mid=OGk3E6RG",
     "https://www.rezultati.com/utakmica/tenis/alevtina-ibragimova-dhN0o6oN/bonardi-berta-GQxuhPTH/?mid=f3dsT83b",
+    "https://www.rezultati.com/utakmica/tenis/alevtina-ibragimova-dhN0o6oN/glushkova-denislava-GCVy5Dvm/?mid=vZvzwbQ8",
     "https://www.rezultati.com/utakmica/tenis/alexandrova-ekaterina-dzbgeEFF/udvardy-panna-bLI5Djkk/?mid=bVH7Mcxq",
     "https://www.rezultati.com/utakmica/tenis/alhussein-abdel-aziz-lamis-CvDob5Zt/bista-abhilasha-SO78gtLL/?mid=SIJanI8k",
     "https://www.rezultati.com/utakmica/tenis/alkaya-mert-biuyCvl4/herbert-pierre-hugues-vD0zNRBM/?mid=2qvupDi4",
@@ -2183,5 +2263,5 @@
     "https://www.rezultati.com/utakmica/tenis/jovanovic-mirjana-0jieYeGh/korpanec-davies-allegra-YFozIkkt/?mid=drsm3vJG",
     "https://www.rezultati.com/utakmica/tenis/kadiri-hassani-youssef-YstL8s3O/koyama-hiromasa-lMQ1mPlU/?mid=KnkmQLA7"
   ],
-  "generated_at": "2026-06-10T22:42:34.708002+02:00"
+  "generated_at": "2026-06-11T06:54:15.445949+02:00"
 }
