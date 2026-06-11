@@ -7,38 +7,53 @@ on:
         description: "Odds backfill JSON URL"
         required: true
         default: "https://raw.githubusercontent.com/jakobm121/Ai/refs/heads/main/data/tle/odds_backfill/tle_odds_backfill.json"
+
       fallback:
-        description: "Odds mode"
+        description: "Odds fallback"
         required: true
         default: "clean_average"
+        type: choice
+        options:
+          - clean_average
+          - clean_median
+          - bookmaker
+          - median
+          - best
+
       bookmaker:
         description: "Preferred bookmaker"
         required: true
         default: "Pncl"
+
       min_odds:
-        description: "Minimum individual bookmaker odds"
+        description: "Minimum allowed individual odds"
         required: true
-        default: "1.2"
+        default: "1.20"
+
       max_odds:
-        description: "Maximum individual bookmaker odds"
+        description: "Maximum allowed individual odds"
         required: true
-        default: "8.0"
+        default: "8.00"
+
       min_overround:
-        description: "Minimum pair overround"
+        description: "Minimum allowed pair overround"
         required: true
         default: "-0.03"
+
       max_overround:
-        description: "Maximum pair overround"
+        description: "Maximum allowed pair overround"
         required: true
         default: "0.18"
+
       min_edge:
         description: "Minimum TLE edge"
         required: true
         default: "0.03"
+
       min_ev:
-        description: "Minimum EV"
+        description: "Minimum TLE EV"
         required: true
-        default: "0.0"
+        default: "0.00"
 
 permissions:
   contents: write
@@ -56,7 +71,7 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Run backtest
+      - name: Run TLE odds backtest
         env:
           PYTHONPATH: ${{ github.workspace }}
         run: |
@@ -73,8 +88,11 @@ jobs:
 
       - name: Show report
         run: |
+          echo "=== JSON REPORT ==="
           cat data/tle/reports/tle_api_overlay_odds_backtest_report.json || true
+
           echo ""
+          echo "=== MARKDOWN REPORT ==="
           cat data/tle/backtests/tle_api_overlay_odds_backtest.md || true
 
       - name: Commit backtest outputs
