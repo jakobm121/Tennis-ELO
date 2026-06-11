@@ -3,57 +3,42 @@ name: TLE Backtest API Overlay With Odds
 on:
   workflow_dispatch:
     inputs:
-      odds_mode:
+      odds_url:
+        description: "Odds backfill JSON URL"
+        required: true
+        default: "https://raw.githubusercontent.com/jakobm121/Ai/refs/heads/main/data/tle/odds_backfill/tle_odds_backfill.json"
+      fallback:
         description: "Odds mode"
         required: true
         default: "clean_average"
-        type: choice
-        options:
-          - clean_average
-          - clean_median
-          - bookmaker
-          - best
-          - worst
-
       bookmaker:
-        description: "Bookmaker, used only when odds_mode=bookmaker"
+        description: "Preferred bookmaker"
         required: true
         default: "Pncl"
-
       min_odds:
-        description: "Minimum allowed individual bookmaker odds"
+        description: "Minimum individual bookmaker odds"
         required: true
-        default: "1.20"
-
+        default: "1.2"
       max_odds:
-        description: "Maximum allowed individual bookmaker odds"
+        description: "Maximum individual bookmaker odds"
         required: true
-        default: "8.00"
-
+        default: "8.0"
       min_overround:
-        description: "Minimum allowed market overround"
+        description: "Minimum pair overround"
         required: true
         default: "-0.03"
-
       max_overround:
-        description: "Maximum allowed market overround"
+        description: "Maximum pair overround"
         required: true
         default: "0.18"
-
       min_edge:
         description: "Minimum TLE edge"
         required: true
         default: "0.03"
-
       min_ev:
-        description: "Minimum TLE EV"
+        description: "Minimum EV"
         required: true
-        default: "0.00"
-
-      odds_url:
-        description: "AI odds backfill raw URL"
-        required: true
-        default: "https://raw.githubusercontent.com/jakobm121/Ai/refs/heads/main/data/tle/odds_backfill/tle_odds_backfill.json"
+        default: "0.0"
 
 permissions:
   contents: write
@@ -71,13 +56,13 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Run TLE odds backtest
+      - name: Run backtest
         env:
           PYTHONPATH: ${{ github.workspace }}
         run: |
           python -m tennis_elo.tle_backtest_api_overlay_with_odds \
-            --odds-url "${{ inputs.odds_url }}" \
-            --odds-mode "${{ inputs.odds_mode }}" \
+            --odds "${{ inputs.odds_url }}" \
+            --fallback "${{ inputs.fallback }}" \
             --bookmaker "${{ inputs.bookmaker }}" \
             --min-odds "${{ inputs.min_odds }}" \
             --max-odds "${{ inputs.max_odds }}" \
@@ -86,42 +71,23 @@ jobs:
             --min-edge "${{ inputs.min_edge }}" \
             --min-ev "${{ inputs.min_ev }}"
 
-      - name: Show summary
+      - name: Show report
         run: |
-          python - <<'PY'
-          import json
-          from pathlib import Path
-
-          path = Path("data/tle/backtests/tle_backtest_api_overlay_with_odds_latest.json")
-          if not path.exists():
-              raise SystemExit(f"Missing output: {path}")
-
-          payload = json.loads(path.read_text(encoding="utf-8"))
-          print(json.dumps(payload.get("summary", {}), indent=2, ensure_ascii=False))
-
-          md = Path("data/tle/backtests/tle_backtest_api_overlay_with_odds_latest.md")
-          if md.exists():
-              print("\nMARKDOWN TABLE")
-              print(md.read_text(encoding="utf-8"))
-          PY
+          cat data/tle/reports/tle_api_overlay_odds_backtest_report.json || true
+          echo ""
+          cat data/tle/backtests/tle_api_overlay_odds_backtest.md || true
 
       - name: Commit backtest outputs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add \
-            data/tle/backtests/tle_backtest_api_overlay_with_odds_clean.json \
-            data/tle/backtests/tle_backtest_api_overlay_with_odds_latest.json \
-            data/tle/backtests/tle_backtest_api_overlay_with_odds_clean_value_bets.csv \
-            data/tle/backtests/tle_backtest_api_overlay_with_odds_latest_value_bets.csv \
-            data/tle/backtests/tle_backtest_api_overlay_with_odds_clean.md \
-            data/tle/backtests/tle_backtest_api_overlay_with_odds_latest.md
+          git add data/tle/backtests data/tle/reports
 
           if git diff --cached --quiet; then
-            echo "No backtest output changes to commit."
+            echo "No changes to commit."
             exit 0
           fi
 
-          git commit -m "Run TLE clean odds backtest"
+          git commit -m "Run TLE odds backtest"
           git push
