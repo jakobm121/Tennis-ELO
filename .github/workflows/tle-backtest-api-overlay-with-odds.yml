@@ -71,12 +71,9 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install package
-        run: |
-          python -m pip install --upgrade pip
-          pip install -e .
-
       - name: Run TLE odds backtest
+        env:
+          PYTHONPATH: ${{ github.workspace }}
         run: |
           python -m tennis_elo.tle_backtest_api_overlay_with_odds \
             --odds-url "${{ inputs.odds_url }}" \
@@ -100,9 +97,7 @@ jobs:
               raise SystemExit(f"Missing output: {path}")
 
           payload = json.loads(path.read_text(encoding="utf-8"))
-          summary = payload.get("summary", {})
-
-          print(json.dumps(summary, indent=2, ensure_ascii=False))
+          print(json.dumps(payload.get("summary", {}), indent=2, ensure_ascii=False))
 
           md = Path("data/tle/backtests/tle_backtest_api_overlay_with_odds_latest.md")
           if md.exists():
