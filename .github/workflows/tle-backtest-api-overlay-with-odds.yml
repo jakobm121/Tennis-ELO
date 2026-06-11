@@ -3,86 +3,130 @@ name: TLE Backtest API Overlay With Odds
 on:
   workflow_dispatch:
     inputs:
+      odds_mode:
+        description: "Odds mode"
+        required: true
+        default: "clean_average"
+        type: choice
+        options:
+          - clean_average
+          - clean_median
+          - bookmaker
+          - best
+          - worst
+
       bookmaker:
-        description: "Preferred bookmaker key from API odds"
+        description: "Bookmaker, used only when odds_mode=bookmaker"
         required: true
         default: "Pncl"
 
-      fallback:
-        description: "Fallback if bookmaker is missing: none, median, max, min"
+      min_odds:
+        description: "Minimum allowed individual bookmaker odds"
         required: true
-        default: "median"
+        default: "1.20"
+
+      max_odds:
+        description: "Maximum allowed individual bookmaker odds"
+        required: true
+        default: "8.00"
+
+      min_overround:
+        description: "Minimum allowed market overround"
+        required: true
+        default: "-0.03"
+
+      max_overround:
+        description: "Maximum allowed market overround"
+        required: true
+        default: "0.18"
 
       min_edge:
-        description: "Minimum devig edge for value bets"
+        description: "Minimum TLE edge"
         required: true
         default: "0.03"
 
       min_ev:
-        description: "Minimum EV for value bets"
+        description: "Minimum TLE EV"
         required: true
-        default: "0.0"
+        default: "0.00"
+
+      odds_url:
+        description: "AI odds backfill raw URL"
+        required: true
+        default: "https://raw.githubusercontent.com/jakobm121/Ai/refs/heads/main/data/tle/odds_backfill/tle_odds_backfill.json"
 
 permissions:
   contents: write
 
 jobs:
-  backtest-api-overlay-with-odds:
+  backtest:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Tennis-ELO repository
+      - name: Checkout Tennis-ELO
         uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-version: "3.11"
 
-      - name: Run API overlay odds backtest
+      - name: Install package
+        run: |
+          python -m pip install --upgrade pip
+          pip install -e .
+
+      - name: Run TLE odds backtest
         run: |
           python -m tennis_elo.tle_backtest_api_overlay_with_odds \
+            --odds-url "${{ inputs.odds_url }}" \
+            --odds-mode "${{ inputs.odds_mode }}" \
             --bookmaker "${{ inputs.bookmaker }}" \
-            --fallback "${{ inputs.fallback }}" \
+            --min-odds "${{ inputs.min_odds }}" \
+            --max-odds "${{ inputs.max_odds }}" \
+            --min-overround "${{ inputs.min_overround }}" \
+            --max-overround "${{ inputs.max_overround }}" \
             --min-edge "${{ inputs.min_edge }}" \
             --min-ev "${{ inputs.min_ev }}"
 
-      - name: Show odds backtest summary
+      - name: Show summary
         run: |
           python - <<'PY'
           import json
           from pathlib import Path
 
-          path = Path(
-              "data/tle/reports/tle_api_overlay_odds_backtest_report.json"
-          )
-
+          path = Path("data/tle/backtests/tle_backtest_api_overlay_with_odds_latest.json")
           if not path.exists():
-              raise SystemExit(f"Missing report: {path}")
+              raise SystemExit(f"Missing output: {path}")
 
           payload = json.loads(path.read_text(encoding="utf-8"))
+          summary = payload.get("summary", {})
 
-          print(json.dumps(
-              payload.get("summary", {}),
-              indent=2,
-              ensure_ascii=False,
-          ))
+          print(json.dumps(summary, indent=2, ensure_ascii=False))
+
+          md = Path("data/tle/backtests/tle_backtest_api_overlay_with_odds_latest.md")
+          if md.exists():
+              print("\nMARKDOWN TABLE")
+              print(md.read_text(encoding="utf-8"))
           PY
 
-      - name: Commit API overlay odds backtest
+      - name: Commit backtest outputs
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email \
-            "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add \
-            data/tle/backtests/tle_api_overlay_odds_backtest.json \
-            data/tle/reports/tle_api_overlay_odds_backtest_report.json
+            data/tle/backtests/tle_backtest_api_overlay_with_odds_clean.json \
+            data/tle/backtests/tle_backtest_api_overlay_with_odds_latest.json \
+            data/tle/backtests/tle_backtest_api_overlay_with_odds_clean_value_bets.csv \
+            data/tle/backtests/tle_backtest_api_overlay_with_odds_latest_value_bets.csv \
+            data/tle/backtests/tle_backtest_api_overlay_with_odds_clean.md \
+            data/tle/backtests/tle_backtest_api_overlay_with_odds_latest.md
 
           if git diff --cached --quiet; then
-            echo "No API overlay odds backtest changes to commit."
+            echo "No backtest output changes to commit."
             exit 0
           fi
 
-          git commit -m "Backtest TLE API overlay with odds"
+          git commit -m "Run TLE clean odds backtest"
           git push
