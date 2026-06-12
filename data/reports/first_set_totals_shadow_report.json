@@ -1,19 +1,20 @@
 {
-  "generated_at": "2026-06-12T07:19:08.504179+02:00",
+  "generated_at": "2026-06-12T12:51:28.702934+02:00",
   "summary": {
-    "odds_matches": 114,
-    "evaluated_strategy_rows": 684,
-    "shadow_bets": 2,
+    "odds_matches": 95,
+    "evaluated_strategy_rows": 564,
+    "shadow_bets": 1,
     "watch_picks": 0,
-    "no_bet": 682,
-    "shadow_bet": 2
+    "no_bet": 563,
+    "shadow_bet": 1,
+    "missing_first_set_totals": 1
   },
   "top_shadow_picks": [
     {
       "pick_id": "12135821|first_set|under|9.5|all_fav75_under_9_5",
       "event_key": 12135821,
       "date": "2026-06-12",
-      "time": "13:30",
+      "time": "14:00",
       "match": "B. Bonzi - A. De Minaur",
       "player_1": "B. Bonzi",
       "player_2": "A. De Minaur",
@@ -22,7 +23,7 @@
       "gender": "men",
       "surface": "grass",
       "favorite": "A. De Minaur",
-      "favorite_probability": 0.785396,
+      "favorite_probability": 0.784314,
       "strategy_id": "all_fav75_under_9_5",
       "market": "first_set_total_games",
       "side": "under",
@@ -49,49 +50,6 @@
         "profile_probabilities": [
           0.3107,
           0.5162
-        ]
-      }
-    },
-    {
-      "pick_id": "12135310|first_set|under|9.5|all_fav75_under_9_5",
-      "event_key": 12135310,
-      "date": "2026-06-12",
-      "time": "12:00",
-      "match": "E. Rybakina - T. Maria",
-      "player_1": "E. Rybakina",
-      "player_2": "T. Maria",
-      "tournament": "London",
-      "tour_level": "wta",
-      "gender": "women",
-      "surface": "grass",
-      "favorite": "E. Rybakina",
-      "favorite_probability": 0.797782,
-      "strategy_id": "all_fav75_under_9_5",
-      "market": "first_set_total_games",
-      "side": "under",
-      "line": 9.5,
-      "odds": 1.83,
-      "bookmaker": "Betfair",
-      "model_probability": 0.57445,
-      "fair_odds": 1.741,
-      "edge": 0.0512,
-      "confidence": "medium",
-      "decision": "SHADOW_BET",
-      "reasons": [],
-      "profile_matches": {
-        "player_1_status": "matched",
-        "player_1_profile_name": "Rybakina E.",
-        "player_1_sample": 118,
-        "player_2_status": "matched",
-        "player_2_profile_name": "Maria T.",
-        "player_2_sample": 69
-      },
-      "model_details": {
-        "strategy_base_probability": 0.5853,
-        "player_component_probability": 0.5491,
-        "profile_probabilities": [
-          0.5577,
-          0.5406
         ]
       }
     }
