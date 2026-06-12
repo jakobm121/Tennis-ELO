@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-06-12T12:51:14.749127+02:00",
+  "generated_at": "2026-06-12T17:49:38.999056+02:00",
   "source_odds_url": "https://raw.githubusercontent.com/jakobm121/Ai/refs/heads/main/data/tennis_odds_today.json",
-  "odds_generated_at": "2026-06-12T12:42:08.599395+02:00",
-  "ratings_generated_at": "2026-06-12T12:44:41.360111+02:00",
+  "odds_generated_at": "2026-06-12T17:40:41.466513+02:00",
+  "ratings_generated_at": "2026-06-12T17:48:32.619700+02:00",
   "players": {
     "2813": {
       "api_player_key": 2813,
@@ -12107,7 +12107,7 @@
       "last_seen_event_key": 12136216,
       "last_seen_tournament": "M15 Los Angeles, CA",
       "last_seen_tournament_key": 7368,
-      "updated_at": "2026-06-12T12:51:14.749093+02:00"
+      "updated_at": "2026-06-12T17:49:38.220878+02:00"
     },
     "28596": {
       "api_player_key": 28596,
@@ -22715,7 +22715,7 @@
       "last_seen_event_key": 12136064,
       "last_seen_tournament": "M15 Vaasa",
       "last_seen_tournament_key": 7189,
-      "updated_at": "2026-06-12T12:51:05.946073+02:00"
+      "updated_at": "2026-06-12T17:49:33.724209+02:00"
     },
     "74727": {
       "api_player_key": 74727,
@@ -28723,7 +28723,7 @@
       "last_seen_event_key": 12136208,
       "last_seen_tournament": "M15 Los Angeles, CA",
       "last_seen_tournament_key": 7368,
-      "updated_at": "2026-06-12T12:51:13.349666+02:00"
+      "updated_at": "2026-06-12T17:49:36.501544+02:00"
     },
     "66326": {
       "api_player_key": 66326,
@@ -29099,7 +29099,7 @@
       "last_seen_event_key": 12136197,
       "last_seen_tournament": "W35 Decatur, IL",
       "last_seen_tournament_key": 12629,
-      "updated_at": "2026-06-12T12:51:11.780034+02:00"
+      "updated_at": "2026-06-12T17:49:35.668081+02:00"
     },
     "38048": {
       "api_player_key": 38048,
@@ -30218,7 +30218,7 @@
         {
           "elo_player_name": "Shevchenko A.",
           "elo_player_key": "shevchenko a",
-          "matches_total": 20,
+          "matches_total": 21,
           "gender": "unknown",
           "score": 0.6823,
           "method": "fuzzy"
@@ -30226,7 +30226,7 @@
         {
           "elo_player_name": "Shevchenko A.",
           "elo_player_key": "shevchenko a",
-          "matches_total": 20,
+          "matches_total": 21,
           "gender": "unknown",
           "score": 0.6823,
           "method": "fuzzy"
@@ -30243,7 +30243,7 @@
       "last_seen_event_key": 12136194,
       "last_seen_tournament": "W15 Los Angeles, CA",
       "last_seen_tournament_key": 7372,
-      "updated_at": "2026-06-12T12:51:11.009745+02:00"
+      "updated_at": "2026-06-12T17:49:34.774228+02:00"
     },
     "32561": {
       "api_player_key": 32561,
@@ -30354,7 +30354,7 @@
         {
           "elo_player_name": "Čilić M.",
           "elo_player_key": "cilic m",
-          "matches_total": 17,
+          "matches_total": 19,
           "gender": "unknown",
           "score": 0.87,
           "method": "fuzzy"
@@ -30362,7 +30362,7 @@
         {
           "elo_player_name": "Čilić M.",
           "elo_player_key": "cilic m",
-          "matches_total": 17,
+          "matches_total": 19,
           "gender": "unknown",
           "score": 0.87,
           "method": "fuzzy"
@@ -30392,10 +30392,10 @@
           "method": "fuzzy"
         }
       ],
-      "last_seen_event_key": 12134657,
+      "last_seen_event_key": 12136269,
       "last_seen_tournament": "Hertogenbosch",
       "last_seen_tournament_key": 2051,
-      "updated_at": "2026-06-11T13:13:46.931180+02:00"
+      "updated_at": "2026-06-12T17:49:38.999030+02:00"
     },
     "15184": {
       "api_player_key": 15184,
@@ -30891,7 +30891,7 @@
       "last_seen_event_key": 12136212,
       "last_seen_tournament": "M15 Los Angeles, CA",
       "last_seen_tournament_key": 7368,
-      "updated_at": "2026-06-12T12:51:14.057105+02:00"
+      "updated_at": "2026-06-12T17:49:37.380747+02:00"
     },
     "3706": {
       "api_player_key": 3706,
