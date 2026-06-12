@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-06-12T17:49:38.999056+02:00",
+  "generated_at": "2026-06-12T22:38:48.883879+02:00",
   "source_odds_url": "https://raw.githubusercontent.com/jakobm121/Ai/refs/heads/main/data/tennis_odds_today.json",
-  "odds_generated_at": "2026-06-12T17:40:41.466513+02:00",
-  "ratings_generated_at": "2026-06-12T17:48:32.619700+02:00",
+  "odds_generated_at": "2026-06-12T22:27:49.415609+02:00",
+  "ratings_generated_at": "2026-06-12T22:32:49.325734+02:00",
   "players": {
     "2813": {
       "api_player_key": 2813,
@@ -12107,7 +12107,7 @@
       "last_seen_event_key": 12136216,
       "last_seen_tournament": "M15 Los Angeles, CA",
       "last_seen_tournament_key": 7368,
-      "updated_at": "2026-06-12T17:49:38.220878+02:00"
+      "updated_at": "2026-06-12T22:38:48.883844+02:00"
     },
     "28596": {
       "api_player_key": 28596,
@@ -28698,7 +28698,7 @@
         {
           "elo_player_name": "Ruse G.",
           "elo_player_key": "ruse g",
-          "matches_total": 14,
+          "matches_total": 16,
           "gender": "unknown",
           "score": 0.74,
           "method": "fuzzy"
@@ -28706,7 +28706,7 @@
         {
           "elo_player_name": "Ruse G.",
           "elo_player_key": "ruse g",
-          "matches_total": 14,
+          "matches_total": 16,
           "gender": "unknown",
           "score": 0.74,
           "method": "fuzzy"
@@ -28723,7 +28723,7 @@
       "last_seen_event_key": 12136208,
       "last_seen_tournament": "M15 Los Angeles, CA",
       "last_seen_tournament_key": 7368,
-      "updated_at": "2026-06-12T17:49:36.501544+02:00"
+      "updated_at": "2026-06-12T22:38:47.395026+02:00"
     },
     "66326": {
       "api_player_key": 66326,
@@ -30891,7 +30891,7 @@
       "last_seen_event_key": 12136212,
       "last_seen_tournament": "M15 Los Angeles, CA",
       "last_seen_tournament_key": 7368,
-      "updated_at": "2026-06-12T17:49:37.380747+02:00"
+      "updated_at": "2026-06-12T22:38:48.154124+02:00"
     },
     "3706": {
       "api_player_key": 3706,
