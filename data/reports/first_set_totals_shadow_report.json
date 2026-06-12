@@ -1,58 +1,12 @@
 {
-  "generated_at": "2026-06-12T12:51:28.702934+02:00",
+  "generated_at": "2026-06-12T17:51:24.040247+02:00",
   "summary": {
-    "odds_matches": 95,
-    "evaluated_strategy_rows": 564,
-    "shadow_bets": 1,
+    "odds_matches": 37,
+    "evaluated_strategy_rows": 222,
+    "shadow_bets": 0,
     "watch_picks": 0,
-    "no_bet": 563,
-    "shadow_bet": 1,
-    "missing_first_set_totals": 1
+    "no_bet": 222
   },
-  "top_shadow_picks": [
-    {
-      "pick_id": "12135821|first_set|under|9.5|all_fav75_under_9_5",
-      "event_key": 12135821,
-      "date": "2026-06-12",
-      "time": "14:00",
-      "match": "B. Bonzi - A. De Minaur",
-      "player_1": "B. Bonzi",
-      "player_2": "A. De Minaur",
-      "tournament": "Hertogenbosch",
-      "tour_level": "atp",
-      "gender": "men",
-      "surface": "grass",
-      "favorite": "A. De Minaur",
-      "favorite_probability": 0.784314,
-      "strategy_id": "all_fav75_under_9_5",
-      "market": "first_set_total_games",
-      "side": "under",
-      "line": 9.5,
-      "odds": 2.23,
-      "bookmaker": "Unibet",
-      "model_probability": 0.533745,
-      "fair_odds": 1.874,
-      "edge": 0.1903,
-      "confidence": "medium",
-      "decision": "SHADOW_BET",
-      "reasons": [],
-      "profile_matches": {
-        "player_1_status": "matched",
-        "player_1_profile_name": "Bonzi B.",
-        "player_1_sample": 44,
-        "player_2_status": "matched",
-        "player_2_profile_name": "De Minaur A.",
-        "player_2_sample": 123
-      },
-      "model_details": {
-        "strategy_base_probability": 0.5853,
-        "player_component_probability": 0.4135,
-        "profile_probabilities": [
-          0.3107,
-          0.5162
-        ]
-      }
-    }
-  ],
+  "top_shadow_picks": [],
   "top_watch_picks": []
 }
