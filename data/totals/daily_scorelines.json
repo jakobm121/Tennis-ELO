@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-12T06:57:22.244382+02:00",
+  "generated_at": "2026-06-12T07:20:49.143194+02:00",
   "source_url": "https://www.rezultati.com/tenis/",
   "counts": {
-    "daily_scorelines": 3
+    "daily_scorelines": 5
   },
   "matches": [
     {
@@ -56,6 +56,68 @@
       "deciding_set": false,
       "had_tiebreak": false,
       "tiebreak_count": 0
+    },
+    {
+      "match_id": "",
+      "match_url": "",
+      "source": "rezultati_daily_results_text_fallback",
+      "date": "2026-06-12",
+      "player_1": "Shiraishi H.",
+      "player_2": "Ogura K.",
+      "match": "Shiraishi H. - Ogura K.",
+      "winner": "Shiraishi H.",
+      "loser": "Ogura K.",
+      "sets_1": 2,
+      "sets_2": 1,
+      "final_score": "2-1",
+      "set_scores": [
+        {
+          "set_number": 1,
+          "p1_games": 6,
+          "p2_games": 7,
+          "tiebreak": true,
+          "tiebreak_p1": 5,
+          "tiebreak_p2": 7
+        },
+        {
+          "set_number": 2,
+          "p1_games": 7,
+          "p2_games": 6,
+          "tiebreak": true,
+          "tiebreak_p1": 7,
+          "tiebreak_p2": 3
+        },
+        {
+          "set_number": 3,
+          "p1_games": 6,
+          "p2_games": 0,
+          "tiebreak": false
+        }
+      ],
+      "completed": true,
+      "retired": false,
+      "walkover": false,
+      "raw_parent_text": "Kraj\nShiraishi H.\nOgura K.\n2\n1\n6\n5\n7\n7\n7\n7\n6\n3\n6\n0",
+      "raw_header_text": "M15 Tokyo (Japan), tvrda podloga\nITF - MUŠKI SINGL:",
+      "tournament": "M15 Tokyo (Japan), tvrda podloga",
+      "tour_level": "itf",
+      "gender": "",
+      "surface": "hard",
+      "indoor": null,
+      "best_of": 3,
+      "is_grand_slam": false,
+      "first_set_score": "6-7",
+      "first_set_games": 13,
+      "first_set_tiebreak": true,
+      "total_games": 32,
+      "p1_total_games_won": 19,
+      "p2_total_games_won": 13,
+      "game_margin_p1": 6,
+      "total_sets": 3,
+      "straight_sets": false,
+      "deciding_set": true,
+      "had_tiebreak": true,
+      "tiebreak_count": 2
     },
     {
       "match_id": "",
@@ -158,6 +220,64 @@
       "total_sets": 2,
       "straight_sets": true,
       "deciding_set": false,
+      "had_tiebreak": false,
+      "tiebreak_count": 0
+    },
+    {
+      "match_id": "",
+      "match_url": "",
+      "source": "rezultati_daily_results_text_fallback",
+      "date": "2026-06-12",
+      "player_1": "Yamazaki I.",
+      "player_2": "Yoshimoto N.",
+      "match": "Yamazaki I. - Yoshimoto N.",
+      "winner": "Yamazaki I.",
+      "loser": "Yoshimoto N.",
+      "sets_1": 2,
+      "sets_2": 1,
+      "final_score": "2-1",
+      "set_scores": [
+        {
+          "set_number": 1,
+          "p1_games": 3,
+          "p2_games": 6,
+          "tiebreak": false
+        },
+        {
+          "set_number": 2,
+          "p1_games": 6,
+          "p2_games": 4,
+          "tiebreak": false
+        },
+        {
+          "set_number": 3,
+          "p1_games": 6,
+          "p2_games": 3,
+          "tiebreak": false
+        }
+      ],
+      "completed": true,
+      "retired": false,
+      "walkover": false,
+      "raw_parent_text": "Kraj\nYamazaki I.\nYoshimoto N.\n2\n1\n3\n6\n6\n4\n6\n3",
+      "raw_header_text": "W15 Tokyo (Japan), tvrda podloga\nITF - ŽENSKI SINGL:",
+      "tournament": "W15 Tokyo (Japan), tvrda podloga",
+      "tour_level": "itf",
+      "gender": "",
+      "surface": "hard",
+      "indoor": null,
+      "best_of": 3,
+      "is_grand_slam": false,
+      "first_set_score": "3-6",
+      "first_set_games": 9,
+      "first_set_tiebreak": false,
+      "total_games": 28,
+      "p1_total_games_won": 15,
+      "p2_total_games_won": 13,
+      "game_margin_p1": 2,
+      "total_sets": 3,
+      "straight_sets": false,
+      "deciding_set": true,
       "had_tiebreak": false,
       "tiebreak_count": 0
     }

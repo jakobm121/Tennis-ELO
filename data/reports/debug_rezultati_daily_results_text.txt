@@ -136,6 +136,18 @@ Harris B.
 4
 0
 0
+San Miguel de Tucuman (Argentina), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Kicker N.
+Hardt N.
+2
+0
+6
+2
+7
+5
 Ilkley (Ujedinjeno Kraljevstvo), trava
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -169,6 +181,56 @@ Monzon I.
 Villalon N.
 -
 -
+Kraj
+Ribeiro E.
+Zeballos F.
+Casanova H.
+Rodriguez Taverna S.
+1
+2
+7
+5
+4
+6
+7
+10
+Walkover
+Collarini A.
+Kicker N.
+Aguilar Cardozo J.
+De La Fuente S.
+-
+-
+Walkover
+Del Pino M.
+Dickerson R.
+Cigarran T.
+Pucinelli de Almeida M.
+-
+-
+M15 Maanshan 5 (Kina), tvrda podloga (dvorana)
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+(predano)
+Liu H.
+Isomura K.
+1
+1
+6
+4
+0
+6
+0
+3
+Kraj
+(predano)
+Park U.
+Oh Chan-Yeong
+0
+1
+5
+7
 M15 Monastir 22 (Tunis), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -177,6 +239,88 @@ Walters M.
 Dougaz A.
 -
 -
+M15 Tokyo (Japan), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Delaney Ja.
+Magadan A.
+0
+2
+3
+6
+4
+6
+Kraj
+Shiraishi H.
+Ogura K.
+2
+1
+6
+5
+7
+7
+7
+7
+6
+3
+6
+0
+W100 Wuning (Kina), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Chanta A.
+Hontama M.
+0
+2
+2
+6
+1
+6
+Prekinuto
+Yamaguchi M.
+Li Z.
+0
+1
+3
+6
+4
+4
+0
+30
+Prekinuto
+Panshina V.
+Saito S.
+0
+0
+1
+2
+40
+40
+W15 Tokyo (Japan), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Sato H.
+Kitahara Y.
+2
+0
+6
+4
+6
+1
+Kraj
+Yamazaki I.
+Yoshimoto N.
+2
+1
+3
+6
+6
+4
+6
+3
 W35 Decatur, IL (SAD), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -225,6 +369,63 @@ Frusina A.
 Papamalamis T.
 -
 -
+M15 Los Angeles, CA (SAD), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Cox N.
+Roddick J.
+Jones A.
+Jones M.
+2
+1
+6
+5
+7
+7
+6
+3
+11
+9
+Kraj
+Falck R.
+Suarez B.
+Gogineni V.
+Zamora N.
+2
+1
+7
+7
+6
+2
+4
+6
+11
+9
+Kraj
+Gurenko V.
+Matta A.
+Papa C.
+Ruland L.
+0
+2
+3
+6
+2
+6
+Kraj
+Au P.
+Johnson A.
+Kleege W.
+Seeman J.
+2
+1
+0
+6
+6
+1
+10
+4
 M25 Ceska Lipa (Češka Republika), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -235,6 +436,139 @@ Dutra Da Silva D.
 Sakamoto P.
 -
 -
+M25 Wichita, KS (SAD), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Camus C.
+Marinkov P.
+Bowers T.
+Miyoshi K.
+2
+0
+6
+2
+6
+1
+Kraj
+Baris O.
+Shearer M.
+Boosarawongse T.
+Braswell J.
+2
+1
+7
+5
+4
+6
+10
+7
+Kraj
+Pearson K.
+Trotter J. K.
+Ellis B.
+Puttergill C.
+2
+1
+4
+6
+6
+3
+11
+9
+W35 Cuiaba (Brazil), zemlja
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Markus Cam.
+Urrutia M. F.
+Capurro Taborda M.
+Gomez Pezuela Cano M.
+2
+1
+3
+6
+7
+5
+10
+3
+Kraj
+Reasco Gonzalez M. E.
+Zeballos N.
+Mattioli F.
+Vergara Rivera A.
+2
+1
+3
+6
+6
+2
+10
+4
+Kraj
+Konishi Silva J.
+Pereira R.
+Cohen Perovani S.
+Xavier Laydner C.
+2
+0
+6
+0
+6
+4
+Walkover
+Fullana L.
+Herazo Gonzalez M.
+Gonzalez Daniele J. M.
+Romero C.
+-
+-
+W35 Decatur, IL (SAD), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Bowers A.
+Khayrutdinova E.
+Cadar E.-T.
+Glushko L.
+2
+0
+7
+7
+6
+3
+6
+3
+Prekinuto
+Brown J.
+Hrastar A.
+Gowda T.
+Usui K.
+0
+1
+6
+5
+7
+7
+4
+3
+0
+0
+Prekinuto
+Daavettila S.
+Kononova M.
+Lincer O.
+Sholokhova M.
+1
+1
+4
+6
+6
+2
+8
+7
+0
+0
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -336,13 +670,13 @@ REZULTATI UŽIVO
 Partizan Mozzart Bet - Dubai
 Kanada - Bosna i Hercegovina
 Švicarska - Bosna i Hercegovina
-Južna Koreja - Češka
 SAD - Paragvaj
 Olympiakos - Panathinaikos
 Tenerife - Barcelona
 Katar - Švicarska
 Brazil - Maroko
 Haiti - Škotska
+Australija - Turska
 LIVESCORE
 Bouzkova - Vekić
 Borges - Čilić
