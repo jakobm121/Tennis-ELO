@@ -1,0 +1,55 @@
+name: TLE Apply Mapping Audit
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "55 6 * * *"
+    - cron: "55 11 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  apply-mapping-audit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Tennis-ELO repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install requests
+
+      - name: Apply AI mapping audit
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+        run: |
+          python -m tennis_elo.tle_apply_mapping_audit
+
+      - name: Show mapping repair table
+        run: |
+          cat data/tle/mappings/mapping_repair_table.md || true
+
+      - name: Commit mapping updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/tle/mappings/api_player_to_sackmann.json
+          git add data/tle/mappings/mapping_repair_table.md
+
+          if git diff --cached --quiet; then
+            echo "No mapping changes."
+            exit 0
+          fi
+
+          git commit -m "Apply TLE mapping audit"
+          git push
