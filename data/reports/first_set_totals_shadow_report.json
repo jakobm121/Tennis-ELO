@@ -1,14 +1,101 @@
 {
-  "generated_at": "2026-06-13T01:02:31.223807+02:00",
+  "generated_at": "2026-06-13T07:08:42.403316+02:00",
   "summary": {
-    "odds_matches": 63,
-    "evaluated_strategy_rows": 240,
-    "shadow_bets": 0,
+    "odds_matches": 96,
+    "evaluated_strategy_rows": 528,
+    "shadow_bets": 2,
     "watch_picks": 0,
-    "missing_first_set_totals": 13,
-    "no_bet": 240,
-    "missing_match_winner": 10
+    "no_bet": 526,
+    "shadow_bet": 2,
+    "missing_first_set_totals": 8
   },
-  "top_shadow_picks": [],
+  "top_shadow_picks": [
+    {
+      "pick_id": "12136386|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12136386,
+      "date": "2026-06-13",
+      "time": "16:30",
+      "match": "D. Evans - M. Giron",
+      "player_1": "D. Evans",
+      "player_2": "M. Giron",
+      "tournament": "London",
+      "tour_level": "atp",
+      "gender": "men",
+      "surface": "unknown",
+      "favorite": "M. Giron",
+      "favorite_probability": 0.75,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 2.15,
+      "bookmaker": "Superbet",
+      "model_probability": 0.562459,
+      "fair_odds": 1.778,
+      "edge": 0.2093,
+      "confidence": "medium",
+      "decision": "SHADOW_BET",
+      "reasons": [],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Evans D.",
+        "player_1_sample": 21,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Giron M.",
+        "player_2_sample": 95
+      },
+      "model_details": {
+        "strategy_base_probability": 0.5853,
+        "player_component_probability": 0.5092,
+        "profile_probabilities": [
+          0.6149,
+          0.4034
+        ]
+      }
+    },
+    {
+      "pick_id": "12136287|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12136287,
+      "date": "2026-06-13",
+      "time": "15:00",
+      "match": "A. Mannarino - A. De Minaur",
+      "player_1": "A. Mannarino",
+      "player_2": "A. De Minaur",
+      "tournament": "Hertogenbosch",
+      "tour_level": "atp",
+      "gender": "men",
+      "surface": "grass",
+      "favorite": "A. De Minaur",
+      "favorite_probability": 0.772812,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.91,
+      "bookmaker": "Betfair",
+      "model_probability": 0.552287,
+      "fair_odds": 1.811,
+      "edge": 0.0549,
+      "confidence": "medium",
+      "decision": "SHADOW_BET",
+      "reasons": [],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Mannarino A.",
+        "player_1_sample": 74,
+        "player_2_status": "matched",
+        "player_2_profile_name": "De Minaur A.",
+        "player_2_sample": 123
+      },
+      "model_details": {
+        "strategy_base_probability": 0.5853,
+        "player_component_probability": 0.4753,
+        "profile_probabilities": [
+          0.4343,
+          0.5162
+        ]
+      }
+    }
+  ],
   "top_watch_picks": []
 }
