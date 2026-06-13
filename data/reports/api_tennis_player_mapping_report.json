@@ -1,17 +1,16 @@
 {
-  "generated_at": "2026-06-13T16:40:34.723999+02:00",
+  "generated_at": "2026-06-13T19:00:00.078378+02:00",
   "summary": {
-    "api_players_today": 70,
-    "ratings_players": 4732,
+    "api_players_today": 38,
+    "ratings_players": 4754,
     "mapping_records_total": 1164,
-    "mapping_records_changed": 6,
-    "existing_confirmed": 64,
-    "unmatched": 5,
-    "confirmed": 1
+    "mapping_records_changed": 2,
+    "existing_confirmed": 36,
+    "unmatched": 2
   },
   "status_counts_today": {
-    "confirmed": 65,
-    "unmatched": 5
+    "confirmed": 36,
+    "unmatched": 2
   },
   "manual_review": [],
   "unmatched": [
@@ -69,175 +68,7 @@
       "last_seen_event_key": 12136366,
       "last_seen_tournament": "W15 Los Angeles, CA",
       "last_seen_tournament_key": 7372,
-      "updated_at": "2026-06-13T16:40:31.554237+02:00"
-    },
-    {
-      "api_player_key": 10869,
-      "api_name": "D. Prizmic",
-      "gender": "men",
-      "status": "unmatched",
-      "method": "no_safe_match",
-      "confidence": 0.9371,
-      "elo_player_name": null,
-      "elo_player_key": null,
-      "candidates": [
-        {
-          "elo_player_name": "Prižmić D.",
-          "elo_player_key": "prizmic d",
-          "matches_total": 14,
-          "gender": "unknown",
-          "score": 0.9371,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Prižmić D.",
-          "elo_player_key": "prizmic d",
-          "matches_total": 14,
-          "gender": "unknown",
-          "score": 0.9371,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Rice D.",
-          "elo_player_key": "rice d",
-          "matches_total": 1,
-          "gender": "unknown",
-          "score": 0.6919,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Rice D.",
-          "elo_player_key": "rice d",
-          "matches_total": 1,
-          "gender": "unknown",
-          "score": 0.6919,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Petrovic D.",
-          "elo_player_key": "petrovic d",
-          "matches_total": 3,
-          "gender": "unknown",
-          "score": 0.6765,
-          "method": "fuzzy"
-        }
-      ],
-      "last_seen_event_key": 12136388,
-      "last_seen_tournament": "London",
-      "last_seen_tournament_key": 2042,
-      "updated_at": "2026-06-13T16:40:32.353403+02:00"
-    },
-    {
-      "api_player_key": 70745,
-      "api_name": "R. Lawlor",
-      "gender": "men",
-      "status": "unmatched",
-      "method": "no_safe_match",
-      "confidence": 0.66,
-      "elo_player_name": null,
-      "elo_player_key": null,
-      "candidates": [
-        {
-          "elo_player_name": "Rodionova Ar.",
-          "elo_player_key": "rodionova ar",
-          "matches_total": 5,
-          "gender": "unknown",
-          "score": 0.66,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Rodionova Ar.",
-          "elo_player_key": "rodionova ar",
-          "matches_total": 5,
-          "gender": "unknown",
-          "score": 0.66,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Stolmar R.",
-          "elo_player_key": "stolmar r",
-          "matches_total": 1,
-          "gender": "unknown",
-          "score": 0.6169,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Stolmar R.",
-          "elo_player_key": "stolmar r",
-          "matches_total": 1,
-          "gender": "unknown",
-          "score": 0.6169,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Hattori R.",
-          "elo_player_key": "hattori r",
-          "matches_total": 1,
-          "gender": "unknown",
-          "score": 0.6169,
-          "method": "fuzzy"
-        }
-      ],
-      "last_seen_event_key": 12136421,
-      "last_seen_tournament": "Nottingham",
-      "last_seen_tournament_key": 2580,
-      "updated_at": "2026-06-13T16:40:33.153980+02:00"
-    },
-    {
-      "api_player_key": 70760,
-      "api_name": "M. Ceban",
-      "gender": "men",
-      "status": "unmatched",
-      "method": "no_safe_match",
-      "confidence": 0.74,
-      "elo_player_name": null,
-      "elo_player_key": null,
-      "candidates": [
-        {
-          "elo_player_name": "Cerny M.",
-          "elo_player_key": "cerny m",
-          "matches_total": 11,
-          "gender": "unknown",
-          "score": 0.74,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Cerny M.",
-          "elo_player_key": "cerny m",
-          "matches_total": 11,
-          "gender": "unknown",
-          "score": 0.74,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Ercan M.",
-          "elo_player_key": "ercan m",
-          "matches_total": 3,
-          "gender": "unknown",
-          "score": 0.74,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Ercan M.",
-          "elo_player_key": "ercan m",
-          "matches_total": 3,
-          "gender": "unknown",
-          "score": 0.74,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Ebden M.",
-          "elo_player_key": "ebden m",
-          "matches_total": 1,
-          "gender": "unknown",
-          "score": 0.74,
-          "method": "fuzzy"
-        }
-      ],
-      "last_seen_event_key": 12136424,
-      "last_seen_tournament": "Nottingham",
-      "last_seen_tournament_key": 2580,
-      "updated_at": "2026-06-13T16:40:33.944105+02:00"
+      "updated_at": "2026-06-13T18:59:59.223111+02:00"
     },
     {
       "api_player_key": 55609,
@@ -293,7 +124,7 @@
       "last_seen_event_key": 12136440,
       "last_seen_tournament": "M15 Los Angeles, CA",
       "last_seen_tournament_key": 7368,
-      "updated_at": "2026-06-13T16:40:34.723874+02:00"
+      "updated_at": "2026-06-13T19:00:00.078316+02:00"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-06-13T16:40:34.723954+02:00",
+  "generated_at": "2026-06-13T19:00:00.078347+02:00",
   "source_odds_url": "https://raw.githubusercontent.com/jakobm121/Ai/refs/heads/main/data/tennis_odds_today.json",
-  "odds_generated_at": "2026-06-13T16:27:47.995976+02:00",
-  "ratings_generated_at": "2026-06-13T16:34:02.729205+02:00",
+  "odds_generated_at": "2026-06-13T18:47:36.052912+02:00",
+  "ratings_generated_at": "2026-06-13T18:38:22.088791+02:00",
   "players": {
     "2813": {
       "api_player_key": 2813,
@@ -12107,7 +12107,7 @@
       "last_seen_event_key": 12136440,
       "last_seen_tournament": "M15 Los Angeles, CA",
       "last_seen_tournament_key": 7368,
-      "updated_at": "2026-06-13T16:40:34.723874+02:00"
+      "updated_at": "2026-06-13T19:00:00.078316+02:00"
     },
     "28596": {
       "api_player_key": 28596,
@@ -30211,7 +30211,7 @@
       "last_seen_event_key": 12136366,
       "last_seen_tournament": "W15 Los Angeles, CA",
       "last_seen_tournament_key": 7372,
-      "updated_at": "2026-06-13T16:40:31.554237+02:00"
+      "updated_at": "2026-06-13T18:59:59.223111+02:00"
     },
     "32561": {
       "api_player_key": 32561,
