@@ -235,6 +235,17 @@ Vukic A.
 2
 6
 Kraj
+Prižmić D.
+Hijikata R.
+1
+2
+6
+4
+4
+6
+5
+7
+Kraj
 Monday J.
 Mpetshi Perricard G.
 0
@@ -242,6 +253,17 @@ Mpetshi Perricard G.
 4
 6
 3
+6
+Kraj
+Evans D.
+Giron M.
+1
+2
+5
+7
+6
+2
+1
 6
 London (Ujedinjeno Kraljevstvo), trava
 WTA - SINGL: 
@@ -264,6 +286,15 @@ Vekić D.
 6
 3
 6
+Kraj
+Raducanu E.
+Jovic I.
+2
+0
+6
+2
+6
+2
 S-Hertogenbosch (Nizozemska), trava
 WTA - SINGL: 
 Ždrijeb
@@ -350,39 +381,6 @@ Korpatsch T.
 7
 6
 1
-Prekinuto
-Brockmann T. J.
-Parks A.
-1
-1
-4
-6
-6
-4
-4
-2
-0
-0
-Prekinuto
-Marčinko P.
-Ito A.
-1
-0
-6
-2
-0
-2
-40
-40
-Prekinuto
-Siniakova K.
-Yuan Y.
-0
-0
-5
-4
-0
-0
 Otkazano
 Wang Xin.
 Galfi D.
@@ -461,11 +459,60 @@ McNally C.
 Stojsavljevic M.
 -
 -
+Kraj
+Sakatsume H.
+Stojsavljevic M.
+2
+0
+6
+2
+7
+7
+6
+2
+Kraj
+Dudeney A.
+Putintseva Y.
+2
+0
+6
+1
+6
+3
+Kraj
+Golubic V.
+Erjavec V.
+2
+1
+5
+7
+7
+5
+6
+4
 Otkazano
 Selekhmeteva O.
 Rakhimova K.
 -
 -
+Kraj
+Selekhmeteva O.
+Preston T.
+0
+2
+4
+6
+3
+6
+Kraj
+Sonmez Z.
+Tararudee L.
+2
+0
+6
+4
+6
+0
 S-Hertogenbosch (Nizozemska), trava
 ATP - PAROVI: 
 Ždrijeb
@@ -525,6 +572,16 @@ Galloway R.
 Peers J.
 -
 -
+London (Ujedinjeno Kraljevstvo), trava
+WTA - PAROVI: 
+Ždrijeb
+Walkover
+Fernandez L.
+Siegemund L.
+Jovic I.
+Kessler M.
+-
+-
 S-Hertogenbosch (Nizozemska), trava
 WTA - PAROVI: 
 Ždrijeb
@@ -582,6 +639,17 @@ Dalla Valle E.
 7
 6
 2
+Kraj
+Carballes Baena R.
+Forti F.
+2
+1
+3
+6
+6
+1
+6
+4
 Ilkley (Ujedinjeno Kraljevstvo), trava
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -644,6 +712,19 @@ Bu Y.
 6
 7
 8
+Kraj
+Fearnley J.
+Romano F.
+2
+1
+6
+3
+6
+4
+7
+7
+6
+4
 Lyon (Francuska), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -658,6 +739,17 @@ Boyer T.
 4
 7
 5
+Kraj
+Galan D. E.
+Balshaw F.
+1
+2
+6
+4
+3
+6
+5
+7
 San Miguel de Tucuman (Argentina), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -670,6 +762,17 @@ Kicker N.
 3
 6
 4
+Kraj
+Justo G. I.
+Ambrogi L. E.
+1
+2
+6
+4
+5
+7
+2
+6
 Nottingham (Ujedinjeno Kraljevstvo) - Kvalifikacije, trava
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -781,6 +884,24 @@ Ceban M.
 5
 7
 5
+Kraj
+Masur D.
+Clarke J.
+0
+2
+1
+6
+4
+6
+Kraj
+Holmgren A.
+Basing M.
+2
+0
+6
+3
+6
+2
 Ilkley (Ujedinjeno Kraljevstvo), trava
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -805,6 +926,20 @@ Naef C.
 3
 6
 4
+6
+Modena (Italija), zemlja
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Jimenez Kasintseva V.
+Kawa K.
+1
+2
+6
+2
+4
+6
+3
 6
 Bratislava (Slovačka), zemlja
 CHALLENGER - MUŠKI PAROVI: 
@@ -866,6 +1001,22 @@ Neuchrist M.
 0
 6
 1
+Ilkley (Ujedinjeno Kraljevstvo), trava
+CHALLENGER - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Christie F.
+Silva E.
+Brooks M.
+Rajecki A.
+2
+1
+1
+6
+6
+4
+10
+7
 Modena (Italija), zemlja
 CHALLENGER - ŽENSKI PAROVI: 
 Ždrijeb
@@ -877,6 +1028,29 @@ Salden L.
 0
 2
 3
+6
+4
+6
+M15 Brasilia (Brazil), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Miguel L. F.
+Hernandez A.
+0
+2
+4
+6
+5
+7
+Kraj
+Villanueva G.
+Oliveira N.
+1
+2
+6
+2
+1
 6
 4
 6
@@ -973,6 +1147,18 @@ Oh Chan-Yeong
 2
 6
 3
+M15 Messina (Italija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Piraino G.
+Tabacco F.
+0
+2
+4
+6
+4
+6
 M15 Monastir 22 (Tunis), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -1069,6 +1255,15 @@ Dalmasso G.
 6
 5
 7
+Kraj
+Dalmasso G.
+Guilleme J.
+2
+0
+6
+1
+6
+4
 M25 Ceska Lipa (Češka Republika), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -1138,6 +1333,30 @@ Biletic I.
 4
 6
 3
+Kraj
+Chepelev A.
+Sharipov M.
+2
+1
+1
+6
+7
+7
+6
+5
+6
+4
+Kraj
+Orlov V.
+Perez Contri S.
+1
+2
+3
+6
+7
+5
+5
+7
 M25 Martos (Španjolska), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -1194,6 +1413,17 @@ Aguiard E.
 6
 6
 3
+6
+3
+Kraj
+Baris O.
+Fenty A.
+2
+1
+6
+3
+1
+6
 6
 3
 W100 Wuning (Kina), tvrda podloga
@@ -1405,6 +1635,18 @@ Vujovic L.
 6
 2
 6
+W35 Decatur, IL (SAD), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Brengle M.
+Yamalapalli S.
+2
+0
+6
+2
+6
+3
 W35 Nice + H (Francuska), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -1516,6 +1758,16 @@ Avdeeva J.
 6
 4
 6
+M15 Brasilia (Brazil), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Walkover
+Oliveira N.
+Rodrigues P.
+Bojicic Ono L.
+Tosetto R.
+-
+-
 M15 Curtea de Arges (Rumunjska), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -1659,6 +1911,22 @@ Dutra Da Silva D.
 Sakamoto P.
 -
 -
+M25 Kiseljak (Bosna & Hercegovina), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Demin Y.
+Sharipov M.
+Ganchev A.
+Maes S.
+1
+2
+4
+6
+6
+1
+6
+10
 M25 Wichita, KS (SAD), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -1860,6 +2128,38 @@ Pereira R.
 4
 10
 8
+W35 Decatur, IL (SAD), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Gowda T.
+Usui K.
+Daavettila S.
+Kononova M.
+0
+2
+3
+6
+2
+6
+W35 Nice + H (Francuska), zemlja
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Bulatova A.
+Ibragimova A.
+Granwehr A.
+Stusek J.
+1
+2
+7
+5
+6
+10
+7
+12
+4
+10
 W35 San Gregorio 3 (Italija), zemlja
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -1982,7 +2282,7 @@ WTA Nottingham
 WTA S-Hertogenbosch
 ATP Halle
 ATP London
-Prikaži više (88)
+Prikaži više (95)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -2045,8 +2345,6 @@ Uzbekistan - Kolumbija
 Argentina - Austrija
 REZULTATI UŽIVO
 Švicarska - Bosna i Hercegovina
-Tenerife - Barcelona
-Katar - Švicarska
 Brazil - Maroko
 Haiti - Škotska
 Australija - Turska
@@ -2054,17 +2352,19 @@ Australija - Turska
 Kanada - Katar
 Meksiko - Južna Koreja
 SAD - Australija
+Škotska - Maroko
+Brazil - Haiti
 LIVESCORE
 Finska - Hrvatska
+Vekić - Raducanu
 Mađarska Ž - Hrvatska Ž
 Bugarska - Srbija
 Humbert - Čilić
 Vekić - Eala
+Ajdukovic - Svrcina
 Hrvatska - Bosna i Hercegovina
 Hrvatska Ž - Sj. Makedonija Ž
 Nizozemska - Hrvatska
-Slovenija Ž - Hrvatska Ž
-Bugarska - Argentina
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
@@ -2084,7 +2384,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Igrajte odgovorno. Gambling Therapy. 18+
+Must be 21+. If you or someone you know has a gambling problem, crisis counselling and referral services can be accessed by calling 1-800-GAMBLER (1-800-426-2537) or by texting ILGAMB to 833234. The 1-800-GAMBLER helpline can be used for multi-jurisdictional advertising.
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
