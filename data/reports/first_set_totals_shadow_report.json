@@ -1,12 +1,58 @@
 {
-  "generated_at": "2026-06-13T22:06:14.858536+02:00",
+  "generated_at": "2026-06-14T00:42:02.363180+02:00",
   "summary": {
-    "odds_matches": 4,
-    "evaluated_strategy_rows": 24,
-    "shadow_bets": 0,
+    "odds_matches": 60,
+    "evaluated_strategy_rows": 252,
+    "shadow_bets": 1,
     "watch_picks": 0,
-    "no_bet": 24
+    "no_bet": 251,
+    "missing_first_set_totals": 18,
+    "shadow_bet": 1
   },
-  "top_shadow_picks": [],
+  "top_shadow_picks": [
+    {
+      "pick_id": "12136571|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12136571,
+      "date": "2026-06-14",
+      "time": "14:30",
+      "match": "K. Majchrzak - A. De Minaur",
+      "player_1": "K. Majchrzak",
+      "player_2": "A. De Minaur",
+      "tournament": "Hertogenbosch",
+      "tour_level": "atp",
+      "gender": "men",
+      "surface": "grass",
+      "favorite": "A. De Minaur",
+      "favorite_probability": 0.772059,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 1.95,
+      "bookmaker": "Superbet",
+      "model_probability": 0.550919,
+      "fair_odds": 1.815,
+      "edge": 0.0743,
+      "confidence": "medium",
+      "decision": "SHADOW_BET",
+      "reasons": [],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Majchrzak K.",
+        "player_1_sample": 42,
+        "player_2_status": "matched",
+        "player_2_profile_name": "De Minaur A.",
+        "player_2_sample": 123
+      },
+      "model_details": {
+        "strategy_base_probability": 0.5853,
+        "player_component_probability": 0.4707,
+        "profile_probabilities": [
+          0.4252,
+          0.5162
+        ]
+      }
+    }
+  ],
   "top_watch_picks": []
 }
