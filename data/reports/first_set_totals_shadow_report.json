@@ -1,59 +1,13 @@
 {
-  "generated_at": "2026-06-13T16:52:25.162982+02:00",
+  "generated_at": "2026-06-13T19:01:26.819358+02:00",
   "summary": {
-    "odds_matches": 35,
-    "evaluated_strategy_rows": 174,
-    "shadow_bets": 1,
+    "odds_matches": 19,
+    "evaluated_strategy_rows": 72,
+    "shadow_bets": 0,
     "watch_picks": 0,
-    "no_bet": 173,
-    "missing_first_set_totals": 5,
-    "shadow_bet": 1,
-    "missing_match_winner": 1
+    "missing_first_set_totals": 7,
+    "no_bet": 72
   },
-  "top_shadow_picks": [
-    {
-      "pick_id": "12136386|first_set|under|9.5|all_fav75_under_9_5",
-      "event_key": 12136386,
-      "date": "2026-06-13",
-      "time": "17:00",
-      "match": "D. Evans - M. Giron",
-      "player_1": "D. Evans",
-      "player_2": "M. Giron",
-      "tournament": "London",
-      "tour_level": "atp",
-      "gender": "men",
-      "surface": "unknown",
-      "favorite": "M. Giron",
-      "favorite_probability": 0.751244,
-      "strategy_id": "all_fav75_under_9_5",
-      "market": "first_set_total_games",
-      "side": "under",
-      "line": 9.5,
-      "odds": 2.15,
-      "bookmaker": "Superbet",
-      "model_probability": 0.562459,
-      "fair_odds": 1.778,
-      "edge": 0.2093,
-      "confidence": "medium",
-      "decision": "SHADOW_BET",
-      "reasons": [],
-      "profile_matches": {
-        "player_1_status": "matched",
-        "player_1_profile_name": "Evans D.",
-        "player_1_sample": 21,
-        "player_2_status": "matched",
-        "player_2_profile_name": "Giron M.",
-        "player_2_sample": 95
-      },
-      "model_details": {
-        "strategy_base_probability": 0.5853,
-        "player_component_probability": 0.5092,
-        "profile_probabilities": [
-          0.6149,
-          0.4034
-        ]
-      }
-    }
-  ],
+  "top_shadow_picks": [],
   "top_watch_picks": []
 }
