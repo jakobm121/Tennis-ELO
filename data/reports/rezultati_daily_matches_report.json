@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T00:48:29.449648+02:00",
+  "generated_at": "2026-06-13T06:45:27.296888+02:00",
   "source_url": "https://www.rezultati.com/tenis/",
   "output_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/input/matches_today.json",
   "seen_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/state/seen_match_urls.json",
@@ -14,16 +14,146 @@
     "reset_seen_matches": false
   },
   "counts": {
-    "found_matches": 148,
-    "available_unseen": 147,
+    "found_matches": 152,
+    "available_unseen": 144,
     "selected": 8,
-    "skipped_seen": 1,
-    "seen_total": 290,
+    "skipped_seen": 8,
+    "seen_total": 298,
     "blocked": 0,
     "errors": 0
   },
   "error": "",
   "selected": [
+    {
+      "match": "Alves Carolina - Zeballos Noelia",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/alves-carolina-vJWWbpH8/zeballos-noelia-hbv2waz7/?mid=zR9AqMw3",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Alves Carolina",
+      "player_2": "Zeballos Noelia",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "zR9AqMw3",
+      "raw_parent_text": ""
+    },
+    {
+      "match": "Ayala Lourdes - Milovanova Victoria",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/ayala-lourdes-rB2aL0od/milovanova-victoria-I3LPdkik/?mid=2BdMIbjt",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Ayala Lourdes",
+      "player_2": "Milovanova Victoria",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "2BdMIbjt",
+      "raw_parent_text": ""
+    },
+    {
+      "match": "Azerbejdzan - Georgia",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/azerbejdzan-lrtY202D/georgia-nuOuMRNG/?mid=rqR4VzhL",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Azerbejdzan",
+      "player_2": "Georgia",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "rqR4VzhL",
+      "raw_parent_text": ""
+    },
+    {
+      "match": "Azerbejdzan - Georgia",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/azerbejdzan-lrtY202D/georgia-nuOuMRNG/?mid=Q5uHKJw3",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Azerbejdzan",
+      "player_2": "Georgia",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "Q5uHKJw3",
+      "raw_parent_text": ""
+    },
+    {
+      "match": "Balshaw Felix - Galan Daniel Elahi",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/balshaw-felix-OUFziENR/galan-daniel-elahi-jgzV6009/?mid=jNgM1gP9",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Balshaw Felix",
+      "player_2": "Galan Daniel Elahi",
+      "source": "rezultati_daily_click",
+      "source_match_id": "jNgM1gP9",
+      "raw_parent_text": "16:00\nGalan D. E.\nBalshaw F.\n-\n-"
+    },
+    {
+      "match": "Barbados - Puerto Rico",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/barbados-xA2RxE9B/puerto-rico-llclDVKu/?mid=fmtIxasn",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Barbados",
+      "player_2": "Puerto Rico",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "fmtIxasn",
+      "raw_parent_text": ""
+    },
+    {
+      "match": "Baris Ozan - Fenty Andrew",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/baris-ozan-CI4P8u7o/fenty-andrew-bDUgFpAp/?mid=U1lh4bgM",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Baris Ozan",
+      "player_2": "Fenty Andrew",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "U1lh4bgM",
+      "raw_parent_text": ""
+    },
+    {
+      "match": "Basilashvili Nikoloz - Dedura Palomero Diego",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/basilashvili-nikoloz-Kb8ttRy2/dedura-palomero-diego-IXM4oGM3/?mid=8OqLvla4",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Basilashvili Nikoloz",
+      "player_2": "Dedura Palomero Diego",
+      "source": "rezultati_daily_click",
+      "source_match_id": "8OqLvla4",
+      "raw_parent_text": "11:00\nDedura D.\nBasilashvili N.\n-\n-"
+    }
+  ],
+  "skipped_seen_examples": [
     {
       "match": "Adams Julia - Yoruk Ilay",
       "match_url": "https://www.rezultati.com/utakmica/tenis/adams-julia-rNpx5PyM/yoruk-ilay-x4gMgxcQ/?mid=MmoljbLs",
@@ -102,7 +232,7 @@
       "player_2": "Justo Guido Ivan",
       "source": "rezultati_daily_anchor",
       "source_match_id": "jqqvuJMH",
-      "raw_parent_text": ""
+      "raw_parent_text": "17:30\nJusto G. I.\nAmbrogi L. E.\n-\n-"
     },
     {
       "match": "Andreescu Stefan Adrian - Mazdrashki Anas",
@@ -151,24 +281,6 @@
       "source": "rezultati_daily_anchor",
       "source_match_id": "QyOs55ng",
       "raw_parent_text": ""
-    }
-  ],
-  "skipped_seen_examples": [
-    {
-      "match": "Alves Carolina - Fullana Luiza",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/alves-carolina-vJWWbpH8/fullana-luiza-v55cXYg7/?mid=p4NJlMQc",
-      "date": "",
-      "status": "scheduled",
-      "tour_level": "",
-      "gender": "",
-      "tournament": "",
-      "country": "",
-      "surface": "",
-      "player_1": "Alves Carolina",
-      "player_2": "Fullana Luiza",
-      "source": "rezultati_daily_anchor",
-      "source_match_id": "p4NJlMQc",
-      "raw_parent_text": "2. set\nFullana L.\nAlves C.\n0\n1\n4\n6\n1\n1\n40\nA"
     }
   ],
   "debug_files": {
