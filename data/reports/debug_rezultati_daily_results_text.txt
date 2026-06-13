@@ -22,54 +22,158 @@ RASPORED
 Hertogenbosch (Nizozemska), trava
 ATP - SINGL: 
 Ždrijeb
-Prekinuto
+Kraj
 Medvedev D.
 Čilić M.
-1
+2
 1
 6
 2
 3
 6
-0
-0
-0
-0
+6
+1
 Stuttgart (Njemačka), trava
 ATP - SINGL: 
 Ždrijeb
-Prekinuto
+Kraj
 Shelton B.
 Shimabukuro S.
-0
+2
 1
 4
 6
+6
+3
+6
+4
+Kraj
+Bublik A.
+Fritz T.
 0
-0
-0
-0
+2
+4
+6
+4
+6
 Halle (Njemačka) - Kvalifikacije, trava
 ATP - SINGL: 
 Ždrijeb
-Prekinuto
+Kraj
 Dedura D.
 Basilashvili N.
 0
-0
+2
+6
+6
+7
+8
 3
-3
-0
-0
-Prekinuto
+6
+Kraj
 Sonego L.
 Jianu F. C.
-0
-0
-1
 2
 0
+7
+5
+6
+3
+Kraj
+Mackenzie J.
+Bolt A.
+1
+2
+6
+4
+1
+6
+6
+3
+7
+7
+Kraj
+Sanchez Martinez B.
+Bautista R.
 0
+2
+5
+7
+2
+6
+Kraj
+Pereira T.
+Gentzsch T.
+0
+2
+5
+7
+6
+5
+7
+7
+Kraj
+Collignon R.
+Dougaz A.
+2
+0
+6
+4
+6
+2
+London (Ujedinjeno Kraljevstvo) - Kvalifikacije, trava
+ATP - SINGL: 
+Ždrijeb
+Kraj
+Damm M.
+Merida Aguilar D.
+2
+0
+6
+3
+6
+2
+Kraj
+Svajda Z.
+Broady L.
+2
+0
+7
+5
+6
+2
+Kraj
+Kovacevic A.
+Mmoh M.
+2
+0
+7
+7
+6
+4
+6
+4
+Kraj
+Duckworth J.
+Vukic A.
+0
+2
+3
+6
+2
+6
+London (Ujedinjeno Kraljevstvo), trava
+WTA - SINGL: 
+Ždrijeb
+Kraj
+Raducanu E.
+Rakhimova K.
+2
+0
+6
+3
+7
+5
 S-Hertogenbosch (Nizozemska), trava
 WTA - SINGL: 
 Ždrijeb
@@ -82,6 +186,26 @@ Tomljanovic A.
 6
 4
 6
+Kraj
+Krejcikova B.
+Linette M.
+2
+0
+6
+3
+7
+7
+6
+4
+Kraj
+Montgomery R.
+Tomljanovic A.
+2
+0
+6
+4
+6
+2
 Berlin (Njemačka) - Kvalifikacije, trava
 WTA - SINGL: 
 Ždrijeb
@@ -90,14 +214,407 @@ Bartunkova N.
 Noha Akugue N.
 -
 -
+Kraj
+Frech M.
+Sasnovich A.
+2
+1
+6
+3
+7
+7
+6
+4
+7
+7
+6
+4
+Kraj
+Steinkamp M.
+Zhang S.
+0
+2
+3
+6
+2
+6
+Kraj
+Pohankova M.
+Korpatsch T.
+2
+0
+6
+2
+7
+7
+6
+1
+Prekinuto
+Brockmann T. J.
+Parks A.
+1
+1
+4
+6
+6
+4
+4
+2
+0
+0
+Prekinuto
+Marčinko P.
+Ito A.
+1
+0
+6
+2
+0
+2
+40
+40
+Prekinuto
+Siniakova K.
+Yuan Y.
+0
+0
+5
+4
+0
+0
 Otkazano
 Wang Xin.
 Galfi D.
 -
 -
+Nottingham (Ujedinjeno Kraljevstvo) - Kvalifikacije, trava
+WTA - SINGL: 
+Ždrijeb
+Kraj
+Arango E.
+Bondar A.
+0
+2
+3
+6
+4
+6
+Kraj
+Kenin S.
+Jacquemot E.
+2
+0
+6
+4
+6
+4
+Kraj
+Xu M.
+Birrell K.
+0
+2
+2
+6
+3
+6
+Kraj
+Ruzic A.
+Juvan K.
+2
+0
+6
+3
+6
+4
+Kraj
+Klugman H.
+Zakharova A.
+2
+0
+7
+7
+6
+5
+6
+2
+Kraj
+Kasatkina D.
+Blinkova A.
+0
+2
+3
+6
+2
+6
+Otkazano
+McNally C.
+Stojsavljevic M.
+-
+-
+Otkazano
+Selekhmeteva O.
+Rakhimova K.
+-
+-
+S-Hertogenbosch (Nizozemska), trava
+ATP - PAROVI: 
+Ždrijeb
+Kraj
+Bergs Z.
+Rinderknech A.
+Arends S.
+Pel D.
+0
+2
+6
+6
+7
+8
+6
+5
+7
+7
+Stuttgart (Njemačka), trava
+ATP - PAROVI: 
+Ždrijeb
+Kraj
+Cabral F.
+Mektic N.
+Glinka D.
+Sakellaridis S.
+1
+2
+6
+2
+4
+6
+5
+10
+S-Hertogenbosch (Nizozemska), trava
+WTA - PAROVI: 
+Ždrijeb
+Kraj
+Aoyama S.
+Liang E. S.
+Neel I.
+Olmos G.
+2
+1
+6
+2
+2
+6
+10
+7
+Bratislava (Slovačka), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Shevchenko A.
+Sachko V.
+2
+0
+6
+4
+6
+3
+Ilkley (Ujedinjeno Kraljevstvo), trava
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Blanch Dar.
+Fearnley J.
+0
+2
+6
+4
+7
+7
+6
+6
+7
+8
+Kraj
+Lajal M.
+Bu Y.
+0
+2
+4
+6
+1
+6
+Kraj
+Sweeny D.
+Samuel T.
+2
+1
+5
+7
+6
+2
+6
+3
+Kraj
+Tarvet O.
+Romano F.
+1
+2
+6
+2
+7
+7
+6
+0
+1
+6
+Nottingham (Ujedinjeno Kraljevstvo) - Kvalifikacije, trava
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Skatov T.
+Watt J.
+1
+2
+6
+5
+7
+7
+7
+7
+6
+2
+6
+8
+7
+10
+Kraj
+Jefferson H.
+Gray A.
+0
+2
+3
+6
+4
+6
+Kraj
+Nardi L.
+Weightman O.
+2
+1
+3
+6
+6
+3
+6
+4
+Kraj
+Kwon S.
+Hurrion M.
+2
+0
+6
+2
+6
+4
+Ilkley (Ujedinjeno Kraljevstvo), trava
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Krueger A.
+Vidmanova D.
+2
+1
+6
+4
+3
+6
+6
+4
+Cattolica (Italija), zemlja
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Jecan M. A.
+Pavel B.
+Grevelius E.
+Heinonen A.
+2
+0
+7
+12
+6
+10
+6
+4
+Ilkley (Ujedinjeno Kraljevstvo), trava
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Bollipalli R.
+Hilderbrand T.
+Stevenson D.
+Willis M.
+0
+2
+6
+5
+7
+7
+3
+6
+Lyon (Francuska), zemlja
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Isaro P.
+Kaliyanda Poonacha N.
+Mansouri S.
+Neuchrist M.
+2
+0
+6
+0
+6
+1
+M15 Curtea de Arges (Rumunjska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Andreescu S. A.
+Mazdrashki A.
+0
+2
+2
+6
+6
+3
+7
+7
+Kraj
+Papoe R. M.
+Rubio Fierros A. F.
+2
+1
+6
+5
+7
+7
+6
+3
+6
+1
 M15 Kayseri 4 (Turska), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
+Kraj
+Gokpinar H. C.
+McKennon M.
+0
+2
+1
+6
+2
+6
 Kraj
 (predano)
 Marrero Curbelo I.
@@ -108,6 +625,18 @@ Dinev D.
 1
 3
 0
+M15 Kursumlijska Banja 4 (Srbija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Cuenin S.
+Djuric B.
+2
+0
+6
+3
+6
+2
 M15 Maanshan 5 (Kina), tvrda podloga (dvorana)
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -129,6 +658,50 @@ Oh Chan-Yeong
 2
 6
 3
+M15 Monastir 22 (Tunis), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Pascual Ferra R.
+Bouchelaghem C.
+0
+2
+4
+6
+2
+6
+Kraj
+Walters M.
+Mosejczuk D.
+0
+2
+3
+6
+6
+5
+7
+7
+M15 Nyiregyhaza (Mađarska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Sperle J.
+Boros A.
+0
+2
+3
+6
+3
+6
+Kraj
+Gutierrez O. J.
+Kelm Y.
+0
+2
+3
+6
+2
+6
 M15 Tokyo (Japan), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -143,6 +716,71 @@ Kim J.
 4
 2
 6
+Kraj
+Honda N.
+Magadan A.
+2
+1
+4
+6
+7
+8
+6
+6
+6
+3
+M15 Vaasa (Finska), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Guilleme J.
+Rossi L.
+2
+0
+7
+7
+6
+2
+7
+7
+6
+5
+Kraj
+Peliwo F.
+Dalmasso G.
+0
+2
+4
+6
+5
+7
+M25 Ceska Lipa (Češka Republika), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Kravchenko G.
+Kumstat J.
+2
+1
+3
+6
+7
+7
+6
+4
+6
+2
+Kraj
+Krutykh O.
+Petak D.
+2
+0
+7
+8
+6
+6
+6
+0
 M25 Kiseljak (Bosna & Hercegovina), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -156,6 +794,58 @@ Bielinskyi V.
 0
 2
 0
+Kraj
+Demin Y.
+Chepelev A.
+0
+2
+2
+6
+4
+6
+Kraj
+Sharipov M.
+Kivattsev K.
+2
+1
+6
+3
+4
+6
+6
+4
+Kraj
+Perez Contri S.
+Biletic I.
+2
+0
+6
+4
+6
+3
+M25 Martos (Španjolska), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Izquierdo Luque R.
+Domingues J.
+0
+2
+4
+6
+0
+6
+Kraj
+Martinez Gomez P.
+Perez Ramos P.
+2
+1
+6
+3
+4
+6
+6
+1
 M25 Varnamo (Švedska), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -198,6 +888,139 @@ Saito S.
 3
 6
 2
+W100 Zagreb (Hrvatska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Primorac I.
+Avanesyan E.
+1
+2
+6
+1
+1
+6
+1
+6
+W15 Kayseri 4 (Turska), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Adams J.
+Yoruk I.
+1
+2
+3
+6
+6
+4
+3
+6
+Kraj
+Farzami M.
+Mi L.
+0
+2
+6
+2
+7
+7
+2
+6
+W15 Kursumlijska Banja 4 (Srbija), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Zolotareva A.
+Zaytseva K.
+0
+2
+2
+6
+3
+6
+Kraj
+Mettraux M.
+Ghirardato E. O.
+2
+1
+3
+6
+7
+7
+6
+3
+6
+4
+W15 Madrid 2 (Španjolska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Gallardo Guevara C.
+Ivanova B.
+1
+2
+6
+1
+7
+7
+6
+4
+2
+6
+Kraj
+Roura Llaverias R.
+Soriano Santiago M.
+2
+0
+6
+4
+7
+7
+6
+4
+W15 Merzig (Njemačka), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Weckerle M.
+Steiner V.
+0
+2
+3
+6
+3
+6
+Kraj
+Bennemann E.
+Gadamauri T.
+0
+2
+5
+7
+2
+6
+W15 Monastir 17 (Tunis), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Milovanova V.
+Ayala L.
+2
+0
+6
+2
+6
+4
+Kraj
+Schuman A.
+Ha S. M.
+2
+0
+6
+4
+6
+1
 W15 Tokyo (Japan), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -219,6 +1042,76 @@ Nishimura K.
 3
 6
 4
+W35 Casablanca (Maroko), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Lene E.
+Teixido Garcia A.
+1
+2
+6
+1
+3
+6
+0
+6
+Kraj
+Vargova N.
+Vujovic L.
+0
+2
+4
+6
+2
+6
+W35 Nice + H (Francuska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Granwehr A.
+Lim J.
+1
+2
+6
+3
+0
+6
+2
+6
+W35 San Gregorio 3 (Italija), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Podoroska N.
+Zantedeschi A.
+2
+0
+7
+5
+6
+0
+W50 Guimaraes (Portugal), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Falei A.
+Leonard M.
+2
+0
+6
+1
+6
+4
+Kraj
+Kuzmova K.
+Broadus S.
+0
+2
+2
+6
+1
+6
 W50 Hurghada (Egipat), trava
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -242,6 +1135,61 @@ Knutson G.
 5
 6
 1
+W75 Ceska Lipa (Češka Republika), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Bertea E. R.
+Vedder E.
+0
+2
+4
+6
+6
+2
+7
+7
+Kraj
+Hennemann C. W.
+Avdeeva J.
+0
+2
+2
+6
+4
+6
+M15 Curtea de Arges (Rumunjska), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Dell'Elba V.
+Rubio Fierros A. F.
+Haita S. H.
+Turcanu R. D.
+0
+2
+6
+4
+7
+7
+2
+6
+M15 Kursumlijska Banja 4 (Srbija), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Jovic N.
+Mashtakov N.
+Shirur R.
+Walkin B.
+2
+1
+4
+6
+6
+3
+13
+11
 M15 Los Angeles, CA (SAD), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -269,6 +1217,80 @@ Roddick J.
 6
 10
 8
+M15 Maanshan 5 (Kina), tvrda podloga (dvorana)
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Charlton J.
+Wang A.
+Jin Y.
+Sun Qian
+2
+0
+6
+3
+6
+4
+M15 Monastir 22 (Tunis), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Pascual Ferra R.
+Rodenas P.
+Cariov T.
+Shoemake H.
+2
+0
+6
+2
+6
+2
+M15 Nyiregyhaza (Mađarska), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Kincses K.
+Nagy B.
+Hornung G.
+Kisantal B.
+2
+1
+6
+4
+3
+6
+10
+6
+M15 Tokyo (Japan), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Delaney Ja.
+Kusuhara Y.
+Heck H.
+Magadan A.
+0
+2
+3
+6
+2
+6
+M15 Vaasa (Finska), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Ahti V.
+Zeuch T.
+Molder M.
+Tamm K.
+1
+2
+4
+6
+6
+4
+6
+10
 M25 Ceska Lipa (Češka Republika), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -324,6 +1346,50 @@ Plipuech P.
 3
 6
 2
+W100 Zagreb (Hrvatska), zemlja
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Ciric Bagaric L.
+Moratelli A.
+Dencheva R.
+Kazionova E.
+2
+0
+7
+5
+6
+3
+W15 Kayseri 4 (Turska), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Ilker Z.
+Utkina El.
+Dobreva M.
+Mircheva N.
+0
+2
+4
+6
+4
+6
+W15 Kursumlijska Banja 4 (Srbija), zemlja
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Argyrokastriti M.
+Zaytseva K.
+Stankovic A.
+Stevic H.
+2
+0
+6
+0
+7
+7
+6
+4
 W15 Los Angeles, CA (SAD), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -349,6 +1415,34 @@ Penickova K.
 6
 2
 6
+W15 Monastir 17 (Tunis), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Daubnerova N.
+Pawlak L.
+Andrienko M.
+Sousa Salazar N.
+2
+0
+6
+2
+6
+2
+W15 Tokyo (Japan), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Im H.
+Kim Eunchae
+Nagata A.
+Sato H.
+2
+0
+6
+2
+6
+3
 W35 Cuiaba (Brazil), zemlja
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -378,6 +1472,74 @@ Pereira R.
 4
 10
 8
+W50 Guimaraes (Portugal), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Broadus S.
+Rencheli A.
+Hruncakova V.
+Kuzmova K.
+2
+0
+6
+3
+6
+4
+W50 Hurghada (Egipat), trava
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Iatcenko P.
+Kubka M.
+Danilova O.
+Popovic K.
+2
+0
+6
+2
+6
+2
+W75 Ceska Lipa (Češka Republika), zemlja
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Shaikh H.
+Zamarripa A.
+Kovackova A.
+Kovackova J.
+0
+2
+4
+6
+1
+6
+Davis Cup - Group III (Svijet) - Playoff
+TIMOVI - MUŠKARCI: 
+Ždrijeb
+Kraj
+Moldova
+Latvija
+2
+0
+Kraj
+Sj. Makedonija
+Crna Gora
+2
+1
+Davis Cup - Group III (Svijet) - Relegation
+TIMOVI - MUŠKARCI: 
+Ždrijeb
+Kraj
+Gruzija
+Azerbajdžan
+2
+0
+Kraj
+Kosovo
+Irska
+0
+2
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -413,8 +1575,8 @@ WTA London
 WTA Nottingham
 WTA S-Hertogenbosch
 ATP Halle
-ATP S-Hertogenbosch
-Prikaži više (85)
+ATP London
+Prikaži više (88)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -440,7 +1602,7 @@ Juniori - singl
 Juniorke - singl
 Prikaži više
 Tenis livescore na Rezultatima nudi teniske rezultate uživo za preko 5000 teniskih turnira diljem svijeta, uključujući Australian Open, French Open, Wimbledon, US Open i mnoge druge. Pratite najnovije rezultate iz tenisa na Rezultatima, gdje možete pronaći detaljnu statistiku (asevi, dvostruke pogreške, postotak servisa, osvojeni servisi, spašene break lopte, neprisiljene pogreške, itd.), usporedbu koeficijenata, međuosboni omjer, vijesti, video sažetke ili tijek meča poen po poen. Pronađite sve današnje rezultate i vijesti iz tenisa na Rezultatima, uključujući ATP rezultate, WTA rezultate, ATP poredak, ATP kalendar 2026, WTA kalendar 2026, ili profile igrača (npr. Jannik Sinner, Carlos Alcaraz, Novak Đoković, Donna Vekić). Usluga tenis livescore se automatski ažurira, tako da nema potrebe da osvježavate stranicu.
-13.06. Bublik Alexander - Fritz Taylor
+
 
 SP 2026
 Svjetsko Prvenstvo u nogometu utakmice
@@ -466,6 +1628,7 @@ NHL
 Svjetski kup vaterpolo 2026
 NOGOMET UŽIVO
 Engleska - Hrvatska
+Shkendija - Hajduk
 Francuska - Senegal
 Irak - Norveška
 Argentina - Alžir
@@ -474,7 +1637,6 @@ Portugal - DR Kongo
 Gana - Panama
 Uzbekistan - Kolumbija
 Argentina - Austrija
-Francuska - Irak
 REZULTATI UŽIVO
 Švicarska - Bosna i Hercegovina
 Olympiakos - Panathinaikos
@@ -487,16 +1649,16 @@ Australija - Turska
 Kanada - Katar
 Meksiko - Južna Koreja
 LIVESCORE
-Medvedev - Čilić
-Hrvatska - Albanija
-Boulter - Vekić
 Brazil - Srbija
 Hrvatska Ž - Estonija Ž
 Finska - Hrvatska
 Mađarska Ž - Hrvatska Ž
 Bugarska - Srbija
+Humbert - Čilić
+Vekić - Eala
 Hrvatska - Bosna i Hercegovina
 Hrvatska Ž - Sj. Makedonija Ž
+Nizozemska - Hrvatska
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
