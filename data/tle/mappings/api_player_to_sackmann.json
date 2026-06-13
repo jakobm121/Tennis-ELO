@@ -34682,6 +34682,20 @@
       "conflicts": 0,
       "needs_manual_review": 8,
       "skipped": 0
+    },
+    {
+      "updated_at": "2026-06-13T09:48:05Z",
+      "audit_generated_at": "2026-06-13T09:46:03+00:00",
+      "auto_methods": [
+        "audit_unmapped_sackmann_lookup",
+        "unique_surname_initial"
+      ],
+      "apply_mode": true,
+      "auto_added": 0,
+      "already_ok": 0,
+      "conflicts": 0,
+      "needs_manual_review": 4,
+      "skipped": 0
     }
   ]
 }
