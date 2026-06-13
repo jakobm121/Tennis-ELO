@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-06-13T19:00:00.078347+02:00",
+  "generated_at": "2026-06-13T22:06:06.264185+02:00",
   "source_odds_url": "https://raw.githubusercontent.com/jakobm121/Ai/refs/heads/main/data/tennis_odds_today.json",
-  "odds_generated_at": "2026-06-13T18:47:36.052912+02:00",
-  "ratings_generated_at": "2026-06-13T18:38:22.088791+02:00",
+  "odds_generated_at": "2026-06-13T21:54:58.685442+02:00",
+  "ratings_generated_at": "2026-06-13T22:01:00.414427+02:00",
   "players": {
     "2813": {
       "api_player_key": 2813,
@@ -12107,7 +12107,7 @@
       "last_seen_event_key": 12136440,
       "last_seen_tournament": "M15 Los Angeles, CA",
       "last_seen_tournament_key": 7368,
-      "updated_at": "2026-06-13T19:00:00.078316+02:00"
+      "updated_at": "2026-06-13T22:06:06.264152+02:00"
     },
     "28596": {
       "api_player_key": 28596,
@@ -30161,57 +30161,25 @@
       "api_player_key": 9255,
       "api_name": "A. Shcherbinina",
       "gender": "women",
-      "status": "unmatched",
-      "method": "no_safe_match",
-      "confidence": 0.6933,
-      "elo_player_name": null,
-      "elo_player_key": null,
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Shcherbinina A.",
+      "elo_player_key": "shcherbinina a",
       "candidates": [
         {
-          "elo_player_name": "Senica A.",
-          "elo_player_key": "senica a",
-          "matches_total": 4,
-          "gender": "unknown",
-          "score": 0.6933,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Senica A.",
-          "elo_player_key": "senica a",
-          "matches_total": 4,
-          "gender": "unknown",
-          "score": 0.6933,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Shevchenko A.",
-          "elo_player_key": "shevchenko a",
-          "matches_total": 25,
-          "gender": "unknown",
-          "score": 0.6823,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Shevchenko A.",
-          "elo_player_key": "shevchenko a",
-          "matches_total": 25,
-          "gender": "unknown",
-          "score": 0.6823,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Zhilina A.",
-          "elo_player_key": "zhilina a",
+          "elo_player_name": "Shcherbinina A.",
+          "elo_player_key": "shcherbinina a",
           "matches_total": 1,
           "gender": "unknown",
-          "score": 0.6672,
-          "method": "fuzzy"
+          "score": 1.0,
+          "method": "exact_name_variant"
         }
       ],
       "last_seen_event_key": 12136366,
       "last_seen_tournament": "W15 Los Angeles, CA",
       "last_seen_tournament_key": 7372,
-      "updated_at": "2026-06-13T18:59:59.223111+02:00"
+      "updated_at": "2026-06-13T22:06:05.390148+02:00"
     },
     "32561": {
       "api_player_key": 32561,
