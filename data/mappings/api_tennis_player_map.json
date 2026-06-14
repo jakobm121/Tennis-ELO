@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-06-14T07:18:32.076129+02:00",
+  "generated_at": "2026-06-14T12:05:47.826623+02:00",
   "source_odds_url": "https://raw.githubusercontent.com/jakobm121/Ai/refs/heads/main/data/tennis_odds_today.json",
-  "odds_generated_at": "2026-06-14T07:10:05.921845+02:00",
+  "odds_generated_at": "2026-06-14T11:58:15.867821+02:00",
   "ratings_generated_at": "2026-06-14T07:16:36.332412+02:00",
   "players": {
     "2813": {
@@ -875,7 +875,7 @@
       "last_seen_event_key": 12136517,
       "last_seen_tournament": "Halle",
       "last_seen_tournament_key": 2041,
-      "updated_at": "2026-06-14T07:18:29.110007+02:00"
+      "updated_at": "2026-06-14T12:05:42.353196+02:00"
     },
     "1766": {
       "api_player_key": 1766,
@@ -8914,7 +8914,7 @@
         {
           "elo_player_name": "Errani S.",
           "elo_player_key": "errani s",
-          "matches_total": 1,
+          "matches_total": 3,
           "gender": "unknown",
           "score": 0.7104,
           "method": "fuzzy"
@@ -8922,24 +8922,24 @@
         {
           "elo_player_name": "Errani S.",
           "elo_player_key": "errani s",
-          "matches_total": 1,
+          "matches_total": 3,
           "gender": "unknown",
           "score": 0.7104,
           "method": "fuzzy"
         },
         {
-          "elo_player_name": "Garcia Hernandez S.",
-          "elo_player_key": "garcia hernandez s",
-          "matches_total": 2,
+          "elo_player_name": "Saudijska Arabija",
+          "elo_player_key": "saudijska arabija",
+          "matches_total": 1,
           "gender": "unknown",
-          "score": 0.661,
+          "score": 0.6765,
           "method": "fuzzy"
         }
       ],
-      "last_seen_event_key": 12134810,
-      "last_seen_tournament": "W15 Monastir 17",
-      "last_seen_tournament_key": 4058,
-      "updated_at": "2026-06-09T17:42:44.640620+02:00"
+      "last_seen_event_key": 12136621,
+      "last_seen_tournament": "Figueira Da Foz (Portugal) - Qualification",
+      "last_seen_tournament_key": 13974,
+      "updated_at": "2026-06-14T12:05:46.477199+02:00"
     },
     "57795": {
       "api_player_key": 57795,
@@ -22027,7 +22027,7 @@
       "last_seen_event_key": 12136574,
       "last_seen_tournament": "London",
       "last_seen_tournament_key": 12571,
-      "updated_at": "2026-06-14T07:18:29.824528+02:00"
+      "updated_at": "2026-06-14T12:05:42.919485+02:00"
     },
     "86805": {
       "api_player_key": 86805,
@@ -32515,7 +32515,7 @@
       "last_seen_event_key": 12136468,
       "last_seen_tournament": "W15 Madrid 2",
       "last_seen_tournament_key": 1932,
-      "updated_at": "2026-06-14T07:18:28.160968+02:00"
+      "updated_at": "2026-06-14T12:05:41.615411+02:00"
     },
     "2089": {
       "api_player_key": 2089,
@@ -34811,7 +34811,7 @@
       "last_seen_event_key": 12136590,
       "last_seen_tournament": "Poznan",
       "last_seen_tournament_key": 2453,
-      "updated_at": "2026-06-14T07:18:30.486344+02:00"
+      "updated_at": "2026-06-14T12:05:43.438442+02:00"
     },
     "988": {
       "api_player_key": 988,
@@ -34915,7 +34915,7 @@
       "last_seen_event_key": 12136595,
       "last_seen_tournament": "Poznan",
       "last_seen_tournament_key": 2453,
-      "updated_at": "2026-06-14T07:18:31.239882+02:00"
+      "updated_at": "2026-06-14T12:05:44.033193+02:00"
     },
     "78934": {
       "api_player_key": 78934,
@@ -35067,7 +35067,1047 @@
       "last_seen_event_key": 12136705,
       "last_seen_tournament": "Parma",
       "last_seen_tournament_key": 3135,
-      "updated_at": "2026-06-14T07:18:32.076104+02:00"
+      "updated_at": "2026-06-14T12:05:47.131179+02:00"
+    },
+    "92": {
+      "api_player_key": 92,
+      "api_name": "K. Birrell",
+      "gender": "women",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Birrell K.",
+      "elo_player_key": "birrell k",
+      "candidates": [
+        {
+          "elo_player_name": "Birrell K.",
+          "elo_player_key": "birrell k",
+          "matches_total": 75,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12136547,
+      "last_seen_tournament": "Nottingham",
+      "last_seen_tournament_key": 2215,
+      "updated_at": "2026-06-14T12:05:42.353262+02:00"
+    },
+    "115": {
+      "api_player_key": 115,
+      "api_name": "H. Sakatsume",
+      "gender": "women",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Sakatsume H.",
+      "elo_player_key": "sakatsume h",
+      "candidates": [
+        {
+          "elo_player_name": "Sakatsume H.",
+          "elo_player_key": "sakatsume h",
+          "matches_total": 13,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12136577,
+      "last_seen_tournament": "Nottingham",
+      "last_seen_tournament_key": 2215,
+      "updated_at": "2026-06-14T12:05:42.919540+02:00"
+    },
+    "10845": {
+      "api_player_key": 10845,
+      "api_name": "G. Campana Lee",
+      "gender": "men",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Campana Lee G.",
+      "elo_player_key": "campana lee g",
+      "candidates": [
+        {
+          "elo_player_name": "Campana Lee G.",
+          "elo_player_key": "campana lee g",
+          "matches_total": 10,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12136598,
+      "last_seen_tournament": "Royan",
+      "last_seen_tournament_key": 12632,
+      "updated_at": "2026-06-14T12:05:44.033242+02:00"
+    },
+    "103797": {
+      "api_player_key": 103797,
+      "api_name": "P. Theate",
+      "gender": "men",
+      "status": "unmatched",
+      "method": "no_safe_match",
+      "confidence": 0.6514,
+      "elo_player_name": null,
+      "elo_player_key": null,
+      "candidates": [
+        {
+          "elo_player_name": "Delage P.",
+          "elo_player_key": "delage p",
+          "matches_total": 12,
+          "gender": "unknown",
+          "score": 0.6514,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Delage P.",
+          "elo_player_key": "delage p",
+          "matches_total": 12,
+          "gender": "unknown",
+          "score": 0.6514,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Heller P.",
+          "elo_player_key": "heller p",
+          "matches_total": 4,
+          "gender": "unknown",
+          "score": 0.6514,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Heller P.",
+          "elo_player_key": "heller p",
+          "matches_total": 4,
+          "gender": "unknown",
+          "score": 0.6514,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Bartha P.",
+          "elo_player_key": "bartha p",
+          "matches_total": 1,
+          "gender": "unknown",
+          "score": 0.6514,
+          "method": "fuzzy"
+        }
+      ],
+      "last_seen_event_key": 12136598,
+      "last_seen_tournament": "Royan",
+      "last_seen_tournament_key": 12632,
+      "updated_at": "2026-06-14T12:05:44.629768+02:00"
+    },
+    "103798": {
+      "api_player_key": 103798,
+      "api_name": "J. Coudret",
+      "gender": "men",
+      "status": "unmatched",
+      "method": "no_safe_match",
+      "confidence": 0.7943,
+      "elo_player_name": null,
+      "elo_player_key": null,
+      "candidates": [
+        {
+          "elo_player_name": "Corse J.",
+          "elo_player_key": "corse j",
+          "matches_total": 1,
+          "gender": "unknown",
+          "score": 0.7943,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Corse J.",
+          "elo_player_key": "corse j",
+          "matches_total": 1,
+          "gender": "unknown",
+          "score": 0.7943,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Choe J.",
+          "elo_player_key": "choe j",
+          "matches_total": 1,
+          "gender": "unknown",
+          "score": 0.6919,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Choe J.",
+          "elo_player_key": "choe j",
+          "matches_total": 1,
+          "gender": "unknown",
+          "score": 0.6919,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Forejtek J.",
+          "elo_player_key": "forejtek j",
+          "matches_total": 24,
+          "gender": "unknown",
+          "score": 0.6765,
+          "method": "fuzzy"
+        }
+      ],
+      "last_seen_event_key": 12136600,
+      "last_seen_tournament": "Royan",
+      "last_seen_tournament_key": 12632,
+      "updated_at": "2026-06-14T12:05:45.240631+02:00"
+    },
+    "38022": {
+      "api_player_key": 38022,
+      "api_name": "A. Freire Da Silva",
+      "gender": "men",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Freire Da Silva A.",
+      "elo_player_key": "freire da silva a",
+      "candidates": [
+        {
+          "elo_player_name": "Freire Da Silva A.",
+          "elo_player_key": "freire da silva a",
+          "matches_total": 7,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12136600,
+      "last_seen_tournament": "Royan",
+      "last_seen_tournament_key": 12632,
+      "updated_at": "2026-06-14T12:05:45.240674+02:00"
+    },
+    "70038": {
+      "api_player_key": 70038,
+      "api_name": "R. Le Meur",
+      "gender": "men",
+      "status": "unmatched",
+      "method": "no_safe_match",
+      "confidence": 0.74,
+      "elo_player_name": null,
+      "elo_player_key": null,
+      "candidates": [
+        {
+          "elo_player_name": "Ymer R.",
+          "elo_player_key": "ymer r",
+          "matches_total": 1,
+          "gender": "unknown",
+          "score": 0.74,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Ymer R.",
+          "elo_player_key": "ymer r",
+          "matches_total": 1,
+          "gender": "unknown",
+          "score": 0.74,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Molleker R.",
+          "elo_player_key": "molleker r",
+          "matches_total": 20,
+          "gender": "unknown",
+          "score": 0.7104,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Molleker R.",
+          "elo_player_key": "molleker r",
+          "matches_total": 20,
+          "gender": "unknown",
+          "score": 0.7104,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Venger R.",
+          "elo_player_key": "venger r",
+          "matches_total": 2,
+          "gender": "unknown",
+          "score": 0.6514,
+          "method": "fuzzy"
+        }
+      ],
+      "last_seen_event_key": 12136601,
+      "last_seen_tournament": "Royan",
+      "last_seen_tournament_key": 12632,
+      "updated_at": "2026-06-14T12:05:45.818286+02:00"
+    },
+    "63487": {
+      "api_player_key": 63487,
+      "api_name": "R. Tabata",
+      "gender": "men",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Tabata R.",
+      "elo_player_key": "tabata r",
+      "candidates": [
+        {
+          "elo_player_name": "Tabata R.",
+          "elo_player_key": "tabata r",
+          "matches_total": 4,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12136601,
+      "last_seen_tournament": "Royan",
+      "last_seen_tournament_key": 12632,
+      "updated_at": "2026-06-14T12:05:45.818342+02:00"
+    },
+    "11781": {
+      "api_player_key": 11781,
+      "api_name": "P. Dev S D",
+      "gender": "men",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Dev S D P.",
+      "elo_player_key": "dev s d p",
+      "candidates": [
+        {
+          "elo_player_name": "Dev S D P.",
+          "elo_player_key": "dev s d p",
+          "matches_total": 40,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12136602,
+      "last_seen_tournament": "Royan",
+      "last_seen_tournament_key": 12632,
+      "updated_at": "2026-06-14T12:05:45.818357+02:00"
+    },
+    "5717": {
+      "api_player_key": 5717,
+      "api_name": "G. Gomez",
+      "gender": "men",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Gomez G.",
+      "elo_player_key": "gomez g",
+      "candidates": [
+        {
+          "elo_player_name": "Gomez G.",
+          "elo_player_key": "gomez g",
+          "matches_total": 1,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12136602,
+      "last_seen_tournament": "Royan",
+      "last_seen_tournament_key": 12632,
+      "updated_at": "2026-06-14T12:05:45.818370+02:00"
+    },
+    "15916": {
+      "api_player_key": 15916,
+      "api_name": "L. Angelini",
+      "gender": "men",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Angelini L.",
+      "elo_player_key": "angelini l",
+      "candidates": [
+        {
+          "elo_player_name": "Angelini L.",
+          "elo_player_key": "angelini l",
+          "matches_total": 86,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12136603,
+      "last_seen_tournament": "Royan",
+      "last_seen_tournament_key": 12632,
+      "updated_at": "2026-06-14T12:05:45.818384+02:00"
+    },
+    "4259": {
+      "api_player_key": 4259,
+      "api_name": "L. Dussin",
+      "gender": "men",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Dussin L.",
+      "elo_player_key": "dussin l",
+      "candidates": [
+        {
+          "elo_player_name": "Dussin L.",
+          "elo_player_key": "dussin l",
+          "matches_total": 50,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12136603,
+      "last_seen_tournament": "Royan",
+      "last_seen_tournament_key": 12632,
+      "updated_at": "2026-06-14T12:05:45.818397+02:00"
+    },
+    "1431": {
+      "api_player_key": 1431,
+      "api_name": "W. Osuigwe",
+      "gender": "women",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Osuigwe W.",
+      "elo_player_key": "osuigwe w",
+      "candidates": [
+        {
+          "elo_player_name": "Osuigwe W.",
+          "elo_player_key": "osuigwe w",
+          "matches_total": 13,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12136618,
+      "last_seen_tournament": "Figueira Da Foz (Portugal) - Qualification",
+      "last_seen_tournament_key": 13974,
+      "updated_at": "2026-06-14T12:05:45.818578+02:00"
+    },
+    "59608": {
+      "api_player_key": 59608,
+      "api_name": "C. Tomai",
+      "gender": "women",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Tomai C.",
+      "elo_player_key": "tomai c",
+      "candidates": [
+        {
+          "elo_player_name": "Tomai C.",
+          "elo_player_key": "tomai c",
+          "matches_total": 1,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12136618,
+      "last_seen_tournament": "Figueira Da Foz (Portugal) - Qualification",
+      "last_seen_tournament_key": 13974,
+      "updated_at": "2026-06-14T12:05:45.818593+02:00"
+    },
+    "14438": {
+      "api_player_key": 14438,
+      "api_name": "A. Zamarripa",
+      "gender": "women",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Zamarripa A.",
+      "elo_player_key": "zamarripa a",
+      "candidates": [
+        {
+          "elo_player_name": "Zamarripa A.",
+          "elo_player_key": "zamarripa a",
+          "matches_total": 2,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12136622,
+      "last_seen_tournament": "Figueira Da Foz (Portugal) - Qualification",
+      "last_seen_tournament_key": 13974,
+      "updated_at": "2026-06-14T12:05:46.477246+02:00"
+    },
+    "945": {
+      "api_player_key": 945,
+      "api_name": "O. Crawford",
+      "gender": "men",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Crawford O.",
+      "elo_player_key": "crawford o",
+      "candidates": [
+        {
+          "elo_player_name": "Crawford O.",
+          "elo_player_key": "crawford o",
+          "matches_total": 19,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12136729,
+      "last_seen_tournament": "Dublin (Ireland) - Qualification",
+      "last_seen_tournament_key": 13977,
+      "updated_at": "2026-06-14T12:05:47.131232+02:00"
+    },
+    "3318": {
+      "api_player_key": 3318,
+      "api_name": "E. Winter",
+      "gender": "men",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Winter E.",
+      "elo_player_key": "winter e",
+      "candidates": [
+        {
+          "elo_player_name": "Winter E.",
+          "elo_player_key": "winter e",
+          "matches_total": 6,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12136729,
+      "last_seen_tournament": "Dublin (Ireland) - Qualification",
+      "last_seen_tournament_key": 13977,
+      "updated_at": "2026-06-14T12:05:47.131246+02:00"
+    },
+    "11185": {
+      "api_player_key": 11185,
+      "api_name": "A. Elamin",
+      "gender": "men",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Elamin A.",
+      "elo_player_key": "elamin a",
+      "candidates": [
+        {
+          "elo_player_name": "Elamin A.",
+          "elo_player_key": "elamin a",
+          "matches_total": 46,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12136730,
+      "last_seen_tournament": "Dublin (Ireland) - Qualification",
+      "last_seen_tournament_key": 13977,
+      "updated_at": "2026-06-14T12:05:47.131258+02:00"
+    },
+    "6505": {
+      "api_player_key": 6505,
+      "api_name": "A. Andrade",
+      "gender": "men",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Andrade A.",
+      "elo_player_key": "andrade a",
+      "candidates": [
+        {
+          "elo_player_name": "Andrade A.",
+          "elo_player_key": "andrade a",
+          "matches_total": 81,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12136730,
+      "last_seen_tournament": "Dublin (Ireland) - Qualification",
+      "last_seen_tournament_key": 13977,
+      "updated_at": "2026-06-14T12:05:47.131269+02:00"
+    },
+    "14641": {
+      "api_player_key": 14641,
+      "api_name": "N. Visker",
+      "gender": "men",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Visker N.",
+      "elo_player_key": "visker n",
+      "candidates": [
+        {
+          "elo_player_name": "Visker N.",
+          "elo_player_key": "visker n",
+          "matches_total": 106,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12136731,
+      "last_seen_tournament": "Dublin (Ireland) - Qualification",
+      "last_seen_tournament_key": 13977,
+      "updated_at": "2026-06-14T12:05:47.131281+02:00"
+    },
+    "9362": {
+      "api_player_key": 9362,
+      "api_name": "E. Butvilas",
+      "gender": "men",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Butvilas E.",
+      "elo_player_key": "butvilas e",
+      "candidates": [
+        {
+          "elo_player_name": "Butvilas E.",
+          "elo_player_key": "butvilas e",
+          "matches_total": 20,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12136732,
+      "last_seen_tournament": "Dublin (Ireland) - Qualification",
+      "last_seen_tournament_key": 13977,
+      "updated_at": "2026-06-14T12:05:47.131306+02:00"
+    },
+    "1189": {
+      "api_player_key": 1189,
+      "api_name": "H. Mayot",
+      "gender": "men",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Mayot H.",
+      "elo_player_key": "mayot h",
+      "candidates": [
+        {
+          "elo_player_name": "Mayot H.",
+          "elo_player_key": "mayot h",
+          "matches_total": 108,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12136733,
+      "last_seen_tournament": "Dublin (Ireland) - Qualification",
+      "last_seen_tournament_key": 13977,
+      "updated_at": "2026-06-14T12:05:47.131318+02:00"
+    },
+    "5778": {
+      "api_player_key": 5778,
+      "api_name": "Q. Vandecasteele",
+      "gender": "men",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Vandecasteele Q.",
+      "elo_player_key": "vandecasteele q",
+      "candidates": [
+        {
+          "elo_player_name": "Vandecasteele Q.",
+          "elo_player_key": "vandecasteele q",
+          "matches_total": 63,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12136734,
+      "last_seen_tournament": "Dublin (Ireland) - Qualification",
+      "last_seen_tournament_key": 13977,
+      "updated_at": "2026-06-14T12:05:47.131495+02:00"
+    },
+    "568": {
+      "api_player_key": 568,
+      "api_name": "K. Uchida",
+      "gender": "men",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Uchida K.",
+      "elo_player_key": "uchida k",
+      "candidates": [
+        {
+          "elo_player_name": "Uchida K.",
+          "elo_player_key": "uchida k",
+          "matches_total": 15,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12136734,
+      "last_seen_tournament": "Dublin (Ireland) - Qualification",
+      "last_seen_tournament_key": 13977,
+      "updated_at": "2026-06-14T12:05:47.131505+02:00"
+    },
+    "867": {
+      "api_player_key": 867,
+      "api_name": "Y. H. Hsu",
+      "gender": "men",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Hsu Y. H.",
+      "elo_player_key": "hsu y h",
+      "candidates": [
+        {
+          "elo_player_name": "Hsu Y. H.",
+          "elo_player_key": "hsu y h",
+          "matches_total": 85,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12136735,
+      "last_seen_tournament": "Dublin (Ireland) - Qualification",
+      "last_seen_tournament_key": 13977,
+      "updated_at": "2026-06-14T12:05:47.131519+02:00"
+    },
+    "7269": {
+      "api_player_key": 7269,
+      "api_name": "V. Ursu",
+      "gender": "men",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Ursu V.",
+      "elo_player_key": "ursu v",
+      "candidates": [
+        {
+          "elo_player_name": "Ursu V.",
+          "elo_player_key": "ursu v",
+          "matches_total": 8,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12136735,
+      "last_seen_tournament": "Dublin (Ireland) - Qualification",
+      "last_seen_tournament_key": 13977,
+      "updated_at": "2026-06-14T12:05:47.131530+02:00"
+    },
+    "103836": {
+      "api_player_key": 103836,
+      "api_name": "J. McGloughlin",
+      "gender": "men",
+      "status": "unmatched",
+      "method": "no_safe_match",
+      "confidence": 0.7224,
+      "elo_player_name": null,
+      "elo_player_key": null,
+      "candidates": [
+        {
+          "elo_player_name": "Molino J.",
+          "elo_player_key": "molino j",
+          "matches_total": 2,
+          "gender": "unknown",
+          "score": 0.7224,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Molino J.",
+          "elo_player_key": "molino j",
+          "matches_total": 2,
+          "gender": "unknown",
+          "score": 0.7224,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Coin J.",
+          "elo_player_key": "coin j",
+          "matches_total": 1,
+          "gender": "unknown",
+          "score": 0.6765,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Coin J.",
+          "elo_player_key": "coin j",
+          "matches_total": 1,
+          "gender": "unknown",
+          "score": 0.6765,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Chin J.",
+          "elo_player_key": "chin j",
+          "matches_total": 1,
+          "gender": "unknown",
+          "score": 0.6765,
+          "method": "fuzzy"
+        }
+      ],
+      "last_seen_event_key": 12136736,
+      "last_seen_tournament": "Dublin (Ireland) - Qualification",
+      "last_seen_tournament_key": 13977,
+      "updated_at": "2026-06-14T12:05:47.826424+02:00"
+    },
+    "39862": {
+      "api_player_key": 39862,
+      "api_name": "Y. Zhou",
+      "gender": "men",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Zhou Y.",
+      "elo_player_key": "zhou y",
+      "candidates": [
+        {
+          "elo_player_name": "Zhou Y.",
+          "elo_player_key": "zhou y",
+          "matches_total": 5,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12136736,
+      "last_seen_tournament": "Dublin (Ireland) - Qualification",
+      "last_seen_tournament_key": 13977,
+      "updated_at": "2026-06-14T12:05:47.826473+02:00"
+    },
+    "690": {
+      "api_player_key": 690,
+      "api_name": "R. Noguchi",
+      "gender": "men",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Noguchi R.",
+      "elo_player_key": "noguchi r",
+      "candidates": [
+        {
+          "elo_player_name": "Noguchi R.",
+          "elo_player_key": "noguchi r",
+          "matches_total": 58,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12136737,
+      "last_seen_tournament": "Dublin (Ireland) - Qualification",
+      "last_seen_tournament_key": 13977,
+      "updated_at": "2026-06-14T12:05:47.826489+02:00"
+    },
+    "101392": {
+      "api_player_key": 101392,
+      "api_name": "D. Leeman",
+      "gender": "men",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Leeman D.",
+      "elo_player_key": "leeman d",
+      "candidates": [
+        {
+          "elo_player_name": "Leeman D.",
+          "elo_player_key": "leeman d",
+          "matches_total": 1,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12136739,
+      "last_seen_tournament": "Dublin (Ireland) - Qualification",
+      "last_seen_tournament_key": 13977,
+      "updated_at": "2026-06-14T12:05:47.826506+02:00"
+    },
+    "15771": {
+      "api_player_key": 15771,
+      "api_name": "N. Rodrigues",
+      "gender": "men",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Rodrigues N.",
+      "elo_player_key": "rodrigues n",
+      "candidates": [
+        {
+          "elo_player_name": "Rodrigues N.",
+          "elo_player_key": "rodrigues n",
+          "matches_total": 3,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12136753,
+      "last_seen_tournament": "Asuncion 2 (Paraguay) - Qualification",
+      "last_seen_tournament_key": 13984,
+      "updated_at": "2026-06-14T12:05:47.826525+02:00"
+    },
+    "5469": {
+      "api_player_key": 5469,
+      "api_name": "W. Leite",
+      "gender": "men",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Leite W.",
+      "elo_player_key": "leite w",
+      "candidates": [
+        {
+          "elo_player_name": "Leite W.",
+          "elo_player_key": "leite w",
+          "matches_total": 74,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12136754,
+      "last_seen_tournament": "Asuncion 2 (Paraguay) - Qualification",
+      "last_seen_tournament_key": 13984,
+      "updated_at": "2026-06-14T12:05:47.826539+02:00"
+    },
+    "685": {
+      "api_player_key": 685,
+      "api_name": "I. Monzon",
+      "gender": "men",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Monzon I.",
+      "elo_player_key": "monzon i",
+      "candidates": [
+        {
+          "elo_player_name": "Monzon I.",
+          "elo_player_key": "monzon i",
+          "matches_total": 7,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12136757,
+      "last_seen_tournament": "Asuncion 2 (Paraguay) - Qualification",
+      "last_seen_tournament_key": 13984,
+      "updated_at": "2026-06-14T12:05:47.826551+02:00"
+    },
+    "10020": {
+      "api_player_key": 10020,
+      "api_name": "V. Basel",
+      "gender": "men",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Basel V.",
+      "elo_player_key": "basel v",
+      "candidates": [
+        {
+          "elo_player_name": "Basel V.",
+          "elo_player_key": "basel v",
+          "matches_total": 57,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12136758,
+      "last_seen_tournament": "Asuncion 2 (Paraguay) - Qualification",
+      "last_seen_tournament_key": 13984,
+      "updated_at": "2026-06-14T12:05:47.826565+02:00"
+    },
+    "14275": {
+      "api_player_key": 14275,
+      "api_name": "M. Del Pino",
+      "gender": "men",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Del Pino M.",
+      "elo_player_key": "del pino m",
+      "candidates": [
+        {
+          "elo_player_name": "Del Pino M.",
+          "elo_player_key": "del pino m",
+          "matches_total": 27,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12136761,
+      "last_seen_tournament": "Asuncion 2 (Paraguay) - Qualification",
+      "last_seen_tournament_key": 13984,
+      "updated_at": "2026-06-14T12:05:47.826578+02:00"
+    },
+    "40143": {
+      "api_player_key": 40143,
+      "api_name": "G. Ribeiro de Almeida",
+      "gender": "men",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Ribeiro de Almeida G.",
+      "elo_player_key": "ribeiro de almeida g",
+      "candidates": [
+        {
+          "elo_player_name": "Ribeiro de Almeida G.",
+          "elo_player_key": "ribeiro de almeida g",
+          "matches_total": 5,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12136761,
+      "last_seen_tournament": "Asuncion 2 (Paraguay) - Qualification",
+      "last_seen_tournament_key": 13984,
+      "updated_at": "2026-06-14T12:05:47.826591+02:00"
+    },
+    "67455": {
+      "api_player_key": 67455,
+      "api_name": "A. Hayen",
+      "gender": "men",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Hayen A.",
+      "elo_player_key": "hayen a",
+      "candidates": [
+        {
+          "elo_player_name": "Hayen A.",
+          "elo_player_key": "hayen a",
+          "matches_total": 1,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12136762,
+      "last_seen_tournament": "Asuncion 2 (Paraguay) - Qualification",
+      "last_seen_tournament_key": 13984,
+      "updated_at": "2026-06-14T12:05:47.826603+02:00"
+    },
+    "52679": {
+      "api_player_key": 52679,
+      "api_name": "I. Parisca",
+      "gender": "men",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Parisca I.",
+      "elo_player_key": "parisca i",
+      "candidates": [
+        {
+          "elo_player_name": "Parisca I.",
+          "elo_player_key": "parisca i",
+          "matches_total": 9,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12136762,
+      "last_seen_tournament": "Asuncion 2 (Paraguay) - Qualification",
+      "last_seen_tournament_key": 13984,
+      "updated_at": "2026-06-14T12:05:47.826615+02:00"
     }
   }
 }
