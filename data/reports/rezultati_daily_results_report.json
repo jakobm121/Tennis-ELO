@@ -1,20 +1,125 @@
 {
-  "generated_at": "2026-06-14T00:46:25.550231+02:00",
+  "generated_at": "2026-06-14T07:03:57.271910+02:00",
   "source_url": "https://www.rezultati.com/tenis/",
   "counts": {
     "archive_before": 11007,
-    "daily_scorelines": 0,
-    "archive_after": 11007,
-    "added": 0
+    "daily_scorelines": 2,
+    "archive_after": 11009,
+    "added": 2
   },
   "metadata_counts": {
-    "with_surface": 10978,
+    "with_surface": 10980,
     "with_gender": 9932,
-    "with_tour_level": 10978,
+    "with_tour_level": 10980,
     "grand_slam": 1950,
     "best_of_5": 957
   },
-  "sample": [],
+  "sample": [
+    {
+      "match_id": "",
+      "match_url": "",
+      "source": "rezultati_daily_results_text_fallback",
+      "date": "2026-06-14",
+      "player_1": "Sornlaksup P.",
+      "player_2": "Dellavedova M.",
+      "match": "Sornlaksup P. - Dellavedova M.",
+      "winner": "Dellavedova M.",
+      "loser": "Sornlaksup P.",
+      "sets_1": 0,
+      "sets_2": 2,
+      "final_score": "0-2",
+      "set_scores": [
+        {
+          "set_number": 1,
+          "p1_games": 2,
+          "p2_games": 6,
+          "tiebreak": false
+        },
+        {
+          "set_number": 2,
+          "p1_games": 4,
+          "p2_games": 6,
+          "tiebreak": false
+        }
+      ],
+      "completed": true,
+      "retired": false,
+      "walkover": false,
+      "raw_parent_text": "Kraj\nSornlaksup P.\nDellavedova M.\n0\n2\n2\n6\n4\n6",
+      "raw_header_text": "M15 Maanshan 5 (Kina), tvrda podloga (dvorana)\nITF - MUŠKI SINGL:",
+      "tournament": "M15 Maanshan 5 (Kina), tvrda podloga (dvorana)",
+      "tour_level": "itf",
+      "gender": "",
+      "surface": "hard",
+      "indoor": true,
+      "best_of": 3,
+      "is_grand_slam": false,
+      "first_set_score": "2-6",
+      "first_set_games": 8,
+      "first_set_tiebreak": false,
+      "total_games": 18,
+      "p1_total_games_won": 6,
+      "p2_total_games_won": 12,
+      "game_margin_p1": -6,
+      "total_sets": 2,
+      "straight_sets": true,
+      "deciding_set": false,
+      "had_tiebreak": false,
+      "tiebreak_count": 0
+    },
+    {
+      "match_id": "",
+      "match_url": "",
+      "source": "rezultati_daily_results_text_fallback",
+      "date": "2026-06-14",
+      "player_1": "Huang Yujia",
+      "player_2": "Li Z.",
+      "match": "Huang Yujia - Li Z.",
+      "winner": "Li Z.",
+      "loser": "Huang Yujia",
+      "sets_1": 0,
+      "sets_2": 2,
+      "final_score": "0-2",
+      "set_scores": [
+        {
+          "set_number": 1,
+          "p1_games": 4,
+          "p2_games": 6,
+          "tiebreak": false
+        },
+        {
+          "set_number": 2,
+          "p1_games": 2,
+          "p2_games": 6,
+          "tiebreak": false
+        }
+      ],
+      "completed": true,
+      "retired": false,
+      "walkover": false,
+      "raw_parent_text": "Kraj\nHuang Yujia\nLi Z.\n0\n2\n4\n6\n2\n6",
+      "raw_header_text": "W100 Wuning (Kina), tvrda podloga\nITF - ŽENSKI SINGL:",
+      "tournament": "W100 Wuning (Kina), tvrda podloga",
+      "tour_level": "itf",
+      "gender": "",
+      "surface": "hard",
+      "indoor": null,
+      "best_of": 3,
+      "is_grand_slam": false,
+      "first_set_score": "4-6",
+      "first_set_games": 10,
+      "first_set_tiebreak": false,
+      "total_games": 18,
+      "p1_total_games_won": 6,
+      "p2_total_games_won": 12,
+      "game_margin_p1": -6,
+      "total_sets": 2,
+      "straight_sets": true,
+      "deciding_set": false,
+      "had_tiebreak": false,
+      "tiebreak_count": 0
+    }
+  ],
   "debug_files": {
     "text": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/reports/debug_rezultati_daily_results_text.txt",
     "html": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/reports/debug_rezultati_daily_results_page.html",

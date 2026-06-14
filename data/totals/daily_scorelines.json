@@ -1,8 +1,113 @@
 {
-  "generated_at": "2026-06-14T00:46:25.545676+02:00",
+  "generated_at": "2026-06-14T07:03:57.267528+02:00",
   "source_url": "https://www.rezultati.com/tenis/",
   "counts": {
-    "daily_scorelines": 0
+    "daily_scorelines": 2
   },
-  "matches": []
+  "matches": [
+    {
+      "match_id": "",
+      "match_url": "",
+      "source": "rezultati_daily_results_text_fallback",
+      "date": "2026-06-14",
+      "player_1": "Sornlaksup P.",
+      "player_2": "Dellavedova M.",
+      "match": "Sornlaksup P. - Dellavedova M.",
+      "winner": "Dellavedova M.",
+      "loser": "Sornlaksup P.",
+      "sets_1": 0,
+      "sets_2": 2,
+      "final_score": "0-2",
+      "set_scores": [
+        {
+          "set_number": 1,
+          "p1_games": 2,
+          "p2_games": 6,
+          "tiebreak": false
+        },
+        {
+          "set_number": 2,
+          "p1_games": 4,
+          "p2_games": 6,
+          "tiebreak": false
+        }
+      ],
+      "completed": true,
+      "retired": false,
+      "walkover": false,
+      "raw_parent_text": "Kraj\nSornlaksup P.\nDellavedova M.\n0\n2\n2\n6\n4\n6",
+      "raw_header_text": "M15 Maanshan 5 (Kina), tvrda podloga (dvorana)\nITF - MUŠKI SINGL:",
+      "tournament": "M15 Maanshan 5 (Kina), tvrda podloga (dvorana)",
+      "tour_level": "itf",
+      "gender": "",
+      "surface": "hard",
+      "indoor": true,
+      "best_of": 3,
+      "is_grand_slam": false,
+      "first_set_score": "2-6",
+      "first_set_games": 8,
+      "first_set_tiebreak": false,
+      "total_games": 18,
+      "p1_total_games_won": 6,
+      "p2_total_games_won": 12,
+      "game_margin_p1": -6,
+      "total_sets": 2,
+      "straight_sets": true,
+      "deciding_set": false,
+      "had_tiebreak": false,
+      "tiebreak_count": 0
+    },
+    {
+      "match_id": "",
+      "match_url": "",
+      "source": "rezultati_daily_results_text_fallback",
+      "date": "2026-06-14",
+      "player_1": "Huang Yujia",
+      "player_2": "Li Z.",
+      "match": "Huang Yujia - Li Z.",
+      "winner": "Li Z.",
+      "loser": "Huang Yujia",
+      "sets_1": 0,
+      "sets_2": 2,
+      "final_score": "0-2",
+      "set_scores": [
+        {
+          "set_number": 1,
+          "p1_games": 4,
+          "p2_games": 6,
+          "tiebreak": false
+        },
+        {
+          "set_number": 2,
+          "p1_games": 2,
+          "p2_games": 6,
+          "tiebreak": false
+        }
+      ],
+      "completed": true,
+      "retired": false,
+      "walkover": false,
+      "raw_parent_text": "Kraj\nHuang Yujia\nLi Z.\n0\n2\n4\n6\n2\n6",
+      "raw_header_text": "W100 Wuning (Kina), tvrda podloga\nITF - ŽENSKI SINGL:",
+      "tournament": "W100 Wuning (Kina), tvrda podloga",
+      "tour_level": "itf",
+      "gender": "",
+      "surface": "hard",
+      "indoor": null,
+      "best_of": 3,
+      "is_grand_slam": false,
+      "first_set_score": "4-6",
+      "first_set_games": 10,
+      "first_set_tiebreak": false,
+      "total_games": 18,
+      "p1_total_games_won": 6,
+      "p2_total_games_won": 12,
+      "game_margin_p1": -6,
+      "total_sets": 2,
+      "straight_sets": true,
+      "deciding_set": false,
+      "had_tiebreak": false,
+      "tiebreak_count": 0
+    }
+  ]
 }
