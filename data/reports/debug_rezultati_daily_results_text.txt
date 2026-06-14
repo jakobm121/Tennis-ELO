@@ -19,6 +19,22 @@ TEČAJEVI
 GOTOVO
 RASPORED
 14/06 NE
+Hertogenbosch (Nizozemska), trava
+ATP - SINGL: 
+Ždrijeb
+Kraj
+Majchrzak K.
+De Minaur A.
+2
+1
+6
+3
+2
+6
+7
+7
+6
+5
 Stuttgart (Njemačka), trava
 ATP - SINGL: 
 Ždrijeb
@@ -63,6 +79,19 @@ Gentzsch T.
 5
 6
 4
+Kraj
+Bellucci M.
+Bolt A.
+2
+1
+6
+5
+7
+7
+7
+5
+6
+3
 London (Ujedinjeno Kraljevstvo) - Kvalifikacije, trava
 ATP - SINGL: 
 Ždrijeb
@@ -88,6 +117,19 @@ Wendelken H.
 9
 1
 6
+Kraj
+Hijikata R.
+Giron M.
+2
+1
+7
+5
+6
+4
+7
+7
+6
+1
 Kraj
 Kovacevic A.
 Mpetshi Perricard G.
@@ -127,72 +169,6 @@ Kudermetova P.
 Kraus S.
 -
 -
-Prekinuto
-Parry D.
-Seidel E.
-1
-0
-6
-3
-3
-1
-0
-0
-Prekinuto
-Lamens S.
-Galfi D.
-1
-0
-6
-3
-1
-1
-0
-0
-Prekinuto
-Sun L.
-Kalinina A.
-0
-1
-4
-6
-0
-1
-0
-0
-Prekinuto
-Brockmann T. J.
-Parks A.
-1
-1
-4
-6
-6
-4
-4
-2
-0
-0
-Prekinuto
-Marčinko P.
-Ito A.
-1
-0
-6
-2
-0
-2
-40
-40
-Prekinuto
-Siniakova K.
-Yuan Y.
-0
-0
-5
-4
-0
-0
 Nottingham (Ujedinjeno Kraljevstvo) - Kvalifikacije, trava
 WTA - SINGL: 
 Ždrijeb
@@ -230,6 +206,19 @@ Kenin S.
 6
 4
 Kraj
+Ruzic A.
+Preston T.
+2
+1
+6
+3
+6
+6
+7
+8
+7
+5
+Kraj
 Sonmez Z.
 Klugman H.
 2
@@ -238,6 +227,15 @@ Klugman H.
 2
 6
 4
+Kraj
+Sakatsume H.
+Dudeney A.
+2
+0
+6
+3
+6
+3
 Stuttgart (Njemačka), trava
 ATP - PAROVI: 
 Ždrijeb
@@ -256,6 +254,36 @@ Struff J-L.
 3
 9
 11
+Halle (Njemačka) - Kvalifikacije, trava
+ATP - PAROVI: 
+Ždrijeb
+Kraj
+Galloway R.
+Peers J.
+Altmaier D.
+Fonseca J.
+2
+0
+7
+5
+6
+2
+London (Ujedinjeno Kraljevstvo) - Kvalifikacije, trava
+ATP - PAROVI: 
+Ždrijeb
+Kraj
+Frantzen C.
+Haase R.
+Jones B.
+Paris J.
+2
+0
+7
+8
+6
+6
+6
+4
 Bratislava (Slovačka), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -272,6 +300,68 @@ Daniel T.
 2
 7
 7
+Cattolica (Italija), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+De Jong J.
+Carballes Baena R.
+2
+0
+6
+3
+6
+2
+Ilkley (Ujedinjeno Kraljevstvo), trava
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Fearnley J.
+Bu Y.
+0
+2
+3
+6
+6
+1
+7
+7
+Lyon (Francuska), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Balshaw F.
+Jorda Sanchis D.
+0
+2
+4
+6
+6
+4
+7
+7
+Nottingham (Ujedinjeno Kraljevstvo), trava
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Budkov Kjaer N.
+McDonald M.
+1
+2
+6
+3
+3
+6
+2
+6
+Asuncion 2 (Paragvaj) - Kvalifikacije, zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Otkazano
+Linde Palacios S. A.
+Gonzalez Benitez F.
+-
+-
 Dublin (Irska) - Kvalifikacije, trava
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -324,6 +414,57 @@ Hewitt C.
 6
 4
 6
+Kraj
+Mayot H.
+Kokkinakis T.
+1
+2
+4
+6
+6
+3
+6
+7
+7
+9
+Kraj
+Noguchi R.
+Jubb P.
+2
+1
+6
+4
+4
+6
+6
+3
+Kraj
+Hsu Y. H.
+Ursu V.
+2
+0
+6
+4
+6
+4
+Kraj
+McGloughlin J.
+Zhou Y.
+0
+2
+1
+6
+2
+6
+Kraj
+Guerrieri A.
+Romano F.
+2
+0
+6
+2
+6
+2
 Nottingham (Ujedinjeno Kraljevstvo) - Kvalifikacije, trava
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -374,6 +515,17 @@ Okonkwo O.
 2
 6
 4
+Kraj
+Holmgren A.
+Clarke J.
+1
+2
+4
+6
+7
+5
+2
+6
 Parma (Italija) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -475,6 +627,24 @@ Bocci F.
 3
 6
 2
+Kraj
+Martineau M.
+Salazar D.
+2
+0
+6
+2
+7
+5
+Kraj
+Tombolini L.
+Wiedenmann L.
+0
+2
+2
+6
+1
+6
 Poznan (Poljska) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -507,46 +677,11 @@ Zakaria F.
 0
 6
 2
-Prekinuto
-Siniakov D.
-Hassan B.
-1
-1
-6
-3
-4
-6
-2
-1
-0
-0
 Otkazano
 Santillan A.
 Pieczonka F.
 -
 -
-Prekinuto
-Vrbensky M.
-Karol M.
-0
-0
-6
-1
-6
-2
-0
-0
-Prekinuto
-Wazny A.
-Yevseyev D.
-1
-0
-6
-3
-1
-0
-15
-0
 Royan (Francuska) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -583,6 +718,35 @@ Tabata R.
 1
 1
 6
+Kraj
+Ribero F.
+Reco A.
+2
+1
+4
+6
+6
+4
+6
+3
+Kraj
+Vervoort M.
+Zhu M.
+0
+2
+3
+6
+1
+6
+Kraj
+Dev S D P.
+Gomez G.
+2
+0
+6
+2
+6
+2
 Ilkley (Ujedinjeno Kraljevstvo), trava
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -648,6 +812,36 @@ Meliss V.
 6
 0
 6
+2
+Kraj
+Paquet C.
+Zhu A.
+2
+0
+7
+5
+6
+1
+Kraj
+Zelnickova R.
+Basiletti N.
+0
+2
+3
+6
+5
+7
+Kraj
+(predano)
+Salden L.
+Toth A. K.
+1
+0
+7
+8
+6
+6
+2
 2
 Figueira Da Foz (Portugal) - Kvalifikacije, tvrda podloga
 CHALLENGER - ŽENSKI SINGL: 
@@ -715,6 +909,36 @@ Smith A.
 0
 2
 2
+6
+4
+6
+Kraj
+Sebov K.
+Zamarripa A.
+0
+2
+3
+6
+3
+6
+Kraj
+Ryser V.
+Garakani S.
+2
+0
+6
+1
+6
+1
+M15 Brasilia (Brazil), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Oliveira N.
+Hernandez A.
+0
+2
+4
 6
 4
 6
@@ -1032,6 +1256,24 @@ Vedder E.
 3
 6
 2
+M15 Kayseri 4 (Turska), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Fradkin J.
+McKennon M.
+Chopra K.
+Cooper S.
+0
+2
+6
+4
+7
+7
+6
+5
+7
+7
 M25 Kiseljak (Bosna & Hercegovina), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -1098,7 +1340,7 @@ WTA Nottingham
 WTA S-Hertogenbosch
 ATP Halle
 ATP London
-Prikaži više (74)
+Prikaži više (67)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -1168,10 +1410,9 @@ SAD - Australija
 Škotska - Maroko
 Brazil - Haiti
 Turska - Paragvaj
-Paris - Monaco
 Fenerbahce - Besiktas
+Paris - Monaco
 LIVESCORE
-Mađarska Ž - Hrvatska Ž
 Bugarska - Srbija
 Humbert - Čilić
 Vekić - Eala
@@ -1181,6 +1422,7 @@ Hrvatska Ž - Sj. Makedonija Ž
 Nizozemska - Hrvatska
 Slovenija Ž - Hrvatska Ž
 Srbija - Japan
+Njemačka - Curacao
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
