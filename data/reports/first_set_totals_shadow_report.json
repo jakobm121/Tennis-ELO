@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-14T00:42:02.363180+02:00",
+  "generated_at": "2026-06-14T07:19:10.672705+02:00",
   "summary": {
-    "odds_matches": 60,
-    "evaluated_strategy_rows": 252,
+    "odds_matches": 76,
+    "evaluated_strategy_rows": 432,
     "shadow_bets": 1,
     "watch_picks": 0,
-    "no_bet": 251,
-    "missing_first_set_totals": 18,
-    "shadow_bet": 1
+    "no_bet": 431,
+    "shadow_bet": 1,
+    "missing_first_set_totals": 4
   },
   "top_shadow_picks": [
     {
@@ -23,16 +23,16 @@
       "gender": "men",
       "surface": "grass",
       "favorite": "A. De Minaur",
-      "favorite_probability": 0.772059,
+      "favorite_probability": 0.75892,
       "strategy_id": "all_fav75_under_9_5",
       "market": "first_set_total_games",
       "side": "under",
       "line": 9.5,
-      "odds": 1.95,
-      "bookmaker": "Superbet",
+      "odds": 2.25,
+      "bookmaker": "Unibet",
       "model_probability": 0.550919,
       "fair_odds": 1.815,
-      "edge": 0.0743,
+      "edge": 0.2396,
       "confidence": "medium",
       "decision": "SHADOW_BET",
       "reasons": [],
