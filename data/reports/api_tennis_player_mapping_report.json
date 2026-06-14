@@ -1,76 +1,19 @@
 {
-  "generated_at": "2026-06-14T16:57:21.116966+02:00",
+  "generated_at": "2026-06-14T18:59:01.642189+02:00",
   "summary": {
-    "api_players_today": 76,
-    "ratings_players": 4876,
+    "api_players_today": 28,
+    "ratings_players": 4905,
     "mapping_records_total": 1239,
-    "mapping_records_changed": 9,
-    "existing_confirmed": 67,
-    "unmatched": 6,
-    "confirmed": 3
+    "mapping_records_changed": 3,
+    "existing_confirmed": 25,
+    "unmatched": 3
   },
   "status_counts_today": {
-    "confirmed": 70,
-    "unmatched": 6
+    "confirmed": 25,
+    "unmatched": 3
   },
   "manual_review": [],
   "unmatched": [
-    {
-      "api_player_key": 53732,
-      "api_name": "A. Blus",
-      "gender": "men",
-      "status": "unmatched",
-      "method": "no_safe_match",
-      "confidence": 0.7229,
-      "elo_player_name": null,
-      "elo_player_key": null,
-      "candidates": [
-        {
-          "elo_player_name": "Rus A.",
-          "elo_player_key": "rus a",
-          "matches_total": 20,
-          "gender": "unknown",
-          "score": 0.7229,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Rus A.",
-          "elo_player_key": "rus a",
-          "matches_total": 20,
-          "gender": "unknown",
-          "score": 0.7229,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Balus I.",
-          "elo_player_key": "balus i",
-          "matches_total": 75,
-          "gender": "unknown",
-          "score": 0.6715,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Balus I.",
-          "elo_player_key": "balus i",
-          "matches_total": 75,
-          "gender": "unknown",
-          "score": 0.6715,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Bulus C.",
-          "elo_player_key": "bulus c",
-          "matches_total": 1,
-          "gender": "unknown",
-          "score": 0.6715,
-          "method": "fuzzy"
-        }
-      ],
-      "last_seen_event_key": 12136590,
-      "last_seen_tournament": "Poznan",
-      "last_seen_tournament_key": 2453,
-      "updated_at": "2026-06-14T16:57:17.146977+02:00"
-    },
     {
       "api_player_key": 88816,
       "api_name": "J. Sadzik",
@@ -125,63 +68,7 @@
       "last_seen_event_key": 12136595,
       "last_seen_tournament": "Poznan",
       "last_seen_tournament_key": 2453,
-      "updated_at": "2026-06-14T16:57:17.908614+02:00"
-    },
-    {
-      "api_player_key": 103797,
-      "api_name": "P. Theate",
-      "gender": "men",
-      "status": "unmatched",
-      "method": "no_safe_match",
-      "confidence": 0.6514,
-      "elo_player_name": null,
-      "elo_player_key": null,
-      "candidates": [
-        {
-          "elo_player_name": "Delage P.",
-          "elo_player_key": "delage p",
-          "matches_total": 12,
-          "gender": "unknown",
-          "score": 0.6514,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Delage P.",
-          "elo_player_key": "delage p",
-          "matches_total": 12,
-          "gender": "unknown",
-          "score": 0.6514,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Heller P.",
-          "elo_player_key": "heller p",
-          "matches_total": 5,
-          "gender": "unknown",
-          "score": 0.6514,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Heller P.",
-          "elo_player_key": "heller p",
-          "matches_total": 5,
-          "gender": "unknown",
-          "score": 0.6514,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Bartha P.",
-          "elo_player_key": "bartha p",
-          "matches_total": 1,
-          "gender": "unknown",
-          "score": 0.6514,
-          "method": "fuzzy"
-        }
-      ],
-      "last_seen_event_key": 12136598,
-      "last_seen_tournament": "Royan",
-      "last_seen_tournament_key": 12632,
-      "updated_at": "2026-06-14T16:57:18.673693+02:00"
+      "updated_at": "2026-06-14T18:58:59.854160+02:00"
     },
     {
       "api_player_key": 103798,
@@ -237,63 +124,7 @@
       "last_seen_event_key": 12136600,
       "last_seen_tournament": "Royan",
       "last_seen_tournament_key": 12632,
-      "updated_at": "2026-06-14T16:57:19.483281+02:00"
-    },
-    {
-      "api_player_key": 103836,
-      "api_name": "J. McGloughlin",
-      "gender": "men",
-      "status": "unmatched",
-      "method": "no_safe_match",
-      "confidence": 0.7224,
-      "elo_player_name": null,
-      "elo_player_key": null,
-      "candidates": [
-        {
-          "elo_player_name": "Molino J.",
-          "elo_player_key": "molino j",
-          "matches_total": 2,
-          "gender": "unknown",
-          "score": 0.7224,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Molino J.",
-          "elo_player_key": "molino j",
-          "matches_total": 2,
-          "gender": "unknown",
-          "score": 0.7224,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Coin J.",
-          "elo_player_key": "coin j",
-          "matches_total": 1,
-          "gender": "unknown",
-          "score": 0.6765,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Coin J.",
-          "elo_player_key": "coin j",
-          "matches_total": 1,
-          "gender": "unknown",
-          "score": 0.6765,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Chin J.",
-          "elo_player_key": "chin j",
-          "matches_total": 1,
-          "gender": "unknown",
-          "score": 0.6765,
-          "method": "fuzzy"
-        }
-      ],
-      "last_seen_event_key": 12136736,
-      "last_seen_tournament": "Dublin (Ireland) - Qualification",
-      "last_seen_tournament_key": 13977,
-      "updated_at": "2026-06-14T16:57:20.387116+02:00"
+      "updated_at": "2026-06-14T18:59:00.784669+02:00"
     },
     {
       "api_player_key": 24403,
@@ -349,7 +180,7 @@
       "last_seen_event_key": 12136759,
       "last_seen_tournament": "Asuncion 2 (Paraguay) - Qualification",
       "last_seen_tournament_key": 13984,
-      "updated_at": "2026-06-14T16:57:21.116799+02:00"
+      "updated_at": "2026-06-14T18:59:01.642129+02:00"
     }
   ]
 }
