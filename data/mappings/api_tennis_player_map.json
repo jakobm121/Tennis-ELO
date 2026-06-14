@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-06-14T18:59:01.642162+02:00",
+  "generated_at": "2026-06-14T22:09:28.662921+02:00",
   "source_odds_url": "https://raw.githubusercontent.com/jakobm121/Ai/refs/heads/main/data/tennis_odds_today.json",
-  "odds_generated_at": "2026-06-14T18:47:07.949919+02:00",
-  "ratings_generated_at": "2026-06-14T18:57:55.638427+02:00",
+  "odds_generated_at": "2026-06-14T21:58:40.833447+02:00",
+  "ratings_generated_at": "2026-06-14T22:02:01.193472+02:00",
   "players": {
     "2813": {
       "api_player_key": 2813,
@@ -36211,7 +36211,7 @@
       "last_seen_event_key": 12136759,
       "last_seen_tournament": "Asuncion 2 (Paraguay) - Qualification",
       "last_seen_tournament_key": 13984,
-      "updated_at": "2026-06-14T18:59:01.642129+02:00"
+      "updated_at": "2026-06-14T22:09:28.662893+02:00"
     },
     "451": {
       "api_player_key": 451,

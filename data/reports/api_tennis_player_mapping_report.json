@@ -1,131 +1,19 @@
 {
-  "generated_at": "2026-06-14T18:59:01.642189+02:00",
+  "generated_at": "2026-06-14T22:09:28.662935+02:00",
   "summary": {
-    "api_players_today": 28,
-    "ratings_players": 4905,
+    "api_players_today": 10,
+    "ratings_players": 4935,
     "mapping_records_total": 1239,
-    "mapping_records_changed": 3,
-    "existing_confirmed": 25,
-    "unmatched": 3
+    "mapping_records_changed": 1,
+    "existing_confirmed": 9,
+    "unmatched": 1
   },
   "status_counts_today": {
-    "confirmed": 25,
-    "unmatched": 3
+    "confirmed": 9,
+    "unmatched": 1
   },
   "manual_review": [],
   "unmatched": [
-    {
-      "api_player_key": 88816,
-      "api_name": "J. Sadzik",
-      "gender": "men",
-      "status": "unmatched",
-      "method": "no_safe_match",
-      "confidence": 0.6919,
-      "elo_player_name": null,
-      "elo_player_key": null,
-      "candidates": [
-        {
-          "elo_player_name": "Sibai J.",
-          "elo_player_key": "sibai j",
-          "matches_total": 1,
-          "gender": "unknown",
-          "score": 0.6919,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Sibai J.",
-          "elo_player_key": "sibai j",
-          "matches_total": 1,
-          "gender": "unknown",
-          "score": 0.6919,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Mensik J.",
-          "elo_player_key": "mensik j",
-          "matches_total": 24,
-          "gender": "unknown",
-          "score": 0.6514,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Mensik J.",
-          "elo_player_key": "mensik j",
-          "matches_total": 24,
-          "gender": "unknown",
-          "score": 0.6514,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Vasami J.",
-          "elo_player_key": "vasami j",
-          "matches_total": 14,
-          "gender": "unknown",
-          "score": 0.6514,
-          "method": "fuzzy"
-        }
-      ],
-      "last_seen_event_key": 12136595,
-      "last_seen_tournament": "Poznan",
-      "last_seen_tournament_key": 2453,
-      "updated_at": "2026-06-14T18:58:59.854160+02:00"
-    },
-    {
-      "api_player_key": 103798,
-      "api_name": "J. Coudret",
-      "gender": "men",
-      "status": "unmatched",
-      "method": "no_safe_match",
-      "confidence": 0.7943,
-      "elo_player_name": null,
-      "elo_player_key": null,
-      "candidates": [
-        {
-          "elo_player_name": "Corse J.",
-          "elo_player_key": "corse j",
-          "matches_total": 1,
-          "gender": "unknown",
-          "score": 0.7943,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Corse J.",
-          "elo_player_key": "corse j",
-          "matches_total": 1,
-          "gender": "unknown",
-          "score": 0.7943,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Choe J.",
-          "elo_player_key": "choe j",
-          "matches_total": 1,
-          "gender": "unknown",
-          "score": 0.6919,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Choe J.",
-          "elo_player_key": "choe j",
-          "matches_total": 1,
-          "gender": "unknown",
-          "score": 0.6919,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Forejtek J.",
-          "elo_player_key": "forejtek j",
-          "matches_total": 24,
-          "gender": "unknown",
-          "score": 0.6765,
-          "method": "fuzzy"
-        }
-      ],
-      "last_seen_event_key": 12136600,
-      "last_seen_tournament": "Royan",
-      "last_seen_tournament_key": 12632,
-      "updated_at": "2026-06-14T18:59:00.784669+02:00"
-    },
     {
       "api_player_key": 24403,
       "api_name": "J. Borba",
@@ -180,7 +68,7 @@
       "last_seen_event_key": 12136759,
       "last_seen_tournament": "Asuncion 2 (Paraguay) - Qualification",
       "last_seen_tournament_key": 13984,
-      "updated_at": "2026-06-14T18:59:01.642129+02:00"
+      "updated_at": "2026-06-14T22:09:28.662893+02:00"
     }
   ]
 }
