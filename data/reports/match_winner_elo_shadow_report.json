@@ -1,23 +1,20 @@
 {
-  "generated_at": "2026-06-14T19:03:40.700821+02:00",
+  "generated_at": "2026-06-14T22:11:23.505465+02:00",
   "summary": {
-    "odds_matches": 14,
-    "ratings_players": 4905,
-    "evaluated_matches": 13,
-    "shadow_bets": 1,
-    "no_bets": 12,
+    "odds_matches": 5,
+    "ratings_players": 4935,
+    "evaluated_matches": 4,
+    "shadow_bets": 0,
+    "no_bets": 4,
     "ineligible_status": 1,
-    "player_2_rating_missing": 2,
-    "player_1_rating_missing": 1,
-    "no_bet": 9,
-    "player_1_insufficient_history": 4,
-    "model_probability_below_threshold": 8,
-    "shadow_bet": 1,
-    "player_2_insufficient_history": 5,
-    "odds_above_threshold": 2,
+    "no_bet": 3,
+    "model_probability_below_threshold": 2,
     "probability_edge_below_threshold": 1,
     "ev_below_threshold": 1,
-    "odds_below_threshold": 1
+    "odds_below_threshold": 1,
+    "player_2_rating_missing": 1,
+    "player_1_insufficient_history": 1,
+    "player_2_insufficient_history": 1
   },
   "settings": {
     "min_player_matches": 10,
@@ -30,89 +27,5 @@
     "surface_weight": 0.4,
     "surface_confidence_matches": 20
   },
-  "top_shadow_picks": [
-    {
-      "pick_id": "12136728|match_winner|player_1",
-      "event_key": 12136728,
-      "date": "2026-06-14",
-      "time": "20:00",
-      "match": "K. Kawa - L. Bronzetti",
-      "player_1": "K. Kawa",
-      "player_2": "L. Bronzetti",
-      "tournament": "Modena (Italy) - Qualification",
-      "tournament_key": 13956,
-      "round": "Modena - Final",
-      "gender": "women",
-      "tour_level": "challenger",
-      "surface": "clay",
-      "market": "match_winner",
-      "pick_side": "player_1",
-      "pick_player": "K. Kawa",
-      "odds": 2.1,
-      "bookmaker": "Unibet",
-      "median_odds": 2.02,
-      "bookmakers_count": 11,
-      "model_probability": 0.569265,
-      "bookmaker_probability": 0.461333,
-      "probability_edge": 0.107932,
-      "fair_odds": 1.757,
-      "ev": 0.195456,
-      "decision": "SHADOW_BET",
-      "confidence": "high",
-      "reasons": [],
-      "player_1_market": {
-        "pick_side": "player_1",
-        "pick_player": "K. Kawa",
-        "odds": 2.1,
-        "bookmaker": "Unibet",
-        "median_odds": 2.02,
-        "bookmakers_count": 11,
-        "model_probability": 0.569265,
-        "bookmaker_probability": 0.461333,
-        "probability_edge": 0.107932,
-        "fair_odds": 1.757,
-        "ev": 0.195456,
-        "reasons": []
-      },
-      "player_2_market": {
-        "pick_side": "player_2",
-        "pick_player": "L. Bronzetti",
-        "odds": 1.82,
-        "bookmaker": "Pncl",
-        "median_odds": 1.73,
-        "bookmakers_count": 11,
-        "model_probability": 0.430735,
-        "bookmaker_probability": 0.538667,
-        "probability_edge": -0.107932,
-        "fair_odds": 2.322,
-        "ev": -0.216062,
-        "reasons": [
-          "model_probability_below_threshold",
-          "probability_edge_below_threshold",
-          "ev_below_threshold"
-        ]
-      },
-      "rating_matches": {
-        "player_1_status": "matched",
-        "player_1_rating_name": "Kawa K.",
-        "player_1_matches": 130,
-        "player_2_status": "matched",
-        "player_2_rating_name": "Bronzetti L.",
-        "player_2_matches": 128
-      },
-      "elo_details": {
-        "player_1_overall_elo": 1587.474,
-        "player_2_overall_elo": 1547.624,
-        "player_1_surface_elo": 1613.216,
-        "player_2_surface_elo": 1551.772,
-        "player_1_surface_matches": 50,
-        "player_2_surface_matches": 56,
-        "overall_p1_probability": 0.557099,
-        "surface_p1_probability": 0.587515,
-        "blended_p1_probability": 0.569265,
-        "effective_overall_weight": 0.6,
-        "effective_surface_weight": 0.4
-      }
-    }
-  ]
+  "top_shadow_picks": []
 }
