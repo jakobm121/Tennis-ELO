@@ -6,10 +6,10 @@
     "enriched_api_results": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/tle/source/api/tle_api_results_backfill_enriched.json"
   },
   "summary": {
-    "api_players": 2183,
+    "api_players": 2188,
     "sackmann_players": 11993,
     "mapping_statuses": {
-      "matched": 1996,
+      "matched": 2001,
       "review": 116,
       "unmatched": 71
     },
@@ -18,7 +18,7 @@
       "review": 285,
       "unmatched": 132
     },
-    "matched_players": 1996,
+    "matched_players": 2001,
     "unresolved_players": 187
   },
   "players": {
@@ -35336,6 +35336,86 @@
       "needs_review": false,
       "audit_source_event_key": "12136642",
       "audit_source_generated_at": "2026-06-15T05:17:19+00:00"
+    },
+    "11480": {
+      "api_player_key": 11480,
+      "api_name": "Z. Kardava",
+      "gender": "women",
+      "matches_seen": 0,
+      "levels": {},
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "confidence": 1.0,
+      "sackmann_player_id": 216180,
+      "sackmann_player_key": "women:sackmann:216180",
+      "sackmann_name": "Zoziya Kardava",
+      "needs_review": false,
+      "audit_source_event_key": "12136941",
+      "audit_source_generated_at": "2026-06-15T12:54:16+00:00"
+    },
+    "19429": {
+      "api_player_key": 19429,
+      "api_name": "S. Rutlauka",
+      "gender": "women",
+      "matches_seen": 0,
+      "levels": {},
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "confidence": 1.0,
+      "sackmann_player_id": 223404,
+      "sackmann_player_key": "women:sackmann:223404",
+      "sackmann_name": "Sabine Rutlauka",
+      "needs_review": false,
+      "audit_source_event_key": "12136944",
+      "audit_source_generated_at": "2026-06-15T12:54:16+00:00"
+    },
+    "39129": {
+      "api_player_key": 39129,
+      "api_name": "B. Thompson",
+      "gender": "women",
+      "matches_seen": 0,
+      "levels": {},
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "confidence": 1.0,
+      "sackmann_player_id": 259858,
+      "sackmann_player_key": "women:sackmann:259858",
+      "sackmann_name": "Belle Thompson",
+      "needs_review": false,
+      "audit_source_event_key": "12136943",
+      "audit_source_generated_at": "2026-06-15T12:54:16+00:00"
+    },
+    "69611": {
+      "api_player_key": 69611,
+      "api_name": "F. Gonzalez Benitez",
+      "gender": "men",
+      "matches_seen": 0,
+      "levels": {},
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "confidence": 1.0,
+      "sackmann_player_id": 213568,
+      "sackmann_player_key": "men:sackmann:213568",
+      "sackmann_name": "Federico Gaston Gonzalez Benitez",
+      "needs_review": false,
+      "audit_source_event_key": "12136896",
+      "audit_source_generated_at": "2026-06-15T12:54:16+00:00"
+    },
+    "96534": {
+      "api_player_key": 96534,
+      "api_name": "S. Massellani",
+      "gender": "men",
+      "matches_seen": 0,
+      "levels": {},
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "confidence": 1.0,
+      "sackmann_player_id": 214436,
+      "sackmann_player_key": "men:sackmann:214436",
+      "sackmann_name": "Simone Massellani",
+      "needs_review": false,
+      "audit_source_event_key": "12136933",
+      "audit_source_generated_at": "2026-06-15T12:54:16+00:00"
     }
   },
   "repair_history": [
@@ -35465,6 +35545,24 @@
       "already_ok": 13,
       "conflicts": 0,
       "needs_manual_review": 6,
+      "skipped": 0
+    },
+    {
+      "updated_at": "2026-06-15T16:46:54Z",
+      "audit_generated_at": "2026-06-15T12:54:16+00:00",
+      "auto_methods": [
+        "audit_unmapped_sackmann_lookup",
+        "unique_surname_initial"
+      ],
+      "apply_mode": true,
+      "manual_overrides": 18,
+      "manual_added": 0,
+      "manual_already_ok": 18,
+      "manual_conflicts": 0,
+      "auto_added": 5,
+      "already_ok": 0,
+      "conflicts": 0,
+      "needs_manual_review": 4,
       "skipped": 0
     }
   ]
