@@ -1,18 +1,18 @@
 # TLE Player Mapping Quality Audit
 
-Generated: `2026-06-15T06:06:53+00:00`
+Generated: `2026-06-15T06:42:55+00:00`
 
 ## Summary
 
-- generated_at: `2026-06-15T06:06:53+00:00`
+- generated_at: `2026-06-15T06:42:55+00:00`
 - mapping_file: `/home/runner/work/Tennis-ELO/Tennis-ELO/data/tle/mappings/api_player_to_sackmann.json`
 - canonical_manifest: `/home/runner/work/Tennis-ELO/Tennis-ELO/data/tle/processed/canonical/tle_matches_manifest.json`
-- mapping_summary: `{"api_players": 2183, "sackmann_players": 11993, "mapping_statuses": {"matched": 1978, "review": 134, "unmatched": 71}, "matches_by_status": {"matched": 4543, "review": 338, "unmatched": 132}, "matched_players": 1978, "unresolved_players": 205}`
-- canonical_players_seen: `12084`
+- mapping_summary: `{"api_players": 2183, "sackmann_players": 11993, "mapping_statuses": {"matched": 1996, "review": 116, "unmatched": 71}, "matches_by_status": {"matched": 4596, "review": 285, "unmatched": 132}, "matched_players": 1996, "unresolved_players": 187}`
+- canonical_players_seen: `12069`
 - api_source_players_seen: `1357`
-- api_only_canonical_players: `126`
-- warnings: `{"SURNAME_MISMATCH": 6, "FIRST_INITIAL_MISMATCH": 6, "UNRESOLVED_MAPPING": 205}`
-- unresolved_rows: `205`
+- api_only_canonical_players: `111`
+- warnings: `{"SURNAME_MISMATCH": 6, "FIRST_INITIAL_MISMATCH": 6, "UNRESOLVED_MAPPING": 187}`
+- unresolved_rows: `187`
 - duplicate_api_only_rows: `0`
 - mapped_no_history_rows: `0`
 - suspicious_rows: `6`
@@ -30,7 +30,6 @@ Generated: `2026-06-15T06:06:53+00:00`
 | 1418 | A. Rey Garcia | women | review | ambiguous | 1 | women:sackmann:210622 Andrea Lazaro Garcia (190); women:sackmann:221454 Alba Rey Garcia (139); women:sackmann:269803 Africa Guzman Garcia (5); women:sackmann:220163 Ares Teixido Garcia (2); women:api:1418 A. Rey Garcia (1); women:api:1117 A. Lazaro Garcia (1) | UNRESOLVED_MAPPING |
 | 10296 | D. J. Kim | men | review | ambiguous | 1 | men:sackmann:207456 Dong Ju Kim (45); men:sackmann:212974 Dongmin Kim (3); men:sackmann:212613 Diego Quispe Kim (2); men:api:10296 D. J. Kim (1); men:sackmann:211556 Dae Han Kim (1); men:sackmann:214605 Dongjae Kim (1) | UNRESOLVED_MAPPING |
 | 26931 | E. Lee | women | review | ambiguous | 1 | women:sackmann:215501 Eunhye Lee (182); women:sackmann:221269 Eunji Lee (51); women:sackmann:222546 Eun Ji Lee (39); women:sackmann:260127 Eun Bi Lee (6); women:api:26931 E. Lee (1); women:sackmann:270183 Erin Lee (1) | UNRESOLVED_MAPPING |
-| 2394 | L. Fernandez | women | review | ambiguous | 1 | women:sackmann:220367 Leylah Fernandez (203); women:sackmann:259749 Lya Fernandez (39); women:sackmann:243421 Luna Dinoto Fernandez (19); women:sackmann:248660 Lya Fernandez (3); women:api:2394 L. Fernandez (1); women:sackmann:269848 Lucia Fernandez Trabadelo Fernandez (1) | UNRESOLVED_MAPPING |
 | 16111 | A. Teixido Garcia | women | review | ambiguous |  | women:sackmann:210622 Andrea Lazaro Garcia (190); women:sackmann:221454 Alba Rey Garcia (139); women:sackmann:269803 Africa Guzman Garcia (5); women:sackmann:220163 Ares Teixido Garcia (2); women:api:1418 A. Rey Garcia (1); women:api:1117 A. Lazaro Garcia (1) | UNRESOLVED_MAPPING |
 | 22522 | A. Teixido Garcia | women | review | ambiguous |  | women:sackmann:210622 Andrea Lazaro Garcia (190); women:sackmann:221454 Alba Rey Garcia (139); women:sackmann:269803 Africa Guzman Garcia (5); women:sackmann:220163 Ares Teixido Garcia (2); women:api:1418 A. Rey Garcia (1); women:api:1117 A. Lazaro Garcia (1) | UNRESOLVED_MAPPING |
 | 3132 | D. Kim | men | review | ambiguous |  | men:sackmann:207456 Dong Ju Kim (45); men:sackmann:212974 Dongmin Kim (3); men:sackmann:212613 Diego Quispe Kim (2); men:sackmann:211556 Dae Han Kim (1); men:sackmann:214605 Dongjae Kim (1); men:api:10296 D. J. Kim (1) | UNRESOLVED_MAPPING |
@@ -48,14 +47,10 @@ Generated: `2026-06-15T06:06:53+00:00`
 | 9221 | J. A. Rodriguez | men | review | ambiguous | 2 | men:sackmann:208909 Johan Alexander Rodriguez Rodriguez (103); men:api:9221 J. A. Rodriguez (2); men:sackmann:213968 Juan Jose Neira Rodriguez (2); men:sackmann:212560 Jorge Andres Rodriguez (1) | UNRESOLVED_MAPPING |
 | 90131 | K. Kang | men | review | ambiguous | 2 | men:sackmann:210320 Kyle Kang (89); men:sackmann:111580 Ku Keon Kang (8); men:sackmann:214011 Kaigaoge Kang (6); men:api:90131 K. Kang (2) | UNRESOLVED_MAPPING |
 | 58963 | A. Civera Martinez | men | review | ambiguous | 1 | men:sackmann:208025 Alex Martinez (123); men:sackmann:211534 Asier Civera Martinez (3); men:api:7101 A. Martinez (2); men:api:58963 A. Civera Martinez (1) | UNRESOLVED_MAPPING |
-| 159 | A. Fita Boluda | women | review | ambiguous | 1 | women:sackmann:214236 Angela Fita Boluda (227); women:sackmann:269270 Alba Maria Coromina Boluda (7); women:api:159 A. Fita Boluda (1); women:api:90841 A. M. Coromina Boluda (1) | UNRESOLVED_MAPPING |
-| 90841 | A. M. Coromina Boluda | women | review | ambiguous | 1 | women:sackmann:214236 Angela Fita Boluda (227); women:sackmann:269270 Alba Maria Coromina Boluda (7); women:api:90841 A. M. Coromina Boluda (1); women:api:159 A. Fita Boluda (1) | UNRESOLVED_MAPPING |
 | 55157 | B. Black | women | review | ambiguous | 1 | women:sackmann:266682 Brooke Black (40); women:sackmann:265657 Brooke Black (5); women:sackmann:259607 Brooke Black (2); women:api:55157 B. Black (1) | UNRESOLVED_MAPPING |
 | 73111 | C. Rodero | women | review | ambiguous | 1 | women:sackmann:266658 Camila Rodero (28); women:sackmann:264198 Camila Rodero (5); women:sackmann:265632 Camila Rodero (2); women:api:73111 C. Rodero (1) | UNRESOLVED_MAPPING |
-| 2227 | C. Wong | men | review | ambiguous | 1 | men:sackmann:209409 Coleman Wong (249); men:api:2227 C. Wong (1); men:sackmann:208597 Chak Lam Coleman Wong (1); men:sackmann:124022 Chun Hun Wong (1) | UNRESOLVED_MAPPING |
 | 57378 | Y. C. Chen | men | review | ambiguous | 1 | men:sackmann:212460 Yan Cheng Chen (27); men:sackmann:214029 Ye Chen (8); men:api:57378 Y. C. Chen (1); men:sackmann:206686 Ying Ze Chen (1) | UNRESOLVED_MAPPING |
 | 1270 | H. Liu | men | review | ambiguous | 6 | men:sackmann:207343 Hanyi Liu (100); men:api:1270 H. Liu (6); men:sackmann:214559 Hanlin Liu (2) | UNRESOLVED_MAPPING |
-| 13411 | A. Zolotareva | women | review | ambiguous | 5 | women:sackmann:221209 Anastasia Zolotareva (171); women:api:13411 A. Zolotareva (5); women:sackmann:214285 Alina Zolotareva (1) | UNRESOLVED_MAPPING |
 | 78136 | M. Souza | women | review | ambiguous | 5 | women:sackmann:260455 Marjorie Souza (22); women:sackmann:259937 Maria Mauad De Souza (16); women:api:78136 M. Souza (5) | UNRESOLVED_MAPPING |
 | 22529 | C. Romero | women | review | ambiguous | 4 | women:sackmann:214713 Camila Romero (152); women:api:22529 C. Romero (4); women:sackmann:270303 Carlota Garibay Romero (1) | UNRESOLVED_MAPPING |
 | 50792 | R. Goto | women | review | ambiguous | 4 | women:sackmann:260737 Reina Goto (58); women:api:50792 R. Goto (4); women:sackmann:270536 Riho Goto (1) | UNRESOLVED_MAPPING |
@@ -70,7 +65,6 @@ Generated: `2026-06-15T06:06:53+00:00`
 | 70676 | G. Nemcsek | women | review | ambiguous | 2 | women:sackmann:267407 Greta Nemcsek (4); women:api:70676 G. Nemcsek (2); women:sackmann:267257 Greta Nemcsek (1) | UNRESOLVED_MAPPING |
 | 2120 | J. Konishi Silva | women | review | ambiguous | 2 | women:sackmann:220578 Julia Konishi Camargo Silva (137); women:sackmann:214771 Johanna Silva (84); women:api:2120 J. Konishi Silva (2) | UNRESOLVED_MAPPING |
 | 51003 | K. Mrazikova | women | review | ambiguous | 2 | women:sackmann:233725 Karolina Mrazikova (74); women:sackmann:254751 Kristina Mrazikova (9); women:api:51003 K. Mrazikova (2) | UNRESOLVED_MAPPING |
-| 186 | K. Scott | women | review | ambiguous | 2 | women:sackmann:221512 Katrina Scott (136); women:sackmann:260422 Kirra Bond Scott (14); women:api:186 K. Scott (2) | UNRESOLVED_MAPPING |
 | 53951 | L. Ma | women | review | ambiguous | 2 | women:sackmann:221220 Lea Ma (150); women:api:53951 L. Ma (2); women:sackmann:216019 Lin Ma (1) | UNRESOLVED_MAPPING |
 | 451 | L. Zhu | women | review | ambiguous | 2 | women:sackmann:202684 Lin Zhu (139); women:api:451 L. Zhu (2); women:sackmann:270477 Lingling Zhu (2) | UNRESOLVED_MAPPING |
 | 15921 | M. Gonzalez Fernandez | men | review | ambiguous | 2 | men:sackmann:208605 Mario Gonzalez Fernandez (184); men:sackmann:213535 Mario Arce Fernandez (7); men:api:15921 M. Gonzalez Fernandez (2) | UNRESOLVED_MAPPING |
@@ -79,41 +73,32 @@ Generated: `2026-06-15T06:06:53+00:00`
 | 14315 | T. Duran | men | review | ambiguous | 2 | men:sackmann:210513 Tuncay Duran (97); men:sackmann:214544 Tugra Duran (3); men:api:14315 T. Duran (2) | UNRESOLVED_MAPPING |
 | 37886 | T. Rakotomanga Rajaonah | women | review | ambiguous | 2 | women:sackmann:266531 Tiantsoa Sarah Rakotomanga Rajaonah (116); women:sackmann:239456 Tiantsoa Sarah Rakotomanga Rajaonah (65); women:api:37886 T. Rakotomanga Rajaonah (2) | UNRESOLVED_MAPPING |
 | 84070 | A. Adeikyte | women | review | ambiguous | 1 | women:sackmann:267773 Anastasija Adeikyte (4); women:sackmann:263655 Anastasija Adeikyte (2); women:api:84070 A. Adeikyte (1) | UNRESOLVED_MAPPING |
-| 14547 | A. Korneeva | women | review | ambiguous | 1 | women:sackmann:252499 Alina Korneeva (136); women:sackmann:269758 Alexandra Korneeva (2); women:api:14547 A. Korneeva (1) | UNRESOLVED_MAPPING |
-| 196 | A. Krueger | women | review | ambiguous | 1 | women:sackmann:221909 Ashlyn Krueger (199); women:api:196 A. Krueger (1); women:sackmann:267497 Amanda Schulz Krueger (1) | UNRESOLVED_MAPPING |
+| 90841 | A. M. Coromina Boluda | women | review | ambiguous | 1 | women:sackmann:214236 Angela Fita Boluda (228); women:sackmann:269270 Alba Maria Coromina Boluda (7); women:api:90841 A. M. Coromina Boluda (1) | UNRESOLVED_MAPPING |
 | 19802 | A. Salazar | men | review | ambiguous | 1 | men:sackmann:208365 Amador Salazar (40); men:sackmann:213651 Agustin Salazar Salazar (5); men:api:19802 A. Salazar (1) | UNRESOLVED_MAPPING |
 | 37980 | A. Sau Franco | men | review | ambiguous | 1 | men:sackmann:200253 Alejandro Hoyos Franco (49); men:sackmann:206827 Alan Sau Franco (28); men:api:37980 A. Sau Franco (1) | UNRESOLVED_MAPPING |
 | 17346 | A. Smith | women | review | ambiguous | 1 | women:sackmann:220673 Alana Smith (135); women:sackmann:215440 Alicia Smith (84); women:api:17346 A. Smith (1) | UNRESOLVED_MAPPING |
-| 1122 | A. Tikhonova | women | review | ambiguous | 1 | women:sackmann:221073 Anastasia Tikhonova (186); women:sackmann:270431 Alina Tikhonova (13); women:api:1122 A. Tikhonova (1) | UNRESOLVED_MAPPING |
 | 33851 | Cam. Markus | women | review | ambiguous | 1 | women:sackmann:236967 Carla Markus (135); women:sackmann:270194 Camila Markus (12); women:api:33851 Cam. Markus (1) | UNRESOLVED_MAPPING |
 | 1314 | D. Blanch | men | review | ambiguous | 1 | men:sackmann:209898 Dali Blanch (212); men:sackmann:210464 Darwin Blanch (133); men:api:1314 D. Blanch (1) | UNRESOLVED_MAPPING |
-| 567 | E. Nava | men | review | ambiguous | 1 | men:sackmann:207182 Emilio Nava (254); men:sackmann:124013 Eduardo Nava (4); men:api:567 E. Nava (1) | UNRESOLVED_MAPPING |
 | 79817 | F. Vazquez | men | review | ambiguous | 1 | men:sackmann:212869 Franco Ariel Vazquez (7); men:sackmann:213746 Felipe Vazquez (3); men:api:79817 F. Vazquez (1) | UNRESOLVED_MAPPING |
 | 32808 | G. Jang | women | review | ambiguous | 1 | women:sackmann:260638 Gaeul Jang (81); women:sackmann:239428 Gio Jang (44); women:api:32808 G. Jang (1) | UNRESOLVED_MAPPING |
 | 90843 | G. Pinheiro da Cruz Junior | men | review | ambiguous | 1 | men:sackmann:202181 Gilbert Soares Klier Junior (82); men:sackmann:213415 Glauco Pinheiro Da Cruz Junior (9); men:api:90843 G. Pinheiro da Cruz Junior (1) | UNRESOLVED_MAPPING |
-| 3135 | H. Chung | men | review | ambiguous | 1 | men:sackmann:111202 Hyeon Chung (100); men:sackmann:106184 Hong Chung (7); men:api:3135 H. Chung (1) | UNRESOLVED_MAPPING |
 | 39077 | H. Sato | women | review | ambiguous | 1 | women:sackmann:221141 Hikaru Sato (173); women:sackmann:216156 Himari Sato (76); women:api:39077 H. Sato (1) | UNRESOLVED_MAPPING |
 | 54092 | I. T. Sava | women | review | ambiguous | 1 | women:sackmann:266532 Ioana Teodora Sava (63); women:sackmann:260526 Ioana Teodora Sava (13); women:api:54092 I. T. Sava (1) | UNRESOLVED_MAPPING |
 | 38832 | J. Aguilar Cardozo | men | review | ambiguous | 1 | men:sackmann:212051 Joaquin Aguilar Cardozo (105); men:sackmann:149099 Joaquin Aguilar Cardozo (8); men:api:38832 J. Aguilar Cardozo (1) | UNRESOLVED_MAPPING |
 | 9193 | J. K. Trotter | men | review | ambiguous | 1 | men:sackmann:208389 James Trotter (156); men:sackmann:208801 James Kent Trotter (9); men:api:9193 J. K. Trotter (1) | UNRESOLVED_MAPPING |
 | 902 | J. Mensik | men | review | ambiguous | 1 | men:sackmann:210150 Jakub Mensik (201); men:sackmann:210084 Jakub Mensik (11); men:api:902 J. Mensik (1) | UNRESOLVED_MAPPING |
 | 23191 | K. Suzuki | men | review | ambiguous | 1 | men:sackmann:120545 Ko Suzuki (34); men:api:23191 K. Suzuki (1); men:sackmann:213787 Katsutoshi Suzuki (1) | UNRESOLVED_MAPPING |
-| 68376 | L. Samsonova | women | review | ambiguous | 1 | women:sackmann:214643 Liudmila Samsonova (177); women:api:68376 L. Samsonova (1); women:sackmann:264959 Laura Samsonova (1) | UNRESOLVED_MAPPING |
-| 1815 | L. Sun | women | review | ambiguous | 1 | women:sackmann:215138 Lulu Sun (181); women:sackmann:264093 Liang Sun (11); women:api:1815 L. Sun (1) | UNRESOLVED_MAPPING |
 | 11584 | N. Sato | women | review | ambiguous | 1 | women:sackmann:220997 Naho Sato (194); women:sackmann:260782 Nanaka Sato (2); women:api:11584 N. Sato (1) | UNRESOLVED_MAPPING |
-| 10508 | P. A. Saraiva Dos Santos | men | review | ambiguous | 1 | men:sackmann:208063 Paulo Andre Saraiva Dos Santos (174); men:sackmann:212876 Pedro Andre De Almeida Santos (10); men:api:10508 P. A. Saraiva Dos Santos (1) | UNRESOLVED_MAPPING |
 | 13087 | P. Marino | men | review | ambiguous | 1 | men:sackmann:209233 Pietro Marino (126); men:api:13087 P. Marino (1); men:sackmann:214256 Paolo Gabriele Marino (1) | UNRESOLVED_MAPPING |
 | 8649 | P. O. Fellin | men | review | ambiguous | 1 | men:sackmann:209165 Pietro Orlando Fellin (84); men:sackmann:209264 Pietro Fellin (34); men:api:8649 P. O. Fellin (1) | UNRESOLVED_MAPPING |
 | 89210 | R. Yoshida | women | review | ambiguous | 1 | women:api:89210 R. Yoshida (1); women:sackmann:267680 Riyo Yoshida (1); women:sackmann:269880 Rena Yoshida (1) | UNRESOLVED_MAPPING |
 | 38317 | S. Ivanov | men | review | ambiguous | 1 | men:sackmann:211676 Saveliy Ivanov (119); men:sackmann:200207 Simon Anthony Ivanov (68); men:api:38317 S. Ivanov (1) | UNRESOLVED_MAPPING |
 | 2851 | S. Johnson | men | review | ambiguous | 1 | men:sackmann:105449 Steve Johnson (45); men:sackmann:212958 Spencer Johnson (36); men:api:2851 S. Johnson (1) | UNRESOLVED_MAPPING |
 | 840 | S. Popovic | men | review | ambiguous | 1 | men:sackmann:209251 Stefan Popovic (226); men:sackmann:209877 Stevan Popovic (16); men:api:840 S. Popovic (1) | UNRESOLVED_MAPPING |
-| 9037 | T. Boyer | men | review | ambiguous | 1 | men:sackmann:207729 Tristan Boyer (189); men:sackmann:208142 Toby D Boyer (58); men:api:9037 T. Boyer (1) | UNRESOLVED_MAPPING |
 | 61033 | T. Trufelli | men | review | ambiguous | 1 | men:sackmann:212770 Timeo Trufelli (22); men:api:61033 T. Trufelli (1); men:sackmann:212547 Timeo Trufelli (1) | UNRESOLVED_MAPPING |
 | 5722 | W. Zheng | women | review | ambiguous | 1 | women:sackmann:213821 Wushuang Zheng (154); women:sackmann:221389 Wei Zheng (70); women:api:5722 W. Zheng (1) | UNRESOLVED_MAPPING |
 | 56741 | X. Yang | men | review | ambiguous | 1 | men:sackmann:212466 Xiaoyin Yang (24); men:api:56741 X. Yang (1); men:sackmann:149162 Xiaoyin Yang (1) | UNRESOLVED_MAPPING |
 | 10334 | Y. Mochizuki | men | review | ambiguous | 1 | men:sackmann:200661 Yuki Mochizuki (136); men:sackmann:211460 Yuki Mochizuki (37); men:api:10334 Y. Mochizuki (1) | UNRESOLVED_MAPPING |
-| 590 | Z. Zhang | men | review | ambiguous | 1 | men:sackmann:111190 Zhizhen Zhang (155); men:sackmann:214492 Zurui Zhang (2); men:api:590 Z. Zhang (1) | UNRESOLVED_MAPPING |
 | 90116 | A. Aiukhanov | men | review | ambiguous |  | men:sackmann:213849 Artur Aiukhanov (3); men:sackmann:214590 Alan Aiukhanov (3); men:api:83228 A. Aiukhanov (2) | UNRESOLVED_MAPPING |
 | 57479 | E. Camargo Lima | men | review | ambiguous |  | men:sackmann:211478 Enzo Lima (44); men:sackmann:212295 Enzo Camargo Lima (18); men:sackmann:212457 Eduardo Lima (4) | UNRESOLVED_MAPPING |
 | 69090 | J. D. Silva | men | review | ambiguous |  | men:sackmann:206307 Joao Lucas Reis Da Silva (214); men:sackmann:212947 Joao Dinis Silva (18); men:sackmann:133197 Joao Silva (6) | UNRESOLVED_MAPPING |
@@ -125,7 +110,6 @@ Generated: `2026-06-15T06:06:53+00:00`
 | 52653 | A. Nguyen | women | review | ambiguous |  | women:sackmann:260787 Alexis Nguyen (73); women:sackmann:269715 Avery Nguyen (8) | UNRESOLVED_MAPPING |
 | 53136 | B. Fernandez | men | review | ambiguous |  | men:sackmann:210218 Bruno Fernandez (84); men:sackmann:210301 Benjamin Ignacio Torres Fernandez (45) | UNRESOLVED_MAPPING |
 | 662 | B. Kuzuhara | men | review | ambiguous |  | men:sackmann:210044 Bruno Kuzuhara (207); men:sackmann:210029 Bruno Kuzuhara (14) | UNRESOLVED_MAPPING |
-| 2838 | B. Nakashima | men | review | ambiguous |  | men:sackmann:206909 Brandon Nakashima (225); men:sackmann:210416 Bryce Nakashima (26) | UNRESOLVED_MAPPING |
 | 82135 | B. O'Connell | men | review | ambiguous |  | men:sackmann:213206 Benjamin O'Connell (37); men:sackmann:206736 Benjamin O'Connell (1) | UNRESOLVED_MAPPING |
 | 10849 | C. H. van Schalkwyk | men | review | ambiguous |  | men:sackmann:210227 Connor Henry Van Schalkwyk (11); men:sackmann:213358 Codie Schalk Van Schalkwyk (3) | UNRESOLVED_MAPPING |
 | 54466 | C. Smith | men | review | ambiguous |  | men:sackmann:212256 Colton Smith (121); men:sackmann:207970 Colter Smith (1) | UNRESOLVED_MAPPING |
@@ -142,8 +126,6 @@ Generated: `2026-06-15T06:06:53+00:00`
 | 11182 | M. Efstathiou | men | review | ambiguous |  | men:sackmann:213713 Melios Efstathiou (72); men:sackmann:144949 Menelaos Efstathiou (43) | UNRESOLVED_MAPPING |
 | 14087 | M. Jones | men | review | ambiguous |  | men:sackmann:210382 Maximus Jones (172); men:sackmann:207404 Miles Jones (110) | UNRESOLVED_MAPPING |
 | 38070 | M. Ristic | women | review | ambiguous |  | women:sackmann:239392 Mia Ristic (179); women:sackmann:241006 Monica Santaolalla Ristic (1) | UNRESOLVED_MAPPING |
-| 12869 | M. Timofeeva | women | review | ambiguous |  | women:sackmann:221237 Maria Timofeeva (173); women:sackmann:221735 Marina Timofeeva (1) | UNRESOLVED_MAPPING |
-| 460 | M. Uchijima | women | review | ambiguous |  | women:sackmann:220416 Moyuka Uchijima (229); women:sackmann:264134 Maiko Uchijima (11) | UNRESOLVED_MAPPING |
 | 2024 | Mat. Mariani | women | review | ambiguous |  | women:sackmann:220343 Matilde Mariani (90); women:sackmann:264972 Marta Mariani (1) | UNRESOLVED_MAPPING |
 | 102950 | P. Perez Ramos | men | review | ambiguous |  | men:sackmann:133185 Pol Amoros Ramos (8); men:sackmann:214558 Pablo Perez Ramos (6) | UNRESOLVED_MAPPING |
 | 1872 | Pe. Tsitsipas | men | review | ambiguous |  | men:sackmann:210409 Pavlos Tsitsipas (88); men:sackmann:202065 Petros Tsitsipas (55) | UNRESOLVED_MAPPING |
@@ -255,7 +237,6 @@ _No rows._
 | Key | Name | Matches | Latest | Levels | Sources |
 |---|---|---|---|---|---|
 | men:api:1270 | H. Liu | 6 | 2026-06-09 | {"itf": 6} | {"api_tennis": 6} |
-| women:api:13411 | A. Zolotareva | 5 | 2026-06-07 | {"itf": 5} | {"api_tennis": 5} |
 | women:api:78136 | M. Souza | 5 | 2026-06-07 | {"itf": 5} | {"api_tennis": 5} |
 | men:api:22255 | D. Azoidis | 4 | 2026-06-07 | {"itf": 4} | {"api_tennis": 4} |
 | men:api:7078 | Ja. Delaney | 4 | 2026-06-07 | {"itf": 4} | {"api_tennis": 4} |
@@ -289,7 +270,6 @@ _No rows._
 | women:api:11487 | M. E. Reasco Gonzalez | 2 | 2026-06-05 | {"itf": 2} | {"api_tennis": 2} |
 | women:api:123 | A. S. Sanchez | 2 | 2026-06-09 | {"itf": 2} | {"api_tennis": 2} |
 | women:api:1415 | M. Herazo Gonzalez | 2 | 2026-06-04 | {"itf": 2} | {"api_tennis": 2} |
-| women:api:186 | K. Scott | 2 | 2026-06-04 | {"itf": 2} | {"api_tennis": 2} |
 | women:api:20381 | K. Diatlova | 2 | 2026-06-09 | {"itf": 2} | {"api_tennis": 2} |
 | women:api:20694 | A. Brune | 2 | 2026-06-04 | {"itf": 2} | {"api_tennis": 2} |
 | women:api:2120 | J. Konishi Silva | 2 | 2026-06-09 | {"itf": 2} | {"api_tennis": 2} |
@@ -312,25 +292,20 @@ _No rows._
 | men:api:103642 | G. Pistoia | 1 | 2026-06-09 | {"itf": 1} | {"api_tennis": 1} |
 | men:api:103669 | J. Cunha | 1 | 2026-06-09 | {"itf": 1} | {"api_tennis": 1} |
 | men:api:103670 | M. Henrique | 1 | 2026-06-09 | {"itf": 1} | {"api_tennis": 1} |
-| men:api:10508 | P. A. Saraiva Dos Santos | 1 | 2026-06-09 | {"itf": 1} | {"api_tennis": 1} |
 | men:api:13087 | P. Marino | 1 | 2026-06-09 | {"itf": 1} | {"api_tennis": 1} |
 | men:api:1314 | D. Blanch | 1 | 2026-06-09 | {"qualifying": 1} | {"api_tennis": 1} |
 | men:api:19802 | A. Salazar | 1 | 2026-06-07 | {"qualifying": 1} | {"api_tennis": 1} |
-| men:api:2227 | C. Wong | 1 | 2026-06-06 | {"qualifying": 1} | {"api_tennis": 1} |
 | men:api:23191 | K. Suzuki | 1 | 2026-06-03 | {"itf": 1} | {"api_tennis": 1} |
 | men:api:2851 | S. Johnson | 1 | 2026-06-09 | {"itf": 1} | {"api_tennis": 1} |
 | men:api:29714 | S. D'Agostino | 1 | 2026-06-04 | {"itf": 1} | {"api_tennis": 1} |
-| men:api:3135 | H. Chung | 1 | 2026-06-09 | {"itf": 1} | {"api_tennis": 1} |
 | men:api:37980 | A. Sau Franco | 1 | 2026-06-03 | {"itf": 1} | {"api_tennis": 1} |
 | men:api:38273 | W. K. Leong M. | 1 | 2026-06-09 | {"itf": 1} | {"api_tennis": 1} |
 | men:api:38317 | S. Ivanov | 1 | 2026-06-03 | {"itf": 1} | {"api_tennis": 1} |
 | men:api:38832 | J. Aguilar Cardozo | 1 | 2026-06-09 | {"qualifying": 1} | {"api_tennis": 1} |
 | men:api:55858 | D. Dedura | 1 | 2026-06-09 | {"qualifying": 1} | {"api_tennis": 1} |
-| men:api:567 | E. Nava | 1 | 2026-06-09 | {"qualifying": 1} | {"api_tennis": 1} |
 | men:api:56741 | X. Yang | 1 | 2026-06-03 | {"itf": 1} | {"api_tennis": 1} |
 | men:api:57378 | Y. C. Chen | 1 | 2026-06-03 | {"itf": 1} | {"api_tennis": 1} |
 | men:api:58963 | A. Civera Martinez | 1 | 2026-06-04 | {"itf": 1} | {"api_tennis": 1} |
-| men:api:590 | Z. Zhang | 1 | 2026-06-09 | {"qualifying": 1} | {"api_tennis": 1} |
 | men:api:61033 | T. Trufelli | 1 | 2026-06-09 | {"itf": 1} | {"api_tennis": 1} |
 | men:api:76298 | B. Seleznev | 1 | 2026-06-03 | {"itf": 1} | {"api_tennis": 1} |
 | men:api:79642 | F. Zakaria | 1 | 2026-06-07 | {"qualifying": 1} | {"api_tennis": 1} |
@@ -338,7 +313,6 @@ _No rows._
 | men:api:840 | S. Popovic | 1 | 2026-06-03 | {"itf": 1} | {"api_tennis": 1} |
 | men:api:8649 | P. O. Fellin | 1 | 2026-06-09 | {"itf": 1} | {"api_tennis": 1} |
 | men:api:902 | J. Mensik | 1 | 2026-06-05 | {"atp_wta": 1} | {"api_tennis": 1} |
-| men:api:9037 | T. Boyer | 1 | 2026-06-09 | {"qualifying": 1} | {"api_tennis": 1} |
 | men:api:90843 | G. Pinheiro da Cruz Junior | 1 | 2026-06-03 | {"itf": 1} | {"api_tennis": 1} |
 | men:api:9193 | J. K. Trotter | 1 | 2026-06-09 | {"itf": 1} | {"api_tennis": 1} |
 | men:api:9229 | V. C. Loureiro J. | 1 | 2026-06-03 | {"itf": 1} | {"api_tennis": 1} |
@@ -347,18 +321,12 @@ _No rows._
 | women:api:1023 | Y. Y. Yang | 1 | 2026-06-03 | {"itf": 1} | {"api_tennis": 1} |
 | women:api:1030 | V. Bokova | 1 | 2026-06-04 | {"itf": 1} | {"api_tennis": 1} |
 | women:api:1117 | A. Lazaro Garcia | 1 | 2026-06-09 | {"qualifying": 1} | {"api_tennis": 1} |
-| women:api:1122 | A. Tikhonova | 1 | 2026-06-04 | {"itf": 1} | {"api_tennis": 1} |
 | women:api:1151 | G. Ruse | 1 | 2026-06-09 | {"qualifying": 1} | {"api_tennis": 1} |
 | women:api:11584 | N. Sato | 1 | 2026-06-09 | {"itf": 1} | {"api_tennis": 1} |
 | women:api:135 | M. Bassols | 1 | 2026-06-09 | {"qualifying": 1} | {"api_tennis": 1} |
 | women:api:1418 | A. Rey Garcia | 1 | 2026-06-04 | {"itf": 1} | {"api_tennis": 1} |
-| women:api:14547 | A. Korneeva | 1 | 2026-06-09 | {"qualifying": 1} | {"api_tennis": 1} |
-| women:api:159 | A. Fita Boluda | 1 | 2026-06-08 | {"qualifying": 1} | {"api_tennis": 1} |
 | women:api:17346 | A. Smith | 1 | 2026-06-03 | {"itf": 1} | {"api_tennis": 1} |
-| women:api:1815 | L. Sun | 1 | 2026-06-09 | {"qualifying": 1} | {"api_tennis": 1} |
-| women:api:196 | A. Krueger | 1 | 2026-06-09 | {"qualifying": 1} | {"api_tennis": 1} |
 | women:api:2115 | G. Parentini | 1 | 2026-06-04 | {"itf": 1} | {"api_tennis": 1} |
-| women:api:2394 | L. Fernandez | 1 | 2026-06-09 | {"qualifying": 1} | {"api_tennis": 1} |
 | women:api:2566 | C. Wong Hong Yi | 1 | 2026-06-03 | {"itf": 1} | {"api_tennis": 1} |
 | women:api:26931 | E. Lee | 1 | 2026-06-09 | {"itf": 1} | {"api_tennis": 1} |
 | women:api:32808 | G. Jang | 1 | 2026-06-09 | {"itf": 1} | {"api_tennis": 1} |
@@ -370,7 +338,6 @@ _No rows._
 | women:api:54092 | I. T. Sava | 1 | 2026-06-04 | {"itf": 1} | {"api_tennis": 1} |
 | women:api:55157 | B. Black | 1 | 2026-06-07 | {"qualifying": 1} | {"api_tennis": 1} |
 | women:api:5722 | W. Zheng | 1 | 2026-06-04 | {"itf": 1} | {"api_tennis": 1} |
-| women:api:68376 | L. Samsonova | 1 | 2026-06-08 | {"qualifying": 1} | {"api_tennis": 1} |
 | women:api:70752 | M. Teixido Garcia | 1 | 2026-06-03 | {"itf": 1} | {"api_tennis": 1} |
 | women:api:73111 | C. Rodero | 1 | 2026-06-04 | {"itf": 1} | {"api_tennis": 1} |
 | women:api:84070 | A. Adeikyte | 1 | 2026-06-04 | {"itf": 1} | {"api_tennis": 1} |

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "file_type": "tle_player_mapping_quality_audit",
   "summary": {
-    "generated_at": "2026-06-15T06:06:53+00:00",
+    "generated_at": "2026-06-15T06:42:55+00:00",
     "mapping_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/tle/mappings/api_player_to_sackmann.json",
     "canonical_manifest": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/tle/processed/canonical/tle_matches_manifest.json",
     "canonical_files": [
@@ -15,27 +15,27 @@
       "api_players": 2183,
       "sackmann_players": 11993,
       "mapping_statuses": {
-        "matched": 1978,
-        "review": 134,
+        "matched": 1996,
+        "review": 116,
         "unmatched": 71
       },
       "matches_by_status": {
-        "matched": 4543,
-        "review": 338,
+        "matched": 4596,
+        "review": 285,
         "unmatched": 132
       },
-      "matched_players": 1978,
-      "unresolved_players": 205
+      "matched_players": 1996,
+      "unresolved_players": 187
     },
-    "canonical_players_seen": 12084,
+    "canonical_players_seen": 12069,
     "api_source_players_seen": 1357,
-    "api_only_canonical_players": 126,
+    "api_only_canonical_players": 111,
     "warnings": {
       "SURNAME_MISMATCH": 6,
       "FIRST_INITIAL_MISMATCH": 6,
-      "UNRESOLVED_MAPPING": 205
+      "UNRESOLVED_MAPPING": 187
     },
-    "unresolved_rows": 205,
+    "unresolved_rows": 187,
     "duplicate_api_only_rows": 0,
     "mapped_no_history_rows": 0,
     "suspicious_rows": 6
@@ -318,24 +318,6 @@
       "candidates": "men:sackmann:212249 Ammar Faleh Alhogbani (43); men:sackmann:211653 Anmar Faleh Alhogbani (3)"
     },
     {
-      "api_key": "159",
-      "api_name": "A. Fita Boluda",
-      "gender": "women",
-      "status": "review",
-      "method": "ambiguous",
-      "sackmann_key": "",
-      "sackmann_name": "",
-      "canonical_matches": 0,
-      "api_only_key": "women:api:159",
-      "api_only_matches_canonical": 1,
-      "api_only_matches_api_source": 1,
-      "latest_date": "",
-      "latest_tournament": "",
-      "warnings": "UNRESOLVED_MAPPING",
-      "candidate_count": 4,
-      "candidates": "women:sackmann:214236 Angela Fita Boluda (227); women:sackmann:269270 Alba Maria Coromina Boluda (7); women:api:159 A. Fita Boluda (1); women:api:90841 A. M. Coromina Boluda (1)"
-    },
-    {
       "api_key": "7125",
       "api_name": "A. Gupta",
       "gender": "women",
@@ -372,24 +354,6 @@
       "candidates": "men:api:2188 A. Huertas Del Pino Cordova (2)"
     },
     {
-      "api_key": "14547",
-      "api_name": "A. Korneeva",
-      "gender": "women",
-      "status": "review",
-      "method": "ambiguous",
-      "sackmann_key": "",
-      "sackmann_name": "",
-      "canonical_matches": 0,
-      "api_only_key": "women:api:14547",
-      "api_only_matches_canonical": 1,
-      "api_only_matches_api_source": 1,
-      "latest_date": "",
-      "latest_tournament": "",
-      "warnings": "UNRESOLVED_MAPPING",
-      "candidate_count": 3,
-      "candidates": "women:sackmann:252499 Alina Korneeva (136); women:sackmann:269758 Alexandra Korneeva (2); women:api:14547 A. Korneeva (1)"
-    },
-    {
       "api_key": "89986",
       "api_name": "A. Kostiushkina",
       "gender": "women",
@@ -406,24 +370,6 @@
       "warnings": "UNRESOLVED_MAPPING",
       "candidate_count": 0,
       "candidates": ""
-    },
-    {
-      "api_key": "196",
-      "api_name": "A. Krueger",
-      "gender": "women",
-      "status": "review",
-      "method": "ambiguous",
-      "sackmann_key": "",
-      "sackmann_name": "",
-      "canonical_matches": 0,
-      "api_only_key": "women:api:196",
-      "api_only_matches_canonical": 1,
-      "api_only_matches_api_source": 1,
-      "latest_date": "",
-      "latest_tournament": "",
-      "warnings": "UNRESOLVED_MAPPING",
-      "candidate_count": 3,
-      "candidates": "women:sackmann:221909 Ashlyn Krueger (199); women:api:196 A. Krueger (1); women:sackmann:267497 Amanda Schulz Krueger (1)"
     },
     {
       "api_key": "93192",
@@ -512,8 +458,8 @@
       "latest_date": "",
       "latest_tournament": "",
       "warnings": "UNRESOLVED_MAPPING",
-      "candidate_count": 4,
-      "candidates": "women:sackmann:214236 Angela Fita Boluda (227); women:sackmann:269270 Alba Maria Coromina Boluda (7); women:api:90841 A. M. Coromina Boluda (1); women:api:159 A. Fita Boluda (1)"
+      "candidate_count": 3,
+      "candidates": "women:sackmann:214236 Angela Fita Boluda (228); women:sackmann:269270 Alba Maria Coromina Boluda (7); women:api:90841 A. M. Coromina Boluda (1)"
     },
     {
       "api_key": "1056",
@@ -696,42 +642,6 @@
       "candidates": "women:sackmann:210622 Andrea Lazaro Garcia (190); women:sackmann:221454 Alba Rey Garcia (139); women:sackmann:269803 Africa Guzman Garcia (5); women:sackmann:220163 Ares Teixido Garcia (2); women:api:1418 A. Rey Garcia (1); women:api:1117 A. Lazaro Garcia (1)"
     },
     {
-      "api_key": "1122",
-      "api_name": "A. Tikhonova",
-      "gender": "women",
-      "status": "review",
-      "method": "ambiguous",
-      "sackmann_key": "",
-      "sackmann_name": "",
-      "canonical_matches": 0,
-      "api_only_key": "women:api:1122",
-      "api_only_matches_canonical": 1,
-      "api_only_matches_api_source": 1,
-      "latest_date": "",
-      "latest_tournament": "",
-      "warnings": "UNRESOLVED_MAPPING",
-      "candidate_count": 3,
-      "candidates": "women:sackmann:221073 Anastasia Tikhonova (186); women:sackmann:270431 Alina Tikhonova (13); women:api:1122 A. Tikhonova (1)"
-    },
-    {
-      "api_key": "13411",
-      "api_name": "A. Zolotareva",
-      "gender": "women",
-      "status": "review",
-      "method": "ambiguous",
-      "sackmann_key": "",
-      "sackmann_name": "",
-      "canonical_matches": 0,
-      "api_only_key": "women:api:13411",
-      "api_only_matches_canonical": 5,
-      "api_only_matches_api_source": 5,
-      "latest_date": "",
-      "latest_tournament": "",
-      "warnings": "UNRESOLVED_MAPPING",
-      "candidate_count": 3,
-      "candidates": "women:sackmann:221209 Anastasia Zolotareva (171); women:api:13411 A. Zolotareva (5); women:sackmann:214285 Alina Zolotareva (1)"
-    },
-    {
       "api_key": "29",
       "api_name": "B. Barbulescu",
       "gender": "women",
@@ -820,24 +730,6 @@
       "warnings": "UNRESOLVED_MAPPING",
       "candidate_count": 0,
       "candidates": ""
-    },
-    {
-      "api_key": "2838",
-      "api_name": "B. Nakashima",
-      "gender": "men",
-      "status": "review",
-      "method": "ambiguous",
-      "sackmann_key": "",
-      "sackmann_name": "",
-      "canonical_matches": 0,
-      "api_only_key": "men:api:2838",
-      "api_only_matches_canonical": 0,
-      "api_only_matches_api_source": 0,
-      "latest_date": "",
-      "latest_tournament": "",
-      "warnings": "UNRESOLVED_MAPPING",
-      "candidate_count": 2,
-      "candidates": "men:sackmann:206909 Brandon Nakashima (225); men:sackmann:210416 Bryce Nakashima (26)"
     },
     {
       "api_key": "82135",
@@ -1018,24 +910,6 @@
       "warnings": "UNRESOLVED_MAPPING",
       "candidate_count": 2,
       "candidates": "men:sackmann:212256 Colton Smith (121); men:sackmann:207970 Colter Smith (1)"
-    },
-    {
-      "api_key": "2227",
-      "api_name": "C. Wong",
-      "gender": "men",
-      "status": "review",
-      "method": "ambiguous",
-      "sackmann_key": "",
-      "sackmann_name": "",
-      "canonical_matches": 0,
-      "api_only_key": "men:api:2227",
-      "api_only_matches_canonical": 1,
-      "api_only_matches_api_source": 1,
-      "latest_date": "",
-      "latest_tournament": "",
-      "warnings": "UNRESOLVED_MAPPING",
-      "candidate_count": 4,
-      "candidates": "men:sackmann:209409 Coleman Wong (249); men:api:2227 C. Wong (1); men:sackmann:208597 Chak Lam Coleman Wong (1); men:sackmann:124022 Chun Hun Wong (1)"
     },
     {
       "api_key": "2566",
@@ -1416,24 +1290,6 @@
       "candidates": "women:sackmann:215501 Eunhye Lee (182); women:sackmann:221269 Eunji Lee (51); women:sackmann:222546 Eun Ji Lee (39); women:sackmann:260127 Eun Bi Lee (6); women:api:26931 E. Lee (1); women:sackmann:270183 Erin Lee (1)"
     },
     {
-      "api_key": "567",
-      "api_name": "E. Nava",
-      "gender": "men",
-      "status": "review",
-      "method": "ambiguous",
-      "sackmann_key": "",
-      "sackmann_name": "",
-      "canonical_matches": 0,
-      "api_only_key": "men:api:567",
-      "api_only_matches_canonical": 1,
-      "api_only_matches_api_source": 1,
-      "latest_date": "",
-      "latest_tournament": "",
-      "warnings": "UNRESOLVED_MAPPING",
-      "candidate_count": 3,
-      "candidates": "men:sackmann:207182 Emilio Nava (254); men:sackmann:124013 Eduardo Nava (4); men:api:567 E. Nava (1)"
-    },
-    {
       "api_key": "17",
       "api_name": "F. Dell'Edera",
       "gender": "women",
@@ -1648,24 +1504,6 @@
       "warnings": "UNRESOLVED_MAPPING",
       "candidate_count": 1,
       "candidates": "women:api:1151 G. Ruse (1)"
-    },
-    {
-      "api_key": "3135",
-      "api_name": "H. Chung",
-      "gender": "men",
-      "status": "review",
-      "method": "ambiguous",
-      "sackmann_key": "",
-      "sackmann_name": "",
-      "canonical_matches": 0,
-      "api_only_key": "men:api:3135",
-      "api_only_matches_canonical": 1,
-      "api_only_matches_api_source": 1,
-      "latest_date": "",
-      "latest_tournament": "",
-      "warnings": "UNRESOLVED_MAPPING",
-      "candidate_count": 3,
-      "candidates": "men:sackmann:111202 Hyeon Chung (100); men:sackmann:106184 Hong Chung (7); men:api:3135 H. Chung (1)"
     },
     {
       "api_key": "1270",
@@ -2172,24 +2010,6 @@
       "candidates": "women:sackmann:233725 Karolina Mrazikova (74); women:sackmann:254751 Kristina Mrazikova (9); women:api:51003 K. Mrazikova (2)"
     },
     {
-      "api_key": "186",
-      "api_name": "K. Scott",
-      "gender": "women",
-      "status": "review",
-      "method": "ambiguous",
-      "sackmann_key": "",
-      "sackmann_name": "",
-      "canonical_matches": 0,
-      "api_only_key": "women:api:186",
-      "api_only_matches_canonical": 2,
-      "api_only_matches_api_source": 2,
-      "latest_date": "",
-      "latest_tournament": "",
-      "warnings": "UNRESOLVED_MAPPING",
-      "candidate_count": 3,
-      "candidates": "women:sackmann:221512 Katrina Scott (136); women:sackmann:260422 Kirra Bond Scott (14); women:api:186 K. Scott (2)"
-    },
-    {
       "api_key": "23191",
       "api_name": "K. Suzuki",
       "gender": "men",
@@ -2206,24 +2026,6 @@
       "warnings": "UNRESOLVED_MAPPING",
       "candidate_count": 3,
       "candidates": "men:sackmann:120545 Ko Suzuki (34); men:api:23191 K. Suzuki (1); men:sackmann:213787 Katsutoshi Suzuki (1)"
-    },
-    {
-      "api_key": "2394",
-      "api_name": "L. Fernandez",
-      "gender": "women",
-      "status": "review",
-      "method": "ambiguous",
-      "sackmann_key": "",
-      "sackmann_name": "",
-      "canonical_matches": 0,
-      "api_only_key": "women:api:2394",
-      "api_only_matches_canonical": 1,
-      "api_only_matches_api_source": 1,
-      "latest_date": "",
-      "latest_tournament": "",
-      "warnings": "UNRESOLVED_MAPPING",
-      "candidate_count": 6,
-      "candidates": "women:sackmann:220367 Leylah Fernandez (203); women:sackmann:259749 Lya Fernandez (39); women:sackmann:243421 Luna Dinoto Fernandez (19); women:sackmann:248660 Lya Fernandez (3); women:api:2394 L. Fernandez (1); women:sackmann:269848 Lucia Fernandez Trabadelo Fernandez (1)"
     },
     {
       "api_key": "53951",
@@ -2280,24 +2082,6 @@
       "candidates": "women:api:462 L. Miyazaki (1)"
     },
     {
-      "api_key": "68376",
-      "api_name": "L. Samsonova",
-      "gender": "women",
-      "status": "review",
-      "method": "ambiguous",
-      "sackmann_key": "",
-      "sackmann_name": "",
-      "canonical_matches": 0,
-      "api_only_key": "women:api:68376",
-      "api_only_matches_canonical": 1,
-      "api_only_matches_api_source": 1,
-      "latest_date": "",
-      "latest_tournament": "",
-      "warnings": "UNRESOLVED_MAPPING",
-      "candidate_count": 3,
-      "candidates": "women:sackmann:214643 Liudmila Samsonova (177); women:api:68376 L. Samsonova (1); women:sackmann:264959 Laura Samsonova (1)"
-    },
-    {
       "api_key": "102976",
       "api_name": "L. Santos",
       "gender": "women",
@@ -2332,24 +2116,6 @@
       "warnings": "UNRESOLVED_MAPPING",
       "candidate_count": 0,
       "candidates": ""
-    },
-    {
-      "api_key": "1815",
-      "api_name": "L. Sun",
-      "gender": "women",
-      "status": "review",
-      "method": "ambiguous",
-      "sackmann_key": "",
-      "sackmann_name": "",
-      "canonical_matches": 0,
-      "api_only_key": "women:api:1815",
-      "api_only_matches_canonical": 1,
-      "api_only_matches_api_source": 1,
-      "latest_date": "",
-      "latest_tournament": "",
-      "warnings": "UNRESOLVED_MAPPING",
-      "candidate_count": 3,
-      "candidates": "women:sackmann:215138 Lulu Sun (181); women:sackmann:264093 Liang Sun (11); women:api:1815 L. Sun (1)"
     },
     {
       "api_key": "10895",
@@ -2748,42 +2514,6 @@
       "candidates": "women:sackmann:220164 Maria Aran Teixido Garcia (78); women:sackmann:269254 Meritxell Teixido Garcia (47); women:sackmann:211043 Maria Paulina Perez Garcia (45); women:sackmann:238068 Maria Garcia (40); women:api:70752 M. Teixido Garcia (1)"
     },
     {
-      "api_key": "12869",
-      "api_name": "M. Timofeeva",
-      "gender": "women",
-      "status": "review",
-      "method": "ambiguous",
-      "sackmann_key": "",
-      "sackmann_name": "",
-      "canonical_matches": 0,
-      "api_only_key": "women:api:12869",
-      "api_only_matches_canonical": 0,
-      "api_only_matches_api_source": 0,
-      "latest_date": "",
-      "latest_tournament": "",
-      "warnings": "UNRESOLVED_MAPPING",
-      "candidate_count": 2,
-      "candidates": "women:sackmann:221237 Maria Timofeeva (173); women:sackmann:221735 Marina Timofeeva (1)"
-    },
-    {
-      "api_key": "460",
-      "api_name": "M. Uchijima",
-      "gender": "women",
-      "status": "review",
-      "method": "ambiguous",
-      "sackmann_key": "",
-      "sackmann_name": "",
-      "canonical_matches": 0,
-      "api_only_key": "women:api:460",
-      "api_only_matches_canonical": 0,
-      "api_only_matches_api_source": 0,
-      "latest_date": "",
-      "latest_tournament": "",
-      "warnings": "UNRESOLVED_MAPPING",
-      "candidate_count": 2,
-      "candidates": "women:sackmann:220416 Moyuka Uchijima (229); women:sackmann:264134 Maiko Uchijima (11)"
-    },
-    {
       "api_key": "18071",
       "api_name": "Ma. Garcia Cid",
       "gender": "women",
@@ -2944,24 +2674,6 @@
       "warnings": "UNRESOLVED_MAPPING",
       "candidate_count": 0,
       "candidates": ""
-    },
-    {
-      "api_key": "10508",
-      "api_name": "P. A. Saraiva Dos Santos",
-      "gender": "men",
-      "status": "review",
-      "method": "ambiguous",
-      "sackmann_key": "",
-      "sackmann_name": "",
-      "canonical_matches": 0,
-      "api_only_key": "men:api:10508",
-      "api_only_matches_canonical": 1,
-      "api_only_matches_api_source": 1,
-      "latest_date": "",
-      "latest_tournament": "",
-      "warnings": "UNRESOLVED_MAPPING",
-      "candidate_count": 3,
-      "candidates": "men:sackmann:208063 Paulo Andre Saraiva Dos Santos (174); men:sackmann:212876 Pedro Andre De Almeida Santos (10); men:api:10508 P. A. Saraiva Dos Santos (1)"
     },
     {
       "api_key": "13087",
@@ -3232,24 +2944,6 @@
       "warnings": "UNRESOLVED_MAPPING",
       "candidate_count": 0,
       "candidates": ""
-    },
-    {
-      "api_key": "9037",
-      "api_name": "T. Boyer",
-      "gender": "men",
-      "status": "review",
-      "method": "ambiguous",
-      "sackmann_key": "",
-      "sackmann_name": "",
-      "canonical_matches": 0,
-      "api_only_key": "men:api:9037",
-      "api_only_matches_canonical": 1,
-      "api_only_matches_api_source": 1,
-      "latest_date": "",
-      "latest_tournament": "",
-      "warnings": "UNRESOLVED_MAPPING",
-      "candidate_count": 3,
-      "candidates": "men:sackmann:207729 Tristan Boyer (189); men:sackmann:208142 Toby D Boyer (58); men:api:9037 T. Boyer (1)"
     },
     {
       "api_key": "851",
@@ -3810,24 +3504,6 @@
       "candidates": "women:sackmann:221214 Zdena Safarova (32); women:sackmann:214842 Zuleykha Safarova (1)"
     },
     {
-      "api_key": "590",
-      "api_name": "Z. Zhang",
-      "gender": "men",
-      "status": "review",
-      "method": "ambiguous",
-      "sackmann_key": "",
-      "sackmann_name": "",
-      "canonical_matches": 0,
-      "api_only_key": "men:api:590",
-      "api_only_matches_canonical": 1,
-      "api_only_matches_api_source": 1,
-      "latest_date": "",
-      "latest_tournament": "",
-      "warnings": "UNRESOLVED_MAPPING",
-      "candidate_count": 3,
-      "candidates": "men:sackmann:111190 Zhizhen Zhang (155); men:sackmann:214492 Zurui Zhang (2); men:api:590 Z. Zhang (1)"
-    },
-    {
       "api_key": "808",
       "api_name": "R. Bertrand",
       "gender": "men",
@@ -4244,6 +3920,22 @@
       "warnings": ""
     },
     {
+      "api_key": "567",
+      "api_name": "E. Nava",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_override",
+      "sackmann_key": "men:sackmann:207182",
+      "sackmann_name": "Emilio Nava",
+      "canonical_matches": 255,
+      "api_only_key": "men:api:567",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-06-09",
+      "latest_tournament": "Bratislava",
+      "warnings": ""
+    },
+    {
       "api_key": "2072",
       "api_name": "J. Sinner",
       "gender": "men",
@@ -4465,6 +4157,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-05-25",
       "latest_tournament": "Roland Garros",
+      "warnings": ""
+    },
+    {
+      "api_key": "2227",
+      "api_name": "C. Wong",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_override",
+      "sackmann_key": "men:sackmann:209409",
+      "sackmann_name": "Coleman Wong",
+      "canonical_matches": 250,
+      "api_only_key": "men:api:2227",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-06-06",
+      "latest_tournament": "Hertogenbosch",
       "warnings": ""
     },
     {
@@ -5828,6 +5536,22 @@
       "warnings": ""
     },
     {
+      "api_key": "460",
+      "api_name": "M. Uchijima",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_override",
+      "sackmann_key": "women:sackmann:220416",
+      "sackmann_name": "Moyuka Uchijima",
+      "canonical_matches": 229,
+      "api_only_key": "women:api:460",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-05-18",
+      "latest_tournament": "Rabat",
+      "warnings": ""
+    },
+    {
       "api_key": "1338",
       "api_name": "P. Martin Tiffon",
       "gender": "men",
@@ -5857,6 +5581,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-04-27",
       "latest_tournament": "Ostrava CH",
+      "warnings": ""
+    },
+    {
+      "api_key": "159",
+      "api_name": "A. Fita Boluda",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_override",
+      "sackmann_key": "women:sackmann:214236",
+      "sackmann_name": "Angela Fita Boluda",
+      "canonical_matches": 228,
+      "api_only_key": "women:api:159",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-06-08",
+      "latest_tournament": "Modena (Italy) - Qualification",
       "warnings": ""
     },
     {
@@ -6193,6 +5933,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-06-09",
       "latest_tournament": "Bratislava",
+      "warnings": ""
+    },
+    {
+      "api_key": "2838",
+      "api_name": "B. Nakashima",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_override",
+      "sackmann_key": "men:sackmann:206909",
+      "sackmann_name": "Brandon Nakashima",
+      "canonical_matches": 225,
+      "api_only_key": "men:api:2838",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-05-25",
+      "latest_tournament": "Roland Garros",
       "warnings": ""
     },
     {
@@ -8836,6 +8592,22 @@
       "warnings": ""
     },
     {
+      "api_key": "2394",
+      "api_name": "L. Fernandez",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_override",
+      "sackmann_key": "women:sackmann:220367",
+      "sackmann_name": "Leylah Fernandez",
+      "canonical_matches": 204,
+      "api_only_key": "women:api:2394",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-06-09",
+      "latest_tournament": "London",
+      "warnings": ""
+    },
+    {
       "api_key": "817",
       "api_name": "M. Karol",
       "gender": "men",
@@ -9233,6 +9005,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-05-25",
       "latest_tournament": "Roland Garros",
+      "warnings": ""
+    },
+    {
+      "api_key": "196",
+      "api_name": "A. Krueger",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_override",
+      "sackmann_key": "women:sackmann:221909",
+      "sackmann_name": "Ashlyn Krueger",
+      "canonical_matches": 200,
+      "api_only_key": "women:api:196",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-06-09",
+      "latest_tournament": "Ilkley",
       "warnings": ""
     },
     {
@@ -10548,6 +10336,22 @@
       "warnings": ""
     },
     {
+      "api_key": "9037",
+      "api_name": "T. Boyer",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_override",
+      "sackmann_key": "men:sackmann:207729",
+      "sackmann_name": "Tristan Boyer",
+      "canonical_matches": 190,
+      "api_only_key": "men:api:9037",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-06-09",
+      "latest_tournament": "Lyon",
+      "warnings": ""
+    },
+    {
       "api_key": "741",
       "api_name": "D. Palan",
       "gender": "men",
@@ -10737,6 +10541,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-06-07",
       "latest_tournament": "London",
+      "warnings": ""
+    },
+    {
+      "api_key": "1122",
+      "api_name": "A. Tikhonova",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_override",
+      "sackmann_key": "women:sackmann:221073",
+      "sackmann_name": "Anastasia Tikhonova",
+      "canonical_matches": 187,
+      "api_only_key": "women:api:1122",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-06-04",
+      "latest_tournament": "W75 Caserta",
       "warnings": ""
     },
     {
@@ -11348,6 +11168,22 @@
       "warnings": ""
     },
     {
+      "api_key": "1815",
+      "api_name": "L. Sun",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_override",
+      "sackmann_key": "women:sackmann:215138",
+      "sackmann_name": "Lulu Sun",
+      "canonical_matches": 182,
+      "api_only_key": "women:api:1815",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-06-09",
+      "latest_tournament": "Ilkley",
+      "warnings": ""
+    },
+    {
       "api_key": "13919",
       "api_name": "S. Yamalapalli",
       "gender": "women",
@@ -11796,6 +11632,22 @@
       "warnings": ""
     },
     {
+      "api_key": "68376",
+      "api_name": "L. Samsonova",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_override",
+      "sackmann_key": "women:sackmann:214643",
+      "sackmann_name": "Liudmila Samsonova",
+      "canonical_matches": 178,
+      "api_only_key": "women:api:68376",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-06-08",
+      "latest_tournament": "London",
+      "warnings": ""
+    },
+    {
       "api_key": "147",
       "api_name": "M. Hodzic",
       "gender": "women",
@@ -11969,6 +11821,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-06-06",
       "latest_tournament": "Hertogenbosch",
+      "warnings": ""
+    },
+    {
+      "api_key": "13411",
+      "api_name": "A. Zolotareva",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_override",
+      "sackmann_key": "women:sackmann:221209",
+      "sackmann_name": "Anastasia Zolotareva",
+      "canonical_matches": 176,
+      "api_only_key": "women:api:13411",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-06-07",
+      "latest_tournament": "W15 Kursumlijska Banja 3",
       "warnings": ""
     },
     {
@@ -12161,6 +12029,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-06-07",
       "latest_tournament": "Bratislava",
+      "warnings": ""
+    },
+    {
+      "api_key": "10508",
+      "api_name": "P. A. Saraiva Dos Santos",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_override",
+      "sackmann_key": "men:sackmann:208063",
+      "sackmann_name": "Paulo Andre Saraiva Dos Santos",
+      "canonical_matches": 175,
+      "api_only_key": "men:api:10508",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-06-09",
+      "latest_tournament": "M15 Brasilia",
       "warnings": ""
     },
     {
@@ -12449,6 +12333,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-06-09",
       "latest_tournament": "London",
+      "warnings": ""
+    },
+    {
+      "api_key": "12869",
+      "api_name": "M. Timofeeva",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_override",
+      "sackmann_key": "women:sackmann:221237",
+      "sackmann_name": "Maria Timofeeva",
+      "canonical_matches": 173,
+      "api_only_key": "women:api:12869",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-06-02",
+      "latest_tournament": "Makarska 125",
       "warnings": ""
     },
     {
@@ -14004,6 +13904,22 @@
       "warnings": ""
     },
     {
+      "api_key": "590",
+      "api_name": "Z. Zhang",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_override",
+      "sackmann_key": "men:sackmann:111190",
+      "sackmann_name": "Zhizhen Zhang",
+      "canonical_matches": 156,
+      "api_only_key": "men:api:590",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-06-09",
+      "latest_tournament": "Hertogenbosch",
+      "warnings": ""
+    },
+    {
       "api_key": "8174",
       "api_name": "A. Fery",
       "gender": "men",
@@ -15460,6 +15376,22 @@
       "warnings": ""
     },
     {
+      "api_key": "186",
+      "api_name": "K. Scott",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_override",
+      "sackmann_key": "women:sackmann:221512",
+      "sackmann_name": "Katrina Scott",
+      "canonical_matches": 138,
+      "api_only_key": "women:api:186",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-06-04",
+      "latest_tournament": "W100 Sumter",
+      "warnings": ""
+    },
+    {
       "api_key": "2123",
       "api_name": "R. Montgomery",
       "gender": "women",
@@ -15473,6 +15405,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-06-08",
       "latest_tournament": "Hertogenbosch",
+      "warnings": ""
+    },
+    {
+      "api_key": "14547",
+      "api_name": "A. Korneeva",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_override",
+      "sackmann_key": "women:sackmann:252499",
+      "sackmann_name": "Alina Korneeva",
+      "canonical_matches": 137,
+      "api_only_key": "women:api:14547",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-06-09",
+      "latest_tournament": "Ilkley",
       "warnings": ""
     },
     {
@@ -18641,6 +18589,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-05-25",
       "latest_tournament": "W15 Fukui",
+      "warnings": ""
+    },
+    {
+      "api_key": "3135",
+      "api_name": "H. Chung",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_override",
+      "sackmann_key": "men:sackmann:111202",
+      "sackmann_name": "Hyeon Chung",
+      "canonical_matches": 101,
+      "api_only_key": "men:api:3135",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-06-09",
+      "latest_tournament": "M15 Tokyo",
       "warnings": ""
     },
     {
@@ -35544,24 +35508,6 @@
       "candidates": "women:sackmann:215501 Eunhye Lee (182); women:sackmann:221269 Eunji Lee (51); women:sackmann:222546 Eun Ji Lee (39); women:sackmann:260127 Eun Bi Lee (6); women:api:26931 E. Lee (1); women:sackmann:270183 Erin Lee (1)"
     },
     {
-      "api_key": "2394",
-      "api_name": "L. Fernandez",
-      "gender": "women",
-      "status": "review",
-      "method": "ambiguous",
-      "sackmann_key": "",
-      "sackmann_name": "",
-      "canonical_matches": 0,
-      "api_only_key": "women:api:2394",
-      "api_only_matches_canonical": 1,
-      "api_only_matches_api_source": 1,
-      "latest_date": "",
-      "latest_tournament": "",
-      "warnings": "UNRESOLVED_MAPPING",
-      "candidate_count": 6,
-      "candidates": "women:sackmann:220367 Leylah Fernandez (203); women:sackmann:259749 Lya Fernandez (39); women:sackmann:243421 Luna Dinoto Fernandez (19); women:sackmann:248660 Lya Fernandez (3); women:api:2394 L. Fernandez (1); women:sackmann:269848 Lucia Fernandez Trabadelo Fernandez (1)"
-    },
-    {
       "api_key": "16111",
       "api_name": "A. Teixido Garcia",
       "gender": "women",
@@ -35868,42 +35814,6 @@
       "candidates": "men:sackmann:208025 Alex Martinez (123); men:sackmann:211534 Asier Civera Martinez (3); men:api:7101 A. Martinez (2); men:api:58963 A. Civera Martinez (1)"
     },
     {
-      "api_key": "159",
-      "api_name": "A. Fita Boluda",
-      "gender": "women",
-      "status": "review",
-      "method": "ambiguous",
-      "sackmann_key": "",
-      "sackmann_name": "",
-      "canonical_matches": 0,
-      "api_only_key": "women:api:159",
-      "api_only_matches_canonical": 1,
-      "api_only_matches_api_source": 1,
-      "latest_date": "",
-      "latest_tournament": "",
-      "warnings": "UNRESOLVED_MAPPING",
-      "candidate_count": 4,
-      "candidates": "women:sackmann:214236 Angela Fita Boluda (227); women:sackmann:269270 Alba Maria Coromina Boluda (7); women:api:159 A. Fita Boluda (1); women:api:90841 A. M. Coromina Boluda (1)"
-    },
-    {
-      "api_key": "90841",
-      "api_name": "A. M. Coromina Boluda",
-      "gender": "women",
-      "status": "review",
-      "method": "ambiguous",
-      "sackmann_key": "",
-      "sackmann_name": "",
-      "canonical_matches": 0,
-      "api_only_key": "women:api:90841",
-      "api_only_matches_canonical": 1,
-      "api_only_matches_api_source": 1,
-      "latest_date": "",
-      "latest_tournament": "",
-      "warnings": "UNRESOLVED_MAPPING",
-      "candidate_count": 4,
-      "candidates": "women:sackmann:214236 Angela Fita Boluda (227); women:sackmann:269270 Alba Maria Coromina Boluda (7); women:api:90841 A. M. Coromina Boluda (1); women:api:159 A. Fita Boluda (1)"
-    },
-    {
       "api_key": "55157",
       "api_name": "B. Black",
       "gender": "women",
@@ -35940,24 +35850,6 @@
       "candidates": "women:sackmann:266658 Camila Rodero (28); women:sackmann:264198 Camila Rodero (5); women:sackmann:265632 Camila Rodero (2); women:api:73111 C. Rodero (1)"
     },
     {
-      "api_key": "2227",
-      "api_name": "C. Wong",
-      "gender": "men",
-      "status": "review",
-      "method": "ambiguous",
-      "sackmann_key": "",
-      "sackmann_name": "",
-      "canonical_matches": 0,
-      "api_only_key": "men:api:2227",
-      "api_only_matches_canonical": 1,
-      "api_only_matches_api_source": 1,
-      "latest_date": "",
-      "latest_tournament": "",
-      "warnings": "UNRESOLVED_MAPPING",
-      "candidate_count": 4,
-      "candidates": "men:sackmann:209409 Coleman Wong (249); men:api:2227 C. Wong (1); men:sackmann:208597 Chak Lam Coleman Wong (1); men:sackmann:124022 Chun Hun Wong (1)"
-    },
-    {
       "api_key": "57378",
       "api_name": "Y. C. Chen",
       "gender": "men",
@@ -35992,24 +35884,6 @@
       "warnings": "UNRESOLVED_MAPPING",
       "candidate_count": 3,
       "candidates": "men:sackmann:207343 Hanyi Liu (100); men:api:1270 H. Liu (6); men:sackmann:214559 Hanlin Liu (2)"
-    },
-    {
-      "api_key": "13411",
-      "api_name": "A. Zolotareva",
-      "gender": "women",
-      "status": "review",
-      "method": "ambiguous",
-      "sackmann_key": "",
-      "sackmann_name": "",
-      "canonical_matches": 0,
-      "api_only_key": "women:api:13411",
-      "api_only_matches_canonical": 5,
-      "api_only_matches_api_source": 5,
-      "latest_date": "",
-      "latest_tournament": "",
-      "warnings": "UNRESOLVED_MAPPING",
-      "candidate_count": 3,
-      "candidates": "women:sackmann:221209 Anastasia Zolotareva (171); women:api:13411 A. Zolotareva (5); women:sackmann:214285 Alina Zolotareva (1)"
     },
     {
       "api_key": "78136",
@@ -36264,24 +36138,6 @@
       "candidates": "women:sackmann:233725 Karolina Mrazikova (74); women:sackmann:254751 Kristina Mrazikova (9); women:api:51003 K. Mrazikova (2)"
     },
     {
-      "api_key": "186",
-      "api_name": "K. Scott",
-      "gender": "women",
-      "status": "review",
-      "method": "ambiguous",
-      "sackmann_key": "",
-      "sackmann_name": "",
-      "canonical_matches": 0,
-      "api_only_key": "women:api:186",
-      "api_only_matches_canonical": 2,
-      "api_only_matches_api_source": 2,
-      "latest_date": "",
-      "latest_tournament": "",
-      "warnings": "UNRESOLVED_MAPPING",
-      "candidate_count": 3,
-      "candidates": "women:sackmann:221512 Katrina Scott (136); women:sackmann:260422 Kirra Bond Scott (14); women:api:186 K. Scott (2)"
-    },
-    {
       "api_key": "53951",
       "api_name": "L. Ma",
       "gender": "women",
@@ -36426,40 +36282,22 @@
       "candidates": "women:sackmann:267773 Anastasija Adeikyte (4); women:sackmann:263655 Anastasija Adeikyte (2); women:api:84070 A. Adeikyte (1)"
     },
     {
-      "api_key": "14547",
-      "api_name": "A. Korneeva",
+      "api_key": "90841",
+      "api_name": "A. M. Coromina Boluda",
       "gender": "women",
       "status": "review",
       "method": "ambiguous",
       "sackmann_key": "",
       "sackmann_name": "",
       "canonical_matches": 0,
-      "api_only_key": "women:api:14547",
+      "api_only_key": "women:api:90841",
       "api_only_matches_canonical": 1,
       "api_only_matches_api_source": 1,
       "latest_date": "",
       "latest_tournament": "",
       "warnings": "UNRESOLVED_MAPPING",
       "candidate_count": 3,
-      "candidates": "women:sackmann:252499 Alina Korneeva (136); women:sackmann:269758 Alexandra Korneeva (2); women:api:14547 A. Korneeva (1)"
-    },
-    {
-      "api_key": "196",
-      "api_name": "A. Krueger",
-      "gender": "women",
-      "status": "review",
-      "method": "ambiguous",
-      "sackmann_key": "",
-      "sackmann_name": "",
-      "canonical_matches": 0,
-      "api_only_key": "women:api:196",
-      "api_only_matches_canonical": 1,
-      "api_only_matches_api_source": 1,
-      "latest_date": "",
-      "latest_tournament": "",
-      "warnings": "UNRESOLVED_MAPPING",
-      "candidate_count": 3,
-      "candidates": "women:sackmann:221909 Ashlyn Krueger (199); women:api:196 A. Krueger (1); women:sackmann:267497 Amanda Schulz Krueger (1)"
+      "candidates": "women:sackmann:214236 Angela Fita Boluda (228); women:sackmann:269270 Alba Maria Coromina Boluda (7); women:api:90841 A. M. Coromina Boluda (1)"
     },
     {
       "api_key": "19802",
@@ -36516,24 +36354,6 @@
       "candidates": "women:sackmann:220673 Alana Smith (135); women:sackmann:215440 Alicia Smith (84); women:api:17346 A. Smith (1)"
     },
     {
-      "api_key": "1122",
-      "api_name": "A. Tikhonova",
-      "gender": "women",
-      "status": "review",
-      "method": "ambiguous",
-      "sackmann_key": "",
-      "sackmann_name": "",
-      "canonical_matches": 0,
-      "api_only_key": "women:api:1122",
-      "api_only_matches_canonical": 1,
-      "api_only_matches_api_source": 1,
-      "latest_date": "",
-      "latest_tournament": "",
-      "warnings": "UNRESOLVED_MAPPING",
-      "candidate_count": 3,
-      "candidates": "women:sackmann:221073 Anastasia Tikhonova (186); women:sackmann:270431 Alina Tikhonova (13); women:api:1122 A. Tikhonova (1)"
-    },
-    {
       "api_key": "33851",
       "api_name": "Cam. Markus",
       "gender": "women",
@@ -36568,24 +36388,6 @@
       "warnings": "UNRESOLVED_MAPPING",
       "candidate_count": 3,
       "candidates": "men:sackmann:209898 Dali Blanch (212); men:sackmann:210464 Darwin Blanch (133); men:api:1314 D. Blanch (1)"
-    },
-    {
-      "api_key": "567",
-      "api_name": "E. Nava",
-      "gender": "men",
-      "status": "review",
-      "method": "ambiguous",
-      "sackmann_key": "",
-      "sackmann_name": "",
-      "canonical_matches": 0,
-      "api_only_key": "men:api:567",
-      "api_only_matches_canonical": 1,
-      "api_only_matches_api_source": 1,
-      "latest_date": "",
-      "latest_tournament": "",
-      "warnings": "UNRESOLVED_MAPPING",
-      "candidate_count": 3,
-      "candidates": "men:sackmann:207182 Emilio Nava (254); men:sackmann:124013 Eduardo Nava (4); men:api:567 E. Nava (1)"
     },
     {
       "api_key": "79817",
@@ -36640,24 +36442,6 @@
       "warnings": "UNRESOLVED_MAPPING",
       "candidate_count": 3,
       "candidates": "men:sackmann:202181 Gilbert Soares Klier Junior (82); men:sackmann:213415 Glauco Pinheiro Da Cruz Junior (9); men:api:90843 G. Pinheiro da Cruz Junior (1)"
-    },
-    {
-      "api_key": "3135",
-      "api_name": "H. Chung",
-      "gender": "men",
-      "status": "review",
-      "method": "ambiguous",
-      "sackmann_key": "",
-      "sackmann_name": "",
-      "canonical_matches": 0,
-      "api_only_key": "men:api:3135",
-      "api_only_matches_canonical": 1,
-      "api_only_matches_api_source": 1,
-      "latest_date": "",
-      "latest_tournament": "",
-      "warnings": "UNRESOLVED_MAPPING",
-      "candidate_count": 3,
-      "candidates": "men:sackmann:111202 Hyeon Chung (100); men:sackmann:106184 Hong Chung (7); men:api:3135 H. Chung (1)"
     },
     {
       "api_key": "39077",
@@ -36768,42 +36552,6 @@
       "candidates": "men:sackmann:120545 Ko Suzuki (34); men:api:23191 K. Suzuki (1); men:sackmann:213787 Katsutoshi Suzuki (1)"
     },
     {
-      "api_key": "68376",
-      "api_name": "L. Samsonova",
-      "gender": "women",
-      "status": "review",
-      "method": "ambiguous",
-      "sackmann_key": "",
-      "sackmann_name": "",
-      "canonical_matches": 0,
-      "api_only_key": "women:api:68376",
-      "api_only_matches_canonical": 1,
-      "api_only_matches_api_source": 1,
-      "latest_date": "",
-      "latest_tournament": "",
-      "warnings": "UNRESOLVED_MAPPING",
-      "candidate_count": 3,
-      "candidates": "women:sackmann:214643 Liudmila Samsonova (177); women:api:68376 L. Samsonova (1); women:sackmann:264959 Laura Samsonova (1)"
-    },
-    {
-      "api_key": "1815",
-      "api_name": "L. Sun",
-      "gender": "women",
-      "status": "review",
-      "method": "ambiguous",
-      "sackmann_key": "",
-      "sackmann_name": "",
-      "canonical_matches": 0,
-      "api_only_key": "women:api:1815",
-      "api_only_matches_canonical": 1,
-      "api_only_matches_api_source": 1,
-      "latest_date": "",
-      "latest_tournament": "",
-      "warnings": "UNRESOLVED_MAPPING",
-      "candidate_count": 3,
-      "candidates": "women:sackmann:215138 Lulu Sun (181); women:sackmann:264093 Liang Sun (11); women:api:1815 L. Sun (1)"
-    },
-    {
       "api_key": "11584",
       "api_name": "N. Sato",
       "gender": "women",
@@ -36820,24 +36568,6 @@
       "warnings": "UNRESOLVED_MAPPING",
       "candidate_count": 3,
       "candidates": "women:sackmann:220997 Naho Sato (194); women:sackmann:260782 Nanaka Sato (2); women:api:11584 N. Sato (1)"
-    },
-    {
-      "api_key": "10508",
-      "api_name": "P. A. Saraiva Dos Santos",
-      "gender": "men",
-      "status": "review",
-      "method": "ambiguous",
-      "sackmann_key": "",
-      "sackmann_name": "",
-      "canonical_matches": 0,
-      "api_only_key": "men:api:10508",
-      "api_only_matches_canonical": 1,
-      "api_only_matches_api_source": 1,
-      "latest_date": "",
-      "latest_tournament": "",
-      "warnings": "UNRESOLVED_MAPPING",
-      "candidate_count": 3,
-      "candidates": "men:sackmann:208063 Paulo Andre Saraiva Dos Santos (174); men:sackmann:212876 Pedro Andre De Almeida Santos (10); men:api:10508 P. A. Saraiva Dos Santos (1)"
     },
     {
       "api_key": "13087",
@@ -36948,24 +36678,6 @@
       "candidates": "men:sackmann:209251 Stefan Popovic (226); men:sackmann:209877 Stevan Popovic (16); men:api:840 S. Popovic (1)"
     },
     {
-      "api_key": "9037",
-      "api_name": "T. Boyer",
-      "gender": "men",
-      "status": "review",
-      "method": "ambiguous",
-      "sackmann_key": "",
-      "sackmann_name": "",
-      "canonical_matches": 0,
-      "api_only_key": "men:api:9037",
-      "api_only_matches_canonical": 1,
-      "api_only_matches_api_source": 1,
-      "latest_date": "",
-      "latest_tournament": "",
-      "warnings": "UNRESOLVED_MAPPING",
-      "candidate_count": 3,
-      "candidates": "men:sackmann:207729 Tristan Boyer (189); men:sackmann:208142 Toby D Boyer (58); men:api:9037 T. Boyer (1)"
-    },
-    {
       "api_key": "61033",
       "api_name": "T. Trufelli",
       "gender": "men",
@@ -37036,24 +36748,6 @@
       "warnings": "UNRESOLVED_MAPPING",
       "candidate_count": 3,
       "candidates": "men:sackmann:200661 Yuki Mochizuki (136); men:sackmann:211460 Yuki Mochizuki (37); men:api:10334 Y. Mochizuki (1)"
-    },
-    {
-      "api_key": "590",
-      "api_name": "Z. Zhang",
-      "gender": "men",
-      "status": "review",
-      "method": "ambiguous",
-      "sackmann_key": "",
-      "sackmann_name": "",
-      "canonical_matches": 0,
-      "api_only_key": "men:api:590",
-      "api_only_matches_canonical": 1,
-      "api_only_matches_api_source": 1,
-      "latest_date": "",
-      "latest_tournament": "",
-      "warnings": "UNRESOLVED_MAPPING",
-      "candidate_count": 3,
-      "candidates": "men:sackmann:111190 Zhizhen Zhang (155); men:sackmann:214492 Zurui Zhang (2); men:api:590 Z. Zhang (1)"
     },
     {
       "api_key": "90116",
@@ -37252,24 +36946,6 @@
       "warnings": "UNRESOLVED_MAPPING",
       "candidate_count": 2,
       "candidates": "men:sackmann:210044 Bruno Kuzuhara (207); men:sackmann:210029 Bruno Kuzuhara (14)"
-    },
-    {
-      "api_key": "2838",
-      "api_name": "B. Nakashima",
-      "gender": "men",
-      "status": "review",
-      "method": "ambiguous",
-      "sackmann_key": "",
-      "sackmann_name": "",
-      "canonical_matches": 0,
-      "api_only_key": "men:api:2838",
-      "api_only_matches_canonical": 0,
-      "api_only_matches_api_source": 0,
-      "latest_date": "",
-      "latest_tournament": "",
-      "warnings": "UNRESOLVED_MAPPING",
-      "candidate_count": 2,
-      "candidates": "men:sackmann:206909 Brandon Nakashima (225); men:sackmann:210416 Bryce Nakashima (26)"
     },
     {
       "api_key": "82135",
@@ -37558,42 +37234,6 @@
       "warnings": "UNRESOLVED_MAPPING",
       "candidate_count": 2,
       "candidates": "women:sackmann:239392 Mia Ristic (179); women:sackmann:241006 Monica Santaolalla Ristic (1)"
-    },
-    {
-      "api_key": "12869",
-      "api_name": "M. Timofeeva",
-      "gender": "women",
-      "status": "review",
-      "method": "ambiguous",
-      "sackmann_key": "",
-      "sackmann_name": "",
-      "canonical_matches": 0,
-      "api_only_key": "women:api:12869",
-      "api_only_matches_canonical": 0,
-      "api_only_matches_api_source": 0,
-      "latest_date": "",
-      "latest_tournament": "",
-      "warnings": "UNRESOLVED_MAPPING",
-      "candidate_count": 2,
-      "candidates": "women:sackmann:221237 Maria Timofeeva (173); women:sackmann:221735 Marina Timofeeva (1)"
-    },
-    {
-      "api_key": "460",
-      "api_name": "M. Uchijima",
-      "gender": "women",
-      "status": "review",
-      "method": "ambiguous",
-      "sackmann_key": "",
-      "sackmann_name": "",
-      "canonical_matches": 0,
-      "api_only_key": "women:api:460",
-      "api_only_matches_canonical": 0,
-      "api_only_matches_api_source": 0,
-      "latest_date": "",
-      "latest_tournament": "",
-      "warnings": "UNRESOLVED_MAPPING",
-      "candidate_count": 2,
-      "candidates": "women:sackmann:220416 Moyuka Uchijima (229); women:sackmann:264134 Maiko Uchijima (11)"
     },
     {
       "api_key": "2024",
@@ -39186,18 +38826,6 @@
       }
     },
     {
-      "key": "women:api:13411",
-      "name": "A. Zolotareva",
-      "matches": 5,
-      "latest_date": "2026-06-07",
-      "levels": {
-        "itf": 5
-      },
-      "sources": {
-        "api_tennis": 5
-      }
-    },
-    {
       "key": "women:api:78136",
       "name": "M. Souza",
       "matches": 5,
@@ -39595,18 +39223,6 @@
       }
     },
     {
-      "key": "women:api:186",
-      "name": "K. Scott",
-      "matches": 2,
-      "latest_date": "2026-06-04",
-      "levels": {
-        "itf": 2
-      },
-      "sources": {
-        "api_tennis": 2
-      }
-    },
-    {
       "key": "women:api:20381",
       "name": "K. Diatlova",
       "matches": 2,
@@ -39871,18 +39487,6 @@
       }
     },
     {
-      "key": "men:api:10508",
-      "name": "P. A. Saraiva Dos Santos",
-      "matches": 1,
-      "latest_date": "2026-06-09",
-      "levels": {
-        "itf": 1
-      },
-      "sources": {
-        "api_tennis": 1
-      }
-    },
-    {
       "key": "men:api:13087",
       "name": "P. Marino",
       "matches": 1,
@@ -39919,18 +39523,6 @@
       }
     },
     {
-      "key": "men:api:2227",
-      "name": "C. Wong",
-      "matches": 1,
-      "latest_date": "2026-06-06",
-      "levels": {
-        "qualifying": 1
-      },
-      "sources": {
-        "api_tennis": 1
-      }
-    },
-    {
       "key": "men:api:23191",
       "name": "K. Suzuki",
       "matches": 1,
@@ -39959,18 +39551,6 @@
       "name": "S. D'Agostino",
       "matches": 1,
       "latest_date": "2026-06-04",
-      "levels": {
-        "itf": 1
-      },
-      "sources": {
-        "api_tennis": 1
-      }
-    },
-    {
-      "key": "men:api:3135",
-      "name": "H. Chung",
-      "matches": 1,
-      "latest_date": "2026-06-09",
       "levels": {
         "itf": 1
       },
@@ -40039,18 +39619,6 @@
       }
     },
     {
-      "key": "men:api:567",
-      "name": "E. Nava",
-      "matches": 1,
-      "latest_date": "2026-06-09",
-      "levels": {
-        "qualifying": 1
-      },
-      "sources": {
-        "api_tennis": 1
-      }
-    },
-    {
       "key": "men:api:56741",
       "name": "X. Yang",
       "matches": 1,
@@ -40081,18 +39649,6 @@
       "latest_date": "2026-06-04",
       "levels": {
         "itf": 1
-      },
-      "sources": {
-        "api_tennis": 1
-      }
-    },
-    {
-      "key": "men:api:590",
-      "name": "Z. Zhang",
-      "matches": 1,
-      "latest_date": "2026-06-09",
-      "levels": {
-        "qualifying": 1
       },
       "sources": {
         "api_tennis": 1
@@ -40177,18 +39733,6 @@
       "latest_date": "2026-06-05",
       "levels": {
         "atp_wta": 1
-      },
-      "sources": {
-        "api_tennis": 1
-      }
-    },
-    {
-      "key": "men:api:9037",
-      "name": "T. Boyer",
-      "matches": 1,
-      "latest_date": "2026-06-09",
-      "levels": {
-        "qualifying": 1
       },
       "sources": {
         "api_tennis": 1
@@ -40291,18 +39835,6 @@
       }
     },
     {
-      "key": "women:api:1122",
-      "name": "A. Tikhonova",
-      "matches": 1,
-      "latest_date": "2026-06-04",
-      "levels": {
-        "itf": 1
-      },
-      "sources": {
-        "api_tennis": 1
-      }
-    },
-    {
       "key": "women:api:1151",
       "name": "G. Ruse",
       "matches": 1,
@@ -40351,30 +39883,6 @@
       }
     },
     {
-      "key": "women:api:14547",
-      "name": "A. Korneeva",
-      "matches": 1,
-      "latest_date": "2026-06-09",
-      "levels": {
-        "qualifying": 1
-      },
-      "sources": {
-        "api_tennis": 1
-      }
-    },
-    {
-      "key": "women:api:159",
-      "name": "A. Fita Boluda",
-      "matches": 1,
-      "latest_date": "2026-06-08",
-      "levels": {
-        "qualifying": 1
-      },
-      "sources": {
-        "api_tennis": 1
-      }
-    },
-    {
       "key": "women:api:17346",
       "name": "A. Smith",
       "matches": 1,
@@ -40387,48 +39895,12 @@
       }
     },
     {
-      "key": "women:api:1815",
-      "name": "L. Sun",
-      "matches": 1,
-      "latest_date": "2026-06-09",
-      "levels": {
-        "qualifying": 1
-      },
-      "sources": {
-        "api_tennis": 1
-      }
-    },
-    {
-      "key": "women:api:196",
-      "name": "A. Krueger",
-      "matches": 1,
-      "latest_date": "2026-06-09",
-      "levels": {
-        "qualifying": 1
-      },
-      "sources": {
-        "api_tennis": 1
-      }
-    },
-    {
       "key": "women:api:2115",
       "name": "G. Parentini",
       "matches": 1,
       "latest_date": "2026-06-04",
       "levels": {
         "itf": 1
-      },
-      "sources": {
-        "api_tennis": 1
-      }
-    },
-    {
-      "key": "women:api:2394",
-      "name": "L. Fernandez",
-      "matches": 1,
-      "latest_date": "2026-06-09",
-      "levels": {
-        "qualifying": 1
       },
       "sources": {
         "api_tennis": 1
@@ -40561,18 +40033,6 @@
       "latest_date": "2026-06-04",
       "levels": {
         "itf": 1
-      },
-      "sources": {
-        "api_tennis": 1
-      }
-    },
-    {
-      "key": "women:api:68376",
-      "name": "L. Samsonova",
-      "matches": 1,
-      "latest_date": "2026-06-08",
-      "levels": {
-        "qualifying": 1
       },
       "sources": {
         "api_tennis": 1
@@ -40940,25 +40400,30 @@
     "men:sackmann:207182": {
       "key": "men:sackmann:207182",
       "name": "Emilio Nava",
-      "matches": 254,
+      "matches": 255,
       "sources": {
-        "sackmann": 254
+        "sackmann": 254,
+        "api_tennis": 1
       },
       "levels": {
         "challenger": 168,
-        "qualifying": 47,
+        "qualifying": 48,
         "atp_wta": 32,
         "grand_slam": 7
       },
       "surfaces": {
-        "clay": 125,
+        "clay": 126,
         "hard": 117,
         "grass": 12
       },
-      "latest_date": "2026-06-01",
-      "latest_tournament": "Heilbronn CH",
-      "api_player_keys": {},
-      "mapping_sources": {}
+      "latest_date": "2026-06-09",
+      "latest_tournament": "Bratislava",
+      "api_player_keys": {
+        "567": 1
+      },
+      "mapping_sources": {
+        "api_player_to_sackmann": 1
+      }
     },
     "men:sackmann:210434": {
       "key": "men:sackmann:210434",
