@@ -1,15 +1,14 @@
 {
-  "generated_at": "2026-06-15T14:51:36.755032+02:00",
+  "generated_at": "2026-06-15T21:31:10.970373+02:00",
   "summary": {
-    "api_players_today": 126,
-    "ratings_players": 4951,
+    "api_players_today": 8,
+    "ratings_players": 4994,
     "mapping_records_total": 1302,
-    "mapping_records_changed": 11,
-    "existing_confirmed": 115,
-    "confirmed": 11
+    "mapping_records_changed": 0,
+    "existing_confirmed": 8
   },
   "status_counts_today": {
-    "confirmed": 126
+    "confirmed": 8
   },
   "manual_review": [],
   "unmatched": []
