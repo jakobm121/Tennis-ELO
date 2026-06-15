@@ -1,12 +1,59 @@
 {
-  "generated_at": "2026-06-15T21:31:45.773677+02:00",
+  "generated_at": "2026-06-16T01:22:21.334046+02:00",
   "summary": {
-    "odds_matches": 4,
-    "evaluated_strategy_rows": 24,
-    "shadow_bets": 0,
+    "odds_matches": 173,
+    "evaluated_strategy_rows": 810,
+    "shadow_bets": 1,
     "watch_picks": 0,
-    "no_bet": 24
+    "no_bet": 809,
+    "shadow_bet": 1,
+    "missing_first_set_totals": 36,
+    "missing_match_winner": 2
   },
-  "top_shadow_picks": [],
+  "top_shadow_picks": [
+    {
+      "pick_id": "12136528|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12136528,
+      "date": "2026-06-16",
+      "time": "14:30",
+      "match": "A. De Minaur - G. Diallo",
+      "player_1": "A. De Minaur",
+      "player_2": "G. Diallo",
+      "tournament": "London",
+      "tour_level": "atp",
+      "gender": "men",
+      "surface": "unknown",
+      "favorite": "A. De Minaur",
+      "favorite_probability": 0.802676,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 2.1,
+      "bookmaker": "BetVictor",
+      "model_probability": 0.55838,
+      "fair_odds": 1.791,
+      "edge": 0.1726,
+      "confidence": "medium",
+      "decision": "SHADOW_BET",
+      "reasons": [],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "De Minaur A.",
+        "player_1_sample": 123,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Diallo G.",
+        "player_2_sample": 73
+      },
+      "model_details": {
+        "strategy_base_probability": 0.5853,
+        "player_component_probability": 0.4956,
+        "profile_probabilities": [
+          0.5396,
+          0.4515
+        ]
+      }
+    }
+  ],
   "top_watch_picks": []
 }
