@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-06-15T00:45:58.028807+02:00",
+  "generated_at": "2026-06-15T07:42:06.313370+02:00",
   "source_odds_url": "https://raw.githubusercontent.com/jakobm121/Ai/refs/heads/main/data/tennis_odds_today.json",
-  "odds_generated_at": "2026-06-15T00:36:58.342309+02:00",
+  "odds_generated_at": "2026-06-15T07:30:52.798145+02:00",
   "ratings_generated_at": "2026-06-15T00:37:50.938356+02:00",
   "players": {
     "2813": {
@@ -34915,7 +34915,7 @@
       "last_seen_event_key": 12136595,
       "last_seen_tournament": "Poznan",
       "last_seen_tournament_key": 2453,
-      "updated_at": "2026-06-15T00:45:58.028091+02:00"
+      "updated_at": "2026-06-15T07:42:06.313246+02:00"
     },
     "78934": {
       "api_player_key": 78934,

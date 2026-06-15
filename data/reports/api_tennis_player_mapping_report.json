@@ -1,76 +1,19 @@
 {
-  "generated_at": "2026-06-15T00:45:58.028878+02:00",
+  "generated_at": "2026-06-15T07:42:06.313446+02:00",
   "summary": {
-    "api_players_today": 156,
+    "api_players_today": 150,
     "ratings_players": 4951,
     "mapping_records_total": 1291,
-    "mapping_records_changed": 54,
-    "existing_confirmed": 102,
-    "confirmed": 52,
-    "unmatched": 2
+    "mapping_records_changed": 1,
+    "existing_confirmed": 149,
+    "unmatched": 1
   },
   "status_counts_today": {
-    "confirmed": 154,
-    "unmatched": 2
+    "confirmed": 149,
+    "unmatched": 1
   },
   "manual_review": [],
   "unmatched": [
-    {
-      "api_player_key": 53732,
-      "api_name": "A. Blus",
-      "gender": "men",
-      "status": "unmatched",
-      "method": "no_safe_match",
-      "confidence": 0.7229,
-      "elo_player_name": null,
-      "elo_player_key": null,
-      "candidates": [
-        {
-          "elo_player_name": "Rus A.",
-          "elo_player_key": "rus a",
-          "matches_total": 22,
-          "gender": "unknown",
-          "score": 0.7229,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Rus A.",
-          "elo_player_key": "rus a",
-          "matches_total": 22,
-          "gender": "unknown",
-          "score": 0.7229,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Balus I.",
-          "elo_player_key": "balus i",
-          "matches_total": 76,
-          "gender": "unknown",
-          "score": 0.6715,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Balus I.",
-          "elo_player_key": "balus i",
-          "matches_total": 76,
-          "gender": "unknown",
-          "score": 0.6715,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Bulus C.",
-          "elo_player_key": "bulus c",
-          "matches_total": 1,
-          "gender": "unknown",
-          "score": 0.6715,
-          "method": "fuzzy"
-        }
-      ],
-      "last_seen_event_key": 12136590,
-      "last_seen_tournament": "Poznan",
-      "last_seen_tournament_key": 2453,
-      "updated_at": "2026-06-15T00:45:57.262035+02:00"
-    },
     {
       "api_player_key": 88816,
       "api_name": "J. Sadzik",
@@ -125,7 +68,7 @@
       "last_seen_event_key": 12136595,
       "last_seen_tournament": "Poznan",
       "last_seen_tournament_key": 2453,
-      "updated_at": "2026-06-15T00:45:58.028091+02:00"
+      "updated_at": "2026-06-15T07:42:06.313246+02:00"
     }
   ]
 }
