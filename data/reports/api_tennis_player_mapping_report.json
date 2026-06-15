@@ -1,74 +1,16 @@
 {
-  "generated_at": "2026-06-15T07:42:06.313446+02:00",
+  "generated_at": "2026-06-15T14:51:36.755032+02:00",
   "summary": {
-    "api_players_today": 150,
+    "api_players_today": 126,
     "ratings_players": 4951,
-    "mapping_records_total": 1291,
-    "mapping_records_changed": 1,
-    "existing_confirmed": 149,
-    "unmatched": 1
+    "mapping_records_total": 1302,
+    "mapping_records_changed": 11,
+    "existing_confirmed": 115,
+    "confirmed": 11
   },
   "status_counts_today": {
-    "confirmed": 149,
-    "unmatched": 1
+    "confirmed": 126
   },
   "manual_review": [],
-  "unmatched": [
-    {
-      "api_player_key": 88816,
-      "api_name": "J. Sadzik",
-      "gender": "men",
-      "status": "unmatched",
-      "method": "no_safe_match",
-      "confidence": 0.6919,
-      "elo_player_name": null,
-      "elo_player_key": null,
-      "candidates": [
-        {
-          "elo_player_name": "Sibai J.",
-          "elo_player_key": "sibai j",
-          "matches_total": 1,
-          "gender": "unknown",
-          "score": 0.6919,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Sibai J.",
-          "elo_player_key": "sibai j",
-          "matches_total": 1,
-          "gender": "unknown",
-          "score": 0.6919,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Mensik J.",
-          "elo_player_key": "mensik j",
-          "matches_total": 25,
-          "gender": "unknown",
-          "score": 0.6514,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Mensik J.",
-          "elo_player_key": "mensik j",
-          "matches_total": 25,
-          "gender": "unknown",
-          "score": 0.6514,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Vasami J.",
-          "elo_player_key": "vasami j",
-          "matches_total": 15,
-          "gender": "unknown",
-          "score": 0.6514,
-          "method": "fuzzy"
-        }
-      ],
-      "last_seen_event_key": 12136595,
-      "last_seen_tournament": "Poznan",
-      "last_seen_tournament_key": 2453,
-      "updated_at": "2026-06-15T07:42:06.313246+02:00"
-    }
-  ]
+  "unmatched": []
 }
