@@ -1,0 +1,53 @@
+name: TLE Player Mapping Quality Audit
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    # Vsak dan po canonical/rating refreshu
+    - cron: "25 6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  audit-player-mapping-quality:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Tennis-ELO repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+
+      - name: Run player mapping quality audit
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+        run: |
+          python -m tennis_elo.tle_audit_player_mapping_quality
+
+      - name: Show audit report
+        run: |
+          cat data/tle/reports/player_mapping_quality/tle_player_mapping_quality_audit_latest.md || true
+
+      - name: Commit audit report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/tle/reports/player_mapping_quality
+
+          if git diff --cached --quiet; then
+            echo "No audit report changes."
+            exit 0
+          fi
+
+          git commit -m "Run TLE player mapping quality audit"
+          git push
