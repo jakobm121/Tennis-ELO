@@ -1,0 +1,135 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-06-15",
+  "description": "Manual API-Tennis player key to Sackmann player overrides. Only add mappings that are manually verified.",
+  "women": {
+    "13411": {
+      "api_name": "A. Zolotareva",
+      "tle_key": "women:sackmann:221209",
+      "sackmann_name": "Anastasia Zolotareva",
+      "reason": "audit_high_confidence_same_surname_initial_dominant_candidate",
+      "method": "manual_override"
+    },
+    "12869": {
+      "api_name": "M. Timofeeva",
+      "tle_key": "women:sackmann:221237",
+      "sackmann_name": "Maria Timofeeva",
+      "reason": "audit_high_confidence_same_surname_initial_dominant_candidate",
+      "method": "manual_override"
+    },
+    "68376": {
+      "api_name": "L. Samsonova",
+      "tle_key": "women:sackmann:214643",
+      "sackmann_name": "Liudmila Samsonova",
+      "reason": "audit_high_confidence_same_surname_initial_dominant_candidate",
+      "method": "manual_override"
+    },
+    "1815": {
+      "api_name": "L. Sun",
+      "tle_key": "women:sackmann:215138",
+      "sackmann_name": "Lulu Sun",
+      "reason": "audit_high_confidence_same_surname_initial_dominant_candidate",
+      "method": "manual_override"
+    },
+    "460": {
+      "api_name": "M. Uchijima",
+      "tle_key": "women:sackmann:220416",
+      "sackmann_name": "Moyuka Uchijima",
+      "reason": "audit_high_confidence_same_surname_initial_dominant_candidate",
+      "method": "manual_override"
+    },
+    "196": {
+      "api_name": "A. Krueger",
+      "tle_key": "women:sackmann:221909",
+      "sackmann_name": "Ashlyn Krueger",
+      "reason": "audit_high_confidence_same_surname_initial_dominant_candidate",
+      "method": "manual_override"
+    },
+    "14547": {
+      "api_name": "A. Korneeva",
+      "tle_key": "women:sackmann:252499",
+      "sackmann_name": "Alina Korneeva",
+      "reason": "audit_high_confidence_same_surname_initial_dominant_candidate",
+      "method": "manual_override"
+    },
+    "2394": {
+      "api_name": "L. Fernandez",
+      "tle_key": "women:sackmann:220367",
+      "sackmann_name": "Leylah Fernandez",
+      "reason": "audit_high_confidence_same_surname_initial_dominant_candidate",
+      "method": "manual_override"
+    },
+    "159": {
+      "api_name": "A. Fita Boluda",
+      "tle_key": "women:sackmann:214236",
+      "sackmann_name": "Angela Fita Boluda",
+      "reason": "audit_high_confidence_same_surname_initial_dominant_candidate",
+      "method": "manual_override"
+    },
+    "1122": {
+      "api_name": "A. Tikhonova",
+      "tle_key": "women:sackmann:221073",
+      "sackmann_name": "Anastasia Tikhonova",
+      "reason": "audit_high_confidence_same_surname_initial_dominant_candidate",
+      "method": "manual_override"
+    },
+    "186": {
+      "api_name": "K. Scott",
+      "tle_key": "women:sackmann:221512",
+      "sackmann_name": "Katrina Scott",
+      "reason": "audit_high_confidence_same_surname_initial_dominant_candidate",
+      "method": "manual_override"
+    }
+  },
+  "men": {
+    "567": {
+      "api_name": "E. Nava",
+      "tle_key": "men:sackmann:207182",
+      "sackmann_name": "Emilio Nava",
+      "reason": "audit_high_confidence_same_surname_initial_dominant_candidate",
+      "method": "manual_override"
+    },
+    "3135": {
+      "api_name": "H. Chung",
+      "tle_key": "men:sackmann:111202",
+      "sackmann_name": "Hyeon Chung",
+      "reason": "audit_high_confidence_same_surname_initial_dominant_candidate",
+      "method": "manual_override"
+    },
+    "590": {
+      "api_name": "Z. Zhang",
+      "tle_key": "men:sackmann:111190",
+      "sackmann_name": "Zhizhen Zhang",
+      "reason": "audit_high_confidence_same_surname_initial_dominant_candidate",
+      "method": "manual_override"
+    },
+    "9037": {
+      "api_name": "T. Boyer",
+      "tle_key": "men:sackmann:207729",
+      "sackmann_name": "Tristan Boyer",
+      "reason": "audit_high_confidence_same_surname_initial_dominant_candidate",
+      "method": "manual_override"
+    },
+    "2838": {
+      "api_name": "B. Nakashima",
+      "tle_key": "men:sackmann:206909",
+      "sackmann_name": "Brandon Nakashima",
+      "reason": "audit_high_confidence_same_surname_initial_dominant_candidate",
+      "method": "manual_override"
+    },
+    "2227": {
+      "api_name": "C. Wong",
+      "tle_key": "men:sackmann:209409",
+      "sackmann_name": "Coleman Wong",
+      "reason": "audit_high_confidence_same_surname_initial_dominant_candidate",
+      "method": "manual_override"
+    },
+    "10508": {
+      "api_name": "P. A. Saraiva Dos Santos",
+      "tle_key": "men:sackmann:208063",
+      "sackmann_name": "Paulo Andre Saraiva Dos Santos",
+      "reason": "audit_high_confidence_same_surname_initial_dominant_candidate",
+      "method": "manual_override"
+    }
+  }
+}
