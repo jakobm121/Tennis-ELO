@@ -9,17 +9,17 @@
     "api_players": 2183,
     "sackmann_players": 11993,
     "mapping_statuses": {
-      "matched": 1978,
-      "review": 134,
+      "matched": 1996,
+      "review": 116,
       "unmatched": 71
     },
     "matches_by_status": {
-      "matched": 4543,
-      "review": 338,
+      "matched": 4596,
+      "review": 285,
       "unmatched": 132
     },
-    "matched_players": 1978,
-    "unresolved_players": 205
+    "matched_players": 1996,
+    "unresolved_players": 187
   },
   "players": {
     "11326": {
@@ -30521,13 +30521,17 @@
         "qualifying": 3,
         "challenger": 4
       },
-      "status": "review",
-      "method": "ambiguous",
-      "confidence": 0.0,
-      "sackmann_player_id": null,
-      "sackmann_player_key": null,
-      "sackmann_name": null,
-      "needs_review": true
+      "status": "matched",
+      "method": "manual_override",
+      "confidence": 1.0,
+      "sackmann_player_id": 221909,
+      "sackmann_player_key": "women:sackmann:221909",
+      "sackmann_name": "Ashlyn Krueger",
+      "needs_review": false,
+      "manual_reason": "audit_high_confidence_same_surname_initial_dominant_candidate",
+      "manual_updated_at": "",
+      "audit_source_event_key": "",
+      "audit_source_generated_at": ""
     },
     "1117": {
       "api_player_key": 1117,
@@ -30684,13 +30688,17 @@
       "levels": {
         "itf": 5
       },
-      "status": "review",
-      "method": "ambiguous",
-      "confidence": 0.0,
-      "sackmann_player_id": null,
-      "sackmann_player_key": null,
-      "sackmann_name": null,
-      "needs_review": true
+      "status": "matched",
+      "method": "manual_override",
+      "confidence": 1.0,
+      "sackmann_player_id": 221209,
+      "sackmann_player_key": "women:sackmann:221209",
+      "sackmann_name": "Anastasia Zolotareva",
+      "needs_review": false,
+      "manual_reason": "audit_high_confidence_same_surname_initial_dominant_candidate",
+      "manual_updated_at": "",
+      "audit_source_event_key": "",
+      "audit_source_generated_at": ""
     },
     "22255": {
       "api_player_key": 22255,
@@ -30717,13 +30725,17 @@
         "challenger": 4,
         "qualifying": 1
       },
-      "status": "review",
-      "method": "ambiguous",
-      "confidence": 0.0,
-      "sackmann_player_id": null,
-      "sackmann_player_key": null,
-      "sackmann_name": null,
-      "needs_review": true
+      "status": "matched",
+      "method": "manual_override",
+      "confidence": 1.0,
+      "sackmann_player_id": 207182,
+      "sackmann_player_key": "men:sackmann:207182",
+      "sackmann_name": "Emilio Nava",
+      "needs_review": false,
+      "manual_reason": "audit_high_confidence_same_surname_initial_dominant_candidate",
+      "manual_updated_at": "",
+      "audit_source_event_key": "",
+      "audit_source_generated_at": ""
     },
     "902": {
       "api_player_key": 902,
@@ -30797,13 +30809,17 @@
       "levels": {
         "challenger": 5
       },
-      "status": "review",
-      "method": "ambiguous",
-      "confidence": 0.0,
-      "sackmann_player_id": null,
-      "sackmann_player_key": null,
-      "sackmann_name": null,
-      "needs_review": true
+      "status": "matched",
+      "method": "manual_override",
+      "confidence": 1.0,
+      "sackmann_player_id": 221237,
+      "sackmann_player_key": "women:sackmann:221237",
+      "sackmann_name": "Maria Timofeeva",
+      "needs_review": false,
+      "manual_reason": "audit_high_confidence_same_surname_initial_dominant_candidate",
+      "manual_updated_at": "",
+      "audit_source_event_key": "",
+      "audit_source_generated_at": ""
     },
     "102950": {
       "api_player_key": 102950,
@@ -30862,13 +30878,17 @@
         "itf": 3,
         "qualifying": 1
       },
-      "status": "review",
-      "method": "ambiguous",
-      "confidence": 0.0,
-      "sackmann_player_id": null,
-      "sackmann_player_key": null,
-      "sackmann_name": null,
-      "needs_review": true
+      "status": "matched",
+      "method": "manual_override",
+      "confidence": 1.0,
+      "sackmann_player_id": 214236,
+      "sackmann_player_key": "women:sackmann:214236",
+      "sackmann_name": "Angela Fita Boluda",
+      "needs_review": false,
+      "manual_reason": "audit_high_confidence_same_surname_initial_dominant_candidate",
+      "manual_updated_at": "",
+      "audit_source_event_key": "",
+      "audit_source_generated_at": ""
     },
     "1418": {
       "api_player_key": 1418,
@@ -31088,13 +31108,17 @@
         "challenger": 3,
         "qualifying": 1
       },
-      "status": "review",
-      "method": "ambiguous",
-      "confidence": 0.0,
-      "sackmann_player_id": null,
-      "sackmann_player_key": null,
-      "sackmann_name": null,
-      "needs_review": true
+      "status": "matched",
+      "method": "manual_override",
+      "confidence": 1.0,
+      "sackmann_player_id": 207729,
+      "sackmann_player_key": "men:sackmann:207729",
+      "sackmann_name": "Tristan Boyer",
+      "needs_review": false,
+      "manual_reason": "audit_high_confidence_same_surname_initial_dominant_candidate",
+      "manual_updated_at": "",
+      "audit_source_event_key": "",
+      "audit_source_generated_at": ""
     },
     "14315": {
       "api_player_key": 14315,
@@ -31121,13 +31145,17 @@
         "qualifying": 3,
         "challenger": 1
       },
-      "status": "review",
-      "method": "ambiguous",
-      "confidence": 0.0,
-      "sackmann_player_id": null,
-      "sackmann_player_key": null,
-      "sackmann_name": null,
-      "needs_review": true
+      "status": "matched",
+      "method": "manual_override",
+      "confidence": 1.0,
+      "sackmann_player_id": 111190,
+      "sackmann_player_key": "men:sackmann:111190",
+      "sackmann_name": "Zhizhen Zhang",
+      "needs_review": false,
+      "manual_reason": "audit_high_confidence_same_surname_initial_dominant_candidate",
+      "manual_updated_at": "",
+      "audit_source_event_key": "",
+      "audit_source_generated_at": ""
     },
     "13016": {
       "api_player_key": 13016,
@@ -31185,13 +31213,17 @@
       "levels": {
         "itf": 3
       },
-      "status": "review",
-      "method": "ambiguous",
-      "confidence": 0.0,
-      "sackmann_player_id": null,
-      "sackmann_player_key": null,
-      "sackmann_name": null,
-      "needs_review": true
+      "status": "matched",
+      "method": "manual_override",
+      "confidence": 1.0,
+      "sackmann_player_id": 221073,
+      "sackmann_player_key": "women:sackmann:221073",
+      "sackmann_name": "Anastasia Tikhonova",
+      "needs_review": false,
+      "manual_reason": "audit_high_confidence_same_surname_initial_dominant_candidate",
+      "manual_updated_at": "",
+      "audit_source_event_key": "",
+      "audit_source_generated_at": ""
     },
     "61814": {
       "api_player_key": 61814,
@@ -31234,13 +31266,17 @@
         "challenger": 2,
         "qualifying": 1
       },
-      "status": "review",
-      "method": "ambiguous",
-      "confidence": 0.0,
-      "sackmann_player_id": null,
-      "sackmann_player_key": null,
-      "sackmann_name": null,
-      "needs_review": true
+      "status": "matched",
+      "method": "manual_override",
+      "confidence": 1.0,
+      "sackmann_player_id": 209409,
+      "sackmann_player_key": "men:sackmann:209409",
+      "sackmann_name": "Coleman Wong",
+      "needs_review": false,
+      "manual_reason": "audit_high_confidence_same_surname_initial_dominant_candidate",
+      "manual_updated_at": "",
+      "audit_source_event_key": "",
+      "audit_source_generated_at": ""
     },
     "50705": {
       "api_player_key": 50705,
@@ -31590,13 +31626,17 @@
         "main_tour": 1,
         "qualifying": 1
       },
-      "status": "review",
-      "method": "ambiguous",
-      "confidence": 0.0,
-      "sackmann_player_id": null,
-      "sackmann_player_key": null,
-      "sackmann_name": null,
-      "needs_review": true
+      "status": "matched",
+      "method": "manual_override",
+      "confidence": 1.0,
+      "sackmann_player_id": 252499,
+      "sackmann_player_key": "women:sackmann:252499",
+      "sackmann_name": "Alina Korneeva",
+      "needs_review": false,
+      "manual_reason": "audit_high_confidence_same_surname_initial_dominant_candidate",
+      "manual_updated_at": "",
+      "audit_source_event_key": "",
+      "audit_source_generated_at": ""
     },
     "90841": {
       "api_player_key": 90841,
@@ -31686,13 +31726,17 @@
       "levels": {
         "main_tour": 2
       },
-      "status": "review",
-      "method": "ambiguous",
-      "confidence": 0.0,
-      "sackmann_player_id": null,
-      "sackmann_player_key": null,
-      "sackmann_name": null,
-      "needs_review": true
+      "status": "matched",
+      "method": "manual_override",
+      "confidence": 1.0,
+      "sackmann_player_id": 206909,
+      "sackmann_player_key": "men:sackmann:206909",
+      "sackmann_name": "Brandon Nakashima",
+      "needs_review": false,
+      "manual_reason": "audit_high_confidence_same_surname_initial_dominant_candidate",
+      "manual_updated_at": "",
+      "audit_source_event_key": "",
+      "audit_source_generated_at": ""
     },
     "58219": {
       "api_player_key": 58219,
@@ -31943,13 +31987,17 @@
       "levels": {
         "itf": 2
       },
-      "status": "review",
-      "method": "ambiguous",
-      "confidence": 0.0,
-      "sackmann_player_id": null,
-      "sackmann_player_key": null,
-      "sackmann_name": null,
-      "needs_review": true
+      "status": "matched",
+      "method": "manual_override",
+      "confidence": 1.0,
+      "sackmann_player_id": 221512,
+      "sackmann_player_key": "women:sackmann:221512",
+      "sackmann_name": "Katrina Scott",
+      "needs_review": false,
+      "manual_reason": "audit_high_confidence_same_surname_initial_dominant_candidate",
+      "manual_updated_at": "",
+      "audit_source_event_key": "",
+      "audit_source_generated_at": ""
     },
     "23191": {
       "api_player_key": 23191,
@@ -31992,13 +32040,17 @@
         "challenger": 1,
         "qualifying": 1
       },
-      "status": "review",
-      "method": "ambiguous",
-      "confidence": 0.0,
-      "sackmann_player_id": null,
-      "sackmann_player_key": null,
-      "sackmann_name": null,
-      "needs_review": true
+      "status": "matched",
+      "method": "manual_override",
+      "confidence": 1.0,
+      "sackmann_player_id": 215138,
+      "sackmann_player_key": "women:sackmann:215138",
+      "sackmann_name": "Lulu Sun",
+      "needs_review": false,
+      "manual_reason": "audit_high_confidence_same_surname_initial_dominant_candidate",
+      "manual_updated_at": "",
+      "audit_source_event_key": "",
+      "audit_source_generated_at": ""
     },
     "451": {
       "api_player_key": 451,
@@ -32889,13 +32941,17 @@
       "levels": {
         "itf": 1
       },
-      "status": "review",
-      "method": "ambiguous",
-      "confidence": 0.0,
-      "sackmann_player_id": null,
-      "sackmann_player_key": null,
-      "sackmann_name": null,
-      "needs_review": true
+      "status": "matched",
+      "method": "manual_override",
+      "confidence": 1.0,
+      "sackmann_player_id": 111202,
+      "sackmann_player_key": "men:sackmann:111202",
+      "sackmann_name": "Hyeon Chung",
+      "needs_review": false,
+      "manual_reason": "audit_high_confidence_same_surname_initial_dominant_candidate",
+      "manual_updated_at": "",
+      "audit_source_event_key": "",
+      "audit_source_generated_at": ""
     },
     "38832": {
       "api_player_key": 38832,
@@ -33081,13 +33137,17 @@
       "levels": {
         "qualifying": 1
       },
-      "status": "review",
-      "method": "ambiguous",
-      "confidence": 0.0,
-      "sackmann_player_id": null,
-      "sackmann_player_key": null,
-      "sackmann_name": null,
-      "needs_review": true
+      "status": "matched",
+      "method": "manual_override",
+      "confidence": 1.0,
+      "sackmann_player_id": 220367,
+      "sackmann_player_key": "women:sackmann:220367",
+      "sackmann_name": "Leylah Fernandez",
+      "needs_review": false,
+      "manual_reason": "audit_high_confidence_same_surname_initial_dominant_candidate",
+      "manual_updated_at": "",
+      "audit_source_event_key": "",
+      "audit_source_generated_at": ""
     },
     "68376": {
       "api_player_key": 68376,
@@ -33097,13 +33157,17 @@
       "levels": {
         "qualifying": 1
       },
-      "status": "review",
-      "method": "ambiguous",
-      "confidence": 0.0,
-      "sackmann_player_id": null,
-      "sackmann_player_key": null,
-      "sackmann_name": null,
-      "needs_review": true
+      "status": "matched",
+      "method": "manual_override",
+      "confidence": 1.0,
+      "sackmann_player_id": 214643,
+      "sackmann_player_key": "women:sackmann:214643",
+      "sackmann_name": "Liudmila Samsonova",
+      "needs_review": false,
+      "manual_reason": "audit_high_confidence_same_surname_initial_dominant_candidate",
+      "manual_updated_at": "",
+      "audit_source_event_key": "",
+      "audit_source_generated_at": ""
     },
     "102976": {
       "api_player_key": 102976,
@@ -33273,13 +33337,17 @@
       "levels": {
         "itf": 1
       },
-      "status": "review",
-      "method": "ambiguous",
-      "confidence": 0.0,
-      "sackmann_player_id": null,
-      "sackmann_player_key": null,
-      "sackmann_name": null,
-      "needs_review": true
+      "status": "matched",
+      "method": "manual_override",
+      "confidence": 1.0,
+      "sackmann_player_id": 220416,
+      "sackmann_player_key": "women:sackmann:220416",
+      "sackmann_name": "Moyuka Uchijima",
+      "needs_review": false,
+      "manual_reason": "audit_high_confidence_same_surname_initial_dominant_candidate",
+      "manual_updated_at": "",
+      "audit_source_event_key": "",
+      "audit_source_generated_at": ""
     },
     "2024": {
       "api_player_key": 2024,
@@ -33385,13 +33453,17 @@
       "levels": {
         "itf": 1
       },
-      "status": "review",
-      "method": "ambiguous",
-      "confidence": 0.0,
-      "sackmann_player_id": null,
-      "sackmann_player_key": null,
-      "sackmann_name": null,
-      "needs_review": true
+      "status": "matched",
+      "method": "manual_override",
+      "confidence": 1.0,
+      "sackmann_player_id": 208063,
+      "sackmann_player_key": "men:sackmann:208063",
+      "sackmann_name": "Paulo Andre Saraiva Dos Santos",
+      "needs_review": false,
+      "manual_reason": "audit_high_confidence_same_surname_initial_dominant_candidate",
+      "manual_updated_at": "",
+      "audit_source_event_key": "",
+      "audit_source_generated_at": ""
     },
     "1872": {
       "api_player_key": 1872,
@@ -35373,6 +35445,24 @@
       "apply_mode": true,
       "auto_added": 13,
       "already_ok": 0,
+      "conflicts": 0,
+      "needs_manual_review": 6,
+      "skipped": 0
+    },
+    {
+      "updated_at": "2026-06-15T06:38:11Z",
+      "audit_generated_at": "2026-06-15T05:17:19+00:00",
+      "auto_methods": [
+        "audit_unmapped_sackmann_lookup",
+        "unique_surname_initial"
+      ],
+      "apply_mode": true,
+      "manual_overrides": 18,
+      "manual_added": 18,
+      "manual_already_ok": 0,
+      "manual_conflicts": 0,
+      "auto_added": 0,
+      "already_ok": 13,
       "conflicts": 0,
       "needs_manual_review": 6,
       "skipped": 0
