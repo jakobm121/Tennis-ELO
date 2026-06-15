@@ -34,6 +34,7 @@ DEFAULT_AUDIT_URL = (
 )
 DEFAULT_MAPPING_PATH = Path("data/tle/mappings/api_player_to_sackmann.json")
 DEFAULT_TABLE_PATH = Path("data/tle/mappings/mapping_repair_table.md")
+DEFAULT_MANUAL_OVERRIDES_PATH = Path("data/tle/mappings/api_player_manual_overrides.json")
 DEFAULT_SACKMANN_MANIFEST = Path("data/tle/processed/sackmann/tle_sackmann_manifest.json")
 
 SAFE_AUTO_METHODS = {"unique_surname_initial"}
@@ -298,6 +299,78 @@ def mapping_entry_from_review(row: dict[str, Any]) -> dict[str, Any] | None:
     }
 
 
+def load_manual_overrides(path: Path) -> dict[str, dict[str, Any]]:
+    """Load manually verified API -> Sackmann overrides.
+
+    Supported formats:
+      1) {"players": {"12869": {...}}}
+      2) {"women": {"12869": {...}}, "men": {"902": {...}}}
+
+    Each override needs at least:
+      - tle_key: women:sackmann:221237
+      - api_name
+      - sackmann_name
+    """
+    if not path.exists():
+        return {}
+    payload = read_json(path)
+    out: dict[str, dict[str, Any]] = {}
+
+    players = payload.get("players") if isinstance(payload, dict) else None
+    if isinstance(players, dict):
+        for api_key, row in players.items():
+            if isinstance(row, dict):
+                out[clean_text(api_key)] = dict(row)
+
+    if isinstance(payload, dict):
+        for gender in ("men", "women"):
+            block = payload.get(gender)
+            if not isinstance(block, dict):
+                continue
+            for api_key, row in block.items():
+                if isinstance(row, dict):
+                    enriched = dict(row)
+                    enriched.setdefault("gender", gender)
+                    out[clean_text(api_key)] = enriched
+
+    return {k: v for k, v in out.items() if k}
+
+
+def mapping_entry_from_manual_override(api_key_str: str, row: dict[str, Any]) -> tuple[dict[str, Any] | None, str]:
+    parsed = parse_sackmann_key(row.get("tle_key") or row.get("sackmann_player_key") or "")
+    if not parsed:
+        return None, "invalid or missing tle_key"
+    gender, sackmann_id, sackmann_key = parsed
+    if clean_text(row.get("gender") or gender).lower() != gender:
+        return None, "gender does not match tle_key"
+    api_name = clean_text(row.get("api_name"))
+    sackmann_name = clean_text(row.get("sackmann_name") or row.get("tle_display_name"))
+    if not api_name or not sackmann_name:
+        return None, "missing api_name or sackmann_name"
+    try:
+        api_key = int(api_key_str)
+    except (TypeError, ValueError):
+        return None, "invalid api key"
+    return {
+        "api_player_key": api_key,
+        "api_name": api_name,
+        "gender": gender,
+        "matches_seen": 0,
+        "levels": {},
+        "status": "matched",
+        "method": clean_text(row.get("method")) or "manual_override",
+        "confidence": float(row.get("confidence") or 1.0),
+        "sackmann_player_id": sackmann_id,
+        "sackmann_player_key": sackmann_key,
+        "sackmann_name": sackmann_name,
+        "needs_review": False,
+        "manual_reason": clean_text(row.get("reason")) or "manual_verified",
+        "manual_updated_at": clean_text(row.get("updated_at")),
+        "audit_source_event_key": "",
+        "audit_source_generated_at": "",
+    }, "manual override"
+
+
 def recompute_summary(mapping: dict[str, Any]) -> None:
     players = mapping.get("players") or {}
     status_counts: Counter[str] = Counter()
@@ -334,6 +407,9 @@ def build_table(rows: list[dict[str, Any]], summary: dict[str, Any]) -> str:
     for key in [
         "audit_generated_at",
         "review_players",
+        "manual_added",
+        "manual_already_ok",
+        "manual_conflicts",
         "auto_added",
         "already_ok",
         "conflicts",
@@ -384,6 +460,7 @@ def apply_audit(
     *,
     apply: bool,
     sackmann_lookup: dict[str, Any] | None = None,
+    manual_overrides: dict[str, dict[str, Any]] | None = None,
 ) -> tuple[dict[str, Any], list[dict[str, Any]], dict[str, Any]]:
     result_mapping = copy.deepcopy(mapping)
     players = result_mapping.setdefault("players", {})
@@ -402,6 +479,57 @@ def apply_audit(
 
     table_rows: list[dict[str, Any]] = []
     counters: Counter[str] = Counter()
+
+    # Manual overrides are applied first and have priority over all automated suggestions.
+    for api_key_str, override_row in sorted((manual_overrides or {}).items(), key=lambda kv: int(kv[0]) if kv[0].isdigit() else 999999999):
+        suggested_entry, override_note = mapping_entry_from_manual_override(api_key_str, override_row)
+        existing = players.get(api_key_str)
+        action = "MANUAL_SKIPPED"
+        note = override_note
+        if not suggested_entry:
+            counters["manual_conflicts"] += 1
+        else:
+            suggested_key = clean_text(suggested_entry.get("sackmann_player_key"))
+            if existing:
+                existing_status = clean_text(existing.get("status"))
+                existing_key = clean_text(existing.get("sackmann_player_key"))
+                if existing_status == "matched" and existing_key == suggested_key:
+                    action = "MANUAL_ALREADY_OK"
+                    counters["manual_already_ok"] += 1
+                    note = "already mapped to same Sackmann player"
+                elif existing_status in {"review", "unmatched", ""} or not existing_key:
+                    suggested_entry["matches_seen"] = int(existing.get("matches_seen") or 0) if isinstance(existing, dict) else 0
+                    suggested_entry["levels"] = existing.get("levels") or {} if isinstance(existing, dict) else {}
+                    if apply:
+                        players[api_key_str] = suggested_entry
+                    action = "MANUAL_ADD_MAPPING"
+                    counters["manual_added"] += 1
+                    note = f"replaced existing status={existing_status or 'unknown'}"
+                else:
+                    action = "MANUAL_CONFLICT"
+                    counters["manual_conflicts"] += 1
+                    note = f"existing {existing_key} != manual {suggested_key}"
+            else:
+                if apply:
+                    players[api_key_str] = suggested_entry
+                action = "MANUAL_ADD_MAPPING"
+                counters["manual_added"] += 1
+                note = "new manual override"
+
+        table_rows.append(
+            {
+                "action": action,
+                "api_player_key": api_key_str,
+                "api_name": clean_text((suggested_entry or override_row).get("api_name")),
+                "gender": clean_text((suggested_entry or override_row).get("gender")),
+                "resolve_method": "manual_override",
+                "tle_key": clean_text((suggested_entry or override_row).get("sackmann_player_key") or override_row.get("tle_key")),
+                "tle_display_name": clean_text((suggested_entry or override_row).get("sackmann_name")),
+                "event_key": "",
+                "context": "manual override file",
+                "note": note,
+            }
+        )
 
     for api_key_str, row in sorted(by_api_key.items(), key=lambda kv: int(kv[0]) if kv[0].isdigit() else 999999999):
         method = clean_text(row.get("resolve_method"))
@@ -501,6 +629,10 @@ def apply_audit(
         "audit_generated_at": audit_generated_at,
         "auto_methods": sorted(SAFE_AUTO_METHODS | {AUTO_UNMAPPED_METHOD}),
         "apply_mode": apply,
+        "manual_overrides": len(manual_overrides or {}),
+        "manual_added": counters["manual_added"],
+        "manual_already_ok": counters["manual_already_ok"],
+        "manual_conflicts": counters["manual_conflicts"],
         "auto_added": counters["auto_added"],
         "already_ok": counters["already_ok"],
         "conflicts": counters["conflicts"],
@@ -521,6 +653,7 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--mapping", default=str(DEFAULT_MAPPING_PATH), help="Local api_player_to_sackmann.json path")
     parser.add_argument("--table", default=str(DEFAULT_TABLE_PATH), help="Output markdown repair table path")
     parser.add_argument("--dry-run", action="store_true", help="Do not write mapping JSON; only write table")
+    parser.add_argument("--manual-overrides", default=str(DEFAULT_MANUAL_OVERRIDES_PATH), help="Local manual override JSON path")
     parser.add_argument("--sackmann-manifest", default=str(DEFAULT_SACKMANN_MANIFEST), help="Local Sackmann manifest used for strict api_key_unmapped lookup")
     parser.add_argument("--disable-unmapped-lookup", action="store_true", help="Do not try local Sackmann lookup for api_key_unmapped rows")
     args = parser.parse_args(argv)
@@ -529,6 +662,7 @@ def main(argv: list[str] | None = None) -> int:
     mapping_path = Path(args.mapping)
     table_path = Path(args.table)
     mapping = read_json(mapping_path)
+    manual_overrides = load_manual_overrides(Path(args.manual_overrides))
 
     apply_mode = not args.dry_run
     sackmann_lookup = None
@@ -543,6 +677,7 @@ def main(argv: list[str] | None = None) -> int:
         mapping,
         apply=apply_mode,
         sackmann_lookup=sackmann_lookup,
+        manual_overrides=manual_overrides,
     )
 
     table_path.parent.mkdir(parents=True, exist_ok=True)
@@ -554,6 +689,10 @@ def main(argv: list[str] | None = None) -> int:
     print("TLE mapping audit repair complete")
     print(f"audit_generated_at: {summary.get('audit_generated_at')}")
     print(f"review_players: {summary.get('review_players')}")
+    print(f"manual_overrides: {summary.get('manual_overrides')}")
+    print(f"manual_added: {summary.get('manual_added')}")
+    print(f"manual_already_ok: {summary.get('manual_already_ok')}")
+    print(f"manual_conflicts: {summary.get('manual_conflicts')}")
     print(f"auto_added: {summary.get('auto_added')}")
     print(f"already_ok: {summary.get('already_ok')}")
     print(f"conflicts: {summary.get('conflicts')}")
@@ -564,7 +703,8 @@ def main(argv: list[str] | None = None) -> int:
         print("dry_run: mapping JSON was not changed")
     else:
         print(f"mapping: {mapping_path}")
-    return 0 if summary.get("conflicts", 0) == 0 else 2
+    total_conflicts = int(summary.get("conflicts", 0) or 0) + int(summary.get("manual_conflicts", 0) or 0)
+    return 0 if total_conflicts == 0 else 2
 
 
 if __name__ == "__main__":
