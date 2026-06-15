@@ -19,6 +19,27 @@ TEČAJEVI
 GOTOVO
 RASPORED
 15/06 PO
+Halle (Njemačka), trava
+ATP - SINGL: 
+Ždrijeb
+Kraj
+Schoenhaus M.
+Tien L.
+0
+2
+2
+6
+4
+6
+Kraj
+Basilashvili N.
+Altmaier D.
+0
+2
+5
+7
+4
+6
 London (Ujedinjeno Kraljevstvo), trava
 ATP - SINGL: 
 Ždrijeb
@@ -40,6 +61,14 @@ Bartunkova N.
 Gauff C.
 -
 -
+Kraj
+(predano)
+Alexandrova E.
+Potapova A.
+1
+0
+6
+1
 Nottingham (Ujedinjeno Kraljevstvo), trava
 WTA - SINGL: 
 Ždrijeb
@@ -58,81 +87,164 @@ Tjen J.
 Fernandez L.
 -
 -
+Kraj
+Bouzkova M.
+Valentova T.
+2
+0
+6
+3
+6
+3
+Kraj
+Maria T.
+Tjen J.
+2
+0
+6
+3
+6
+2
+Otkazano
+Bejlek S.
+Navarro E.
+-
+-
 Berlin (Njemačka) - Kvalifikacije, trava
 WTA - SINGL: 
 Ždrijeb
-Prekinuto
+Kraj
 Lamens S.
 Galfi D.
-1
+2
 0
 6
 3
-1
-1
-0
-0
-Prekinuto
+7
+7
+6
+4
+Kraj
 Parry D.
 Seidel E.
-1
+2
 0
 6
 3
-3
-1
-0
-0
-Prekinuto
+6
+4
+Kraj
 Sun L.
 Kalinina A.
 0
-1
+2
 4
 6
-0
-1
-0
-0
-Prekinuto
+3
+6
+Kraj
 Brockmann T. J.
 Parks A.
-1
+2
 1
 4
 6
 6
 4
-4
+6
 2
-0
-0
-Prekinuto
-Marčinko P.
-Ito A.
-1
+Kraj
+Zhu L.
+Kraus S.
+2
 0
 6
 2
+6
+3
+Kraj
+Frech M.
+Zhang S.
 0
 2
-40
-40
-Prekinuto
+2
+6
+4
+6
+Kraj
+Timofeeva M.
+Zarazua R.
+0
+2
+5
+7
+2
+6
+Kraj
 Siniakova K.
 Yuan Y.
+2
 0
-0
-5
+6
 4
+6
+2
+Halle (Njemačka), trava
+ATP - PAROVI: 
+Ždrijeb
+Kraj
+Etcheverry T. M.
+Kecmanovic M.
+Schnaitter J.
+Wallner M.
 0
-0
+2
+6
+4
+7
+7
+3
+6
 Asuncion 2 (Paragvaj), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
 Otkazano
 Estevez J.
 Dickerson R.
+-
+-
+Nottingham (Ujedinjeno Kraljevstvo), trava
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Nardi L.
+Bertola R.
+1
+2
+6
+3
+6
+4
+7
+7
+6
+2
+7
+7
+Kraj
+Tarvet O.
+Safiullin R.
+1
+2
+6
+4
+3
+6
+2
+6
+Otkazano
+Gray A.
+Schoolkate T.
 -
 -
 Asuncion 2 (Paragvaj) - Kvalifikacije, zemlja
@@ -156,52 +268,341 @@ Parisca I.
 6
 1
 6
+Dublin (Irska) - Kvalifikacije, trava
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Crawford O.
+Visker N.
+2
+1
+6
+2
+7
+7
+6
+2
+6
+2
+Kraj
+Hewitt C.
+Vandecasteele Q.
+0
+2
+1
+6
+4
+6
+Kraj
+Kokkinakis T.
+Elamin A.
+2
+0
+6
+2
+6
+1
+Kraj
+Hsu Y. H.
+Zhou Y.
+0
+2
+4
+6
+5
+7
+Parma (Italija) - Kvalifikacije, zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Bocchi L.
+Weis A.
+0
+2
+6
+3
+7
+7
+4
+6
+Kraj
+Compagnucci T.
+Martin Manzano J. C.
+1
+2
+3
+6
+7
+9
+6
+7
+4
+6
+Kraj
+Seggerman R.
+Tobon M.
+2
+1
+6
+4
+3
+6
+7
+7
+6
+5
+Kraj
+Martineau M.
+Wiedenmann L.
+0
+2
+4
+6
+1
+6
+Kraj
+Roca Batalla O.
+Sanchez Quilez A.
+2
+0
+6
+3
+6
+3
 Poznan (Poljska) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
-Prekinuto
+Kraj
+Rehberg M. H.
+Marti Pujolras A.
+2
+0
+6
+3
+6
+1
+Kraj
 Siniakov D.
 Hassan B.
-1
+2
 1
 6
 3
 4
 6
+6
 2
-1
-0
-0
-Prekinuto
+Kraj
 Vrbensky M.
 Karol M.
 0
-0
+2
 6
+4
+7
+7
 1
 6
-2
-0
-0
-Prekinuto
+Kraj
 Wazny A.
 Yevseyev D.
-1
+2
 0
 6
 3
+6
+0
+Kraj
+Mrva M.
+Sadzik J.
+2
+0
+6
+4
+6
 1
+Kraj
+Lopez Morillo I.
+Wallin O.
+1
+2
+3
+6
+7
+10
+6
+8
+3
+6
+Kraj
+Donski A.
+Pieczonka F.
+2
 0
-15
+6
+3
+6
+4
+Kraj
+Gombos N.
+Blus A.
+2
 0
+6
+2
+6
+4
+Kraj
+Filar K.
+Wazny A.
+0
+2
+2
+6
+5
+7
+Kraj
+Castelnuovo L.
+Karol M.
+1
+2
+6
+3
+2
+6
+3
+6
+Royan (Francuska) - Kvalifikacije, zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+De Jonge D.
+Zhu M.
+1
+2
+6
+3
+6
+10
+7
+12
+4
+6
+Kraj
+Demanet E.
+Fancutt T. J.
+2
+0
+7
+5
+6
+2
 Brescia (Italija), zemlja
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
+Kraj
+Yaneva E.
+Pedone G.
+2
+0
+6
+3
+6
+3
 Otkazano
 Gorgodze E.
 Semenistaja D.
 -
 -
+Brescia (Italija) - Kvalifikacije, zemlja
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Ruggeri J.
+Pieri T.
+2
+0
+6
+4
+6
+2
+Kraj
+Kazionova E.
+Chiesa D.
+1
+2
+6
+3
+2
+6
+2
+6
+Kraj
+Ristic M.
+Basiletti N.
+2
+0
+6
+2
+6
+3
+Kraj
+Paquet C.
+Toth A. K.
+2
+0
+6
+4
+6
+3
+Figueira Da Foz (Portugal) - Kvalifikacije, tvrda podloga
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Kulikova A.
+Kobori M.
+2
+1
+6
+1
+2
+6
+7
+5
+Kraj
+Osuigwe W.
+Voloshchuk A.
+0
+2
+1
+6
+4
+6
+M25 Milano (Italija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Busciola F.
+La Vela G.
+0
+2
+1
+6
+1
+6
+Billie Jean King Cup - Group II (Svijet)
+TIMOVI - ŽENE: 
+Tablica
+Kraj
+Malezija Ž
+Laos Ž
+3
+0
+Kraj
+Uzbekistan Ž
+Šri Lanka Ž
+2
+1
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -229,16 +630,16 @@ ATP Parovi Race
 WTA Parovi Race
 AKTUALNI TURNIRI
 ATP Halle
-ATP Hertogenbosch
 ATP London
-ATP Stuttgart
+WTA Berlin
+WTA Nottingham
+ATP Halle
+ATP London
 WTA Berlin
 WTA London
 WTA Nottingham
-WTA S-Hertogenbosch
-ATP Halle
-ATP London
-Prikaži više (57)
+Asuncion 2 Challenger Muškarci
+Prikaži više (44)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -264,7 +665,7 @@ Juniori - singl
 Juniorke - singl
 Prikaži više
 Tenis livescore na Rezultatima nudi teniske rezultate uživo za preko 5000 teniskih turnira diljem svijeta, uključujući Australian Open, French Open, Wimbledon, US Open i mnoge druge. Pratite najnovije rezultate iz tenisa na Rezultatima, gdje možete pronaći detaljnu statistiku (asevi, dvostruke pogreške, postotak servisa, osvojeni servisi, spašene break lopte, neprisiljene pogreške, itd.), usporedbu koeficijenata, međuosboni omjer, vijesti, video sažetke ili tijek meča poen po poen. Pronađite sve današnje rezultate i vijesti iz tenisa na Rezultatima, uključujući ATP rezultate, WTA rezultate, ATP poredak, ATP kalendar 2026, WTA kalendar 2026, ili profile igrača (npr. Jannik Sinner, Carlos Alcaraz, Novak Đoković, Donna Vekić). Usluga tenis livescore se automatski ažurira, tako da nema potrebe da osvježavate stranicu.
-
+15.06. Borges Nuno - Auger-Aliassime Felix, Cobolli Flavio - Tiafoe Frances, 16.06. Griekspoor Tallon - Shimabukuro Sho, Shelton Ben - Kyrgios Nick, Zverev Alexander - Kopriva Vit, Khachanov Karen - Quinn Ethan, Fonseca Joao - Hanfmann Yannick, Bergs Zizou - Fritz Taylor, Marozsan Fabian - Kecmanovic Miomir, Rublev Andrey - Hurkacz Hubert, Etcheverry Tomas Martin - Medvedev Daniil, Bellucci Mattia - Bublik Alexander, Popyrin Alexei - Collignon Raphael
 
 SP 2026
 Svjetsko Prvenstvo u nogometu utakmice
@@ -278,9 +679,9 @@ Engleska
 Francuska
 Portugal
 U TRENDU
-WTA S-Hertogenbosch 2026
-ATP Hertogenbosch 2026
-ATP Stuttgart
+ATP Halle 2026
+ATP London 2026
+WTA Berlin
 NBA
 ABA liga 2026
 Premier Liga košarka 2026
@@ -319,7 +720,7 @@ Hrvatska Ž - Sj. Makedonija Ž
 Nizozemska - Hrvatska
 Slovenija Ž - Hrvatska Ž
 Srbija - Japan
-Španjolska - Zelenortska Republika
+Španjolska - Zelenortski Otoci
 Belgija - Egipat
 REZULTATI.COM
 Pravila korištenja
@@ -340,7 +741,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Must be 21+. If you or someone you know has a gambling problem, crisis counselling and referral services can be accessed by calling 1-800-GAMBLER (1-800-426-2537) or by texting ILGAMB to 833234. The 1-800-GAMBLER helpline can be used for multi-jurisdictional advertising.
+Igrajte odgovorno. Gambling Therapy. 18+
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
