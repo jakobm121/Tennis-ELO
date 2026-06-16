@@ -1,14 +1,13 @@
 {
-  "generated_at": "2026-06-16T01:22:21.334046+02:00",
+  "generated_at": "2026-06-16T08:14:01.263458+02:00",
   "summary": {
-    "odds_matches": 173,
-    "evaluated_strategy_rows": 810,
-    "shadow_bets": 1,
+    "odds_matches": 220,
+    "evaluated_strategy_rows": 990,
+    "shadow_bets": 2,
     "watch_picks": 0,
-    "no_bet": 809,
-    "shadow_bet": 1,
-    "missing_first_set_totals": 36,
-    "missing_match_winner": 2
+    "no_bet": 988,
+    "shadow_bet": 2,
+    "missing_first_set_totals": 55
   },
   "top_shadow_picks": [
     {
@@ -24,16 +23,16 @@
       "gender": "men",
       "surface": "unknown",
       "favorite": "A. De Minaur",
-      "favorite_probability": 0.802676,
+      "favorite_probability": 0.794066,
       "strategy_id": "all_fav75_under_9_5",
       "market": "first_set_total_games",
       "side": "under",
       "line": 9.5,
-      "odds": 2.1,
-      "bookmaker": "BetVictor",
+      "odds": 2.5,
+      "bookmaker": "Betano",
       "model_probability": 0.55838,
       "fair_odds": 1.791,
-      "edge": 0.1726,
+      "edge": 0.396,
       "confidence": "medium",
       "decision": "SHADOW_BET",
       "reasons": [],
@@ -51,6 +50,49 @@
         "profile_probabilities": [
           0.5396,
           0.4515
+        ]
+      }
+    },
+    {
+      "pick_id": "12136504|first_set|over|8.5|men_over_8_5",
+      "event_key": 12136504,
+      "date": "2026-06-16",
+      "time": "15:00",
+      "match": "A. Zverev - V. Kopriva",
+      "player_1": "A. Zverev",
+      "player_2": "V. Kopriva",
+      "tournament": "Halle",
+      "tour_level": "atp",
+      "gender": "men",
+      "surface": "grass",
+      "favorite": "A. Zverev",
+      "favorite_probability": 0.911403,
+      "strategy_id": "men_over_8_5",
+      "market": "first_set_total_games",
+      "side": "over",
+      "line": 8.5,
+      "odds": 1.42,
+      "bookmaker": "Betano",
+      "model_probability": 0.742567,
+      "fair_odds": 1.347,
+      "edge": 0.0544,
+      "confidence": "medium",
+      "decision": "SHADOW_BET",
+      "reasons": [],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Zverev A.",
+        "player_1_sample": 155,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Kopriva V.",
+        "player_2_sample": 47
+      },
+      "model_details": {
+        "strategy_base_probability": 0.7544,
+        "player_component_probability": 0.715,
+        "profile_probabilities": [
+          0.7283,
+          0.7016
         ]
       }
     }
