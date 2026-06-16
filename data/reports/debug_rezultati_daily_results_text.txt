@@ -248,6 +248,28 @@ Tabilo A.
 2
 6
 4
+Kraj
+Norrie C.
+Davidovich Fokina A.
+0
+2
+6
+6
+7
+8
+2
+6
+Kraj
+Majchrzak K.
+Lehecka J.
+0
+2
+5
+7
+6
+4
+7
+7
 Berlin (Njemačka), trava
 WTA - SINGL: 
 Ždrijeb
@@ -572,6 +594,19 @@ Panova A.
 6
 2
 6
+Kraj
+Kozyreva M.
+Shymanovich I.
+Pridankina E.
+Tang Q.
+2
+1
+6
+4
+1
+6
+10
+8
 Asuncion 2 (Paragvaj), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -583,6 +618,19 @@ Ribeiro E.
 1
 6
 2
+6
+Kraj
+De La Fuente S.
+Saraiva Dos Santos P. A.
+2
+1
+3
+6
+6
+3
+7
+8
+6
 6
 Kraj
 Huertas Del Pino C.
@@ -602,6 +650,53 @@ Hernandez A.
 0
 6
 1
+Kraj
+Seyboth Wild T.
+Nunez Vera A. S.
+2
+0
+6
+2
+6
+2
+Kraj
+Monzon I.
+La Serna J. M.
+0
+2
+3
+6
+4
+6
+Kraj
+Rodriguez J. A.
+Soto M.
+0
+2
+6
+4
+7
+7
+1
+6
+Kraj
+Kicker N.
+Coria F.
+2
+0
+7
+5
+6
+3
+Kraj
+Parisca I.
+Rodriguez Taverna S.
+0
+2
+1
+6
+1
+6
 Dublin (Irska), trava
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -738,6 +833,17 @@ Sakellaridis S.
 10
 3
 6
+Kraj
+Droguet T.
+Broom C.
+2
+1
+6
+3
+4
+6
+6
+1
 Nottingham (Ujedinjeno Kraljevstvo), trava
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -937,6 +1043,15 @@ Weis A.
 2
 6
 3
+Kraj
+Simakin I.
+Vasami J.
+0
+2
+3
+6
+4
+6
 Poznan (Poljska), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -1056,6 +1171,26 @@ Ferreira Silva F.
 6
 3
 6
+Kraj
+Heide G.
+Michalski D.
+2
+0
+6
+2
+6
+2
+Kraj
+Bueno G.
+Berkieta T.
+2
+0
+7
+7
+6
+4
+6
+3
 Royan (Francuska), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -1160,6 +1295,28 @@ Poullain L.
 5
 6
 2
+Kraj
+Raquillet L.
+Dhamne M.
+2
+1
+7
+5
+2
+6
+6
+3
+Kraj
+Coulibaly E.
+Balshaw F.
+1
+2
+1
+6
+6
+3
+1
+6
 Brescia (Italija), zemlja
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -1248,6 +1405,28 @@ Rinaldo Persson K.
 6
 6
 3
+Kraj
+Mintegi Del Olmo A.
+You X.
+2
+1
+1
+6
+6
+4
+6
+1
+Kraj
+Monnet C.
+Trevisan M.
+2
+0
+7
+5
+7
+7
+6
+5
 Figueira Da Foz (Portugal), tvrda podloga
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -1320,6 +1499,38 @@ Ryser V.
 6
 3
 6
+Kraj
+Korneeva A.
+Tian F.
+2
+0
+6
+2
+6
+4
+Kraj
+(predano)
+Kubka M.
+Falei A.
+1
+0
+6
+3
+4
+0
+Kraj
+Vandromme J.
+Zamarripa A.
+2
+1
+3
+6
+7
+7
+6
+3
+7
+5
 Asuncion 2 (Paragvaj), zemlja
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -1341,6 +1552,31 @@ Del Pino M.
 La Serna J. M.
 -
 -
+Dublin (Irska), trava
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Ficovich J. P.
+Mejia N.
+Bayldon B.
+Harper P.
+0
+2
+3
+6
+4
+6
+Kraj
+Butvilas E.
+Onclin G.
+Andrade A.
+Maginley J.
+0
+2
+4
+6
+4
+6
 Nottingham (Ujedinjeno Kraljevstvo), trava
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -1429,6 +1665,19 @@ Withrow J.
 6
 4
 6
+Kraj
+Mansouri S.
+Neuchrist M.
+Kadhe A.
+Zormann Da Silva M.
+0
+2
+1
+6
+6
+3
+7
+7
 Poznan (Poljska), zemlja
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -1446,6 +1695,20 @@ Kielan S.
 Romios M. C.
 -
 -
+Royan (Francuska), zemlja
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Gomez G.
+Rolland de Ravel C.
+De Jonge D.
+Opitz J.
+0
+2
+1
+6
+1
+6
 Brescia (Italija), zemlja
 CHALLENGER - ŽENSKI PAROVI: 
 Ždrijeb
@@ -1529,6 +1792,19 @@ Crisostomo G.
 7
 9
 Kraj
+Lemire C.
+Bertimon M.
+2
+1
+2
+6
+6
+4
+7
+7
+6
+5
+Kraj
 M'Chich A.
 Car H.
 0
@@ -1537,6 +1813,17 @@ Car H.
 6
 3
 6
+Kraj
+Petkovic M.
+Tailleu P. A.
+2
+1
+6
+2
+5
+7
+6
+4
 M15 Constanta (Rumunjska), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -1921,6 +2208,26 @@ Juan Mano A.
 6
 3
 6
+Kraj
+Hernandez C.
+Chambonniere M.
+0
+2
+3
+6
+5
+7
+Kraj
+Lopez Cherubino N.
+Jimenez A.
+2
+0
+6
+4
+7
+7
+6
+2
 M15 Saarlouis (Njemačka), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -1976,6 +2283,26 @@ Malaszszak M.
 7
 7
 3
+6
+Kraj
+Lien J. O.
+Mueller C.
+2
+0
+6
+0
+7
+7
+6
+4
+Kraj
+Raynel A.
+Zick S.
+0
+2
+4
+6
+4
 6
 M15 Tokyo 2 (Japan), tvrda podloga
 ITF - MUŠKI SINGL: 
@@ -2287,6 +2614,45 @@ Ferrari G.
 7
 0
 6
+Kraj
+Potenza L.
+Oradini G.
+2
+1
+7
+7
+6
+5
+2
+6
+6
+4
+Kraj
+Tabacco G.
+Ciurnelli R.
+2
+1
+2
+6
+7
+7
+6
+3
+6
+1
+Kraj
+Mazza M.
+Serafini M.
+1
+2
+7
+9
+6
+7
+5
+7
+2
+6
 M25 Samobor (Hrvatska), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -2351,6 +2717,51 @@ Kovalik J.
 4
 7
 7
+M25 Tulsa, OK (SAD), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Martin A.
+Farzam M.
+2
+1
+6
+2
+7
+7
+6
+2
+6
+1
+Kraj
+Jacome Jaramillo A.
+Cui J.
+0
+2
+0
+6
+3
+6
+Kraj
+Nefve A.
+Wolf J.J.
+0
+2
+6
+5
+7
+7
+4
+6
+Kraj
+Marinkov P.
+Langmo C.
+0
+2
+2
+6
+0
+6
 W15 Bucharest 2 (Rumunjska), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -2588,6 +2999,19 @@ Britez Risso L. F.
 2
 6
 Kraj
+Estrella M.
+Meabe S.
+2
+1
+7
+7
+6
+3
+4
+6
+6
+4
+Kraj
 Franco P.
 Lopez Ocampos A. J.
 1
@@ -2607,6 +3031,15 @@ Barrera Aguirre I.
 6
 2
 6
+Kraj
+Herazo Gonzalez M.
+Soto Neira A.
+2
+0
+6
+3
+6
+4
 W15 Monastir 18 (Tunis), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -2730,6 +3163,15 @@ Michalkova B.
 2
 6
 4
+Kraj
+Longueville R.
+Bosio V.
+0
+2
+2
+6
+2
+6
 W35 Klosters (Švicarska), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -3140,6 +3582,35 @@ Gallardo Guevara C.
 3
 6
 1
+Kraj
+Garcia-Perez G.
+Cervino Ruiz C.
+1
+2
+2
+6
+6
+4
+4
+6
+Kraj
+Palazon A.
+Mansouri Y.
+0
+2
+2
+6
+0
+6
+Kraj
+Petretic L.
+Fontenel C.
+0
+2
+3
+6
+2
+6
 W50 Haskovo (Bugarska), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -3370,11 +3841,33 @@ Boulard L.
 3
 6
 2
+Kraj
+Riera J.
+Lollia M.
+2
+1
+4
+6
+7
+7
+6
+4
+6
+2
 Otkazano
 Oz I.
 Pieri J.
 -
 -
+Kraj
+Oz I.
+Bougouffa H.
+2
+0
+6
+2
+6
+0
 M15 Bourg-en-Bresse (Francuska), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -3780,6 +4273,17 @@ Nagele M.
 0
 6
 3
+Kraj
+Guilleme J.
+Munk Mesa B.
+Palomar X.
+Talan Lopatic L.
+2
+0
+6
+3
+6
+4
 M15 Saarlouis (Njemačka), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -4051,6 +4555,44 @@ Catry R.
 6
 4
 6
+M25 Milano (Italija), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Bilardo J.
+Ricca G.
+Bordoni F.
+Virgili A.
+2
+0
+6
+3
+6
+4
+Kraj
+Denitto J.
+Pisanu M.
+Egidi A.
+Percipalle S. B.
+2
+0
+7
+7
+6
+2
+6
+3
+Kraj
+Borrelli L.
+Liusso M.
+Durasovic V.
+Kravchenko G.
+0
+2
+3
+6
+3
+6
 M25 Samobor (Hrvatska), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -4254,6 +4796,31 @@ Mlkva T.
 6
 2
 6
+W15 Luque (Paragvaj), zemlja
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Moyano L.
+Romero C.
+Duarte A. D.
+E'Halli Obeid M.
+2
+0
+6
+1
+6
+4
+Kraj
+Nava Elkin A. C.
+Rossini T.
+Dourado Zimermman J.
+Santo L.
+2
+0
+6
+1
+6
+2
 W15 Monastir 18 (Tunis), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -4332,6 +4899,44 @@ Nishimoto S.
 6
 6
 10
+W35 Bolszewo (Poljska), zemlja
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Kmiecik A.
+Kostecka B.
+Gorska D.
+Podlinska M.
+2
+0
+6
+3
+6
+4
+Kraj
+Kuczer D.
+Sebestova I.
+Pawelska M.
+Zhenikhova S.
+2
+1
+2
+6
+6
+0
+10
+8
+Kraj
+Steur J. L. S.
+Szabo B.
+Hurkacz N.
+Paszun A.
+2
+0
+6
+2
+6
+3
 W35 Klosters (Švicarska), zemlja
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -4657,6 +5262,34 @@ Rutlauka S.
 2
 6
 2
+Kraj
+Ferrer Perez C.
+Giaccio J.
+Font J.
+Maye Martinez A.
+1
+2
+6
+6
+7
+8
+6
+3
+8
+10
+Kraj
+Kardava Z.
+Kubareva A.
+Qu Y.
+Shao Y.
+1
+2
+6
+4
+2
+6
+8
+10
 W50 Haskovo (Bugarska), zemlja
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -4720,6 +5353,52 @@ Lutringer L.
 6
 10
 4
+Kraj
+Lew Yan Foon A.
+Nguyen Tan L.
+Cakarevic S.
+Gram O.
+2
+0
+6
+1
+6
+2
+Kraj
+Cirotte A.
+Martynov D.
+Bartashevich Y.
+Lansere S.
+2
+1
+6
+4
+4
+6
+10
+2
+Kraj
+Boulard L.
+Mozgaleva A.
+Kolvinter M.
+Mastorakis H.
+2
+0
+6
+2
+6
+3
+Kraj
+Okalova M.
+Otzipka J.
+Bakhmutkina P.
+Hodzic M.
+0
+2
+2
+6
+0
+6
 Davis Cup - Group IV (Svijet)
 TIMOVI - MUŠKARCI: 
 Tablica
@@ -4759,6 +5438,29 @@ Laos Ž
 Kraj
 Malezija Ž
 Tajvan Ž
+0
+3
+Billie Jean King Cup - Group III (Svijet)
+TIMOVI - ŽENE: 
+Tablica
+Kraj
+Barbados Ž
+El Salvador Ž
+1
+2
+Kraj
+Bermudski Otoci Ž
+Panama Ž
+0
+3
+Kraj
+Kostarika Ž
+Trinidad i Tobago Ž
+2
+1
+Kraj
+Surinam Ž
+Antigva i Barbuda Ž
 0
 3
 Reklama
@@ -4851,13 +5553,13 @@ NOGOMET UŽIVO
 Engleska - Hrvatska
 Shkendija - Hajduk
 Panama - Hrvatska
-Francuska - Senegal
 Irak - Norveška
 Argentina - Alžir
 Austrija - Jordan
 Portugal - DR Kongo
 Gana - Panama
 Uzbekistan - Kolumbija
+Argentina - Austrija
 REZULTATI UŽIVO
 Švicarska - Bosna i Hercegovina
 Bosna i Hercegovina - Katar
@@ -4876,10 +5578,10 @@ Hrvatska Ž - Sj. Makedonija Ž
 Nizozemska - Hrvatska
 Slovenija Ž - Hrvatska Ž
 Srbija - Japan
+Srbija - Kuba
 Japan Ž - Srbija Ž
 Srbija Ž - Italija Ž
 Dominikanska Republika Ž - Srbija Ž
-Crna Gora Ž - Kosovo Ž
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
@@ -4899,7 +5601,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Igrajte odgovorno. Gambling Therapy. 18+
+Must be 21+. If you or someone you know has a gambling problem, crisis counselling and referral services can be accessed by calling 1-800-GAMBLER (1-800-426-2537) or by texting ILGAMB to 833234. The 1-800-GAMBLER helpline can be used for multi-jurisdictional advertising.
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
