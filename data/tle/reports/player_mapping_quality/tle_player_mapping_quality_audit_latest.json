@@ -2,7 +2,7 @@
   "schema_version": 1,
   "file_type": "tle_player_mapping_quality_audit",
   "summary": {
-    "generated_at": "2026-06-15T12:46:49+00:00",
+    "generated_at": "2026-06-16T11:39:15+00:00",
     "mapping_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/tle/mappings/api_player_to_sackmann.json",
     "canonical_manifest": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/tle/processed/canonical/tle_matches_manifest.json",
     "canonical_files": [
@@ -12,10 +12,10 @@
       "data/tle/processed/canonical/tle_matches_2026.jsonl.gz"
     ],
     "mapping_summary": {
-      "api_players": 2183,
+      "api_players": 2188,
       "sackmann_players": 11993,
       "mapping_statuses": {
-        "matched": 1996,
+        "matched": 2001,
         "review": 116,
         "unmatched": 71
       },
@@ -24,7 +24,7 @@
         "review": 285,
         "unmatched": 132
       },
-      "matched_players": 1996,
+      "matched_players": 2001,
       "unresolved_players": 187
     },
     "canonical_players_seen": 12069,
@@ -17040,6 +17040,22 @@
       "warnings": ""
     },
     {
+      "api_key": "11480",
+      "api_name": "Z. Kardava",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "women:sackmann:216180",
+      "sackmann_name": "Zoziya Kardava",
+      "canonical_matches": 120,
+      "api_only_key": "women:api:11480",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-05-18",
+      "latest_tournament": "W15 Hurghada",
+      "warnings": ""
+    },
+    {
       "api_key": "15842",
       "api_name": "L. Llinares Domingo",
       "gender": "women",
@@ -19277,6 +19293,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-05-25",
       "latest_tournament": "M15 Kayseri",
+      "warnings": ""
+    },
+    {
+      "api_key": "39129",
+      "api_name": "B. Thompson",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "women:sackmann:259858",
+      "sackmann_name": "Belle Thompson",
+      "canonical_matches": 92,
+      "api_only_key": "women:api:39129",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-03-23",
+      "latest_tournament": "W15 Swan Hill",
       "warnings": ""
     },
     {
@@ -23853,6 +23885,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-05-04",
       "latest_tournament": "M25 Nottingham",
+      "warnings": ""
+    },
+    {
+      "api_key": "19429",
+      "api_name": "S. Rutlauka",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "women:sackmann:223404",
+      "sackmann_name": "Sabine Rutlauka",
+      "canonical_matches": 50,
+      "api_only_key": "women:api:19429",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-05-18",
+      "latest_tournament": "W35 ESTEPONA",
       "warnings": ""
     },
     {
@@ -32816,6 +32864,22 @@
       "warnings": ""
     },
     {
+      "api_key": "96534",
+      "api_name": "S. Massellani",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "men:sackmann:214436",
+      "sackmann_name": "Simone Massellani",
+      "canonical_matches": 6,
+      "api_only_key": "men:api:96534",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-03-16",
+      "latest_tournament": "M15 Rovinj",
+      "warnings": ""
+    },
+    {
       "api_key": "86673",
       "api_name": "S. Ngwenya",
       "gender": "men",
@@ -33965,6 +34029,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-05-25",
       "latest_tournament": "M15 Gimcheon",
+      "warnings": ""
+    },
+    {
+      "api_key": "69611",
+      "api_name": "F. Gonzalez Benitez",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "men:sackmann:213568",
+      "sackmann_name": "Federico Gaston Gonzalez Benitez",
+      "canonical_matches": 3,
+      "api_only_key": "men:api:69611",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-03-16",
+      "latest_tournament": "Asuncion CH",
       "warnings": ""
     },
     {
