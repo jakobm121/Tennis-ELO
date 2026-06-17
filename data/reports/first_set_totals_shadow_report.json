@@ -1,63 +1,20 @@
 {
-  "generated_at": "2026-06-17T13:23:09.158786+02:00",
+  "generated_at": "2026-06-17T18:26:58.705230+02:00",
   "summary": {
-    "odds_matches": 170,
-    "evaluated_strategy_rows": 942,
-    "shadow_bets": 2,
+    "odds_matches": 61,
+    "evaluated_strategy_rows": 324,
+    "shadow_bets": 1,
     "watch_picks": 0,
-    "no_bet": 940,
-    "missing_first_set_totals": 13,
-    "shadow_bet": 2
+    "no_bet": 323,
+    "missing_first_set_totals": 7,
+    "shadow_bet": 1
   },
   "top_shadow_picks": [
-    {
-      "pick_id": "12137597|first_set|under|9.5|all_fav75_under_9_5",
-      "event_key": 12137597,
-      "date": "2026-06-17",
-      "time": "15:05",
-      "match": "H. Hurkacz - D. Altmaier",
-      "player_1": "H. Hurkacz",
-      "player_2": "D. Altmaier",
-      "tournament": "Halle",
-      "tour_level": "atp",
-      "gender": "men",
-      "surface": "grass",
-      "favorite": "H. Hurkacz",
-      "favorite_probability": 0.758221,
-      "strategy_id": "all_fav75_under_9_5",
-      "market": "first_set_total_games",
-      "side": "under",
-      "line": 9.5,
-      "odds": 2.92,
-      "bookmaker": "Superbet",
-      "model_probability": 0.517341,
-      "fair_odds": 1.933,
-      "edge": 0.5106,
-      "confidence": "medium",
-      "decision": "SHADOW_BET",
-      "reasons": [],
-      "profile_matches": {
-        "player_1_status": "matched",
-        "player_1_profile_name": "Hurkacz H.",
-        "player_1_sample": 51,
-        "player_2_status": "matched",
-        "player_2_profile_name": "Altmaier D.",
-        "player_2_sample": 78
-      },
-      "model_details": {
-        "strategy_base_probability": 0.5853,
-        "player_component_probability": 0.3588,
-        "profile_probabilities": [
-          0.3322,
-          0.3853
-        ]
-      }
-    },
     {
       "pick_id": "12137820|first_set|under|9.5|all_fav75_under_9_5",
       "event_key": 12137820,
       "date": "2026-06-17",
-      "time": "17:10",
+      "time": "18:30",
       "match": "T. Atmane - D. Medvedev",
       "player_1": "T. Atmane",
       "player_2": "D. Medvedev",
