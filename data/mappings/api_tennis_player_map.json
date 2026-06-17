@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-06-17T13:23:58.550293+02:00",
+  "generated_at": "2026-06-17T18:26:28.709617+02:00",
   "source_odds_url": "https://raw.githubusercontent.com/jakobm121/Ai/refs/heads/main/data/tennis_odds_today.json",
-  "odds_generated_at": "2026-06-17T13:20:18.249603+02:00",
-  "ratings_generated_at": "2026-06-17T07:17:36.633281+02:00",
+  "odds_generated_at": "2026-06-17T18:07:37.420411+02:00",
+  "ratings_generated_at": "2026-06-17T18:11:19.378859+02:00",
   "players": {
     "2813": {
       "api_player_key": 2813,
@@ -27427,7 +27427,7 @@
       "last_seen_event_key": 12137968,
       "last_seen_tournament": "M15 Irvine, CA",
       "last_seen_tournament_key": 9799,
-      "updated_at": "2026-06-17T13:23:50.397828+02:00"
+      "updated_at": "2026-06-17T18:26:21.923025+02:00"
     },
     "90153": {
       "api_player_key": 90153,
@@ -27563,7 +27563,7 @@
       "last_seen_event_key": 12137985,
       "last_seen_tournament": "W15 Irvine, CA",
       "last_seen_tournament_key": 9813,
-      "updated_at": "2026-06-17T13:23:56.267497+02:00"
+      "updated_at": "2026-06-17T18:26:26.805623+02:00"
     },
     "11728": {
       "api_player_key": 11728,
@@ -47467,7 +47467,7 @@
       "last_seen_event_key": 12137701,
       "last_seen_tournament": "M15 Gyula",
       "last_seen_tournament_key": 11073,
-      "updated_at": "2026-06-17T13:23:15.287102+02:00"
+      "updated_at": "2026-06-17T18:26:16.339419+02:00"
     },
     "86462": {
       "api_player_key": 86462,
@@ -47523,7 +47523,7 @@
       "last_seen_event_key": 12137701,
       "last_seen_tournament": "M15 Gyula",
       "last_seen_tournament_key": 11073,
-      "updated_at": "2026-06-17T13:23:16.150295+02:00"
+      "updated_at": "2026-06-17T18:26:17.056203+02:00"
     },
     "757": {
       "api_player_key": 757,
@@ -47971,7 +47971,7 @@
       "last_seen_event_key": 12137722,
       "last_seen_tournament": "W15 Dinard",
       "last_seen_tournament_key": 11630,
-      "updated_at": "2026-06-17T13:23:20.180413+02:00"
+      "updated_at": "2026-06-17T18:26:17.847401+02:00"
     },
     "33": {
       "api_player_key": 33,
@@ -49611,7 +49611,7 @@
       "last_seen_event_key": 12137857,
       "last_seen_tournament": "M15 Saarlouis",
       "last_seen_tournament_key": 9768,
-      "updated_at": "2026-06-17T13:23:34.450291+02:00"
+      "updated_at": "2026-06-17T18:26:18.592625+02:00"
     },
     "57545": {
       "api_player_key": 57545,
@@ -49641,57 +49641,25 @@
       "api_player_key": 89695,
       "api_name": "K. Mathes",
       "gender": "men",
-      "status": "unmatched",
-      "method": "no_safe_match",
-      "confidence": 0.9071,
-      "elo_player_name": null,
-      "elo_player_key": null,
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Mathes K.",
+      "elo_player_key": "mathes k",
       "candidates": [
         {
-          "elo_player_name": "Marthiens K.",
-          "elo_player_key": "marthiens k",
+          "elo_player_name": "Mathes K.",
+          "elo_player_key": "mathes k",
           "matches_total": 1,
           "gender": "unknown",
-          "score": 0.9071,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Marthiens K.",
-          "elo_player_key": "marthiens k",
-          "matches_total": 1,
-          "gender": "unknown",
-          "score": 0.9071,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Matsuda K.",
-          "elo_player_key": "matsuda k",
-          "matches_total": 5,
-          "gender": "unknown",
-          "score": 0.7492,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Matsuda K.",
-          "elo_player_key": "matsuda k",
-          "matches_total": 5,
-          "gender": "unknown",
-          "score": 0.7492,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Smith K.",
-          "elo_player_key": "smith k",
-          "matches_total": 47,
-          "gender": "unknown",
-          "score": 0.6919,
-          "method": "fuzzy"
+          "score": 1.0,
+          "method": "exact_name_variant"
         }
       ],
       "last_seen_event_key": 12137859,
       "last_seen_tournament": "M15 Saarlouis",
       "last_seen_tournament_key": 9768,
-      "updated_at": "2026-06-17T13:23:35.456474+02:00"
+      "updated_at": "2026-06-17T18:26:18.592690+02:00"
     },
     "10101": {
       "api_player_key": 10101,
@@ -50091,7 +50059,7 @@
       "last_seen_event_key": 12137909,
       "last_seen_tournament": "W15 Luque",
       "last_seen_tournament_key": 11972,
-      "updated_at": "2026-06-17T13:23:36.534004+02:00"
+      "updated_at": "2026-06-17T18:26:19.467186+02:00"
     },
     "22529": {
       "api_player_key": 22529,
@@ -50995,7 +50963,7 @@
       "last_seen_event_key": 12137964,
       "last_seen_tournament": "M15 Irvine, CA",
       "last_seen_tournament_key": 9799,
-      "updated_at": "2026-06-17T13:23:49.466871+02:00"
+      "updated_at": "2026-06-17T18:26:21.133220+02:00"
     },
     "79817": {
       "api_player_key": 79817,
@@ -51099,7 +51067,7 @@
       "last_seen_event_key": 12137969,
       "last_seen_tournament": "M15 Irvine, CA",
       "last_seen_tournament_key": 9799,
-      "updated_at": "2026-06-17T13:23:51.304187+02:00"
+      "updated_at": "2026-06-17T18:26:22.672987+02:00"
     },
     "1249": {
       "api_player_key": 1249,
@@ -51203,7 +51171,7 @@
       "last_seen_event_key": 12137990,
       "last_seen_tournament": "W15 Irvine, CA",
       "last_seen_tournament_key": 9813,
-      "updated_at": "2026-06-17T13:23:58.550270+02:00"
+      "updated_at": "2026-06-17T18:26:28.709586+02:00"
     },
     "40835": {
       "api_player_key": 40835,
@@ -51403,7 +51371,7 @@
       "last_seen_event_key": 12137957,
       "last_seen_tournament": "M25 Tulsa, OK",
       "last_seen_tournament_key": 4219,
-      "updated_at": "2026-06-17T13:23:46.423541+02:00"
+      "updated_at": "2026-06-17T18:26:20.263869+02:00"
     },
     "37912": {
       "api_player_key": 37912,
@@ -51619,7 +51587,7 @@
       "last_seen_event_key": 12137970,
       "last_seen_tournament": "M15 Irvine, CA",
       "last_seen_tournament_key": 9799,
-      "updated_at": "2026-06-17T13:23:52.291473+02:00"
+      "updated_at": "2026-06-17T18:26:23.486580+02:00"
     },
     "9190": {
       "api_player_key": 9190,
@@ -51771,7 +51739,7 @@
       "last_seen_event_key": 12137980,
       "last_seen_tournament": "W15 Irvine, CA",
       "last_seen_tournament_key": 9813,
-      "updated_at": "2026-06-17T13:23:53.297280+02:00"
+      "updated_at": "2026-06-17T18:26:24.323919+02:00"
     },
     "37904": {
       "api_player_key": 37904,
@@ -51826,7 +51794,7 @@
         {
           "elo_player_name": "Stearns P.",
           "elo_player_key": "stearns p",
-          "matches_total": 25,
+          "matches_total": 27,
           "gender": "unknown",
           "score": 0.6467,
           "method": "fuzzy"
@@ -51834,7 +51802,7 @@
         {
           "elo_player_name": "Stearns P.",
           "elo_player_key": "stearns p",
-          "matches_total": 25,
+          "matches_total": 27,
           "gender": "unknown",
           "score": 0.6467,
           "method": "fuzzy"
@@ -51851,7 +51819,7 @@
       "last_seen_event_key": 12137983,
       "last_seen_tournament": "W15 Irvine, CA",
       "last_seen_tournament_key": 9813,
-      "updated_at": "2026-06-17T13:23:54.403328+02:00"
+      "updated_at": "2026-06-17T18:26:25.251240+02:00"
     },
     "80336": {
       "api_player_key": 80336,
@@ -51931,7 +51899,7 @@
       "last_seen_event_key": 12137984,
       "last_seen_tournament": "W15 Irvine, CA",
       "last_seen_tournament_key": 9813,
-      "updated_at": "2026-06-17T13:23:55.230996+02:00"
+      "updated_at": "2026-06-17T18:26:25.939252+02:00"
     },
     "86357": {
       "api_player_key": 86357,
@@ -51987,7 +51955,7 @@
       "last_seen_event_key": 12137987,
       "last_seen_tournament": "W15 Irvine, CA",
       "last_seen_tournament_key": 9813,
-      "updated_at": "2026-06-17T13:23:57.274169+02:00"
+      "updated_at": "2026-06-17T18:26:27.642550+02:00"
     }
   }
 }
