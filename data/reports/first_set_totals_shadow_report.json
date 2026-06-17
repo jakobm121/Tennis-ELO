@@ -1,13 +1,102 @@
 {
-  "generated_at": "2026-06-17T22:37:27.427880+02:00",
+  "generated_at": "2026-06-18T01:06:15.443412+02:00",
   "summary": {
-    "odds_matches": 21,
-    "evaluated_strategy_rows": 102,
-    "shadow_bets": 0,
+    "odds_matches": 153,
+    "evaluated_strategy_rows": 816,
+    "shadow_bets": 2,
     "watch_picks": 0,
-    "missing_first_set_totals": 4,
-    "no_bet": 102
+    "no_bet": 814,
+    "missing_first_set_totals": 15,
+    "shadow_bet": 2,
+    "missing_match_winner": 2
   },
-  "top_shadow_picks": [],
+  "top_shadow_picks": [
+    {
+      "pick_id": "12138089|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12138089,
+      "date": "2026-06-18",
+      "time": "13:00",
+      "match": "B. Shelton - E. Quinn",
+      "player_1": "B. Shelton",
+      "player_2": "E. Quinn",
+      "tournament": "Halle",
+      "tour_level": "atp",
+      "gender": "men",
+      "surface": "grass",
+      "favorite": "B. Shelton",
+      "favorite_probability": 0.754902,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 2.57,
+      "bookmaker": "Marathon",
+      "model_probability": 0.542758,
+      "fair_odds": 1.842,
+      "edge": 0.3949,
+      "confidence": "medium",
+      "decision": "SHADOW_BET",
+      "reasons": [],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Shelton B.",
+        "player_1_sample": 123,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Quinn E.",
+        "player_2_sample": 49
+      },
+      "model_details": {
+        "strategy_base_probability": 0.5853,
+        "player_component_probability": 0.4435,
+        "profile_probabilities": [
+          0.3896,
+          0.4974
+        ]
+      }
+    },
+    {
+      "pick_id": "12137596|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12137596,
+      "date": "2026-06-18",
+      "time": "15:30",
+      "match": "A. Zverev - Y. Hanfmann",
+      "player_1": "A. Zverev",
+      "player_2": "Y. Hanfmann",
+      "tournament": "Halle",
+      "tour_level": "atp",
+      "gender": "men",
+      "surface": "grass",
+      "favorite": "A. Zverev",
+      "favorite_probability": 0.864198,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 2.32,
+      "bookmaker": "Marathon",
+      "model_probability": 0.51883,
+      "fair_odds": 1.927,
+      "edge": 0.2037,
+      "confidence": "medium",
+      "decision": "SHADOW_BET",
+      "reasons": [],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Zverev A.",
+        "player_1_sample": 155,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Hanfmann Y.",
+        "player_2_sample": 57
+      },
+      "model_details": {
+        "strategy_base_probability": 0.5853,
+        "player_component_probability": 0.3637,
+        "profile_probabilities": [
+          0.4426,
+          0.2848
+        ]
+      }
+    }
+  ],
   "top_watch_picks": []
 }
