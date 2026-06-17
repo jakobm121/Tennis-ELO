@@ -1,18 +1,18 @@
 # TLE Mapping Repair Table
 
-Generated: `2026-06-16T16:15:04Z`
+Generated: `2026-06-17T14:41:56Z`
 
 ## Summary
 
-- audit_generated_at: `2026-06-16T11:56:56+00:00`
-- review_players: `55`
+- audit_generated_at: `2026-06-17T11:23:38+00:00`
+- review_players: `66`
 - manual_added: `0`
 - manual_already_ok: `18`
 - manual_conflicts: `0`
-- auto_added: `0`
-- already_ok: `52`
+- auto_added: `55`
+- already_ok: `0`
 - conflicts: `0`
-- needs_manual_review: `3`
+- needs_manual_review: `11`
 - skipped: `0`
 
 ## Rows
@@ -37,58 +37,69 @@ Generated: `2026-06-16T16:15:04Z`
 | MANUAL_ALREADY_OK | 13411 | A. Zolotareva | women | manual_override | women:sackmann:221209 | Anastasia Zolotareva |  | manual override file | already mapped to same Sackmann player |
 | MANUAL_ALREADY_OK | 14547 | A. Korneeva | women | manual_override | women:sackmann:252499 | Alina Korneeva |  | manual override file | already mapped to same Sackmann player |
 | MANUAL_ALREADY_OK | 68376 | L. Samsonova | women | manual_override | women:sackmann:214643 | Liudmila Samsonova |  | manual override file | already mapped to same Sackmann player |
-| ALREADY_OK | 22 | L. Petretic | women | unique_surname_initial | women:sackmann:222346 | Laia Petretic | 12136972 | L. Petretic - C. Fontenel / W35+H Tauste / W35+H Tauste - 1/16-finals |  |
-| ALREADY_OK | 42 | Y. Mansouri | women | unique_surname_initial | women:sackmann:215588 | Yasmine Mansouri | 12136971 | A. Palazon - Y. Mansouri / W35+H Tauste / W35+H Tauste - 1/16-finals |  |
-| ALREADY_OK | 228 | S. Cakarevic | women | unique_surname_initial | women:sackmann:214319 | Sara Cakarevic | 12137404 | S. Cakarevic - A. Granwehr / W75 Blois / W75 Blois - 1/16-finals |  |
-| ALREADY_OK | 514 | K. Mladenovic | women | unique_surname_initial | women:sackmann:201540 | Kristina Mladenovic | 12137062 | K. Mladenovic - V. Ryser / Figueira Da Foz (Portugal) - Qualification / Figueira Da Foz - 1/16-finals |  |
-| ALREADY_OK | 526 | F. Ferro | women | unique_surname_initial | women:sackmann:211539 | Fiona Ferro | 12136849 | F. Ferro - K. Rinaldo Persson / Brescia (Italy) - Qualification / Brescia - 1/16-finals |  |
-| ALREADY_OK | 560 | H. Casanova | men | unique_surname_initial | men:sackmann:106292 | Hernan Casanova | 12136767 | H. J. Escurra Isnardi - H. Casanova / Asuncion 2 (Paraguay) - Qualification / Asuncion 2 - 1/16-finals |  |
-| ALREADY_OK | 1065 | J. Kovalik | men | unique_surname_initial | men:sackmann:106075 | Jozef Kovalik | 12137448 | J. Barranco Cosano - J. Kovalik / M25 Samobor (Croatia) / M25 Samobor - 1/16-finals |  |
-| ALREADY_OK | 1086 | T. Seyboth Wild | men | unique_surname_initial | men:sackmann:205734 | Thiago Seyboth Wild | 12136774 | T. Seyboth Wild - A. S. Nunez Vera / Asuncion 2 (Paraguay) - Qualification / Asuncion 2 - 1/16-finals |  |
-| ALREADY_OK | 1103 | C. Norrie | men | unique_surname_initial | men:sackmann:111815 | Cameron Norrie | 12136522 | C. Norrie - A. Davidovich Fokina / London / ATP London - 1/16-finals |  |
-| ALREADY_OK | 1240 | F. Arnaboldi | men | unique_surname_initial | men:sackmann:206467 | Federico Arnaboldi | 12137364 | F. Arnaboldi - G. Ravasio / M25 Milano (Italy) / M25 Milano - 1/16-finals |  |
-| ALREADY_OK | 1304 | J. Kym | men | unique_surname_initial | men:sackmann:208843 | Jerome Kym | 12137067 | J. Kym - T. Kokkinakis / Dublin (Ireland) - Qualification / Dublin - 1/16-finals |  |
-| ALREADY_OK | 1777 | T. M. Etcheverry | men | unique_surname_initial | men:sackmann:144869 | Tomas Martin Etcheverry | 12136512 | T. M. Etcheverry - D. Medvedev / Halle / ATP Halle - 1/16-finals |  |
-| ALREADY_OK | 1877 | J. Barranco Cosano | men | unique_surname_initial | men:sackmann:200266 | Javier Barranco Cosano | 12137448 | J. Barranco Cosano - J. Kovalik / M25 Samobor (Croatia) / M25 Samobor - 1/16-finals |  |
-| ALREADY_OK | 2085 | J. B. Torres | men | unique_surname_initial | men:sackmann:208913 | Juan Bautista Torres | 12136775 | G. Villanueva - J. B. Torres / Asuncion 2 (Paraguay) - Qualification / Asuncion 2 - 1/16-finals |  |
-| ALREADY_OK | 2122 | T. Rossini | women | unique_surname_initial | women:sackmann:222689 | Tiziana Rossini | 12137426 | J. Estevez - T. Rossini / W15 Luque / W15 Luque - 1/16-finals |  |
-| ALREADY_OK | 2215 | H. J. Escurra Isnardi | men | unique_surname_initial | men:sackmann:200622 | Hernando Jose Escurra Isnardi | 12136767 | H. J. Escurra Isnardi - H. Casanova / Asuncion 2 (Paraguay) - Qualification / Asuncion 2 - 1/16-finals |  |
-| ALREADY_OK | 2281 | J. Riera | women | unique_surname_initial | women:sackmann:220699 | Julia Riera | 12137409 | J. Riera - M. Lollia / W75 Blois / W75 Blois - 1/16-finals |  |
-| ALREADY_OK | 2384 | G. Dimitrov | men | unique_surname_initial | men:sackmann:105777 | Grigor Dimitrov | 12136742 | G. Dimitrov - C. Rodesch / Dublin (Ireland) - Qualification / Dublin - 1/16-finals |  |
-| NEEDS_MANUAL_REVIEW | 2408 | J. Reis Da Silva | men | api_key_unmapped | men:api:2408 |  | 12137420 | M. Karol - J. Reis Da Silva / Poznan / Poznan - 1/16-finals | ambiguous Sackmann candidates: Joao Silva, Joao Lucas Reis Da Silva, Joao Dinis Silva |
-| ALREADY_OK | 2410 | G. Heide | men | unique_surname_initial | men:sackmann:208361 | Gustavo Heide | 12136633 | G. Heide - D. Michalski / Poznan / Poznan - 1/16-finals |  |
-| ALREADY_OK | 2524 | D. Kovinic | women | unique_surname_initial | women:sackmann:203575 | Danka Kovinic | 12136847 | D. Kovinic - M. Bulgaru / Brescia (Italy) - Qualification / Brescia - 1/16-finals |  |
-| ALREADY_OK | 3000 | I. Fetecau | women | unique_surname_initial | women:sackmann:213584 | Irina Fetecau | 12137175 | L. Encheva - I. Fetecau / W50 Haskovo (Bulgaria) / W50 Haskovo - 1/16-finals |  |
-| ALREADY_OK | 5980 | C. Rodesch | men | unique_surname_initial | men:sackmann:208210 | Chris Rodesch | 12136742 | G. Dimitrov - C. Rodesch / Dublin (Ireland) - Qualification / Dublin - 1/16-finals |  |
-| ALREADY_OK | 8802 | L. Boisson | women | unique_surname_initial | women:sackmann:222391 | Lois Boisson | 12136545 | L. Boisson - D. Yastremska / Nottingham / WTA Nottingham - 1/16-finals |  |
-| ALREADY_OK | 8926 | T. Droguet | men | unique_surname_initial | men:sackmann:208169 | Titouan Droguet | 12137065 | T. Droguet - C. Broom / Dublin (Ireland) - Qualification / Dublin - 1/16-finals |  |
-| ALREADY_OK | 9252 | C. Fontenel | women | unique_surname_initial | women:sackmann:239454 | Chelsea Fontenel | 12136972 | L. Petretic - C. Fontenel / W35+H Tauste / W35+H Tauste - 1/16-finals |  |
-| ALREADY_OK | 13331 | I. Barrera Aguirre | women | unique_surname_initial | women:sackmann:223146 | Isabella Barrera Aguirre | 12137430 | C. Melleiro - I. Barrera Aguirre / W15 Luque / W15 Luque - 1/16-finals |  |
-| ALREADY_OK | 13672 | F. Tian | women | unique_surname_initial | women:sackmann:221885 | Fangran Tian | 12136864 | A. Korneeva - F. Tian / Figueira Da Foz (Portugal) - Qualification / Figueira Da Foz - 1/16-finals |  |
-| ALREADY_OK | 14672 | M. Lollia | women | unique_surname_initial | women:sackmann:221443 | Mathilde Lollia | 12137409 | J. Riera - M. Lollia / W75 Blois / W75 Blois - 1/16-finals |  |
-| ALREADY_OK | 38072 | M. Ujvary | men | unique_surname_initial | men:sackmann:210745 | Matthias Ujvary | 12137447 | M. Ujvary - N. Jadoun / M25 Samobor (Croatia) / M25 Samobor - 1/16-finals |  |
-| ALREADY_OK | 38158 | E. Renard | women | unique_surname_initial | women:sackmann:260377 | Elise Renard | 12137130 | L. Ipunesso - E. Renard / W15 Dinard / W15 Dinard - 1/16-finals |  |
-| ALREADY_OK | 38941 | J. Estevez | women | unique_surname_initial | women:sackmann:260717 | Josefina Estevez | 12137426 | J. Estevez - T. Rossini / W15 Luque / W15 Luque - 1/16-finals |  |
-| ALREADY_OK | 50288 | S. Van Emst | women | unique_surname_initial | women:sackmann:260647 | Sarah Van Emst | 12137167 | C. Zanolini - S. Van Emst / W35 Ystad / W35 Ystad - 1/16-finals |  |
-| ALREADY_OK | 52069 | A. Juan Mano | men | unique_surname_initial | men:sackmann:210629 | Alejandro Juan Mano | 12137042 | E. Talavera Cortes - A. Juan Mano / M15 Mungia-Laukariz / M15 Mungia-Laukariz - 1/16-finals |  |
-| ALREADY_OK | 52645 | N. Jadoun | men | unique_surname_initial | men:sackmann:212171 | Nicolas Jadoun | 12137447 | M. Ujvary - N. Jadoun / M25 Samobor (Croatia) / M25 Samobor - 1/16-finals |  |
-| ALREADY_OK | 55115 | C. Zanolini | women | unique_surname_initial | women:sackmann:221657 | Camilla Zanolini | 12137167 | C. Zanolini - S. Van Emst / W35 Ystad / W35 Ystad - 1/16-finals |  |
-| ALREADY_OK | 57527 | K. Sidorova | women | unique_surname_initial | women:sackmann:260006 | Kristiana Sidorova | 12137381 | N. Nishino - K. Sidorova / W35 Taipei / W35 Taipei - 1/16-finals |  |
-| ALREADY_OK | 57536 | J. Filip | men | unique_surname_initial | men:sackmann:210623 | Jakub Filip | 12137355 | J. Filip - A. Barbic / M15 Saarlouis / M15 Saarlouis - 1/16-finals |  |
-| ALREADY_OK | 57825 | I. Ivanov | men | unique_surname_initial | men:sackmann:129814 | Ivan Ivanov | 12136745 | I. Ivanov - S. Sakellaridis / Dublin (Ireland) - Qualification / Dublin - 1/16-finals |  |
-| ALREADY_OK | 58609 | M. Bertimon | men | unique_surname_initial | men:sackmann:202230 | Maxence Bertimon | 12137099 | C. Lemire - M. Bertimon / M15 Bourg-En-Bresse (France) / M15 Bourg-en-Bresse - 1/16-finals |  |
-| ALREADY_OK | 61630 | S. Meabe | women | unique_surname_initial | women:sackmann:266446 | Sofia Meabe | 12137428 | M. Estrella - S. Meabe / W15 Luque / W15 Luque - 1/16-finals |  |
-| ALREADY_OK | 62009 | L. Boulard | women | unique_surname_initial | women:sackmann:260185 | Liv Boulard | 12137407 | J. Lim - L. Boulard / W75 Blois / W75 Blois - 1/16-finals |  |
-| ALREADY_OK | 66326 | M. Zeitune | men | unique_surname_initial | men:sackmann:212784 | Maximo Zeitune | 12137392 | C. Huertas Del Pino - M. Zeitune / Asuncion 2 (Paraguay) - Qualification / Asuncion 2 - 1/16-finals |  |
-| ALREADY_OK | 66629 | H. Haupt | men | unique_surname_initial | men:sackmann:210590 | Henri Haupt | 12137356 | H. Haupt - M. Balciunas / M15 Saarlouis / M15 Saarlouis - 1/16-finals |  |
-| ALREADY_OK | 70353 | M. Chambonniere | men | unique_surname_initial | men:sackmann:212676 | Matthieu Chambonniere | 12137041 | C. Hernandez - M. Chambonniere / M15 Mungia-Laukariz / M15 Mungia-Laukariz - 1/16-finals |  |
-| ALREADY_OK | 70648 | M. Balciunas | men | unique_surname_initial | men:sackmann:213045 | Manvydas Balciunas | 12137356 | H. Haupt - M. Balciunas / M15 Saarlouis / M15 Saarlouis - 1/16-finals |  |
-| ALREADY_OK | 72052 | A. Jimenez | men | unique_surname_initial | men:sackmann:213097 | Alvaro Jimenez | 12137040 | N. Lopez Cherubino - A. Jimenez / M15 Mungia-Laukariz / M15 Mungia-Laukariz - 1/16-finals |  |
-| ALREADY_OK | 73134 | B. Straszewska | women | unique_surname_initial | women:sackmann:268772 | Barbara Straszewska | 12137141 | B. Straszewska - I. Wawrzkiewicz / W35 Bolszewo (Poland) / W35 Bolszewo - 1/16-finals |  |
-| NEEDS_MANUAL_REVIEW | 74738 | A. S. Nunez Vera | men | api_key_unmapped | men:api:74738 |  | 12136774 | T. Seyboth Wild - A. S. Nunez Vera / Asuncion 2 (Paraguay) - Qualification / Asuncion 2 - 1/16-finals | ambiguous Sackmann candidates: Alex Santino Nunez Vera, Alex Santino Nunez Vera |
-| ALREADY_OK | 76314 | R. Longueville | women | unique_surname_initial | women:sackmann:245079 | Romane Longueville | 12137140 | R. Longueville - V. Bosio / W35 Bolszewo (Poland) / W35 Bolszewo - 1/16-finals |  |
-| ALREADY_OK | 83913 | X. Palomar | men | unique_surname_initial | men:sackmann:214015 | Xavi Palomar | 12137043 | S. Perez Contri - X. Palomar / M15 Mungia-Laukariz / M15 Mungia-Laukariz - 1/16-finals |  |
-| ALREADY_OK | 89411 | C. Lesdos | women | unique_surname_initial | women:sackmann:270233 | Clemence Lesdos | 12137131 | C. Lesdos - C. Noel / W15 Dinard / W15 Dinard - 1/16-finals |  |
-| ALREADY_OK | 89612 | R. Ciurnelli | men | unique_surname_initial | men:sackmann:214125 | Raffaele Ciurnelli | 12136960 | G. Tabacco - R. Ciurnelli / M25 Milano (Italy) / M25 Milano - 1/16-finals |  |
-| ALREADY_OK | 92128 | E. Talavera Cortes | men | unique_surname_initial | men:sackmann:213588 | Esteban Talavera Cortes | 12137042 | E. Talavera Cortes - A. Juan Mano / M15 Mungia-Laukariz / M15 Mungia-Laukariz - 1/16-finals |  |
-| NEEDS_MANUAL_REVIEW | 104052 | M. Estrella | women | api_key_unmapped | women:api:104052 |  | 12137428 | M. Estrella - S. Meabe / W15 Luque / W15 Luque - 1/16-finals | no Sackmann candidate found |
+| ADD_MAPPING | 33 | T. Di Girolami | women | unique_surname_initial | women:sackmann:228910 | Tilwith Di Girolami | 12137723 | T. Di Girolami - C. Lopez / W15 Dinard / W15 Dinard - 1/16-finals |  |
+| ADD_MAPPING | 69 | S. Lansere | women | unique_surname_initial | women:sackmann:216139 | Sofya Lansere | 12137738 | J. Lim - S. Lansere / W75 Blois / W75 Blois - 1/8-finals |  |
+| ADD_MAPPING | 145 | F. Curmi | women | unique_surname_initial | women:sackmann:221014 | Francesca Curmi | 12137578 | L. Radivojevic - F. Curmi / W75 Blois / W75 Blois - 1/8-finals |  |
+| ADD_MAPPING | 169 | G. Topalova | women | unique_surname_initial | women:sackmann:215566 | Gergana Topalova | 12137311 | G. Topalova - L. Ebeling Koning / W35 Ystad / W35 Ystad - 1/16-finals |  |
+| ADD_MAPPING | 563 | M. Valkusz | men | unique_surname_initial | men:sackmann:200218 | Mate Valkusz | 12137700 | M. Valkusz - L. Rivera / M15 Gyula / M15 Gyula - 1/16-finals |  |
+| NEEDS_MANUAL_REVIEW | 757 | B. Atlangeriev | men | api_key_unmapped | men:api:757 |  | 12137703 | B. Atlangeriev - G. Hornung / M15 Gyula / M15 Gyula - 1/16-finals | ambiguous Sackmann candidates: Bekkhan Atlangeriev, Bekhan Atlangeriev |
+| NEEDS_MANUAL_REVIEW | 1249 | B. Nakashima | men | api_key_unmapped | men:api:1249 |  | 12137974 | B. Nakashima - B. Suarez / M15 Irvine, CA / M15 Irvine - 1/16-finals | ambiguous Sackmann candidates: Brandon Nakashima, Bryce Nakashima |
+| ADD_MAPPING | 1327 | T. Cacao | men | unique_surname_initial | men:sackmann:132310 | Tiago Cacao | 12137461 | T. Cacao - J. Domingues / M25 Lourinha (Portugal) / M25 Lourinha - 1/16-finals |  |
+| ADD_MAPPING | 1417 | A. Kubareva | women | unique_surname_initial | women:sackmann:215707 | Anna Kubareva | 12137553 | B. Thompson - A. Kubareva / W35+H Tauste / W35+H Tauste - 1/8-finals |  |
+| ADD_MAPPING | 2171 | J. Pegula | women | unique_surname_initial | women:sackmann:202468 | Jessica Pegula | 12137623 | J. Pegula - K. Siniakova / Berlin / WTA Berlin - 1/8-finals |  |
+| NEEDS_MANUAL_REVIEW | 2408 | J. Reis Da Silva | men | api_key_unmapped | men:api:2408 |  | 12137608 | M. Krumich - J. Reis Da Silva / Poznan / Poznan - 1/8-finals | ambiguous Sackmann candidates: Joao Silva, Joao Lucas Reis Da Silva, Joao Dinis Silva |
+| NEEDS_MANUAL_REVIEW | 7926 | Y. Chen | women | api_key_unmapped | women:api:7926 |  | 12137987 | C. Allegre - Y. Chen / W15 Irvine, CA / W15 Irvine, CA - 1/16-finals | ambiguous Sackmann candidates: Yu Chen, Yuyun Chen, Yiran Chen, Yiru Chen, Yilin Chen |
+| ADD_MAPPING | 8223 | C. Denolly | men | unique_surname_initial | men:sackmann:144656 | Corentin Denolly | 12137268 | J. Kumstat - C. Denolly / M25 Klosters / M25 Klosters - 1/16-finals |  |
+| ADD_MAPPING | 10473 | V. Tosetto | men | unique_surname_initial | men:sackmann:210322 | Victor Tosetto | 12137957 | A. Fenty - V. Tosetto / M25 Tulsa, OK / M25 Tulsa, OK - 1/16-finals |  |
+| ADD_MAPPING | 10853 | G. Gandolfi | men | unique_surname_initial | men:sackmann:210649 | Giammarco Gandolfi | 12137797 | L. Larue - G. Gandolfi / M15 Bourg-En-Bresse (France) / M15 Bourg-en-Bresse - 1/16-finals |  |
+| ADD_MAPPING | 10897 | A. El Aouni | women | unique_surname_initial | women:sackmann:223671 | Aya El Aouni | 12137294 | A. El Aouni - E. Perelygina / W35 Mohammedia / W35 Mohammedia - 1/16-finals |  |
+| ADD_MAPPING | 12791 | S. Rogozinska Dzik | women | unique_surname_initial | women:sackmann:215970 | Stefania Rogozinska Dzik | 12137990 | S. Rogozinska Dzik - K. Fakih / W15 Irvine, CA / W15 Irvine, CA - 1/16-finals |  |
+| ADD_MAPPING | 13032 | A. Jaskova | women | unique_surname_initial | women:sackmann:222637 | Anika Jaskova | 12137904 | T. Jialin - A. Jaskova / W35 Ystad / W35 Ystad - 1/16-finals |  |
+| ADD_MAPPING | 13466 | D. Martynov | women | unique_surname_initial | women:sackmann:221157 | Diana Martynov | 12137883 | D. Martynov - I. Oz / W75 Blois / W75 Blois - 1/8-finals |  |
+| ADD_MAPPING | 17610 | F. Einig | men | unique_surname_initial | men:sackmann:210432 | Felix Einig | 12137857 | F. Einig - R. Antoni / M15 Saarlouis / M15 Saarlouis - 1/16-finals |  |
+| ADD_MAPPING | 18059 | J. Sebesta | men | unique_surname_initial | men:sackmann:209948 | Jan Sebesta | 12137265 | H. Bernet - J. Sebesta / M25 Klosters / M25 Klosters - 1/16-finals |  |
+| NEEDS_MANUAL_REVIEW | 18341 | D. Suresh | men | api_key_unmapped | men:api:18341 |  | 12137475 | D. Suresh - G. Young / M25 Tulsa, OK / M25 Tulsa, OK - 1/16-finals | ambiguous Sackmann candidates: Dhakshineswar Suresh, Darrshan Suresh |
+| ADD_MAPPING | 21011 | L. Ruland | men | unique_surname_initial | men:sackmann:210293 | Lambert Ruland | 12137970 | K. Miyoshi - L. Ruland / M15 Irvine, CA / M15 Irvine - 1/16-finals |  |
+| NEEDS_MANUAL_REVIEW | 22522 | A. Teixido Garcia | women | api_key_unmapped | women:api:22522 |  | 12137301 | A. Teixido Garcia - C. Kuhl / W35 Mohammedia / W35 Mohammedia - 1/16-finals | ambiguous Sackmann candidates: Andrea Lazaro Garcia, Ares Teixido Garcia, Alba Rey Garcia, Africa Guzman Garcia |
+| ADD_MAPPING | 24582 | C. Lopez | women | unique_surname_initial | women:sackmann:263838 | Chrystal Lopez | 12137723 | T. Di Girolami - C. Lopez / W15 Dinard / W15 Dinard - 1/16-finals |  |
+| ADD_MAPPING | 32300 | G. Hornung | men | unique_surname_initial | men:sackmann:211539 | Gabor Hornung | 12137703 | B. Atlangeriev - G. Hornung / M15 Gyula / M15 Gyula - 1/16-finals |  |
+| ADD_MAPPING | 32548 | N. Kobelt | men | unique_surname_initial | men:sackmann:211608 | Nicolas Kobelt | 12137266 | T. Genier - N. Kobelt / M25 Klosters / M25 Klosters - 1/16-finals |  |
+| ADD_MAPPING | 38027 | S. Reveniau | men | unique_surname_initial | men:sackmann:202361 | Simon Reveniau | 12137796 | L. Massard - S. Reveniau / M15 Bourg-En-Bresse (France) / M15 Bourg-en-Bresse - 1/16-finals |  |
+| NEEDS_MANUAL_REVIEW | 38070 | M. Ristic | women | api_key_unmapped | women:api:38070 |  | 12137773 | T. Rakotomanga Rajaonah - M. Ristic / Brescia (Italy) - Qualification / Brescia - 1/8-finals | ambiguous Sackmann candidates: Mia Ristic, Monica Santaolalla Ristic |
+| ADD_MAPPING | 38113 | V. Leote Prata | men | unique_surname_initial | men:sackmann:211330 | Vasco Leote Prata | 12137469 | P. Schoen - V. Leote Prata / M25 Lourinha (Portugal) / M25 Lourinha - 1/16-finals |  |
+| NEEDS_MANUAL_REVIEW | 38259 | S. Ewing | women | api_key_unmapped | women:api:38259 |  | 12137988 | K. Carnicella - S. Ewing / W15 Irvine, CA / W15 Irvine, CA - 1/16-finals | ambiguous Sackmann candidates: Salma Ewing, Salma Ewing |
+| ADD_MAPPING | 38779 | J. Braswell | men | unique_surname_initial | men:sackmann:211738 | Jonah Braswell | 12137956 | J. Braswell - N. Arseneault / M25 Tulsa, OK / M25 Tulsa, OK - 1/16-finals |  |
+| ADD_MAPPING | 52424 | I. Cherny | women | unique_surname_initial | women:sackmann:234506 | Isabelle Cherny | 12137934 | I. Cherny - L. Perez Alarcon / W35 San Gregorio 4 (Italy) / W35 San Gregorio 4 - 1/16-finals |  |
+| ADD_MAPPING | 53312 | I. Heinzova | women | unique_surname_initial | women:sackmann:224481 | Izabela Heinzova | 12137926 | M. Pawelska - I. Heinzova / W35 Bolszewo (Poland) / W35 Bolszewo - 1/16-finals |  |
+| NEEDS_MANUAL_REVIEW | 54466 | C. Smith | men | api_key_unmapped | men:api:54466 |  | 12137780 | J. Rodionov - C. Smith / Dublin (Ireland) - Qualification / Dublin - 1/8-finals | ambiguous Sackmann candidates: Colter Smith, Colton Smith |
+| ADD_MAPPING | 55470 | R. Alujas | men | unique_surname_initial | men:sackmann:212286 | Rodrigo Alujas | 12137799 | R. Alujas - A. Bellegy / M15 Bourg-En-Bresse (France) / M15 Bourg-en-Bresse - 1/16-finals |  |
+| ADD_MAPPING | 55505 | B. Molnar | women | unique_surname_initial | women:sackmann:256708 | Bianca Molnar | 12137980 | P. Lopez - B. Molnar / W15 Irvine, CA / W15 Irvine, CA - 1/16-finals |  |
+| ADD_MAPPING | 56781 | G. Young | men | unique_surname_initial | men:sackmann:212405 | Gavin Young | 12137475 | D. Suresh - G. Young / M25 Tulsa, OK / M25 Tulsa, OK - 1/16-finals |  |
+| ADD_MAPPING | 58020 | T. Genier | men | unique_surname_initial | men:sackmann:149142 | Tanguy Genier | 12137266 | T. Genier - N. Kobelt / M25 Klosters / M25 Klosters - 1/16-finals |  |
+| NEEDS_MANUAL_REVIEW | 60664 | P. Lopez | women | api_key_unmapped | women:api:60664 |  | 12137980 | P. Lopez - B. Molnar / W15 Irvine, CA / W15 Irvine, CA - 1/16-finals | ambiguous Sackmann candidates: Paola Lopez, Pia Vargas Lopez |
+| ADD_MAPPING | 63419 | D. Egorova | women | unique_surname_initial | women:sackmann:266864 | Daria Egorova | 12137291 | W. Ait el Bachir - D. Egorova / W35 Mohammedia / W35 Mohammedia - 1/16-finals |  |
+| ADD_MAPPING | 66095 | L. Ebeling Koning | women | unique_surname_initial | women:sackmann:266901 | Loes Ebeling Koning | 12137311 | G. Topalova - L. Ebeling Koning / W35 Ystad / W35 Ystad - 1/16-finals |  |
+| ADD_MAPPING | 68003 | M. Kudernatsch | men | unique_surname_initial | men:sackmann:212899 | Moritz Kudernatsch | 12137860 | N. Ehrenschneider - M. Kudernatsch / M15 Saarlouis / M15 Saarlouis - 1/16-finals |  |
+| ADD_MAPPING | 69107 | T. Jialin | women | unique_surname_initial | women:sackmann:266448 | Tian Jialin | 12137904 | T. Jialin - A. Jaskova / W35 Ystad / W35 Ystad - 1/16-finals |  |
+| ADD_MAPPING | 70915 | M. Pawelska | women | unique_surname_initial | women:sackmann:267423 | Maja Pawelska | 12137926 | M. Pawelska - I. Heinzova / W35 Bolszewo (Poland) / W35 Bolszewo - 1/16-finals |  |
+| ADD_MAPPING | 72487 | L. Berto | men | unique_surname_initial | men:sackmann:213120 | Lorenzo Berto | 12137539 | V. Durasovic - L. Berto / M25 Milano (Italy) / M25 Milano - 1/8-finals |  |
+| ADD_MAPPING | 73133 | G. Gruenig | men | unique_surname_initial | men:sackmann:210191 | Gian Gruenig | 12137275 | K. Wehnelt - G. Gruenig / M25 Klosters / M25 Klosters - 1/16-finals |  |
+| ADD_MAPPING | 73805 | M. Baniak | women | unique_surname_initial | women:sackmann:267937 | Magdalena Baniak | 12137927 | M. Baniak - W. Ewald / W35 Bolszewo (Poland) / W35 Bolszewo - 1/16-finals |  |
+| ADD_MAPPING | 73842 | R. Karki | men | unique_surname_initial | men:sackmann:213838 | Ronit Karki | 12137967 | F. Vazquez - R. Karki / M15 Irvine, CA / M15 Irvine - 1/16-finals |  |
+| ADD_MAPPING | 73843 | M. Dussault | men | unique_surname_initial | men:sackmann:213655 | Maximus Dussault | 12137959 | M. Miladinovic - M. Dussault / M25 Tulsa, OK / M25 Tulsa, OK - 1/16-finals |  |
+| ADD_MAPPING | 74727 | L. Larue | men | unique_surname_initial | men:sackmann:211646 | Louis Larue | 12137797 | L. Larue - G. Gandolfi / M15 Bourg-En-Bresse (France) / M15 Bourg-en-Bresse - 1/16-finals |  |
+| ADD_MAPPING | 75982 | B. Suarez | men | unique_surname_initial | men:sackmann:213591 | Billy Suarez | 12137974 | B. Nakashima - B. Suarez / M15 Irvine, CA / M15 Irvine - 1/16-finals |  |
+| ADD_MAPPING | 77543 | M. Wojcik | women | unique_surname_initial | women:sackmann:258532 | Monika Wojcik | 12137722 | L. Sarrazin - M. Wojcik / W15 Dinard / W15 Dinard - 1/16-finals |  |
+| ADD_MAPPING | 78401 | S. Ronde | women | unique_surname_initial | women:sackmann:269788 | Saumya Ronde | 12137300 | A. Shkutova - S. Ronde / W35 Mohammedia / W35 Mohammedia - 1/16-finals |  |
+| ADD_MAPPING | 80336 | A. Tabunshchyk | women | unique_surname_initial | women:sackmann:266795 | Anna Tabunshchyk | 12137983 | P. Daughters - A. Tabunshchyk / W15 Irvine, CA / W15 Irvine, CA - 1/16-finals |  |
+| ADD_MAPPING | 81046 | K. Kajin | men | unique_surname_initial | men:sackmann:208007 | Karlo Kajin | 12137471 | K. Kajin - D. Kuzmanov / M25 Samobor (Croatia) / M25 Samobor - 1/16-finals |  |
+| ADD_MAPPING | 86357 | C. Allegre | women | unique_surname_initial | women:sackmann:270154 | Camille Allegre | 12137987 | C. Allegre - Y. Chen / W15 Irvine, CA / W15 Irvine, CA - 1/16-finals |  |
+| ADD_MAPPING | 86462 | F. Drab | men | unique_surname_initial | men:sackmann:214351 | Filip Drab | 12137701 | K. Kincses - F. Drab / M15 Gyula / M15 Gyula - 1/16-finals |  |
+| ADD_MAPPING | 87791 | M. Bondaz | men | unique_surname_initial | men:sackmann:212110 | Mathis Bondaz | 12137798 | M. Bondaz - F. Fumagalli / M15 Bourg-En-Bresse (France) / M15 Bourg-en-Bresse - 1/16-finals |  |
+| ADD_MAPPING | 89145 | A. Shkutova | women | unique_surname_initial | women:sackmann:270216 | Anna Shkutova | 12137300 | A. Shkutova - S. Ronde / W35 Mohammedia / W35 Mohammedia - 1/16-finals |  |
+| ADD_MAPPING | 89241 | T. Konduri | men | unique_surname_initial | men:sackmann:214433 | Tanishk Konduri | 12137973 | T. Konduri - J. Peck / M15 Irvine, CA / M15 Irvine - 1/16-finals |  |
+| ADD_MAPPING | 90121 | K. Kincses | men | unique_surname_initial | men:sackmann:211540 | Kolos Kincses | 12137701 | K. Kincses - F. Drab / M15 Gyula / M15 Gyula - 1/16-finals |  |
+| ADD_MAPPING | 92846 | E. Zornada | women | unique_surname_initial | women:sackmann:270329 | Emily Zornada | 12137909 | E. Zornada - C. Di Genova / W15 Luque / W15 Luque - 1/16-finals |  |
+| ADD_MAPPING | 96808 | Z. Hamill | men | unique_surname_initial | men:sackmann:214467 | Zac Hamill | 12137960 | D. Popko - Z. Hamill / M25 Tulsa, OK / M25 Tulsa, OK - 1/16-finals |  |
+| ADD_MAPPING | 101858 | E. Honic | women | unique_surname_initial | women:sackmann:270521 | Emina Honic | 12137901 | M. Burylo - E. Honic / W35 Ystad / W35 Ystad - 1/16-finals |  |
+| NEEDS_MANUAL_REVIEW | 104160 | G. Bonaccorso | women | api_key_unmapped | women:api:104160 |  | 12137931 | M. Lazarenko - G. Bonaccorso / W35 San Gregorio 4 (Italy) / W35 San Gregorio 4 - 1/16-finals | no Sackmann candidate found |
