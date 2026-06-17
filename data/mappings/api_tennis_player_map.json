@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-06-17T18:26:28.709617+02:00",
+  "generated_at": "2026-06-17T22:36:29.434295+02:00",
   "source_odds_url": "https://raw.githubusercontent.com/jakobm121/Ai/refs/heads/main/data/tennis_odds_today.json",
-  "odds_generated_at": "2026-06-17T18:07:37.420411+02:00",
+  "odds_generated_at": "2026-06-17T22:31:37.636863+02:00",
   "ratings_generated_at": "2026-06-17T18:11:19.378859+02:00",
   "players": {
     "2813": {
@@ -27427,7 +27427,7 @@
       "last_seen_event_key": 12137968,
       "last_seen_tournament": "M15 Irvine, CA",
       "last_seen_tournament_key": 9799,
-      "updated_at": "2026-06-17T18:26:21.923025+02:00"
+      "updated_at": "2026-06-17T22:36:21.393459+02:00"
     },
     "90153": {
       "api_player_key": 90153,
@@ -27563,7 +27563,7 @@
       "last_seen_event_key": 12137985,
       "last_seen_tournament": "W15 Irvine, CA",
       "last_seen_tournament_key": 9813,
-      "updated_at": "2026-06-17T18:26:26.805623+02:00"
+      "updated_at": "2026-06-17T22:36:27.225253+02:00"
     },
     "11728": {
       "api_player_key": 11728,
@@ -50963,7 +50963,7 @@
       "last_seen_event_key": 12137964,
       "last_seen_tournament": "M15 Irvine, CA",
       "last_seen_tournament_key": 9799,
-      "updated_at": "2026-06-17T18:26:21.133220+02:00"
+      "updated_at": "2026-06-17T22:36:20.474438+02:00"
     },
     "79817": {
       "api_player_key": 79817,
@@ -51067,7 +51067,7 @@
       "last_seen_event_key": 12137969,
       "last_seen_tournament": "M15 Irvine, CA",
       "last_seen_tournament_key": 9799,
-      "updated_at": "2026-06-17T18:26:22.672987+02:00"
+      "updated_at": "2026-06-17T22:36:22.306708+02:00"
     },
     "1249": {
       "api_player_key": 1249,
@@ -51171,7 +51171,7 @@
       "last_seen_event_key": 12137990,
       "last_seen_tournament": "W15 Irvine, CA",
       "last_seen_tournament_key": 9813,
-      "updated_at": "2026-06-17T18:26:28.709586+02:00"
+      "updated_at": "2026-06-17T22:36:29.434273+02:00"
     },
     "40835": {
       "api_player_key": 40835,
@@ -51371,7 +51371,7 @@
       "last_seen_event_key": 12137957,
       "last_seen_tournament": "M25 Tulsa, OK",
       "last_seen_tournament_key": 4219,
-      "updated_at": "2026-06-17T18:26:20.263869+02:00"
+      "updated_at": "2026-06-17T22:36:19.442423+02:00"
     },
     "37912": {
       "api_player_key": 37912,
@@ -51587,7 +51587,7 @@
       "last_seen_event_key": 12137970,
       "last_seen_tournament": "M15 Irvine, CA",
       "last_seen_tournament_key": 9799,
-      "updated_at": "2026-06-17T18:26:23.486580+02:00"
+      "updated_at": "2026-06-17T22:36:23.277448+02:00"
     },
     "9190": {
       "api_player_key": 9190,
@@ -51739,7 +51739,7 @@
       "last_seen_event_key": 12137980,
       "last_seen_tournament": "W15 Irvine, CA",
       "last_seen_tournament_key": 9813,
-      "updated_at": "2026-06-17T18:26:24.323919+02:00"
+      "updated_at": "2026-06-17T22:36:24.282703+02:00"
     },
     "37904": {
       "api_player_key": 37904,
@@ -51819,7 +51819,7 @@
       "last_seen_event_key": 12137983,
       "last_seen_tournament": "W15 Irvine, CA",
       "last_seen_tournament_key": 9813,
-      "updated_at": "2026-06-17T18:26:25.251240+02:00"
+      "updated_at": "2026-06-17T22:36:25.370891+02:00"
     },
     "80336": {
       "api_player_key": 80336,
@@ -51899,7 +51899,7 @@
       "last_seen_event_key": 12137984,
       "last_seen_tournament": "W15 Irvine, CA",
       "last_seen_tournament_key": 9813,
-      "updated_at": "2026-06-17T18:26:25.939252+02:00"
+      "updated_at": "2026-06-17T22:36:26.194137+02:00"
     },
     "86357": {
       "api_player_key": 86357,
@@ -51955,7 +51955,7 @@
       "last_seen_event_key": 12137987,
       "last_seen_tournament": "W15 Irvine, CA",
       "last_seen_tournament_key": 9813,
-      "updated_at": "2026-06-17T18:26:27.642550+02:00"
+      "updated_at": "2026-06-17T22:36:28.208485+02:00"
     }
   }
 }
