@@ -1,23 +1,21 @@
 {
-  "generated_at": "2026-06-17T18:30:47.892474+02:00",
+  "generated_at": "2026-06-17T22:58:25.206841+02:00",
   "summary": {
-    "odds_matches": 61,
+    "odds_matches": 21,
     "ratings_players": 5190,
-    "evaluated_matches": 60,
-    "shadow_bets": 1,
-    "no_bets": 59,
-    "no_bet": 46,
-    "model_probability_below_threshold": 39,
+    "evaluated_matches": 20,
+    "shadow_bets": 0,
+    "no_bets": 20,
     "ineligible_status": 1,
-    "ev_below_threshold": 12,
-    "player_2_insufficient_history": 24,
-    "player_1_insufficient_history": 19,
-    "probability_edge_below_threshold": 6,
-    "odds_above_threshold": 10,
-    "player_1_rating_missing": 9,
-    "player_2_rating_missing": 5,
-    "shadow_bet": 1,
-    "odds_below_threshold": 1
+    "no_bet": 11,
+    "player_1_insufficient_history": 6,
+    "player_2_insufficient_history": 8,
+    "model_probability_below_threshold": 11,
+    "probability_edge_below_threshold": 1,
+    "ev_below_threshold": 3,
+    "odds_above_threshold": 2,
+    "player_2_rating_missing": 3,
+    "player_1_rating_missing": 6
   },
   "settings": {
     "min_player_matches": 10,
@@ -30,89 +28,5 @@
     "surface_weight": 0.4,
     "surface_confidence_matches": 20
   },
-  "top_shadow_picks": [
-    {
-      "pick_id": "12137784|match_winner|player_2",
-      "event_key": 12137784,
-      "date": "2026-06-17",
-      "time": "19:30",
-      "match": "T. Seyboth Wild - N. Hardt",
-      "player_1": "T. Seyboth Wild",
-      "player_2": "N. Hardt",
-      "tournament": "Asuncion 2 (Paraguay) - Qualification",
-      "tournament_key": 13984,
-      "round": "Asuncion 2 - 1/8-finals",
-      "gender": "men",
-      "tour_level": "challenger",
-      "surface": "unknown",
-      "market": "match_winner",
-      "pick_side": "player_2",
-      "pick_player": "N. Hardt",
-      "odds": 2.38,
-      "bookmaker": "WilliamHill",
-      "median_odds": 2.37,
-      "bookmakers_count": 7,
-      "model_probability": 0.734068,
-      "bookmaker_probability": 0.392308,
-      "probability_edge": 0.34176,
-      "fair_odds": 1.362,
-      "ev": 0.747081,
-      "decision": "SHADOW_BET",
-      "confidence": "high",
-      "reasons": [],
-      "player_1_market": {
-        "pick_side": "player_1",
-        "pick_player": "T. Seyboth Wild",
-        "odds": 1.55,
-        "bookmaker": "Superbet",
-        "median_odds": 1.53,
-        "bookmakers_count": 7,
-        "model_probability": 0.265932,
-        "bookmaker_probability": 0.607692,
-        "probability_edge": -0.34176,
-        "fair_odds": 3.76,
-        "ev": -0.587805,
-        "reasons": [
-          "model_probability_below_threshold",
-          "probability_edge_below_threshold",
-          "ev_below_threshold"
-        ]
-      },
-      "player_2_market": {
-        "pick_side": "player_2",
-        "pick_player": "N. Hardt",
-        "odds": 2.38,
-        "bookmaker": "WilliamHill",
-        "median_odds": 2.37,
-        "bookmakers_count": 7,
-        "model_probability": 0.734068,
-        "bookmaker_probability": 0.392308,
-        "probability_edge": 0.34176,
-        "fair_odds": 1.362,
-        "ev": 0.747081,
-        "reasons": []
-      },
-      "rating_matches": {
-        "player_1_status": "matched",
-        "player_1_rating_name": "Seyboth Wild T.",
-        "player_1_matches": 23,
-        "player_2_status": "matched",
-        "player_2_rating_name": "Hardt N.",
-        "player_2_matches": 102
-      },
-      "elo_details": {
-        "player_1_overall_elo": 1516.124,
-        "player_2_overall_elo": 1692.51,
-        "player_1_surface_elo": 1516.124,
-        "player_2_surface_elo": 1692.51,
-        "player_1_surface_matches": 0,
-        "player_2_surface_matches": 0,
-        "overall_p1_probability": 0.265932,
-        "surface_p1_probability": 0.265932,
-        "blended_p1_probability": 0.265932,
-        "effective_overall_weight": 1.0,
-        "effective_surface_weight": 0.0
-      }
-    }
-  ]
+  "top_shadow_picks": []
 }
