@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T06:55:16.454420+02:00",
+  "generated_at": "2026-06-18T17:48:18.982350+02:00",
   "source_url": "https://www.rezultati.com/tenis/",
   "output_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/input/matches_today.json",
   "seen_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/state/seen_match_urls.json",
@@ -15,15 +15,145 @@
   },
   "counts": {
     "found_matches": 315,
-    "available_unseen": 315,
+    "available_unseen": 307,
     "selected": 8,
-    "skipped_seen": 0,
-    "seen_total": 426,
+    "skipped_seen": 8,
+    "seen_total": 434,
     "blocked": 0,
     "errors": 0
   },
   "error": "",
   "selected": [
+    {
+      "match": "Algerija - Ghana",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/algerija-GOHH5IHr/ghana-nTXr9ivs/?mid=4tOp6LUG",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Algerija",
+      "player_2": "Ghana",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "4tOp6LUG",
+      "raw_parent_text": ""
+    },
+    {
+      "match": "Alhogbani Anmar Faleh - Jiang Fumin",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/alhogbani-anmar-faleh-dEdGNP6F/jiang-fumin-fHtmXzwe/?mid=2XeAoCwn",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Alhogbani Anmar Faleh",
+      "player_2": "Jiang Fumin",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "2XeAoCwn",
+      "raw_parent_text": ""
+    },
+    {
+      "match": "Almazan Valiente Izan - Juan Mano Alejandro",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/almazan-valiente-izan-Sxms8uzF/juan-mano-alejandro-vuRxHO7G/?mid=OYvh5hBF",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Almazan Valiente Izan",
+      "player_2": "Juan Mano Alejandro",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "OYvh5hBF",
+      "raw_parent_text": ""
+    },
+    {
+      "match": "Amariei Ilinca Dalina - Feistel Gina",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/amariei-ilinca-dalina-hnSjsqNn/feistel-gina-27crpAq9/?mid=jX8mXpod",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Amariei Ilinca Dalina",
+      "player_2": "Feistel Gina",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "jX8mXpod",
+      "raw_parent_text": ""
+    },
+    {
+      "match": "Ambrogi Luciano Emanuel - Justo Guido Ivan",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/ambrogi-luciano-emanuel-zuhsTKYK/justo-guido-ivan-CjaTkiTr/?mid=t8rqufLb",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Ambrogi Luciano Emanuel",
+      "player_2": "Justo Guido Ivan",
+      "source": "rezultati_daily_click",
+      "source_match_id": "t8rqufLb",
+      "raw_parent_text": "20:30\nJusto G. I.\nAmbrogi L. E.\n-\n-"
+    },
+    {
+      "match": "Andaloro Fabrizio - Rocha Francisco",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/andaloro-fabrizio-GjnmeDpe/rocha-francisco-8A0Hljl3/?mid=OntjnVzQ",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Andaloro Fabrizio",
+      "player_2": "Rocha Francisco",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "OntjnVzQ",
+      "raw_parent_text": ""
+    },
+    {
+      "match": "Andre Seydina - Fumagalli Filiberto",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/andre-seydina-h2Hth0eO/fumagalli-filiberto-E3ftlwih/?mid=YDFYEmMj",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Andre Seydina",
+      "player_2": "Fumagalli Filiberto",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "YDFYEmMj",
+      "raw_parent_text": ""
+    },
+    {
+      "match": "Andreescu Stefan Adrian - Eichenseher David",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/andreescu-stefan-adrian-f1jSEJGT/eichenseher-david-SGBOqnWb/?mid=04aNiPeD",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Andreescu Stefan Adrian",
+      "player_2": "Eichenseher David",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "04aNiPeD",
+      "raw_parent_text": ""
+    }
+  ],
+  "skipped_seen_examples": [
     {
       "match": "Adams Julia - Bielinska Sofiia",
       "match_url": "https://www.rezultati.com/utakmica/tenis/adams-julia-rNpx5PyM/bielinska-sofiia-IZZfHlgn/?mid=phoNnCQp",
@@ -54,7 +184,7 @@
       "player_2": "Fenty Andrew",
       "source": "rezultati_daily_anchor",
       "source_match_id": "KjXpd1Et",
-      "raw_parent_text": ""
+      "raw_parent_text": "19:00\nFenty A.\nAguiard E.\n-\n-"
     },
     {
       "match": "Aksu Semra - Hossam Salah Jana",
@@ -118,7 +248,7 @@
       "player_2": "Sanchez Jover Carlos",
       "source": "rezultati_daily_click",
       "source_match_id": "QVnHeB3c",
-      "raw_parent_text": "13:00\nAlcala Gurri M.\nSanchez Jover C.\n-\n-"
+      "raw_parent_text": "3. set\nAlcala Gurri M.\nSanchez Jover C.\n1\n1\n6\n2\n6\n3\n7\n7\n5\n4\n0\n0"
     },
     {
       "match": "Aleen Qamar Farhat - Chaudhari Vaidehi",
@@ -153,7 +283,6 @@
       "raw_parent_text": ""
     }
   ],
-  "skipped_seen_examples": [],
   "debug_files": {
     "text": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/reports/debug_rezultati_daily_text.txt",
     "html": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/reports/debug_rezultati_daily_page.html",
