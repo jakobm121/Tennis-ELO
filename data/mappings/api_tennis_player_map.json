@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-06-18T18:02:37.294568+02:00",
+  "generated_at": "2026-06-18T23:05:51.541816+02:00",
   "source_odds_url": "https://raw.githubusercontent.com/jakobm121/Ai/refs/heads/main/data/tennis_odds_today.json",
-  "odds_generated_at": "2026-06-18T12:50:26.182678+02:00",
-  "ratings_generated_at": "2026-06-18T07:07:04.760140+02:00",
+  "odds_generated_at": "2026-06-18T22:39:36.021377+02:00",
+  "ratings_generated_at": "2026-06-18T22:48:59.145952+02:00",
   "players": {
     "2813": {
       "api_player_key": 2813,
@@ -50856,6 +50856,22 @@
       "elo_player_key": null,
       "candidates": [
         {
+          "elo_player_name": "Goncalves V.",
+          "elo_player_key": "goncalves v",
+          "matches_total": 10,
+          "gender": "unknown",
+          "score": 0.6202,
+          "method": "fuzzy"
+        },
+        {
+          "elo_player_name": "Goncalves V.",
+          "elo_player_key": "goncalves v",
+          "matches_total": 10,
+          "gender": "unknown",
+          "score": 0.6202,
+          "method": "fuzzy"
+        },
+        {
           "elo_player_name": "Paganetti V.",
           "elo_player_key": "paganetti v",
           "matches_total": 9,
@@ -50867,22 +50883,6 @@
           "elo_player_name": "Paganetti V.",
           "elo_player_key": "paganetti v",
           "matches_total": 9,
-          "gender": "unknown",
-          "score": 0.6202,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Goncalves V.",
-          "elo_player_key": "goncalves v",
-          "matches_total": 7,
-          "gender": "unknown",
-          "score": 0.6202,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Goncalves V.",
-          "elo_player_key": "goncalves v",
-          "matches_total": 7,
           "gender": "unknown",
           "score": 0.6202,
           "method": "fuzzy"
@@ -50899,7 +50899,7 @@
       "last_seen_event_key": 12138387,
       "last_seen_tournament": "M15 Irvine, CA",
       "last_seen_tournament_key": 9799,
-      "updated_at": "2026-06-18T18:02:37.294536+02:00"
+      "updated_at": "2026-06-18T23:05:51.541778+02:00"
     },
     "79817": {
       "api_player_key": 79817,
@@ -51107,7 +51107,7 @@
       "last_seen_event_key": 12138377,
       "last_seen_tournament": "W15 Irvine, CA",
       "last_seen_tournament_key": 9813,
-      "updated_at": "2026-06-18T18:02:33.093653+02:00"
+      "updated_at": "2026-06-18T23:05:48.341228+02:00"
     },
     "40835": {
       "api_player_key": 40835,
@@ -51675,7 +51675,7 @@
       "last_seen_event_key": 12138382,
       "last_seen_tournament": "W15 Irvine, CA",
       "last_seen_tournament_key": 9813,
-      "updated_at": "2026-06-18T18:02:36.239285+02:00"
+      "updated_at": "2026-06-18T23:05:50.476341+02:00"
     },
     "37904": {
       "api_player_key": 37904,
@@ -51746,7 +51746,7 @@
         {
           "elo_player_name": "De Lange P.",
           "elo_player_key": "de lange p",
-          "matches_total": 4,
+          "matches_total": 5,
           "gender": "unknown",
           "score": 0.6467,
           "method": "fuzzy"
@@ -51755,7 +51755,7 @@
       "last_seen_event_key": 12138381,
       "last_seen_tournament": "W15 Irvine, CA",
       "last_seen_tournament_key": 9813,
-      "updated_at": "2026-06-18T18:02:35.217178+02:00"
+      "updated_at": "2026-06-18T23:05:49.451151+02:00"
     },
     "80336": {
       "api_player_key": 80336,
