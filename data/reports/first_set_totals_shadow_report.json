@@ -1,58 +1,15 @@
 {
-  "generated_at": "2026-06-18T07:21:59.497897+02:00",
+  "generated_at": "2026-06-18T12:59:44.439691+02:00",
   "summary": {
-    "odds_matches": 186,
-    "evaluated_strategy_rows": 1092,
-    "shadow_bets": 3,
+    "odds_matches": 128,
+    "evaluated_strategy_rows": 756,
+    "shadow_bets": 2,
     "watch_picks": 0,
-    "no_bet": 1089,
-    "missing_first_set_totals": 4,
-    "shadow_bet": 3
+    "no_bet": 754,
+    "shadow_bet": 2,
+    "missing_first_set_totals": 2
   },
   "top_shadow_picks": [
-    {
-      "pick_id": "12138008|first_set|under|9.5|all_fav75_under_9_5",
-      "event_key": 12138008,
-      "date": "2026-06-18",
-      "time": "11:30",
-      "match": "F. Marozsan - T. Fritz",
-      "player_1": "F. Marozsan",
-      "player_2": "T. Fritz",
-      "tournament": "Halle",
-      "tour_level": "atp",
-      "gender": "men",
-      "surface": "grass",
-      "favorite": "T. Fritz",
-      "favorite_probability": 0.765937,
-      "strategy_id": "all_fav75_under_9_5",
-      "market": "first_set_total_games",
-      "side": "under",
-      "line": 9.5,
-      "odds": 2.88,
-      "bookmaker": "Betfair",
-      "model_probability": 0.542241,
-      "fair_odds": 1.844,
-      "edge": 0.5617,
-      "confidence": "medium",
-      "decision": "SHADOW_BET",
-      "reasons": [],
-      "profile_matches": {
-        "player_1_status": "matched",
-        "player_1_profile_name": "Marozsan F.",
-        "player_1_sample": 94,
-        "player_2_status": "matched",
-        "player_2_profile_name": "Fritz T.",
-        "player_2_sample": 116
-      },
-      "model_details": {
-        "strategy_base_probability": 0.5853,
-        "player_component_probability": 0.4418,
-        "profile_probabilities": [
-          0.4975,
-          0.3861
-        ]
-      }
-    },
     {
       "pick_id": "12137596|first_set|under|9.5|all_fav75_under_9_5",
       "event_key": 12137596,
@@ -66,7 +23,7 @@
       "gender": "men",
       "surface": "grass",
       "favorite": "A. Zverev",
-      "favorite_probability": 0.84647,
+      "favorite_probability": 0.848033,
       "strategy_id": "all_fav75_under_9_5",
       "market": "first_set_total_games",
       "side": "under",
@@ -100,7 +57,7 @@
       "pick_id": "12138243|first_set|under|9.5|all_fav75_under_9_5",
       "event_key": 12138243,
       "date": "2026-06-18",
-      "time": "17:00",
+      "time": "17:05",
       "match": "B. Harris - O. Virtanen",
       "player_1": "B. Harris",
       "player_2": "O. Virtanen",
@@ -109,7 +66,7 @@
       "gender": "men",
       "surface": "grass",
       "favorite": "O. Virtanen",
-      "favorite_probability": 0.75502,
+      "favorite_probability": 0.754527,
       "strategy_id": "all_fav75_under_9_5",
       "market": "first_set_total_games",
       "side": "under",
