@@ -1,13 +1,12 @@
 {
-  "generated_at": "2026-06-18T12:58:09.629156+02:00",
+  "generated_at": "2026-06-18T18:02:37.294729+02:00",
   "summary": {
     "api_players_today": 256,
     "ratings_players": 5209,
     "mapping_records_total": 1834,
-    "mapping_records_changed": 27,
-    "existing_confirmed": 229,
-    "unmatched": 25,
-    "confirmed": 2
+    "mapping_records_changed": 25,
+    "existing_confirmed": 231,
+    "unmatched": 25
   },
   "status_counts_today": {
     "confirmed": 231,
@@ -69,7 +68,7 @@
       "last_seen_event_key": 12138047,
       "last_seen_tournament": "W35 Klosters",
       "last_seen_tournament_key": 11223,
-      "updated_at": "2026-06-18T12:57:48.447333+02:00"
+      "updated_at": "2026-06-18T18:02:12.305835+02:00"
     },
     {
       "api_player_key": 89145,
@@ -125,7 +124,7 @@
       "last_seen_event_key": 12138153,
       "last_seen_tournament": "W35 Mohammedia",
       "last_seen_tournament_key": 11389,
-      "updated_at": "2026-06-18T12:57:49.324490+02:00"
+      "updated_at": "2026-06-18T18:02:13.346235+02:00"
     },
     {
       "api_player_key": 74153,
@@ -181,7 +180,7 @@
       "last_seen_event_key": 12138158,
       "last_seen_tournament": "W15 Dinard",
       "last_seen_tournament_key": 11630,
-      "updated_at": "2026-06-18T12:57:50.193082+02:00"
+      "updated_at": "2026-06-18T18:02:14.376497+02:00"
     },
     {
       "api_player_key": 95682,
@@ -237,7 +236,7 @@
       "last_seen_event_key": 12138158,
       "last_seen_tournament": "W15 Dinard",
       "last_seen_tournament_key": 11630,
-      "updated_at": "2026-06-18T12:57:50.996655+02:00"
+      "updated_at": "2026-06-18T18:02:15.324862+02:00"
     },
     {
       "api_player_key": 69230,
@@ -293,7 +292,7 @@
       "last_seen_event_key": 12138159,
       "last_seen_tournament": "W15 Dinard",
       "last_seen_tournament_key": 11630,
-      "updated_at": "2026-06-18T12:57:51.769174+02:00"
+      "updated_at": "2026-06-18T18:02:16.243159+02:00"
     },
     {
       "api_player_key": 30582,
@@ -349,7 +348,7 @@
       "last_seen_event_key": 12138173,
       "last_seen_tournament": "M15 Mungia-Laukariz",
       "last_seen_tournament_key": 12636,
-      "updated_at": "2026-06-18T12:57:52.630617+02:00"
+      "updated_at": "2026-06-18T18:02:17.253897+02:00"
     },
     {
       "api_player_key": 50291,
@@ -405,7 +404,7 @@
       "last_seen_event_key": 12138174,
       "last_seen_tournament": "M15 Mungia-Laukariz",
       "last_seen_tournament_key": 12636,
-      "updated_at": "2026-06-18T12:57:53.705255+02:00"
+      "updated_at": "2026-06-18T18:02:18.511160+02:00"
     },
     {
       "api_player_key": 70915,
@@ -461,7 +460,7 @@
       "last_seen_event_key": 12138215,
       "last_seen_tournament": "W35 Bolszewo (Poland)",
       "last_seen_tournament_key": 13991,
-      "updated_at": "2026-06-18T12:57:54.635869+02:00"
+      "updated_at": "2026-06-18T18:02:19.609961+02:00"
     },
     {
       "api_player_key": 40197,
@@ -517,7 +516,7 @@
       "last_seen_event_key": 12138256,
       "last_seen_tournament": "M15 Bourg-En-Bresse (France)",
       "last_seen_tournament_key": 13990,
-      "updated_at": "2026-06-18T12:57:55.596770+02:00"
+      "updated_at": "2026-06-18T18:02:20.761105+02:00"
     },
     {
       "api_player_key": 52678,
@@ -573,7 +572,7 @@
       "last_seen_event_key": 12138256,
       "last_seen_tournament": "M15 Bourg-En-Bresse (France)",
       "last_seen_tournament_key": 13990,
-      "updated_at": "2026-06-18T12:57:56.432766+02:00"
+      "updated_at": "2026-06-18T18:02:21.754152+02:00"
     },
     {
       "api_player_key": 86462,
@@ -629,7 +628,7 @@
       "last_seen_event_key": 12138265,
       "last_seen_tournament": "M15 Gyula",
       "last_seen_tournament_key": 11073,
-      "updated_at": "2026-06-18T12:57:57.175491+02:00"
+      "updated_at": "2026-06-18T18:02:22.633418+02:00"
     },
     {
       "api_player_key": 102651,
@@ -685,7 +684,7 @@
       "last_seen_event_key": 12138275,
       "last_seen_tournament": "M15 Kursumlijska Banja 5",
       "last_seen_tournament_key": 9726,
-      "updated_at": "2026-06-18T12:57:58.016370+02:00"
+      "updated_at": "2026-06-18T18:02:23.617487+02:00"
     },
     {
       "api_player_key": 104120,
@@ -741,7 +740,7 @@
       "last_seen_event_key": 12138277,
       "last_seen_tournament": "M15 Kursumlijska Banja 5",
       "last_seen_tournament_key": 9726,
-      "updated_at": "2026-06-18T12:57:58.851351+02:00"
+      "updated_at": "2026-06-18T18:02:24.592530+02:00"
     },
     {
       "api_player_key": 59599,
@@ -797,7 +796,7 @@
       "last_seen_event_key": 12138285,
       "last_seen_tournament": "M15 Monastir 23",
       "last_seen_tournament_key": 4879,
-      "updated_at": "2026-06-18T12:57:59.722564+02:00"
+      "updated_at": "2026-06-18T18:02:25.621019+02:00"
     },
     {
       "api_player_key": 64735,
@@ -853,7 +852,7 @@
       "last_seen_event_key": 12138286,
       "last_seen_tournament": "M15 Monastir 23",
       "last_seen_tournament_key": 4879,
-      "updated_at": "2026-06-18T12:58:00.629190+02:00"
+      "updated_at": "2026-06-18T18:02:26.693095+02:00"
     },
     {
       "api_player_key": 32546,
@@ -909,7 +908,7 @@
       "last_seen_event_key": 12138289,
       "last_seen_tournament": "M15 Monastir 23",
       "last_seen_tournament_key": 4879,
-      "updated_at": "2026-06-18T12:58:01.523494+02:00"
+      "updated_at": "2026-06-18T18:02:27.758969+02:00"
     },
     {
       "api_player_key": 73843,
@@ -965,7 +964,7 @@
       "last_seen_event_key": 12138347,
       "last_seen_tournament": "M25 Tulsa, OK",
       "last_seen_tournament_key": 4219,
-      "updated_at": "2026-06-18T12:58:02.420947+02:00"
+      "updated_at": "2026-06-18T18:02:28.818219+02:00"
     },
     {
       "api_player_key": 92846,
@@ -1021,7 +1020,7 @@
       "last_seen_event_key": 12138356,
       "last_seen_tournament": "W15 Luque",
       "last_seen_tournament_key": 11972,
-      "updated_at": "2026-06-18T12:58:03.332278+02:00"
+      "updated_at": "2026-06-18T18:02:29.894001+02:00"
     },
     {
       "api_player_key": 83146,
@@ -1077,7 +1076,7 @@
       "last_seen_event_key": 12138376,
       "last_seen_tournament": "W15 Irvine, CA",
       "last_seen_tournament_key": 9813,
-      "updated_at": "2026-06-18T12:58:04.101809+02:00"
+      "updated_at": "2026-06-18T18:02:30.826036+02:00"
     },
     {
       "api_player_key": 8148,
@@ -1133,7 +1132,7 @@
       "last_seen_event_key": 12138376,
       "last_seen_tournament": "W15 Irvine, CA",
       "last_seen_tournament_key": 9813,
-      "updated_at": "2026-06-18T12:58:04.930108+02:00"
+      "updated_at": "2026-06-18T18:02:31.808672+02:00"
     },
     {
       "api_player_key": 12791,
@@ -1189,7 +1188,7 @@
       "last_seen_event_key": 12138377,
       "last_seen_tournament": "W15 Irvine, CA",
       "last_seen_tournament_key": 9813,
-      "updated_at": "2026-06-18T12:58:06.048850+02:00"
+      "updated_at": "2026-06-18T18:02:33.093653+02:00"
     },
     {
       "api_player_key": 104082,
@@ -1245,7 +1244,7 @@
       "last_seen_event_key": 12138379,
       "last_seen_tournament": "W15 Irvine, CA",
       "last_seen_tournament_key": 9813,
-      "updated_at": "2026-06-18T12:58:06.883449+02:00"
+      "updated_at": "2026-06-18T18:02:34.082715+02:00"
     },
     {
       "api_player_key": 70630,
@@ -1301,7 +1300,7 @@
       "last_seen_event_key": 12138381,
       "last_seen_tournament": "W15 Irvine, CA",
       "last_seen_tournament_key": 9813,
-      "updated_at": "2026-06-18T12:58:07.852522+02:00"
+      "updated_at": "2026-06-18T18:02:35.217178+02:00"
     },
     {
       "api_player_key": 55505,
@@ -1357,7 +1356,7 @@
       "last_seen_event_key": 12138382,
       "last_seen_tournament": "W15 Irvine, CA",
       "last_seen_tournament_key": 9813,
-      "updated_at": "2026-06-18T12:58:08.724177+02:00"
+      "updated_at": "2026-06-18T18:02:36.239285+02:00"
     },
     {
       "api_player_key": 86747,
@@ -1413,7 +1412,7 @@
       "last_seen_event_key": 12138387,
       "last_seen_tournament": "M15 Irvine, CA",
       "last_seen_tournament_key": 9799,
-      "updated_at": "2026-06-18T12:58:09.628944+02:00"
+      "updated_at": "2026-06-18T18:02:37.294536+02:00"
     }
   ]
 }
