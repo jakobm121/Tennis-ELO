@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-06-18T07:21:56.868733+02:00",
+  "generated_at": "2026-06-18T12:58:09.628980+02:00",
   "source_odds_url": "https://raw.githubusercontent.com/jakobm121/Ai/refs/heads/main/data/tennis_odds_today.json",
-  "odds_generated_at": "2026-06-18T07:05:54.066040+02:00",
+  "odds_generated_at": "2026-06-18T12:50:26.182678+02:00",
   "ratings_generated_at": "2026-06-18T07:07:04.760140+02:00",
   "players": {
     "2813": {
@@ -7691,7 +7691,7 @@
       "last_seen_event_key": 12138174,
       "last_seen_tournament": "M15 Mungia-Laukariz",
       "last_seen_tournament_key": 12636,
-      "updated_at": "2026-06-18T07:21:39.217631+02:00"
+      "updated_at": "2026-06-18T12:57:53.705255+02:00"
     },
     "12954": {
       "api_player_key": 12954,
@@ -9971,7 +9971,7 @@
       "last_seen_event_key": 12138158,
       "last_seen_tournament": "W15 Dinard",
       "last_seen_tournament_key": 11630,
-      "updated_at": "2026-06-18T07:21:34.669145+02:00"
+      "updated_at": "2026-06-18T12:57:50.996655+02:00"
     },
     "27904": {
       "api_player_key": 27904,
@@ -19179,7 +19179,7 @@
       "last_seen_event_key": 12138285,
       "last_seen_tournament": "M15 Monastir 23",
       "last_seen_tournament_key": 4879,
-      "updated_at": "2026-06-18T07:21:51.805644+02:00"
+      "updated_at": "2026-06-18T12:57:59.722564+02:00"
     },
     "28613": {
       "api_player_key": 28613,
@@ -22267,7 +22267,7 @@
       "last_seen_event_key": 12138173,
       "last_seen_tournament": "M15 Mungia-Laukariz",
       "last_seen_tournament_key": 12636,
-      "updated_at": "2026-06-18T07:21:37.940928+02:00"
+      "updated_at": "2026-06-18T12:57:52.630617+02:00"
     },
     "74727": {
       "api_player_key": 74727,
@@ -24771,7 +24771,7 @@
       "last_seen_event_key": 12138153,
       "last_seen_tournament": "W35 Mohammedia",
       "last_seen_tournament_key": 11389,
-      "updated_at": "2026-06-18T07:21:32.667837+02:00"
+      "updated_at": "2026-06-18T12:57:49.324490+02:00"
     },
     "1348": {
       "api_player_key": 1348,
@@ -39691,7 +39691,7 @@
       "last_seen_event_key": 12138275,
       "last_seen_tournament": "M15 Kursumlijska Banja 5",
       "last_seen_tournament_key": 9726,
-      "updated_at": "2026-06-18T07:21:49.740129+02:00"
+      "updated_at": "2026-06-18T12:57:58.016370+02:00"
     },
     "69711": {
       "api_player_key": 69711,
@@ -41483,7 +41483,7 @@
       "last_seen_event_key": 12138256,
       "last_seen_tournament": "M15 Bourg-En-Bresse (France)",
       "last_seen_tournament_key": 13990,
-      "updated_at": "2026-06-18T07:21:44.653098+02:00"
+      "updated_at": "2026-06-18T12:57:55.596770+02:00"
     },
     "5909": {
       "api_player_key": 5909,
@@ -43163,7 +43163,7 @@
       "last_seen_event_key": 12138256,
       "last_seen_tournament": "M15 Bourg-En-Bresse (France)",
       "last_seen_tournament_key": 13990,
-      "updated_at": "2026-06-18T07:21:45.668205+02:00"
+      "updated_at": "2026-06-18T12:57:56.432766+02:00"
     },
     "58609": {
       "api_player_key": 58609,
@@ -43936,10 +43936,10 @@
           "method": "fuzzy"
         }
       ],
-      "last_seen_event_key": 12137489,
+      "last_seen_event_key": 12138379,
       "last_seen_tournament": "W15 Irvine, CA",
       "last_seen_tournament_key": 9813,
-      "updated_at": "2026-06-17T01:08:15.177159+02:00"
+      "updated_at": "2026-06-18T12:58:06.883449+02:00"
     },
     "54520": {
       "api_player_key": 54520,
@@ -44835,7 +44835,7 @@
       "last_seen_event_key": 12138047,
       "last_seen_tournament": "W35 Klosters",
       "last_seen_tournament_key": 11223,
-      "updated_at": "2026-06-18T07:21:30.544112+02:00"
+      "updated_at": "2026-06-18T12:57:48.447333+02:00"
     },
     "22282": {
       "api_player_key": 22282,
@@ -46891,7 +46891,7 @@
       "last_seen_event_key": 12138277,
       "last_seen_tournament": "M15 Kursumlijska Banja 5",
       "last_seen_tournament_key": 9726,
-      "updated_at": "2026-06-18T07:21:50.732624+02:00"
+      "updated_at": "2026-06-18T12:57:58.851351+02:00"
     },
     "38985": {
       "api_player_key": 38985,
@@ -47459,7 +47459,7 @@
       "last_seen_event_key": 12138265,
       "last_seen_tournament": "M15 Gyula",
       "last_seen_tournament_key": 11073,
-      "updated_at": "2026-06-18T07:21:47.681066+02:00"
+      "updated_at": "2026-06-18T12:57:57.175491+02:00"
     },
     "757": {
       "api_player_key": 757,
@@ -48139,7 +48139,7 @@
       "last_seen_event_key": 12138159,
       "last_seen_tournament": "W15 Dinard",
       "last_seen_tournament_key": 11630,
-      "updated_at": "2026-06-18T07:21:35.608817+02:00"
+      "updated_at": "2026-06-18T12:57:51.769174+02:00"
     },
     "23873": {
       "api_player_key": 23873,
@@ -48219,7 +48219,7 @@
       "last_seen_event_key": 12138158,
       "last_seen_tournament": "W15 Dinard",
       "last_seen_tournament_key": 11630,
-      "updated_at": "2026-06-18T07:21:33.713453+02:00"
+      "updated_at": "2026-06-18T12:57:50.193082+02:00"
     },
     "63427": {
       "api_player_key": 63427,
@@ -49259,7 +49259,7 @@
       "last_seen_event_key": 12138289,
       "last_seen_tournament": "M15 Monastir 23",
       "last_seen_tournament_key": 4879,
-      "updated_at": "2026-06-18T07:21:53.970430+02:00"
+      "updated_at": "2026-06-18T12:58:01.523494+02:00"
     },
     "2467": {
       "api_player_key": 2467,
@@ -49339,7 +49339,7 @@
       "last_seen_event_key": 12138286,
       "last_seen_tournament": "M15 Monastir 23",
       "last_seen_tournament_key": 4879,
-      "updated_at": "2026-06-18T07:21:52.897985+02:00"
+      "updated_at": "2026-06-18T12:58:00.629190+02:00"
     },
     "1017": {
       "api_player_key": 1017,
@@ -49992,10 +49992,10 @@
           "method": "fuzzy"
         }
       ],
-      "last_seen_event_key": 12137909,
+      "last_seen_event_key": 12138356,
       "last_seen_tournament": "W15 Luque",
       "last_seen_tournament_key": 11972,
-      "updated_at": "2026-06-17T18:26:19.467186+02:00"
+      "updated_at": "2026-06-18T12:58:03.332278+02:00"
     },
     "22529": {
       "api_player_key": 22529,
@@ -50259,7 +50259,7 @@
       "last_seen_event_key": 12138215,
       "last_seen_tournament": "W35 Bolszewo (Poland)",
       "last_seen_tournament_key": 13991,
-      "updated_at": "2026-06-18T07:21:41.276473+02:00"
+      "updated_at": "2026-06-18T12:57:54.635869+02:00"
     },
     "53312": {
       "api_player_key": 53312,
@@ -50896,10 +50896,10 @@
           "method": "fuzzy"
         }
       ],
-      "last_seen_event_key": 12137964,
+      "last_seen_event_key": 12138387,
       "last_seen_tournament": "M15 Irvine, CA",
       "last_seen_tournament_key": 9799,
-      "updated_at": "2026-06-17T22:36:20.474438+02:00"
+      "updated_at": "2026-06-18T12:58:09.628944+02:00"
     },
     "79817": {
       "api_player_key": 79817,
@@ -51104,10 +51104,10 @@
           "method": "fuzzy"
         }
       ],
-      "last_seen_event_key": 12137990,
+      "last_seen_event_key": 12138377,
       "last_seen_tournament": "W15 Irvine, CA",
       "last_seen_tournament_key": 9813,
-      "updated_at": "2026-06-17T22:36:29.434273+02:00"
+      "updated_at": "2026-06-18T12:58:06.048850+02:00"
     },
     "40835": {
       "api_player_key": 40835,
@@ -51408,10 +51408,10 @@
           "method": "fuzzy"
         }
       ],
-      "last_seen_event_key": 12137959,
+      "last_seen_event_key": 12138347,
       "last_seen_tournament": "M25 Tulsa, OK",
       "last_seen_tournament_key": 4219,
-      "updated_at": "2026-06-17T13:23:47.457758+02:00"
+      "updated_at": "2026-06-18T12:58:02.420947+02:00"
     },
     "96808": {
       "api_player_key": 96808,
@@ -51672,10 +51672,10 @@
           "method": "fuzzy"
         }
       ],
-      "last_seen_event_key": 12137980,
+      "last_seen_event_key": 12138382,
       "last_seen_tournament": "W15 Irvine, CA",
       "last_seen_tournament_key": 9813,
-      "updated_at": "2026-06-17T22:36:24.282703+02:00"
+      "updated_at": "2026-06-18T12:58:08.724177+02:00"
     },
     "37904": {
       "api_player_key": 37904,
@@ -51752,10 +51752,10 @@
           "method": "fuzzy"
         }
       ],
-      "last_seen_event_key": 12137983,
+      "last_seen_event_key": 12138381,
       "last_seen_tournament": "W15 Irvine, CA",
       "last_seen_tournament_key": 9813,
-      "updated_at": "2026-06-17T22:36:25.370891+02:00"
+      "updated_at": "2026-06-18T12:58:07.852522+02:00"
     },
     "80336": {
       "api_player_key": 80336,
@@ -52875,7 +52875,7 @@
       "last_seen_event_key": 12138376,
       "last_seen_tournament": "W15 Irvine, CA",
       "last_seen_tournament_key": 9813,
-      "updated_at": "2026-06-18T07:21:55.869064+02:00"
+      "updated_at": "2026-06-18T12:58:04.101809+02:00"
     },
     "8148": {
       "api_player_key": 8148,
@@ -52931,7 +52931,55 @@
       "last_seen_event_key": 12138376,
       "last_seen_tournament": "W15 Irvine, CA",
       "last_seen_tournament_key": 9813,
-      "updated_at": "2026-06-18T07:21:56.868709+02:00"
+      "updated_at": "2026-06-18T12:58:04.930108+02:00"
+    },
+    "2119": {
+      "api_player_key": 2119,
+      "api_name": "R. Ccuno",
+      "gender": "women",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Ccuno R.",
+      "elo_player_key": "ccuno r",
+      "candidates": [
+        {
+          "elo_player_name": "Ccuno R.",
+          "elo_player_key": "ccuno r",
+          "matches_total": 9,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12138356,
+      "last_seen_tournament": "W15 Luque",
+      "last_seen_tournament_key": 11972,
+      "updated_at": "2026-06-18T12:58:02.421013+02:00"
+    },
+    "87011": {
+      "api_player_key": 87011,
+      "api_name": "A. Danilova",
+      "gender": "women",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Danilova A.",
+      "elo_player_key": "danilova a",
+      "candidates": [
+        {
+          "elo_player_name": "Danilova A.",
+          "elo_player_key": "danilova a",
+          "matches_total": 3,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12138361,
+      "last_seen_tournament": "W15 Luque",
+      "last_seen_tournament_key": 11972,
+      "updated_at": "2026-06-18T12:58:03.332341+02:00"
     }
   }
 }
