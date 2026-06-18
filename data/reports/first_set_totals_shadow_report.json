@@ -1,13 +1,101 @@
 {
-  "generated_at": "2026-06-18T23:08:22.078797+02:00",
+  "generated_at": "2026-06-19T01:22:45.090086+02:00",
   "summary": {
-    "odds_matches": 7,
-    "evaluated_strategy_rows": 36,
-    "shadow_bets": 0,
+    "odds_matches": 108,
+    "evaluated_strategy_rows": 612,
+    "shadow_bets": 2,
     "watch_picks": 0,
-    "no_bet": 36,
-    "missing_first_set_totals": 1
+    "no_bet": 610,
+    "shadow_bet": 2,
+    "missing_first_set_totals": 6
   },
-  "top_shadow_picks": [],
+  "top_shadow_picks": [
+    {
+      "pick_id": "12138533|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12138533,
+      "date": "2026-06-19",
+      "time": "13:00",
+      "match": "A. Zverev - R. Collignon",
+      "player_1": "A. Zverev",
+      "player_2": "R. Collignon",
+      "tournament": "Halle",
+      "tour_level": "atp",
+      "gender": "men",
+      "surface": "grass",
+      "favorite": "A. Zverev",
+      "favorite_probability": 0.809061,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 2.36,
+      "bookmaker": "Marathon",
+      "model_probability": 0.539475,
+      "fair_odds": 1.854,
+      "edge": 0.2732,
+      "confidence": "medium",
+      "decision": "SHADOW_BET",
+      "reasons": [],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Zverev A.",
+        "player_1_sample": 155,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Collignon R.",
+        "player_2_sample": 28
+      },
+      "model_details": {
+        "strategy_base_probability": 0.5853,
+        "player_component_probability": 0.4326,
+        "profile_probabilities": [
+          0.4426,
+          0.4225
+        ]
+      }
+    },
+    {
+      "pick_id": "12138317|first_set|under|9.5|all_fav75_under_9_5",
+      "event_key": 12138317,
+      "date": "2026-06-19",
+      "time": "14:30",
+      "match": "D. Altmaier - D. Medvedev",
+      "player_1": "D. Altmaier",
+      "player_2": "D. Medvedev",
+      "tournament": "Halle",
+      "tour_level": "atp",
+      "gender": "men",
+      "surface": "grass",
+      "favorite": "D. Medvedev",
+      "favorite_probability": 0.789474,
+      "strategy_id": "all_fav75_under_9_5",
+      "market": "first_set_total_games",
+      "side": "under",
+      "line": 9.5,
+      "odds": 2.2,
+      "bookmaker": "Unibet",
+      "model_probability": 0.551325,
+      "fair_odds": 1.814,
+      "edge": 0.2129,
+      "confidence": "medium",
+      "decision": "SHADOW_BET",
+      "reasons": [],
+      "profile_matches": {
+        "player_1_status": "matched",
+        "player_1_profile_name": "Altmaier D.",
+        "player_1_sample": 78,
+        "player_2_status": "matched",
+        "player_2_profile_name": "Medvedev D.",
+        "player_2_sample": 120
+      },
+      "model_details": {
+        "strategy_base_probability": 0.5853,
+        "player_component_probability": 0.4721,
+        "profile_probabilities": [
+          0.3853,
+          0.5588
+        ]
+      }
+    }
+  ],
   "top_watch_picks": []
 }
