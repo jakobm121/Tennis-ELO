@@ -2,7 +2,7 @@
   "schema_version": 1,
   "file_type": "tle_player_mapping_quality_audit",
   "summary": {
-    "generated_at": "2026-06-17T11:20:03+00:00",
+    "generated_at": "2026-06-18T10:51:56+00:00",
     "mapping_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/tle/mappings/api_player_to_sackmann.json",
     "canonical_manifest": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/tle/processed/canonical/tle_matches_manifest.json",
     "canonical_files": [
@@ -12,10 +12,10 @@
       "data/tle/processed/canonical/tle_matches_2026.jsonl.gz"
     ],
     "mapping_summary": {
-      "api_players": 2240,
+      "api_players": 2295,
       "sackmann_players": 11993,
       "mapping_statuses": {
-        "matched": 2053,
+        "matched": 2108,
         "review": 116,
         "unmatched": 71
       },
@@ -24,7 +24,7 @@
         "review": 285,
         "unmatched": 132
       },
-      "matched_players": 2053,
+      "matched_players": 2108,
       "unresolved_players": 187
     },
     "canonical_players_seen": 12069,
@@ -5056,6 +5056,22 @@
       "warnings": ""
     },
     {
+      "api_key": "2171",
+      "api_name": "J. Pegula",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "women:sackmann:202468",
+      "sackmann_name": "Jessica Pegula",
+      "canonical_matches": 235,
+      "api_only_key": "women:api:2171",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-05-25",
+      "latest_tournament": "Roland Garros",
+      "warnings": ""
+    },
+    {
       "api_key": "10018",
       "api_name": "L. Midon",
       "gender": "men",
@@ -8557,6 +8573,38 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-06-01",
       "latest_tournament": "Centurion 2 CH",
+      "warnings": ""
+    },
+    {
+      "api_key": "8223",
+      "api_name": "C. Denolly",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "men:sackmann:144656",
+      "sackmann_name": "Corentin Denolly",
+      "canonical_matches": 205,
+      "api_only_key": "men:api:8223",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-05-18",
+      "latest_tournament": "M25 Deauville",
+      "warnings": ""
+    },
+    {
+      "api_key": "169",
+      "api_name": "G. Topalova",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "women:sackmann:215566",
+      "sackmann_name": "Gergana Topalova",
+      "canonical_matches": 205,
+      "api_only_key": "women:api:169",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-05-04",
+      "latest_tournament": "W35 Boca Raton FL",
       "warnings": ""
     },
     {
@@ -12160,6 +12208,22 @@
       "warnings": ""
     },
     {
+      "api_key": "145",
+      "api_name": "F. Curmi",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "women:sackmann:221014",
+      "sackmann_name": "Francesca Curmi",
+      "canonical_matches": 175,
+      "api_only_key": "women:api:145",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-05-18",
+      "latest_tournament": "W50 Portorož",
+      "warnings": ""
+    },
+    {
       "api_key": "3006",
       "api_name": "K. Siniakova",
       "gender": "women",
@@ -12701,6 +12765,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-06-08",
       "latest_tournament": "Bratislava",
+      "warnings": ""
+    },
+    {
+      "api_key": "69",
+      "api_name": "S. Lansere",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "women:sackmann:216139",
+      "sackmann_name": "Sofya Lansere",
+      "canonical_matches": 171,
+      "api_only_key": "women:api:69",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-05-18",
+      "latest_tournament": "W100 Takasaki",
       "warnings": ""
     },
     {
@@ -13853,6 +13933,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-05-18",
       "latest_tournament": "W15 Grado",
+      "warnings": ""
+    },
+    {
+      "api_key": "13466",
+      "api_name": "D. Martynov",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "women:sackmann:221157",
+      "sackmann_name": "Diana Martynov",
+      "canonical_matches": 159,
+      "api_only_key": "women:api:13466",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-05-04",
+      "latest_tournament": "W75 Saint-Gaudens",
       "warnings": ""
     },
     {
@@ -15677,6 +15773,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-05-25",
       "latest_tournament": "W75 Kursumlijska Banja",
+      "warnings": ""
+    },
+    {
+      "api_key": "33",
+      "api_name": "T. Di Girolami",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "women:sackmann:228910",
+      "sackmann_name": "Tilwith Di Girolami",
+      "canonical_matches": 139,
+      "api_only_key": "women:api:33",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-05-18",
+      "latest_tournament": "W50 Portorož",
       "warnings": ""
     },
     {
@@ -17568,6 +17680,22 @@
       "warnings": ""
     },
     {
+      "api_key": "1417",
+      "api_name": "A. Kubareva",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "women:sackmann:215707",
+      "sackmann_name": "Anna Kubareva",
+      "canonical_matches": 118,
+      "api_only_key": "women:api:1417",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-05-18",
+      "latest_tournament": "W15 Monastir",
+      "warnings": ""
+    },
+    {
       "api_key": "2526",
       "api_name": "K. Zaytseva",
       "gender": "women",
@@ -18496,6 +18624,22 @@
       "warnings": ""
     },
     {
+      "api_key": "69107",
+      "api_name": "T. Jialin",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "women:sackmann:266448",
+      "sackmann_name": "Tian Jialin",
+      "canonical_matches": 107,
+      "api_only_key": "women:api:69107",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-05-18",
+      "latest_tournament": "W15 Kursumlijska Banja",
+      "warnings": ""
+    },
+    {
       "api_key": "38883",
       "api_name": "Y. Kotliar",
       "gender": "women",
@@ -19280,6 +19424,22 @@
       "warnings": ""
     },
     {
+      "api_key": "563",
+      "api_name": "M. Valkusz",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "men:sackmann:200218",
+      "sackmann_name": "Mate Valkusz",
+      "canonical_matches": 98,
+      "api_only_key": "men:api:563",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-01-12",
+      "latest_tournament": "M25 Antalya",
+      "warnings": ""
+    },
+    {
       "api_key": "30799",
       "api_name": "V. Valdmannova",
       "gender": "women",
@@ -19501,6 +19661,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-06-04",
       "latest_tournament": "W15 Kayseri 3",
+      "warnings": ""
+    },
+    {
+      "api_key": "52424",
+      "api_name": "I. Cherny",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "women:sackmann:234506",
+      "sackmann_name": "Isabelle Cherny",
+      "canonical_matches": 95,
+      "api_only_key": "women:api:52424",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-06-01",
+      "latest_tournament": "W15 Osijek",
       "warnings": ""
     },
     {
@@ -19965,6 +20141,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-05-25",
       "latest_tournament": "W15 Tsaghkadzor",
+      "warnings": ""
+    },
+    {
+      "api_key": "66095",
+      "api_name": "L. Ebeling Koning",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "women:sackmann:266901",
+      "sackmann_name": "Loes Ebeling Koning",
+      "canonical_matches": 91,
+      "api_only_key": "women:api:66095",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-05-18",
+      "latest_tournament": "W35 Klagenfurt",
       "warnings": ""
     },
     {
@@ -20464,6 +20656,22 @@
       "warnings": ""
     },
     {
+      "api_key": "13032",
+      "api_name": "A. Jaskova",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "women:sackmann:222637",
+      "sackmann_name": "Anika Jaskova",
+      "canonical_matches": 86,
+      "api_only_key": "women:api:13032",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2025-08-04",
+      "latest_tournament": "W15 Slovenske Konjice",
+      "warnings": ""
+    },
+    {
       "api_key": "773",
       "api_name": "C. Sigsgaard",
       "gender": "men",
@@ -20653,6 +20861,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-05-25",
       "latest_tournament": "W15 Oliva",
+      "warnings": ""
+    },
+    {
+      "api_key": "55470",
+      "api_name": "R. Alujas",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "men:sackmann:212286",
+      "sackmann_name": "Rodrigo Alujas",
+      "canonical_matches": 84,
+      "api_only_key": "men:api:55470",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-05-18",
+      "latest_tournament": "M15 Monastir",
       "warnings": ""
     },
     {
@@ -21005,6 +21229,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-06-06",
       "latest_tournament": "M15 Kursumlijska Banja 3",
+      "warnings": ""
+    },
+    {
+      "api_key": "63419",
+      "api_name": "D. Egorova",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "women:sackmann:266864",
+      "sackmann_name": "Daria Egorova",
+      "canonical_matches": 81,
+      "api_only_key": "women:api:63419",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-04-27",
+      "latest_tournament": "W35 Boca Raton FL",
       "warnings": ""
     },
     {
@@ -21904,6 +22144,22 @@
       "warnings": ""
     },
     {
+      "api_key": "10897",
+      "api_name": "A. El Aouni",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "women:sackmann:223671",
+      "sackmann_name": "Aya El Aouni",
+      "canonical_matches": 73,
+      "api_only_key": "women:api:10897",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2025-12-15",
+      "latest_tournament": "W15 Antalya",
+      "warnings": ""
+    },
+    {
       "api_key": "6287",
       "api_name": "J. Roberts",
       "gender": "men",
@@ -22781,6 +23037,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-06-05",
       "latest_tournament": "M15 Harmon",
+      "warnings": ""
+    },
+    {
+      "api_key": "24582",
+      "api_name": "C. Lopez",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "women:sackmann:263838",
+      "sackmann_name": "Chrystal Lopez",
+      "canonical_matches": 64,
+      "api_only_key": "women:api:24582",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-05-25",
+      "latest_tournament": "W15 Kayseri",
       "warnings": ""
     },
     {
@@ -24208,6 +24480,22 @@
       "warnings": ""
     },
     {
+      "api_key": "77543",
+      "api_name": "M. Wojcik",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "women:sackmann:258532",
+      "sackmann_name": "Monika Wojcik",
+      "canonical_matches": 52,
+      "api_only_key": "women:api:77543",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2025-06-09",
+      "latest_tournament": "W15 Norges-la-Ville",
+      "warnings": ""
+    },
+    {
       "api_key": "40159",
       "api_name": "O. Shimanov",
       "gender": "men",
@@ -24464,6 +24752,22 @@
       "warnings": ""
     },
     {
+      "api_key": "12791",
+      "api_name": "S. Rogozinska Dzik",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "women:sackmann:215970",
+      "sackmann_name": "Stefania Rogozinska Dzik",
+      "canonical_matches": 50,
+      "api_only_key": "women:api:12791",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2025-08-04",
+      "latest_tournament": "W15 Bielsko Biala",
+      "warnings": ""
+    },
+    {
       "api_key": "19429",
       "api_name": "S. Rutlauka",
       "gender": "women",
@@ -24493,6 +24797,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-06-09",
       "latest_tournament": "W50 Guimaraes",
+      "warnings": ""
+    },
+    {
+      "api_key": "58020",
+      "api_name": "T. Genier",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "men:sackmann:149142",
+      "sackmann_name": "Tanguy Genier",
+      "canonical_matches": 50,
+      "api_only_key": "men:api:58020",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-03-16",
+      "latest_tournament": "M25 Toulouse-Balma",
       "warnings": ""
     },
     {
@@ -25213,6 +25533,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-06-03",
       "latest_tournament": "W15 Lakewood, CA 2",
+      "warnings": ""
+    },
+    {
+      "api_key": "74727",
+      "api_name": "L. Larue",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "men:sackmann:211646",
+      "sackmann_name": "Louis Larue",
+      "canonical_matches": 46,
+      "api_only_key": "men:api:74727",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-05-18",
+      "latest_tournament": "M15 Monastir",
       "warnings": ""
     },
     {
@@ -26064,6 +26400,22 @@
       "warnings": ""
     },
     {
+      "api_key": "75982",
+      "api_name": "B. Suarez",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "men:sackmann:213591",
+      "sackmann_name": "Billy Suarez",
+      "canonical_matches": 41,
+      "api_only_key": "men:api:75982",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-04-27",
+      "latest_tournament": "Abidjan 2 CH",
+      "warnings": ""
+    },
+    {
       "api_key": "52676",
       "api_name": "G. Vulpitta",
       "gender": "men",
@@ -26512,6 +26864,22 @@
       "warnings": ""
     },
     {
+      "api_key": "56781",
+      "api_name": "G. Young",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "men:sackmann:212405",
+      "sackmann_name": "Gavin Young",
+      "canonical_matches": 38,
+      "api_only_key": "men:api:56781",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-05-04",
+      "latest_tournament": "M25 Loulé",
+      "warnings": ""
+    },
+    {
       "api_key": "84424",
       "api_name": "I. Wawrzkiewicz",
       "gender": "women",
@@ -26765,6 +27133,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-06-01",
       "latest_tournament": "M25 Cuiaba",
+      "warnings": ""
+    },
+    {
+      "api_key": "1327",
+      "api_name": "T. Cacao",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "men:sackmann:132310",
+      "sackmann_name": "Tiago Cacao",
+      "canonical_matches": 37,
+      "api_only_key": "men:api:1327",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-05-04",
+      "latest_tournament": "M25 Loulé",
       "warnings": ""
     },
     {
@@ -27053,6 +27437,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-06-03",
       "latest_tournament": "W15 Lakewood, CA 2",
+      "warnings": ""
+    },
+    {
+      "api_key": "32548",
+      "api_name": "N. Kobelt",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "men:sackmann:211608",
+      "sackmann_name": "Nicolas Kobelt",
+      "canonical_matches": 35,
+      "api_only_key": "men:api:32548",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2025-06-09",
+      "latest_tournament": "M15 Vaasa",
       "warnings": ""
     },
     {
@@ -27584,6 +27984,22 @@
       "warnings": ""
     },
     {
+      "api_key": "32300",
+      "api_name": "G. Hornung",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "men:sackmann:211539",
+      "sackmann_name": "Gabor Hornung",
+      "canonical_matches": 30,
+      "api_only_key": "men:api:32300",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-04-13",
+      "latest_tournament": "Tallahassee CH",
+      "warnings": ""
+    },
+    {
       "api_key": "786",
       "api_name": "K. Montsi",
       "gender": "men",
@@ -27709,6 +28125,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-06-09",
       "latest_tournament": "M15 Kayseri 4",
+      "warnings": ""
+    },
+    {
+      "api_key": "80336",
+      "api_name": "A. Tabunshchyk",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "women:sackmann:266795",
+      "sackmann_name": "Anna Tabunshchyk",
+      "canonical_matches": 29,
+      "api_only_key": "women:api:80336",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-03-23",
+      "latest_tournament": "W15 Santiago",
       "warnings": ""
     },
     {
@@ -28448,6 +28880,22 @@
       "warnings": ""
     },
     {
+      "api_key": "53312",
+      "api_name": "I. Heinzova",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "women:sackmann:224481",
+      "sackmann_name": "Izabela Heinzova",
+      "canonical_matches": 25,
+      "api_only_key": "women:api:53312",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2025-11-03",
+      "latest_tournament": "W15 Szabolcsveresmart",
+      "warnings": ""
+    },
+    {
       "api_key": "89202",
       "api_name": "J. O. Lien",
       "gender": "men",
@@ -28653,6 +29101,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-06-04",
       "latest_tournament": "M15 Ljubljana",
+      "warnings": ""
+    },
+    {
+      "api_key": "10853",
+      "api_name": "G. Gandolfi",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "men:sackmann:210649",
+      "sackmann_name": "Giammarco Gandolfi",
+      "canonical_matches": 24,
+      "api_only_key": "men:api:10853",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-05-25",
+      "latest_tournament": "M25 Grado",
       "warnings": ""
     },
     {
@@ -28944,6 +29408,22 @@
       "warnings": ""
     },
     {
+      "api_key": "73805",
+      "api_name": "M. Baniak",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "women:sackmann:267937",
+      "sackmann_name": "Magdalena Baniak",
+      "canonical_matches": 23,
+      "api_only_key": "women:api:73805",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2025-08-18",
+      "latest_tournament": "W15 Krakow",
+      "warnings": ""
+    },
+    {
       "api_key": "68730",
       "api_name": "M. Kaouk",
       "gender": "men",
@@ -29008,6 +29488,22 @@
       "warnings": ""
     },
     {
+      "api_key": "73842",
+      "api_name": "R. Karki",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "men:sackmann:213838",
+      "sackmann_name": "Ronit Karki",
+      "canonical_matches": 23,
+      "api_only_key": "men:api:73842",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-05-18",
+      "latest_tournament": "Bengaluru 3 CH",
+      "warnings": ""
+    },
+    {
       "api_key": "53308",
       "api_name": "S. Liu",
       "gender": "men",
@@ -29021,6 +29517,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-05-25",
       "latest_tournament": "M15 Luan",
+      "warnings": ""
+    },
+    {
+      "api_key": "38027",
+      "api_name": "S. Reveniau",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "men:sackmann:202361",
+      "sackmann_name": "Simon Reveniau",
+      "canonical_matches": 23,
+      "api_only_key": "men:api:38027",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-03-23",
+      "latest_tournament": "M25 Saint-Dizier",
       "warnings": ""
     },
     {
@@ -29309,6 +29821,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-06-03",
       "latest_tournament": "M15 Lakewood, CA 2",
+      "warnings": ""
+    },
+    {
+      "api_key": "73133",
+      "api_name": "G. Gruenig",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "men:sackmann:210191",
+      "sackmann_name": "Gian Gruenig",
+      "canonical_matches": 21,
+      "api_only_key": "men:api:73133",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-03-02",
+      "latest_tournament": "M25 Trimbach",
       "warnings": ""
     },
     {
@@ -30256,6 +30784,22 @@
       "warnings": ""
     },
     {
+      "api_key": "70915",
+      "api_name": "M. Pawelska",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "women:sackmann:267423",
+      "sackmann_name": "Maja Pawelska",
+      "canonical_matches": 17,
+      "api_only_key": "women:api:70915",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-02-09",
+      "latest_tournament": "W15 Sharm ElSheikh",
+      "warnings": ""
+    },
+    {
       "api_key": "23091",
       "api_name": "N. E. Rico Arias",
       "gender": "men",
@@ -30429,6 +30973,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-06-09",
       "latest_tournament": "W15 Kayseri 4",
+      "warnings": ""
+    },
+    {
+      "api_key": "38779",
+      "api_name": "J. Braswell",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "men:sackmann:211738",
+      "sackmann_name": "Jonah Braswell",
+      "canonical_matches": 16,
+      "api_only_key": "men:api:38779",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2025-11-17",
+      "latest_tournament": "M25 Austin TX",
       "warnings": ""
     },
     {
@@ -30640,6 +31200,22 @@
       "warnings": ""
     },
     {
+      "api_key": "55505",
+      "api_name": "B. Molnar",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "women:sackmann:256708",
+      "sackmann_name": "Bianca Molnar",
+      "canonical_matches": 15,
+      "api_only_key": "women:api:55505",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2024-06-24",
+      "latest_tournament": "W15 Los Angeles CA",
+      "warnings": ""
+    },
+    {
       "api_key": "77924",
       "api_name": "C. Gai",
       "gender": "women",
@@ -30784,6 +31360,22 @@
       "warnings": ""
     },
     {
+      "api_key": "38113",
+      "api_name": "V. Leote Prata",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "men:sackmann:211330",
+      "sackmann_name": "Vasco Leote Prata",
+      "canonical_matches": 15,
+      "api_only_key": "men:api:38113",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2025-07-28",
+      "latest_tournament": "Porto CH",
+      "warnings": ""
+    },
+    {
       "api_key": "67455",
       "api_name": "A. Hayen",
       "gender": "men",
@@ -30909,6 +31501,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-05-25",
       "latest_tournament": "M15 Kutaisi",
+      "warnings": ""
+    },
+    {
+      "api_key": "87791",
+      "api_name": "M. Bondaz",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "men:sackmann:212110",
+      "sackmann_name": "Mathis Bondaz",
+      "canonical_matches": 14,
+      "api_only_key": "men:api:87791",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-03-10",
+      "latest_tournament": "Phoenix CH",
       "warnings": ""
     },
     {
@@ -31200,6 +31808,22 @@
       "warnings": ""
     },
     {
+      "api_key": "81046",
+      "api_name": "K. Kajin",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "men:sackmann:208007",
+      "sackmann_name": "Karlo Kajin",
+      "canonical_matches": 13,
+      "api_only_key": "men:api:81046",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-05-25",
+      "latest_tournament": "M25 Bol",
+      "warnings": ""
+    },
+    {
       "api_key": "10856",
       "api_name": "M. Rankin",
       "gender": "men",
@@ -31392,6 +32016,22 @@
       "warnings": ""
     },
     {
+      "api_key": "21011",
+      "api_name": "L. Ruland",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "men:sackmann:210293",
+      "sackmann_name": "Lambert Ruland",
+      "canonical_matches": 12,
+      "api_only_key": "men:api:21011",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2024-07-29",
+      "latest_tournament": "M15 Kursumlijska Banja",
+      "warnings": ""
+    },
+    {
       "api_key": "87316",
       "api_name": "L. Teunissen",
       "gender": "men",
@@ -31568,6 +32208,22 @@
       "warnings": ""
     },
     {
+      "api_key": "89145",
+      "api_name": "A. Shkutova",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "women:sackmann:270216",
+      "sackmann_name": "Anna Shkutova",
+      "canonical_matches": 11,
+      "api_only_key": "women:api:89145",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-05-04",
+      "latest_tournament": "W35 Monastir",
+      "warnings": ""
+    },
+    {
       "api_key": "83819",
       "api_name": "B. Liotto de Carvalho",
       "gender": "women",
@@ -31725,6 +32381,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-05-25",
       "latest_tournament": "W15 Monastir",
+      "warnings": ""
+    },
+    {
+      "api_key": "68003",
+      "api_name": "M. Kudernatsch",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "men:sackmann:212899",
+      "sackmann_name": "Moritz Kudernatsch",
+      "canonical_matches": 11,
+      "api_only_key": "men:api:68003",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2025-09-15",
+      "latest_tournament": "M15 Fayetteville AR",
       "warnings": ""
     },
     {
@@ -32000,6 +32672,22 @@
       "warnings": ""
     },
     {
+      "api_key": "17610",
+      "api_name": "F. Einig",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "men:sackmann:210432",
+      "sackmann_name": "Felix Einig",
+      "canonical_matches": 10,
+      "api_only_key": "men:api:17610",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-02-02",
+      "latest_tournament": "Koblenz CH",
+      "warnings": ""
+    },
+    {
       "api_key": "63491",
       "api_name": "G. I. Guillen",
       "gender": "women",
@@ -32080,6 +32768,22 @@
       "warnings": ""
     },
     {
+      "api_key": "18059",
+      "api_name": "J. Sebesta",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "men:sackmann:209948",
+      "sackmann_name": "Jan Sebesta",
+      "canonical_matches": 10,
+      "api_only_key": "men:api:18059",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2025-08-11",
+      "latest_tournament": "M25 Gijón",
+      "warnings": ""
+    },
+    {
       "api_key": "103292",
       "api_name": "K. Kajabova",
       "gender": "women",
@@ -32093,6 +32797,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-06-05",
       "latest_tournament": "W15 Osijek",
+      "warnings": ""
+    },
+    {
+      "api_key": "72487",
+      "api_name": "L. Berto",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "men:sackmann:213120",
+      "sackmann_name": "Lorenzo Berto",
+      "canonical_matches": 10,
+      "api_only_key": "men:api:72487",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-05-04",
+      "latest_tournament": "M25 Santa Margherita di Pula",
       "warnings": ""
     },
     {
@@ -34016,6 +34736,22 @@
       "warnings": ""
     },
     {
+      "api_key": "90121",
+      "api_name": "K. Kincses",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "men:sackmann:211540",
+      "sackmann_name": "Kolos Kincses",
+      "canonical_matches": 5,
+      "api_only_key": "men:api:90121",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2025-06-09",
+      "latest_tournament": "M15 Nyiregyhaza",
+      "warnings": ""
+    },
+    {
       "api_key": "89121",
       "api_name": "K. Thompson",
       "gender": "men",
@@ -34144,6 +34880,22 @@
       "warnings": ""
     },
     {
+      "api_key": "78401",
+      "api_name": "S. Ronde",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "women:sackmann:269788",
+      "sackmann_name": "Saumya Ronde",
+      "canonical_matches": 5,
+      "api_only_key": "women:api:78401",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-03-30",
+      "latest_tournament": "W15 Ch. Sambhaji Nagar",
+      "warnings": ""
+    },
+    {
       "api_key": "89138",
       "api_name": "T. Gubi",
       "gender": "men",
@@ -34157,6 +34909,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-06-03",
       "latest_tournament": "M15 Szentendre",
+      "warnings": ""
+    },
+    {
+      "api_key": "89241",
+      "api_name": "T. Konduri",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "men:sackmann:214433",
+      "sackmann_name": "Tanishk Konduri",
+      "canonical_matches": 5,
+      "api_only_key": "men:api:89241",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-03-23",
+      "latest_tournament": "M25 Las Vegas NV",
       "warnings": ""
     },
     {
@@ -34480,6 +35248,22 @@
       "warnings": ""
     },
     {
+      "api_key": "73843",
+      "api_name": "M. Dussault",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "men:sackmann:213655",
+      "sackmann_name": "Maximus Dussault",
+      "canonical_matches": 4,
+      "api_only_key": "men:api:73843",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2025-11-17",
+      "latest_tournament": "M25 Austin TX",
+      "warnings": ""
+    },
+    {
       "api_key": "82543",
       "api_name": "M. Knight",
       "gender": "women",
@@ -34797,6 +35581,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-06-03",
       "latest_tournament": "M15 Lakewood, CA 2",
+      "warnings": ""
+    },
+    {
+      "api_key": "86357",
+      "api_name": "C. Allegre",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "women:sackmann:270154",
+      "sackmann_name": "Camille Allegre",
+      "canonical_matches": 3,
+      "api_only_key": "women:api:86357",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2025-07-28",
+      "latest_tournament": "W15 Huamantla",
       "warnings": ""
     },
     {
@@ -35424,6 +36224,22 @@
       "warnings": ""
     },
     {
+      "api_key": "92846",
+      "api_name": "E. Zornada",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "women:sackmann:270329",
+      "sackmann_name": "Emily Zornada",
+      "canonical_matches": 2,
+      "api_only_key": "women:api:92846",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-03-30",
+      "latest_tournament": "W35 Junin",
+      "warnings": ""
+    },
+    {
       "api_key": "101341",
       "api_name": "F. Shang",
       "gender": "women",
@@ -35776,6 +36592,22 @@
       "warnings": ""
     },
     {
+      "api_key": "96808",
+      "api_name": "Z. Hamill",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "men:sackmann:214467",
+      "sackmann_name": "Zac Hamill",
+      "canonical_matches": 2,
+      "api_only_key": "men:api:96808",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-03-09",
+      "latest_tournament": "M25 Timaru",
+      "warnings": ""
+    },
+    {
       "api_key": "84698",
       "api_name": "A. Ghazaryan",
       "gender": "men",
@@ -35936,6 +36768,22 @@
       "warnings": ""
     },
     {
+      "api_key": "101858",
+      "api_name": "E. Honic",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "women:sackmann:270521",
+      "sackmann_name": "Emina Honic",
+      "canonical_matches": 1,
+      "api_only_key": "women:api:101858",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-05-04",
+      "latest_tournament": "W15 Kalmar",
+      "warnings": ""
+    },
+    {
       "api_key": "92940",
       "api_name": "E. Komada",
       "gender": "men",
@@ -35965,6 +36813,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-05-25",
       "latest_tournament": "W15 Kayseri",
+      "warnings": ""
+    },
+    {
+      "api_key": "86462",
+      "api_name": "F. Drab",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "men:sackmann:214351",
+      "sackmann_name": "Filip Drab",
+      "canonical_matches": 1,
+      "api_only_key": "men:api:86462",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2025-12-08",
+      "latest_tournament": "M15 Sharm ElSheikh",
       "warnings": ""
     },
     {
@@ -36221,6 +37085,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-06-01",
       "latest_tournament": "W15 Lakewood CA",
+      "warnings": ""
+    },
+    {
+      "api_key": "10473",
+      "api_name": "V. Tosetto",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "men:sackmann:210322",
+      "sackmann_name": "Victor Tosetto",
+      "canonical_matches": 1,
+      "api_only_key": "men:api:10473",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2023-04-24",
+      "latest_tournament": "M15 Mogi das Cruzes",
       "warnings": ""
     },
     {
