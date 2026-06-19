@@ -1,131 +1,19 @@
 {
-  "generated_at": "2026-06-19T17:51:15.912937+02:00",
+  "generated_at": "2026-06-19T22:18:51.919166+02:00",
   "summary": {
-    "api_players_today": 60,
-    "ratings_players": 5300,
+    "api_players_today": 20,
+    "ratings_players": 5325,
     "mapping_records_total": 1843,
-    "mapping_records_changed": 3,
-    "existing_confirmed": 57,
-    "unmatched": 3
+    "mapping_records_changed": 1,
+    "existing_confirmed": 19,
+    "unmatched": 1
   },
   "status_counts_today": {
-    "confirmed": 57,
-    "unmatched": 3
+    "confirmed": 19,
+    "unmatched": 1
   },
   "manual_review": [],
   "unmatched": [
-    {
-      "api_player_key": 69230,
-      "api_name": "M. Slama",
-      "gender": "women",
-      "status": "unmatched",
-      "method": "no_safe_match",
-      "confidence": 0.74,
-      "elo_player_name": null,
-      "elo_player_key": null,
-      "candidates": [
-        {
-          "elo_player_name": "Damas M.",
-          "elo_player_key": "damas m",
-          "matches_total": 26,
-          "gender": "unknown",
-          "score": 0.74,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Damas M.",
-          "elo_player_key": "damas m",
-          "matches_total": 26,
-          "gender": "unknown",
-          "score": 0.74,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Lajal M.",
-          "elo_player_key": "lajal m",
-          "matches_total": 15,
-          "gender": "unknown",
-          "score": 0.74,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Lajal M.",
-          "elo_player_key": "lajal m",
-          "matches_total": 15,
-          "gender": "unknown",
-          "score": 0.74,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Sabas M.",
-          "elo_player_key": "sabas m",
-          "matches_total": 2,
-          "gender": "unknown",
-          "score": 0.74,
-          "method": "fuzzy"
-        }
-      ],
-      "last_seen_event_key": 12138590,
-      "last_seen_tournament": "W15 Dinard",
-      "last_seen_tournament_key": 11630,
-      "updated_at": "2026-06-19T17:51:14.604963+02:00"
-    },
-    {
-      "api_player_key": 73843,
-      "api_name": "M. Dussault",
-      "gender": "men",
-      "status": "unmatched",
-      "method": "no_safe_match",
-      "confidence": 0.6933,
-      "elo_player_name": null,
-      "elo_player_key": null,
-      "candidates": [
-        {
-          "elo_player_name": "Arseneault M.",
-          "elo_player_key": "arseneault m",
-          "matches_total": 46,
-          "gender": "unknown",
-          "score": 0.6933,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Arseneault M.",
-          "elo_player_key": "arseneault m",
-          "matches_total": 46,
-          "gender": "unknown",
-          "score": 0.6933,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Dessolis M.",
-          "elo_player_key": "dessolis m",
-          "matches_total": 4,
-          "gender": "unknown",
-          "score": 0.6467,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Dessolis M.",
-          "elo_player_key": "dessolis m",
-          "matches_total": 4,
-          "gender": "unknown",
-          "score": 0.6467,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Ustic M.",
-          "elo_player_key": "ustic m",
-          "matches_total": 2,
-          "gender": "unknown",
-          "score": 0.6169,
-          "method": "fuzzy"
-        }
-      ],
-      "last_seen_event_key": 12138594,
-      "last_seen_tournament": "M25 Tulsa, OK",
-      "last_seen_tournament_key": 4219,
-      "updated_at": "2026-06-19T17:51:15.277230+02:00"
-    },
     {
       "api_player_key": 8148,
       "api_name": "T. Rabman",
@@ -180,7 +68,7 @@
       "last_seen_event_key": 12138617,
       "last_seen_tournament": "W15 Irvine, CA",
       "last_seen_tournament_key": 9813,
-      "updated_at": "2026-06-19T17:51:15.912853+02:00"
+      "updated_at": "2026-06-19T22:18:51.919110+02:00"
     }
   ]
 }
