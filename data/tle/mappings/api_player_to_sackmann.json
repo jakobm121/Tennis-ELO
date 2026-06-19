@@ -6,10 +6,10 @@
     "enriched_api_results": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/tle/source/api/tle_api_results_backfill_enriched.json"
   },
   "summary": {
-    "api_players": 2316,
+    "api_players": 2321,
     "sackmann_players": 11993,
     "mapping_statuses": {
-      "matched": 2130,
+      "matched": 2135,
       "review": 115,
       "unmatched": 71
     },
@@ -18,7 +18,7 @@
       "review": 284,
       "unmatched": 132
     },
-    "matched_players": 2130,
+    "matched_players": 2135,
     "unresolved_players": 186
   },
   "players": {
@@ -37466,6 +37466,86 @@
       "needs_review": false,
       "audit_source_event_key": "12138047",
       "audit_source_generated_at": "2026-06-18T11:01:21+00:00"
+    },
+    "4363": {
+      "api_player_key": 4363,
+      "api_name": "A. Aksu",
+      "gender": "women",
+      "matches_seen": 0,
+      "levels": {},
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "confidence": 1.0,
+      "sackmann_player_id": 213767,
+      "sackmann_player_key": "women:sackmann:213767",
+      "sackmann_name": "Ayla Aksu",
+      "needs_review": false,
+      "audit_source_event_key": "12138507",
+      "audit_source_generated_at": "2026-06-19T11:07:39+00:00"
+    },
+    "9131": {
+      "api_player_key": 9131,
+      "api_name": "R. Nijboer",
+      "gender": "men",
+      "matches_seen": 0,
+      "levels": {},
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "confidence": 1.0,
+      "sackmann_player_id": 207764,
+      "sackmann_player_key": "men:sackmann:207764",
+      "sackmann_name": "Ryan Nijboer",
+      "needs_review": false,
+      "audit_source_event_key": "12138558",
+      "audit_source_generated_at": "2026-06-19T11:07:39+00:00"
+    },
+    "14435": {
+      "api_player_key": 14435,
+      "api_name": "T. Torres",
+      "gender": "men",
+      "matches_seen": 0,
+      "levels": {},
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "confidence": 1.0,
+      "sackmann_player_id": 208426,
+      "sackmann_player_key": "men:sackmann:208426",
+      "sackmann_name": "Tiago Torres",
+      "needs_review": false,
+      "audit_source_event_key": "12138526",
+      "audit_source_generated_at": "2026-06-19T11:07:39+00:00"
+    },
+    "39199": {
+      "api_player_key": 39199,
+      "api_name": "R. Quan",
+      "gender": "men",
+      "matches_seen": 0,
+      "levels": {},
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "confidence": 1.0,
+      "sackmann_player_id": 211790,
+      "sackmann_player_key": "men:sackmann:211790",
+      "sackmann_name": "Rudy Quan",
+      "needs_review": false,
+      "audit_source_event_key": "12138622",
+      "audit_source_generated_at": "2026-06-19T11:07:39+00:00"
+    },
+    "69230": {
+      "api_player_key": 69230,
+      "api_name": "M. Slama",
+      "gender": "women",
+      "matches_seen": 0,
+      "levels": {},
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "confidence": 1.0,
+      "sackmann_player_id": 260693,
+      "sackmann_player_key": "women:sackmann:260693",
+      "sackmann_name": "Mia Slama",
+      "needs_review": false,
+      "audit_source_event_key": "12138590",
+      "audit_source_generated_at": "2026-06-19T11:07:39+00:00"
     }
   },
   "repair_history": [
@@ -37703,6 +37783,24 @@
       "already_ok": 22,
       "conflicts": 0,
       "needs_manual_review": 8,
+      "skipped": 0
+    },
+    {
+      "updated_at": "2026-06-19T11:08:10Z",
+      "audit_generated_at": "2026-06-19T11:07:39+00:00",
+      "auto_methods": [
+        "audit_unmapped_sackmann_lookup",
+        "unique_surname_initial"
+      ],
+      "apply_mode": true,
+      "manual_overrides": 18,
+      "manual_added": 0,
+      "manual_already_ok": 18,
+      "manual_conflicts": 0,
+      "auto_added": 5,
+      "already_ok": 0,
+      "conflicts": 0,
+      "needs_manual_review": 1,
       "skipped": 0
     }
   ]
