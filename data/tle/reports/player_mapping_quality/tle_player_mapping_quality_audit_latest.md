@@ -1,18 +1,18 @@
 # TLE Player Mapping Quality Audit
 
-Generated: `2026-06-18T10:51:56+00:00`
+Generated: `2026-06-19T11:00:36+00:00`
 
 ## Summary
 
-- generated_at: `2026-06-18T10:51:56+00:00`
+- generated_at: `2026-06-19T11:00:36+00:00`
 - mapping_file: `/home/runner/work/Tennis-ELO/Tennis-ELO/data/tle/mappings/api_player_to_sackmann.json`
 - canonical_manifest: `/home/runner/work/Tennis-ELO/Tennis-ELO/data/tle/processed/canonical/tle_matches_manifest.json`
-- mapping_summary: `{"api_players": 2295, "sackmann_players": 11993, "mapping_statuses": {"matched": 2108, "review": 116, "unmatched": 71}, "matches_by_status": {"matched": 4596, "review": 285, "unmatched": 132}, "matched_players": 2108, "unresolved_players": 187}`
+- mapping_summary: `{"api_players": 2316, "sackmann_players": 11993, "mapping_statuses": {"matched": 2130, "review": 115, "unmatched": 71}, "matches_by_status": {"matched": 4597, "review": 284, "unmatched": 132}, "matched_players": 2130, "unresolved_players": 186}`
 - canonical_players_seen: `12069`
 - api_source_players_seen: `1357`
 - api_only_canonical_players: `111`
-- warnings: `{"SURNAME_MISMATCH": 6, "FIRST_INITIAL_MISMATCH": 6, "UNRESOLVED_MAPPING": 187}`
-- unresolved_rows: `187`
+- warnings: `{"SURNAME_MISMATCH": 6, "FIRST_INITIAL_MISMATCH": 6, "UNRESOLVED_MAPPING": 186}`
+- unresolved_rows: `186`
 - duplicate_api_only_rows: `0`
 - mapped_no_history_rows: `0`
 - suspicious_rows: `6`
@@ -176,7 +176,6 @@ Generated: `2026-06-18T10:51:56+00:00`
 | 37163 | V. N. Sarganella | women | unmatched | no_safe_match | 1 | women:api:37163 V. N. Sarganella (1) | UNRESOLVED_MAPPING |
 | 38273 | W. K. Leong M. | men | unmatched | no_safe_match | 1 | men:api:38273 W. K. Leong M. (1) | UNRESOLVED_MAPPING |
 | 84316 | Y. Zhytelna | women | unmatched | no_safe_match | 1 | women:api:84316 Y. Zhytelna (1) | UNRESOLVED_MAPPING |
-| 2997 | A. Li | women | review | ambiguous |  | women:sackmann:215983 Ann Li (210) | UNRESOLVED_MAPPING |
 | 2481 | A. Ayeni | men | unmatched | no_safe_match |  |  | UNRESOLVED_MAPPING |
 | 89986 | A. Kostiushkina | women | unmatched | no_safe_match |  |  | UNRESOLVED_MAPPING |
 | 1358 | A. Lutkemeyer | women | unmatched | no_safe_match |  |  | UNRESOLVED_MAPPING |
