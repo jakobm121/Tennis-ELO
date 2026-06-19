@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-06-19T13:06:35.063774+02:00",
+  "generated_at": "2026-06-19T17:51:15.912888+02:00",
   "source_odds_url": "https://raw.githubusercontent.com/jakobm121/Ai/refs/heads/main/data/tennis_odds_today.json",
-  "odds_generated_at": "2026-06-19T12:58:53.029458+02:00",
+  "odds_generated_at": "2026-06-19T17:44:06.056663+02:00",
   "ratings_generated_at": "2026-06-19T07:28:40.749217+02:00",
   "players": {
     "2813": {
@@ -48139,7 +48139,7 @@
       "last_seen_event_key": 12138590,
       "last_seen_tournament": "W15 Dinard",
       "last_seen_tournament_key": 11630,
-      "updated_at": "2026-06-19T13:06:31.871632+02:00"
+      "updated_at": "2026-06-19T17:51:14.604963+02:00"
     },
     "23873": {
       "api_player_key": 23873,
@@ -51411,7 +51411,7 @@
       "last_seen_event_key": 12138594,
       "last_seen_tournament": "M25 Tulsa, OK",
       "last_seen_tournament_key": 4219,
-      "updated_at": "2026-06-19T13:06:32.922859+02:00"
+      "updated_at": "2026-06-19T17:51:15.277230+02:00"
     },
     "96808": {
       "api_player_key": 96808,
@@ -52931,7 +52931,7 @@
       "last_seen_event_key": 12138617,
       "last_seen_tournament": "W15 Irvine, CA",
       "last_seen_tournament_key": 9813,
-      "updated_at": "2026-06-19T13:06:33.903077+02:00"
+      "updated_at": "2026-06-19T17:51:15.912853+02:00"
     },
     "2119": {
       "api_player_key": 2119,
