@@ -37,6 +37,204 @@ Humbert U.
 0
 0
 0
+Asuncion 2 (Paragvaj), zemlja
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Huertas Del Pino C.
+Huertas Del Pino Cordova A.
+Rodriguez C.
+Urrea A.
+2
+0
+6
+4
+7
+5
+Kraj
+Ribeiro de Almeida G.
+Escurra Isnardi H. J.
+Loureiro J. V. C.
+Rodrigues N.
+0
+2
+6
+3
+7
+7
+6
+2
+7
+7
+M15 Irvine (SAD), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Miyoshi K.
+O'Connell B.
+2
+0
+6
+1
+6
+4
+M15 Maanshan 6 (Kina), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Dellavedova M.
+Wang A.
+2
+0
+6
+4
+6
+1
+Kraj
+Lim A.
+Leong M. W. K.
+1
+2
+7
+5
+3
+6
+1
+6
+M15 Tokyo 2 (Japan), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Delaney Ja.
+Purcell M.
+2
+0
+7
+7
+6
+2
+6
+4
+W15 Sapporo (Japan), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Das A.
+Matsumoto Y.
+2
+0
+6
+0
+6
+2
+Kraj
+Jang G.
+Negishi Y.
+2
+0
+6
+2
+6
+0
+Kraj
+Uemura M.
+Noguchi S.
+0
+2
+4
+6
+1
+6
+Kraj
+Zhang Y.
+Miyamoto A.
+0
+2
+3
+6
+3
+6
+W35 Taipei (Tajvan), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+(predano)
+Abe H.
+Nishimura K.
+0
+1
+5
+7
+2
+0
+Kraj
+Kitahara Y.
+Naklo T.
+2
+1
+6
+3
+4
+6
+7
+7
+6
+4
+Walkover
+Matsuda M.
+Kaji H.
+-
+-
+Kraj
+Back D.
+Sato N.
+2
+0
+7
+5
+6
+2
+W35 Zhengzhou (Kina), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Prekinuto
+Khomutsianskaya D.
+Ren Y.
+0
+0
+5
+2
+0
+15
+Prekinuto
+Laskevich E.
+Matsuda R.
+0
+0
+4
+3
+0
+0
+Prekinuto
+Wang J.
+Shi H.
+1
+0
+6
+1
+0
+0
+0
+0
+Prekinuto
+Zhang J.
+Zhu C.
+0
+0
+4
+3
+0
+0
 W75 Blois (Francuska), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -53,9 +251,83 @@ Papamichail D.
 2
 0
 0
+M15 Irvine (SAD), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Kleege W.
+Seeman J.
+Landau S.
+Zamora N.
+1
+2
+7
+7
+6
+3
+4
+6
+5
+10
+Kraj
+Johnson S.
+van Loben Sels E.
+Arora Kr.
+Giese K.
+2
+1
+6
+8
+7
+10
+6
+1
+10
+2
+M15 Maanshan 6 (Kina), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Walkover
+Charlton J.
+Lomakin G.
+Dong Z.
+Wang A.
+-
+-
+M15 Tokyo 2 (Japan), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Kawachi K.
+Sumizawa D.
+Kumasaka T.
+Takahata R.
+1
+2
+1
+6
+6
+3
+7
+10
 M25 Tulsa, OK (SAD), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
+Kraj
+Arseneault M.
+Arseneault N.
+Cui J.
+Jacome Jaramillo A.
+2
+1
+5
+7
+7
+7
+6
+4
+14
+12
 Walkover
 Baris O.
 Shearer M.
@@ -63,6 +335,85 @@ Nefve A.
 Vance J.
 -
 -
+W15 Irvine, CA (SAD), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Driscoll C.
+Rabman T.
+Carnicella K.
+Conway J.
+1
+2
+6
+4
+3
+6
+10
+12
+Kraj
+Arangio G.
+Millan I. C.
+Fairclough L.
+Fakih K.
+0
+2
+2
+6
+3
+6
+W15 Sapporo (Japan), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Im H.
+Kim Eunchae
+Di Tommaso C.
+Schlepphorst A.
+2
+0
+6
+3
+7
+6
+Kraj
+Kawamura M.
+Ohwaki Yui
+Kosaka R.
+Uemura M.
+2
+0
+7
+5
+6
+4
+W35 Taipei (Tajvan), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Hu F.
+Tamhankar B.
+Ho P. C.
+Hsieh Y.
+2
+0
+6
+1
+7
+8
+6
+6
+Kraj
+Kawaguchi N.
+Shimizu A.
+Jeng J. Y.
+Tzeng Y. R.
+2
+0
+6
+3
+6
+4
 W35 Zhengzhou (Kina), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -79,6 +430,19 @@ Wang J.
 2
 0
 0
+Billie Jean King Cup - Group II (Svijet)
+TIMOVI - ŽENE: 
+Tablica
+Kraj
+Kirgistan Ž
+Filipini Ž
+0
+3
+Kraj
+Tajvan Ž
+Laos Ž
+1
+2
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -178,7 +542,6 @@ Portugal - Uzbekistan
 Engleska - Gana
 REZULTATI UŽIVO
 Bosna i Hercegovina - Katar
-Meksiko - Južna Koreja
 SAD - Australija
 Škotska - Maroko
 Brazil - Haiti
@@ -187,6 +550,7 @@ Valencia - Barcelona
 Švicarska - Kanada
 Škotska - Brazil
 Maroko - Haiti
+Južna Afrika - Južna Koreja
 LIVESCORE
 Hrvatska - Bosna i Hercegovina
 Hrvatska Ž - Sj. Makedonija Ž
@@ -217,7 +581,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Igrajte odgovorno. Gambling Therapy. 18+
+Gambling Problem? Call 1-800-BETS OFF 21+
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
