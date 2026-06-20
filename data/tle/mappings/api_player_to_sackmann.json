@@ -6,10 +6,10 @@
     "enriched_api_results": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/tle/source/api/tle_api_results_backfill_enriched.json"
   },
   "summary": {
-    "api_players": 2321,
+    "api_players": 2328,
     "sackmann_players": 11993,
     "mapping_statuses": {
-      "matched": 2135,
+      "matched": 2142,
       "review": 115,
       "unmatched": 71
     },
@@ -18,7 +18,7 @@
       "review": 284,
       "unmatched": 132
     },
-    "matched_players": 2135,
+    "matched_players": 2142,
     "unresolved_players": 186
   },
   "players": {
@@ -37546,6 +37546,118 @@
       "needs_review": false,
       "audit_source_event_key": "12138590",
       "audit_source_generated_at": "2026-06-19T11:07:39+00:00"
+    },
+    "447": {
+      "api_player_key": 447,
+      "api_name": "L. Noskova",
+      "gender": "women",
+      "matches_seen": 0,
+      "levels": {},
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "confidence": 1.0,
+      "sackmann_player_id": 222328,
+      "sackmann_player_key": "women:sackmann:222328",
+      "sackmann_name": "Linda Noskova",
+      "needs_review": false,
+      "audit_source_event_key": "12138786",
+      "audit_source_generated_at": "2026-06-20T09:52:58+00:00"
+    },
+    "3214": {
+      "api_player_key": 3214,
+      "api_name": "T. Townsend",
+      "gender": "women",
+      "matches_seen": 0,
+      "levels": {},
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "confidence": 1.0,
+      "sackmann_player_id": 203501,
+      "sackmann_player_key": "women:sackmann:203501",
+      "sackmann_name": "Taylor Townsend",
+      "needs_review": false,
+      "audit_source_event_key": "12138782",
+      "audit_source_generated_at": "2026-06-20T09:52:58+00:00"
+    },
+    "3706": {
+      "api_player_key": 3706,
+      "api_name": "S. Kirchheimer",
+      "gender": "men",
+      "matches_seen": 0,
+      "levels": {},
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "confidence": 1.0,
+      "sackmann_player_id": 126177,
+      "sackmann_player_key": "men:sackmann:126177",
+      "sackmann_name": "Strong Kirchheimer",
+      "needs_review": false,
+      "audit_source_event_key": "12138837",
+      "audit_source_generated_at": "2026-06-20T09:52:58+00:00"
+    },
+    "53046": {
+      "api_player_key": 53046,
+      "api_name": "L. Tagger",
+      "gender": "women",
+      "matches_seen": 0,
+      "levels": {},
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "confidence": 1.0,
+      "sackmann_player_id": 260172,
+      "sackmann_player_key": "women:sackmann:260172",
+      "sackmann_name": "Lilli Tagger",
+      "needs_review": false,
+      "audit_source_event_key": "12138796",
+      "audit_source_generated_at": "2026-06-20T09:52:58+00:00"
+    },
+    "54824": {
+      "api_player_key": 54824,
+      "api_name": "C. Rolland de Ravel",
+      "gender": "men",
+      "matches_seen": 0,
+      "levels": {},
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "confidence": 1.0,
+      "sackmann_player_id": 213977,
+      "sackmann_player_key": "men:sackmann:213977",
+      "sackmann_name": "Cosme Rolland De Ravel",
+      "needs_review": false,
+      "audit_source_event_key": "12138740",
+      "audit_source_generated_at": "2026-06-20T09:52:58+00:00"
+    },
+    "70149": {
+      "api_player_key": 70149,
+      "api_name": "M. Thamm",
+      "gender": "women",
+      "matches_seen": 0,
+      "levels": {},
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "confidence": 1.0,
+      "sackmann_player_id": 265701,
+      "sackmann_player_key": "women:sackmann:265701",
+      "sackmann_name": "Mariella Thamm",
+      "needs_review": false,
+      "audit_source_event_key": "12138783",
+      "audit_source_generated_at": "2026-06-20T09:52:58+00:00"
+    },
+    "70319": {
+      "api_player_key": 70319,
+      "api_name": "A. Stoyanov",
+      "gender": "women",
+      "matches_seen": 0,
+      "levels": {},
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "confidence": 1.0,
+      "sackmann_player_id": 267422,
+      "sackmann_player_key": "women:sackmann:267422",
+      "sackmann_name": "Antonia Stoyanov",
+      "needs_review": false,
+      "audit_source_event_key": "12138738",
+      "audit_source_generated_at": "2026-06-20T09:52:58+00:00"
     }
   },
   "repair_history": [
@@ -37819,6 +37931,24 @@
       "already_ok": 5,
       "conflicts": 0,
       "needs_manual_review": 1,
+      "skipped": 0
+    },
+    {
+      "updated_at": "2026-06-20T09:54:23Z",
+      "audit_generated_at": "2026-06-20T09:52:58+00:00",
+      "auto_methods": [
+        "audit_unmapped_sackmann_lookup",
+        "unique_surname_initial"
+      ],
+      "apply_mode": true,
+      "manual_overrides": 18,
+      "manual_added": 0,
+      "manual_already_ok": 18,
+      "manual_conflicts": 0,
+      "auto_added": 7,
+      "already_ok": 0,
+      "conflicts": 0,
+      "needs_manual_review": 3,
       "skipped": 0
     }
   ]
