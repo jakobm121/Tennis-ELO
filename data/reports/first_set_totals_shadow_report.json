@@ -1,11 +1,10 @@
 {
-  "generated_at": "2026-06-20T22:06:57.427013+02:00",
+  "generated_at": "2026-06-21T00:47:16.124956+02:00",
   "summary": {
-    "odds_matches": 5,
-    "evaluated_strategy_rows": 30,
+    "odds_matches": 0,
+    "evaluated_strategy_rows": 0,
     "shadow_bets": 0,
-    "watch_picks": 0,
-    "no_bet": 30
+    "watch_picks": 0
   },
   "top_shadow_picks": [],
   "top_watch_picks": []
