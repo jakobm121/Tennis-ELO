@@ -19,18 +19,6 @@ TEČAJEVI
 GOTOVO
 RASPORED
 20/06 SU
-Dublin (Irska), trava
-CHALLENGER - MUŠKI SINGL: 
-Ždrijeb
-Prekinuto
-Droguet T.
-Rodionov J.
-0
-0
-3
-2
-40
-40
 Asuncion 2 (Paragvaj), zemlja
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -67,6 +55,29 @@ Harper P.
 9
 0
 0
+M15 Constanta (Rumunjska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Boitan G. A.
+Papoe C. G.
+2
+0
+7
+5
+6
+4
+Kraj
+Tomescu D. A.
+Palosi S.
+2
+0
+7
+7
+6
+4
+6
+4
 M15 Irvine, CA (SAD), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -79,6 +90,31 @@ Karki R.
 1
 6
 4
+M15 Kayseri 5 (Turska), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Chopra K.
+Yilmaz K.
+2
+0
+6
+4
+6
+1
+Kraj
+Tepmahc N.
+Alhogbani A. F.
+2
+1
+5
+7
+6
+0
+7
+7
+6
+5
 M15 Maanshan 6 (Kina), tvrda podloga (dvorana)
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -93,6 +129,87 @@ Roh H.
 7
 2
 6
+Kraj
+Leong M. W. K.
+Dellavedova M.
+0
+2
+3
+6
+2
+6
+M15 Tokyo 2 (Japan), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Nakagawa N.
+Delaney Ja.
+0
+2
+5
+7
+6
+5
+7
+7
+Kraj
+Imamura M.
+Heck H.
+2
+0
+6
+3
+6
+4
+M25 Samobor (Hrvatska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Kuzmanov D.
+Mashtakov N.
+0
+2
+2
+6
+1
+6
+W15 Bucharest 2 (Rumunjska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Simionescu D.
+Yesypchuk D.
+0
+2
+4
+6
+1
+6
+Kraj
+Tanasie L.
+Balan S. V.
+2
+1
+6
+2
+3
+6
+6
+2
+W15 Kayseri 5 (Turska), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Suvirdjonkova D.
+Laskutova K.
+2
+1
+3
+6
+6
+4
+6
+3
 W15 Luque (Paragvaj), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -114,6 +231,29 @@ Urrutia M. F.
 6
 4
 6
+W15 Sapporo (Japan), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Jang G.
+Das A.
+1
+2
+3
+6
+6
+1
+2
+6
+Kraj
+Miyamoto A.
+Noguchi S.
+2
+0
+6
+4
+6
+3
 W35 Taipei (Tajvan), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -156,6 +296,18 @@ Khomutsianskaya D.
 0
 6
 4
+W75 Blois (Francuska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Curmi F.
+Ibragimova A.
+2
+0
+6
+3
+7
+5
 M15 Irvine, CA (SAD), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -185,6 +337,40 @@ van Loben Sels E.
 3
 6
 10
+M15 Maanshan 6 (Kina), tvrda podloga (dvorana)
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Charlton J.
+Lomakin G.
+Cho Seung Woo
+Yang Z.
+2
+1
+6
+2
+4
+6
+10
+7
+M15 Tokyo 2 (Japan), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Delaney Ja.
+Nakagawa S.
+Kusuhara Y.
+Purcell M.
+1
+2
+7
+7
+6
+3
+3
+6
+9
+11
 W15 Irvine, CA (SAD), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -215,6 +401,68 @@ Ohwaki Yui
 4
 6
 3
+W35 Taipei (Tajvan), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Kawaguchi N.
+Shimizu A.
+Back D.
+Tsao C. Y.
+0
+2
+5
+7
+1
+6
+W35 Zhengzhou (Kina), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Huang Yujia
+Zheng W.
+Yashina E.
+Zhiyenbayeva S.
+2
+0
+6
+3
+6
+2
+Billie Jean King Cup - Group II (Svijet) - Promotion
+TIMOVI - ŽENE: 
+Ždrijeb
+Kraj
+Filipini Ž
+Uzbekistan Ž
+2
+1
+Kraj
+Tajvan Ž
+Hong Kong Ž
+0
+2
+Billie Jean King Cup - Group II (Svijet) - Relegation
+TIMOVI - ŽENE: 
+Ždrijeb
+Kraj
+Pacific Oceania Ž
+Laos Ž
+2
+0
+Kraj
+Šri Lanka Ž
+Kirgistan Ž
+2
+0
+Billie Jean King Cup - Group II (Svijet) - Placement matches
+TIMOVI - ŽENE: 
+Ždrijeb
+Kraj
+Singapur Ž
+Malezija Ž
+1
+2
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -251,7 +499,7 @@ WTA Eastbourne
 WTA Nottingham
 ATP Halle
 ATP London
-Prikaži više (89)
+Prikaži više (90)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -353,7 +601,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Igrajte odgovorno. Gambling Therapy. 18+
+Must be 21+. If you or someone you know has a gambling problem, crisis counselling and referral services can be accessed by calling 1-800-GAMBLER (1-800-426-2537) or by texting ILGAMB to 833234. The 1-800-GAMBLER helpline can be used for multi-jurisdictional advertising.
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
