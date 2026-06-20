@@ -1,74 +1,15 @@
 {
-  "generated_at": "2026-06-20T16:54:57.026566+02:00",
+  "generated_at": "2026-06-20T19:06:51.648184+02:00",
   "summary": {
-    "api_players_today": 48,
-    "ratings_players": 5347,
+    "api_players_today": 20,
+    "ratings_players": 5385,
     "mapping_records_total": 1862,
-    "mapping_records_changed": 1,
-    "existing_confirmed": 47,
-    "unmatched": 1
+    "mapping_records_changed": 0,
+    "existing_confirmed": 20
   },
   "status_counts_today": {
-    "confirmed": 47,
-    "unmatched": 1
+    "confirmed": 20
   },
   "manual_review": [],
-  "unmatched": [
-    {
-      "api_player_key": 1143,
-      "api_name": "P. Marcinko",
-      "gender": "women",
-      "status": "unmatched",
-      "method": "no_safe_match",
-      "confidence": 1.0,
-      "elo_player_name": null,
-      "elo_player_key": null,
-      "candidates": [
-        {
-          "elo_player_name": "Marčinko P.",
-          "elo_player_key": "marcinko p",
-          "matches_total": 21,
-          "gender": "unknown",
-          "score": 1.0,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Marčinko P.",
-          "elo_player_key": "marcinko p",
-          "matches_total": 21,
-          "gender": "unknown",
-          "score": 1.0,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Marinkov P.",
-          "elo_player_key": "marinkov p",
-          "matches_total": 12,
-          "gender": "unknown",
-          "score": 0.9717,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Marinkov P.",
-          "elo_player_key": "marinkov p",
-          "matches_total": 12,
-          "gender": "unknown",
-          "score": 0.9717,
-          "method": "fuzzy"
-        },
-        {
-          "elo_player_name": "Marino P.",
-          "elo_player_key": "marino p",
-          "matches_total": 8,
-          "gender": "unknown",
-          "score": 0.9568,
-          "method": "fuzzy"
-        }
-      ],
-      "last_seen_event_key": 12138797,
-      "last_seen_tournament": "Eastbourne",
-      "last_seen_tournament_key": 1358,
-      "updated_at": "2026-06-20T16:54:57.026483+02:00"
-    }
-  ]
+  "unmatched": []
 }
