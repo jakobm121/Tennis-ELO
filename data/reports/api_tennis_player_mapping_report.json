@@ -1,16 +1,15 @@
 {
-  "generated_at": "2026-06-20T06:55:18.982556+02:00",
+  "generated_at": "2026-06-20T11:51:51.145096+02:00",
   "summary": {
-    "api_players_today": 182,
+    "api_players_today": 152,
     "ratings_players": 5333,
     "mapping_records_total": 1862,
-    "mapping_records_changed": 10,
-    "existing_confirmed": 172,
-    "unmatched": 3,
-    "confirmed": 7
+    "mapping_records_changed": 3,
+    "existing_confirmed": 149,
+    "unmatched": 3
   },
   "status_counts_today": {
-    "confirmed": 179,
+    "confirmed": 149,
     "unmatched": 3
   },
   "manual_review": [],
@@ -69,7 +68,7 @@
       "last_seen_event_key": 12138715,
       "last_seen_tournament": "W15 Monastir 18",
       "last_seen_tournament_key": 4241,
-      "updated_at": "2026-06-20T06:55:16.891814+02:00"
+      "updated_at": "2026-06-20T11:51:49.058856+02:00"
     },
     {
       "api_player_key": 54824,
@@ -125,7 +124,7 @@
       "last_seen_event_key": 12138740,
       "last_seen_tournament": "Royan",
       "last_seen_tournament_key": 12632,
-      "updated_at": "2026-06-20T06:55:18.034340+02:00"
+      "updated_at": "2026-06-20T11:51:50.197507+02:00"
     },
     {
       "api_player_key": 1143,
@@ -181,7 +180,7 @@
       "last_seen_event_key": 12138797,
       "last_seen_tournament": "Eastbourne",
       "last_seen_tournament_key": 1358,
-      "updated_at": "2026-06-20T06:55:18.982344+02:00"
+      "updated_at": "2026-06-20T11:51:51.144930+02:00"
     }
   ]
 }
