@@ -1,17 +1,11 @@
 {
-  "generated_at": "2026-06-20T22:08:29.729509+02:00",
+  "generated_at": "2026-06-21T00:52:57.613457+02:00",
   "summary": {
-    "odds_matches": 5,
-    "ratings_players": 5424,
-    "evaluated_matches": 5,
+    "odds_matches": 0,
+    "ratings_players": 5467,
+    "evaluated_matches": 0,
     "shadow_bets": 0,
-    "no_bets": 5,
-    "no_bet": 5,
-    "odds_below_threshold": 1,
-    "model_probability_below_threshold": 3,
-    "player_1_insufficient_history": 1,
-    "player_2_insufficient_history": 2,
-    "odds_above_threshold": 1
+    "no_bets": 0
   },
   "settings": {
     "min_player_matches": 10,
