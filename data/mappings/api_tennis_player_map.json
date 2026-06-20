@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-06-20T00:32:53.106262+02:00",
+  "generated_at": "2026-06-20T06:55:18.982432+02:00",
   "source_odds_url": "https://raw.githubusercontent.com/jakobm121/Ai/refs/heads/main/data/tennis_odds_today.json",
-  "odds_generated_at": "2026-06-20T00:15:26.625547+02:00",
-  "ratings_generated_at": "2026-06-20T00:29:23.137061+02:00",
+  "odds_generated_at": "2026-06-20T06:42:41.624384+02:00",
+  "ratings_generated_at": "2026-06-20T06:41:36.626520+02:00",
   "players": {
     "2813": {
       "api_player_key": 2813,
@@ -31866,7 +31866,7 @@
         {
           "elo_player_name": "Marčinko P.",
           "elo_player_key": "marcinko p",
-          "matches_total": 19,
+          "matches_total": 20,
           "gender": "unknown",
           "score": 1.0,
           "method": "fuzzy"
@@ -31874,7 +31874,7 @@
         {
           "elo_player_name": "Marčinko P.",
           "elo_player_key": "marcinko p",
-          "matches_total": 19,
+          "matches_total": 20,
           "gender": "unknown",
           "score": 1.0,
           "method": "fuzzy"
@@ -31882,7 +31882,7 @@
         {
           "elo_player_name": "Marinkov P.",
           "elo_player_key": "marinkov p",
-          "matches_total": 11,
+          "matches_total": 12,
           "gender": "unknown",
           "score": 0.9717,
           "method": "fuzzy"
@@ -31890,7 +31890,7 @@
         {
           "elo_player_name": "Marinkov P.",
           "elo_player_key": "marinkov p",
-          "matches_total": 11,
+          "matches_total": 12,
           "gender": "unknown",
           "score": 0.9717,
           "method": "fuzzy"
@@ -31907,7 +31907,7 @@
       "last_seen_event_key": 12138797,
       "last_seen_tournament": "Eastbourne",
       "last_seen_tournament_key": 1358,
-      "updated_at": "2026-06-20T00:32:53.106181+02:00"
+      "updated_at": "2026-06-20T06:55:18.982344+02:00"
     },
     "13618": {
       "api_player_key": 13618,
@@ -39987,7 +39987,7 @@
       "last_seen_event_key": 12138740,
       "last_seen_tournament": "Royan",
       "last_seen_tournament_key": 12632,
-      "updated_at": "2026-06-20T00:32:52.174962+02:00"
+      "updated_at": "2026-06-20T06:55:18.034340+02:00"
     },
     "409": {
       "api_player_key": 409,
@@ -53227,7 +53227,7 @@
       "last_seen_event_key": 12138715,
       "last_seen_tournament": "W15 Monastir 18",
       "last_seen_tournament_key": 4241,
-      "updated_at": "2026-06-20T00:32:51.048874+02:00"
+      "updated_at": "2026-06-20T06:55:16.891814+02:00"
     },
     "2024": {
       "api_player_key": 2024,
@@ -53516,6 +53516,174 @@
       "last_seen_tournament": "Eastbourne",
       "last_seen_tournament_key": 1358,
       "updated_at": "2026-06-20T00:32:53.106235+02:00"
+    },
+    "1192": {
+      "api_player_key": 1192,
+      "api_name": "M. Arnaldi",
+      "gender": "men",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Arnaldi M.",
+      "elo_player_key": "arnaldi m",
+      "candidates": [
+        {
+          "elo_player_name": "Arnaldi M.",
+          "elo_player_key": "arnaldi m",
+          "matches_total": 25,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12138762,
+      "last_seen_tournament": "Eastbourne",
+      "last_seen_tournament_key": 2052,
+      "updated_at": "2026-06-20T06:55:18.034437+02:00"
+    },
+    "9234": {
+      "api_player_key": 9234,
+      "api_name": "A. Ghibaudo",
+      "gender": "men",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Ghibaudo A.",
+      "elo_player_key": "ghibaudo a",
+      "candidates": [
+        {
+          "elo_player_name": "Ghibaudo A.",
+          "elo_player_key": "ghibaudo a",
+          "matches_total": 96,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12138771,
+      "last_seen_tournament": "Mallorca",
+      "last_seen_tournament_key": 3681,
+      "updated_at": "2026-06-20T06:55:18.034478+02:00"
+    },
+    "436": {
+      "api_player_key": 436,
+      "api_name": "A. Molcan",
+      "gender": "men",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Molcan A.",
+      "elo_player_key": "molcan a",
+      "candidates": [
+        {
+          "elo_player_name": "Molcan A.",
+          "elo_player_key": "molcan a",
+          "matches_total": 48,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12138772,
+      "last_seen_tournament": "Mallorca",
+      "last_seen_tournament_key": 3681,
+      "updated_at": "2026-06-20T06:55:18.034498+02:00"
+    },
+    "69093": {
+      "api_player_key": 69093,
+      "api_name": "Z. Sesko",
+      "gender": "men",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Sesko Z.",
+      "elo_player_key": "sesko z",
+      "candidates": [
+        {
+          "elo_player_name": "Sesko Z.",
+          "elo_player_key": "sesko z",
+          "matches_total": 8,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12138772,
+      "last_seen_tournament": "Mallorca",
+      "last_seen_tournament_key": 3681,
+      "updated_at": "2026-06-20T06:55:18.034529+02:00"
+    },
+    "12744": {
+      "api_player_key": 12744,
+      "api_name": "M. Cassone",
+      "gender": "men",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Cassone M.",
+      "elo_player_key": "cassone m",
+      "candidates": [
+        {
+          "elo_player_name": "Cassone M.",
+          "elo_player_key": "cassone m",
+          "matches_total": 17,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12138773,
+      "last_seen_tournament": "Mallorca",
+      "last_seen_tournament_key": 3681,
+      "updated_at": "2026-06-20T06:55:18.034545+02:00"
+    },
+    "9219": {
+      "api_player_key": 9219,
+      "api_name": "A. Shelbayh",
+      "gender": "men",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Shelbayh A.",
+      "elo_player_key": "shelbayh a",
+      "candidates": [
+        {
+          "elo_player_name": "Shelbayh A.",
+          "elo_player_key": "shelbayh a",
+          "matches_total": 15,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12138775,
+      "last_seen_tournament": "Mallorca",
+      "last_seen_tournament_key": 3681,
+      "updated_at": "2026-06-20T06:55:18.034564+02:00"
+    },
+    "1265": {
+      "api_player_key": 1265,
+      "api_name": "M. Vankan",
+      "gender": "men",
+      "status": "confirmed",
+      "method": "exact_name_variant",
+      "confidence": 1.0,
+      "elo_player_name": "Vankan M.",
+      "elo_player_key": "vankan m",
+      "candidates": [
+        {
+          "elo_player_name": "Vankan M.",
+          "elo_player_key": "vankan m",
+          "matches_total": 15,
+          "gender": "unknown",
+          "score": 1.0,
+          "method": "exact_name_variant"
+        }
+      ],
+      "last_seen_event_key": 12138817,
+      "last_seen_tournament": "M15 Saarlouis",
+      "last_seen_tournament_key": 9768,
+      "updated_at": "2026-06-20T06:55:18.982422+02:00"
     }
   }
 }
