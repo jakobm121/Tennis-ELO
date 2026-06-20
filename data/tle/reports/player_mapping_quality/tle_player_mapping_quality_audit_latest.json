@@ -2,7 +2,7 @@
   "schema_version": 1,
   "file_type": "tle_player_mapping_quality_audit",
   "summary": {
-    "generated_at": "2026-06-19T11:00:36+00:00",
+    "generated_at": "2026-06-20T09:46:56+00:00",
     "mapping_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/tle/mappings/api_player_to_sackmann.json",
     "canonical_manifest": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/tle/processed/canonical/tle_matches_manifest.json",
     "canonical_files": [
@@ -12,10 +12,10 @@
       "data/tle/processed/canonical/tle_matches_2026.jsonl.gz"
     ],
     "mapping_summary": {
-      "api_players": 2316,
+      "api_players": 2321,
       "sackmann_players": 11993,
       "mapping_statuses": {
-        "matched": 2130,
+        "matched": 2135,
         "review": 115,
         "unmatched": 71
       },
@@ -24,7 +24,7 @@
         "review": 284,
         "unmatched": 132
       },
-      "matched_players": 2130,
+      "matched_players": 2135,
       "unresolved_players": 186
     },
     "canonical_players_seen": 12069,
@@ -3659,6 +3659,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-06-04",
       "latest_tournament": "M15 Tsaghkadzor 2",
+      "warnings": ""
+    },
+    {
+      "api_key": "9131",
+      "api_name": "R. Nijboer",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "men:sackmann:207764",
+      "sackmann_name": "Ryan Nijboer",
+      "canonical_matches": 266,
+      "api_only_key": "men:api:9131",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-05-25",
+      "latest_tournament": "M25 Troisdorf",
       "warnings": ""
     },
     {
@@ -12846,6 +12862,22 @@
       "warnings": ""
     },
     {
+      "api_key": "4363",
+      "api_name": "A. Aksu",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "women:sackmann:213767",
+      "sackmann_name": "Ayla Aksu",
+      "canonical_matches": 170,
+      "api_only_key": "women:api:4363",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-05-18",
+      "latest_tournament": "W75 Kosice",
+      "warnings": ""
+    },
+    {
       "api_key": "12792",
       "api_name": "A. Hertel",
       "gender": "women",
@@ -21982,6 +22014,22 @@
       "warnings": ""
     },
     {
+      "api_key": "14435",
+      "api_name": "T. Torres",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "men:sackmann:208426",
+      "sackmann_name": "Tiago Torres",
+      "canonical_matches": 77,
+      "api_only_key": "men:api:14435",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2026-05-11",
+      "latest_tournament": "Oeiras 4 CH",
+      "warnings": ""
+    },
+    {
       "api_key": "10917",
       "api_name": "A. Sagandikova",
       "gender": "women",
@@ -24411,6 +24459,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-06-09",
       "latest_tournament": "M15 Monastir 22",
+      "warnings": ""
+    },
+    {
+      "api_key": "39199",
+      "api_name": "R. Quan",
+      "gender": "men",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "men:sackmann:211790",
+      "sackmann_name": "Rudy Quan",
+      "canonical_matches": 54,
+      "api_only_key": "men:api:39199",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2025-09-15",
+      "latest_tournament": "M15 Fayetteville AR",
       "warnings": ""
     },
     {
@@ -28395,6 +28459,22 @@
       "api_only_matches_api_source": 0,
       "latest_date": "2026-05-25",
       "latest_tournament": "W15 Lakewood CA",
+      "warnings": ""
+    },
+    {
+      "api_key": "69230",
+      "api_name": "M. Slama",
+      "gender": "women",
+      "status": "matched",
+      "method": "manual_audit_unique_surname_initial",
+      "sackmann_key": "women:sackmann:260693",
+      "sackmann_name": "Mia Slama",
+      "canonical_matches": 29,
+      "api_only_key": "women:api:69230",
+      "api_only_matches_canonical": 0,
+      "api_only_matches_api_source": 0,
+      "latest_date": "2025-08-11",
+      "latest_tournament": "W15 Huntsville AL",
       "warnings": ""
     },
     {
