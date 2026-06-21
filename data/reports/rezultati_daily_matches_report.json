@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T00:23:15.601044+02:00",
+  "generated_at": "2026-06-21T07:12:32.026802+02:00",
   "source_url": "https://www.rezultati.com/tenis/",
   "output_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/input/matches_today.json",
   "seen_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/state/seen_match_urls.json",
@@ -14,16 +14,146 @@
     "reset_seen_matches": false
   },
   "counts": {
-    "found_matches": 96,
-    "available_unseen": 96,
+    "found_matches": 98,
+    "available_unseen": 90,
     "selected": 8,
-    "skipped_seen": 0,
-    "seen_total": 514,
+    "skipped_seen": 8,
+    "seen_total": 522,
     "blocked": 0,
     "errors": 0
   },
   "error": "",
   "selected": [
+    {
+      "match": "Arango Emiliana - Johnson Sofia",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/arango-emiliana-rwWwX7oC/johnson-sofia-8n1YQPdf/?mid=Q91etfRq",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Arango Emiliana",
+      "player_2": "Johnson Sofia",
+      "source": "rezultati_daily_click",
+      "source_match_id": "Q91etfRq",
+      "raw_parent_text": "14:30\nJohnson S.\nArango E.\n-\n-"
+    },
+    {
+      "match": "Argyrokastriti Marianne - Hejtmanek Amelie Justine",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/argyrokastriti-marianne-CKKqxZuj/hejtmanek-amelie-justine-UNtKSOI8/?mid=2gouBdDi",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Argyrokastriti Marianne",
+      "player_2": "Hejtmanek Amelie Justine",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "2gouBdDi",
+      "raw_parent_text": "09:30\nSKR\nArgyrokastriti M.\nHejtmanek A.\n-\n-"
+    },
+    {
+      "match": "Arnaldi Matteo - Samuel Toby",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/arnaldi-matteo-hlVLAfZK/samuel-toby-rZVojxZe/?mid=UoxrSZVh",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Arnaldi Matteo",
+      "player_2": "Samuel Toby",
+      "source": "rezultati_daily_click",
+      "source_match_id": "UoxrSZVh",
+      "raw_parent_text": "13:30\nArnaldi M.\nSamuel T.\n-\n-"
+    },
+    {
+      "match": "Back Dayeon - Kaji Haruka",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/back-dayeon-WWkxyOw9/kaji-haruka-8Ck3Vpyk/?mid=Ywyc1Dm3",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Back Dayeon",
+      "player_2": "Kaji Haruka",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "Ywyc1Dm3",
+      "raw_parent_text": ""
+    },
+    {
+      "match": "Balshaw Felix - Ribero Franco",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/balshaw-felix-OUFziENR/ribero-franco-v7WgNVZb/?mid=n1sSLDR9",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Balshaw Felix",
+      "player_2": "Ribero Franco",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "n1sSLDR9",
+      "raw_parent_text": "14:30\nBalshaw F.\nRibero F.\n-\n-"
+    },
+    {
+      "match": "Barrientos Nicolas - Cretu Cezar",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/barrientos-nicolas-jms1WqcC/cretu-cezar-0xqR9dG1/?mid=2B8Iu8Ir",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Barrientos Nicolas",
+      "player_2": "Cretu Cezar",
+      "source": "rezultati_daily_click",
+      "source_match_id": "2B8Iu8Ir",
+      "raw_parent_text": "Otkazano\nCretu C.\nBarrientos N.\n-\n-"
+    },
+    {
+      "match": "Basel Valentin - Price Salvador",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/basel-valentin-b5qN4zQn/price-salvador-W2XHQWiP/?mid=OCi0aljC",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Basel Valentin",
+      "player_2": "Price Salvador",
+      "source": "rezultati_daily_click",
+      "source_match_id": "OCi0aljC",
+      "raw_parent_text": "18:30\nBasel V.\nPrice S.\n-\n-"
+    },
+    {
+      "match": "Begu Irina - Parry Diane",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/begu-irina-vwIzxgEI/parry-diane-hQQLzcNT/?mid=xMATqjvC",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Begu Irina",
+      "player_2": "Parry Diane",
+      "source": "rezultati_daily_click",
+      "source_match_id": "xMATqjvC",
+      "raw_parent_text": "11:00\nParry D.\nBegu I.\n-\n-"
+    }
+  ],
+  "skipped_seen_examples": [
     {
       "match": "Adams Julia - Suvirdjonkova Darja",
       "match_url": "https://www.rezultati.com/utakmica/tenis/adams-julia-rNpx5PyM/suvirdjonkova-darja-UXrogWoa/?mid=rqLNM8Ug",
@@ -38,7 +168,7 @@
       "player_2": "Suvirdjonkova Darja",
       "source": "rezultati_daily_anchor",
       "source_match_id": "rqLNM8Ug",
-      "raw_parent_text": ""
+      "raw_parent_text": "09:30\nSKR\nAdams J.\nSuvirdjonkova D.\n-\n-"
     },
     {
       "match": "Aksu Ayla - Vidmanova Darja",
@@ -54,7 +184,7 @@
       "player_2": "Vidmanova Darja",
       "source": "rezultati_daily_anchor",
       "source_match_id": "8dwrXLDk",
-      "raw_parent_text": ""
+      "raw_parent_text": "12:00\nVidmanova D.\nAksu A.\n-\n-"
     },
     {
       "match": "Ambarzumjan Edison - Berkieta Tomasz",
@@ -102,7 +232,7 @@
       "player_2": "Barrientos Nicolas",
       "source": "rezultati_daily_anchor",
       "source_match_id": "Cth0MvJD",
-      "raw_parent_text": ""
+      "raw_parent_text": "13:30\nAndreescu S. A.\nBarrientos N.\n-\n-"
     },
     {
       "match": "Andreescu Stefan Adrian - Janvier Maxime",
@@ -153,7 +283,6 @@
       "raw_parent_text": "12:00\nWalton A.\nGhibaudo A.\n-\n-"
     }
   ],
-  "skipped_seen_examples": [],
   "debug_files": {
     "text": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/reports/debug_rezultati_daily_text.txt",
     "html": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/reports/debug_rezultati_daily_page.html",
