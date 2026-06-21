@@ -72,6 +72,19 @@ Sonego L.
 2
 4
 6
+Kraj
+Hanfmann Y.
+Vallejo D.
+2
+0
+7
+7
+6
+2
+7
+7
+6
+2
 Eastbourne (Ujedinjeno Kraljevstvo) - Kvalifikacije, trava
 ATP - SINGL: 
 Ždrijeb
@@ -191,15 +204,20 @@ Fernandez L.
 6
 3
 6
-Prekinuto
-Osaka N.
-Frech M.
-0
-0
-5
+Berlin (Njemačka), trava
+WTA - SINGL: 
+Ždrijeb
+Kraj
+Pegula J.
+Noskova L.
+1
+2
 4
-0
-0
+6
+6
+4
+3
+6
 Nottingham (Ujedinjeno Kraljevstvo), trava
 WTA - SINGL: 
 Ždrijeb
@@ -342,6 +360,20 @@ Fonseca J.
 2
 6
 4
+London (Ujedinjeno Kraljevstvo), trava
+ATP - PAROVI: 
+Ždrijeb
+Kraj
+Heliovaara H.
+Patten H.
+Arevalo M.
+Pavic M.
+0
+2
+2
+6
+4
+6
 Bad Homburg (Njemačka), trava
 WTA - PAROVI: 
 Ždrijeb
@@ -358,35 +390,6 @@ Webley-Smith E.
 7
 8
 10
-Prekinuto
-Jiang X.
-Xu Y-F.
-Mihalikova T.
-Nicholls O.
-0
-1
-2
-6
-0
-2
-15
-15
-Berlin (Njemačka), trava
-WTA - PAROVI: 
-Ždrijeb
-Prekinuto
-Alexandrova E.
-Noskova L.
-Eikeri U.
-Gleason Q.
-1
-0
-6
-3
-3
-3
-0
-0
 Nottingham (Ujedinjeno Kraljevstvo), trava
 WTA - PAROVI: 
 Ždrijeb
@@ -458,6 +461,53 @@ Martinez T.
 6
 4
 6
+Kraj
+Ribeiro de Almeida G.
+Rodrigues Longobardi P.
+2
+0
+6
+1
+6
+1
+Kraj
+Parisca I.
+Braga V.
+2
+0
+6
+2
+6
+0
+Kraj
+Basel V.
+Price S.
+2
+0
+7
+7
+6
+4
+6
+1
+Kraj
+Goity Zapico S.
+Oliveira N.
+0
+2
+4
+6
+3
+6
+Kraj
+Huertas Del Pino Cordova A.
+Braga B.
+2
+0
+6
+2
+6
+4
 Plovdiv (Bugarska) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -716,6 +766,18 @@ Yevseyev D.
 0
 0
 3
+Brescia (Italija), zemlja
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Wang Xiy.
+Sherif M.
+0
+2
+4
+6
+3
+6
 Figueira Da Foz (Portugal), tvrda podloga
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -781,6 +843,20 @@ Fellin P. O.
 6
 4
 6
+M15 Irvine, CA (SAD), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Nakashima B.
+Johnson S.
+0
+2
+3
+6
+6
+1
+7
+7
 M15 Kayseri 5 (Turska), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -928,6 +1004,18 @@ Stoyanov A.
 9
 7
 11
+W15 Irvine, CA (SAD), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Shcherbinina A.
+Ekstrand M.
+2
+0
+6
+2
+6
+4
 W15 Kayseri 5 (Turska), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -1133,7 +1221,7 @@ WTA Berlin
 WTA Eastbourne
 WTA Nottingham
 ATP Eastbourne
-Prikaži više (57)
+Prikaži više (56)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -1204,17 +1292,18 @@ Južna Afrika - Južna Koreja
 Češka - Meksiko
 Paragvaj - Australija
 Turska - SAD
+Paris - Monaco
 LIVESCORE
 Albot - Ajdukovic
 Srbija - Japan
 Srbija - Kuba
 Francuska - Srbija
 Srbija - SAD
-Crna Gora - Estonija
-Belgija - Iran
 Urugvaj - Zelenortski Otoci
 Novi Zeland - Egipat
 Borac Banja Luka - Sutjeska
+Bugarska - Italija
+Ukrajina - Italija
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
