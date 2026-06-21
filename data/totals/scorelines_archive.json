@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T22:17:59.050881+02:00",
+  "generated_at": "2026-06-22T00:26:39.431048+02:00",
   "source": "rezultati_daily_results",
   "counts": {
-    "archive_before": 12453,
-    "daily_scorelines": 78,
+    "archive_before": 12455,
+    "daily_scorelines": 0,
     "archive_after": 12455,
-    "added": 2
+    "added": 0
   },
   "matches": [
     {
