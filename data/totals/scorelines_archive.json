@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T18:52:53.992502+02:00",
+  "generated_at": "2026-06-21T19:11:41.024047+02:00",
   "source": "rezultati_daily_results",
   "counts": {
-    "archive_before": 12430,
-    "daily_scorelines": 67,
-    "archive_after": 12444,
-    "added": 14
+    "archive_before": 12444,
+    "daily_scorelines": 68,
+    "archive_after": 12445,
+    "added": 1
   },
   "matches": [
     {
@@ -800103,6 +800103,58 @@
       "p1_total_games_won": 14,
       "p2_total_games_won": 10,
       "game_margin_p1": 4,
+      "total_sets": 2,
+      "straight_sets": true,
+      "deciding_set": false,
+      "had_tiebreak": false,
+      "tiebreak_count": 0
+    },
+    {
+      "match_id": "",
+      "match_url": "",
+      "source": "rezultati_daily_results_text_fallback",
+      "date": "2026-06-21",
+      "player_1": "Hayen A.",
+      "player_2": "Martinez T.",
+      "match": "Hayen A. - Martinez T.",
+      "winner": "Martinez T.",
+      "loser": "Hayen A.",
+      "sets_1": 0,
+      "sets_2": 2,
+      "final_score": "0-2",
+      "set_scores": [
+        {
+          "set_number": 1,
+          "p1_games": 3,
+          "p2_games": 6,
+          "tiebreak": false
+        },
+        {
+          "set_number": 2,
+          "p1_games": 4,
+          "p2_games": 6,
+          "tiebreak": false
+        }
+      ],
+      "completed": true,
+      "retired": false,
+      "walkover": false,
+      "raw_parent_text": "Kraj\nHayen A.\nMartinez T.\n0\n2\n3\n6\n4\n6",
+      "raw_header_text": "Piracicaba (Brazil) - Kvalifikacije, zemlja\nCHALLENGER - MUŠKI SINGL:",
+      "tournament": "Piracicaba (Brazil) - Kvalifikacije",
+      "tour_level": "challenger",
+      "gender": "",
+      "surface": "clay",
+      "indoor": null,
+      "best_of": 3,
+      "is_grand_slam": false,
+      "first_set_score": "3-6",
+      "first_set_games": 9,
+      "first_set_tiebreak": false,
+      "total_games": 19,
+      "p1_total_games_won": 7,
+      "p2_total_games_won": 12,
+      "game_margin_p1": -5,
       "total_sets": 2,
       "straight_sets": true,
       "deciding_set": false,
