@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T00:26:14.007796+02:00",
+  "generated_at": "2026-06-22T07:24:08.035210+02:00",
   "source_url": "https://www.rezultati.com/tenis/",
   "output_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/input/matches_today.json",
   "seen_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/state/seen_match_urls.json",
@@ -15,15 +15,145 @@
   },
   "counts": {
     "found_matches": 134,
-    "available_unseen": 134,
+    "available_unseen": 126,
     "selected": 8,
-    "skipped_seen": 0,
-    "seen_total": 554,
+    "skipped_seen": 8,
+    "seen_total": 562,
     "blocked": 0,
     "errors": 0
   },
   "error": "",
   "selected": [
+    {
+      "match": "Bailly Gilles Arnaud - Martin Tiffon Pol",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/bailly-gilles-arnaud-rNSGbSql/martin-tiffon-pol-j52KZBSr/?mid=f9ekrJDT",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Bailly Gilles Arnaud",
+      "player_2": "Martin Tiffon Pol",
+      "source": "rezultati_daily_click",
+      "source_match_id": "f9ekrJDT",
+      "raw_parent_text": "15:00\nBailly G. A.\nMartin Tiffon P.\n-\n-"
+    },
+    {
+      "match": "Balshaw Felix - Makk Peter",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/balshaw-felix-OUFziENR/makk-peter-fmvttjEp/?mid=dSC98k1M",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Balshaw Felix",
+      "player_2": "Makk Peter",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "dSC98k1M",
+      "raw_parent_text": "11:30\nBalshaw F.\nMakk P.\n-\n-"
+    },
+    {
+      "match": "Barrena Alex - Skatov Timofey",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/barrena-alex-EcYZCT1F/skatov-timofey-h6n0i9iE/?mid=b1I76Yfe",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Barrena Alex",
+      "player_2": "Skatov Timofey",
+      "source": "rezultati_daily_click",
+      "source_match_id": "b1I76Yfe",
+      "raw_parent_text": "13:30\nSkatov T.\nBarrena A.\n-\n-"
+    },
+    {
+      "match": "Barrientos Nicolas - Yevseyev Denis",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/barrientos-nicolas-jms1WqcC/yevseyev-denis-p2DCoR3r/?mid=djBTjanl",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Barrientos Nicolas",
+      "player_2": "Yevseyev Denis",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "djBTjanl",
+      "raw_parent_text": "11:30\nBarrientos N.\nYevseyev D.\n-\n-"
+    },
+    {
+      "match": "Barrios Vera Marcelo Tomas - Cecchinato Marco",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/barrios-vera-marcelo-tomas-Ewzudtxk/cecchinato-marco-4zpGaSnG/?mid=dxOky5Hq",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Barrios Vera Marcelo Tomas",
+      "player_2": "Cecchinato Marco",
+      "source": "rezultati_daily_click",
+      "source_match_id": "dxOky5Hq",
+      "raw_parent_text": "16:30\nCecchinato M.\nBarrios Vera T.\n-\n-"
+    },
+    {
+      "match": "Basel Valentin - Parisca Ignacio",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/basel-valentin-b5qN4zQn/parisca-ignacio-CAU0vyvM/?mid=AcoxY6PP",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Basel Valentin",
+      "player_2": "Parisca Ignacio",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "AcoxY6PP",
+      "raw_parent_text": "17:00\nParisca I.\nBasel V.\n-\n-"
+    },
+    {
+      "match": "Basilashvili Nikoloz - Ymer Elias",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/basilashvili-nikoloz-Kb8ttRy2/ymer-elias-GhVfMwlD/?mid=COthx63T",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Basilashvili Nikoloz",
+      "player_2": "Ymer Elias",
+      "source": "rezultati_daily_click",
+      "source_match_id": "COthx63T",
+      "raw_parent_text": "13:30\nBasilashvili N.\nYmer E.\n-\n-"
+    },
+    {
+      "match": "Basing Max - Maestrelli Francesco",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/basing-max-CpNtcwr9/maestrelli-francesco-jsdn0W9I/?mid=lULabjLO",
+      "date": "",
+      "status": "scheduled",
+      "tour_level": "",
+      "gender": "",
+      "tournament": "",
+      "country": "",
+      "surface": "",
+      "player_1": "Basing Max",
+      "player_2": "Maestrelli Francesco",
+      "source": "rezultati_daily_click",
+      "source_match_id": "lULabjLO",
+      "raw_parent_text": "16:30\nMaestrelli F.\nBasing M.\n-\n-"
+    }
+  ],
+  "skipped_seen_examples": [
     {
       "match": "Added Dan - Llamas Ruiz Pablo",
       "match_url": "https://www.rezultati.com/utakmica/tenis/added-dan-bwW3LbI0/llamas-ruiz-pablo-QTqDJ1gP/?mid=QinLxcyi",
@@ -70,7 +200,7 @@
       "player_2": "Pucinelli De Almeida Matheus",
       "source": "rezultati_daily_anchor",
       "source_match_id": "fu8Xyfhl",
-      "raw_parent_text": ""
+      "raw_parent_text": "21:30\nPucinelli de Almeida M.\nAmbrogi L. E.\n-\n-"
     },
     {
       "match": "Andrade Andres - Colton Smith",
@@ -102,7 +232,7 @@
       "player_2": "Cigarran Thiago",
       "source": "rezultati_daily_anchor",
       "source_match_id": "neAOafVI",
-      "raw_parent_text": ""
+      "raw_parent_text": "15:30\nCigarran T.\nAndrade da Silva L.\n-\n-"
     },
     {
       "match": "Angelini Lorenzo - Sinha Nitin Kumar",
@@ -118,7 +248,7 @@
       "player_2": "Sinha Nitin Kumar",
       "source": "rezultati_daily_anchor",
       "source_match_id": "Yke15b1s",
-      "raw_parent_text": ""
+      "raw_parent_text": "11:00\nSinha N. K.\nAngelini L.\n-\n-"
     },
     {
       "match": "Arango Emiliana - Joint Maya",
@@ -153,7 +283,6 @@
       "raw_parent_text": "12:00\nDiallo G.\nAtmane T.\n-\n-"
     }
   ],
-  "skipped_seen_examples": [],
   "debug_files": {
     "text": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/reports/debug_rezultati_daily_text.txt",
     "html": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/reports/debug_rezultati_daily_page.html",
