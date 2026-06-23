@@ -5060,7 +5060,7 @@
     },
     "https://www.rezultati.com/utakmica/tenis/aboian-valerio-6BsiXzTM/basel-valentin-b5qN4zQn/?mid=SpdsstVP": {
       "first_seen_at": "2026-06-23T06:18:17.204591+02:00",
-      "last_seen_at": "2026-06-23T22:17:02.801233+02:00",
+      "last_seen_at": "2026-06-24T00:25:51.046099+02:00",
       "match": "Aboian Valerio - Basel Valentin",
       "player_1": "Aboian Valerio",
       "player_2": "Basel Valentin",
@@ -5078,7 +5078,7 @@
     },
     "https://www.rezultati.com/utakmica/tenis/adkar-vaishnavi-riKJvzYF/shi-han-WvwZpPTa/?mid=j7VggDdB": {
       "first_seen_at": "2026-06-23T06:18:17.204591+02:00",
-      "last_seen_at": "2026-06-23T22:17:02.801233+02:00",
+      "last_seen_at": "2026-06-24T00:25:51.046099+02:00",
       "match": "Adkar Vaishnavi - Shi Han",
       "player_1": "Adkar Vaishnavi",
       "player_2": "Shi Han",
@@ -5087,7 +5087,7 @@
     },
     "https://www.rezultati.com/utakmica/tenis/aguilar-cardozo-joaquin-rsXrDrGP/estevez-juan-v3mDD6Cq/?mid=jkj6YKod": {
       "first_seen_at": "2026-06-23T06:18:17.204591+02:00",
-      "last_seen_at": "2026-06-23T22:17:02.801233+02:00",
+      "last_seen_at": "2026-06-24T00:25:51.046099+02:00",
       "match": "Aguilar Cardozo Joaquin - Estevez Juan",
       "player_1": "Aguilar Cardozo Joaquin",
       "player_2": "Estevez Juan",
@@ -5096,7 +5096,7 @@
     },
     "https://www.rezultati.com/utakmica/tenis/aikawa-mayuka-8brlAqYt/arakawa-natsuho-Y5gsRhBS/?mid=QN6wPvvB": {
       "first_seen_at": "2026-06-23T06:18:17.204591+02:00",
-      "last_seen_at": "2026-06-23T06:18:17.204591+02:00",
+      "last_seen_at": "2026-06-24T00:25:51.046099+02:00",
       "match": "Aikawa Mayuka - Arakawa Natsuho",
       "player_1": "Aikawa Mayuka",
       "player_2": "Arakawa Natsuho",
@@ -5186,7 +5186,7 @@
     },
     "https://www.rezultati.com/utakmica/tenis/andrade-da-silva-lucas-junia1km/huertas-del-pino-conner-dvetkyid/?mid=SQ5mLb86": {
       "first_seen_at": "2026-06-23T17:21:05.101998+02:00",
-      "last_seen_at": "2026-06-23T22:17:02.801233+02:00",
+      "last_seen_at": "2026-06-24T00:25:51.046099+02:00",
       "match": "Andrade Da Silva Lucas - Huertas Del Pino Conner Dvetkyid",
       "player_1": "Andrade Da Silva Lucas",
       "player_2": "Huertas Del Pino Conner Dvetkyid",
@@ -5231,7 +5231,7 @@
     },
     "https://www.rezultati.com/utakmica/tenis/ansari-carolyn-0p23zV42/gay-cayetana-G0bIz8rs/?mid=KK8uS6Lj": {
       "first_seen_at": "2026-06-23T22:17:02.801233+02:00",
-      "last_seen_at": "2026-06-23T22:17:02.801233+02:00",
+      "last_seen_at": "2026-06-24T00:25:51.046099+02:00",
       "match": "Ansari Carolyn - Gay Cayetana",
       "player_1": "Ansari Carolyn",
       "player_2": "Gay Cayetana",
@@ -5273,13 +5273,87 @@
       "player_2": "Hussey Giles",
       "status": "scheduled",
       "source_match_id": "Uc0Zt3oL"
+    },
+    "https://www.rezultati.com/utakmica/tenis/abendroth-isabella-angelina-ph22fEdK/guth-mara-d0rtetKq/?mid=CSI05XIj": {
+      "first_seen_at": "2026-06-24T00:25:51.046099+02:00",
+      "last_seen_at": "2026-06-24T00:25:51.046099+02:00",
+      "match": "Abendroth Isabella Angelina - Guth Mara",
+      "player_1": "Abendroth Isabella Angelina",
+      "player_2": "Guth Mara",
+      "status": "scheduled",
+      "source_match_id": "CSI05XIj"
+    },
+    "https://www.rezultati.com/utakmica/tenis/abibsi-mohamed-ali-fLsxCRR2/azoides-demetris-vPLaVwl9/?mid=0QvY7snI": {
+      "first_seen_at": "2026-06-24T00:25:51.046099+02:00",
+      "last_seen_at": "2026-06-24T00:25:51.046099+02:00",
+      "match": "Abibsi Mohamed Ali - Azoides Demetris",
+      "player_1": "Abibsi Mohamed Ali",
+      "player_2": "Azoides Demetris",
+      "status": "scheduled",
+      "source_match_id": "0QvY7snI"
+    },
+    "https://www.rezultati.com/utakmica/tenis/adeshina-esther-4EujnrQm/tan-harmony-vqOqBe0i/?mid=t0UBjkVQ": {
+      "first_seen_at": "2026-06-24T00:25:51.046099+02:00",
+      "last_seen_at": "2026-06-24T00:25:51.046099+02:00",
+      "match": "Adeshina Esther - Tan Harmony",
+      "player_1": "Adeshina Esther",
+      "player_2": "Tan Harmony",
+      "status": "scheduled",
+      "source_match_id": "t0UBjkVQ"
+    },
+    "https://www.rezultati.com/utakmica/tenis/agamenone-franco-E9dx5gGD/ajdukovic-duje-n11bz7QK/?mid=pKRriCrf": {
+      "first_seen_at": "2026-06-24T00:25:51.046099+02:00",
+      "last_seen_at": "2026-06-24T00:25:51.046099+02:00",
+      "match": "Agamenone Franco - Ajdukovic Duje",
+      "player_1": "Agamenone Franco",
+      "player_2": "Ajdukovic Duje",
+      "status": "scheduled",
+      "source_match_id": "pKRriCrf"
+    },
+    "https://www.rezultati.com/utakmica/tenis/aggarwal-parth-4AVHbyk0/broska-florian-8K76hSpA/?mid=IJSi1BOi": {
+      "first_seen_at": "2026-06-24T00:25:51.046099+02:00",
+      "last_seen_at": "2026-06-24T00:25:51.046099+02:00",
+      "match": "Aggarwal Parth - Broska Florian",
+      "player_1": "Aggarwal Parth",
+      "player_2": "Broska Florian",
+      "status": "scheduled",
+      "source_match_id": "IJSi1BOi"
+    },
+    "https://www.rezultati.com/utakmica/tenis/ahn-yu-jin-GM4PiC4R/zhu-chenting-t6QFqpeR/?mid=UR7J4HHs": {
+      "first_seen_at": "2026-06-24T00:25:51.046099+02:00",
+      "last_seen_at": "2026-06-24T00:25:51.046099+02:00",
+      "match": "Ahn Yu Jin - Zhu Chenting",
+      "player_1": "Ahn Yu Jin",
+      "player_2": "Zhu Chenting",
+      "status": "scheduled",
+      "source_match_id": "UR7J4HHs"
+    },
+    "https://www.rezultati.com/utakmica/tenis/ahouda-walid-EeytJKyP/haddouch-idriss-vuRBB2N3/?mid=bcU7cTNG": {
+      "first_seen_at": "2026-06-24T00:25:51.046099+02:00",
+      "last_seen_at": "2026-06-24T00:25:51.046099+02:00",
+      "match": "Ahouda Walid - Haddouch Idriss",
+      "player_1": "Ahouda Walid",
+      "player_2": "Haddouch Idriss",
+      "status": "scheduled",
+      "source_match_id": "bcU7cTNG"
+    },
+    "https://www.rezultati.com/utakmica/tenis/akli-ayana-lYIXolpg/fairclough-lily-t6nE250G/?mid=6gdxXrXP": {
+      "first_seen_at": "2026-06-24T00:25:51.046099+02:00",
+      "last_seen_at": "2026-06-24T00:25:51.046099+02:00",
+      "match": "Akli Ayana - Fairclough Lily",
+      "player_1": "Akli Ayana",
+      "player_2": "Fairclough Lily",
+      "status": "scheduled",
+      "source_match_id": "6gdxXrXP"
     }
   },
   "seen_urls": [
     "https://www.rezultati.com/utakmica/tenis/abbagnato-anastasia-UcSf4KWB/ferro-galatea-CQUWRxNE/?mid=8GecKCXH",
     "https://www.rezultati.com/utakmica/tenis/abbagnato-anastasia-UcSf4KWB/gennaro-camilla-Kx3weLNI/?mid=8Q6AJjFF",
     "https://www.rezultati.com/utakmica/tenis/abbagnato-anastasia-UcSf4KWB/zhang-ruien-zFSFxuaJ/?mid=GlDaX3pf",
+    "https://www.rezultati.com/utakmica/tenis/abendroth-isabella-angelina-ph22fEdK/guth-mara-d0rtetKq/?mid=CSI05XIj",
     "https://www.rezultati.com/utakmica/tenis/abendroth-jolie-angelique-MoRIbmVn/gadamauri-tamila-OUmUlddT/?mid=I9LYa5uC",
+    "https://www.rezultati.com/utakmica/tenis/abibsi-mohamed-ali-fLsxCRR2/azoides-demetris-vPLaVwl9/?mid=0QvY7snI",
     "https://www.rezultati.com/utakmica/tenis/abibsi-mohamed-ali-fLsxCRR2/fradkin-jeffrey-8lnAfpc5/?mid=4dluF2B5",
     "https://www.rezultati.com/utakmica/tenis/abibsi-mohamed-ali-fLsxCRR2/iakubenko-volodymyr-r7AzIfZ8/?mid=Q1N1IL5U",
     "https://www.rezultati.com/utakmica/tenis/abibsi-mohamed-ali-fLsxCRR2/jiang-fumin-fHtmXzwe/?mid=hOe79Qr1",
@@ -5300,14 +5374,17 @@
     "https://www.rezultati.com/utakmica/tenis/added-dan-bwW3LbI0/pedrico-kravtsov-albert-SC9if6GJ/?mid=n1JMWEP1",
     "https://www.rezultati.com/utakmica/tenis/added-dan-bwW3LbI0/visker-niels-trcbXYS8/?mid=OjWKpgYo",
     "https://www.rezultati.com/utakmica/tenis/adeikyte-anastasija-SIMahFxi/hurkacz-nika-htWTxZ0K/?mid=IgVbpu3k",
+    "https://www.rezultati.com/utakmica/tenis/adeshina-esther-4EujnrQm/tan-harmony-vqOqBe0i/?mid=t0UBjkVQ",
     "https://www.rezultati.com/utakmica/tenis/adeshina-esther-4EujnrQm/uchijima-moyuka-K25VJT7h/?mid=0WL0Kkwq",
     "https://www.rezultati.com/utakmica/tenis/adkar-vaishnavi-riKJvzYF/cervino-ruiz-celia-hAMmOqXK/?mid=KETjaA5F",
     "https://www.rezultati.com/utakmica/tenis/adkar-vaishnavi-riKJvzYF/raquel-gonzalez-vilar-bBKABY6K/?mid=rctg5TTg",
     "https://www.rezultati.com/utakmica/tenis/adkar-vaishnavi-riKJvzYF/shi-han-WvwZpPTa/?mid=j7VggDdB",
+    "https://www.rezultati.com/utakmica/tenis/agamenone-franco-E9dx5gGD/ajdukovic-duje-n11bz7QK/?mid=pKRriCrf",
     "https://www.rezultati.com/utakmica/tenis/agamenone-franco-E9dx5gGD/castelnuovo-luca-tMTm47i0/?mid=dQczloTh",
     "https://www.rezultati.com/utakmica/tenis/agamenone-franco-E9dx5gGD/forti-francesco-MF7nWtCA/?mid=KGjVKXKE",
     "https://www.rezultati.com/utakmica/tenis/agamenone-franco-E9dx5gGD/napolitano-stefano-pKG0p9mP/?mid=jmsrl7Nt",
     "https://www.rezultati.com/utakmica/tenis/agamenone-franco-E9dx5gGD/ribecai-michele-fNFrUmQq/?mid=dfmUmVBL",
+    "https://www.rezultati.com/utakmica/tenis/aggarwal-parth-4AVHbyk0/broska-florian-8K76hSpA/?mid=IJSi1BOi",
     "https://www.rezultati.com/utakmica/tenis/aguiard-enzo-2gzfIDcj/ellis-blake-jZBNKio1/?mid=zJatHj44",
     "https://www.rezultati.com/utakmica/tenis/aguiard-enzo-2gzfIDcj/fenty-andrew-bDUgFpAp/?mid=KjXpd1Et",
     "https://www.rezultati.com/utakmica/tenis/aguiard-enzo-2gzfIDcj/gorzny-sebastian-zy0rH7hD/?mid=xzQnzDDF",
@@ -5318,6 +5395,8 @@
     "https://www.rezultati.com/utakmica/tenis/aguilar-cardozo-joaquin-rsXrDrGP/estevez-juan-v3mDD6Cq/?mid=jkj6YKod",
     "https://www.rezultati.com/utakmica/tenis/aguilar-cardozo-joaquin-rsXrDrGP/justo-guido-ivan-CjaTkiTr/?mid=Oxoe8Re5",
     "https://www.rezultati.com/utakmica/tenis/aguilar-cardozo-joaquin-rsXrDrGP/villanueva-gonzalo-OQxrsJs8/?mid=KbR9JEVH",
+    "https://www.rezultati.com/utakmica/tenis/ahn-yu-jin-GM4PiC4R/zhu-chenting-t6QFqpeR/?mid=UR7J4HHs",
+    "https://www.rezultati.com/utakmica/tenis/ahouda-walid-EeytJKyP/haddouch-idriss-vuRBB2N3/?mid=bcU7cTNG",
     "https://www.rezultati.com/utakmica/tenis/ahti-vesa-ULGjM0EI/ymer-rafael-KhH073S2/?mid=WEbWsC2T",
     "https://www.rezultati.com/utakmica/tenis/aikawa-mayuka-8brlAqYt/arakawa-natsuho-Y5gsRhBS/?mid=QN6wPvvB",
     "https://www.rezultati.com/utakmica/tenis/aikawa-mayuka-8brlAqYt/das-aishi-dSN9Y9Oq/?mid=M7ZQNFi4",
@@ -5332,6 +5411,7 @@
     "https://www.rezultati.com/utakmica/tenis/ajdukovic-duje-n11bz7QK/biletic-ivan-fuc0xP4r/?mid=jN9pYPoA",
     "https://www.rezultati.com/utakmica/tenis/ajdukovic-duje-n11bz7QK/svrcina-dalibor-vDue624T/?mid=6ktRlGxI",
     "https://www.rezultati.com/utakmica/tenis/ajdukovic-duje-n11bz7QK/toffanin-nicolo-nTRbZMhe/?mid=ELvy8rre",
+    "https://www.rezultati.com/utakmica/tenis/akli-ayana-lYIXolpg/fairclough-lily-t6nE250G/?mid=6gdxXrXP",
     "https://www.rezultati.com/utakmica/tenis/aksu-ayla-rDEdDdEe/charaeva-alina-nBSQPTfR/?mid=rVXLnAvm",
     "https://www.rezultati.com/utakmica/tenis/aksu-ayla-rDEdDdEe/sanchez-ana-sofia-zZiiCAEg/?mid=d88q25T9",
     "https://www.rezultati.com/utakmica/tenis/aksu-ayla-rDEdDdEe/vandromme-jeline-xjmgETU6/?mid=bR3Kfovn",
@@ -5863,5 +5943,5 @@
     "https://www.rezultati.com/utakmica/tenis/jovanovic-mirjana-0jieYeGh/korpanec-davies-allegra-YFozIkkt/?mid=drsm3vJG",
     "https://www.rezultati.com/utakmica/tenis/kadiri-hassani-youssef-YstL8s3O/koyama-hiromasa-lMQ1mPlU/?mid=KnkmQLA7"
   ],
-  "generated_at": "2026-06-23T22:17:02.801875+02:00"
+  "generated_at": "2026-06-24T00:25:51.046715+02:00"
 }
