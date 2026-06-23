@@ -19,6 +19,22 @@ TEČAJEVI
 GOTOVO
 RASPORED
 23/06 UT
+Wimbledon (Ujedinjeno Kraljevstvo) - Kvalifikacije, trava
+WTA - SINGL: 
+Ždrijeb
+Otkazano
+Maristany G.
+Ortenzi J.
+-
+-
+Eastbourne (Ujedinjeno Kraljevstvo), trava
+ATP - SINGL: 
+Ždrijeb
+Otkazano
+Tirante T. A.
+Fearnley J.
+-
+-
 Bad Homburg (Njemačka), trava
 WTA - PAROVI: 
 Ždrijeb
@@ -41,9 +57,41 @@ Ribeiro E.
 5
 6
 2
+Plovdiv (Bugarska), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Blancaneaux G.
+Berkieta T.
+0
+2
+2
+6
+1
+6
+Kraj
+Dinev D.
+Blanch D.
+0
+2
+4
+6
+2
+6
 Targu Mures (Rumunjska), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
+Kraj
+Fomin S.
+Alcala Gurri M.
+0
+2
+6
+6
+7
+8
+1
+6
 Prekinuto
 Simakin I.
 Topo M.
@@ -53,6 +101,142 @@ Topo M.
 3
 30
 40
+M25 Bakio (Španjolska), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Orgiles Garcia Retamero I.
+Winter E.
+0
+2
+3
+6
+2
+6
+Kraj
+Guilleme J.
+Zhu M.
+2
+0
+6
+0
+6
+1
+Kraj
+Stephens Z.
+Lopez Cherubino N.
+0
+2
+4
+6
+2
+6
+M25 Zagreb (Hrvatska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Jadoun N.
+Sakellaridis D.
+1
+2
+6
+1
+4
+6
+3
+6
+Kraj
+Prihodko O.
+Mohar V.
+2
+0
+6
+1
+6
+3
+Kraj
+Ujvary M.
+Voljavec A.
+0
+2
+3
+6
+2
+6
+W15 Galati (Rumunjska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Sagmar I.
+Puiac A. L.
+2
+0
+6
+4
+6
+2
+Kraj
+Sanduleasa I. I.
+Breaz A.
+0
+2
+3
+6
+0
+6
+Kraj
+Soriano Santiago M.
+Sawant M.
+2
+0
+6
+1
+6
+0
+W15 Kursumlijska Banja 6 (Srbija), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Colic A.
+Djurickovic G.
+0
+2
+0
+6
+0
+6
+Kraj
+Jialin T.
+Mladenovic N.
+2
+0
+6
+1
+6
+2
+Kraj
+Ruan Z. Y.
+Zaytseva K.
+0
+2
+2
+6
+5
+7
+W15 Maanshan 3 (Kina), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+RuoXi M.
+Zhou J.
+2
+0
+7
+7
+6
+1
+6
+0
 W35 Taipei 2 (Tajvan), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -92,6 +276,223 @@ Chen C. Y.
 4
 6
 3
+Kraj
+Mushika Mio
+Naito Y.
+0
+2
+1
+6
+1
+6
+Kraj
+Chanta A.
+Chiang Y.
+2
+0
+7
+5
+6
+2
+Kraj
+Lin Y.
+Kawaguchi N.
+0
+2
+1
+6
+2
+6
+Kraj
+Nishimura K.
+Tsai Y.
+2
+0
+6
+4
+7
+7
+6
+3
+W35 Tarvisio (Italija), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Granwehr A.
+Sakellaridi S.
+2
+0
+6
+3
+7
+7
+6
+2
+Otkazano
+Meyer Auf Der Heide L.
+Seibold E.
+-
+-
+Kraj
+Meyer Auf Der Heide L.
+Drobysheva M.
+2
+0
+7
+5
+6
+2
+M15 Bergamo (Italija), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Denitto J.
+Vedovelli S.
+Amarandei D. A.
+Berto L.
+2
+0
+7
+5
+7
+5
+W15 Maanshan 3 (Kina), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Han J.
+Lu J-J.
+Guo M.
+Zhu C.
+0
+2
+3
+6
+5
+7
+Kraj
+Wang J.
+Yashina E.
+An L.
+Tian N.
+2
+0
+6
+3
+6
+2
+Kraj
+Deng T. T.
+Ren K.
+Sun Y.
+Zhao X.
+2
+0
+6
+2
+6
+0
+Kraj
+Chen M.
+Wang M.
+Ahn Y. J.
+Oh Y.
+0
+2
+4
+6
+2
+6
+Kraj
+Desvignes E. M.
+Thamchaiwat B.
+Cao Y.
+Li X.
+2
+0
+7
+7
+6
+3
+7
+7
+6
+4
+Kraj
+Matsuda R.
+Moon J.
+Choi O.
+Xu J.
+2
+0
+6
+4
+7
+5
+Kraj
+Yuchi G.
+Zheng W.
+Li Y.
+Luo X.
+0
+2
+1
+6
+4
+6
+W35 Taipei 2 (Tajvan), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Nagata A.
+Sato H.
+Kitahara Y.
+Nishino N.
+2
+1
+5
+7
+6
+2
+10
+3
+Kraj
+Hua Y.
+Mu-Jie T.
+Park J. M.
+Tamhankar B.
+2
+0
+7
+5
+7
+9
+6
+7
+Kraj
+Jeng J. Y.
+Tzeng Y. R.
+Nugroho P. M.
+Yamazaki I.
+1
+2
+7
+5
+3
+6
+7
+10
+Kraj
+Lin F. A.
+Yang Y. Y.
+Hu F.
+Lee G. S.
+0
+2
+5
+7
+3
+6
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -127,8 +528,8 @@ WTA Wimbledon
 ATP Eastbourne
 ATP Mallorca
 WTA Bad Homburg
-WTA Berlin
-Prikaži više (66)
+WTA Eastbourne
+Prikaži više (65)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -193,6 +594,7 @@ Engleska - Gana
 Kolumbija - DR Kongo
 Norveška - Francuska
 REZULTATI UŽIVO
+Italija - Hrvatska
 Bosna i Hercegovina - Katar
 Švicarska - Srbija
 Barcelona - Valencia
@@ -202,7 +604,6 @@ Maroko - Haiti
 Južna Afrika - Južna Koreja
 Češka - Meksiko
 Paragvaj - Australija
-Turska - SAD
 LIVESCORE
 Albot - Ajdukovic
 Rocchetti - Boskovic
