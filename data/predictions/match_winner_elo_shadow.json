@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-24T19:34:06.267863+02:00",
+  "generated_at": "2026-06-24T22:24:40.615250+02:00",
   "source_odds_url": "https://raw.githubusercontent.com/jakobm121/Ai/refs/heads/main/data/tennis_odds_today.json",
-  "odds_generated_at": "2026-06-24T19:19:19.834770+02:00",
-  "ratings_generated_at": "2026-06-24T19:26:20.837656+02:00",
+  "odds_generated_at": "2026-06-24T22:09:25.353755+02:00",
+  "ratings_generated_at": "2026-06-24T22:11:06.219789+02:00",
   "model": "match_winner_elo_shadow_v1",
   "settings": {
     "min_player_matches": 10,
@@ -17,7 +17,7 @@
   },
   "summary": {
     "odds_matches": 0,
-    "ratings_players": 5734,
+    "ratings_players": 5739,
     "evaluated_matches": 0,
     "shadow_bets": 0,
     "no_bets": 0
