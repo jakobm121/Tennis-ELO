@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-24T06:21:20.803126+02:00",
+  "generated_at": "2026-06-24T16:53:03.433878+02:00",
   "source_url": "https://www.rezultati.com/tenis/",
   "max_matches": 8,
   "skip_seen_matches": true,
   "matches": [
     {
-      "match": "Aksu Ayla - Lopez Alcaraz Esther",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/aksu-ayla-rDEdDdEe/lopez-alcaraz-esther-nBl79qK9/?mid=GOJ1ZlTG",
+      "match": "Ahn Alyssa - Tabunshchyk Anna",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/ahn-alyssa-fVmUW1wJ/tabunshchyk-anna-K8i3NF33/?mid=UJFJwCgt",
       "date": "",
       "status": "scheduled",
       "tour_level": "",
@@ -14,15 +14,15 @@
       "tournament": "",
       "country": "",
       "surface": "",
-      "player_1": "Aksu Ayla",
-      "player_2": "Lopez Alcaraz Esther",
+      "player_1": "Ahn Alyssa",
+      "player_2": "Tabunshchyk Anna",
       "source": "rezultati_daily_anchor",
-      "source_match_id": "GOJ1ZlTG",
-      "raw_parent_text": "21:30\nAksu A.\nLopez Alcaraz E.\n-\n-"
+      "source_match_id": "UJFJwCgt",
+      "raw_parent_text": ""
     },
     {
-      "match": "Akugue Noha Noma - Sebov Katherine",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/akugue-noha-noma-IyMCDvw8/sebov-katherine-p2l29WXE/?mid=pvWC5Bs1",
+      "match": "Allegre Camille - Arora Anya",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/allegre-camille-6ky32SLs/arora-anya-4UjwzmV7/?mid=vezAJ88O",
       "date": "",
       "status": "scheduled",
       "tour_level": "",
@@ -30,15 +30,15 @@
       "tournament": "",
       "country": "",
       "surface": "",
-      "player_1": "Akugue Noha Noma",
-      "player_2": "Sebov Katherine",
-      "source": "rezultati_daily_click",
-      "source_match_id": "pvWC5Bs1",
-      "raw_parent_text": "12:00\nSebov K.\nNoha Akugue N.\n-\n-"
+      "player_1": "Allegre Camille",
+      "player_2": "Arora Anya",
+      "source": "rezultati_daily_anchor",
+      "source_match_id": "vezAJ88O",
+      "raw_parent_text": ""
     },
     {
-      "match": "Al Azmeh Taym - Sickenberger Tom",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/al-azmeh-taym-MDmSiU1i/sickenberger-tom-zavwHEmF/?mid=8ta0Wi4N",
+      "match": "Allegre Olivia - Lopez Paola",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/allegre-olivia-QasuK3uC/lopez-paola-2Hj6RLOI/?mid=618bjkwn",
       "date": "",
       "status": "scheduled",
       "tour_level": "",
@@ -46,15 +46,15 @@
       "tournament": "",
       "country": "",
       "surface": "",
-      "player_1": "Al Azmeh Taym",
-      "player_2": "Sickenberger Tom",
+      "player_1": "Allegre Olivia",
+      "player_2": "Lopez Paola",
       "source": "rezultati_daily_anchor",
-      "source_match_id": "8ta0Wi4N",
-      "raw_parent_text": "09:00\nSKR\nAl Azmeh T.\nSickenberger T.\n-\n-"
+      "source_match_id": "618bjkwn",
+      "raw_parent_text": ""
     },
     {
-      "match": "Alcala Gurri Max - Gueymard Wayenburg Sascha",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/alcala-gurri-max-pISmOkA6/gueymard-wayenburg-sascha-OdbfkgxD/?mid=rszQuqKU",
+      "match": "An Liuyan - Wang Jiayi",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/an-liuyan-dG5VSlzp/wang-jiayi-8lEBU6H0/?mid=C4Kb3y1T",
       "date": "",
       "status": "scheduled",
       "tour_level": "",
@@ -62,15 +62,15 @@
       "tournament": "",
       "country": "",
       "surface": "",
-      "player_1": "Alcala Gurri Max",
-      "player_2": "Gueymard Wayenburg Sascha",
+      "player_1": "An Liuyan",
+      "player_2": "Wang Jiayi",
       "source": "rezultati_daily_anchor",
-      "source_match_id": "rszQuqKU",
-      "raw_parent_text": "11:30\nGueymard Wayenburg S.\nAlcala Gurri M.\n-\n-"
+      "source_match_id": "C4Kb3y1T",
+      "raw_parent_text": ""
     },
     {
-      "match": "Alexandrova Ekaterina - Andreeva Mirra",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/alexandrova-ekaterina-dzbgeEFF/andreeva-mirra-lI6fOOat/?mid=4rRJTvyK",
+      "match": "Anastasiya Konstantinovna Soboleva - Podlinska Marcelina",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/anastasiya-konstantinovna-soboleva-4AGU3dN1/podlinska-marcelina-lh66YaOh/?mid=S8nekihC",
       "date": "",
       "status": "scheduled",
       "tour_level": "",
@@ -78,15 +78,15 @@
       "tournament": "",
       "country": "",
       "surface": "",
-      "player_1": "Alexandrova Ekaterina",
-      "player_2": "Andreeva Mirra",
+      "player_1": "Anastasiya Konstantinovna Soboleva",
+      "player_2": "Podlinska Marcelina",
       "source": "rezultati_daily_anchor",
-      "source_match_id": "4rRJTvyK",
-      "raw_parent_text": "11:00\nAlexandrova E.\nAndreeva M.\n-\n-"
+      "source_match_id": "S8nekihC",
+      "raw_parent_text": ""
     },
     {
-      "match": "Alhogbani Anmar Faleh - Sengul Bora",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/alhogbani-anmar-faleh-dEdGNP6F/sengul-bora-6a7UoSFK/?mid=Ag1he42C",
+      "match": "Anavatan Melih - Tepmahc Nicolas",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/anavatan-melih-zidhmTA9/tepmahc-nicolas-I17Wo6gj/?mid=IJ40grXO",
       "date": "",
       "status": "scheduled",
       "tour_level": "",
@@ -94,15 +94,15 @@
       "tournament": "",
       "country": "",
       "surface": "",
-      "player_1": "Alhogbani Anmar Faleh",
-      "player_2": "Sengul Bora",
+      "player_1": "Anavatan Melih",
+      "player_2": "Tepmahc Nicolas",
       "source": "rezultati_daily_anchor",
-      "source_match_id": "Ag1he42C",
-      "raw_parent_text": "10:30\nSKR\nAlhogbani A. F.\nSengul B.\n-\n-"
+      "source_match_id": "IJ40grXO",
+      "raw_parent_text": ""
     },
     {
-      "match": "Altmaier Daniel - Bergs Zizou",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/altmaier-daniel-IPR8h9gM/bergs-zizou-SbeTx1o8/?mid=jmREdXAa",
+      "match": "Andaloro Fabrizio - Silva Joao Dinis",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/andaloro-fabrizio-GjnmeDpe/silva-joao-dinis-pKOdmxhi/?mid=M96Utx8U",
       "date": "",
       "status": "scheduled",
       "tour_level": "",
@@ -110,15 +110,15 @@
       "tournament": "",
       "country": "",
       "surface": "",
-      "player_1": "Altmaier Daniel",
-      "player_2": "Bergs Zizou",
+      "player_1": "Andaloro Fabrizio",
+      "player_2": "Silva Joao Dinis",
       "source": "rezultati_daily_anchor",
-      "source_match_id": "jmREdXAa",
-      "raw_parent_text": "15:00\nAltmaier D.\nBergs Z.\n-\n-"
+      "source_match_id": "M96Utx8U",
+      "raw_parent_text": ""
     },
     {
-      "match": "Alves Carolina - Capurro Taborda Martina",
-      "match_url": "https://www.rezultati.com/utakmica/tenis/alves-carolina-vJWWbpH8/capurro-taborda-martina-dE1ru1Ek/?mid=fFUpjsO8",
+      "match": "Andrea Obradovic - Tepic Nina",
+      "match_url": "https://www.rezultati.com/utakmica/tenis/andrea-obradovic-bFv9w3DR/tepic-nina-Eqtvi6Uh/?mid=AJ8vzqOs",
       "date": "",
       "status": "scheduled",
       "tour_level": "",
@@ -126,11 +126,11 @@
       "tournament": "",
       "country": "",
       "surface": "",
-      "player_1": "Alves Carolina",
-      "player_2": "Capurro Taborda Martina",
+      "player_1": "Andrea Obradovic",
+      "player_2": "Tepic Nina",
       "source": "rezultati_daily_anchor",
-      "source_match_id": "fFUpjsO8",
-      "raw_parent_text": "09:30\nAlves C.\nCapurro Taborda M.\n-\n-"
+      "source_match_id": "AJ8vzqOs",
+      "raw_parent_text": ""
     }
   ]
 }
