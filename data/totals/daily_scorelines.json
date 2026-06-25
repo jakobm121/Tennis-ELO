@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-25T22:14:54.835544+02:00",
+  "generated_at": "2026-06-25T22:36:14.621718+02:00",
   "source_url": "https://www.rezultati.com/tenis/",
   "counts": {
-    "daily_scorelines": 255
+    "daily_scorelines": 256
   },
   "matches": [
     {
@@ -13989,6 +13989,58 @@
       "p1_total_games_won": 12,
       "p2_total_games_won": 4,
       "game_margin_p1": 8,
+      "total_sets": 2,
+      "straight_sets": true,
+      "deciding_set": false,
+      "had_tiebreak": false,
+      "tiebreak_count": 0
+    },
+    {
+      "match_id": "",
+      "match_url": "",
+      "source": "rezultati_daily_results_text_fallback",
+      "date": "2026-06-25",
+      "player_1": "Bonardi B.",
+      "player_2": "Ansari C.",
+      "match": "Bonardi B. - Ansari C.",
+      "winner": "Ansari C.",
+      "loser": "Bonardi B.",
+      "sets_1": 0,
+      "sets_2": 2,
+      "final_score": "0-2",
+      "set_scores": [
+        {
+          "set_number": 1,
+          "p1_games": 1,
+          "p2_games": 6,
+          "tiebreak": false
+        },
+        {
+          "set_number": 2,
+          "p1_games": 0,
+          "p2_games": 6,
+          "tiebreak": false
+        }
+      ],
+      "completed": true,
+      "retired": false,
+      "walkover": false,
+      "raw_parent_text": "Kraj\nBonardi B.\nAnsari C.\n0\n2\n1\n6\n0\n6",
+      "raw_header_text": "W50 Palma del Rio (Španjolska), tvrda podloga\nITF - ŽENSKI SINGL:",
+      "tournament": "W50 Palma del Rio (Španjolska), tvrda podloga",
+      "tour_level": "itf",
+      "gender": "",
+      "surface": "hard",
+      "indoor": null,
+      "best_of": 3,
+      "is_grand_slam": false,
+      "first_set_score": "1-6",
+      "first_set_games": 7,
+      "first_set_tiebreak": false,
+      "total_games": 13,
+      "p1_total_games_won": 1,
+      "p2_total_games_won": 12,
+      "game_margin_p1": -11,
       "total_sets": 2,
       "straight_sets": true,
       "deciding_set": false,
