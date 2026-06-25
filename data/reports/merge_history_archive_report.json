@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T22:25:59.245476+02:00",
+  "generated_at": "2026-06-26T00:44:29.339329+02:00",
   "current_raw_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/raw/flashscore_history_raw.json",
   "archive_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/raw/flashscore_history_archive.json",
   "overwrite_current_with_archive": true,
@@ -8,12 +8,12 @@
     "archive_pages_key": "pages"
   },
   "counts": {
-    "archive_pages_before": 2632,
+    "archive_pages_before": 2664,
     "current_pages": 32,
-    "merged_pages": 2664,
-    "archive_rows_before": 108733,
-    "current_rows": 998,
-    "merged_rows": 109731,
-    "unique_row_keys": 109731
+    "merged_pages": 2696,
+    "archive_rows_before": 109731,
+    "current_rows": 1368,
+    "merged_rows": 111099,
+    "unique_row_keys": 111099
   }
 }
