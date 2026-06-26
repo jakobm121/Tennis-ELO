@@ -35,6 +35,15 @@ Samuel T.
 5
 6
 2
+Kraj
+Draper J.
+Humbert U.
+0
+2
+5
+7
+3
+6
 Mallorca (Španjolska), trava
 ATP - SINGL: 
 Ždrijeb
@@ -46,6 +55,17 @@ Quinn E.
 1
 6
 2
+6
+Kraj
+Marozsan F.
+Davidovich Fokina A.
+1
+2
+7
+5
+2
+6
+4
 6
 Bad Homburg (Njemačka), trava
 WTA - SINGL: 
@@ -266,6 +286,19 @@ Zanellato N.
 6
 4
 Kraj
+Andrade da Silva L.
+Seyboth Wild T.
+0
+2
+6
+3
+7
+7
+6
+6
+7
+8
+Kraj
 (predano)
 Rodriguez Taverna S.
 La Serna J. M.
@@ -274,6 +307,15 @@ La Serna J. M.
 2
 6
 0
+1
+Kraj
+Hardt N.
+Leite W.
+2
+0
+6
+3
+6
 1
 Plovdiv (Bugarska), zemlja
 CHALLENGER - MUŠKI SINGL: 
@@ -287,6 +329,17 @@ Montes-De La Torre I.
 6
 2
 6
+Kraj
+Kopp S.
+Nesterov P.
+2
+1
+6
+2
+3
+6
+6
+4
 Targu Mures (Rumunjska), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -327,6 +380,37 @@ Rodriguez C.
 Urrea A.
 Monzon I.
 Villalon N.
+-
+-
+Kraj
+Loureiro J. V. C.
+Rodrigues N.
+Braga B.
+Braga V.
+2
+0
+7
+7
+6
+0
+6
+3
+Kraj
+Rodriguez C.
+Urrea A.
+Bini V.
+de Camargo Silva A.
+2
+0
+6
+3
+6
+2
+Otkazano
+Casanova H.
+Rodriguez Taverna S.
+Tosetto R.
+Zanellato N.
 -
 -
 Plovdiv (Bugarska), zemlja
@@ -666,6 +750,17 @@ Guttau N.
 4
 6
 1
+Kraj
+Wazny A.
+Filar K.
+2
+0
+7
+8
+6
+6
+6
+3
 M15 Slovenska Bistrica (Slovenija), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -766,6 +861,15 @@ Perez Contri S.
 3
 6
 3
+Kraj
+Callejon H. S.
+Inchauspe P.
+0
+2
+5
+7
+1
+6
 M25 Brussels (Belgija), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -792,6 +896,26 @@ Dietrich D.
 6
 1
 2
+Kraj
+Rehberg M. H.
+Pieri S.
+2
+1
+6
+2
+3
+6
+6
+1
+Kraj
+Huens H.
+Wallin O.
+0
+2
+4
+6
+2
+6
 M25 Porto (Portugal), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -1392,6 +1516,63 @@ Kuczer D.
 3
 7
 5
+W50 Palma del Rio (Španjolska), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Micic E.
+Ansari C.
+2
+1
+6
+3
+5
+7
+6
+2
+Kraj
+Tian F.
+Hesse A.
+1
+2
+2
+6
+7
+5
+2
+6
+Kraj
+Vedder E.
+Shi H.
+2
+0
+7
+9
+6
+7
+6
+4
+M15 Alkmaar (Nizozemska), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Walkover
+De Jager J.
+Lootsma N.
+Gustafsson F.
+Penzlin J.
+-
+-
+Kraj
+Karthik P.
+Lakshmanan A.
+Forger A.
+Khoeblal E.
+0
+2
+1
+6
+2
+6
 M15 Bergamo (Italija), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -1558,6 +1739,17 @@ Rivera L.
 4
 7
 5
+Kraj
+Guttau N.
+Larwig N.
+Molder M.
+Tamm K.
+0
+2
+4
+6
+3
+6
 M15 Slovenska Bistrica (Slovenija), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -1618,6 +1810,22 @@ Hsieh C.
 7
 5
 10
+M25 Bakio (Španjolska), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Arcila A.
+Rojas C.
+Hignett L.
+Howse M.
+2
+1
+3
+6
+6
+3
+10
+7
 M25 Brussels (Belgija), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -1634,6 +1842,19 @@ Masabayashi T.
 3
 11
 9
+Kraj
+Wehnelt K.
+Zeuch T.
+Alujas R.
+Freire Da Silva A.
+2
+1
+4
+6
+6
+3
+10
+3
 M25 Porto (Portugal), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -1684,6 +1905,21 @@ Villoslada E.
 6
 2
 6
+Kraj
+Lalami Laaroussi Y.
+Nikles J.
+Ferrari F.
+Valle F.
+2
+1
+6
+2
+7
+7
+6
+2
+11
+9
 M25 Zagreb (Hrvatska), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -1707,6 +1943,20 @@ Huseinovic A.
 Ivanovski K.
 -
 -
+W15 Alkmaar (Nizozemska), zemlja
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Coppez K.
+Van Impe A.
+Anson Sanchez C.
+Ros Parres L.
+2
+0
+6
+3
+6
+4
 W15 Asuncion (Paragvaj), zemlja
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -2015,6 +2265,17 @@ Lewis M.
 3
 6
 4
+Kraj
+Payne B.
+Shumate S.
+Broadus S.
+Collins K.
+0
+2
+3
+6
+2
+6
 W35 Taipei 2 (Tajvan), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -2217,34 +2478,34 @@ LNZ Cherkasy - Hajduk
 Hrvatska - Gana
 Celje - Hajduk
 Grosuplje - Dinamo
-Norveška - Francuska
-Senegal - Irak
 Bravo - Rijeka
 Panama - Engleska
 Kolumbija - Portugal
 DR Kongo - Uzbekistan
+Jordan - Argentina
+Alžir - Austrija
 REZULTATI UŽIVO
 SAD - Bosna i Hercegovina
 Švicarska - Srbija
 Cipar - Hrvatska
+Srbija - Bosna i Hercegovina
+Hrvatska - Izrael
 Južna Afrika - Kanada
 Brazil - Japan
 Nizozemska - Maroko
 Portugal - Crna Gora
 Bosna i Hercegovina - Turska
-Litva U20 Ž - Hrvatska U20 Ž
-Srbija U20 Ž - Island U20 Ž
 LIVESCORE
-Srbija - Kuba
 Francuska - Srbija
 Srbija - SAD
 Krueger - Vekić
 Čilić - Medvedev
 Wu - Đoković
-Brazil - Italija
 Urugvaj - Španjolska
 Zelenortski Otoci - Saudijska Arabija
 Novi Zeland - Belgija
+Egipat - Iran
+Bugarska - Kanada
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
