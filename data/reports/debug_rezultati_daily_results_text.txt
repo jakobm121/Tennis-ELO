@@ -19,6 +19,22 @@ TEČAJEVI
 GOTOVO
 RASPORED
 26/06 PE
+Eastbourne (Ujedinjeno Kraljevstvo), trava
+ATP - SINGL: 
+Ždrijeb
+Kraj
+Bergs Z.
+Samuel T.
+2
+1
+4
+6
+7
+7
+6
+5
+6
+2
 Mallorca (Španjolska), trava
 ATP - SINGL: 
 Ždrijeb
@@ -43,17 +59,15 @@ Osaka N.
 6
 3
 6
-Prekinuto
+Kraj
 Ruse G.
 Muchova K.
 0
-1
+2
 4
 6
-0
-0
-0
-0
+4
+6
 Eastbourne (Ujedinjeno Kraljevstvo), trava
 WTA - SINGL: 
 Ždrijeb
@@ -75,6 +89,22 @@ Keys M.
 1
 1
 6
+Eastbourne (Ujedinjeno Kraljevstvo), trava
+ATP - PAROVI: 
+Ždrijeb
+Kraj
+Nys H.
+Roger-Vasselin E.
+Andreozzi G.
+Guinard M.
+2
+1
+6
+3
+4
+6
+10
+8
 Mallorca (Španjolska), trava
 ATP - PAROVI: 
 Ždrijeb
@@ -152,9 +182,71 @@ Lumsden M.
 2
 6
 4
+Hurlingham (Ujedinjeno Kraljevstvo), trava
+EGZIBICIJA - MUŠKARCI: 
+Kraj
+Paul T.
+Đoković N.
+1
+2
+3
+6
+7
+8
+6
+6
+5
+7
+Kraj
+Darderi L.
+Tien L.
+0
+2
+2
+6
+4
+6
+Otkazano
+Lehecka J.
+Tien L.
+-
+-
 Piracicaba (Brazil), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
+Kraj
+Aboian V.
+Casanova H.
+2
+1
+6
+2
+4
+6
+6
+4
+Kraj
+Saraiva Dos Santos P. A.
+Pucinelli de Almeida M.
+1
+2
+3
+6
+6
+4
+2
+6
+Kraj
+Soto M.
+Villanueva G.
+1
+2
+6
+4
+3
+6
+5
+7
 Kraj
 Torres J. B.
 Aguilar Cardozo J.
@@ -164,6 +256,25 @@ Aguilar Cardozo J.
 6
 4
 6
+Kraj
+Kicker N.
+Zanellato N.
+2
+0
+7
+5
+6
+4
+Kraj
+(predano)
+Rodriguez Taverna S.
+La Serna J. M.
+0
+1
+2
+6
+0
+1
 Plovdiv (Bugarska), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -190,6 +301,17 @@ Nedic A.
 5
 7
 5
+Kraj
+Nagal S.
+Cretu C.
+2
+1
+6
+3
+4
+6
+6
+1
 Piracicaba (Brazil), zemlja
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -535,6 +657,15 @@ Rivera L.
 2
 6
 4
+Kraj
+Szymkowiak K.
+Guttau N.
+2
+0
+6
+4
+6
+1
 M15 Slovenska Bistrica (Slovenija), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -569,6 +700,15 @@ Mikovic N.
 6
 6
 3
+Kraj
+Jeran A.
+Artnak B.
+0
+2
+0
+6
+1
+6
 M15 Wuning 3 (Kina), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -612,6 +752,20 @@ Purcell M.
 6
 1
 6
+M25 Bakio (Španjolska), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Weightman O.
+Perez Contri S.
+2
+1
+2
+6
+6
+3
+6
+3
 M25 Brussels (Belgija), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -628,6 +782,16 @@ Zeuch T.
 7
 7
 5
+Kraj
+(predano)
+Bidan F.
+Dietrich D.
+0
+1
+0
+6
+1
+2
 M25 Porto (Portugal), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -693,6 +857,28 @@ Cuenin S.
 7
 2
 6
+Kraj
+Giunta M.
+Rottoli L.
+1
+2
+6
+2
+4
+6
+5
+7
+Kraj
+Bennani K.
+Nikles J.
+2
+0
+7
+7
+6
+2
+6
+2
 M25 Zagreb (Hrvatska), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -1057,12 +1243,41 @@ W35 Rome, GA (SAD), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
 Kraj
+Arseneault A.
+Chan J.
+0
+2
+5
+7
+0
+6
+Kraj
 (predano)
 Brengle M.
 Honer A.
 0
 0
 5
+6
+Kraj
+Koike E.
+Akli A.
+0
+2
+4
+6
+2
+6
+Kraj
+Yamalapalli S.
+Broadus S.
+2
+0
+6
+4
+7
+8
+6
 6
 W35 Taipei 2 (Tajvan), tvrda podloga
 ITF - ŽENSKI SINGL: 
@@ -1168,6 +1383,15 @@ Palicova B.
 5
 6
 4
+Kraj
+Feistel G.
+Kuczer D.
+2
+0
+6
+3
+7
+5
 M15 Bergamo (Italija), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -1307,6 +1531,33 @@ Becroft I.
 6
 2
 6
+Kraj
+Eriksson Ziverts J.
+Photiadis P.
+Bouchelaghem C.
+Gales R.
+1
+2
+2
+6
+6
+2
+5
+10
+M15 Rzeszow (Poljska), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Homola P.
+Hrazdil J.
+Hoeyeraal H.
+Rivera L.
+2
+0
+6
+4
+7
+5
 M15 Slovenska Bistrica (Slovenija), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -1325,6 +1576,19 @@ Ratti L.
 2
 6
 10
+Kraj
+Homberg M.
+Slavic N.
+Battiston A.
+Kovac T.
+2
+1
+6
+3
+3
+6
+10
+4
 M15 Wuning 3 (Kina), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -1380,6 +1644,46 @@ Domingues J.
 Torres T.
 -
 -
+Kraj
+Andaloro F.
+Moroni F.
+Fradkin J.
+McKennon M.
+2
+0
+6
+3
+7
+5
+Kraj
+Ostapenkov D.
+Pereira T.
+Hands T.
+Summers M.
+1
+2
+1
+6
+7
+7
+6
+4
+4
+10
+M25 Tanger (Maroko), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Perfetti N.
+Rottoli L.
+Chambonniere M.
+Villoslada E.
+0
+2
+3
+6
+2
+6
 M25 Zagreb (Hrvatska), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -1396,6 +1700,13 @@ Vrba J.
 3
 7
 10
+Walkover
+Neos E.
+Tsitsipas Pe.
+Huseinovic A.
+Ivanovski K.
+-
+-
 W15 Asuncion (Paragvaj), zemlja
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -1690,6 +2001,20 @@ Shin J.
 2
 6
 1
+W35 Rome, GA (SAD), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Daniel J.
+Fairclough L.
+Allen K.
+Lewis M.
+2
+0
+6
+3
+6
+4
 W35 Taipei 2 (Tajvan), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -1746,6 +2071,17 @@ Zelnickova R.
 6
 4
 6
+Kraj
+Kucmova A.
+Laboutkova A.
+Sakellaridi S.
+Zelnickova R.
+2
+0
+6
+0
+6
+3
 W50 Gdansk (Poljska), zemlja
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -1877,7 +2213,6 @@ World Matchplay
 MLB
 EuroBasket U20 2026
 NOGOMET UŽIVO
-Radomlje - Dinamo
 LNZ Cherkasy - Hajduk
 Hrvatska - Gana
 Celje - Hajduk
@@ -1887,6 +2222,7 @@ Senegal - Irak
 Bravo - Rijeka
 Panama - Engleska
 Kolumbija - Portugal
+DR Kongo - Uzbekistan
 REZULTATI UŽIVO
 SAD - Bosna i Hercegovina
 Švicarska - Srbija
@@ -1905,10 +2241,10 @@ Srbija - SAD
 Krueger - Vekić
 Čilić - Medvedev
 Wu - Đoković
-Borac Banja Luka - IMT Novi Beograd
 Brazil - Italija
 Urugvaj - Španjolska
 Zelenortski Otoci - Saudijska Arabija
+Novi Zeland - Belgija
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
