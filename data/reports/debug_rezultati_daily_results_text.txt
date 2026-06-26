@@ -36,9 +36,282 @@ Monzon I.
 Villalon N.
 -
 -
+M15 Alkmaar (Nizozemska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+De Jager J.
+Jong S.
+2
+0
+6
+3
+6
+3
+Kraj
+Majdandzic M.
+Tabata R.
+2
+0
+6
+4
+6
+1
+M15 Kamen (Njemačka), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Bozemoj B.
+Salazar D.
+0
+2
+4
+6
+2
+6
+Kraj
+(predano)
+Sanchez Martinez B.
+Filip J.
+1
+0
+6
+4
+0
+0
+M15 Kayseri 6 (Turska), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Azoidis D.
+Chopra K.
+0
+2
+1
+6
+4
+6
+Kraj
+Bittoun C.
+Yilmaz K.
+2
+0
+6
+3
+6
+1
+Kraj
+Sancilio R.
+Herrmann T.
+0
+2
+3
+6
+1
+6
+Kraj
+Sengul B.
+Senthil Kumar R. P.
+0
+2
+4
+6
+3
+6
+M15 Slovenska Bistrica (Slovenija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Ratti L.
+Dullinger V.
+2
+0
+6
+2
+6
+2
+M15 Wuning 3 (Kina), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Lee K.
+Ye C.
+2
+1
+3
+6
+6
+3
+6
+1
+Kraj
+Meng F.
+Han X.
+0
+2
+6
+3
+7
+7
+1
+6
+Kraj
+Dellavedova M.
+Kawahashi Y.
+2
+0
+6
+2
+6
+2
+Kraj
+Kim D. J.
+Purcell M.
+0
+2
+4
+6
+1
+6
+M25 Zagreb (Hrvatska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Prihodko O.
+Sakellaridis D.
+2
+0
+6
+4
+6
+3
+W15 Alkmaar (Nizozemska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Tran L.
+Vaissaud D.
+2
+0
+6
+4
+7
+8
+6
+6
+Kraj
+Van Impe A.
+Maquet M.
+0
+2
+2
+6
+1
+6
+W15 Galati (Rumunjska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Balan S. V.
+Korpanec Davies A.
+2
+0
+6
+2
+6
+1
+Kraj
+Fetecau I.
+Popa G. S.
+0
+2
+2
+6
+4
+6
+Kraj
+Luciano L.
+Safta A.
+0
+2
+4
+6
+4
+6
+W15 Kamen (Njemačka), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Daems J.
+Vasilescu A.
+2
+0
+7
+5
+6
+4
+Kraj
+Ivanov V.
+Guth M.
+2
+0
+7
+5
+7
+5
+Kraj
+Pohle V.
+Evans K.
+2
+0
+6
+0
+6
+2
+W15 Kursumlijska Banja 6 (Srbija), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Horvit M.
+Radovanovic N.
+0
+2
+2
+6
+0
+6
+Kraj
+Senic N.
+Zaytseva K.
+0
+2
+4
+6
+4
+6
+Kraj
+Stamatova J.
+Stankovic A.
+0
+2
+2
+6
+1
+6
 W15 Maanshan 3 (Kina), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
+Kraj
+Desvignes E. M.
+Snigireva A.
+2
+0
+7
+5
+7
+7
+6
+3
 Kraj
 Laskevich E.
 Wang J.
@@ -48,6 +321,26 @@ Wang J.
 6
 6
 1
+Kraj
+Guo M.
+Lu J-J.
+2
+0
+6
+2
+7
+5
+Kraj
+Wang J.
+Zhu C.
+2
+0
+7
+7
+6
+3
+6
+4
 W15 Sapporo 2 (Japan), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -87,6 +380,52 @@ Noguchi S.
 6
 4
 6
+W35 Taipei 2 (Tajvan), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Tsao C. Y.
+Lee G. S.
+1
+2
+4
+6
+6
+4
+0
+6
+Kraj
+Sato H.
+Das A.
+2
+0
+6
+4
+6
+1
+Prekinuto
+Nugroho P. M.
+Back D.
+0
+0
+5
+4
+30
+15
+M15 Bergamo (Italija), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Bilardo J.
+Ingarao A.
+Denitto J.
+Vedovelli S.
+2
+0
+6
+3
+6
+2
 M15 Claremont (SAD), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -108,6 +447,51 @@ Cox N.
 6
 4
 6
+M15 Wuning 3 (Kina), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Charlton J.
+Ferguson C.
+Purcell M.
+Zhao Z.
+0
+2
+4
+6
+4
+6
+Kraj
+Jeong Y.
+Kim D. J.
+Alcantara F. C.
+Hsieh C.
+1
+2
+6
+4
+6
+2
+7
+7
+5
+10
+M25 Brussels (Belgija), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Ifi N.
+Stanke C.
+Inui Y.
+Masabayashi T.
+2
+1
+4
+6
+6
+3
+11
+9
 W15 Asuncion (Paragvaj), zemlja
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -173,6 +557,48 @@ Tabunshchyk A.
 5
 6
 3
+W15 Kursumlijska Banja 6 (Srbija), zemlja
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Gobbi Monllau A. V.
+Kozak V.
+Goina P. G.
+Hejtmanek A.
+0
+2
+3
+6
+3
+6
+W15 Maanshan 3 (Kina), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+(predano)
+Wang J.
+Yashina E.
+Li Y.
+Luo X.
+0
+1
+1
+6
+0
+1
+Kraj
+Wan I W.
+Wang Y.
+Guo M.
+Zhu C.
+1
+2
+6
+3
+2
+6
+8
+10
 W15 Sapporo 2 (Japan), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -211,6 +637,30 @@ Negishi Y.
 2
 7
 5
+Kraj
+Aikawa M.
+Yodpetch K.
+Noguchi S.
+Sawashiro K.
+2
+1
+6
+1
+3
+6
+10
+2
+Kraj
+Im H.
+Kim Eunchae
+Leong S. L. X.
+Shin J.
+2
+0
+6
+2
+6
+1
 W50 Palma del Rio (Španjolska), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -261,7 +711,7 @@ ATP Eastbourne
 ATP Mallorca
 WTA Bad Homburg
 WTA Eastbourne
-Prikaži više (68)
+Prikaži više (69)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -289,7 +739,7 @@ Prikaži više
 Tenis livescore na Rezultatima nudi teniske rezultate uživo za preko 5000 teniskih turnira diljem svijeta, uključujući Australian Open, French Open, Wimbledon, US Open i mnoge druge. Pratite najnovije rezultate iz tenisa na Rezultatima, gdje možete pronaći detaljnu statistiku (asevi, dvostruke pogreške, postotak servisa, osvojeni servisi, spašene break lopte, neprisiljene pogreške, itd.), usporedbu koeficijenata, međuosboni omjer, vijesti, video sažetke ili tijek meča poen po poen. Pronađite sve današnje rezultate i vijesti iz tenisa na Rezultatima, uključujući ATP rezultate, WTA rezultate, ATP poredak, ATP kalendar 2026, WTA kalendar 2026, ili profile igrača (npr. Jannik Sinner, Carlos Alcaraz, Novak Đoković, Donna Vekić). Usluga tenis livescore se automatski ažurira, tako da nema potrebe da osvježavate stranicu.
 
 Wimbledon 2026 rezultati uživo na Rezultati.com stranici! Wimbledon uživo, uz rezultate i ždrijeb.
-
+29.06. Mochizuki Shintaro - Basing Max, Collignon Raphael - Fils Arthur, Borges Nuno - Boyer Tristan, Michelsen Alex - Fearnley Jacob, Medjedovic Hamad - Ofner Sebastian, Kwon Soonwoo - Landaluce Martin, Humbert Ugo - Bergs Zizou, Gaston Hugo - Tsitsipas Stefanos, De Jong Jesper - Hijikata Rinky, Kovacevic Aleksandar - Van De Zandschulp Botic, Bellucci Mattia - Svajda Zachary, Davidovich Fokina Alejandro - Cerundolo Juan Manuel, Hanfmann Yannick - Mpetshi Perricard Giovanni, Arnaldi Matteo - Halys Quentin, Bautista-Agut Roberto - Fonseca Joao, Khachanov Karen - Harris Billy, Griekspoor Tallon - Duckworth James, Majchrzak Kamil - Tabilo Alejandro, Blockx Alexander - Zverev Alexander, Jodar Rafael - Gill Felix
 WTA Wimbledon 2026 rezultati uživo na Rezultati.com stranici! WTA Wimbledon uživo, uz rezultate i ždrijeb.
 
 SP 2026
@@ -341,12 +791,12 @@ Paul - Đoković
 Srbija - Kuba
 Francuska - Srbija
 Srbija - SAD
+Krueger - Vekić
 Borac Banja Luka - IMT Novi Beograd
 Brazil - Italija
 Urugvaj - Španjolska
 Zelenortski Otoci - Saudijska Arabija
 Novi Zeland - Belgija
-Egipat - Iran
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
