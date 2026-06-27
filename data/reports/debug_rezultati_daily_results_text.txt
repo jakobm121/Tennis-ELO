@@ -51,9 +51,43 @@ Urrea A.
 6
 2
 6
+M15 Kamen (Njemačka), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Krutykh O.
+Marysko V.
+2
+0
+6
+3
+7
+5
+Kraj
+(predano)
+Salazar D.
+Sanchez Martinez B.
+0
+1
+6
+1
+7
+7
+0
+3
 M15 Wuning 3 (Kina), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
+Kraj
+(predano)
+Dellavedova M.
+Lee K.
+0
+1
+4
+6
+1
+0
 Kraj
 (predano)
 Purcell M.
@@ -64,6 +98,51 @@ Han X.
 1
 0
 0
+W15 Galati (Rumunjska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Popa G. S.
+Safta A.
+2
+0
+7
+5
+6
+0
+W15 Kamen (Njemačka), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Pohle V.
+Daems J.
+0
+2
+1
+6
+1
+6
+W15 Kayseri 6 (Turska), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Hossam Salah J.
+Soke D.
+0
+2
+2
+6
+1
+6
+Kraj
+Subasic A.
+Lazarenko K.
+2
+0
+6
+4
+6
+1
 W15 Maanshan 3 (Kina), tvrda podloga (dvorana)
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -77,6 +156,39 @@ Guo M.
 6
 2
 4
+Kraj
+(predano)
+Laskevich E.
+Desvignes E. M.
+1
+0
+6
+0
+4
+0
+W15 Sapporo 2 (Japan), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Kuramochi M.
+Noguchi S.
+2
+0
+6
+4
+6
+0
+Kraj
+Miyamoto A.
+Jang G.
+2
+1
+4
+6
+6
+0
+7
+5
 W35 Taipei 2 (Tajvan), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -88,6 +200,28 @@ Nugroho P. M.
 3
 6
 4
+6
+Kraj
+(predano)
+Lee G. S.
+Hosogi S.
+0
+1
+4
+6
+2
+3
+W50 Gdansk (Poljska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Hodzic M.
+Sobolieva A.
+0
+2
+1
+6
+0
 6
 M15 Claremont (SAD), tvrda podloga
 ITF - MUŠKI PAROVI: 
@@ -105,6 +239,66 @@ Hashimoto H.
 2
 7
 7
+M15 Wuning 3 (Kina), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Purcell M.
+Zhao Z.
+Alcantara F. C.
+Hsieh C.
+2
+1
+6
+6
+7
+8
+6
+3
+10
+5
+M25 Brussels (Belgija), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Wehnelt K.
+Zeuch T.
+Ifi N.
+Stanke C.
+2
+0
+6
+0
+6
+3
+W15 Asuncion (Paragvaj), zemlja
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Walkover
+Moyano L.
+Romero C.
+Barrera Aguirre I.
+Meabe S.
+-
+-
+W15 Maanshan 3 (Kina), tvrda podloga (dvorana)
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Li Y.
+Luo X.
+Guo M.
+Zhu C.
+1
+2
+7
+7
+6
+2
+1
+6
+4
+10
 W15 Sapporo 2 (Japan), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -121,6 +315,20 @@ Yodpetch K.
 3
 8
 10
+W35 Taipei 2 (Tajvan), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Lee Y.
+Tsao C. Y.
+Kozaki F.
+Mushika Mao
+2
+0
+6
+0
+6
+4
 Reklama
 PRIKVAČENE LIGE
 Australian Open
