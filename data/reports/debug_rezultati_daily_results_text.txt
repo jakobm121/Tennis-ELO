@@ -19,6 +19,18 @@ TEČAJEVI
 GOTOVO
 RASPORED
 27/06 SU
+Eastbourne (Ujedinjeno Kraljevstvo), trava
+ATP - SINGL: 
+Ždrijeb
+Prekinuto
+Bergs Z.
+Humbert U.
+0
+0
+1
+2
+15
+30
 Bad Homburg (Njemačka), trava
 WTA - SINGL: 
 Ždrijeb
@@ -32,6 +44,52 @@ Osaka N.
 1
 1
 0
+Eastbourne (Ujedinjeno Kraljevstvo), trava
+WTA - SINGL: 
+Ždrijeb
+Kraj
+Maria T.
+Keys M.
+0
+2
+5
+7
+4
+6
+Mallorca (Španjolska), trava
+ATP - PAROVI: 
+Ždrijeb
+Kraj
+Goransson A.
+King E.
+Arribage T.
+Olivetti A.
+1
+2
+6
+6
+7
+8
+6
+3
+9
+11
+Bad Homburg (Njemačka), trava
+WTA - PAROVI: 
+Ždrijeb
+Kraj
+Sutjiadi A.
+Zvonareva V.
+Perez E.
+Schuurs D.
+2
+1
+6
+1
+4
+6
+10
+5
 Piracicaba (Brazil), zemlja
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -64,6 +122,38 @@ Urrea A.
 6
 2
 6
+Plovdiv (Bugarska), zemlja
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Fancutt T. J.
+Rai A.
+Jans J.
+Visker N.
+0
+2
+4
+6
+5
+7
+Targu Mures (Rumunjska), zemlja
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Loof T.
+Uesugi K.
+Latinovic S.
+Vrbensky M.
+2
+1
+2
+6
+7
+7
+6
+0
+10
+6
 M15 Kamen (Njemačka), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -88,6 +178,75 @@ Sanchez Martinez B.
 7
 0
 3
+M15 Kayseri 6 (Turska), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Senthil Kumar R. P.
+Herrmann T.
+2
+0
+6
+4
+6
+2
+Kraj
+Bittoun C.
+Chopra K.
+1
+2
+4
+6
+6
+1
+6
+1
+7
+7
+M15 Kursumlijska Banja 6 (Srbija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+de Marchi A.
+Misasi G.
+2
+0
+7
+7
+6
+1
+6
+1
+Kraj
+Peiro Serrano A.
+Djuric B.
+0
+2
+3
+6
+1
+6
+M15 Monastir 24 (Tunis), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Pascual Ferra R.
+Bertimon C.
+2
+0
+6
+3
+6
+2
+Kraj
+Pokorny L.
+Picard M.
+0
+2
+4
+6
+0
+6
 M15 Wuning 3 (Kina), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -134,9 +293,52 @@ Dietrich D.
 6
 5
 7
+M25 Porto (Portugal), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Rocha F.
+Alkaya M.
+1
+2
+6
+4
+6
+8
+7
+10
+1
+6
+M25 Tanger (Maroko), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Dlimi Y.
+Rottoli L.
+2
+1
+7
+10
+6
+8
+2
+6
+6
+2
 W15 Galati (Rumunjska), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
+Kraj
+Balan S. V.
+Fornasieri C.
+1
+2
+3
+6
+6
+3
+1
+6
 Kraj
 Popa G. S.
 Safta A.
@@ -149,6 +351,15 @@ Safta A.
 W15 Kamen (Njemačka), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
+Kraj
+Ivanov V.
+Voracek E. M.
+2
+0
+6
+3
+6
+3
 Kraj
 Pohle V.
 Daems J.
@@ -179,6 +390,29 @@ Lazarenko K.
 4
 6
 1
+W15 Kursumlijska Banja 6 (Srbija), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Radovanovic N.
+Stankovic A.
+2
+0
+6
+4
+6
+3
+Kraj
+Zaytseva K.
+Popovski D.
+2
+1
+5
+7
+6
+2
+6
+1
 W15 Maanshan 3 (Kina), tvrda podloga (dvorana)
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -202,6 +436,31 @@ Desvignes E. M.
 0
 4
 0
+W15 Monastir 19 (Tunis), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Munzarova L.
+Arifullina A.
+0
+2
+2
+6
+6
+3
+7
+7
+Kraj
+Reguer A.
+Bartel K.
+0
+2
+6
+3
+7
+7
+2
+6
 W15 Sapporo 2 (Japan), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -270,6 +529,22 @@ Feistel G.
 1
 7
 7
+M15 Bergamo (Italija), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Bocchi L.
+De Bernardis A.
+Bilardo J.
+Ingarao A.
+0
+2
+4
+6
+6
+4
+7
+7
 M15 Claremont (SAD), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -286,6 +561,70 @@ Hashimoto H.
 2
 7
 7
+M15 Kamen (Njemačka), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Horak O.
+Pecak S.
+Al-Amin K.
+Ruland L.
+2
+0
+6
+3
+6
+1
+M15 Kayseri 6 (Turska), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Anavatan M.
+Yilmaz K.
+Herrmann T.
+Tepmahc N.
+2
+1
+5
+7
+6
+4
+10
+6
+M15 Monastir 24 (Tunis), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Bouchelaghem C.
+Gales R.
+Beamish N.
+Becroft I.
+1
+2
+6
+7
+7
+9
+6
+2
+8
+10
+M15 Rzeszow (Poljska), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Homola P.
+Hrazdil J.
+Molder M.
+Tamm K.
+1
+2
+7
+5
+5
+7
+8
+10
 M15 Wuning 3 (Kina), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -342,6 +681,62 @@ Barrera Aguirre I.
 Meabe S.
 -
 -
+W15 Galati (Rumunjska), zemlja
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Breaz A.
+Todoni C. N.
+Boyden M.
+Sawant M.
+2
+1
+6
+1
+5
+7
+10
+8
+W15 Kamen (Njemačka), zemlja
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Daems J.
+Firman A.
+Rodero C.
+Zhenikhova S.
+2
+1
+1
+6
+6
+3
+10
+5
+W15 Kayseri 6 (Turska), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Kurt I.
+Subasic A.
+Soke D.
+Turkmen D.
+2
+0
+6
+4
+6
+3
+W15 Kursumlijska Banja 6 (Srbija), zemlja
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Walkover
+Senic N.
+Stankovic A.
+Goina P. G.
+Hejtmanek A.
+-
+-
 W15 Maanshan 3 (Kina), tvrda podloga (dvorana)
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -360,6 +755,20 @@ Zhu C.
 6
 4
 10
+W15 Monastir 19 (Tunis), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Villet M.
+Wildgruber A.
+Feldmane D. D.
+Nozdrachova M.
+2
+0
+6
+3
+6
+2
 W15 Sapporo 2 (Japan), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -390,6 +799,22 @@ Mushika Mao
 0
 6
 4
+W50 Gdansk (Poljska), zemlja
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Kulambayeva Z.
+Toth A. K.
+Falkowska W.
+Garcia-Perez G.
+1
+2
+6
+3
+5
+7
+9
+11
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -426,7 +851,7 @@ ATP Eastbourne
 ATP Mallorca
 WTA Bad Homburg
 WTA Eastbourne
-Prikaži više (69)
+Prikaži više (71)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -496,11 +921,11 @@ SAD - Bosna i Hercegovina
 Cipar - Hrvatska
 Srbija - Bosna i Hercegovina
 Hrvatska - Izrael
+Slovenija U20 - Hrvatska U20
 Južna Afrika - Kanada
 Brazil - Japan
 Njemačka - Paragvaj
 Nizozemska - Maroko
-Portugal - Crna Gora
 LIVESCORE
 Francuska - Srbija
 Srbija - SAD
@@ -531,7 +956,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Gambling Problem? Call 1-800-BETS OFF 21+
+Must be 21+. If you or someone you know has a gambling problem, crisis counselling and referral services can be accessed by calling 1-800-GAMBLER (1-800-426-2537) or by texting ILGAMB to 833234. The 1-800-GAMBLER helpline can be used for multi-jurisdictional advertising.
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
