@@ -19,6 +19,19 @@ TEČAJEVI
 GOTOVO
 RASPORED
 27/06 SU
+Bad Homburg (Njemačka), trava
+WTA - SINGL: 
+Ždrijeb
+Kraj
+(predano)
+Muchova K.
+Osaka N.
+1
+0
+6
+1
+1
+0
 Piracicaba (Brazil), zemlja
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -98,6 +111,29 @@ Han X.
 1
 0
 0
+M25 Brussels (Belgija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Wallin O.
+Rehberg M. H.
+1
+2
+4
+6
+6
+3
+4
+6
+Kraj
+Moeller M.
+Dietrich D.
+0
+2
+2
+6
+5
+7
 W15 Galati (Rumunjska), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -223,6 +259,17 @@ Sobolieva A.
 6
 0
 6
+Kraj
+Ewald W.
+Feistel G.
+0
+2
+1
+6
+6
+1
+7
+7
 M15 Claremont (SAD), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -269,6 +316,20 @@ Stanke C.
 0
 6
 0
+6
+3
+M25 Zagreb (Hrvatska), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Kumstat J.
+Vrba J.
+Neos E.
+Tsitsipas Pe.
+2
+0
+6
+4
 6
 3
 W15 Asuncion (Paragvaj), zemlja
@@ -393,7 +454,7 @@ Prikaži više
 Tenis livescore na Rezultatima nudi teniske rezultate uživo za preko 5000 teniskih turnira diljem svijeta, uključujući Australian Open, French Open, Wimbledon, US Open i mnoge druge. Pratite najnovije rezultate iz tenisa na Rezultatima, gdje možete pronaći detaljnu statistiku (asevi, dvostruke pogreške, postotak servisa, osvojeni servisi, spašene break lopte, neprisiljene pogreške, itd.), usporedbu koeficijenata, međuosboni omjer, vijesti, video sažetke ili tijek meča poen po poen. Pronađite sve današnje rezultate i vijesti iz tenisa na Rezultatima, uključujući ATP rezultate, WTA rezultate, ATP poredak, ATP kalendar 2026, WTA kalendar 2026, ili profile igrača (npr. Jannik Sinner, Carlos Alcaraz, Novak Đoković, Donna Vekić). Usluga tenis livescore se automatski ažurira, tako da nema potrebe da osvježavate stranicu.
 
 Wimbledon 2026 rezultati uživo na Rezultati.com stranici! Wimbledon uživo, uz rezultate i ždrijeb.
-29.06. Collignon Raphael - Fils Arthur, Borges Nuno - Boyer Tristan, Humbert Ugo - Bergs Zizou, Gaston Hugo - Tsitsipas Stefanos, De Jong Jesper - Hijikata Rinky, Bellucci Mattia - Svajda Zachary, Davidovich Fokina Alejandro - Cerundolo Juan Manuel, Hanfmann Yannick - Mpetshi Perricard Giovanni, Arnaldi Matteo - Halys Quentin, Bautista-Agut Roberto - Fonseca Joao, Griekspoor Tallon - Duckworth James, Blockx Alexander - Zverev Alexander, Jodar Rafael - Gill Felix, Auger-Aliassime Felix - Shevchenko Alexander, Dzumhur Damir - Fery Arthur, Čilić Marin - Medvedev Daniil, Jacquet Kyrian - Gaubas Vilius, Fritz Taylor - Draper Jack, Bonzi Benjamin - Diallo Gabriel, De Minaur Alex - Burruchaga Roman Andres
+29.06. Mochizuki Shintaro - Basing Max, Shapovalov Denis - Carreno-Busta Pablo, Kovacevic Aleksandar - Van De Zandschulp Botic, Vukic Aleksandar - Brooksby Jenson, Rublev Andrey - Safiullin Roman, van Assche Luca - Fucsovics Marton, Svrcina Dalibor - Tien Learner, Jodar Rafael - Gill Felix, Nava Emilio - Buse Ignacio, Trungelliti Marco - Damm Martin (2003), Rinderknech Arthur - Tarvet Oliver, Zheng Michael - Norrie Cameron, Muller Alexandre - Paul Tommy, Borges Nuno - Boyer Tristan, Medjedovic Hamad - Ofner Sebastian, Kwon Soonwoo - Landaluce Martin, Gaston Hugo - Tsitsipas Stefanos, Ugo Carabelli Camilo - Merida Aguilar Daniel, Ruud Casper - Hurkacz Hubert, Sinner Jannik - Kecmanovic Miomir
 WTA Wimbledon 2026 rezultati uživo na Rezultati.com stranici! WTA Wimbledon uživo, uz rezultate i ždrijeb.
 
 SP 2026
@@ -443,9 +504,9 @@ Portugal - Crna Gora
 LIVESCORE
 Francuska - Srbija
 Srbija - SAD
-Krueger - Vekić
 Čilić - Medvedev
 Wu - Đoković
+Krueger - Vekić
 Bugarska - Kanada
 Bugarska - Ukrajina
 Slovenija - Italija
@@ -470,7 +531,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Igrajte odgovorno. Gambling Therapy. 18+
+Gambling Problem? Call 1-800-BETS OFF 21+
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
