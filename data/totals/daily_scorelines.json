@@ -1,8 +1,61 @@
 {
-  "generated_at": "2026-06-27T06:14:18.036426+02:00",
+  "generated_at": "2026-06-27T06:41:00.765910+02:00",
   "source_url": "https://www.rezultati.com/tenis/",
   "counts": {
-    "daily_scorelines": 0
+    "daily_scorelines": 1
   },
-  "matches": []
+  "matches": [
+    {
+      "match_id": "",
+      "match_url": "",
+      "source": "rezultati_daily_results_text_fallback",
+      "date": "2026-06-27",
+      "player_1": "Sato H.",
+      "player_2": "Nugroho P. M.",
+      "match": "Sato H. - Nugroho P. M.",
+      "winner": "Nugroho P. M.",
+      "loser": "Sato H.",
+      "sets_1": 0,
+      "sets_2": 2,
+      "final_score": "0-2",
+      "set_scores": [
+        {
+          "set_number": 1,
+          "p1_games": 3,
+          "p2_games": 6,
+          "tiebreak": false
+        },
+        {
+          "set_number": 2,
+          "p1_games": 4,
+          "p2_games": 6,
+          "tiebreak": false
+        }
+      ],
+      "completed": true,
+      "retired": false,
+      "walkover": false,
+      "raw_parent_text": "Kraj\nSato H.\nNugroho P. M.\n0\n2\n3\n6\n4\n6",
+      "raw_header_text": "W35 Taipei 2 (Tajvan), tvrda podloga\nITF - ŽENSKI SINGL:",
+      "tournament": "W35 Taipei 2 (Tajvan), tvrda podloga",
+      "tour_level": "itf",
+      "gender": "",
+      "surface": "hard",
+      "indoor": null,
+      "best_of": 3,
+      "is_grand_slam": false,
+      "first_set_score": "3-6",
+      "first_set_games": 9,
+      "first_set_tiebreak": false,
+      "total_games": 19,
+      "p1_total_games_won": 7,
+      "p2_total_games_won": 12,
+      "game_margin_p1": -5,
+      "total_sets": 2,
+      "straight_sets": true,
+      "deciding_set": false,
+      "had_tiebreak": false,
+      "tiebreak_count": 0
+    }
+  ]
 }
