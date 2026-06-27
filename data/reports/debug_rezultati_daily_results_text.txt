@@ -19,18 +19,6 @@ TEČAJEVI
 GOTOVO
 RASPORED
 27/06 SU
-Eastbourne (Ujedinjeno Kraljevstvo), trava
-ATP - SINGL: 
-Ždrijeb
-Prekinuto
-Bergs Z.
-Humbert U.
-0
-0
-1
-2
-15
-30
 Mallorca (Španjolska), trava
 ATP - SINGL: 
 Ždrijeb
@@ -144,6 +132,33 @@ Villanueva G.
 7
 1
 6
+Kraj
+Seyboth Wild T.
+La Serna J. M.
+2
+0
+6
+3
+6
+3
+Plovdiv (Bugarska), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Montes-De La Torre I.
+Kopp S.
+2
+1
+7
+7
+6
+5
+3
+6
+7
+10
+6
+8
 Targu Mures (Rumunjska), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -188,6 +203,39 @@ Urrea A.
 6
 2
 6
+Kraj
+Barbiero A.
+Bullamah F.
+Britto L.
+Villanueva G.
+0
+2
+1
+6
+4
+6
+Kraj
+Oliveira B.
+Pucinelli de Almeida M.
+Basel V.
+Carou I.
+2
+0
+6
+2
+6
+0
+Kraj
+Miguel L. F.
+Saraiva Dos Santos P. A.
+Rodriguez C.
+Urrea A.
+2
+0
+7
+5
+6
+2
 Plovdiv (Bugarska), zemlja
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -220,6 +268,31 @@ Vrbensky M.
 0
 10
 6
+M15 Alkmaar (Nizozemska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+De Lange P.
+Lazaro Juncadella M.
+2
+0
+6
+4
+6
+3
+Kraj
+Majdandzic M.
+De Jager J.
+2
+1
+3
+6
+7
+7
+6
+3
+6
+1
 M15 Bergamo (Italija), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -231,6 +304,27 @@ Oradini G.
 3
 6
 2
+6
+Kraj
+Tabacco F.
+Arnaboldi F.
+0
+2
+1
+6
+4
+6
+M15 Claremont (SAD), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Satterfield J.
+Rozin S.
+0
+2
+1
+6
+1
 6
 M15 Kamen (Njemačka), zemlja
 ITF - MUŠKI SINGL: 
@@ -325,6 +419,20 @@ Picard M.
 6
 0
 6
+M15 Rzeszow (Poljska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Seifert S.
+Hoeyeraal H.
+1
+2
+1
+6
+6
+2
+4
+6
 M15 Slovenska Bistrica (Slovenija), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -341,6 +449,21 @@ Petak D.
 4
 6
 1
+Kraj
+Planinsek F. J.
+Artnak B.
+2
+1
+6
+10
+7
+12
+6
+3
+7
+7
+6
+4
 M15 Wuning 3 (Kina), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -364,6 +487,22 @@ Han X.
 1
 0
 0
+M25 Bakio (Španjolska), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Inchauspe P.
+Weightman O.
+2
+1
+4
+6
+7
+7
+6
+3
+6
+3
 M25 Brussels (Belgija), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -439,6 +578,29 @@ Cuenin S.
 5
 6
 4
+M25 Zagreb (Hrvatska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Prihodko O.
+Sultanov K.
+0
+2
+3
+6
+1
+6
+Kraj
+Ivanovski K.
+Barun B.
+2
+1
+6
+4
+3
+6
+6
+3
 W15 Galati (Rumunjska), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -678,6 +840,36 @@ Feistel G.
 1
 7
 7
+W50 Palma del Rio (Španjolska), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Vedder E.
+Hesse A.
+2
+0
+6
+4
+6
+0
+M15 Alkmaar (Nizozemska), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Gustafsson F.
+Penzlin J.
+Forger A.
+Khoeblal E.
+2
+1
+4
+6
+7
+7
+6
+5
+10
+8
 M15 Bergamo (Italija), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -792,6 +984,22 @@ Tamm K.
 7
 8
 10
+M15 Slovenska Bistrica (Slovenija), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Homberg M.
+Slavic N.
+Parizzia N.
+Ratti L.
+0
+2
+6
+5
+7
+7
+2
+6
 M15 Wuning 3 (Kina), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -824,6 +1032,36 @@ Stanke C.
 0
 6
 3
+M25 Porto (Portugal), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Hands T.
+Summers M.
+Andaloro F.
+Moroni F.
+1
+2
+3
+6
+7
+5
+7
+10
+M25 Tanger (Maroko), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Lalami Laaroussi Y.
+Nikles J.
+Chambonniere M.
+Villoslada E.
+2
+0
+6
+4
+6
+4
 M25 Zagreb (Hrvatska), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -838,6 +1076,20 @@ Tsitsipas Pe.
 4
 6
 3
+W15 Alkmaar (Nizozemska), zemlja
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Coppez K.
+Van Impe A.
+Barth A.
+De Boer J. E.
+2
+0
+6
+0
+6
+4
 W15 Asuncion (Paragvaj), zemlja
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -1032,7 +1284,7 @@ ATP Mallorca
 WTA Bad Homburg
 WTA Eastbourne
 Hurlingham
-Prikaži više (68)
+Prikaži više (72)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -1086,29 +1338,28 @@ World Matchplay
 MLB
 EuroBasket U20 2026
 NOGOMET UŽIVO
-LNZ Cherkasy - Hajduk
 Hrvatska - Gana
 Celje - Hajduk
 Grosuplje - Dinamo
-Bravo - Rijeka
 Panama - Engleska
 Kolumbija - Portugal
 DR Kongo - Uzbekistan
 Jordan - Argentina
 Alžir - Austrija
+Grosuplje - Rijeka
+Obala Bjelokosti - Norveška
 REZULTATI UŽIVO
 SAD - Bosna i Hercegovina
 Švicarska - Srbija
 Cipar - Hrvatska
 Srbija - Bosna i Hercegovina
 Hrvatska - Izrael
-Slovenija U20 - Hrvatska U20
 Južna Afrika - Kanada
 Brazil - Japan
 Njemačka - Paragvaj
 Nizozemska - Maroko
+Portugal - Crna Gora
 LIVESCORE
-Francuska - Srbija
 Srbija - SAD
 Čilić - Medvedev
 Wu - Đoković
@@ -1118,6 +1369,7 @@ Slovenija - Italija
 Akhmat Grozny - Borac Banja Luka
 Brazil - Japan
 Njemačka - Paragvaj
+Nizozemska - Maroko
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
