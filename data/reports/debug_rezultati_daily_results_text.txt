@@ -23,21 +23,6 @@ Wimbledon (Ujedinjeno Kraljevstvo), trava
 ATP - SINGL: 
 Ždrijeb
 Prekinuto
-Nakashima B.
-Pinnington Jones J.
-2
-0
-6
-3
-7
-7
-6
-5
-4
-3
-0
-0
-Prekinuto
 De Jong J.
 Hijikata R.
 1
@@ -52,6 +37,21 @@ Hijikata R.
 5
 0
 0
+Prekinuto
+Nakashima B.
+Pinnington Jones J.
+2
+0
+6
+3
+7
+7
+6
+5
+4
+3
+0
+0
 Otkazano
 Fritz T.
 Draper J.
@@ -60,6 +60,41 @@ Draper J.
 Brasov (Rumunjska), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
+Kraj
+Justo G. I.
+Gima S.
+2
+0
+6
+2
+6
+1
+Kraj
+Maestrelli F.
+Milic O.
+1
+2
+3
+6
+7
+10
+6
+8
+3
+6
+Kraj
+Midon L.
+Haita S. H.
+2
+1
+6
+3
+7
+7
+7
+5
+6
+0
 Otkazano
 Justo G. I.
 Agamenone F.
@@ -135,6 +170,38 @@ Soto M.
 2
 0
 0
+Milan (Italija), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Dalla Valle E.
+Travaglia S.
+2
+0
+7
+7
+6
+3
+6
+1
+Kraj
+Erhard M.
+Rodionov J.
+2
+0
+6
+3
+6
+2
+Kraj
+Michalski D.
+Passaro F.
+0
+2
+4
+6
+5
+7
 Troyes (Francuska), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -143,6 +210,37 @@ Seyboth Wild T.
 Coulibaly E.
 -
 -
+Kraj
+Moeller M.
+Lechno-Wasiutynski F.
+2
+0
+6
+4
+6
+2
+Kraj
+Giustino L.
+Gulin S.
+2
+1
+6
+4
+1
+6
+6
+4
+Kraj
+Topo M.
+Raquillet L.
+2
+1
+6
+1
+3
+6
+7
+5
 M15 Tokyo 3 (Japan), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -155,6 +253,103 @@ Heck H.
 2
 6
 3
+Kraj
+Ogura K.
+Shin S.
+0
+2
+6
+3
+7
+7
+2
+6
+Kraj
+Hazawa S.
+Matsuda K.
+0
+2
+2
+6
+4
+6
+Kraj
+Takahashi Y.
+Koyama H.
+2
+0
+7
+7
+6
+3
+6
+2
+M25 Nivelles (Belgija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Kelm Y.
+Luemkemann L.
+2
+0
+6
+1
+6
+4
+Kraj
+Kivattsev K.
+Basile A.
+2
+0
+6
+2
+6
+1
+W15 Maanshan 4 (Kina), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Kalyakina M.
+Gureva A.
+2
+0
+7
+5
+6
+0
+Kraj
+Wang M.
+Jiang Z.
+2
+1
+3
+6
+6
+1
+6
+3
+Kraj
+Yamazaki I.
+Ren K.
+2
+0
+6
+4
+6
+3
+Kraj
+Zhang J.
+Snigireva A.
+1
+2
+7
+8
+6
+6
+4
+6
+0
+6
 W35 Aix-les-Bains (Francuska), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -163,6 +358,15 @@ Kotliar Y.
 Ivanova I.
 -
 -
+Kraj
+Kabbaj Y.
+Yesypchuk D.
+2
+0
+6
+1
+6
+1
 Prekinuto
 Pawlak L.
 Serban I. M.
@@ -180,6 +384,78 @@ Mpetshi Perricard D.
 0
 0
 15
+0
+W35 Amstelveen (Nizozemska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Otkazano
+Niemeier J.
+Malmkjaer E. K.
+-
+-
+Kraj
+Daems J.
+Zanolini C.
+0
+2
+1
+6
+2
+6
+Kraj
+Stoyanov A.
+Allen V.
+2
+0
+7
+7
+6
+4
+6
+0
+W50 Elvas (Portugal), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Kubareva A.
+Rey Garcia A.
+2
+0
+6
+1
+6
+3
+Kraj
+Podrez V.
+Savinykh V.
+2
+0
+6
+2
+6
+4
+Kraj
+Visscher S. J.
+Pavlova K.
+2
+0
+6
+3
+6
+3
+M15 Tokyo 3 (Japan), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Kawachi K.
+Samrej K.
+Kojima R.
+Komagata R.
+2
+0
+6
+0
+6
 0
 Reklama
 PRIKVAČENE LIGE
@@ -245,7 +521,7 @@ Prikaži više
 Tenis livescore na Rezultatima nudi teniske rezultate uživo za preko 5000 teniskih turnira diljem svijeta, uključujući Australian Open, French Open, Wimbledon, US Open i mnoge druge. Pratite najnovije rezultate iz tenisa na Rezultatima, gdje možete pronaći detaljnu statistiku (asevi, dvostruke pogreške, postotak servisa, osvojeni servisi, spašene break lopte, neprisiljene pogreške, itd.), usporedbu koeficijenata, međuosboni omjer, vijesti, video sažetke ili tijek meča poen po poen. Pronađite sve današnje rezultate i vijesti iz tenisa na Rezultatima, uključujući ATP rezultate, WTA rezultate, ATP poredak, ATP kalendar 2026, WTA kalendar 2026, ili profile igrača (npr. Jannik Sinner, Carlos Alcaraz, Novak Đoković, Donna Vekić). Usluga tenis livescore se automatski ažurira, tako da nema potrebe da osvježavate stranicu.
 
 Wimbledon 2026 rezultati uživo na Rezultati.com stranici! Wimbledon uživo, uz rezultate i ždrijeb.
-30.06. Shimabukuro Sho - Faria Jaime, Royer Valentin - Wendelken Harry, Hanfmann Yannick - Mpetshi Perricard Giovanni, Majchrzak Kamil - Tabilo Alejandro, Mannarino Adrian - Droguet Titouan, Michelsen Alex - Fearnley Jacob, Humbert Ugo - Bergs Zizou, Arnaldi Matteo - Halys Quentin, Dzumhur Damir - Fery Arthur, Jacquet Kyrian - Gaubas Vilius, Virtanen Otto - Shelton Ben, De Minaur Alex - Burruchaga Roman Andres, Kokkinakis Thanasi - Bublik Alexander, Llamas Ruiz Pablo - Svajda Zachary, Munar Jaume - Cerundolo Francisco, Blockx Alexander - Zverev Alexander, Bonzi Benjamin - Diallo Gabriel, Khachanov Karen - Harris Billy, Collignon Raphael - Fils Arthur, Kypson Patrick - McDonald Mackenzie
+30.06. Michelsen Alex - Fearnley Jacob, Humbert Ugo - Bergs Zizou, Arnaldi Matteo - Halys Quentin, Dzumhur Damir - Fery Arthur, Jacquet Kyrian - Gaubas Vilius, Virtanen Otto - Shelton Ben, De Minaur Alex - Burruchaga Roman Andres, Kokkinakis Thanasi - Bublik Alexander, Llamas Ruiz Pablo - Svajda Zachary, Munar Jaume - Cerundolo Francisco, Blockx Alexander - Zverev Alexander, Bonzi Benjamin - Diallo Gabriel, Khachanov Karen - Harris Billy, Collignon Raphael - Fils Arthur, Moutet Corentin - Giron Marcos, Kypson Patrick - McDonald Mackenzie, Mensik Jakub - Samuel Toby, Sonego Lorenzo - Etcheverry Tomas Martin, Fritz Taylor - Lajovic Dusan, Sweeny Dane - Dimitrov Grigor
 WTA Wimbledon 2026 rezultati uživo na Rezultati.com stranici! WTA Wimbledon uživo, uz rezultate i ždrijeb.
 
 SP 2026
@@ -322,7 +598,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Igrajte odgovorno. Gambling Therapy. 18+
+Must be 21+. If you or someone you know has a gambling problem, crisis counselling and referral services can be accessed by calling 1-800-GAMBLER (1-800-426-2537) or by texting ILGAMB to 833234. The 1-800-GAMBLER helpline can be used for multi-jurisdictional advertising.
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
