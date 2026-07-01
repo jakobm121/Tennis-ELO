@@ -100,6 +100,266 @@ Bhambri Y.
 Venus M.
 -
 -
+Cary (SAD), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Ellis B.
+Sekulic P.
+2
+1
+7
+5
+6
+4
+7
+7
+7
+5
+Kraj
+Legout T.
+Bicknell B.
+2
+0
+6
+3
+6
+2
+Kraj
+Sakamoto R.
+Leroux J.
+2
+1
+6
+3
+6
+3
+7
+7
+6
+2
+Kraj
+Baris O.
+Ficovich J. P.
+2
+1
+6
+4
+5
+7
+6
+4
+Kraj
+Suresh D.
+Draxl L.
+2
+0
+7
+7
+6
+5
+6
+4
+Kraj
+Sun F.
+Shick B.
+0
+2
+1
+6
+2
+6
+Kvito (Ekvador), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Goity Zapico S.
+Linde Palacios S. A.
+2
+0
+6
+1
+6
+2
+Kraj
+Ribeiro de Almeida G.
+Heredia S.
+0
+2
+3
+6
+4
+6
+M15 Tokyo 3 (Japan), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Dellavedova M.
+Tange S.
+2
+0
+6
+2
+6
+3
+Kraj
+Honda N.
+Fukuda S.
+0
+2
+6
+3
+7
+7
+6
+4
+7
+7
+Kraj
+Imai S.
+Mochizuki Y.
+2
+1
+7
+7
+6
+5
+3
+6
+6
+1
+Kraj
+Nakagawa N.
+Tanuma R.
+0
+2
+3
+6
+3
+6
+M15 Wuning 4 (Kina), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+(predano)
+Purcell M.
+Charlton J.
+0
+0
+3
+5
+W100 Cary, NC (SAD), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Yamalapalli S.
+Ngounoue C.
+0
+2
+3
+6
+4
+6
+W15 Maanshan 4 (Kina), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Shibata S.
+Luo X.
+2
+1
+6
+3
+5
+7
+6
+3
+Kraj
+Wang Y.
+Tikhonova A.
+2
+0
+6
+4
+6
+0
+Kraj
+Xu J.
+Zhu C.
+0
+2
+4
+6
+0
+6
+W15 San Diego, CA (SAD), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Chen Y.
+Aytoyan M.
+0
+2
+1
+6
+6
+4
+7
+7
+Kraj
+Fakih K.
+Sahdiieva A.
+2
+0
+6
+1
+6
+2
+Kraj
+Mahendran K.
+Nahum G.
+2
+0
+6
+4
+6
+1
+Kraj
+Nava Elkin A. C.
+Arora A.
+1
+2
+6
+4
+1
+6
+2
+6
+Kraj
+Vagramov A.
+Pandey T.
+2
+0
+7
+7
+6
+3
+7
+5
+M15 San Diego, CA (SAD), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Cooper S.
+Hohmann R.
+Betancourt P.
+De Alba R.
+2
+0
+6
+2
+6
+3
 M25 Skopje (Sjev. Makedonija), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -141,6 +401,44 @@ Maes S.
 0
 15
 0
+W15 San Diego, CA (SAD), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Gardiner K.
+Montiel P.
+Allegre C.
+Allegre O.
+0
+2
+2
+6
+2
+6
+Kraj
+Bhopal A.
+Tabunshchyk A.
+Arangio G.
+Quadre B. Q.
+0
+2
+4
+6
+0
+6
+Kraj
+Chung K.
+Guichard A.
+Otway J.
+Pascual Montalvo I.
+2
+1
+6
+3
+3
+6
+11
+9
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -177,7 +475,7 @@ Kvito Challenger Muškarci
 Milan Challenger Muškarci
 Troyes Challenger Muškarci
 Brasov Challenger Muškarci
-Prikaži više (64)
+Prikaži više (65)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -225,7 +523,7 @@ ATP Wimbledon 2026
 ATP Umag
 Liga nacija 2026
 ABA liga 2026
-Premier Liga košarka 2026
+Premier Liga košarka
 Liga nacija - Žene 2026
 World Matchplay
 MLB
@@ -243,7 +541,6 @@ Radomlje - Rijeka
 Argentina - Zelenortski Otoci
 LIVESCORE
 Tsitsipas - Đoković
-Meksiko - Ekvador
 Belgija - Senegal
 Španjolska - Austrija
 Australija - Egipat
@@ -252,13 +549,14 @@ Borac Banja Luka - Levski
 Srbija Ž - Bugarska Ž
 Srbija Ž - Francuska Ž
 Sinner - Borges
+Poljska - Njemačka
 REZULTATI UŽIVO
 SAD - Bosna i Hercegovina
 Švicarska - Srbija
 Cipar - Hrvatska
 Srbija - Bosna i Hercegovina
 Hrvatska - Izrael
-Meksiko - Ekvador
+Turska U20 - Srbija U20
 Portugal - Crna Gora
 Bosna i Hercegovina - Turska
 Švicarska - Alžir
