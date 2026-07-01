@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-07-01T17:29:23.236682+02:00",
+  "generated_at": "2026-07-01T22:30:18.126236+02:00",
   "source_url": "https://www.rezultati.com/tenis/",
   "counts": {
-    "archive_before": 13974,
-    "daily_scorelines": 261,
-    "archive_after": 14214,
-    "added": 240
+    "archive_before": 14214,
+    "daily_scorelines": 326,
+    "archive_after": 14279,
+    "added": 65
   },
   "metadata_counts": {
-    "with_surface": 14185,
-    "with_gender": 10538,
-    "with_tour_level": 14185,
-    "grand_slam": 2271,
-    "best_of_5": 1115
+    "with_surface": 14250,
+    "with_gender": 10546,
+    "with_tour_level": 14250,
+    "grand_slam": 2279,
+    "best_of_5": 1117
   },
   "sample": [
     {
@@ -522,6 +522,78 @@
       "match_url": "",
       "source": "rezultati_daily_results_text_fallback",
       "date": "2026-07-01",
+      "player_1": "Safiullin R.",
+      "player_2": "Van De Zandschulp B.",
+      "match": "Safiullin R. - Van De Zandschulp B.",
+      "winner": "Safiullin R.",
+      "loser": "Van De Zandschulp B.",
+      "sets_1": 3,
+      "sets_2": 2,
+      "final_score": "3-2",
+      "set_scores": [
+        {
+          "set_number": 1,
+          "p1_games": 6,
+          "p2_games": 0,
+          "tiebreak": false
+        },
+        {
+          "set_number": 2,
+          "p1_games": 4,
+          "p2_games": 6,
+          "tiebreak": false
+        },
+        {
+          "set_number": 3,
+          "p1_games": 6,
+          "p2_games": 3,
+          "tiebreak": false
+        },
+        {
+          "set_number": 4,
+          "p1_games": 3,
+          "p2_games": 6,
+          "tiebreak": false
+        },
+        {
+          "set_number": 5,
+          "p1_games": 7,
+          "p2_games": 6,
+          "tiebreak": true,
+          "tiebreak_p1": 10,
+          "tiebreak_p2": 5
+        }
+      ],
+      "completed": true,
+      "retired": false,
+      "walkover": false,
+      "raw_parent_text": "Kraj\nSafiullin R.\nVan De Zandschulp B.\n3\n2\n6\n0\n4\n6\n6\n3\n3\n6\n7\n10\n6\n5",
+      "raw_header_text": "Wimbledon (Ujedinjeno Kraljevstvo), trava\nATP - SINGL:",
+      "tournament": "Wimbledon (Ujedinjeno Kraljevstvo)",
+      "tour_level": "grand_slam",
+      "gender": "men",
+      "surface": "grass",
+      "indoor": null,
+      "best_of": 5,
+      "is_grand_slam": true,
+      "first_set_score": "6-0",
+      "first_set_games": 6,
+      "first_set_tiebreak": false,
+      "total_games": 47,
+      "p1_total_games_won": 26,
+      "p2_total_games_won": 21,
+      "game_margin_p1": 5,
+      "total_sets": 5,
+      "straight_sets": false,
+      "deciding_set": true,
+      "had_tiebreak": true,
+      "tiebreak_count": 1
+    },
+    {
+      "match_id": "",
+      "match_url": "",
+      "source": "rezultati_daily_results_text_fallback",
+      "date": "2026-07-01",
       "player_1": "Merida Aguilar D.",
       "player_2": "Medvedev D.",
       "match": "Merida Aguilar D. - Medvedev D.",
@@ -640,6 +712,64 @@
       "deciding_set": true,
       "had_tiebreak": true,
       "tiebreak_count": 1
+    },
+    {
+      "match_id": "",
+      "match_url": "",
+      "source": "rezultati_daily_results_text_fallback",
+      "date": "2026-07-01",
+      "player_1": "De Jong J.",
+      "player_2": "Fonseca J.",
+      "match": "De Jong J. - Fonseca J.",
+      "winner": "Fonseca J.",
+      "loser": "De Jong J.",
+      "sets_1": 0,
+      "sets_2": 3,
+      "final_score": "0-3",
+      "set_scores": [
+        {
+          "set_number": 1,
+          "p1_games": 1,
+          "p2_games": 6,
+          "tiebreak": false
+        },
+        {
+          "set_number": 2,
+          "p1_games": 5,
+          "p2_games": 7,
+          "tiebreak": false
+        },
+        {
+          "set_number": 3,
+          "p1_games": 4,
+          "p2_games": 6,
+          "tiebreak": false
+        }
+      ],
+      "completed": true,
+      "retired": false,
+      "walkover": false,
+      "raw_parent_text": "Kraj\nDe Jong J.\nFonseca J.\n0\n3\n1\n6\n5\n7\n4\n6",
+      "raw_header_text": "Wimbledon (Ujedinjeno Kraljevstvo), trava\nATP - SINGL:",
+      "tournament": "Wimbledon (Ujedinjeno Kraljevstvo)",
+      "tour_level": "grand_slam",
+      "gender": "men",
+      "surface": "grass",
+      "indoor": null,
+      "best_of": 5,
+      "is_grand_slam": true,
+      "first_set_score": "1-6",
+      "first_set_games": 7,
+      "first_set_tiebreak": false,
+      "total_games": 29,
+      "p1_total_games_won": 10,
+      "p2_total_games_won": 19,
+      "game_margin_p1": -9,
+      "total_sets": 3,
+      "straight_sets": true,
+      "deciding_set": true,
+      "had_tiebreak": false,
+      "tiebreak_count": 0
     },
     {
       "match_id": "",
@@ -1088,110 +1218,6 @@
       "deciding_set": true,
       "had_tiebreak": true,
       "tiebreak_count": 1
-    },
-    {
-      "match_id": "",
-      "match_url": "",
-      "source": "rezultati_daily_results_text_fallback",
-      "date": "2026-07-01",
-      "player_1": "Muchova K.",
-      "player_2": "Zhang S.",
-      "match": "Muchova K. - Zhang S.",
-      "winner": "Muchova K.",
-      "loser": "Zhang S.",
-      "sets_1": 2,
-      "sets_2": 0,
-      "final_score": "2-0",
-      "set_scores": [
-        {
-          "set_number": 1,
-          "p1_games": 6,
-          "p2_games": 3,
-          "tiebreak": false
-        },
-        {
-          "set_number": 2,
-          "p1_games": 6,
-          "p2_games": 2,
-          "tiebreak": false
-        }
-      ],
-      "completed": true,
-      "retired": false,
-      "walkover": false,
-      "raw_parent_text": "Kraj\nMuchova K.\nZhang S.\n2\n0\n6\n3\n6\n2",
-      "raw_header_text": "Wimbledon (Ujedinjeno Kraljevstvo), trava\nWTA - SINGL:",
-      "tournament": "Wimbledon (Ujedinjeno Kraljevstvo)",
-      "tour_level": "grand_slam",
-      "gender": "women",
-      "surface": "grass",
-      "indoor": null,
-      "best_of": 3,
-      "is_grand_slam": true,
-      "first_set_score": "6-3",
-      "first_set_games": 9,
-      "first_set_tiebreak": false,
-      "total_games": 17,
-      "p1_total_games_won": 12,
-      "p2_total_games_won": 5,
-      "game_margin_p1": 7,
-      "total_sets": 2,
-      "straight_sets": true,
-      "deciding_set": false,
-      "had_tiebreak": false,
-      "tiebreak_count": 0
-    },
-    {
-      "match_id": "",
-      "match_url": "",
-      "source": "rezultati_daily_results_text_fallback",
-      "date": "2026-07-01",
-      "player_1": "Kasnikowski M.",
-      "player_2": "Santamarta Roig A.",
-      "match": "Kasnikowski M. - Santamarta Roig A.",
-      "winner": "Kasnikowski M.",
-      "loser": "Santamarta Roig A.",
-      "sets_1": 2,
-      "sets_2": 0,
-      "final_score": "2-0",
-      "set_scores": [
-        {
-          "set_number": 1,
-          "p1_games": 6,
-          "p2_games": 3,
-          "tiebreak": false
-        },
-        {
-          "set_number": 2,
-          "p1_games": 6,
-          "p2_games": 2,
-          "tiebreak": false
-        }
-      ],
-      "completed": true,
-      "retired": false,
-      "walkover": false,
-      "raw_parent_text": "Kraj\nKasnikowski M.\nSantamarta Roig A.\n2\n0\n6\n3\n6\n2",
-      "raw_header_text": "Brasov (Rumunjska), zemlja\nCHALLENGER - MUŠKI SINGL:",
-      "tournament": "Brasov (Rumunjska)",
-      "tour_level": "challenger",
-      "gender": "",
-      "surface": "clay",
-      "indoor": null,
-      "best_of": 3,
-      "is_grand_slam": false,
-      "first_set_score": "6-3",
-      "first_set_games": 9,
-      "first_set_tiebreak": false,
-      "total_games": 17,
-      "p1_total_games_won": 12,
-      "p2_total_games_won": 5,
-      "game_margin_p1": 7,
-      "total_sets": 2,
-      "straight_sets": true,
-      "deciding_set": false,
-      "had_tiebreak": false,
-      "tiebreak_count": 0
     }
   ],
   "debug_files": {
