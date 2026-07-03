@@ -19,6 +19,157 @@ TEČAJEVI
 GOTOVO
 RASPORED
 03/07 PE
+Wimbledon (Ujedinjeno Kraljevstvo), trava
+ATP - PAROVI: 
+Ždrijeb
+Kraj
+Buse I.
+Trungelliti M.
+Cabral F.
+Miedler L.
+1
+2
+6
+4
+4
+6
+1
+6
+Kraj
+Moutet C.
+Reymond A.
+Cash J.
+Glasspool L.
+1
+2
+6
+4
+4
+6
+4
+6
+Kraj
+Paul J.
+Seggerman R.
+Harrison C.
+Skupski N.
+0
+2
+6
+4
+7
+7
+6
+5
+7
+7
+Wimbledon (Ujedinjeno Kraljevstvo), trava
+WTA - PAROVI: 
+Ždrijeb
+Kraj
+Guarachi A.
+Rosolska Ali.
+Dabrowski G.
+Stefani L.
+0
+2
+2
+6
+2
+6
+Kraj
+Kichenok N.
+Ninomiya M.
+Muhammad A.
+Stollar F.
+0
+2
+5
+7
+2
+6
+Brasov (Rumunjska), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Justo G. I.
+Wallin O.
+2
+0
+6
+1
+6
+4
+Kraj
+Nedic A.
+Smith K.
+0
+2
+1
+6
+6
+3
+7
+7
+Kraj
+Gueymard Wayenburg S.
+Kasnikowski M.
+0
+2
+4
+6
+2
+6
+Kraj
+Kuzmanov D.
+Piros Z.
+0
+2
+2
+6
+3
+6
+Milan (Italija), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Heide G.
+Dalla Valle E.
+2
+0
+7
+7
+6
+4
+7
+7
+6
+5
+Kraj
+Diaz Acosta F.
+Martin Manzano J. C.
+2
+0
+6
+0
+6
+2
+Troyes (Francuska), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Giustino L.
+Marcondes I.
+2
+1
+4
+6
+7
+7
+6
+4
+6
+1
 Cary (SAD), tvrda podloga
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -55,9 +206,255 @@ Uchida K.
 2
 6
 4
+Kraj
+Reynolds F.
+Watt J.
+Ayeni A.
+Cook E.
+2
+0
+6
+3
+6
+4
+Troyes (Francuska), zemlja
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Genov A.
+Wehnelt K.
+Merino A.
+Ribero F.
+2
+1
+6
+5
+7
+7
+6
+4
+10
+8
+M15 Amstelveen (Nizozemska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Marino P.
+Naw H.
+0
+2
+2
+6
+1
+6
+Kraj
+Noce G. M.
+Nicod J.
+0
+2
+1
+6
+0
+6
+M15 Hillcrest (Južna Afrika), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Jefferson H.
+Piatti R.
+2
+0
+7
+5
+6
+1
+Kraj
+Kimhi O.
+Gatoto A.
+2
+0
+6
+2
+6
+1
+Kraj
+Shimanov O.
+Van Der Merwe M.
+2
+0
+6
+2
+6
+4
+Kraj
+Badenhorst D.
+Deckers A.
+2
+0
+6
+0
+7
+12
+6
+10
+Kraj
+Montsi K.
+van Wyk K.
+2
+0
+6
+1
+6
+4
+Kraj
+Kimhi O.
+Shimanov O.
+2
+0
+6
+2
+6
+1
+M15 Kayseri 7 (Turska), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Ozdemir S. M.
+Reyniak M.
+1
+2
+2
+6
+6
+4
+3
+6
+Kraj
+Turker M. N.
+Anavatan M.
+2
+0
+6
+3
+6
+3
+Kraj
+Coccioli A.
+Azoidis D.
+0
+2
+3
+6
+3
+6
+M15 Kursumlijska Banja 7 (Srbija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Juhas K.
+Jankanj V.
+2
+0
+6
+4
+6
+1
+Kraj
+Derepasko T.
+de Marchi A.
+2
+0
+7
+5
+6
+4
+Kraj
+Pisaric A.
+Obradovic D.
+1
+2
+4
+6
+6
+1
+3
+6
+M15 Monastir 25 (Tunis), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Dougaz A.
+Singh D.
+2
+0
+6
+2
+6
+1
+Kraj
+Duran T.
+Sahtali T.
+2
+0
+6
+4
+6
+1
+Kraj
+Frusina A.
+Ouakaa A.
+0
+2
+3
+6
+2
+6
+M15 Store (Slovenija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Baroni N.
+Retelj M.
+2
+0
+6
+4
+6
+0
+Kraj
+D'Agostino S.
+Savano M.
+2
+0
+6
+2
+6
+2
+Kraj
+Slavic N.
+Wiedenmann L.
+0
+2
+0
+6
+3
+6
 M15 Tokyo 3 (Japan), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
+Kraj
+Imai S.
+Samrej K.
+1
+2
+6
+4
+1
+6
+6
+6
+7
+8
 Kraj
 Jasika O.
 Shin S.
@@ -67,28 +464,143 @@ Shin S.
 6
 2
 6
+Kraj
+Dellavedova M.
+Matsuda K.
+2
+0
+6
+3
+6
+4
+Kraj
+Jones M.
+Isomura K.
+2
+1
+6
+3
+3
+6
+6
+1
 M15 Wuning 4 (Kina), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
+Kraj
+(predano)
+Harazaki A.
+Roh H.
+1
+1
+4
+6
+7
+5
+1
+1
+Kraj
+Rifqi Fitriadi M.
+Ferguson C.
+2
+0
+7
+5
+6
+2
+Kraj
+Zeng Y.
+Nasridinov A.
+0
+2
+6
+3
+7
+7
+4
+6
 Walkover
 Zhang T.
 Liu H.
 -
 -
+M25 Figueira da Foz (Portugal), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Schoen P.
+Fernandes R.
+2
+0
+6
+4
+6
+3
+M25 Marburg (Njemačka), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Mridha J.
+Wiskandt M.
+0
+2
+1
+6
+3
+6
+M25 Rabat (Maroko), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Nikles J.
+Ahouda W.
+0
+2
+5
+7
+1
+6
 M25 Skopje (Sjev. Makedonija), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
-Prekinuto
+Kraj
 Markovski O.
 Orlov V.
 0
-1
+2
 3
 6
 2
+6
+Kraj
+Popovic S.
+Bruna N.
 2
 0
+6
+4
+7
+7
+6
+2
+Kraj
+Sorger S.
+Milev Y.
 0
+2
+4
+6
+2
+6
+Kraj
+Jovanovic P.
+Orlov V.
+0
+2
+0
+6
+2
+6
 W100 Cary, NC (SAD), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -134,6 +646,154 @@ Koike E.
 6
 4
 6
+W15 Hillcrest (Južna Afrika), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Kruger I.
+Cirotte A.
+2
+1
+7
+7
+6
+5
+4
+6
+6
+2
+Kraj
+Smirnova K.
+Verster N.
+2
+0
+6
+3
+6
+3
+Kraj
+Van Zyl M.
+Bowers A.
+2
+1
+6
+4
+5
+7
+6
+3
+Kraj
+Buchnik M.
+Dzjachangirova M.
+2
+0
+6
+2
+6
+2
+Kraj
+le Roux D.
+Leykina P.
+0
+2
+3
+6
+3
+6
+Kraj
+Jamshidi E.
+Kruger I.
+0
+2
+1
+6
+0
+6
+W15 Kayseri 7 (Turska), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Mi L.
+Soke D.
+0
+2
+4
+6
+3
+6
+Kraj
+(predano)
+Sziedat F.
+Farzami M.
+0
+1
+1
+6
+0
+1
+Kraj
+Smejkalova A.
+Ercan M.
+1
+2
+6
+1
+4
+6
+3
+6
+Kraj
+Yoruk I.
+Kurt I.
+1
+2
+1
+6
+7
+5
+2
+6
+W15 Kursumlijska Banja 7 (Srbija), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Kovgan K.
+Petkovic A.
+1
+2
+6
+2
+4
+6
+2
+6
+Kraj
+Stankovic A.
+Bojovic J.
+2
+0
+6
+0
+6
+3
+Kraj
+Tomase E.
+Maric D.
+2
+0
+6
+1
+6
+3
+Kraj
+Radovanovic N.
+Stamatova J.
+2
+0
+6
+4
+6
+2
 W15 Maanshan 4 (Kina), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -146,20 +806,300 @@ Zhu C.
 3
 6
 3
+Kraj
+Wang J.
+Wang Y.
+2
+0
+6
+4
+6
+0
+Kraj
+Kalyakina M.
+Yuan C.
+0
+2
+1
+6
+4
+6
+Kraj
+Ye S.
+Guo M.
+1
+2
+6
+3
+0
+6
+1
+6
+W15 Mogyorod (Mađarska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Bojica S.
+Drugdova S.
+2
+1
+6
+1
+5
+7
+6
+3
+Kraj
+Mettraux M.
+Nagy A.
+0
+2
+6
+3
+7
+7
+2
+6
+W15 Monastir 20 (Tunis), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Adeshina E.
+Maloney E.
+0
+2
+3
+6
+2
+6
+Kraj
+Andrienko M.
+Sahnoun N.
+2
+0
+6
+3
+6
+1
+Kraj
+Ezzat Y.
+Shaw E.
+2
+0
+6
+2
+7
+7
+6
+3
+W35 Amstelveen (Nizozemska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Falkowska W.
+Kovackova A.
+2
+0
+6
+4
+6
+2
+Kraj
+Popa M. S.
+Karatancheva L.
+2
+0
+6
+3
+6
+4
+W50 Stuttgart-Vaihingen (Njemačka), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Sobolieva A.
+Capurro Taborda M.
+2
+0
+6
+2
+6
+2
+M15 Hillcrest (Južna Afrika), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Ciocca G.
+Garbero F. F.
+Duhan C.
+Faucon R.
+1
+2
+7
+8
+6
+6
+4
+6
+9
+11
+Kraj
+De Klerk R.
+Vorwerk G.
+Host T.
+Jefferson H.
+2
+0
+6
+2
+6
+4
+M15 Kursumlijska Banja 7 (Srbija), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Arzhankin A.
+Manukyan V.
+Jovic N.
+Premzl M.
+2
+0
+6
+3
+6
+4
+M15 Tokyo 3 (Japan), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Kusuhara Y.
+Nakagawa S.
+Katayama S.
+Shiraishi H.
+2
+0
+6
+4
+6
+1
+Kraj
+Kawachi K.
+Samrej K.
+Hazawa S.
+Ogura K.
+1
+2
+5
+7
+7
+5
+10
+12
+M15 Wuning 4 (Kina), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Alcantara F. C.
+Lai C. K.
+Lin N. H.
+Yang Z.
+1
+2
+6
+4
+0
+6
+8
+10
+Kraj
+Charlton J.
+Ferguson C.
+Kawahashi Y.
+Koizumi N.
+2
+1
+5
+7
+7
+5
+10
+6
+Kraj
+Rifqi Fitriadi M.
+Trismuwantara G.
+Liu S.
+Yang X.
+0
+2
+2
+6
+6
+0
+7
+7
+Kraj
+Chen X. D.
+Zeng Y.
+Hongyu Y.
+Hsieh C.
+0
+2
+4
+6
+4
+6
+M25 Rabat (Maroko), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Binda A.
+Rottoli L.
+Alabdullah B.
+Qabazard E.
+1
+2
+4
+6
+6
+3
+9
+11
 M25 Skopje (Sjev. Makedonija), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
-Prekinuto
-Milev Y.
-Popovic S.
-Ganchev A.
-Maes S.
+Kraj
+Kountourakis I.
+Schinas S.
+Neos E.
+Tsitsipas Pe.
 0
+2
+2
+6
+2
+6
+Kraj
+Castelnuovo Y.
+Saxer N.
+Shandarov R.
+Shandarov V.
+2
 0
+6
+3
+6
+2
+Kraj
+Anhelov I.
+Meinertz A.
+Markovski O.
+Srbljak G.
 0
-0
-15
-0
+2
+1
+6
+4
+6
 Prekinuto
 Bruna N.
 Geschwind F. T.
@@ -188,6 +1128,95 @@ Harrison C.
 Hewitt D.
 -
 -
+Kraj
+Akli A.
+Reasco Gonzalez M. E.
+Thombare P.
+Yamalapalli S.
+2
+0
+6
+2
+6
+3
+Kraj
+Kuwata H.
+Raina A.
+Maltby S.
+Zampardo M.
+2
+0
+6
+4
+6
+3
+Kraj
+Brantmeier R.
+Hamilton A.
+McGiffin T.
+Scott K.
+2
+0
+6
+1
+6
+1
+Kraj
+Kobori M.
+Plipuech P.
+Broadus S.
+Rencheli A.
+1
+2
+3
+6
+7
+7
+6
+3
+7
+10
+W15 Kursumlijska Banja 7 (Srbija), zemlja
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Nikcevic T.
+Vaja K.
+Lekomtseva U.
+Mozgaleva A.
+2
+0
+6
+4
+6
+2
+W15 Maanshan 4 (Kina), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Luo X.
+Wang J.
+Wang J.
+Zhu C.
+2
+0
+6
+3
+6
+3
+Kraj
+Wang M.
+Yuan C.
+Guo M.
+Xu J.
+2
+1
+2
+6
+6
+4
+10
+8
 W15 San Diego, CA (SAD), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -224,6 +1253,13 @@ Ho A.
 1
 6
 3
+Walkover
+Chan J.
+Driscoll C.
+Arangio G.
+Quadre B. Q.
+-
+-
 W50 Elvas (Portugal), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -304,7 +1340,7 @@ Prikaži više
 Tenis livescore na Rezultatima nudi teniske rezultate uživo za preko 5000 teniskih turnira diljem svijeta, uključujući Australian Open, French Open, Wimbledon, US Open i mnoge druge. Pratite najnovije rezultate iz tenisa na Rezultatima, gdje možete pronaći detaljnu statistiku (asevi, dvostruke pogreške, postotak servisa, osvojeni servisi, spašene break lopte, neprisiljene pogreške, itd.), usporedbu koeficijenata, međuosboni omjer, vijesti, video sažetke ili tijek meča poen po poen. Pronađite sve današnje rezultate i vijesti iz tenisa na Rezultatima, uključujući ATP rezultate, WTA rezultate, ATP poredak, ATP kalendar 2026, WTA kalendar 2026, ili profile igrača (npr. Jannik Sinner, Carlos Alcaraz, Novak Đoković, Donna Vekić). Usluga tenis livescore se automatski ažurira, tako da nema potrebe da osvježavate stranicu.
 
 Wimbledon 2026 rezultati uživo na Rezultati.com stranici! Wimbledon uživo, uz rezultate i ždrijeb.
-03.07. Safiullin R. - Fonseca J., Struff J-L. - Medvedev D., Jodar R. - Mochizuki S., Rinderknech A. - Đoković N., Davidovich Fokina A. - Fucsovics M., Hurkacz H. - Paul T., Sinner J. - Brooksby J., Auger-Aliassime F. - Zheng M., 04.07. Fritz T. - Sonego L., Bergs Z. - Fery A., De Minaur A. - Svajda Z., Giron M. - Zverev A., Khachanov K. - Cobolli F., Lehecka J. - Munar J., Tiafoe F. - Bublik A., Dimitrov G. - Berrettini M.
+03.07. Rinderknech A. - Đoković N., Jodar R. - Mochizuki S., Struff J-L. - Medvedev D., Sinner J. - Brooksby J., Hurkacz H. - Paul T., Davidovich Fokina A. - Fucsovics M., Auger-Aliassime F. - Zheng M., 04.07. Fritz T. - Sonego L., Bergs Z. - Fery A., De Minaur A. - Svajda Z., Giron M. - Zverev A., Khachanov K. - Cobolli F., Lehecka J. - Munar J., Tiafoe F. - Bublik A., Dimitrov G. - Berrettini M.
 WTA Wimbledon 2026 rezultati uživo na Rezultati.com stranici! WTA Wimbledon uživo, uz rezultate i ždrijeb.
 
 SP 2026
@@ -385,7 +1421,7 @@ Igrajte odgovorno. Gambling Therapy. 18+
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
-Mi i naši partneri 997 pohranjujemo osobne podatke, kao što su podaci o pregledavanju ili jedinstveni identifikatori, i pristupamo im na vašem uređaju. Odabirom opcije Prihvaćam omogućit ćete tehnologije praćenja koje podržavaju svrhe za čije pružanje mi i naši partneri obrađujemo podatke. Odabirom opcije Odbij sve ili povlačenjem svog pristanka onemogućit ćete praćenje. Ako su alati za praćenje onemogućeni, određeni sadržaj i oglasi koje vidite možda više neće biti toliko relevantni za vas. Možete se vratiti na ovaj izbornik kako biste izmijenili svoje odabire ili povukli pristanak u bilo kojem trenutku klikom na Prikaži svrhe poveznicu pri dnu web-stranice [ili plutajuće ikone u donjem lijevom kutu web stranice, ako je primjenjivo]. Vaši će se odabiri primijeniti kako je opisano u dijelu Web-mjesto. Za više pojedinosti pogledajte našu Politiku privatnosti.Treće Strane
+Mi i naši partneri 1000 pohranjujemo osobne podatke, kao što su podaci o pregledavanju ili jedinstveni identifikatori, i pristupamo im na vašem uređaju. Odabirom opcije Prihvaćam omogućit ćete tehnologije praćenja koje podržavaju svrhe za čije pružanje mi i naši partneri obrađujemo podatke. Odabirom opcije Odbij sve ili povlačenjem svog pristanka onemogućit ćete praćenje. Ako su alati za praćenje onemogućeni, određeni sadržaj i oglasi koje vidite možda više neće biti toliko relevantni za vas. Možete se vratiti na ovaj izbornik kako biste izmijenili svoje odabire ili povukli pristanak u bilo kojem trenutku klikom na Prikaži svrhe poveznicu pri dnu web-stranice [ili plutajuće ikone u donjem lijevom kutu web stranice, ako je primjenjivo]. Vaši će se odabiri primijeniti kako je opisano u dijelu Web-mjesto. Za više pojedinosti pogledajte našu Politiku privatnosti.Treće Strane
 Mi i naši partneri obrađujemo podatke kako bismo pružili sljedeće:
 
 Korištenje preciznih geolokacijskih podataka. Aktivno skeniranje karakteristika uređaja za identifikaciju. Pohrana i/ili pristup podacima na uređaju. Personalizirano oglašavanje i sadržaj, mjerenje oglašavanja i sadržaja, uvidi u publiku i razvoj usluga.
