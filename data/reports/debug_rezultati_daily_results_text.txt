@@ -80,6 +80,21 @@ Maginley J.
 4
 6
 1
+Kraj
+Bianchi J. J.
+Harper C.
+Isaro P.
+Kaliyanda Poonacha N.
+1
+2
+4
+6
+7
+8
+6
+6
+6
+10
 M15 Tokyo 3 (Japan), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -94,6 +109,43 @@ Jones M.
 7
 6
 5
+Kraj
+Shin S.
+Samrej K.
+2
+1
+6
+4
+6
+6
+7
+8
+6
+4
+M15 Wuning 4 (Kina), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Harazaki A.
+Nasridinov A.
+0
+2
+1
+6
+6
+4
+7
+7
+Kraj
+(predano)
+Zhang T.
+Rifqi Fitriadi M.
+0
+1
+5
+7
+1
+2
 W100 Cary, NC (SAD), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -128,6 +180,15 @@ Ma Y.
 6
 2
 6
+Kraj
+Liutova K.
+Stefanini L.
+0
+2
+2
+6
+0
+6
 W15 Maanshan 4 (Kina), tvrda podloga (dvorana)
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -140,6 +201,17 @@ Wang J.
 3
 6
 0
+Kraj
+Guo M.
+Snigireva A.
+1
+2
+6
+2
+4
+6
+1
+6
 W35 Amstelveen (Nizozemska), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -148,6 +220,116 @@ Vrancken Peeters A.
 Popa M. S.
 -
 -
+M15 Tokyo 3 (Japan), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Kusuhara Y.
+Nakagawa S.
+Hazawa S.
+Ogura K.
+2
+0
+6
+3
+7
+7
+6
+2
+M15 Wuning 4 (Kina), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Charlton J.
+Ferguson C.
+Liu S.
+Yang X.
+1
+2
+4
+6
+6
+1
+8
+10
+Kraj
+Hongyu Y.
+Hsieh C.
+Lin N. H.
+Yang Z.
+0
+2
+2
+6
+4
+6
+W100 Cary, NC (SAD), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Arseneault A.
+Lacasse R.
+Rogers A. S.
+Zamarripa A.
+0
+2
+4
+6
+5
+7
+Kraj
+Kuwata H.
+Raina A.
+Lincer O.
+Ovcharenko E.
+2
+1
+6
+2
+2
+6
+10
+6
+Kraj
+Akli A.
+Reasco Gonzalez M. E.
+Harrison C.
+Hewitt D.
+0
+2
+6
+8
+7
+10
+1
+6
+Kraj
+Broadus S.
+Rencheli A.
+Brantmeier R.
+Hamilton A.
+0
+2
+4
+6
+4
+6
+W15 Maanshan 4 (Kina), tvrda podloga (dvorana)
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Wang M.
+Yuan C.
+Luo X.
+Wang J.
+1
+2
+6
+0
+3
+6
+9
+11
 W15 San Diego, CA (SAD), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -278,11 +460,12 @@ Brazil - Norveška
 Meksiko - Engleska
 Portugal - Španjolska
 Argentina - Egipat
+Švicarska - Kolumbija
 Crvena zvezda - Slavia Prague
 Varaždin - CSKA 1948 Sofia
 Osijek - Paks
-Radomlje - Varaždin
 LIVESCORE
+Mađarska - Srbija
 Safiullin - Đoković
 Portugal - Španjolska
 SAD - Belgija
@@ -292,7 +475,6 @@ Srbija Ž - Bugarska Ž
 Srbija Ž - Francuska Ž
 Srbija Ž - Njemačka Ž
 Srbija Ž - Nizozemska Ž
-Sinner - Mochizuki
 REZULTATI UŽIVO
 Srbija - Bosna i Hercegovina
 Hrvatska - Izrael
