@@ -19,6 +19,20 @@ TEČAJEVI
 GOTOVO
 RASPORED
 04/07 SU
+Wimbledon (Ujedinjeno Kraljevstvo), trava
+ATP - PAROVI: 
+Ždrijeb
+Kraj
+Bolelli S.
+Vavassori A.
+De Jong J.
+Royer V.
+2
+0
+6
+1
+6
+4
 Cary (SAD), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -40,6 +54,22 @@ Manning W.
 3
 6
 4
+Brasov (Rumunjska), zemlja
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Cervantes I.
+Molchanov D.
+Neuchrist M.
+Vrbensky M.
+1
+2
+3
+6
+6
+3
+4
+10
 Cary (SAD), tvrda podloga
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -95,6 +125,106 @@ Kaliyanda Poonacha N.
 6
 6
 10
+Troyes (Francuska), zemlja
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Hermans M.
+Marcondes I.
+Genov A.
+Wehnelt K.
+2
+1
+6
+3
+3
+6
+10
+7
+M15 Amstelveen (Nizozemska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+(predano)
+Nicod J.
+Naw H.
+1
+0
+6
+2
+4
+1
+M15 Hillcrest (Južna Afrika), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Montsi K.
+Jefferson H.
+2
+0
+7
+6
+7
+7
+6
+2
+Kraj
+Shimanov O.
+Badenhorst D.
+0
+2
+6
+3
+7
+7
+5
+7
+M15 Kayseri 7 (Turska), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Azoidis D.
+Reyniak M.
+0
+2
+3
+6
+3
+6
+Kraj
+Bittoun C.
+Turker M. N.
+2
+1
+2
+6
+6
+4
+6
+1
+M15 Kursumlijska Banja 7 (Srbija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Juhas K.
+Obradovic D.
+1
+2
+6
+2
+3
+6
+3
+6
+Kraj
+Pankin S.
+Derepasko T.
+0
+2
+3
+6
+3
+6
 M15 Tokyo 3 (Japan), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -146,6 +276,18 @@ Rifqi Fitriadi M.
 7
 1
 2
+M25 Figueira da Foz (Portugal), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Overbeck C. E.
+Dominko S.
+2
+0
+6
+2
+6
+3
 W100 Cary, NC (SAD), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -189,6 +331,51 @@ Stefanini L.
 6
 0
 6
+W15 Hillcrest (Južna Afrika), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Kruger I.
+Duerst J.
+0
+2
+2
+6
+2
+6
+Kraj
+Van Zyl M.
+Leykina P.
+0
+2
+3
+6
+1
+6
+W15 Kayseri 7 (Turska), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Soke D.
+Farzami M.
+2
+0
+6
+2
+6
+4
+W15 Kursumlijska Banja 7 (Srbija), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Petkovic A.
+Tomase E.
+0
+2
+4
+6
+1
+6
 W15 Maanshan 4 (Kina), tvrda podloga (dvorana)
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -212,12 +399,55 @@ Snigireva A.
 6
 1
 6
+W15 Mogyorod (Mađarska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Bojica S.
+Meri E.
+0
+2
+3
+6
+2
+6
+Kraj
+Munk Mortensen R.
+Nagy A.
+0
+2
+5
+7
+4
+6
+W15 Monastir 20 (Tunis), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Maloney E.
+Ezzat Y.
+2
+0
+6
+4
+6
+2
 W35 Amstelveen (Nizozemska), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
 Walkover
 Vrancken Peeters A.
 Popa M. S.
+-
+-
+M15 Kursumlijska Banja 7 (Srbija), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Walkover
+Juhas K.
+Obradovic D.
+Arzhankin A.
+Manukyan V.
 -
 -
 M15 Tokyo 3 (Japan), tvrda podloga
@@ -236,6 +466,20 @@ Ogura K.
 7
 6
 2
+M15 Umag (Hrvatska), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Fellin P. O.
+Oradini G.
+Biletic I.
+Ivanisevic E.
+2
+0
+6
+3
+6
+1
 M15 Wuning 4 (Kina), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -263,6 +507,37 @@ Yang Z.
 6
 4
 6
+Kraj
+Liu S.
+Yang X.
+Lin N. H.
+Yang Z.
+2
+1
+5
+7
+7
+7
+6
+3
+10
+7
+M25 Rabat (Maroko), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Alabdullah B.
+Qabazard E.
+Chambonniere M.
+Villoslada E.
+2
+1
+2
+6
+7
+5
+10
+7
 W100 Cary, NC (SAD), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -364,6 +639,27 @@ Bhosale R.
 2
 2
 10
+Wimbledon (Ujedinjeno Kraljevstvo), trava
+JUNIORI - SINGL: 
+Ždrijeb
+Kraj
+Brand D.
+Cozad R.
+2
+0
+6
+3
+6
+2
+Kraj
+Kawanishi H.
+Jade D.
+0
+2
+3
+6
+0
+6
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -428,7 +724,7 @@ Prikaži više
 Tenis livescore na Rezultatima nudi teniske rezultate uživo za preko 5000 teniskih turnira diljem svijeta, uključujući Australian Open, French Open, Wimbledon, US Open i mnoge druge. Pratite najnovije rezultate iz tenisa na Rezultatima, gdje možete pronaći detaljnu statistiku (asevi, dvostruke pogreške, postotak servisa, osvojeni servisi, spašene break lopte, neprisiljene pogreške, itd.), usporedbu koeficijenata, međuosboni omjer, vijesti, video sažetke ili tijek meča poen po poen. Pronađite sve današnje rezultate i vijesti iz tenisa na Rezultatima, uključujući ATP rezultate, WTA rezultate, ATP poredak, ATP kalendar 2026, WTA kalendar 2026, ili profile igrača (npr. Jannik Sinner, Carlos Alcaraz, Novak Đoković, Donna Vekić). Usluga tenis livescore se automatski ažurira, tako da nema potrebe da osvježavate stranicu.
 
 Wimbledon 2026 rezultati uživo na Rezultati.com stranici! Wimbledon uživo, uz rezultate i ždrijeb.
-04.07. De Minaur A. - Svajda Z., Khachanov K. - Cobolli F., Lehecka J. - Munar J., Bergs Z. - Fery A., Fritz T. - Sonego L., Giron M. - Zverev A., Tiafoe F. - Bublik A., Dimitrov G. - Berrettini M., 05.07. Safiullin R. - Đoković N., Sinner J. - Mochizuki S., Hurkacz H. - Struff J-L., Auger-Aliassime F. - Davidovich Fokina A.
+04.07. Khachanov K. - Cobolli F., Lehecka J. - Munar J., Bergs Z. - Fery A., Fritz T. - Sonego L., Giron M. - Zverev A., Tiafoe F. - Bublik A., Dimitrov G. - Berrettini M., 05.07. Safiullin R. - Đoković N., Sinner J. - Mochizuki S., Hurkacz H. - Struff J-L., Auger-Aliassime F. - Davidovich Fokina A.
 WTA Wimbledon 2026 rezultati uživo na Rezultati.com stranici! WTA Wimbledon uživo, uz rezultate i ždrijeb.
 
 SP 2026
@@ -505,7 +801,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Igrajte odgovorno. Gambling Therapy. 18+
+Must be 21+. If you or someone you know has a gambling problem, crisis counselling and referral services can be accessed by calling 1-800-GAMBLER (1-800-426-2537) or by texting ILGAMB to 833234. The 1-800-GAMBLER helpline can be used for multi-jurisdictional advertising.
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
