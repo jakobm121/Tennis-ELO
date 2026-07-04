@@ -19,6 +19,127 @@ TEČAJEVI
 GOTOVO
 RASPORED
 04/07 SU
+Cary (SAD), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Legout T.
+Baris O.
+2
+0
+6
+4
+6
+1
+Kraj
+Winter E.
+Manning W.
+2
+0
+6
+3
+6
+4
+Cary (SAD), tvrda podloga
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Reynolds F.
+Watt J.
+Camus C.
+Sabaliauskas A.
+2
+1
+6
+3
+6
+5
+7
+7
+14
+12
+Kraj
+Nam J. S.
+Niklas-Salminen P.
+Lammons N.
+Withrow J.
+2
+0
+6
+3
+6
+3
+Kraj
+Harper P.
+Hilderbrand T.
+Boulais J.
+Maginley J.
+2
+0
+6
+4
+6
+1
+M15 Tokyo 3 (Japan), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Dellavedova M.
+Jones M.
+2
+0
+6
+0
+7
+7
+6
+5
+W100 Cary, NC (SAD), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Koike E.
+Evans T.
+2
+0
+7
+5
+6
+2
+Kraj
+Ma L.
+Broadus S.
+0
+2
+6
+3
+7
+7
+6
+6
+7
+8
+Kraj
+Slama M.
+Ma Y.
+0
+2
+4
+6
+2
+6
+W15 Maanshan 4 (Kina), tvrda podloga (dvorana)
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Yuan C.
+Wang J.
+2
+0
+6
+3
+6
+0
 W35 Amstelveen (Nizozemska), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -27,6 +148,40 @@ Vrancken Peeters A.
 Popa M. S.
 -
 -
+W15 San Diego, CA (SAD), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Chung K.
+Guichard A.
+Ewing S.
+Vagramov A.
+1
+2
+5
+7
+7
+7
+6
+5
+6
+10
+W50 Elvas (Portugal), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Dapkute I.
+Zhiyenbayeva S.
+Adkar V.
+Bhosale R.
+1
+2
+3
+6
+6
+2
+2
+10
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -118,11 +273,11 @@ MLB
 EuroBasket U20 2026
 NOGOMET UŽIVO
 Hajduk Split - Zilina
-Kolumbija - Gana
 Paragvaj - Francuska
 Brazil - Norveška
 Meksiko - Engleska
 Portugal - Španjolska
+Argentina - Egipat
 Crvena zvezda - Slavia Prague
 Varaždin - CSKA 1948 Sofia
 Osijek - Paks
@@ -131,13 +286,13 @@ LIVESCORE
 Safiullin - Đoković
 Portugal - Španjolska
 SAD - Belgija
+Argentina - Egipat
 Borac Banja Luka - Levski Sofia
 Srbija Ž - Bugarska Ž
 Srbija Ž - Francuska Ž
 Srbija Ž - Njemačka Ž
 Srbija Ž - Nizozemska Ž
 Sinner - Mochizuki
-Poljska - Njemačka
 REZULTATI UŽIVO
 Srbija - Bosna i Hercegovina
 Hrvatska - Izrael
