@@ -54,6 +54,66 @@ Cobolli F.
 6
 2
 6
+Kraj
+Bergs Z.
+Fery A.
+2
+3
+6
+2
+5
+7
+6
+2
+6
+3
+7
+7
+6
+5
+7
+10
+Kraj
+Lehecka J.
+Munar J.
+3
+1
+6
+4
+6
+4
+4
+6
+6
+4
+Kraj
+Giron M.
+Zverev A.
+0
+3
+2
+6
+6
+4
+7
+7
+4
+6
+Kraj
+Fritz T.
+Sonego L.
+3
+1
+4
+6
+6
+3
+6
+4
+7
+7
+6
+5
 Wimbledon (Ujedinjeno Kraljevstvo), trava
 WTA - SINGL: 
 Ždrijeb
@@ -121,6 +181,30 @@ Sakkari M.
 1
 6
 2
+Kraj
+Cirstea S.
+Noskova L.
+1
+2
+6
+2
+3
+6
+6
+9
+7
+11
+Kraj
+Anisimova A.
+Keys M.
+1
+2
+6
+3
+2
+6
+3
+6
 Wimbledon (Ujedinjeno Kraljevstvo), trava
 ATP - PAROVI: 
 Ždrijeb
@@ -310,6 +394,41 @@ Williams S.
 Williams V.
 -
 -
+Kraj
+Osorio C.
+Sierra S.
+Murray S.
+Tararudee L.
+2
+0
+6
+3
+6
+4
+Kraj
+Danilina A.
+Krunic A.
+Kalinina A.
+Yastremska D.
+2
+1
+2
+6
+6
+4
+6
+0
+Kraj
+Siniakova K.
+Townsend T.
+Bouzkova M.
+Sorribes Tormo S.
+2
+0
+6
+2
+6
+1
 Wimbledon (Ujedinjeno Kraljevstvo), trava
 MIJEŠANI PAROVI: 
 Ždrijeb
@@ -362,6 +481,21 @@ Burrage J.
 6
 1
 Kraj
+Nys H.
+Gleason Q.
+Pavic M.
+Stollar F.
+1
+2
+6
+3
+6
+5
+7
+7
+4
+6
+Kraj
 Polmans M.
 Hunter S.
 Arribage T.
@@ -372,6 +506,40 @@ Melichar-Martinez N.
 3
 6
 3
+Kraj
+Harris B.
+Christie F.
+Skupski N.
+Krawczyk D.
+1
+2
+6
+3
+7
+7
+7
+7
+6
+5
+4
+6
+Kraj
+Olivetti A.
+Zvonareva V.
+Arevalo M.
+Ostapenko J.
+1
+2
+2
+6
+7
+7
+6
+4
+6
+7
+7
+10
 Brasov (Rumunjska), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -418,6 +586,31 @@ Manning W.
 3
 6
 4
+Kvito (Ekvador), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Meligeni Alves F.
+Casanova H.
+0
+2
+6
+5
+7
+7
+5
+7
+Kraj
+Heredia S.
+Pucinelli de Almeida M.
+1
+2
+3
+6
+6
+4
+4
+6
 Milan (Italija), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -453,6 +646,19 @@ Feldbausch K.
 6
 3
 6
+Kraj
+Hemery C.
+Moeller M.
+0
+2
+6
+5
+7
+7
+6
+7
+7
+9
 Brasov (Rumunjska), zemlja
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -592,6 +798,15 @@ Garcia A.
 3
 6
 3
+Kraj
+Hernandez C.
+Parisca I.
+2
+0
+6
+3
+6
+2
 M15 Hillcrest (Južna Afrika), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -688,6 +903,27 @@ Duran T.
 3
 7
 5
+M15 San Diego, CA (SAD), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Kim A.
+Krall L.
+2
+0
+6
+3
+6
+4
+Kraj
+Zamora N.
+Nakashima B.
+0
+2
+3
+6
+4
+6
 M15 Store (Slovenija), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -788,6 +1024,27 @@ Rifqi Fitriadi M.
 7
 1
 2
+M25 Ajaccio +H (Francuska), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Lokoli L.
+Bobichon M.
+2
+0
+6
+3
+6
+2
+Kraj
+Fomba L.
+Added D.
+0
+2
+2
+6
+4
+6
 M25 Figueira da Foz (Portugal), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -1088,6 +1345,27 @@ Ezzat Y.
 4
 6
 2
+W15 San Diego, CA (SAD), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Ewing S.
+Shcherbinina A.
+0
+2
+2
+6
+2
+6
+Kraj
+Fakih K.
+Xu A.
+2
+0
+6
+1
+6
+4
 W35 Aix-les-Bains (Francuska), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -1102,6 +1380,17 @@ Granwehr A.
 5
 2
 6
+Kraj
+Zantedeschi A.
+Sieg M.
+2
+0
+6
+2
+7
+7
+6
+3
 W35 Amstelveen (Nizozemska), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -1244,6 +1533,22 @@ Frusina A.
 7
 4
 10
+M15 San Diego, CA (SAD), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Exsted M.
+Johnston N.
+Gogineni V.
+Shearer M.
+2
+1
+3
+6
+6
+4
+11
+9
 M15 Store (Slovenija), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -1421,6 +1726,17 @@ Srbljak G.
 5
 7
 4
+6
+Kraj
+Keremedchiev N.
+Simeonov D.
+Markovski O.
+Srbljak G.
+0
+2
+5
+7
+3
 6
 W100 Cary, NC (SAD), tvrda podloga
 ITF - ŽENSKI PAROVI: 
@@ -1661,6 +1977,20 @@ Bhosale R.
 2
 2
 10
+W50 Stuttgart-Vaihingen (Njemačka), zemlja
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Sobolieva A.
+Zaparyniuk A.
+Carle M. L.
+Riera J.
+0
+2
+2
+6
+3
+6
 Wimbledon (Ujedinjeno Kraljevstvo), trava
 JUNIORI - SINGL: 
 Ždrijeb
@@ -1751,6 +2081,39 @@ Chavez T.
 6
 0
 6
+Kraj
+Jovanovski D.
+Sallu I.
+2
+0
+6
+4
+6
+2
+Kraj
+Chabalgoity P. H.
+Boogaard T.
+0
+2
+4
+6
+2
+6
+Kraj
+Alvarez Y.
+Konduri T.
+1
+2
+7
+7
+6
+2
+2
+6
+6
+10
+7
+12
 Wimbledon (Ujedinjeno Kraljevstvo), trava
 JUNIORKE - SINGL: 
 Ždrijeb
@@ -1879,6 +2242,14 @@ Zingg L.
 3
 6
 0
+Billie Jean King Cup - Group II (Svijet) - Relegation
+TIMOVI - ŽENE: 
+Ždrijeb
+Kraj
+Urugvaj Ž
+Honduras Ž
+1
+2
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -1911,11 +2282,11 @@ ATP Wimbledon
 WTA Wimbledon
 Wimbledon miješani parovi
 Brasov Challenger Muškarci
+Braunschweig Challenger Muškarci
 Cary Challenger Muškarci
+Iasi Challenger Muškarci
 Kvito Challenger Muškarci
-Milan Challenger Muškarci
-Troyes Challenger Muškarci
-Prikaži više (71)
+Prikaži više (74)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -1943,7 +2314,7 @@ Prikaži više
 Tenis livescore na Rezultatima nudi teniske rezultate uživo za preko 5000 teniskih turnira diljem svijeta, uključujući Australian Open, French Open, Wimbledon, US Open i mnoge druge. Pratite najnovije rezultate iz tenisa na Rezultatima, gdje možete pronaći detaljnu statistiku (asevi, dvostruke pogreške, postotak servisa, osvojeni servisi, spašene break lopte, neprisiljene pogreške, itd.), usporedbu koeficijenata, međuosboni omjer, vijesti, video sažetke ili tijek meča poen po poen. Pronađite sve današnje rezultate i vijesti iz tenisa na Rezultatima, uključujući ATP rezultate, WTA rezultate, ATP poredak, ATP kalendar 2026, WTA kalendar 2026, ili profile igrača (npr. Jannik Sinner, Carlos Alcaraz, Novak Đoković, Donna Vekić). Usluga tenis livescore se automatski ažurira, tako da nema potrebe da osvježavate stranicu.
 
 Wimbledon 2026 rezultati uživo na Rezultati.com stranici! Wimbledon uživo, uz rezultate i ždrijeb.
-04.07. Fritz T. - Sonego L., Tiafoe F. - Bublik A., Dimitrov G. - Berrettini M., 05.07. Hurkacz H. - Struff J-L., De Minaur A. - Cobolli F., Safiullin R. - Đoković N., Auger-Aliassime F. - Davidovich Fokina A., Sinner J. - Mochizuki S.
+05.07. Safiullin R. - Đoković N., Hurkacz H. - Struff J-L., Auger-Aliassime F. - Davidovich Fokina A., Sinner J. - Mochizuki S., 06.07. De Minaur A. - Cobolli F., Lehecka J. - Zverev A.
 WTA Wimbledon 2026 rezultati uživo na Rezultati.com stranici! WTA Wimbledon uživo, uz rezultate i ždrijeb.
 
 SP 2026
@@ -1977,10 +2348,9 @@ Meksiko - Engleska
 Portugal - Španjolska
 Argentina - Egipat
 Švicarska - Kolumbija
-Osijek - Paks
 Radomlje - Varaždin
+FC Bihor - Varaždin
 LIVESCORE
-Mađarska - Srbija
 Safiullin - Đoković
 Portugal - Španjolska
 SAD - Belgija
@@ -1990,17 +2360,18 @@ Srbija Ž - Bugarska Ž
 Srbija Ž - Francuska Ž
 Srbija Ž - Njemačka Ž
 Srbija Ž - Nizozemska Ž
+Sinner - Mochizuki
 REZULTATI UŽIVO
 Srbija - Bosna i Hercegovina
 Hrvatska - Izrael
-Kanada - Maroko
-Španjolska U20 - Hrvatska U20
 Paragvaj - Francuska
 Hrvatska U20 Ž - Izrael U20 Ž
 Italija U20 Ž - Srbija U20 Ž
 Crna Gora - Rumunjska
 Brazil - Norveška
 Meksiko - Engleska
+SAD - Belgija
+Hrvatska U20 Ž - Španjolska U20 Ž
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
