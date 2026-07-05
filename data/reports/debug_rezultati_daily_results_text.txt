@@ -19,6 +19,18 @@ TEČAJEVI
 GOTOVO
 RASPORED
 05/07 NE
+Brasov (Rumunjska), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Smith K.
+Piros Z.
+0
+2
+4
+6
+4
+6
 Cary (SAD), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -35,6 +47,116 @@ Winter E.
 7
 5
 7
+5
+Bogota (Kolumbija) - Kvalifikacije, zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Otkazano
+Popko D.
+Neira Rodriguez J. J.
+-
+-
+Braunschweig (Njemačka) - Kvalifikacije, zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Pieri S.
+Larwig N.
+2
+0
+7
+5
+7
+5
+Kraj
+Seifert S.
+Molleker R.
+0
+2
+4
+6
+2
+6
+Kraj
+Marysko V.
+Durasovic V.
+2
+0
+7
+7
+6
+4
+6
+2
+Liege (Belgija) - Kvalifikacije, zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Schell N.
+De Krom M.
+0
+2
+3
+6
+4
+6
+Kraj
+Campana Lee G.
+Bidan F.
+2
+0
+6
+3
+6
+2
+Trieste (Italija) - Kvalifikacije, zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+(predano)
+Crivellaro G.
+Rubio Fierros A. F.
+1
+1
+6
+2
+1
+6
+5
+0
+Kraj
+Berto L.
+Bocchi L.
+0
+2
+2
+6
+5
+7
+Contrexeville (Francuska) - Kvalifikacije, zemlja
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Kudermetova P.
+Boulard L.
+0
+2
+6
+2
+7
+7
+4
+6
+Kraj
+Monnot A.
+Gimbrere J.
+2
+0
+6
+3
+7
+7
+6
 5
 Cary (SAD), tvrda podloga
 CHALLENGER - MUŠKI PAROVI: 
@@ -63,6 +185,58 @@ Kaliyanda Poonacha N.
 5
 11
 9
+M15 Hillcrest (Južna Afrika), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Montsi K.
+Badenhorst D.
+2
+0
+7
+5
+6
+4
+M15 Kayseri 7 (Turska), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Bittoun C.
+Reyniak M.
+2
+1
+6
+3
+3
+6
+6
+4
+M15 Kursumlijska Banja 7 (Srbija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Derepasko T.
+Obradovic D.
+0
+2
+6
+4
+7
+7
+1
+6
+M15 Store (Slovenija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Baroni N.
+Wiedenmann L.
+0
+2
+4
+6
+2
+6
 M15 Tokyo 3 (Japan), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -75,6 +249,30 @@ Shin S.
 3
 6
 4
+M15 Umag (Hrvatska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Angelini L.
+Castagnola L.
+2
+0
+6
+3
+6
+1
+M15 Wuning 4 (Kina), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Nasridinov A.
+Rifqi Fitriadi M.
+0
+2
+3
+6
+3
+6
 W100 Cary, NC (SAD), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -98,6 +296,84 @@ Stefanini L.
 6
 0
 6
+W15 Getxo (Španjolska), zemlja (dvorana)
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Claeys L.
+Torner Sensano N.
+2
+1
+6
+2
+3
+6
+6
+4
+W15 Kayseri 7 (Turska), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Soke D.
+Ercan M.
+2
+0
+6
+3
+7
+5
+W15 Kursumlijska Banja 7 (Srbija), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Stankovic A.
+Tomase E.
+2
+0
+7
+5
+6
+1
+W15 Maanshan 4 (Kina), tvrda podloga (dvorana)
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Snigireva A.
+Yuan C.
+0
+2
+6
+3
+7
+7
+2
+6
+W15 Mogyorod (Mađarska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Nagy A.
+Meri E.
+2
+1
+2
+6
+6
+3
+6
+3
+W15 Monastir 20 (Tunis), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Maloney E.
+Sartz-Lunde E.
+0
+2
+3
+6
+5
+7
 W100 Cary, NC (SAD), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -141,6 +417,53 @@ Bhosale R.
 4
 6
 3
+Wimbledon (Ujedinjeno Kraljevstvo), trava
+JUNIORI - SINGL: 
+Ždrijeb
+Kraj
+Ciurnelli R.
+Kisimov D.
+0
+2
+3
+6
+5
+7
+Kraj
+Lee J. A.
+Alexandrescou Y. T.
+2
+0
+6
+0
+6
+2
+Wimbledon (Ujedinjeno Kraljevstvo), trava
+JUNIORKE - SINGL: 
+Ždrijeb
+Kraj
+Stojsavljevic M.
+Newman W.
+2
+0
+6
+0
+6
+4
+Kraj
+Zoldakova D.
+Yoshida R.
+2
+0
+6
+0
+6
+2
+Otkazano
+Sushkova A.
+Thamm M.
+-
+-
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -177,7 +500,7 @@ Brasov Challenger Muškarci
 Braunschweig Challenger Muškarci
 Cary Challenger Muškarci
 Iasi Challenger Muškarci
-Prikaži više (77)
+Prikaži više (67)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -251,12 +574,12 @@ Srbija Ž - Bugarska Ž
 Srbija Ž - Francuska Ž
 Srbija Ž - Njemačka Ž
 Srbija Ž - Nizozemska Ž
-Sinner - Mochizuki
+Japan - Italija
 REZULTATI UŽIVO
 Srbija - Bosna i Hercegovina
 Hrvatska - Izrael
-Hrvatska U20 Ž - Izrael U20 Ž
 Italija U20 Ž - Srbija U20 Ž
+Francuska U20 - Hrvatska U20
 Crna Gora - Rumunjska
 Brazil - Norveška
 Meksiko - Engleska
