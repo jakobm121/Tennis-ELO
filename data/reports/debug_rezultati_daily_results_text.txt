@@ -33,6 +33,49 @@ Shick B.
 7
 3
 6
+Braunschweig (Njemačka) - Kvalifikacije, zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Gombos N.
+Luz O.
+2
+0
+6
+0
+6
+3
+Kraj
+Seyboth Wild T.
+Marysko V.
+2
+0
+6
+2
+6
+4
+Liege (Belgija) - Kvalifikacije, zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+(predano)
+Staeheli L.
+Lechno-Wasiutynski F.
+1
+0
+7
+5
+3
+0
+Kraj
+Nijboer R.
+Rahmani K.
+2
+0
+6
+2
+6
+1
 Newport (SAD) - Kvalifikacije, trava
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -49,6 +92,93 @@ Trotter J. K.
 1
 0
 0
+Trieste (Italija) - Kvalifikacije, zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Kravchenko G.
+Crivellaro G.
+2
+0
+6
+4
+6
+1
+Kraj
+Villanueva G.
+Bocchi L.
+2
+0
+7
+7
+6
+3
+6
+1
+Kraj
+Prihodko O.
+Oradini G.
+2
+1
+6
+4
+3
+6
+7
+5
+Kraj
+Dalla Valle E.
+Carou I.
+2
+0
+6
+1
+6
+1
+Bastad (Švedska), zemlja
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Bulgaru M.
+Strakhova V.
+2
+0
+6
+2
+6
+2
+Contrexeville (Francuska) - Kvalifikacije, zemlja
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Boulard L.
+Kotliar Y.
+0
+2
+4
+6
+3
+6
+Kraj
+Herrero Linana A.
+Nguyen Tan L.
+2
+0
+6
+1
+6
+1
+Kraj
+Monnot A.
+Popa M. S.
+2
+0
+7
+5
+7
+7
+6
+5
 Cary (SAD), tvrda podloga
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -91,6 +221,18 @@ Hewitt D.
 6
 2
 6
+Wimbledon (Ujedinjeno Kraljevstvo), trava
+JUNIORKE - SINGL: 
+Ždrijeb
+Kraj
+Esquiva Banuls C.
+Hoo C.
+2
+0
+6
+2
+6
+3
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -123,11 +265,11 @@ ATP Wimbledon
 WTA Wimbledon
 Wimbledon miješani parovi
 Bogota Challenger Muškarci
-Brasov Challenger Muškarci
 Braunschweig Challenger Muškarci
 Cary Challenger Muškarci
 Iasi Challenger Muškarci
-Prikaži više (58)
+Kvito Challenger Muškarci
+Prikaži više (39)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -181,6 +323,7 @@ World Matchplay
 MLB
 EuroBasket U20 2026
 NOGOMET UŽIVO
+Dinamo Zagreb - Koper
 Hajduk Split - Zilina
 Dinamo Zagreb - LNZ Cherkasy
 Portugal - Španjolska
@@ -190,7 +333,6 @@ Francuska - Maroko
 Norveška - Engleska
 Radomlje - Varaždin
 FC Bihor - Varaždin
-Zenit - Crvena zvezda
 LIVESCORE
 Auger-Aliassime - Đoković
 Srbija - Turska
@@ -205,6 +347,7 @@ Srbija Ž - Nizozemska Ž
 REZULTATI UŽIVO
 Srbija - Bosna i Hercegovina
 Hrvatska - Izrael
+Hrvatska U20 - Litva U20
 SAD - Belgija
 Hrvatska U20 Ž - Španjolska U20 Ž
 Poljska U20 Ž - Srbija U20 Ž
@@ -212,7 +355,6 @@ Poljska U20 Ž - Srbija U20 Ž
 Francuska - Maroko
 Hrvatska U20 - Grčka U20
 Srbija U20 - Poljska U20
-Litva U20 - Srbija U20
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
