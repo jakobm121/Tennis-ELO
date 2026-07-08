@@ -1,10 +1,10 @@
 # TLE Player Mapping Quality Audit
 
-Generated: `2026-07-07T10:04:03+00:00`
+Generated: `2026-07-08T09:04:15+00:00`
 
 ## Summary
 
-- generated_at: `2026-07-07T10:04:03+00:00`
+- generated_at: `2026-07-08T09:04:15+00:00`
 - mapping_file: `/home/runner/work/Tennis-ELO/Tennis-ELO/data/tle/mappings/api_player_to_sackmann.json`
 - canonical_manifest: `/home/runner/work/Tennis-ELO/Tennis-ELO/data/tle/processed/canonical/tle_matches_manifest.json`
 - mapping_summary: `{"api_players": 2328, "sackmann_players": 11993, "mapping_statuses": {"matched": 2142, "review": 115, "unmatched": 71}, "matches_by_status": {"matched": 4597, "review": 284, "unmatched": 132}, "matched_players": 2142, "unresolved_players": 186}`
