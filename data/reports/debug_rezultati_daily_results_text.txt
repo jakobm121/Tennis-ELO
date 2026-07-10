@@ -65,6 +65,61 @@ Schoolkate T.
 1
 6
 4
+M15 Bucharest 2 (Rumunjska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Mirarchi W.
+Talan Lopatic L.
+0
+2
+3
+6
+0
+6
+M15 Kursumlijska Banja 8 (Srbija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Cattaneo L.
+Delage P.
+0
+2
+6
+3
+7
+7
+0
+6
+Kraj
+Fabre A.
+Obradovic D.
+2
+0
+6
+4
+6
+2
+Kraj
+Milic O.
+Mikovic M.
+2
+0
+6
+2
+6
+3
+Kraj
+Vives Marcos P.
+Jankanj V.
+2
+0
+7
+7
+6
+4
+6
+3
 M15 Tokyo 4 (Japan), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -86,6 +141,28 @@ Jasika O.
 6
 5
 7
+Kraj
+Imai S.
+Nakagawa N.
+1
+2
+4
+6
+6
+1
+5
+7
+Kraj
+Matsuda K.
+Ochi M.
+2
+0
+7
+8
+6
+6
+6
+3
 M25 Laval (Kanada), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -146,6 +223,179 @@ Kirchheimer S.
 1
 40
 A
+M25 Roda de Bara (Španjolska), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Baybars A.
+Erel Y.
+0
+2
+1
+6
+1
+6
+W15 Astana (Kazahstan), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Dyussebay I.
+Sagandikova A.
+0
+2
+3
+6
+3
+6
+Kraj
+Sholokhova M.
+Kroitor K.
+2
+0
+6
+0
+6
+1
+Kraj
+Tupitsyna E.
+Maklakova E.
+0
+2
+6
+2
+7
+7
+1
+6
+Kraj
+Yodpetch K.
+Jang G.
+2
+0
+7
+5
+7
+5
+W15 Kursumlijska Banja 8 (Srbija), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Friedman L.
+Solakov L.
+1
+2
+6
+4
+2
+6
+1
+6
+Kraj
+Natal L.
+Tomase E.
+0
+2
+3
+6
+3
+6
+Kraj
+Pavlou D.
+Karunaratne A.
+0
+2
+4
+6
+2
+6
+W15 Luan 4 (Kina), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Cheuk S. Y.
+Nong X.
+2
+0
+6
+1
+6
+4
+W35 Buzau (Rumunjska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Dencheva R.
+Golovina M.
+2
+0
+6
+4
+6
+4
+W35 Don Benito (Španjolska), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Pawlikowska Z.
+Hruncakova V.
+0
+2
+1
+6
+4
+6
+Kraj
+Plosnik E.
+Ercan M.
+1
+2
+6
+3
+1
+6
+4
+6
+Kraj
+Ryser V.
+Allen V.
+2
+0
+6
+2
+7
+7
+6
+4
+W35 Hillcrest (Južna Afrika), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Cirotte A.
+Grammatikopoulou V.
+2
+0
+6
+4
+6
+4
+Kraj
+Duerst J.
+Leykina P.
+0
+2
+5
+7
+1
+6
+Kraj
+Kruger I.
+Smirnova K.
+0
+2
+1
+6
+2
+6
 M15 Rancho Santa Fe, CA (SAD), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -175,6 +425,22 @@ Weber J.
 7
 1
 6
+M15 Tokyo 4 (Japan), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Ichikawa T.
+Noguchi M.
+Oki Y.
+Yamanaka T.
+2
+0
+6
+4
+7
+7
+6
+4
 M25 Dallas, TX (SAD), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -232,6 +498,17 @@ Allen V.
 Berecoechea N.
 -
 -
+Kraj
+Lemaitre T.
+Tran D.
+Sawant M.
+Yardley S.
+2
+0
+7
+5
+6
+2
 Reklama
 PRIKVAČENE LIGE
 Australian Open
