@@ -70,6 +70,116 @@ Hemery C.
 2
 3
 6
+Kraj
+Cina F.
+Zahraj P.
+2
+0
+7
+5
+6
+3
+Kraj
+Virtanen O.
+Dietrich D.
+0
+2
+4
+6
+6
+4
+7
+7
+Kraj
+Skatov T.
+Chandrasekar A.
+2
+0
+6
+2
+6
+4
+Kraj
+Dhamne M.
+Sachko V.
+0
+2
+4
+6
+1
+6
+Umag (Hrvatska) - Kvalifikacije, zemlja
+ATP - SINGL: 
+Ždrijeb
+Kraj
+Cecchinato M.
+Ajdukovic D.
+2
+0
+6
+3
+6
+4
+Kraj
+(predano)
+Topo M.
+Martin Tiffon P.
+1
+0
+6
+4
+0
+0
+Athens (Grčka) - Kvalifikacije, tvrda podloga
+WTA - SINGL: 
+Ždrijeb
+Kraj
+Aslanisvili A.
+Sieg M.
+0
+2
+3
+6
+0
+6
+Kraj
+Hodzic M.
+Chan H-C.
+2
+0
+6
+3
+6
+4
+Kraj
+Tsetsou E.
+Mansouri Y.
+0
+2
+5
+7
+6
+4
+7
+7
+Kraj
+Rentoumi M.
+Tona M.
+0
+2
+1
+6
+1
+6
+Kraj
+Micic E.
+Ninomiya M.
+2
+0
+6
+0
+6
+2
 Wimbledon (Ujedinjeno Kraljevstvo), trava
 ATP - PAROVI: 
 Ždrijeb
@@ -100,18 +210,20 @@ Choinski J.
 7
 2
 6
-Iasi (Rumunjska), zemlja
+Liege (Belgija), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
-Prekinuto
-Piros Z.
-Kym J.
+Kraj
+Giustino L.
+Damas M.
+2
 0
-0
-0
-1
-0
-0
+7
+7
+6
+3
+6
+3
 Nottingham 4 (Ujedinjeno Kraljevstvo), trava
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -122,6 +234,29 @@ Gray A.
 0
 7
 5
+6
+3
+Kraj
+Searle H.
+Basing M.
+2
+0
+7
+5
+6
+2
+Trieste (Italija), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Dodig M.
+Squire H.
+2
+1
+6
+4
+3
+6
 6
 3
 Bastad (Švedska), zemlja
@@ -136,6 +271,30 @@ Badosa P.
 7
 5
 7
+Contrexeville (Francuska), zemlja
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Vandromme J.
+Zantedeschi A.
+2
+0
+6
+3
+6
+4
+Newport (SAD), trava
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Sawangkaew M.
+Maria T.
+0
+2
+2
+6
+1
+6
 Braunschweig (Njemačka), zemlja
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -170,6 +329,20 @@ Hsu J.
 5
 11
 13
+Newport (SAD), trava
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Romboli F.
+Smith J-P.
+Lammons N.
+Withrow J.
+2
+0
+6
+4
+6
+4
 Nottingham 4 (Ujedinjeno Kraljevstvo), trava
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -202,6 +375,20 @@ Serdarusic N.
 7
 4
 6
+Bastad (Švedska), zemlja
+CHALLENGER - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Arango E.
+Waltert S.
+Barnett A.
+Lechemia E.
+2
+0
+6
+4
+6
+1
 M15 Bucharest 2 (Rumunjska), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -315,6 +502,20 @@ Barbier Gazeu P.
 3
 6
 2
+M15 San Salvador de Jujuy (Argentina), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Estevez J.
+Aguilar Cardozo J.
+2
+0
+7
+7
+6
+4
+6
+4
 M15 Tokyo 4 (Japan), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -390,6 +591,15 @@ Juan Mano A.
 6
 0
 2
+Kraj
+Kelm Y.
+Wessels L.
+0
+2
+4
+6
+4
+6
 M25+H Kassel (Njemačka), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -424,6 +634,20 @@ Oetzbach A.
 4
 6
 2
+W100 Aschaffenburg (Njemačka), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Sobolieva A.
+Avdeeva J.
+2
+0
+6
+3
+7
+7
+6
+4
 W15 Astana (Kazahstan), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -513,6 +737,18 @@ Wiersholm K.
 1
 6
 2
+W15 Rio Claro (Brazil), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Babel O.
+Gerald Gonzalez J. G.
+2
+0
+6
+1
+6
+1
 W35 Buzau (Rumunjska), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -569,6 +805,29 @@ Cirotte A.
 7
 6
 3
+W50 Columbus, OH (SAD), tvrda podloga (dvorana)
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Hosogi S.
+Daavettila S.
+2
+1
+7
+5
+1
+6
+6
+2
+Kraj
+Marino R.
+Pareja J.
+0
+2
+2
+6
+5
+7
 W50 Corroios-Seixal (Portugal), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -604,6 +863,17 @@ Karatancheva L.
 6
 6
 4
+Kraj
+Kovackova A.
+Vedder E.
+0
+2
+6
+2
+7
+7
+5
+7
 M15 Bucharest 2 (Rumunjska), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -636,6 +906,20 @@ Piatti R.
 3
 10
 5
+M15 Kursumlijska Banja 8 (Srbija), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Arzhankin A.
+Pankin S.
+Juhas K.
+Vukovic K.
+2
+0
+6
+4
+6
+4
 M15 Lodz (Poljska), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -715,6 +999,20 @@ Rozin S.
 0
 0
 1
+M25+H Kassel (Njemačka), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Recek D.
+Siniakov D.
+Ganta S. K. R.
+Shah A.
+2
+0
+6
+4
+6
+3
 W100 Aschaffenburg (Njemačka), zemlja
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -817,6 +1115,22 @@ Berecoechea N.
 6
 2
 6
+W35 Hillcrest (Južna Afrika), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Cirotte A.
+Duerst J.
+Leykina P.
+Smirnova K.
+2
+1
+4
+6
+6
+2
+10
+7
 W50 Corroios-Seixal (Portugal), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -845,6 +1159,34 @@ Van Emst S.
 7
 3
 6
+Wimbledon (Ujedinjeno Kraljevstvo), trava
+JUNIORKE - SINGL: 
+Ždrijeb
+Kraj
+Sun X.
+Pushkareva A.
+1
+2
+7
+5
+3
+6
+4
+6
+Wimbledon (Ujedinjeno Kraljevstvo), trava
+JUNIORI - PAROVI: 
+Ždrijeb
+Kraj
+Miguel L. A.
+Sesko Z.
+Antonius M.
+Johnson A.
+2
+0
+6
+1
+6
+4
 Wimbledon (Ujedinjeno Kraljevstvo), trava
 JUNIORKE - PAROVI: 
 Ždrijeb
@@ -891,6 +1233,7 @@ WTA Parovi
 ATP Parovi Race
 WTA Parovi Race
 AKTUALNI TURNIRI
+ATP Bastad
 ATP Gstaad
 ATP Umag
 ATP Wimbledon
@@ -900,8 +1243,7 @@ ATP Bastad
 ATP Gstaad
 ATP Wimbledon
 WTA Wimbledon
-Bogota Challenger Muškarci
-Prikaži više (82)
+Prikaži više (83)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -960,13 +1302,13 @@ Zilina - Hajduk Split
 Norveška - Engleska
 Argentina - Švicarska
 Francuska - Španjolska
-FC Bihor - Varaždin
 Zenit - Crvena zvezda
 Neftci Baku - Osijek
 Crvena zvezda - Mačva
 Basel - Juventus
+Oberhausen - Dortmund
 LIVESCORE
-Cecchinato - Ajdukovic
+Vedder - Boskovic
 Srbija - Turska
 Srbija - Ukrajina
 Srbija - Njemačka
@@ -977,16 +1319,16 @@ Levski Sofia - Borac Banja Luka
 Francuska - Španjolska
 Japan - Italija
 REZULTATI UŽIVO
-Hrvatska U20 - Grčka U20
-Srbija U20 - Poljska U20
 Argentina - Švicarska
+Turska U20 Ž - Hrvatska U20 Ž
 Litva U20 - Srbija U20
+Srbija U20 Ž - Italija U20 Ž
 Španjolska U20 - Hrvatska U20
 Belgija U20 - Hrvatska U20
 Srbija U20 - Latvija U20
-Turska U20 - Francuska U20
-Grčka U20 Ž - Crna Gora U20 Ž
-Izrael U20 Ž - Belgija U20 Ž
+Slovenija U20 - Češka U20
+Španjolska U20 Ž - Francuska U20 Ž
+Latvija U20 - Litva U20
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
@@ -1009,13 +1351,3 @@ Lite verzija
 Igrajte odgovorno. Gambling Therapy. 18+
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
-Brinemo o vašoj privatnosti
-Mi i naši partneri 1003 pohranjujemo osobne podatke, kao što su podaci o pregledavanju ili jedinstveni identifikatori, i pristupamo im na vašem uređaju. Odabirom opcije Prihvaćam omogućit ćete tehnologije praćenja koje podržavaju svrhe za čije pružanje mi i naši partneri obrađujemo podatke. Odabirom opcije Odbij sve ili povlačenjem svog pristanka onemogućit ćete praćenje. Ako su alati za praćenje onemogućeni, određeni sadržaj i oglasi koje vidite možda više neće biti toliko relevantni za vas. Možete se vratiti na ovaj izbornik kako biste izmijenili svoje odabire ili povukli pristanak u bilo kojem trenutku klikom na Prikaži svrhe poveznicu pri dnu web-stranice [ili plutajuće ikone u donjem lijevom kutu web stranice, ako je primjenjivo]. Vaši će se odabiri primijeniti kako je opisano u dijelu Web-mjesto. Za više pojedinosti pogledajte našu Politiku privatnosti.Treće Strane
-Mi i naši partneri obrađujemo podatke kako bismo pružili sljedeće:
-
-Korištenje preciznih geolokacijskih podataka. Aktivno skeniranje karakteristika uređaja za identifikaciju. Pohrana i/ili pristup podacima na uređaju. Personalizirano oglašavanje i sadržaj, mjerenje oglašavanja i sadržaja, uvidi u publiku i razvoj usluga.
-Popis partnera (dobavljača)
-
-Prihvaćam
-Odbij sve
-Prikaži svrhe
