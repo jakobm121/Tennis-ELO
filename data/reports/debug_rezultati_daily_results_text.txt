@@ -19,6 +19,26 @@ TEČAJEVI
 GOTOVO
 RASPORED
 12/07 NE
+Wimbledon (Ujedinjeno Kraljevstvo), trava
+ATP - SINGL: 
+Ždrijeb
+Kraj
+Sinner J.
+Zverev A.
+3
+1
+6
+7
+7
+9
+7
+7
+6
+2
+6
+3
+6
+4
 Bastad (Švedska) - Kvalifikacije, zemlja
 ATP - SINGL: 
 Ždrijeb
@@ -156,6 +176,37 @@ Olivieri G. A.
 2
 6
 4
+Kraj
+Guerrieri A.
+Gomez F. A.
+0
+2
+4
+6
+4
+6
+Kraj
+Neumayer L.
+Topo M.
+0
+2
+6
+7
+7
+9
+5
+7
+Kraj
+Prado Angelo J. C.
+Sanchez Izquierdo N.
+2
+0
+6
+3
+7
+7
+6
+4
 Athens (Grčka) - Kvalifikacije, tvrda podloga
 WTA - SINGL: 
 Ždrijeb
@@ -186,6 +237,35 @@ Sieg M.
 0
 6
 3
+Kraj
+Morvayova V.
+Nepliy E.
+2
+0
+6
+4
+6
+1
+Kraj
+Micic E.
+Kulikova A.
+2
+1
+6
+3
+3
+6
+6
+4
+Kraj
+Hodzic M.
+Yashina E.
+2
+0
+6
+1
+6
+2
 Iasi (Rumunjska) - Kvalifikacije, zemlja
 WTA - SINGL: 
 Ždrijeb
@@ -294,6 +374,17 @@ Ibragimova A.
 6
 0
 6
+Kraj
+Lepchenko V.
+Burcescu M. I.
+2
+1
+4
+6
+6
+3
+6
+3
 Wimbledon (Ujedinjeno Kraljevstvo), trava
 WTA - PAROVI: 
 Ždrijeb
@@ -306,6 +397,18 @@ Stefani L.
 0
 6
 3
+7
+5
+Bogota (Kolumbija), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Mejia N.
+Soto M.
+2
+0
+6
+1
 7
 5
 Braunschweig (Njemačka), zemlja
@@ -322,6 +425,20 @@ Gaston H.
 0
 6
 4
+Iasi (Rumunjska), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Droguet T.
+Piros Z.
+0
+2
+1
+6
+6
+2
+7
+7
 Liege (Belgija), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -472,6 +589,30 @@ Wessels L.
 Sels J.
 -
 -
+Kraj
+Molleker R.
+Donders D.
+1
+2
+6
+5
+7
+7
+6
+4
+3
+6
+Kraj
+Wessels L.
+Paardekooper S.
+2
+0
+6
+3
+7
+8
+6
+6
 Cordenons (Italija) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -622,14 +763,128 @@ Ganesan A.
 6
 1
 6
+Kraj
+Trotter J. K.
+Horwood J.
+2
+0
+6
+3
+7
+5
+Kraj
+(predano)
+Martin D.
+Arseneault M.
+1
+1
+6
+3
+5
+7
+2
+4
+Kraj
+Heck H.
+Isomura K.
+1
+2
+6
+0
+4
+6
+1
+6
 Lincoln (SAD) - Kvalifikacije, tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
+Kraj
+Moriya H.
+Petrovic A.
+2
+1
+6
+3
+5
+7
+6
+1
+Kraj
+Rafiq A.
+Aguiard E.
+2
+1
+7
+7
+6
+3
+4
+6
+7
+7
+6
+4
+Kraj
+Fancutt T. J.
+Bigun K.
+2
+1
+6
+4
+6
+5
+7
+7
+6
+2
 Otkazano
 Imamura M.
 Zhu E.
 -
 -
+Pozoblanco (Španjolska) - Kvalifikacije, tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Giunta M.
+Barroso Campos A.
+2
+1
+6
+1
+7
+7
+6
+3
+6
+3
+Kraj
+Linde Palacios S. A.
+Malige M.
+2
+0
+6
+4
+6
+4
+Kraj
+Ouakaa A.
+Ferre C.
+2
+0
+6
+0
+6
+0
+Kraj
+Kumasaka T.
+Turriziani Alvarez A.
+2
+0
+6
+3
+6
+2
 Contrexeville (Francuska), zemlja
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -646,6 +901,18 @@ Vandromme J.
 0
 7
 5
+Newport (SAD), trava
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Volynets K.
+Maria T.
+0
+2
+2
+6
+4
+6
 Istanbul 2 (Turska) - Kvalifikacije, tvrda podloga
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -781,6 +1048,26 @@ Gandolfi F.
 3
 6
 4
+Kraj
+Hesse A.
+Kotliar Y.
+1
+2
+3
+6
+7
+5
+3
+6
+Kraj
+Basiletti N.
+Abbagnato A.
+2
+0
+6
+4
+6
+1
 Braunschweig (Njemačka), zemlja
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -809,6 +1096,24 @@ Sabanov M.
 4
 6
 2
+Newport (SAD), trava
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Romboli F.
+Smith J-P.
+Reynolds F.
+Watt J.
+1
+2
+1
+6
+7
+7
+6
+2
+6
+10
 Contrexeville (Francuska), zemlja
 CHALLENGER - ŽENSKI PAROVI: 
 Ždrijeb
@@ -933,6 +1238,44 @@ Nordquist A.
 4
 6
 1
+M25 Bastia-Lucciana +H (Francuska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Lokoli L.
+Ghazouani Durand Y.
+2
+0
+6
+3
+6
+1
+M25 Dallas, TX (SAD), tvrda podloga (dvorana)
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Kim A.
+Svajda T.
+0
+2
+3
+6
+2
+6
+M25 Laval (Kanada), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Rice K.
+Miyoshi K.
+1
+2
+6
+2
+5
+7
+2
+6
 M25 The Hague (Nizozemska), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -1022,6 +1365,32 @@ Perapekhina Y.
 4
 7
 7
+W15 Rancho Santa Fe, CA (SAD), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Miroshnichenko V.
+Shcherbinina A.
+2
+0
+6
+3
+6
+4
+W15 Rio Claro (Brazil), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Souza M.
+Babel O.
+1
+2
+6
+3
+4
+6
+1
+6
 W35 Don Benito (Španjolska), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -1148,7 +1517,7 @@ ATP Bastad
 ATP Gstaad
 ATP Umag
 WTA Athens
-Prikaži više (67)
+Prikaži više (65)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -1217,23 +1586,23 @@ Srbija - Turska
 Srbija - Ukrajina
 Srbija - Njemačka
 Srbija - Slovenija
-Srbija Ž - Nizozemska Ž
 Levski Sofia - Borac Banja Luka
 Francuska - Španjolska
 Japan - Italija
 Bugarska - Poljska
 Belgija - Italija
+Kina - Bugarska
 REZULTATI UŽIVO
-Španjolska U20 - Hrvatska U20
 Belgija U20 - Hrvatska U20
 Srbija U20 - Latvija U20
-Izrael U20 - Slovenija U20
-Francuska U20 Ž - Izrael U20 Ž
-Grčka U20 Ž - Portugal U20 Ž
-Francuska U20 - Italija U20
 Izrael U20 - Češka U20
 Litva U20 - Poljska U20
 Grčka U20 - Španjolska U20
+Slovenija U20 - Rumunjska U20
+Francuska U20 - Njemačka U20
+Detroit Pistons - Cleveland Cavaliers
+Golden State Warriors - Oklahoma City Thunder
+Utah Jazz - Los Angeles Clippers
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
@@ -1253,7 +1622,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Must be 21+. If you or someone you know has a gambling problem, crisis counselling and referral services can be accessed by calling 1-800-GAMBLER (1-800-426-2537) or by texting ILGAMB to 833234. The 1-800-GAMBLER helpline can be used for multi-jurisdictional advertising.
+Igrajte odgovorno. Gambling Therapy. 18+
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
