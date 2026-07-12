@@ -19,6 +19,52 @@ TEČAJEVI
 GOTOVO
 RASPORED
 12/07 NE
+Bastad (Švedska) - Kvalifikacije, zemlja
+ATP - SINGL: 
+Ždrijeb
+Kraj
+Bueno G.
+Marcondes I.
+0
+2
+4
+6
+6
+5
+7
+7
+Kraj
+Krumich M.
+Ferreira Silva F.
+2
+0
+6
+4
+6
+2
+Gstaad (Švicarska) - Kvalifikacije, zemlja
+ATP - SINGL: 
+Ždrijeb
+Kraj
+Tabur C.
+Huesler M.
+2
+0
+6
+4
+7
+7
+6
+3
+Kraj
+Cina F.
+Hemery C.
+2
+0
+6
+4
+6
+3
 Iasi (Rumunjska) - Kvalifikacije, zemlja
 WTA - SINGL: 
 Ždrijeb
@@ -40,6 +86,109 @@ Prisacariu A.
 1
 6
 4
+Kraj
+Kulambayeva Z.
+Zaar L.
+2
+0
+7
+7
+6
+4
+6
+3
+Kraj
+Werner C.
+Amariei I. D.
+1
+2
+6
+0
+4
+6
+2
+6
+Kraj
+Herea C. A.
+Kazionova E.
+2
+0
+6
+3
+7
+5
+Kraj
+Pridankina E.
+Ionescu E. M.
+2
+0
+6
+1
+6
+2
+Bunschoten (Nizozemska) - Kvalifikacije, zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Balciunas M.
+Petkovic M.
+0
+2
+4
+6
+2
+6
+Kraj
+Raquillet L.
+Kumstat J.
+0
+2
+6
+2
+7
+7
+4
+6
+Otkazano
+Wessels L.
+Sels J.
+-
+-
+Cordenons (Italija) - Kvalifikacije, zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Forti F.
+Pampanin P.
+2
+0
+6
+1
+7
+7
+6
+3
+Kraj
+Gandolfi G.
+Janvier M.
+2
+0
+6
+3
+6
+3
+Kraj
+(predano)
+Villanueva G.
+Rahmani K.
+1
+1
+3
+6
+6
+1
+1
+0
 Lincoln (SAD) - Kvalifikacije, tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -48,6 +197,70 @@ Imamura M.
 Zhu E.
 -
 -
+Istanbul 2 (Turska) - Kvalifikacije, tvrda podloga
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Khomutsianskaya D.
+Vig S.
+2
+0
+6
+0
+6
+0
+Kraj
+Shinikova I.
+Turkmen D.
+2
+0
+6
+0
+6
+1
+Otkazano
+Cirpanli D.
+Huang Yujia
+-
+-
+Kitzbuhel (Austrija) - Kvalifikacije, zemlja
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Bosio V.
+Kovalchuk K.
+2
+0
+6
+3
+6
+4
+M15 Hillcrest 2 (Južna Afrika), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Montsi K.
+Shimanov O.
+2
+0
+6
+3
+6
+4
+M15 Monastir 26 (Tunis), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Duran T.
+Dougaz A.
+0
+2
+6
+3
+7
+7
+2
+6
 M15 Tokyo 4 (Japan), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -86,6 +299,32 @@ Cheuk S. Y.
 5
 6
 3
+W15 Monastir 21 (Tunis), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Rojas S. C.
+Perapekhina Y.
+0
+2
+4
+6
+6
+4
+7
+7
+W35 Don Benito (Španjolska), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Ryser V.
+Hruncakova V.
+2
+0
+6
+4
+6
+4
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -122,7 +361,7 @@ WTA Wimbledon
 ATP Bastad
 ATP Gstaad
 ATP Umag
-Prikaži više (92)
+Prikaži više (81)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -198,16 +437,16 @@ Francuska - Španjolska
 Japan - Italija
 Bugarska - Poljska
 REZULTATI UŽIVO
-Turska U20 Ž - Hrvatska U20 Ž
 Litva U20 - Srbija U20
 Srbija U20 Ž - Italija U20 Ž
 Španjolska U20 - Hrvatska U20
 Belgija U20 - Hrvatska U20
 Srbija U20 - Latvija U20
-Švedska U20 Ž - Slovenija U20 Ž
 Grčka U20 - Belgija U20
 Njemačka U20 - Turska U20
 Španjolska U20 Ž - Belgija U20 Ž
+Izrael U20 - Slovenija U20
+Francuska U20 Ž - Izrael U20 Ž
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
