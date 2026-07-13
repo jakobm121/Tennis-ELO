@@ -19,9 +19,141 @@ TEČAJEVI
 GOTOVO
 RASPORED
 13/07 PO
+Gstaad (Švicarska), zemlja
+ATP - SINGL: 
+Ždrijeb
+Kraj
+Sonego L.
+Schwaerzler J. J.
+2
+0
+6
+4
+7
+7
+6
+4
+Kraj
+Tabur C.
+Rodionov J.
+2
+1
+4
+6
+7
+5
+6
+4
+Kraj
+Feldbausch K.
+Kecmanovic M.
+1
+2
+1
+6
+6
+1
+3
+6
+Umag (Hrvatska), zemlja
+ATP - SINGL: 
+Ždrijeb
+Kraj
+Dzumhur D.
+Rocha H.
+2
+0
+6
+2
+6
+1
+Bastad (Švedska) - Kvalifikacije, zemlja
+ATP - SINGL: 
+Ždrijeb
+Kraj
+Marcondes I.
+Midon L.
+0
+2
+6
+7
+7
+9
+5
+7
+Kraj
+Passaro F.
+Krumich M.
+0
+2
+4
+6
+3
+6
+Kraj
+Faurel T.
+Damas M.
+1
+2
+6
+3
+6
+6
+7
+8
+4
+6
+Kraj
+Sanchez Jover C.
+Daniel T.
+1
+2
+2
+6
+6
+2
+2
+6
+Iasi (Rumunjska), zemlja
+WTA - SINGL: 
+Ždrijeb
+Kraj
+Charaeva A.
+Jimenez Kasintseva V.
+2
+0
+6
+0
+6
+1
+Kraj
+Bondar A.
+Sorribes Tormo S.
+2
+0
+7
+5
+6
+4
+Otkazano
+Burel C.
+Putintseva Y.
+-
+-
 Iasi (Rumunjska) - Kvalifikacije, zemlja
 WTA - SINGL: 
 Ždrijeb
+Kraj
+Amariei I. D.
+Herea C. A.
+2
+1
+3
+6
+6
+4
+6
+2
 Kraj
 Pridankina E.
 Garcia-Perez G.
@@ -31,6 +163,60 @@ Garcia-Perez G.
 1
 6
 1
+Kraj
+Avanesyan E.
+Fetecau I.
+2
+0
+6
+2
+6
+2
+Kraj
+Romero Gormaz L.
+Kulambayeva Z.
+2
+0
+6
+1
+6
+4
+Kraj
+Liu C.
+Oz I.
+2
+0
+6
+4
+6
+1
+Kraj
+Lepchenko V.
+Ibragimova A.
+0
+2
+3
+6
+4
+6
+Bastad (Švedska), zemlja
+ATP - PAROVI: 
+Ždrijeb
+Kraj
+Johnson L.
+Zielinski J.
+Pellegrino A.
+Vavassori A.
+1
+2
+7
+7
+6
+3
+1
+6
+8
+10
 Gstaad (Švicarska), zemlja
 ATP - PAROVI: 
 Ždrijeb
@@ -45,6 +231,142 @@ Cerundolo J. M.
 2
 6
 1
+Kraj
+Demoliner M.
+Galloway R.
+Kym J.
+Wawrinka S.
+2
+0
+6
+4
+7
+5
+Athens (Grčka), tvrda podloga
+WTA - PAROVI: 
+Ždrijeb
+Kraj
+Lee Y.
+Ye Q.
+Monnet C.
+Sakellaridi S.
+0
+2
+4
+6
+2
+6
+Iasi (Rumunjska), zemlja
+WTA - PAROVI: 
+Ždrijeb
+Kraj
+Anghel A. I.
+Simionescu D.
+Maleckova J.
+Skoch M.
+0
+2
+1
+6
+2
+6
+Kraj
+Bulgaru M.
+Popa M. S.
+Detiuc A.
+Khromacheva I.
+0
+2
+3
+6
+0
+6
+Bunschoten (Nizozemska), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Bailly G. A.
+Romano F.
+1
+2
+6
+2
+4
+6
+2
+6
+Kraj
+De Lange P.
+Geerts M.
+2
+0
+6
+2
+6
+2
+Bunschoten (Nizozemska) - Kvalifikacije, zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Alves M.
+Kumstat J.
+0
+2
+3
+6
+3
+6
+Kraj
+Jong S.
+Petkovic M.
+0
+2
+6
+5
+7
+7
+3
+6
+Kraj
+Yevseyev D.
+Campana Lee G.
+0
+2
+3
+6
+0
+6
+Kraj
+Forger A.
+Huang T.
+2
+0
+6
+2
+6
+4
+Kraj
+Donders D.
+Wessels L.
+1
+2
+1
+6
+6
+3
+3
+6
+Kraj
+Kuzmanov D.
+Nijboer R.
+0
+2
+6
+5
+7
+7
+3
+6
 Cordenons (Italija) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -75,6 +397,39 @@ Gandolfi G.
 0
 6
 3
+Kraj
+Binda A.
+Fuele M.
+1
+2
+6
+3
+7
+7
+6
+3
+4
+6
+Kraj
+Kravchenko G.
+Salazar D.
+2
+1
+6
+1
+4
+6
+6
+3
+Kraj
+Tabacco G.
+Vincent Ruggeri S.
+2
+0
+6
+4
+6
+0
 Lincoln (SAD) - Kvalifikacije, tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -98,6 +453,198 @@ Dlimi Y.
 7
 3
 6
+Istanbul 2 (Turska), tvrda podloga
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Penickova K.
+Thandi K. K.
+2
+1
+3
+6
+7
+7
+6
+4
+6
+4
+Kraj
+Vandewinkel H.
+Lee C. Y.
+2
+0
+6
+3
+6
+3
+Kitzbuhel (Austrija), zemlja
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Grabher J.
+Bertea E. R.
+2
+1
+6
+3
+5
+7
+6
+4
+Kraj
+Papamichail D.
+Andreeva E.
+0
+2
+2
+6
+1
+6
+Kraj
+Ristic M.
+Pohankova M.
+2
+0
+6
+3
+7
+5
+Kraj
+Kabbaj Y.
+Perelygina E.
+1
+2
+6
+2
+4
+6
+3
+6
+Kraj
+Avdeeva J.
+Feistel G.
+0
+2
+2
+6
+2
+6
+Rome (Italija), zemlja
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Jones F.
+Spiteri D.
+2
+1
+1
+6
+6
+1
+6
+0
+Kraj
+Radivojevic L.
+Ren Y.
+2
+0
+6
+4
+6
+0
+Kraj
+Rinaldo Persson K.
+Astakhova D.
+0
+2
+3
+6
+1
+6
+Istanbul 2 (Turska) - Kvalifikacije, tvrda podloga
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Khomutsianskaya D.
+Zhang Y.
+2
+1
+1
+6
+6
+4
+7
+5
+Kraj
+Panshina V.
+Falkowska W.
+0
+2
+4
+6
+4
+6
+Kraj
+Shinikova I.
+Huang Yujia
+2
+0
+6
+4
+6
+2
+Kraj
+Saigo R.
+Nugroho P. M.
+0
+2
+4
+6
+2
+6
+Istanbul 2 (Turska), tvrda podloga
+CHALLENGER - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Khomutsianskaya D.
+Zelinskaya D.
+Huang Yujia
+Zhang Y.
+0
+2
+2
+6
+2
+6
+Billie Jean King Cup - Group III (Svijet)
+TIMOVI - ŽENE: 
+Tablica
+Kraj
+Bocvana Ž
+Kamerun Ž
+2
+1
+Kraj
+Kenija Ž
+Gana Ž
+0
+3
+Kraj
+Madagaskar Ž
+Namibija Ž
+3
+0
+Kraj
+Nigerija Ž
+Burundi Ž
+2
+1
+Kraj
+Tunis Ž
+Alžir Ž
+3
+0
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -127,14 +674,14 @@ AKTUALNI TURNIRI
 ATP Bastad
 ATP Gstaad
 ATP Umag
-ATP Wimbledon
 WTA Athens
 WTA Iasi
 ATP Bastad
 ATP Gstaad
 ATP Umag
 WTA Athens
-Prikaži više (58)
+WTA Iasi
+Prikaži više (47)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -201,22 +748,22 @@ Srbija - Ukrajina
 Srbija - Njemačka
 Srbija - Slovenija
 Grčka - Crna Gora
+Mađarska - Hrvatska
 Levski Sofia - Borac Banja Luka
 Francuska - Španjolska
 Japan - Italija
 Bugarska - Poljska
-Belgija - Italija
 REZULTATI UŽIVO
-Belgija U20 - Hrvatska U20
-Srbija U20 - Latvija U20
-Izrael U20 - Češka U20
-Litva U20 - Poljska U20
 Grčka U20 - Španjolska U20
 Slovenija U20 - Rumunjska U20
 Francuska U20 - Njemačka U20
 New York Knicks - Detroit Pistons
 Houston Rockets - Philadelphia 76ers
 Golden State Warriors - Memphis Grizzlies
+Oklahoma City Thunder - Denver Nuggets
+Los Angeles Lakers - Los Angeles Clippers
+Detroit Pistons - Phoenix Suns
+Los Angeles Clippers - Washington Wizards
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
@@ -236,7 +783,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Gambling Problem? Call 1-800-BETS OFF 21+
+Igrajte odgovorno. Gambling Therapy. 18+
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
