@@ -97,11 +97,48 @@ Da Rosa Castro G.
 1
 6
 2
+Kraj
+Rocha F.
+Bueno G.
+0
+2
+4
+6
+4
+6
 Otkazano
 Gaubas V.
 Tseng C. H.
 -
 -
+Kraj
+Martinez P.
+Jorda Sanchis D.
+2
+0
+6
+0
+6
+4
+Kraj
+(predano)
+Luz O.
+Tseng C. H.
+1
+0
+6
+3
+3
+0
+Kraj
+Pellegrino A.
+Silva J. D.
+2
+0
+6
+3
+6
+2
 Kitzbuhel (Austrija) - Kvalifikacije, zemlja
 ATP - SINGL: 
 Ždrijeb
@@ -145,6 +182,36 @@ Sachko V.
 7
 2
 6
+Kraj
+Heide G.
+Feldbausch K.
+0
+2
+4
+6
+2
+6
+Kraj
+Rodionov J.
+Chepelev A.
+2
+0
+6
+2
+6
+2
+Iasi (Rumunjska), zemlja
+WTA - SINGL: 
+Ždrijeb
+Kraj
+Sherif M.
+Oliynykova O.
+2
+0
+6
+3
+6
+1
 Livesport Prague Open (Češka Republika) - Kvalifikacije, tvrda podloga
 WTA - SINGL: 
 Ždrijeb
@@ -204,6 +271,15 @@ Knutson G.
 4
 6
 Kraj
+Palicova B.
+Hontama M.
+0
+2
+3
+6
+3
+6
+Kraj
 (predano)
 Masarova R.
 Ryser V.
@@ -242,6 +318,22 @@ Seggerman R.
 1
 6
 4
+Athens (Grčka), tvrda podloga
+WTA - PAROVI: 
+Ždrijeb
+Kraj
+Lumsden M.
+Tang Q.
+Jiang X.
+Wu F.
+2
+1
+6
+3
+4
+6
+10
+7
 Iasi (Rumunjska), zemlja
 WTA - PAROVI: 
 Ždrijeb
@@ -293,6 +385,21 @@ Kyrgios N.
 17
 11
 19
+Kraj
+Griekspoor T.
+Norrie C.
+2
+3
+19
+12
+20
+19
+7
+18
+10
+18
+1
+2
 Bunschoten (Nizozemska), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -307,6 +414,15 @@ Coppejans K.
 7
 6
 3
+Kraj
+Gentzsch T.
+Kumstat J.
+2
+0
+7
+5
+6
+4
 Granby (Kanada), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -370,6 +486,18 @@ Tomic B.
 7
 3
 6
+Istanbul 2 (Turska), tvrda podloga
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Valdmannova V.
+Tararudee L.
+0
+2
+2
+6
+0
+6
 Kitzbuhel (Austrija), zemlja
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -393,6 +521,24 @@ Grabher J.
 6
 4
 6
+Palermo (Italija) - Kvalifikacije, zemlja
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Walkover
+Tona M.
+Spiteri D.
+-
+-
+Walkover
+Urgesi F.
+Kotliar Y.
+-
+-
+Walkover
+Ciric Bagaric L.
+Toth A. K.
+-
+-
 Bunschoten (Nizozemska), zemlja
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -480,6 +626,36 @@ Perez Ramos P.
 6
 4
 6
+Kraj
+Cacao T.
+Marques G.
+2
+1
+4
+6
+7
+7
+6
+4
+7
+5
+M15 Gubbio (Italija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+(predano)
+Rapagnetta D.
+Marino P.
+1
+1
+6
+6
+7
+8
+6
+3
+3
+1
 M15 Kursumlijska Banja 9 (Srbija), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -581,6 +757,17 @@ Krutykh O.
 6
 1
 6
+Kraj
+Oetzbach A.
+Marysko V.
+2
+1
+6
+4
+3
+6
+6
+4
 M15 Wuning 6 (Kina), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -675,6 +862,28 @@ Ruland L.
 3
 7
 5
+M25 Louisville, KY (SAD), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Baris O.
+Ciric A.
+2
+0
+7
+5
+7
+5
+Kraj
+(predano)
+Rottgering M.
+Legout T.
+1
+0
+7
+5
+0
+0
 M25 Uriage (Francuska), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -890,6 +1099,15 @@ Burillo Escorihuela I.
 7
 2
 6
+Kraj
+Schunk N.
+Curmi F.
+2
+0
+6
+3
+6
+2
 W50 Nottingham (Ujedinjeno Kraljevstvo), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -930,15 +1148,16 @@ Zelnickova R.
 6
 5
 7
-Prekinuto
+Kraj
+(predano)
 Struplova J.
 Kucmova A.
+1
 0
-0
-6
+7
 5
-A
-40
+4
+3
 W75 Vitoria Gasteiz (Španjolska), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -953,6 +1172,15 @@ Pavlova K.
 6
 6
 4
+Kraj
+Savinykh V.
+Mikulskyte J.
+0
+2
+4
+6
+4
+6
 M15 Kursumlijska Banja 9 (Srbija), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -1009,6 +1237,26 @@ Breazu V. C.
 6
 4
 6
+M15 Wuning 6 (Kina), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Rifqi Fitriadi M.
+Sarksian D.
+Hsieh C.
+Lai C. K.
+2
+1
+6
+3
+7
+7
+7
+7
+6
+5
+12
+10
 M25 Brisbane (Australija), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -1062,6 +1310,20 @@ Velcz Z.
 7
 8
 3
+6
+M25 Kramsach (Austrija), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Gutjahr L.
+Raser F.
+Paldanius O.
+Tsitsipas Pe.
+0
+2
+4
+6
+2
 6
 W15 Astana 2 (Kazahstan), tvrda podloga
 ITF - ŽENSKI PAROVI: 
@@ -1189,6 +1451,40 @@ Parentini G.
 2
 7
 5
+W75 Olomouc (Češka Republika), zemlja
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Nagy A.
+Sebestova I.
+Hietaranta L.
+Vargova N.
+2
+1
+3
+6
+7
+8
+6
+6
+10
+5
+W75 Vitoria Gasteiz (Španjolska), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Cervino Ruiz C.
+Rey Garcia A.
+Gallardo Guevara C.
+Zozaya Menendez E.
+2
+0
+6
+4
+7
+8
+6
+6
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -1221,11 +1517,11 @@ ATP Gstaad
 ATP Kitzbuhel
 ATP Umag
 WTA Athens
+WTA Hamburg
 WTA Iasi
 WTA Livesport Prague Open
 ATP Bastad
-ATP Gstaad
-Prikaži više (84)
+Prikaži više (85)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -1282,10 +1578,10 @@ Francuska - Engleska
 Španjolska - Argentina
 Rijeka - Derry City
 Karlsruher SC - Inter
-Oberhausen - Dortmund
 Osijek - Honved
 Larne - Crvena zvezda
 Napoli - Arezzo
+Osijek - Cibalia
 LIVESCORE
 Srbija - Njemačka
 Srbija - Slovenija
@@ -1295,14 +1591,14 @@ SAD - Bugarska
 Kuba - Italija
 Bugarska - Francuska
 Borac Banja Luka - Petrocub
-Manchester Utd - Wrexham
 Francuska - Poljska
+Japan - Argentina
 REZULTATI UŽIVO
 Španjolska U20 - Srbija U20
-Njemačka U20 - Grčka U20
 Poljska U20 - Litva U20
 Francuska U20 - Slovenija U20
 Latvija U20 - Izrael U20
+Belgija U20 - Rumunjska U20
 Memphis Grizzlies - Houston Rockets
 Los Angeles Lakers - Golden State Warriors
 Oklahoma City Thunder - Brooklyn Nets
@@ -1325,7 +1621,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Must be 21+. If you or someone you know has a gambling problem, crisis counselling and referral services can be accessed by calling 1-800-GAMBLER (1-800-426-2537) or by texting ILGAMB to 833234. The 1-800-GAMBLER helpline can be used for multi-jurisdictional advertising.
+Igrajte odgovorno. Gambling Therapy. 18+
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
