@@ -36,6 +36,17 @@ Darderi L.
 11
 3
 6
+Kraj
+Rublev A.
+Tabilo A.
+2
+1
+6
+4
+4
+6
+6
+4
 Gstaad (Švicarska), zemlja
 ATP - SINGL: 
 Ždrijeb
@@ -63,6 +74,20 @@ Tsitsipas S.
 3
 3
 6
+Umag (Hrvatska), zemlja
+ATP - SINGL: 
+Ždrijeb
+Kraj
+Merida Aguilar D.
+Dzumhur D.
+2
+1
+6
+2
+5
+7
+6
+2
 Estoril (Portugal) - Kvalifikacije, zemlja
 ATP - SINGL: 
 Ždrijeb
@@ -139,6 +164,19 @@ Silva J. D.
 3
 6
 2
+Kraj
+Domingues J.
+Skatov T.
+1
+2
+4
+6
+7
+7
+6
+5
+4
+6
 Kitzbuhel (Austrija) - Kvalifikacije, zemlja
 ATP - SINGL: 
 Ždrijeb
@@ -200,6 +238,38 @@ Chepelev A.
 2
 6
 2
+Kraj
+Dellien H.
+Ribecai M.
+2
+1
+4
+6
+6
+1
+6
+3
+Kraj
+Kopp S.
+Herbert P.H.
+2
+0
+6
+4
+6
+4
+Athens (Grčka), tvrda podloga
+WTA - SINGL: 
+Ždrijeb
+Kraj
+Sakkari M.
+Korneeva A.
+2
+0
+6
+1
+7
+5
 Iasi (Rumunjska), zemlja
 WTA - SINGL: 
 Ždrijeb
@@ -210,6 +280,19 @@ Oliynykova O.
 0
 6
 3
+6
+1
+Kraj
+Badosa P.
+Zidansek T.
+2
+1
+3
+6
+7
+5
+7
+7
 6
 1
 Livesport Prague Open (Češka Republika) - Kvalifikacije, tvrda podloga
@@ -271,6 +354,19 @@ Knutson G.
 4
 6
 Kraj
+Costoulas S.
+Hibino N.
+2
+1
+6
+4
+7
+7
+7
+5
+6
+4
+Kraj
 Palicova B.
 Hontama M.
 0
@@ -289,6 +385,35 @@ Ryser V.
 4
 3
 4
+Kraj
+Bervid V.
+Saigo R.
+0
+2
+1
+6
+2
+6
+Kraj
+Podrez V.
+Krejcova T.
+2
+1
+3
+6
+6
+2
+6
+1
+Kraj
+Morvayova V.
+Aksu A.
+0
+2
+3
+6
+3
+6
 Gstaad (Švicarska), zemlja
 ATP - PAROVI: 
 Ždrijeb
@@ -400,6 +525,34 @@ Norrie C.
 18
 1
 2
+Kraj
+Miguel L. A.
+Cerundolo F.
+3
+2
+11
+23
+15
+12
+15
+16
+17
+12
+2
+0
+Kraj
+Kyrgios N.
+Nakashima B.
+1
+3
+18
+14
+10
+20
+12
+17
+10
+20
 Bunschoten (Nizozemska), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -423,6 +576,29 @@ Kumstat J.
 5
 6
 4
+Cordenons (Italija), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Alcala Gurri M.
+Villanueva G.
+2
+1
+4
+6
+7
+5
+6
+2
+Kraj
+Fuele M.
+Bondioli F.
+0
+2
+2
+6
+4
+6
 Granby (Kanada), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -498,6 +674,15 @@ Tararudee L.
 6
 0
 6
+Kraj
+Zakharova A.
+Vandewinkel H.
+0
+2
+3
+6
+3
+6
 Kitzbuhel (Austrija), zemlja
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -521,6 +706,31 @@ Grabher J.
 6
 4
 6
+Rome (Italija), zemlja
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Bronzetti L.
+Brancaccio N.
+2
+1
+6
+4
+5
+7
+6
+0
+Kraj
+Trevisan M.
+Jones F.
+1
+2
+6
+2
+1
+6
+1
+6
 Palermo (Italija) - Kvalifikacije, zemlja
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -534,11 +744,51 @@ Urgesi F.
 Kotliar Y.
 -
 -
+Kraj
+Ren Y.
+Giambelli C.
+2
+1
+5
+7
+6
+4
+6
+3
+Kraj
+McAdoo R.
+Shinikova I.
+0
+2
+4
+6
+4
+6
+Kraj
+Serban R.
+Bertacchi A.
+2
+1
+5
+7
+6
+4
+6
+0
 Walkover
 Ciric Bagaric L.
 Toth A. K.
 -
 -
+Kraj
+Webley-Smith E.
+Hodzic M.
+0
+2
+2
+6
+1
+6
 Bunschoten (Nizozemska), zemlja
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -768,6 +1018,20 @@ Marysko V.
 6
 6
 4
+M15 Villa Constitucion (Argentina), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Cigarran T.
+Rodriguez L. J.
+0
+2
+3
+6
+6
+5
+7
+7
 M15 Wuning 6 (Kina), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -820,6 +1084,18 @@ Delaney Ja.
 6
 4
 6
+M25 Gandia (Španjolska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Vanshelboim E.
+Martinez Gomez P.
+2
+0
+6
+4
+6
+2
 M25 Hillcrest (Južna Afrika), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -1064,6 +1340,43 @@ Perapekhina Y.
 6
 0
 1
+W35 Dallas, TX (SAD), tvrda podloga (dvorana)
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Guzman D.
+Shcherbinina A.
+1
+2
+7
+8
+6
+6
+0
+6
+2
+6
+Kraj
+Reed L.
+Chang H.
+0
+2
+2
+6
+4
+6
+W35 Sao Paulo (Brazil), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Egorova D.
+Babel O.
+0
+2
+5
+7
+5
+7
 W35 Torino (Italija), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -1181,6 +1494,38 @@ Mikulskyte J.
 6
 4
 6
+M15 Castelo Branco (Portugal), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Leal R.
+Monteiro S.
+Perez Ramos P.
+Wright M.
+1
+2
+7
+7
+6
+2
+3
+6
+4
+10
+M15 Gubbio (Italija), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Beraldo L.
+Sciahbasi M.
+Ingarao A.
+Marino P.
+2
+0
+6
+2
+6
+4
 M15 Kursumlijska Banja 9 (Srbija), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -1234,6 +1579,20 @@ Breazu V. C.
 0
 2
 3
+6
+4
+6
+M15 Uslar (Njemačka), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Barbic A.
+Stueckrath L.
+de Hek K.
+Knoop H. M. M.
+0
+2
+2
 6
 4
 6
@@ -1325,6 +1684,24 @@ Tsitsipas Pe.
 6
 2
 6
+M25 Louisville, KY (SAD), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Farag-Cao A.
+Peck J.
+Mercer J.
+Stephenson E.
+1
+2
+2
+6
+7
+7
+6
+4
+6
+10
 W15 Astana 2 (Kazahstan), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -1437,6 +1814,20 @@ Smejkalova A.
 5
 11
 13
+W35 Dallas, TX (SAD), tvrda podloga (dvorana)
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Sawangkaew M.
+Wong Hong Yi C.
+Llewellyn S.
+Sahdiieva A.
+2
+0
+6
+3
+6
+1
 W35 Torino (Italija), zemlja
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -1451,6 +1842,22 @@ Parentini G.
 2
 7
 5
+W50 Darmstadt (Njemačka), zemlja
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+da Silva Fick G.
+McGiffin T.
+Samir S.
+Steur J. L. S.
+2
+0
+7
+5
+7
+7
+6
+4
 W75 Olomouc (Češka Republika), zemlja
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -1521,7 +1928,7 @@ WTA Hamburg
 WTA Iasi
 WTA Livesport Prague Open
 ATP Bastad
-Prikaži više (85)
+Prikaži više (87)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -1578,13 +1985,13 @@ Francuska - Engleska
 Španjolska - Argentina
 Rijeka - Derry City
 Karlsruher SC - Inter
-Osijek - Honved
 Larne - Crvena zvezda
 Napoli - Arezzo
 Osijek - Cibalia
+Varaždin - Jablonec
 LIVESCORE
-Srbija - Njemačka
 Srbija - Slovenija
+Onclin - Ajdukovic
 Grčka - Crna Gora
 Mađarska - Hrvatska
 SAD - Bugarska
@@ -1594,11 +2001,9 @@ Borac Banja Luka - Petrocub
 Francuska - Poljska
 Japan - Argentina
 REZULTATI UŽIVO
-Španjolska U20 - Srbija U20
-Poljska U20 - Litva U20
-Francuska U20 - Slovenija U20
-Latvija U20 - Izrael U20
+Hrvatska U20 - Njemačka U20
 Belgija U20 - Rumunjska U20
+Turska U20 - Grčka U20
 Memphis Grizzlies - Houston Rockets
 Los Angeles Lakers - Golden State Warriors
 Oklahoma City Thunder - Brooklyn Nets
