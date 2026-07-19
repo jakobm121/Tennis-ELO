@@ -73,6 +73,24 @@ Bueno G.
 5
 4
 6
+Kraj
+Luz O.
+Tabur C.
+2
+0
+7
+5
+6
+3
+Kraj
+Martinez P.
+Skatov T.
+2
+0
+6
+3
+6
+2
 Kitzbuhel (Austrija) - Kvalifikacije, zemlja
 ATP - SINGL: 
 Ždrijeb
@@ -94,6 +112,26 @@ Giustino L.
 4
 6
 2
+Kraj
+Rodionov J.
+Sachko V.
+2
+0
+6
+4
+7
+7
+6
+4
+Kraj
+Feldbausch K.
+Kopp S.
+2
+0
+6
+0
+6
+4
 Hamburg (Njemačka) - Kvalifikacije, zemlja
 WTA - SINGL: 
 Ždrijeb
@@ -163,9 +201,42 @@ Deichmann K.
 6
 4
 Kraj
+Strakhova V.
+Paquet C.
+1
+2
+3
+6
+6
+4
+2
+6
+Kraj
 Eigelsbach E. V.
 Carle M. L.
 0
+2
+1
+6
+1
+6
+Kraj
+Vedder E.
+Garcia-Perez G.
+2
+1
+4
+6
+6
+2
+6
+4
+Kraj
+Yashina E.
+Barthel M.
+1
+2
+6
 2
 1
 6
@@ -203,6 +274,33 @@ Hontama M.
 6
 2
 6
+Kraj
+Podrez V.
+Saigo R.
+2
+0
+6
+4
+6
+1
+Kraj
+Costoulas S.
+Aksu A.
+2
+0
+7
+5
+6
+2
+Kraj
+Salkova D.
+Knutson G.
+2
+0
+6
+2
+6
+3
 Bastad (Švedska), zemlja
 ATP - PAROVI: 
 Ždrijeb
@@ -264,15 +362,17 @@ Gentzsch T.
 Granby (Kanada), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
-Prekinuto
+Kraj
 Vukic A.
 Holmgren A.
-0
-0
-3
+2
 1
-40
-40
+6
+4
+3
+6
+6
+3
 Lincoln (SAD), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -302,6 +402,40 @@ Bu Y.
 8
 6
 6
+Bloomfield Hills (SAD) - Kvalifikacije, tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Biagiotti R.
+Young G.
+0
+2
+3
+6
+4
+6
+Kraj
+Maloney P.
+Moriya H.
+2
+0
+6
+3
+7
+11
+6
+9
+Kraj
+Vandecasteele Q.
+Gorzny S.
+0
+2
+3
+6
+6
+8
+7
+10
 Segovia (Španjolska) - Kvalifikacije, tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -383,6 +517,33 @@ Kumasaka T.
 6
 4
 6
+Kraj
+Vandermeersch C.
+Radulov I.
+2
+0
+6
+3
+6
+2
+Kraj
+Palan D.
+Munk Mesa B.
+2
+0
+6
+3
+6
+4
+Kraj
+McKennon M.
+Ouakaa A.
+0
+2
+2
+6
+2
+6
 Tampere (Finska) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -444,6 +605,39 @@ Wessels L.
 6
 1
 6
+Kraj
+Marcondes I.
+Wazny A.
+2
+1
+7
+5
+4
+6
+6
+0
+Kraj
+Olivieri G. A.
+Lassila J.
+2
+0
+6
+1
+6
+1
+Kraj
+Ponchet M.
+Zielinski M.
+0
+2
+6
+4
+7
+7
+6
+3
+7
+7
 Otkazano
 Salazar D.
 Vrbensky M.
@@ -532,6 +726,38 @@ Krumich M.
 Casanova A.
 -
 -
+Kraj
+Yevseyev D.
+Stricker D.
+0
+2
+2
+6
+3
+6
+Kraj
+Djosic N.
+Matusevich A.
+0
+2
+2
+6
+4
+6
+Istanbul 2 (Turska), tvrda podloga
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Vandewinkel H.
+Tararudee L.
+1
+2
+4
+6
+6
+4
+3
+6
 Kitzbuhel (Austrija), zemlja
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -610,6 +836,63 @@ Castagnola L.
 1
 6
 1
+M15 Rochester, NY (SAD), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Fahim I. M.
+Antonius M.
+0
+2
+5
+7
+1
+6
+Kraj
+McCormick T.
+Gaines Jr J.
+2
+0
+6
+2
+6
+3
+M15 Slobozia (Rumunjska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Ovcharenko O.
+Turcanu R. D.
+0
+2
+1
+6
+1
+6
+M15 Uslar (Njemačka), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Krutykh O.
+Oetzbach A.
+0
+2
+4
+6
+5
+7
+M15 Villa Constitucion (Argentina), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Rodriguez L. J.
+Aguilar Cardozo J.
+0
+2
+4
+6
+0
+6
 M15 Wuning 6 (Kina), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -651,6 +934,20 @@ Kimhi O.
 1
 6
 3
+6
+M25 Kramsach (Austrija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Wiskandt M.
+Orlov V.
+1
+2
+7
+5
+3
+6
+2
 6
 M25 Uriage (Francuska), zemlja
 ITF - MUŠKI SINGL: 
@@ -760,6 +1057,18 @@ Perapekhina Y.
 6
 2
 6
+W35 Sao Paulo (Brazil), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Reasco Gonzalez M. E.
+Babel O.
+0
+2
+3
+6
+4
+6
 W35 Torino (Italija), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -814,6 +1123,24 @@ Mikulskyte J.
 3
 6
 3
+M15 Rochester, NY (SAD), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Delgado A.
+Falck R.
+Almeida J.
+Matta A.
+2
+1
+4
+6
+7
+7
+6
+4
+10
+3
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -850,7 +1177,7 @@ WTA Hamburg
 WTA Iasi
 WTA Livesport Prague Open
 ATP Bastad
-Prikaži više (76)
+Prikaži više (69)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -922,12 +1249,6 @@ Kina - Brazil
 SAD - Poljska
 SAD Ž - Kina Ž
 Nizozemska Ž - Rusija Ž
-REZULTATI UŽIVO
-Hrvatska U20 - Njemačka U20
-Slovenija U20 - Srbija U20
-Francuska U20 - Španjolska U20
-Oklahoma City Thunder - Brooklyn Nets
-Memphis Grizzlies - Golden State Warriors
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
@@ -947,7 +1268,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Igrajte odgovorno. Gambling Therapy. 18+
+Must be 21+. If you or someone you know has a gambling problem, crisis counselling and referral services can be accessed by calling 1-800-GAMBLER (1-800-426-2537) or by texting ILGAMB to 833234. The 1-800-GAMBLER helpline can be used for multi-jurisdictional advertising.
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
