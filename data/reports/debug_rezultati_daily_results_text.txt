@@ -43,6 +43,19 @@ Ugo Carabelli C.
 6
 6
 4
+Kraj
+Ferreira Silva F.
+van Assche L.
+1
+2
+5
+7
+7
+7
+6
+4
+1
+6
 Kitzbuhel (Austrija), zemlja
 ATP - SINGL: 
 Ždrijeb
@@ -89,7 +102,6 @@ Cina F.
 Kraj
 Kopriva V.
 Buse I.
-SET
 1
 2
 5
@@ -112,6 +124,26 @@ Kalinina A.
 7
 4
 6
+Kraj
+Podoroska N.
+Stusek J.
+1
+2
+6
+4
+3
+6
+4
+6
+Kraj
+Bondar A.
+Uchijima M.
+2
+0
+7
+5
+6
+4
 Iasi (Rumunjska), zemlja
 WTA - SINGL: 
 Ždrijeb
@@ -294,6 +326,19 @@ Kiger M.
 Stalder R.
 -
 -
+Kraj
+Johnson L.
+Zielinski J.
+Droguet T.
+Jacquet K.
+0
+2
+6
+3
+7
+7
+1
+6
 Kitzbuhel (Austrija), zemlja
 ATP - PAROVI: 
 Ždrijeb
@@ -365,6 +410,27 @@ Harrison C.
 3
 10
 6
+Bloomfield Hills (SAD), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Echargui M.
+Harris L.
+0
+2
+4
+6
+4
+6
+Kraj
+Zheng M.
+Shelbayh A.
+2
+0
+6
+4
+6
+1
 Lincoln (SAD), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -404,6 +470,21 @@ Geerts M.
 1
 6
 4
+Kraj
+Gonzalez Fernandez M.
+Tobon M.
+2
+1
+6
+3
+7
+7
+6
+3
+7
+7
+6
+2
 Tampere (Finska), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -528,6 +609,37 @@ Maloney P.
 3
 6
 2
+Kraj
+Kozlov S.
+Pascual Ferra R.
+0
+2
+4
+6
+4
+6
+Kraj
+Imamura M.
+King D.
+2
+0
+7
+5
+6
+1
+Kraj
+Suresh D.
+Kuzuhara B.
+1
+2
+7
+7
+6
+5
+3
+6
+4
+6
 Segovia (Španjolska) - Kvalifikacije, tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -694,6 +806,50 @@ Bigun K.
 4
 7
 5
+Kraj
+Johns G.
+Aguiard E.
+2
+1
+6
+4
+6
+2
+7
+7
+6
+4
+Kraj
+Milavsky D.
+Shepp A.
+2
+0
+6
+3
+6
+1
+Kraj
+Winter E.
+Arseneault M.
+1
+2
+6
+2
+7
+7
+6
+4
+1
+6
+Kraj
+Tokuda R.
+Hurrion M.
+0
+2
+5
+7
+1
+6
 Zug (Švicarska) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -761,6 +917,17 @@ Palermo (Italija), zemlja
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
 Kraj
+Lansere S.
+Radivojevic L.
+1
+2
+1
+6
+6
+3
+1
+6
+Kraj
 Gjorcheska L.
 Andreeva E.
 0
@@ -778,6 +945,17 @@ Chiesa D.
 4
 6
 1
+Kraj
+Toth A. K.
+Ruggeri J.
+1
+2
+6
+3
+3
+6
+4
+6
 Tampere (Finska), zemlja
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -808,6 +986,31 @@ Hirose Y.
 5
 6
 4
+M15 Rognac (Francuska), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Maxted L.
+Pietri B.
+2
+0
+7
+9
+6
+7
+6
+2
+Kraj
+Turriziani Alvarez A.
+Scaglia M.
+1
+2
+6
+4
+1
+6
+2
+6
 M15 Segrate (Italija), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -832,6 +1035,11 @@ Ciavarella N.
 0
 6
 3
+Otkazano
+Lechno-Wasiutynski F.
+Rottoli L.
+-
+-
 Kraj
 Gribaldo M.
 Scomparin P. R.
@@ -866,6 +1074,54 @@ Sobolieva A.
 6
 1
 6
+Kraj
+Lukas T.
+Herrero Linana A.
+1
+2
+7
+7
+6
+5
+3
+6
+3
+6
+Kraj
+Adams J.
+Primorac I.
+0
+2
+2
+6
+4
+6
+M15 Rognac (Francuska), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Dubouch M.
+Gannon C.
+Debru G.
+Debru M.
+2
+1
+6
+4
+3
+6
+10
+7
+W35 Saskatoon (Kanada), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Walkover
+Pitts-Clark A.
+Tchamani A.
+Cabio A.
+Taylor A.
+-
+-
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -894,7 +1150,6 @@ WTA Parovi Race
 AKTUALNI TURNIRI
 ATP Estoril
 ATP Kitzbuhel
-WTA Athens
 WTA Hamburg
 WTA Iasi
 WTA Livesport Prague Open
@@ -902,7 +1157,8 @@ ATP Estoril
 ATP Kitzbuhel
 WTA Hamburg
 WTA Livesport Prague Open
-Prikaži više (43)
+Bloomfield Hills Challenger Muškarci
+Prikaži više (51)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -928,7 +1184,7 @@ Juniori - singl
 Juniorke - singl
 Prikaži više
 Tenis livescore na Rezultatima nudi teniske rezultate uživo za preko 5000 teniskih turnira diljem svijeta, uključujući Australian Open, French Open, Wimbledon, US Open i mnoge druge. Pratite najnovije rezultate iz tenisa na Rezultatima, gdje možete pronaći detaljnu statistiku (asevi, dvostruke pogreške, postotak servisa, osvojeni servisi, spašene break lopte, neprisiljene pogreške, itd.), usporedbu koeficijenata, međuosboni omjer, vijesti, video sažetke ili tijek meča poen po poen. Pronađite sve današnje rezultate i vijesti iz tenisa na Rezultatima, uključujući ATP rezultate, WTA rezultate, ATP poredak, ATP kalendar 2026, WTA kalendar 2026, ili profile igrača (npr. Jannik Sinner, Carlos Alcaraz, Novak Đoković, Donna Vekić). Usluga tenis livescore se automatski ažurira, tako da nema potrebe da osvježavate stranicu.
-20.07. Rocha H. - Martinez P., 21.07. Choinski J. - De Jong J., Gaubas V. - Carreno-Busta P., Bueno G. - Pereira T., Gaston H. - Dzumhur D., Borges N. - Luz O., Merida Aguilar D. - Jacquet K., Wawrinka S. - Burruchaga R. A., Van De Zandschulp B. - Faria J., 22.07. Tabilo A. - Torres T.
+21.07. Choinski J. - De Jong J., Gaubas V. - Carreno-Busta P., Bueno G. - Pereira T., Gaston H. - Dzumhur D., Borges N. - Luz O., Merida Aguilar D. - Jacquet K., Wawrinka S. - Burruchaga R. A., Van De Zandschulp B. - Faria J., 22.07. Tabilo A. - Torres T.
 
 SP 2026
 Svjetsko Prvenstvo u nogometu utakmice
