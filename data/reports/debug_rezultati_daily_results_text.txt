@@ -73,6 +73,27 @@ Rodesch C.
 Martineau M.
 -
 -
+Kraj
+Added D.
+Bax F.
+0
+2
+2
+6
+1
+6
+Tampere (Finska), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Barrena A.
+Visker N.
+0
+2
+2
+6
+3
+6
 Winnipeg (Kanada), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -133,6 +154,189 @@ Taguchi R.
 6
 1
 6
+Kraj
+Sureshkumar M.
+Matsuda R.
+0
+2
+2
+6
+5
+7
+Kraj
+Becroft I.
+Komada E.
+2
+0
+6
+0
+6
+2
+Kraj
+Oh Chan-Yeong
+Rathi A.
+1
+2
+6
+1
+2
+6
+5
+7
+Kraj
+Shanmugam A.
+Sasikumar M.
+0
+2
+1
+6
+4
+6
+Kraj
+Tomida Y.
+Takahashi Y.
+0
+2
+1
+6
+4
+6
+M15 Brisbane (Australija), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Charlton J.
+Ellis B.
+1
+2
+7
+7
+6
+5
+4
+6
+4
+6
+Kraj
+Dong C.
+Hazawa S.
+0
+2
+1
+6
+2
+6
+W15 Brisbane 2 (Australija), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Lopez E.
+Aiava D.
+0
+2
+1
+6
+2
+6
+Kraj
+Kawamura M.
+Yoshimoto N.
+0
+2
+3
+6
+2
+6
+W75 Cordenons (Italija), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Boskovic L.
+Cherubini D.
+0
+2
+4
+6
+4
+6
+Kraj
+Ce G.
+Casari A.
+2
+0
+6
+1
+6
+0
+Kraj
+Colmegna M.
+Rocchetti S.
+2
+0
+6
+1
+6
+2
+Kraj
+Pace F.
+Ricci B.
+2
+0
+6
+3
+6
+0
+M15 Bali (Indonezija), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Bruce-Smith J.
+Storch S.
+Da C. R. A.
+Komada E.
+2
+0
+6
+2
+6
+3
+Kraj
+Ichikawa T.
+Shiraishi H.
+Kawahashi Y.
+Nakamura R.
+2
+1
+5
+7
+6
+4
+10
+6
+Kraj
+Trismuwantara G.
+Zapp E. D.
+Matsuda R.
+Taguchi R.
+0
+2
+2
+6
+4
+6
+Kraj
+Chang A.
+Nirundorn T.
+Charoenphon Y.
+Susanto A.
+2
+0
+6
+2
+7
+9
+6
+7
 W35 Saskatoon (Kanada), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -176,14 +380,14 @@ AKTUALNI TURNIRI
 ATP Estoril
 ATP Kitzbuhel
 WTA Hamburg
-WTA Iasi
 WTA Livesport Prague Open
 ATP Estoril
 ATP Kitzbuhel
 WTA Hamburg
 WTA Livesport Prague Open
 Bloomfield Hills Challenger Muškarci
-Prikaži više (61)
+Segovia Challenger Muškarci
+Prikaži više (60)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -245,7 +449,6 @@ Osijek - Cibalia
 Varaždin - Jablonec
 Dusseldorf - Dortmund
 LIVESCORE
-Boskovic - Cherubini
 Grčka - Crna Gora
 Mađarska - Hrvatska
 Borac Banja Luka - Petrocub
@@ -255,6 +458,7 @@ Nizozemska Ž - Rusija Ž
 Španjolska Ž - Mađarska Ž
 Italija - Gruzija
 Španjolska - Australija
+Barcelona - CE Europa
 REZULTATI UŽIVO
 Iberia 1999 - Slovan Bratislava
 AZ Alkmaar - Genk
