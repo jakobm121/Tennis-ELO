@@ -1,20 +1,73 @@
 {
-  "generated_at": "2026-07-21T00:39:09.361921+02:00",
+  "generated_at": "2026-07-21T06:00:15.254462+02:00",
   "source_url": "https://www.rezultati.com/tenis/",
   "counts": {
     "archive_before": 17367,
-    "daily_scorelines": 0,
-    "archive_after": 17367,
-    "added": 0
+    "daily_scorelines": 1,
+    "archive_after": 17368,
+    "added": 1
   },
   "metadata_counts": {
-    "with_surface": 17335,
+    "with_surface": 17336,
     "with_gender": 10872,
-    "with_tour_level": 17335,
+    "with_tour_level": 17336,
     "grand_slam": 2504,
     "best_of_5": 1161
   },
-  "sample": [],
+  "sample": [
+    {
+      "match_id": "",
+      "match_url": "",
+      "source": "rezultati_daily_results_text_fallback",
+      "date": "2026-07-21",
+      "player_1": "Kawahashi Y.",
+      "player_2": "Taguchi R.",
+      "match": "Kawahashi Y. - Taguchi R.",
+      "winner": "Taguchi R.",
+      "loser": "Kawahashi Y.",
+      "sets_1": 0,
+      "sets_2": 2,
+      "final_score": "0-2",
+      "set_scores": [
+        {
+          "set_number": 1,
+          "p1_games": 3,
+          "p2_games": 6,
+          "tiebreak": false
+        },
+        {
+          "set_number": 2,
+          "p1_games": 1,
+          "p2_games": 6,
+          "tiebreak": false
+        }
+      ],
+      "completed": true,
+      "retired": false,
+      "walkover": false,
+      "raw_parent_text": "Kraj\nKawahashi Y.\nTaguchi R.\n0\n2\n3\n6\n1\n6",
+      "raw_header_text": "M15 Bali (Indonezija), tvrda podloga\nITF - MUŠKI SINGL:",
+      "tournament": "M15 Bali (Indonezija), tvrda podloga",
+      "tour_level": "itf",
+      "gender": "",
+      "surface": "hard",
+      "indoor": null,
+      "best_of": 3,
+      "is_grand_slam": false,
+      "first_set_score": "3-6",
+      "first_set_games": 9,
+      "first_set_tiebreak": false,
+      "total_games": 16,
+      "p1_total_games_won": 4,
+      "p2_total_games_won": 12,
+      "game_margin_p1": -8,
+      "total_sets": 2,
+      "straight_sets": true,
+      "deciding_set": false,
+      "had_tiebreak": false,
+      "tiebreak_count": 0
+    }
+  ],
   "debug_files": {
     "text": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/reports/debug_rezultati_daily_results_text.txt",
     "html": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/reports/debug_rezultati_daily_results_page.html",
