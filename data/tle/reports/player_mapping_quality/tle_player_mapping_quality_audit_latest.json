@@ -2,7 +2,7 @@
   "schema_version": 1,
   "file_type": "tle_player_mapping_quality_audit",
   "summary": {
-    "generated_at": "2026-07-22T09:05:09+00:00",
+    "generated_at": "2026-07-23T09:04:04+00:00",
     "mapping_file": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/tle/mappings/api_player_to_sackmann.json",
     "canonical_manifest": "/home/runner/work/Tennis-ELO/Tennis-ELO/data/tle/processed/canonical/tle_matches_manifest.json",
     "canonical_files": [
