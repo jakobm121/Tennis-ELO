@@ -19,6 +19,88 @@ TEČAJEVI
 GOTOVO
 RASPORED
 24/07 PE
+Hamburg (Njemačka), zemlja
+WTA - SINGL: 
+Ždrijeb
+Kraj
+Bondar A.
+Charaeva A.
+2
+0
+6
+1
+7
+7
+6
+3
+Livesport Prague Open (Češka Republika), tvrda podloga
+WTA - SINGL: 
+Ždrijeb
+Kraj
+Tararudee L.
+Snigur D.
+0
+2
+0
+6
+3
+6
+Kitzbuhel (Austrija), zemlja
+ATP - PAROVI: 
+Ždrijeb
+Kraj
+Herbert P.H.
+Krawietz K.
+Schnaitter J.
+Wallner M.
+1
+2
+2
+6
+6
+2
+8
+10
+Livesport Prague Open (Češka Republika), tvrda podloga
+WTA - PAROVI: 
+Ždrijeb
+Kraj
+Kovackova A.
+Kovackova J.
+Dart H.
+Lumsden M.
+1
+2
+6
+3
+3
+6
+3
+10
+Segovia (Španjolska), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Pavlovic L.
+Alkaya M.
+2
+0
+6
+1
+6
+2
+Tampere (Finska), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Marcondes I.
+Dedura D.
+0
+2
+2
+6
+2
+6
 Winnipeg (Kanada), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -78,6 +160,17 @@ Boosarawongse T.
 6
 3
 6
+Kraj
+Taguchi R.
+Becroft I.
+2
+1
+4
+6
+6
+3
+6
+3
 M15 Brisbane (Australija), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -122,9 +215,33 @@ Delaney Ja.
 7
 3
 6
+M15 Segrate (Italija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Parizzia N.
+Andreev A.
+2
+0
+6
+2
+6
+3
 M25 Denia (Španjolska), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
+Kraj
+(predano)
+Casanova H.
+Lopez Montagud C.
+0
+1
+6
+1
+7
+7
+0
+0
 Kraj
 (predano)
 Lagutin P.
@@ -147,6 +264,28 @@ Guna R.
 6
 2
 6
+Kraj
+Papoe R. M.
+Andreescu S. A.
+2
+0
+7
+11
+6
+9
+6
+4
+Kraj
+Turcanu R. D.
+Batin T.
+0
+2
+5
+7
+6
+1
+7
+7
 W15 Brisbane 2 (Australija), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -189,6 +328,15 @@ W15 Cluj Napoca (Rumunjska), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
 Kraj
+Amariei I. D.
+Craciun G. A.
+2
+0
+6
+3
+7
+5
+Kraj
 Goina P. G.
 Miron T.
 0
@@ -197,6 +345,60 @@ Miron T.
 6
 1
 6
+Kraj
+(predano)
+Sandru I. M.
+Ormaechea P.
+0
+0
+2
+4
+W15 Las Palmas de Gran Canaria (Španjolska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Rodriguez L.
+Novak K.
+0
+2
+4
+6
+1
+6
+Kraj
+Shkutova A.
+Maines N.
+0
+2
+5
+7
+2
+6
+W35 Gentofte (Danska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Munk Mortensen R.
+Cortez Llorca L.
+0
+2
+3
+6
+1
+6
+Kraj
+Lew Yan Foon A.
+Taraba Wallberg N.
+2
+1
+6
+5
+7
+7
+6
+1
+6
+1
 W35 Saskatoon (Kanada), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -209,6 +411,33 @@ Kuramochi M.
 7
 2
 6
+M15 Bali (Indonezija), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Alcantara F. C.
+Rifqi Fitriadi M.
+Chang A.
+Nirundorn T.
+0
+2
+2
+6
+6
+3
+7
+7
+Kraj
+Ichikawa T.
+Shiraishi H.
+Bruce-Smith J.
+Storch S.
+2
+0
+6
+4
+6
+4
 M15 Brisbane (Australija), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -256,6 +485,22 @@ Bennani K.
 Honda N.
 -
 -
+M25 Denia (Španjolska), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Mishkin K.
+Shvets V.
+Bozemoj B.
+Pel S.
+1
+2
+6
+4
+3
+6
+9
+11
 W100 Evansville, IN (SAD), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -394,6 +639,14 @@ Riera J.
 4
 10
 3
+Davis Cup - Group IV (Svijet)
+TIMOVI - MUŠKARCI: 
+Tablica
+Kraj
+Šri Lanka
+Sjeverni Marijana Otoci
+2
+1
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -456,7 +709,7 @@ Juniori - singl
 Juniorke - singl
 Prikaži više
 Tenis livescore na Rezultatima nudi teniske rezultate uživo za preko 5000 teniskih turnira diljem svijeta, uključujući Australian Open, French Open, Wimbledon, US Open i mnoge druge. Pratite najnovije rezultate iz tenisa na Rezultatima, gdje možete pronaći detaljnu statistiku (asevi, dvostruke pogreške, postotak servisa, osvojeni servisi, spašene break lopte, neprisiljene pogreške, itd.), usporedbu koeficijenata, međuosboni omjer, vijesti, video sažetke ili tijek meča poen po poen. Pronađite sve današnje rezultate i vijesti iz tenisa na Rezultatima, uključujući ATP rezultate, WTA rezultate, ATP poredak, ATP kalendar 2026, WTA kalendar 2026, ili profile igrača (npr. Jannik Sinner, Carlos Alcaraz, Novak Đoković, Donna Vekić). Usluga tenis livescore se automatski ažurira, tako da nema potrebe da osvježavate stranicu.
-24.07. Torres T. - Gaston H., Rublev A. - van Assche L., Burruchaga R. A. - Blockx A., Faria J. - Darderi L.
+24.07. Rublev A. - van Assche L., Burruchaga R. A. - Blockx A., Faria J. - Darderi L.
 
 NOGOMET
 HNL
@@ -497,11 +750,11 @@ Hrvatska - Gruzija
 Girona - Arsenal
 Italija - SAD
 Petrocub - Borac Banja Luka
-SAD Ž - Australija Ž
 Rosenborg - Manchester Utd
 Barcelona - CE Europa
 Kina Ž - Mađarska Ž
 Italija Ž - Nizozemska Ž
+Australija - Mađarska
 REZULTATI UŽIVO
 AZ Alkmaar - Olympiacos Piraeus
 PSV - Villarreal
