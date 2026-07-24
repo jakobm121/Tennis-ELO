@@ -44,6 +44,40 @@ Chidekh C.
 4
 7
 7
+M15 Bali (Indonezija), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Matsuda R.
+Ichikawa T.
+2
+1
+2
+6
+6
+3
+6
+2
+Kraj
+Shin S.
+Chang A.
+0
+2
+4
+6
+2
+6
+Kraj
+Ryan Ziegann S.
+Boosarawongse T.
+1
+2
+7
+5
+3
+6
+3
+6
 M15 Brisbane (Australija), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -88,6 +122,31 @@ Delaney Ja.
 7
 3
 6
+M25 Denia (Španjolska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+(predano)
+Lagutin P.
+Angelini L.
+1
+0
+6
+2
+0
+0
+M25+H Bacau (Rumunjska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Alexandrescou Y. T.
+Guna R.
+0
+2
+1
+6
+2
+6
 W15 Brisbane 2 (Australija), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -117,6 +176,27 @@ Uchijima M.
 1
 6
 3
+Kraj
+Wan I W.
+Yoshimoto N.
+0
+2
+3
+6
+4
+6
+W15 Cluj Napoca (Rumunjska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Goina P. G.
+Miron T.
+0
+2
+4
+6
+1
+6
 W35 Saskatoon (Kanada), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -128,6 +208,33 @@ Kuramochi M.
 5
 7
 2
+6
+M15 Brisbane (Australija), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Kawachi K.
+Mochizuki Y.
+Jones H.
+Zhang J.
+2
+1
+3
+6
+7
+5
+10
+8
+Kraj
+Charlton J.
+Jones S.
+Hulme M.
+Walkin B.
+0
+2
+4
+6
+4
 6
 M15 Huamantla 3 (Meksiko), tvrda podloga
 ITF - MUŠKI PAROVI: 
@@ -176,6 +283,31 @@ Pareja J.
 6
 10
 0
+W15 Brisbane 2 (Australija), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Taylor L.
+Thompson B.
+Otway J.
+Yoshimoto N.
+2
+0
+6
+4
+6
+1
+Kraj
+Arakawa N.
+Katsumi N.
+Uemura M.
+Wan I W.
+2
+0
+7
+5
+7
+5
 W15 Huamantla 2 (Meksiko), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -360,16 +492,16 @@ Manchester City - Inter
 Real Madrid - Fiorentina
 Rijeka - Rudes
 LIVESCORE
-Španjolska - Hrvatska
-Gruzija - Crna Gora
+Hrvatska - Gruzija
+Španjolska - Crna Gora
 Girona - Arsenal
 Italija - SAD
 Petrocub - Borac Banja Luka
 SAD Ž - Australija Ž
 Rosenborg - Manchester Utd
 Barcelona - CE Europa
-Australija - Mađarska
-Italija - Grčka
+Kina Ž - Mađarska Ž
+Italija Ž - Nizozemska Ž
 REZULTATI UŽIVO
 AZ Alkmaar - Olympiacos Piraeus
 PSV - Villarreal
