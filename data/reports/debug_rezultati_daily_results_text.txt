@@ -19,6 +19,34 @@ TEČAJEVI
 GOTOVO
 RASPORED
 25/07 SU
+Kitzbuhel (Austrija), zemlja
+ATP - PAROVI: 
+Ždrijeb
+Kraj
+Schnaitter J.
+Wallner M.
+Miedler L.
+Polmans M.
+0
+2
+2
+6
+2
+6
+Hamburg (Njemačka), zemlja
+WTA - PAROVI: 
+Ždrijeb
+Kraj
+Jakupovic D.
+Radisic N.
+Kulambayeva Z.
+Semenistaja D.
+2
+0
+6
+2
+6
+1
 Bloomfield Hills (SAD), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -56,6 +84,20 @@ Chidekh C.
 6
 6
 4
+Tampere (Finska), zemlja
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Jans J.
+Visker N.
+Ponchet M.
+Poulsen Brostrom O.
+2
+0
+6
+2
+6
+1
 M15 Bali (Indonezija), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -105,6 +147,41 @@ Delaney Ja.
 6
 3
 6
+M25 Ollersbach (Austrija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Martin A.
+Erhard M.
+0
+2
+6
+0
+7
+7
+1
+6
+M25+H Bacau (Rumunjska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Batin T.
+Cazacu D. N.
+0
+2
+4
+6
+4
+6
+Kraj
+Papoe R. M.
+Guna R.
+2
+0
+6
+3
+6
+3
 W15 Brisbane 2 (Australija), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -128,6 +205,41 @@ Yoshimoto N.
 2
 6
 3
+W15 Cluj Napoca (Rumunjska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Balan S. V.
+Amariei I. D.
+0
+2
+1
+6
+6
+4
+7
+7
+W15 Kursumlijska Banja 10 (Srbija), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Geerlings Martinez A.
+Sacco F.
+2
+0
+6
+2
+6
+3
+Kraj
+Ghirardato E. O.
+Radovanovic N.
+0
+2
+4
+6
+5
+7
 W35 Santa Fe (SAD), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -151,6 +263,20 @@ Voloshchuk A.
 3
 0
 6
+M15 Bali (Indonezija), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Ichikawa T.
+Shiraishi H.
+Chang A.
+Nirundorn T.
+0
+2
+3
+6
+5
+7
 M15 Brisbane (Australija), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -161,6 +287,22 @@ Hulme M.
 Walkin B.
 -
 -
+M15 Kursumlijska Banja 10 (Srbija), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Mikovic M.
+Radovanovic T.
+Belozertsev N.
+Gretskiy I.
+1
+2
+5
+7
+6
+1
+8
+10
 M25 Champaign, IL (SAD), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -201,6 +343,22 @@ Thompson B.
 5
 6
 3
+W15 Cluj Napoca (Rumunjska), zemlja
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Marginean A. I.
+Markina M.
+Breaz A.
+Goina P. G.
+1
+2
+4
+6
+6
+2
+8
+10
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -302,13 +460,13 @@ LIVESCORE
 Girona - Arsenal
 Italija - SAD
 Petrocub - Borac Banja Luka
-Australija - Mađarska
-Italija - Grčka
 Kuba - Portoriko
 Liverpool - Sunderland
 SAD Ž - Španjolska Ž
 Kuba - Gvatemala
 Venezuela - Kuba
+Japan - Kina
+Liverpool - Wrexham
 REZULTATI UŽIVO
 AZ Alkmaar - Olympiacos Piraeus
 PSV - Villarreal
