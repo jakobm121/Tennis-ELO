@@ -111,6 +111,31 @@ Smith C.
 2
 6
 4
+Washington (SAD) - Kvalifikacije, tvrda podloga
+ATP - SINGL: 
+Ždrijeb
+Kraj
+Damm M.
+Shelbayh A.
+2
+1
+4
+6
+7
+5
+7
+7
+6
+4
+Kraj
+Vukic A.
+Bolt A.
+2
+0
+6
+0
+6
+1
 Hamburg (Njemačka), zemlja
 WTA - SINGL: 
 Ždrijeb
@@ -137,6 +162,42 @@ Tagger L.
 7
 2
 6
+Estoril (Portugal), zemlja
+ATP - PAROVI: 
+Ždrijeb
+Kraj
+Droguet T.
+Jacquet K.
+Luz O.
+Matos R.
+2
+1
+7
+7
+6
+2
+6
+4
+7
+7
+11
+9
+Hamburg (Njemačka), zemlja
+WTA - PAROVI: 
+Ždrijeb
+Kraj
+Kempen M.
+Panova A.
+Jakupovic D.
+Radisic N.
+1
+2
+7
+5
+3
+6
+5
+10
 Livesport Prague Open (Češka Republika), tvrda podloga
 WTA - PAROVI: 
 Ždrijeb
@@ -167,6 +228,18 @@ Virtanen O.
 7
 6
 3
+Zug (Švicarska), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Huesler M.
+Seyboth Wild T.
+0
+2
+4
+6
+3
+6
 Bonn (Njemačka) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -239,6 +312,33 @@ De Krom M.
 2
 6
 2
+Kraj
+Vales A.
+Nikles J.
+0
+2
+2
+6
+5
+7
+Kraj
+Oetzbach A.
+Petkovic M.
+0
+2
+4
+6
+5
+7
+Kraj
+Nittmann Y.
+Aboian V.
+0
+2
+3
+6
+2
+6
 Liberec (Češka Republika) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -340,6 +440,33 @@ Kucera J.
 3
 6
 0
+Kraj
+Martin A.
+Luxa T.
+2
+0
+6
+3
+6
+4
+Kraj
+Kusy J.
+Beckley A.
+0
+2
+3
+6
+5
+7
+Kraj
+Recek D.
+Sultanov K.
+0
+2
+3
+6
+2
+6
 Samsun (Turska) - Kvalifikacije, tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -428,6 +555,39 @@ Duran T.
 6
 2
 6
+Prekinuto
+McKennon M.
+Filiz S.
+1
+0
+7
+5
+5
+6
+40
+40
+Prekinuto
+Bittoun C.
+Yilmaz K.
+0
+1
+2
+6
+4
+1
+15
+15
+Prekinuto
+Singh D.
+Betov S.
+1
+0
+6
+4
+1
+0
+0
+15
 San Marino (San Marino) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -473,6 +633,46 @@ Compagnucci T.
 2
 6
 1
+6
+Kraj
+Kovalik J.
+Piraino G.
+2
+1
+2
+6
+7
+7
+6
+3
+7
+5
+Kraj
+De Gabriele A.
+Brunold M.
+0
+2
+1
+6
+2
+6
+Kraj
+Monteiro T.
+Bronzetti A.
+2
+0
+6
+2
+6
+1
+Kraj
+Zeballos F.
+Forti F.
+0
+2
+1
+6
+4
 6
 Targu Mures (Rumunjska) - Kvalifikacije, zemlja
 CHALLENGER - ŽENSKI SINGL: 
@@ -634,6 +834,18 @@ Vives Marcos P.
 6
 2
 6
+M15 Segrate (Italija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Martin Manzano J. C.
+Parizzia N.
+2
+0
+6
+3
+6
+4
 M25 Metzingen (Njemačka), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -648,6 +860,32 @@ Perot R.
 6
 4
 6
+M25 Ollersbach (Austrija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Planinsek F. J.
+Erhard M.
+2
+1
+2
+6
+7
+5
+6
+3
+M25 Sao Paulo (Brazil), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Meligeni Alves F.
+Saraiva Dos Santos P. A.
+2
+0
+6
+4
+6
+3
 M25+H Bacau (Rumunjska), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -722,6 +960,20 @@ Gallardo Guevara C.
 6
 3
 6
+W15 Nogent-sur-Marne (Francuska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Mpetshi Perricard D.
+Chlpac A.
+1
+2
+6
+2
+4
+6
+2
+6
 W35 Gentofte (Danska), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -750,6 +1002,18 @@ Back D.
 3
 6
 2
+W75 Vacaria (Brazil), zemlja (dvorana)
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Riera J.
+Perez Alarcon L.
+2
+0
+7
+5
+6
+0
 W100 Amstetten (Austrija), zemlja
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -802,7 +1066,7 @@ WTA Washington
 ATP Estoril
 ATP Los Cabos
 ATP Washington
-Prikaži više (65)
+Prikaži više (61)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -857,12 +1121,12 @@ Dinamo Zagreb - Thun
 Pafos - Hajduk Split
 Dinamo Zagreb - Slaven Belupo
 Varaždin - Hajduk Split
-Karlsruher SC - Inter
 Real Madrid - Leganes
 Derry City - Rijeka
 Manchester City - Inter
 Real Madrid - Fiorentina
 Rijeka - Rudes
+AC Milan - Inter
 LIVESCORE
 Girona - Arsenal
 Italija - SAD
