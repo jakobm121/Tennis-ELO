@@ -19,6 +19,20 @@ TEČAJEVI
 GOTOVO
 RASPORED
 26/07 NE
+Estoril (Portugal), zemlja
+ATP - SINGL: 
+Ždrijeb
+Kraj
+van Assche L.
+Blockx A.
+2
+1
+6
+4
+4
+6
+7
+5
 Los Cabos (Meksiko) - Kvalifikacije, tvrda podloga
 ATP - SINGL: 
 Ždrijeb
@@ -136,6 +150,40 @@ Bolt A.
 0
 6
 1
+Kraj
+Martin A.
+Echargui M.
+2
+0
+6
+2
+7
+5
+Kraj
+Giron M.
+Ilagan A.
+2
+0
+6
+3
+7
+7
+6
+2
+Kraj
+(predano)
+Svajda Z.
+Hewitt C.
+1
+1
+6
+1
+6
+3
+7
+7
+0
+2
 Hamburg (Njemačka), zemlja
 WTA - SINGL: 
 Ždrijeb
@@ -160,6 +208,71 @@ Tagger L.
 3
 7
 7
+2
+6
+Memphis (SAD) - Kvalifikacije, tvrda podloga
+WTA - SINGL: 
+Ždrijeb
+Prekinuto
+Hunter S.
+Johnson S.
+1
+1
+5
+7
+6
+1
+0
+0
+0
+0
+Prekinuto
+Ma Y.
+Ito A.
+1
+0
+7
+7
+6
+3
+0
+5
+0
+0
+Washington (SAD) - Kvalifikacije, tvrda podloga
+WTA - SINGL: 
+Ždrijeb
+Kraj
+Kudermetova P.
+Lepchenko V.
+2
+1
+4
+6
+7
+9
+6
+7
+6
+4
+Kraj
+Watson H.
+Pareja J.
+1
+2
+4
+6
+6
+3
+5
+7
+Kraj
+Knutson G.
+Sramkova R.
+0
+2
+3
+6
 2
 6
 Estoril (Portugal), zemlja
@@ -212,6 +325,34 @@ Samson L.
 4
 6
 4
+Bloomfield Hills (SAD), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Michelsen A.
+Fearnley J.
+2
+0
+7
+7
+6
+4
+6
+3
+Segovia (Španjolska), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Martineau M.
+Pavlovic L.
+1
+2
+4
+6
+6
+3
+1
+6
 Tampere (Finska), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -228,6 +369,18 @@ Virtanen O.
 7
 6
 3
+Winnipeg (Kanada), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Draxl L.
+Samuel T.
+0
+2
+4
+6
+2
+6
 Zug (Švicarska), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -339,6 +492,24 @@ Aboian V.
 6
 2
 6
+Kraj
+Pucinelli de Almeida M.
+Wessels L.
+2
+0
+6
+3
+6
+4
+Kraj
+Topo M.
+Rossi L.
+2
+0
+6
+4
+6
+1
 Liberec (Češka Republika) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -555,39 +726,6 @@ Duran T.
 6
 2
 6
-Prekinuto
-McKennon M.
-Filiz S.
-1
-0
-7
-5
-5
-6
-40
-40
-Prekinuto
-Bittoun C.
-Yilmaz K.
-0
-1
-2
-6
-4
-1
-15
-15
-Prekinuto
-Singh D.
-Betov S.
-1
-0
-6
-4
-1
-0
-0
-15
 San Marino (San Marino) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -674,6 +812,39 @@ Forti F.
 6
 4
 6
+Kraj
+Mazza M.
+Visker N.
+2
+0
+6
+3
+7
+9
+6
+7
+Kraj
+Varillas J. P.
+Latinovic S.
+2
+0
+7
+7
+6
+3
+6
+3
+Kraj
+Dalla Valle E.
+Logrippo M.
+2
+0
+6
+3
+7
+7
+6
+3
 Targu Mures (Rumunjska) - Kvalifikacije, zemlja
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -822,6 +993,22 @@ Delaney Ja.
 7
 3
 6
+M15 Huamantla 3 (Meksiko), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Thomson M.
+Tudorica A. N.
+2
+1
+6
+2
+7
+7
+6
+2
+6
+4
 M15 Kursumlijska Banja 10 (Srbija), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -834,6 +1021,20 @@ Vives Marcos P.
 6
 2
 6
+M15 Rognac (Francuska), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Lemire C.
+Cesar Porras J.
+0
+2
+5
+7
+6
+4
+7
+7
 M15 Segrate (Italija), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -846,6 +1047,34 @@ Parizzia N.
 3
 6
 4
+M25 Champaign, IL (SAD), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Honda N.
+Bynoe E.
+0
+2
+2
+6
+6
+5
+7
+7
+M25 Denia (Španjolska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Lagutin P.
+Rodenas P.
+2
+0
+6
+2
+7
+7
+6
+5
 M25 Metzingen (Njemačka), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -910,6 +1139,22 @@ Kostovic T.
 6
 0
 6
+W100 Evansville, IN (SAD), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Dolehide C.
+Ku Y.
+2
+0
+7
+7
+6
+3
+7
+7
+6
+5
 W15 Brisbane 2 (Australija), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -987,6 +1232,18 @@ Cortez Llorca L.
 6
 3
 1
+6
+W35 Santa Fe (SAD), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Inoue H.
+Rapolu M.
+0
+2
+2
+6
+0
 6
 W50 Horb (Njemačka), zemlja
 ITF - ŽENSKI SINGL: 
@@ -1066,7 +1323,7 @@ WTA Washington
 ATP Estoril
 ATP Los Cabos
 ATP Washington
-Prikaži više (61)
+Prikaži više (54)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -1092,7 +1349,7 @@ Juniori - singl
 Juniorke - singl
 Prikaži više
 Tenis livescore na Rezultatima nudi teniske rezultate uživo za preko 5000 teniskih turnira diljem svijeta, uključujući Australian Open, French Open, Wimbledon, US Open i mnoge druge. Pratite najnovije rezultate iz tenisa na Rezultatima, gdje možete pronaći detaljnu statistiku (asevi, dvostruke pogreške, postotak servisa, osvojeni servisi, spašene break lopte, neprisiljene pogreške, itd.), usporedbu koeficijenata, međuosboni omjer, vijesti, video sažetke ili tijek meča poen po poen. Pronađite sve današnje rezultate i vijesti iz tenisa na Rezultatima, uključujući ATP rezultate, WTA rezultate, ATP poredak, ATP kalendar 2026, WTA kalendar 2026, ili profile igrača (npr. Jannik Sinner, Carlos Alcaraz, Novak Đoković, Donna Vekić). Usluga tenis livescore se automatski ažurira, tako da nema potrebe da osvježavate stranicu.
-26.07. van Assche L. - Blockx A.
+
 
 NOGOMET
 HNL
@@ -1129,9 +1386,9 @@ Rijeka - Rudes
 AC Milan - Inter
 LIVESCORE
 Girona - Arsenal
+Arsenal - Betis
 Italija - SAD
 Petrocub - Borac Banja Luka
-Kuba - Gvatemala
 Arnaldi - Musetti
 Venezuela - Kuba
 Japan - Kina
@@ -1139,7 +1396,6 @@ Liverpool - Wrexham
 Poljska - Ukrajina
 Birmingham - Barcelona
 REZULTATI UŽIVO
-Banska Bystrica - Slovan Bratislava
 PSV - Eindhoven FC
 Slovan Bratislava - Iberia 1999
 Ajax - Vojvodina
@@ -1149,6 +1405,7 @@ Slovan Bratislava - Podbrezova
 FC Volendam - Ajax
 Feyenoord - Atalanta
 PSV - AZ Alkmaar
+Sparta Prague - Lyon
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
@@ -1168,7 +1425,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Igrajte odgovorno. Gambling Therapy. 18+
+Must be 21+. If you or someone you know has a gambling problem, crisis counselling and referral services can be accessed by calling 1-800-GAMBLER (1-800-426-2537) or by texting ILGAMB to 833234. The 1-800-GAMBLER helpline can be used for multi-jurisdictional advertising.
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
