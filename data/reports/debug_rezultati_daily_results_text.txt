@@ -111,6 +111,32 @@ Smith C.
 2
 6
 4
+Hamburg (Njemačka), zemlja
+WTA - SINGL: 
+Ždrijeb
+Kraj
+Bondar A.
+Korpatsch T.
+0
+2
+3
+6
+3
+6
+Livesport Prague Open (Češka Republika), tvrda podloga
+WTA - SINGL: 
+Ždrijeb
+Kraj
+Snigur D.
+Tagger L.
+0
+2
+6
+3
+7
+7
+2
+6
 Livesport Prague Open (Češka Republika), tvrda podloga
 WTA - PAROVI: 
 Ždrijeb
@@ -173,6 +199,46 @@ Obradovic D.
 4
 6
 0
+Kraj
+Thies C.
+Donald M.
+0
+2
+4
+6
+0
+6
+Kraj
+Wallin O.
+Dullinger V.
+2
+1
+4
+6
+6
+2
+6
+2
+Kraj
+Damas M.
+Sakellaridis D.
+1
+2
+6
+2
+3
+6
+0
+6
+Kraj
+Galan D. E.
+De Krom M.
+2
+0
+6
+2
+6
+2
 Liberec (Češka Republika) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -208,11 +274,72 @@ Campana Lee G.
 1
 0
 0
+Kraj
+Molleker R.
+Vrba J.
+1
+2
+6
+4
+6
+6
+7
+8
+4
+6
+Kraj
+Rejchtman Vinciguerra W.
+Dev S D P.
+2
+0
+6
+3
+6
+2
+Kraj
+(predano)
+Gombos N.
+Hamza Reguig S.
+1
+0
+6
+0
+2
+0
 Otkazano
 Kicker N.
 Braynin A.
 -
 -
+Kraj
+Sinha N. K.
+Braynin A.
+0
+2
+2
+6
+6
+0
+7
+7
+Kraj
+Kellovsky D.
+Berkieta T.
+0
+2
+4
+6
+4
+6
+Kraj
+Siniakov D.
+Kucera J.
+2
+0
+6
+3
+6
+0
 Samsun (Turska) - Kvalifikacije, tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -272,6 +399,35 @@ Ozdemir S. M.
 3
 6
 1
+Kraj
+Tokac T.
+Dzhavakian Y.
+2
+0
+6
+1
+6
+4
+Kraj
+Nakagawa S.
+Purtseladze S.
+2
+0
+7
+7
+6
+5
+6
+3
+Kraj
+Tajima N.
+Duran T.
+0
+2
+4
+6
+2
+6
 San Marino (San Marino) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -280,6 +436,44 @@ Bondioli F.
 Vrbensky M.
 -
 -
+Kraj
+Blanch D.
+Zannoni S.
+2
+0
+6
+2
+6
+2
+Kraj
+Janvier M.
+Angelini L.
+2
+1
+4
+6
+6
+4
+6
+2
+Kraj
+Poljicak M.
+Baldisserri E.
+2
+0
+6
+3
+6
+4
+Kraj
+Banthia S.
+Compagnucci T.
+0
+2
+2
+6
+1
+6
 Targu Mures (Rumunjska) - Kvalifikacije, zemlja
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -318,6 +512,55 @@ Kazionova E.
 2
 6
 2
+6
+Kraj
+Monnot A.
+Ciric Bagaric L.
+0
+2
+6
+8
+7
+10
+0
+6
+Kraj
+(predano)
+Popa M. S.
+Toth A. K.
+1
+0
+6
+3
+3
+1
+Kraj
+Shinikova I.
+Tona M.
+0
+2
+2
+6
+3
+6
+Kraj
+(predano)
+Feistel G.
+Szabo B.
+0
+1
+5
+7
+2
+3
+Kraj
+Ilie D. M.
+Rouvroy M.
+0
+2
+1
+6
+1
 6
 Vancouver (Kanada) - Kvalifikacije, tvrda podloga
 CHALLENGER - ŽENSKI SINGL: 
@@ -391,6 +634,20 @@ Vives Marcos P.
 6
 2
 6
+M25 Metzingen (Njemačka), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Zahraj P.
+Perot R.
+1
+2
+7
+5
+4
+6
+4
+6
 M25+H Bacau (Rumunjska), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -403,6 +660,18 @@ Cazacu D. N.
 0
 6
 0
+W100 Amstetten (Austrija), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Wolff V.
+Kostovic T.
+0
+2
+4
+6
+0
+6
 W15 Brisbane 2 (Australija), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -439,6 +708,64 @@ Radovanovic N.
 3
 6
 3
+W15 Las Palmas de Gran Canaria (Španjolska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Novak K.
+Gallardo Guevara C.
+1
+2
+7
+5
+2
+6
+3
+6
+W35 Gentofte (Danska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Bajraliu L.
+Cortez Llorca L.
+1
+2
+1
+6
+6
+3
+1
+6
+W50 Horb (Njemačka), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Nilsson L.
+Back D.
+2
+0
+7
+7
+6
+3
+6
+2
+W100 Amstetten (Austrija), zemlja
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Fita Boluda A.
+Siskova A.
+Kucmova A.
+Laboutkova A.
+1
+2
+1
+6
+6
+1
+14
+16
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -466,7 +793,6 @@ ATP Parovi Race
 WTA Parovi Race
 AKTUALNI TURNIRI
 ATP Estoril
-ATP Kitzbuhel
 ATP Los Cabos
 ATP Washington
 WTA Hamburg
@@ -475,7 +801,8 @@ WTA Memphis
 WTA Washington
 ATP Estoril
 ATP Los Cabos
-Prikaži više (72)
+ATP Washington
+Prikaži više (65)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -548,9 +875,6 @@ Liverpool - Wrexham
 Poljska - Ukrajina
 Birmingham - Barcelona
 REZULTATI UŽIVO
-Feyenoord - Rayo Vallecano
-Ajax - Burnley
-Slavia Prague - Slovacko
 Banska Bystrica - Slovan Bratislava
 PSV - Eindhoven FC
 Slovan Bratislava - Iberia 1999
@@ -558,6 +882,9 @@ Ajax - Vojvodina
 Sparta Prague - Zlin
 Ostrava - Slavia Prague
 Slovan Bratislava - Podbrezova
+FC Volendam - Ajax
+Feyenoord - Atalanta
+PSV - AZ Alkmaar
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
