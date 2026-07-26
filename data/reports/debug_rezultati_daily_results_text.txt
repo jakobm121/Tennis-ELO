@@ -111,9 +111,103 @@ Smith C.
 2
 6
 4
+Livesport Prague Open (Češka Republika), tvrda podloga
+WTA - PAROVI: 
+Ždrijeb
+Kraj
+Dart H.
+Lumsden M.
+Havlickova L.
+Samson L.
+2
+0
+6
+4
+6
+4
+Tampere (Finska), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Dedura D.
+Virtanen O.
+2
+1
+6
+3
+6
+3
+7
+7
+6
+3
+Bonn (Njemačka) - Kvalifikacije, zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Fomin S.
+La Vela G.
+1
+2
+6
+1
+1
+6
+3
+6
+Kraj
+Kudernatsch M.
+Pieri S.
+0
+2
+4
+6
+1
+6
+Kraj
+Marti Pujolras A.
+Obradovic D.
+2
+0
+6
+4
+6
+0
 Liberec (Češka Republika) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
+Kraj
+Fajta P.
+Martinez Gomez P.
+0
+2
+6
+3
+7
+7
+1
+6
+Kraj
+Kravchenko G.
+Raquillet L.
+2
+1
+3
+6
+6
+3
+6
+4
+Kraj
+(predano)
+Nicod J.
+Campana Lee G.
+1
+0
+6
+1
+0
+0
 Otkazano
 Kicker N.
 Braynin A.
@@ -122,6 +216,17 @@ Braynin A.
 Samsun (Turska) - Kvalifikacije, tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
+Kraj
+Anavatan M.
+Heck H.
+2
+1
+4
+6
+6
+4
+6
+3
 Kraj
 Miyoshi K.
 Chekhov A.
@@ -140,14 +245,80 @@ Turker M. N.
 6
 1
 6
+Kraj
+Markov V.
+Lomakin G.
+0
+2
+5
+7
+5
+7
+Kraj
+Sahtali T.
+Saritas G.
+2
+0
+6
+0
+6
+1
+Kraj
+Basic M.
+Ozdemir S. M.
+2
+0
+6
+3
+6
+1
+San Marino (San Marino) - Kvalifikacije, zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Otkazano
+Bondioli F.
+Vrbensky M.
+-
+-
 Targu Mures (Rumunjska) - Kvalifikacije, zemlja
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
+Kraj
+Chiesa D.
+Prisacariu A.
+0
+2
+6
+5
+7
+7
+2
+6
+Kraj
+Kotliar Y.
+Mazzola A.
+2
+1
+5
+7
+6
+2
+6
+2
 Otkazano
 Malygina E.
 Kazionova E.
 -
 -
+Kraj
+Yashina E.
+Kazionova E.
+0
+2
+2
+6
+2
+6
 Vancouver (Kanada) - Kvalifikacije, tvrda podloga
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -208,6 +379,30 @@ Delaney Ja.
 7
 3
 6
+M15 Kursumlijska Banja 10 (Srbija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Djuric B.
+Vives Marcos P.
+0
+2
+4
+6
+2
+6
+M25+H Bacau (Rumunjska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Papoe R. M.
+Cazacu D. N.
+2
+0
+6
+0
+6
+0
 W15 Brisbane 2 (Australija), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -232,6 +427,18 @@ Miron T.
 2
 6
 2
+W15 Kursumlijska Banja 10 (Srbija), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Geerlings Martinez A.
+Radovanovic N.
+2
+0
+6
+3
+6
+3
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -267,8 +474,8 @@ WTA Livesport Prague Open
 WTA Memphis
 WTA Washington
 ATP Estoril
-ATP Kitzbuhel
-Prikaži više (76)
+ATP Los Cabos
+Prikaži više (72)
 KATEGORIJE
 ATP - singl
 WTA - singl
