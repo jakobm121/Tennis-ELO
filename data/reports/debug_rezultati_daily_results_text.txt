@@ -66,6 +66,54 @@ Magadan A.
 8
 6
 6
+Memphis (SAD), tvrda podloga
+WTA - SINGL: 
+Ždrijeb
+Kraj
+Joint M.
+Osuigwe W.
+2
+0
+6
+4
+6
+1
+Prekinuto
+Volynets K.
+Golubic V.
+1
+1
+7
+5
+2
+6
+0
+0
+0
+0
+Kraj
+Zakharova A.
+Fruhvirtova L.
+2
+0
+7
+8
+6
+6
+6
+1
+Washington (SAD), tvrda podloga
+WTA - SINGL: 
+Ždrijeb
+Kraj
+Fernandez L.
+Linette M.
+2
+0
+6
+1
+6
+4
 Memphis (SAD) - Kvalifikacije, tvrda podloga
 WTA - SINGL: 
 Ždrijeb
@@ -111,6 +159,24 @@ Raina A.
 2
 6
 0
+Washington (SAD), tvrda podloga
+WTA - PAROVI: 
+Ždrijeb
+Kraj
+Ansari C.
+Ma L.
+Klepac A.
+Ninomiya M.
+1
+2
+3
+6
+7
+8
+6
+6
+6
+10
 Bonn (Njemačka), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -139,6 +205,15 @@ Mackenzie J.
 7
 2
 6
+Kraj
+Boscardin Dias P.
+Rodionov J.
+0
+2
+3
+6
+4
+6
 Liberec (Češka Republika), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -155,6 +230,26 @@ Kicker N.
 2
 6
 4
+6
+Kraj
+Kolar Z.
+Kumstat J.
+1
+2
+2
+6
+6
+4
+3
+6
+Kraj
+Montes-De La Torre I.
+Nagal S.
+0
+2
+3
+6
+3
 6
 Samsun (Turska), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
@@ -209,6 +304,15 @@ Djere L.
 Basilashvili N.
 -
 -
+Kraj
+Muller A.
+Napolitano S.
+2
+0
+6
+2
+6
+4
 Vancouver (Kanada), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -557,41 +661,28 @@ Fetecau I.
 1
 6
 3
-Prekinuto
+Kraj
 Burillo Escorihuela I.
 Lansere S.
-1
+2
 1
 2
 6
 6
 4
-0
-0
-0
-0
-Prekinuto
+6
+4
+Kraj
 Romero Gormaz L.
 Sorribes Tormo S.
 1
-0
+2
 6
 3
-2
-1
-0
-0
-Prekinuto
-Rame A.
-Struplova J.
-1
-0
+3
 6
-2
-0
-1
-0
-0
+3
+6
 Targu Mures (Rumunjska) - Kvalifikacije, zemlja
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -677,7 +768,6 @@ WTA Parovi
 ATP Parovi Race
 WTA Parovi Race
 AKTUALNI TURNIRI
-ATP Estoril
 ATP Los Cabos
 ATP Washington
 WTA Memphis
@@ -687,7 +777,8 @@ ATP Washington
 WTA Memphis
 WTA Washington
 Bloomfield Hills Challenger Muškarci
-Prikaži više (38)
+Bonn Challenger Muškarci
+Prikaži više (49)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -749,6 +840,8 @@ Real Madrid - Fiorentina
 Rijeka - Rudes
 AC Milan - Inter
 LIVESCORE
+Ajdukovic - Sultanov
+Boskovic - Salkova
 Girona - Arsenal
 Arsenal - Betis
 Italija - SAD
@@ -757,8 +850,6 @@ Arnaldi - Musetti
 Venezuela - Kuba
 Japan - Kina
 Liverpool - Wrexham
-Poljska - Ukrajina
-Birmingham - Barcelona
 REZULTATI UŽIVO
 PSV - Eindhoven FC
 Slovan Bratislava - Iberia 1999
@@ -789,7 +880,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Igrajte odgovorno. Gambling Therapy. 18+
+Gambling Problem? Call 1-800-BETS OFF 21+
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
