@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-27T00:36:54.759986+02:00",
+  "generated_at": "2026-07-27T06:25:14.874315+02:00",
   "source_odds_url": "https://raw.githubusercontent.com/jakobm121/Ai/refs/heads/main/data/tennis_odds_today.json",
-  "odds_generated_at": "2026-07-27T00:13:15.556462+02:00",
+  "odds_generated_at": "2026-07-27T06:02:14.376790+02:00",
   "model": "first_set_totals_multi_strategy_shadow_v1",
   "settings": {
     "min_player_sample": 10,
