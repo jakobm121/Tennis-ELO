@@ -51,6 +51,15 @@ Kovacevic A.
 4
 6
 1
+Kraj
+Wong C.
+Blanch Dar.
+2
+0
+6
+3
+6
+4
 Otkazano
 Kouame M.
 Dimitrov G.
@@ -70,6 +79,11 @@ Atmane T.
 6
 4
 6
+Otkazano
+Michelsen A.
+Draper J.
+-
+-
 Memphis (SAD), tvrda podloga
 WTA - SINGL: 
 Ždrijeb
@@ -172,6 +186,21 @@ Stephens S.
 10
 6
 8
+Kraj
+Martins I.
+Ovcharenko E.
+Birrell K.
+Stearns P.
+2
+1
+6
+4
+6
+4
+7
+7
+11
+9
 Washington (SAD), tvrda podloga
 WTA - PAROVI: 
 Ždrijeb
@@ -186,6 +215,18 @@ Sutjiadi A.
 6
 5
 7
+Samsun (Turska), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Basing M.
+Rawat S.
+2
+0
+6
+3
+6
+1
 Vancouver (Kanada) - Kvalifikacije, tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -227,30 +268,42 @@ Poling K.
 6
 4
 6
-Prekinuto
+Kraj
 Arseneault M.
 Trotter J. K.
 1
-1
+2
 7
 7
 6
 4
 3
 6
-1
+3
+6
+Kraj
+Church C.
+Boulais J.
 2
 0
-0
-Prekinuto
+6
+3
+6
+3
+Kraj
 Hara Friend J. D.
 Moriya H.
-0
-0
-3
 2
 0
+6
+2
+6
 0
+Walkover
+Shick B.
+Tokuda R.
+-
+-
 Vancouver (Kanada) - Kvalifikacije, tvrda podloga
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -276,6 +329,443 @@ Savinykh V.
 3
 6
 2
+Kraj
+Kuramochi M.
+Alexander A.
+2
+0
+7
+5
+6
+3
+Kraj
+Wei S.
+Wong Hong Yi C.
+1
+2
+7
+5
+3
+6
+1
+6
+M15 Bali 2 (Indonezija), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Kawahashi Y.
+Ryan Ziegann S.
+1
+2
+6
+1
+1
+6
+3
+6
+Kraj
+Shin S.
+Chauhan H.
+2
+1
+6
+4
+4
+6
+6
+3
+Kraj
+Taguchi R.
+Sumizawa D.
+2
+0
+6
+3
+6
+1
+Kraj
+Takahashi Y.
+Barki N. A.
+2
+0
+7
+5
+6
+1
+Kraj
+Bagnolini D.
+Saitoh K.
+0
+2
+2
+6
+2
+6
+Kraj
+Crowther C.
+Sasikumar M.
+2
+0
+6
+4
+6
+4
+Kraj
+Harazaki A.
+Shiraishi H.
+2
+0
+7
+7
+6
+5
+6
+4
+Kraj
+Shanmugam A.
+Charoenphon Y.
+1
+2
+7
+7
+6
+4
+4
+6
+3
+6
+M15 Brisbane 2 (Australija), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Dong C.
+Sach T.
+2
+1
+6
+3
+3
+6
+6
+3
+Kraj
+Hazawa S.
+Kose C.
+2
+0
+6
+3
+6
+4
+Kraj
+Jasika O.
+Pham D.
+2
+0
+7
+8
+6
+6
+6
+3
+M15 Strasbourg (Francuska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Bertimon M.
+Couturier L.
+2
+0
+6
+4
+6
+0
+M25 Bolzano (Italija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Buldorini P.
+Arnaboldi F.
+0
+2
+2
+6
+1
+6
+Kraj
+Carboni L.
+Crivellaro G.
+0
+2
+4
+6
+4
+6
+Kraj
+Castagnola L.
+Parenti L.
+2
+0
+7
+8
+6
+6
+6
+1
+M25 Pitesti (Rumunjska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Gima S.
+Ferrari F.
+0
+2
+2
+6
+2
+6
+W15 Brisbane 3 (Australija), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Hong Y.
+Ipunesso L.
+2
+0
+6
+0
+6
+2
+Kraj
+Kawamura M.
+Stevens A.
+1
+2
+6
+4
+0
+6
+5
+7
+Kraj
+Sycamore A.
+Alame Re.
+0
+2
+2
+6
+0
+6
+Kraj
+Webb S.
+Russell T.
+2
+0
+7
+6
+7
+7
+6
+5
+Kraj
+Sato H.
+Mildren S.
+0
+2
+4
+6
+1
+6
+W15 Kursumlijska Banja 11 (Srbija), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Argyrokastriti M.
+Antici A.
+2
+0
+6
+3
+6
+1
+Kraj
+Lekomtseva U.
+Garcia-Patron Canals A.
+2
+0
+6
+0
+6
+0
+Kraj
+Zozaya Menendez E.
+Yemshanova M.
+2
+0
+6
+4
+6
+1
+M15 Bali 2 (Indonezija), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Arifadli Salim R. A.
+Sharma A. R.
+Bruce-Smith J.
+Storch S.
+0
+2
+2
+6
+6
+5
+7
+7
+Kraj
+Heisnam S.
+Rathi A.
+Da Costa R.
+Zapp E. D.
+1
+2
+6
+4
+4
+6
+7
+10
+Kraj
+Hirose Y.
+Venkataraman A.
+Nakamura R.
+Tomida Y.
+1
+2
+5
+7
+7
+5
+9
+11
+Kraj
+Susanto A.
+Trismuwantara G.
+Becroft I.
+Sumizawa D.
+1
+2
+4
+6
+7
+5
+1
+10
+Kraj
+(predano)
+Chang A.
+Nirundorn T.
+Alcantara F. C.
+Ryan Ziegann S.
+0
+0
+5
+2
+M15 Brisbane 2 (Australija), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Cham E.
+Lamchinniah H.
+Padgham E.
+Shearer M.
+0
+2
+6
+3
+7
+7
+3
+6
+Kraj
+Charlton J.
+Jones S.
+Arcon A.
+Gadecki T. N.
+2
+0
+6
+4
+7
+5
+Kraj
+Jones H.
+Zhang J.
+Kotan P.
+Stevens Z.
+2
+1
+6
+1
+1
+6
+10
+6
+Kraj
+Sik M. E.
+Takizawa T.
+McLeod A.
+Satara H.
+2
+1
+6
+4
+6
+11
+7
+13
+12
+10
+W15 Brisbane 3 (Australija), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Adams J.
+Dodaj C.
+Bond-Scott K.
+Thompson B.
+1
+2
+2
+6
+6
+4
+4
+10
+Kraj
+Beck A.
+Taylor L.
+Lin F. A.
+Wan I W.
+1
+2
+2
+6
+6
+3
+8
+10
+Kraj
+Di Tommaso C.
+Mickoska S.
+Hsu A.
+Uchijima M.
+0
+2
+3
+6
+2
+6
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -312,7 +802,7 @@ WTA Memphis
 WTA Washington
 Bonn Challenger Muškarci
 Liberec Challenger Muškarci
-Prikaži više (70)
+Prikaži više (72)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -338,7 +828,7 @@ Juniori - singl
 Juniorke - singl
 Prikaži više
 Tenis livescore na Rezultatima nudi teniske rezultate uživo za preko 5000 teniskih turnira diljem svijeta, uključujući Australian Open, French Open, Wimbledon, US Open i mnoge druge. Pratite najnovije rezultate iz tenisa na Rezultatima, gdje možete pronaći detaljnu statistiku (asevi, dvostruke pogreške, postotak servisa, osvojeni servisi, spašene break lopte, neprisiljene pogreške, itd.), usporedbu koeficijenata, međuosboni omjer, vijesti, video sažetke ili tijek meča poen po poen. Pronađite sve današnje rezultate i vijesti iz tenisa na Rezultatima, uključujući ATP rezultate, WTA rezultate, ATP poredak, ATP kalendar 2026, WTA kalendar 2026, ili profile igrača (npr. Jannik Sinner, Carlos Alcaraz, Novak Đoković, Donna Vekić). Usluga tenis livescore se automatski ažurira, tako da nema potrebe da osvježavate stranicu.
-28.07. Majchrzak K. - Paul T., Humbert U. - Martin A., Michelsen A. - Draper J., Fils A. - Jodar R., Mannarino A. - Tien L., Nakashima B. - Etcheverry T. M., Giron M. - Hewitt C., Damm M. - Shelton B., Svajda T. - Mensik J., 29.07. De Minaur A. - Tsitsipas S., Vukic A. - Musetti L., Atmane T. - Tabilo A.
+28.07. Majchrzak K. - Paul T., Humbert U. - Martin A., Fils A. - Jodar R., Mannarino A. - Tien L., Michelsen A. - McDonald M., Nakashima B. - Etcheverry T. M., Giron M. - Hewitt C., Damm M. - Shelton B., Svajda T. - Mensik J., 29.07. De Minaur A. - Tsitsipas S., Vukic A. - Musetti L., Atmane T. - Tabilo A.
 
 NOGOMET
 HNL
@@ -380,10 +870,10 @@ Girona - Arsenal
 Arsenal - Betis
 Italija - SAD
 Petrocub - Borac Banja Luka
+Kuba - Dominikanska Republika
 Japan - Kina
 Vukic - Musetti
 Liverpool - Wrexham
-Poljska - Ukrajina
 REZULTATI UŽIVO
 PSV - Eindhoven FC
 Slovan Bratislava - Iberia 1999
