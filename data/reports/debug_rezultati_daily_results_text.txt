@@ -21,7 +21,261 @@ TEČAJEVI
 GOTOVO
 RASPORED
 28/07 UT
-Nema igara u tijeku.
+Los Cabos (Meksiko), tvrda podloga
+ATP - SINGL: 
+Ždrijeb
+Kraj
+Diallo G.
+Boyer T.
+0
+2
+5
+7
+2
+6
+Kraj
+Hernandez A.
+Tomic B.
+0
+2
+1
+6
+0
+6
+Kraj
+Norrie C.
+Kovacevic A.
+2
+0
+6
+4
+6
+1
+Otkazano
+Kouame M.
+Dimitrov G.
+-
+-
+Washington (SAD), tvrda podloga
+ATP - SINGL: 
+Ždrijeb
+Kraj
+Tiafoe F.
+Atmane T.
+1
+2
+6
+4
+3
+6
+4
+6
+Memphis (SAD), tvrda podloga
+WTA - SINGL: 
+Ždrijeb
+Kraj
+Gibson T.
+Maria T.
+0
+2
+0
+6
+3
+6
+Kraj
+Shymanovich I.
+Brantmeier R.
+2
+0
+6
+4
+6
+3
+Kraj
+Sierra S.
+Prozorova T.
+1
+2
+1
+6
+7
+5
+2
+6
+Kraj
+Osorio C.
+Hunter S.
+2
+0
+7
+5
+7
+5
+Kraj
+Sebov K.
+Kalieva E.
+0
+2
+1
+6
+6
+3
+7
+7
+Washington (SAD), tvrda podloga
+WTA - SINGL: 
+Ždrijeb
+Kraj
+Samsonova L.
+Keys M.
+2
+1
+3
+6
+6
+4
+6
+4
+Kraj
+Tjen J.
+Sramkova R.
+2
+0
+6
+4
+6
+2
+Kraj
+Krueger A.
+Boulter K.
+2
+1
+3
+6
+6
+2
+6
+2
+Memphis (SAD), tvrda podloga
+WTA - PAROVI: 
+Ždrijeb
+Kraj
+Starodubtseva Y.
+Zarazua R.
+Frey A.
+Stephens S.
+2
+0
+6
+4
+7
+10
+6
+8
+Washington (SAD), tvrda podloga
+WTA - PAROVI: 
+Ždrijeb
+Kraj
+Kenin S.
+Potapova A.
+Routliffe E.
+Sutjiadi A.
+0
+2
+3
+6
+5
+7
+Vancouver (Kanada) - Kvalifikacije, tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Zhu E.
+Shepp A.
+2
+1
+6
+3
+3
+6
+6
+3
+Kraj
+Marinkov P.
+Langmo C.
+0
+2
+4
+6
+5
+7
+Kraj
+Matsuoka H.
+Dalmasso G.
+2
+0
+6
+4
+6
+4
+Kraj
+Isomura K.
+Poling K.
+0
+2
+3
+6
+4
+6
+Prekinuto
+Arseneault M.
+Trotter J. K.
+1
+1
+7
+7
+6
+4
+3
+6
+1
+2
+0
+0
+Prekinuto
+Hara Friend J. D.
+Moriya H.
+0
+0
+3
+2
+0
+0
+Vancouver (Kanada) - Kvalifikacije, tvrda podloga
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Scott K.
+Schoppe E.
+0
+2
+6
+5
+7
+7
+6
+7
+7
+9
+Kraj
+Dong E.
+Savinykh V.
+2
+0
+6
+3
+6
+2
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -58,7 +312,7 @@ WTA Memphis
 WTA Washington
 Bonn Challenger Muškarci
 Liberec Challenger Muškarci
-Prikaži više (64)
+Prikaži više (70)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -84,7 +338,7 @@ Juniori - singl
 Juniorke - singl
 Prikaži više
 Tenis livescore na Rezultatima nudi teniske rezultate uživo za preko 5000 teniskih turnira diljem svijeta, uključujući Australian Open, French Open, Wimbledon, US Open i mnoge druge. Pratite najnovije rezultate iz tenisa na Rezultatima, gdje možete pronaći detaljnu statistiku (asevi, dvostruke pogreške, postotak servisa, osvojeni servisi, spašene break lopte, neprisiljene pogreške, itd.), usporedbu koeficijenata, međuosboni omjer, vijesti, video sažetke ili tijek meča poen po poen. Pronađite sve današnje rezultate i vijesti iz tenisa na Rezultatima, uključujući ATP rezultate, WTA rezultate, ATP poredak, ATP kalendar 2026, WTA kalendar 2026, ili profile igrača (npr. Jannik Sinner, Carlos Alcaraz, Novak Đoković, Donna Vekić). Usluga tenis livescore se automatski ažurira, tako da nema potrebe da osvježavate stranicu.
-28.07. Tiafoe F. - Atmane T., Majchrzak K. - Paul T., Humbert U. - Martin A., Michelsen A. - Draper J., Fils A. - Jodar R., Mannarino A. - Tien L., Nakashima B. - Etcheverry T. M., Giron M. - Hewitt C., Damm M. - Shelton B., Svajda T. - Mensik J., 29.07. De Minaur A. - Tsitsipas S.
+28.07. Majchrzak K. - Paul T., Humbert U. - Martin A., Michelsen A. - Draper J., Fils A. - Jodar R., Mannarino A. - Tien L., Nakashima B. - Etcheverry T. M., Giron M. - Hewitt C., Damm M. - Shelton B., Svajda T. - Mensik J., 29.07. De Minaur A. - Tsitsipas S., Vukic A. - Musetti L., Atmane T. - Tabilo A.
 
 NOGOMET
 HNL
@@ -127,9 +381,9 @@ Arsenal - Betis
 Italija - SAD
 Petrocub - Borac Banja Luka
 Japan - Kina
+Vukic - Musetti
 Liverpool - Wrexham
 Poljska - Ukrajina
-Birmingham - Barcelona
 REZULTATI UŽIVO
 PSV - Eindhoven FC
 Slovan Bratislava - Iberia 1999
@@ -160,7 +414,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Must be 21+. If you or someone you know has a gambling problem, crisis counselling and referral services can be accessed by calling 1-800-GAMBLER (1-800-426-2537) or by texting ILGAMB to 833234. The 1-800-GAMBLER helpline can be used for multi-jurisdictional advertising.
+Igrajte odgovorno. Gambling Therapy. 18+
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
