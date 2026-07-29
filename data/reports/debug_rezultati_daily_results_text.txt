@@ -20,6 +20,115 @@ TEČAJEVI
 GOTOVO
 RASPORED
 29/07 SR
+Los Cabos (Meksiko), tvrda podloga
+ATP - SINGL: 
+Ždrijeb
+Kraj
+Kouame M.
+Winter E.
+0
+2
+1
+6
+4
+6
+Kraj
+Mayo A.
+Duckworth J.
+1
+2
+6
+4
+3
+6
+4
+6
+Memphis (SAD), tvrda podloga
+WTA - SINGL: 
+Ždrijeb
+Kraj
+Stoiana M.
+Stearns P.
+1
+2
+7
+7
+6
+5
+0
+6
+4
+6
+Kraj
+Starodubtseva Y.
+Stephens S.
+1
+2
+4
+6
+7
+5
+2
+6
+Kraj
+Vidmanova D.
+Bassols M.
+2
+1
+6
+2
+3
+6
+6
+4
+Kraj
+Ma Y.
+Birrell K.
+2
+0
+7
+7
+6
+2
+6
+4
+Kraj
+Zarazua R.
+Kessler M.
+2
+0
+6
+4
+6
+1
+Washington (SAD), tvrda podloga
+WTA - SINGL: 
+Ždrijeb
+Kraj
+Potapova A.
+Williams V.
+2
+0
+6
+3
+6
+3
+Los Cabos (Meksiko), tvrda podloga
+ATP - PAROVI: 
+Ždrijeb
+Kraj
+Galloway R.
+King E.
+Reynolds F.
+Watt J.
+1
+2
+6
+4
+3
+6
+8
+10
 Washington (SAD), tvrda podloga
 ATP - PAROVI: 
 Ždrijeb
@@ -33,6 +142,19 @@ Tracy J.
 Memphis (SAD), tvrda podloga
 WTA - PAROVI: 
 Ždrijeb
+Kraj
+Cho I-H.
+Cho T.
+Kichenok L.
+Kichenok N.
+2
+1
+4
+6
+7
+5
+10
+6
 Otkazano
 Osuigwe W.
 Stefanini L.
@@ -40,6 +162,141 @@ Corley C.
 Corley I.
 -
 -
+Vancouver (Kanada), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Sweeny D.
+Chan D.
+2
+0
+6
+4
+6
+1
+Kraj
+Sekulic P.
+Chidekh C.
+0
+2
+2
+6
+2
+6
+Kraj
+Bonzi B.
+Bicknell B.
+2
+1
+3
+6
+6
+3
+6
+4
+Otkazano
+Holmgren A.
+Grenier H.
+-
+-
+Kraj
+(predano)
+Wendelken H.
+Cassone M.
+0
+0
+6
+5
+Kraj
+Mochizuki S.
+Broom C.
+2
+1
+2
+6
+6
+2
+6
+4
+Kraj
+Andrade A.
+Popyrin A.
+2
+1
+7
+5
+3
+6
+6
+1
+Kraj
+Pinnington Jones J.
+Samuel T.
+0
+2
+5
+7
+1
+6
+Kraj
+Hsu Y. H.
+Mmoh M.
+0
+2
+3
+6
+4
+6
+Vancouver (Kanada), tvrda podloga
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Kinoshita H.
+Okamura K.
+2
+0
+6
+1
+6
+4
+Kraj
+Uchijima M.
+Kuramochi M.
+2
+0
+6
+1
+6
+4
+Kraj
+Jones E.
+Zhao C.
+2
+1
+6
+3
+4
+6
+6
+4
+Kraj
+Hon P.
+Schoppe E.
+2
+0
+6
+3
+6
+4
+Kraj
+Kaji H.
+Preston T.
+0
+2
+0
+6
+2
+6
 Liberec (Češka Republika), zemlja
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -48,6 +305,72 @@ Barry C.
 Genov A.
 Seyboth Wild T.
 Torres J. B.
+-
+-
+M15 Brisbane 2 (Australija), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Dellavedova M.
+Takizawa T.
+2
+0
+6
+3
+6
+1
+Kraj
+Ibraimi Y.
+Markovina D.
+2
+1
+7
+12
+6
+10
+3
+6
+7
+5
+Kraj
+Jovanovski D.
+Atkinson C.
+2
+0
+6
+3
+6
+2
+Kraj
+Volonski N.
+Bouzige M.
+0
+2
+2
+6
+2
+6
+Kraj
+Sik M. E.
+Cham E.
+2
+0
+6
+2
+6
+2
+Kraj
+Stevens Z.
+Gadecki T. N.
+2
+0
+6
+2
+6
+4
+Otkazano
+Stevens Z.
+O'Connell B.
 -
 -
 M25 Pitesti (Rumunjska), zemlja
@@ -66,6 +389,68 @@ Lamens S.
 Hietaranta L.
 -
 -
+W15 Brisbane 3 (Australija), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Otkazano
+Arakawa N.
+Alame Ri.
+-
+-
+Kraj
+Arakawa N.
+Bedard J. A.
+2
+0
+6
+1
+6
+2
+Kraj
+Dalla P. A.
+Gilheany R.
+0
+2
+2
+6
+2
+6
+Kraj
+Shah M.
+Khan L.
+0
+2
+3
+6
+2
+6
+Kraj
+Taylor L.
+Yoshimoto N.
+2
+0
+6
+4
+6
+1
+Kraj
+Sibai J.
+Selvaraj N.
+2
+0
+6
+2
+6
+2
+Kraj
+Uemura M.
+Beck A.
+2
+0
+6
+4
+6
+1
 W35 Aldershot (Ujedinjeno Kraljevstvo), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -82,6 +467,91 @@ Oktiabreva A.
 Jakupovic D.
 -
 -
+M25 Edwardsville, IL (SAD), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Miladinovic M.
+Petrovic A.
+Barrett H.
+Bynoe E.
+2
+0
+6
+2
+6
+1
+Kraj
+Cook E.
+Vithoontien L.
+Hance K.
+Satterfield J.
+2
+0
+7
+7
+6
+4
+6
+3
+Kraj
+Bowers T.
+Okonkwo O.
+McNally K.
+Patel S.
+2
+0
+6
+2
+6
+4
+Kraj
+Burnett E.
+Dussault M.
+Fancutt T. J.
+Suarez B.
+0
+2
+5
+7
+2
+6
+Kraj
+Johnston N.
+Weber J.
+Exsted M.
+Woestendick C.
+0
+2
+3
+6
+4
+6
+W75 Lexington, KY (SAD), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Gomez C.
+Zhu J.
+Akli A.
+Crawley F.
+0
+2
+0
+6
+3
+6
+Kraj
+Kulevich G.
+Myers E.
+Reed L.
+Schaefbauer M.
+0
+2
+1
+6
+3
+6
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -183,10 +653,10 @@ Girona - Arsenal
 Arsenal - Betis
 Italija - SAD
 Petrocub - Borac Banja Luka
-Kuba - Dominikanska Republika
 Japan - Kina
 Vukic - Musetti
 Liverpool - Wrexham
+Poljska - Ukrajina
 REZULTATI UŽIVO
 Slovan Bratislava - Iberia 1999
 Ajax - Vojvodina
