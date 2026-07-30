@@ -55,6 +55,52 @@ Wong C.
 6
 4
 6
+Kraj
+Gea A.
+Zheng M.
+2
+1
+0
+6
+6
+4
+6
+0
+Kraj
+Shapovalov D.
+Pacheco Mendez R.
+2
+0
+6
+3
+6
+2
+Kraj
+Tomic B.
+Khachanov K.
+2
+0
+6
+2
+6
+4
+Kraj
+(predano)
+Svrcina D.
+Darderi L.
+0
+0
+3
+0
+Kraj
+Norrie C.
+Duckworth J.
+2
+0
+6
+4
+6
+4
 Washington (SAD), tvrda podloga
 ATP - SINGL: 
 Ždrijeb
@@ -117,6 +163,44 @@ Paris J.
 6
 4
 6
+Kraj
+Hijikata R.
+Stalder R.
+Liutarevich I.
+Reyes-Varela M. A.
+2
+1
+6
+3
+4
+6
+10
+8
+Otkazano
+Alvarez Valdes L. C.
+Magadan A.
+Boyer T.
+Winter E.
+-
+-
+Kraj
+Gonzalez S.
+Pacheco Mendez R.
+Luz O.
+Matos R.
+0
+2
+3
+6
+3
+6
+Walkover
+Alvarez Valdes L. C.
+Magadan A.
+Svrcina D.
+Tomic B.
+-
+-
 Memphis (SAD), tvrda podloga
 WTA - PAROVI: 
 Ždrijeb
@@ -231,6 +315,50 @@ Sakatsume H.
 7
 2
 6
+Kraj
+(predano)
+Dart H.
+Dong E.
+1
+1
+6
+0
+3
+6
+3
+0
+Kraj
+Jones E.
+Brengle M.
+2
+1
+4
+6
+6
+0
+6
+2
+Kraj
+Hon P.
+Preston T.
+0
+2
+6
+3
+7
+7
+4
+6
+Liberec (Češka Republika), zemlja
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Walkover
+Ambrogi L. E.
+Bueno G.
+Paulson A.
+Vliegen J.
+-
+-
 Vancouver (Kanada), tvrda podloga
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -279,6 +407,169 @@ Dong E.
 Xu A.
 -
 -
+M15 Astana (Kazahstan), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Fukuda S.
+Petrov S.
+2
+0
+7
+7
+6
+4
+6
+2
+Kraj
+Gretskiy I.
+Brand D.
+0
+2
+3
+6
+1
+6
+Kraj
+Rakhmatullayev D.
+Mitsui S.
+1
+2
+7
+7
+6
+3
+1
+6
+4
+6
+Kraj
+Zhalgasbay D.
+Sornlaksup P.
+2
+0
+6
+4
+6
+4
+Kraj
+Shebekin G.
+Samrej K.
+2
+1
+6
+4
+2
+6
+6
+3
+Kraj
+Bar Biryukov P.
+Kunitsyn A.
+2
+0
+7
+7
+6
+3
+7
+7
+6
+5
+Kraj
+Omarkhanov A.
+Tabata R.
+2
+0
+6
+1
+6
+2
+M15 Bali 2 (Indonezija), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Matsuda R.
+Trismuwantara G.
+2
+0
+6
+4
+7
+5
+Kraj
+Nirundorn T.
+Sureshkumar M.
+2
+0
+7
+5
+7
+5
+Kraj
+Shin S.
+Taguchi R.
+2
+0
+6
+4
+6
+2
+Kraj
+Takahashi Y.
+Chang A.
+2
+1
+6
+3
+3
+6
+7
+10
+6
+8
+Kraj
+Becroft I.
+Crowther C.
+2
+0
+6
+3
+6
+4
+Kraj
+Bruce-Smith J.
+Harazaki A.
+0
+2
+4
+6
+4
+6
+Kraj
+Da Costa R.
+Saitoh K.
+0
+2
+6
+4
+7
+7
+6
+4
+7
+7
+Kraj
+Ryan Ziegann S.
+Charoenphon Y.
+2
+1
+6
+2
+3
+6
+6
+3
 M15 Brisbane 2 (Australija), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -321,6 +612,25 @@ Jovanovski D.
 6
 3
 Kraj
+(predano)
+Jasika O.
+Beale J.
+1
+0
+7
+5
+1
+1
+Kraj
+Sik M. E.
+McFadzean L.
+2
+0
+7
+5
+6
+4
+Kraj
 Pade C.
 Jones S.
 0
@@ -329,6 +639,18 @@ Jones S.
 6
 0
 6
+M15 Kursumlijska Banja 11 (Srbija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Comino L.
+Klok D.
+2
+0
+6
+4
+6
+1
 M25 Edwardsville, IL (SAD), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -341,6 +663,98 @@ Roddick J.
 4
 6
 3
+M25 Koszalin (Poljska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Pizzigoni M.
+Pereira T.
+0
+2
+2
+6
+0
+6
+M25 Pitesti (Rumunjska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Haita S. H.
+Petre S. I. B.
+2
+0
+6
+2
+6
+0
+Kraj
+Batin T.
+Ghetu G.
+0
+2
+1
+6
+1
+6
+Kraj
+Ferrari F.
+Borisov M.
+2
+0
+6
+2
+6
+1
+W15 Astana 3 (Kazahstan), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Kenzhibayeva S.
+Zelinskaya D.
+0
+2
+4
+6
+2
+6
+Kraj
+Kim Eunchae
+Nupbay A.
+0
+2
+2
+6
+2
+6
+Kraj
+Korysheva E.
+Im H.
+2
+0
+7
+7
+6
+4
+6
+1
+Kraj
+Bataikina K.
+Milovanova V.
+0
+2
+0
+6
+0
+6
+Kraj
+Rothensteiner L.
+Arystanbekova A.
+0
+2
+5
+7
+2
+6
 W15 Brisbane 3 (Australija), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -403,6 +817,15 @@ Arakawa N.
 4
 6
 Kraj
+Sibai J.
+Mildren S.
+0
+2
+4
+6
+5
+7
+Kraj
 Tsao C. Y.
 Alame Re.
 2
@@ -411,12 +834,62 @@ Alame Re.
 2
 6
 2
+W15 Kursumlijska Banja 11 (Srbija), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Paganetti V.
+Ivanovic G.
+2
+0
+6
+2
+6
+0
+W15 Savitaipale (Finska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Grammatikopoulou V.
+Haddad I.
+2
+0
+6
+4
+6
+4
+Kraj
+Tomase E.
+Puiac A. L.
+2
+0
+6
+2
+6
+2
+Kraj
+Zhenikhova S.
+Nuudi M.
+0
+2
+1
+6
+5
+7
 W50 Knokke-Heist (Belgija), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
 Walkover
 Pace F.
 Barthel M.
+-
+-
+W75 Hechingen (Njemačka), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Walkover
+Fita Boluda A.
+Tsygourova K.
 -
 -
 W75 Lexington, KY (SAD), tvrda podloga
@@ -432,6 +905,82 @@ Crawley F.
 3
 6
 2
+6
+M15 Bali 2 (Indonezija), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Ichikawa T.
+Shiraishi H.
+Chang A.
+Nirundorn T.
+2
+0
+6
+4
+6
+2
+Kraj
+Nakamura R.
+Tomida Y.
+Kawahashi Y.
+Matsuda R.
+1
+2
+6
+3
+2
+6
+7
+10
+M15 Brisbane 2 (Australija), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Hoole C.
+Pham D.
+Jovanovski D.
+Sach T.
+2
+0
+6
+1
+6
+4
+Kraj
+Charlton J.
+Jones S.
+Jones H.
+Zhang J.
+2
+0
+6
+4
+6
+2
+Kraj
+Hazawa S.
+Walkin B.
+Camus C.
+McFadzean L.
+2
+0
+6
+2
+6
+3
+Kraj
+Sik M. E.
+Takizawa T.
+Padgham E.
+Shearer M.
+0
+2
+6
+3
+7
+7
+4
 6
 M15 Huamantla 4 (Meksiko), tvrda podloga
 ITF - MUŠKI PAROVI: 
@@ -465,6 +1014,78 @@ Zamora N.
 3
 9
 11
+W15 Brisbane 3 (Australija), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Hsu A.
+Uchijima M.
+Lin F. A.
+Wan I W.
+0
+2
+3
+6
+5
+7
+Kraj
+Kawamura M.
+Sato H.
+Bond-Scott K.
+Thompson B.
+2
+0
+7
+9
+6
+7
+6
+3
+Kraj
+Lopez E.
+Shibata S.
+Fairclough L.
+Gilheany R.
+0
+2
+4
+6
+6
+5
+7
+7
+Kraj
+Uemura M.
+Yoshimoto N.
+Carbis J.
+Swarbrick E.
+1
+2
+6
+6
+7
+8
+6
+4
+10
+12
+W15 Savitaipale (Finska), zemlja
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Walkover
+Boyden M.
+Tomase E.
+Bretnacher J.
+Komano M.
+-
+-
+Walkover
+Kovacevic E.
+Soulie A.
+Haavisto E.
+Nuudi M.
+-
+-
 W75 Lexington, KY (SAD), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -577,13 +1198,13 @@ LIVESCORE
 Ajdukovic - Feldbausch
 Girona - Arsenal
 Arsenal - Betis
-Italija - SAD
 Petrocub - Borac Banja Luka
 Poljska - Ukrajina
+Meksiko - Kuba
 Jodar - Musetti
 Birmingham - Barcelona
+Japan - SAD
 Manchester Utd - Atletico Madrid
-Liverpool - Leeds
 REZULTATI UŽIVO
 Ajax - Vojvodina
 Sparta Prague - Zlin
