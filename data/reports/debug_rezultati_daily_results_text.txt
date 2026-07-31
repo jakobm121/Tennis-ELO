@@ -20,9 +20,219 @@ TEČAJEVI
 GOTOVO
 RASPORED
 31/07 PE
+Los Cabos (Meksiko), tvrda podloga
+ATP - SINGL: 
+Ždrijeb
+Kraj
+Cerundolo F.
+Gea A.
+1
+2
+7
+13
+6
+11
+4
+6
+0
+6
+Kraj
+Wong C.
+Brooksby J.
+2
+0
+6
+1
+7
+5
+Washington (SAD), tvrda podloga
+ATP - SINGL: 
+Ždrijeb
+Kraj
+Humbert U.
+Shelton B.
+1
+2
+7
+7
+6
+3
+3
+6
+4
+6
+Memphis (SAD), tvrda podloga
+WTA - SINGL: 
+Ždrijeb
+Kraj
+Stephens S.
+Vidmanova D.
+0
+2
+2
+6
+4
+6
+Washington (SAD), tvrda podloga
+WTA - SINGL: 
+Ždrijeb
+Kraj
+Shnaider D.
+Potapova A.
+2
+0
+6
+1
+6
+2
+Kraj
+Kudermetova P.
+Svitolina E.
+0
+2
+6
+4
+7
+7
+4
+6
+Los Cabos (Meksiko), tvrda podloga
+ATP - PAROVI: 
+Ždrijeb
+Kraj
+Reynolds F.
+Watt J.
+Hijikata R.
+Stalder R.
+2
+0
+6
+2
+6
+4
+Kraj
+Seggerman R.
+Trhac P.
+Ho R.
+Kittay B.
+2
+0
+7
+7
+6
+5
+6
+3
+Memphis (SAD), tvrda podloga
+WTA - PAROVI: 
+Ždrijeb
+Kraj
+Kozyreva M.
+Lumsden M.
+Radisic N.
+Shymanovich I.
+2
+1
+6
+4
+4
+6
+13
+11
+Kraj
+Hunter S.
+Krawczyk D.
+Starodubtseva Y.
+Zarazua R.
+1
+2
+6
+2
+4
+6
+7
+10
+Vancouver (Kanada), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Bonzi B.
+Hara Friend J. D.
+1
+2
+7
+5
+6
+7
+7
+9
+5
+7
+Kraj
+Matsuoka H.
+Wolf J.J.
+1
+2
+6
+4
+5
+7
+3
+6
+Vancouver (Kanada), tvrda podloga
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Hach Verdugo H.
+Martinez L. D.
+Lammons N.
+Withrow J.
+0
+2
+3
+6
+6
+4
+7
+7
+Kraj
+Goldhoff G.
+Harper C.
+Milavsky D.
+Shick B.
+0
+2
+6
+1
+7
+7
+6
+5
+7
+7
+Walkover
+Andrade A.
+Zink T.
+Chidekh C.
+Grenier H.
+-
+-
 Vancouver (Kanada), tvrda podloga
 CHALLENGER - ŽENSKI PAROVI: 
 Ždrijeb
+Kraj
+Cabrera L.
+Kuwata H.
+Kinoshita H.
+Sakatsume H.
+1
+2
+6
+4
+4
+6
+4
+10
 Walkover
 Inglis M.
 Jones E.
@@ -30,6 +240,17 @@ Arseneault A.
 Cross K.
 -
 -
+Kraj
+Kinoshita H.
+Sakatsume H.
+Arseneault A.
+Cross K.
+0
+2
+1
+6
+1
+6
 Walkover
 Dart H.
 Hon P.
@@ -37,6 +258,100 @@ Dong E.
 Xu A.
 -
 -
+Kraj
+Dolehide C.
+Vagramov A.
+Leon S.
+Schoppe E.
+2
+0
+6
+2
+6
+1
+Walkover
+Dart H.
+Hon P.
+Dolehide C.
+Vagramov A.
+-
+-
+M15 Brisbane 2 (Australija), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Hazawa S.
+Bouzige M.
+0
+2
+2
+6
+5
+7
+Kraj
+Jones S.
+Delaney Ja.
+0
+2
+3
+6
+6
+2
+7
+7
+W15 Brisbane 3 (Australija), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Mildren S.
+Uemura M.
+0
+2
+2
+6
+5
+7
+Kraj
+Tsao C. Y.
+Thompson B.
+2
+1
+7
+7
+6
+1
+5
+7
+6
+0
+W75 Lexington, KY (SAD), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Chang H.
+Tilbuerger J.
+2
+0
+6
+4
+6
+2
+M25 Edwardsville, IL (SAD), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Cook E.
+Vithoontien L.
+Bowers T.
+Okonkwo O.
+2
+0
+6
+4
+7
+8
+6
+6
 M25 Wetzlar (Njemačka), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -47,6 +362,73 @@ Bastiaansen P.
 van Assendelft J.
 -
 -
+W15 Huamantla 3 (Meksiko), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Casari A.
+Watanabe Y.
+Clarke S.
+Verma S. J.
+1
+2
+7
+5
+6
+7
+7
+9
+6
+10
+W75 Lexington, KY (SAD), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Frodin T.
+Hewitt D.
+Allen K.
+El Jardi D.
+2
+0
+6
+4
+6
+4
+Kraj
+Broadus S.
+Collins K.
+Jeong B.
+Sema E.
+2
+0
+6
+2
+6
+1
+Kraj
+Lincer O.
+Slama M.
+Akli A.
+Crawley F.
+0
+2
+3
+6
+0
+6
+Kraj
+Goto R.
+Lee E.
+Reed L.
+Schaefbauer M.
+2
+0
+6
+4
+7
+7
+6
+2
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -146,8 +528,8 @@ Girona - Arsenal
 Arsenal - Betis
 Arsenal - Dortmund
 Borac Banja Luka - ML Vitebsk
-Jodar - Musetti
 Birmingham - Barcelona
+Jodar - Musetti
 Slovenija - Poljska
 Japan - SAD
 Manchester Utd - Atletico Madrid
@@ -186,7 +568,7 @@ Igrajte odgovorno. Gambling Therapy. 18+
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
-Mi i naši partneri 999 pohranjujemo osobne podatke, kao što su podaci o pregledavanju ili jedinstveni identifikatori, i pristupamo im na vašem uređaju. Odabirom opcije Prihvaćam omogućit ćete tehnologije praćenja koje podržavaju svrhe za čije pružanje mi i naši partneri obrađujemo podatke. Odabirom opcije Odbij sve ili povlačenjem svog pristanka onemogućit ćete praćenje. Ako su alati za praćenje onemogućeni, određeni sadržaj i oglasi koje vidite možda više neće biti toliko relevantni za vas. Možete se vratiti na ovaj izbornik kako biste izmijenili svoje odabire ili povukli pristanak u bilo kojem trenutku klikom na Prikaži svrhe poveznicu pri dnu web-stranice [ili plutajuće ikone u donjem lijevom kutu web stranice, ako je primjenjivo]. Vaši će se odabiri primijeniti kako je opisano u dijelu Web-mjesto. Za više pojedinosti pogledajte našu Politiku privatnosti.Treće Strane
+Mi i naši partneri 1001 pohranjujemo osobne podatke, kao što su podaci o pregledavanju ili jedinstveni identifikatori, i pristupamo im na vašem uređaju. Odabirom opcije Prihvaćam omogućit ćete tehnologije praćenja koje podržavaju svrhe za čije pružanje mi i naši partneri obrađujemo podatke. Odabirom opcije Odbij sve ili povlačenjem svog pristanka onemogućit ćete praćenje. Ako su alati za praćenje onemogućeni, određeni sadržaj i oglasi koje vidite možda više neće biti toliko relevantni za vas. Možete se vratiti na ovaj izbornik kako biste izmijenili svoje odabire ili povukli pristanak u bilo kojem trenutku klikom na Prikaži svrhe poveznicu pri dnu web-stranice [ili plutajuće ikone u donjem lijevom kutu web stranice, ako je primjenjivo]. Vaši će se odabiri primijeniti kako je opisano u dijelu Web-mjesto. Za više pojedinosti pogledajte našu Politiku privatnosti.Treće Strane
 Mi i naši partneri obrađujemo podatke kako bismo pružili sljedeće:
 
 Korištenje preciznih geolokacijskih podataka. Aktivno skeniranje karakteristika uređaja za identifikaciju. Pohrana i/ili pristup podacima na uređaju. Personalizirano oglašavanje i sadržaj, mjerenje oglašavanja i sadržaja, uvidi u publiku i razvoj usluga.
