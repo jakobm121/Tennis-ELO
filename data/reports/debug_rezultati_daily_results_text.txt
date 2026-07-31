@@ -204,6 +204,19 @@ Wallin O.
 4
 7
 5
+Kraj
+Pucinelli de Almeida M.
+Gomez F. A.
+1
+2
+6
+4
+7
+7
+6
+2
+5
+7
 Liberec (Češka Republika), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -215,6 +228,23 @@ Ferreira Silva F.
 6
 4
 7
+5
+Kraj
+Krumich M.
+Nagal S.
+0
+2
+3
+6
+2
+6
+Kraj
+(predano)
+Torres J. B.
+Bueno G.
+0
+0
+2
 5
 Samsun (Turska), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
@@ -228,6 +258,15 @@ Ursu V.
 2
 6
 4
+Kraj
+Bittoun C.
+Dhamne M.
+2
+0
+6
+4
+7
+5
 Vancouver (Kanada), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -282,6 +321,29 @@ Ristic M.
 6
 6
 2
+Kraj
+Jones F.
+Rame A.
+2
+0
+6
+1
+6
+2
+Bonn (Njemačka), zemlja
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Dullinger V.
+Kudernatsch M.
+Duncan S.
+Heinonen A.
+0
+2
+5
+7
+5
+7
 Liberec (Češka Republika), zemlja
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -298,6 +360,35 @@ Siniakov D.
 7
 6
 4
+Kraj
+Neuchrist M.
+Poljak D.
+Paulson A.
+Vliegen J.
+2
+1
+4
+6
+7
+7
+6
+4
+10
+8
+Samsun (Turska), tvrda podloga
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Neos E.
+Pankin S.
+Papa C.
+Zheng B.
+0
+2
+4
+6
+2
+6
 Vancouver (Kanada), tvrda podloga
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -336,6 +427,20 @@ Chidekh C.
 Grenier H.
 -
 -
+Targu Mures (Rumunjska), zemlja
+CHALLENGER - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Hennemann C. W.
+Lansere S.
+Ciric Bagaric L.
+Moratelli A.
+0
+2
+5
+7
+4
+6
 Vancouver (Kanada), tvrda podloga
 CHALLENGER - ŽENSKI PAROVI: 
 Ždrijeb
@@ -406,6 +511,13 @@ Dart H.
 Hon P.
 Dolehide C.
 Vagramov A.
+-
+-
+Walkover
+Arseneault A.
+Cross K.
+Rogers A. S.
+Zamarripa A.
 -
 -
 M15 Astana (Kazahstan), tvrda podloga
@@ -551,6 +663,19 @@ M15 Dublin (Irska), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
 Kraj
+Catry R.
+Marionneau L.
+2
+1
+5
+7
+6
+3
+7
+7
+6
+1
+Kraj
 Jones R.
 De Jonge D.
 0
@@ -559,6 +684,26 @@ De Jonge D.
 6
 3
 6
+Kraj
+Agwi M.
+Molder M.
+0
+2
+1
+6
+4
+6
+Kraj
+Gannon C.
+Ponchet M.
+2
+0
+7
+8
+6
+6
+6
+1
 M15 Kursumlijska Banja 11 (Srbija), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -595,6 +740,15 @@ Bellifemine A.
 7
 6
 0
+Kraj
+de Marchi A.
+Maksimovic M.
+2
+0
+6
+3
+6
+4
 M15 Strasbourg (Francuska), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -637,6 +791,26 @@ Hallquist Lithen J.
 6
 5
 7
+Kraj
+Sesko Z.
+Ujvary M.
+2
+1
+6
+2
+2
+6
+6
+1
+Kraj
+Jilly A.
+Schiessl E.
+0
+2
+0
+6
+4
+6
 M25 Aldershot (Ujedinjeno Kraljevstvo), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -659,6 +833,66 @@ Tarvet O.
 6
 0
 2
+Kraj
+Blaydes B.
+Cacao T.
+2
+0
+6
+2
+6
+3
+M25 Bolzano (Italija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Kopp S.
+Andreev A.
+2
+0
+6
+4
+6
+4
+Kraj
+Sorger S.
+Weis A.
+2
+0
+6
+3
+6
+4
+M25 Edwardsville, IL (SAD), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Prekinuto
+Exsted M.
+Baris O.
+0
+0
+1
+1
+0
+0
+Prekinuto
+Kuzuhara B.
+Anthrop J.
+0
+0
+1
+0
+15
+0
+Prekinuto
+Monday J.
+Petrovic A.
+0
+0
+0
+0
+30
+30
 M25 Gentofte (Danska), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -679,6 +913,28 @@ Eriksson Ziverts J.
 5
 6
 2
+Kraj
+Friberg K.
+Nesterov P.
+1
+2
+7
+14
+6
+12
+2
+6
+2
+6
+Kraj
+Ivanov I.
+Munkhammar P.
+2
+0
+6
+3
+7
+5
 M25 Koszalin (Poljska), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -700,6 +956,28 @@ Guttau N.
 6
 1
 6
+Kraj
+Prihodko O.
+Lopez Morillo I.
+2
+1
+7
+7
+6
+5
+3
+6
+6
+2
+Kraj
+Michalski D.
+Zielinski M.
+2
+0
+6
+4
+6
+2
 M25 Pitesti (Rumunjska), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -721,6 +999,15 @@ Papoe R. M.
 6
 1
 6
+Kraj
+Haita S. H.
+Andreescu S. A.
+0
+2
+2
+6
+5
+7
 M25 Wetzlar (Njemačka), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -733,6 +1020,26 @@ Krolo F.
 6
 0
 6
+Kraj
+Dellien Velasco M. A.
+Loge J.
+0
+2
+2
+6
+2
+6
+Kraj
+Sickenberger T.
+Kelm Y.
+2
+0
+7
+7
+6
+0
+6
+0
 W100 Gran Canaria-Maspalomas (Španjolska), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -754,6 +1061,27 @@ Cengiz B.
 6
 5
 7
+Kraj
+Pigossi L.
+Lazaro Garcia A.
+2
+0
+6
+3
+6
+3
+Kraj
+(predano)
+Lene E.
+Curmi F.
+1
+1
+3
+6
+6
+1
+4
+4
 W15 Astana 3 (Kazahstan), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -917,6 +1245,15 @@ Lekomtseva U.
 2
 6
 1
+Kraj
+Paganetti V.
+El Aouni A.
+2
+0
+6
+1
+7
+5
 W15 Rogaska Slatina (Slovenija), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -959,6 +1296,29 @@ Meri E.
 6
 1
 6
+W15 Savitaipale (Finska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Biot A.
+Vaissaud D.
+1
+2
+7
+5
+3
+6
+2
+6
+Kraj
+Tomase E.
+Stagno B.
+2
+0
+6
+3
+6
+4
 W35 Aldershot (Ujedinjeno Kraljevstvo), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -980,6 +1340,38 @@ Chaudhari V.
 0
 6
 3
+Kraj
+Klugman H.
+Karunaratne A.
+1
+2
+6
+3
+1
+6
+4
+6
+Kraj
+Saigo R.
+Ishii S.
+2
+0
+6
+3
+6
+0
+W35 Florence, SC (SAD), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Penickova A.
+Khayrutdinova E.
+2
+0
+6
+4
+6
+3
 W50 Dublin (Irska), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -993,6 +1385,76 @@ Rajecki A.
 2
 6
 4
+6
+Kraj
+Adeshina E.
+Hruncakova V.
+0
+2
+3
+6
+3
+6
+Kraj
+Valdmannova V.
+Allen V.
+2
+1
+4
+6
+7
+7
+6
+3
+6
+4
+W50 Knokke-Heist (Belgija), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Lim J.
+Pace F.
+2
+0
+7
+7
+6
+2
+7
+5
+Kraj
+Van Emst S.
+Maquet M.
+2
+1
+2
+6
+6
+4
+6
+3
+W75 Hechingen (Njemačka), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Brancaccio N.
+Schunk N.
+2
+1
+6
+3
+3
+6
+6
+1
+Kraj
+Tsygourova K.
+Palicova B.
+0
+2
+1
+6
+3
 6
 W75 Lexington, KY (SAD), tvrda podloga
 ITF - ŽENSKI SINGL: 
@@ -1009,6 +1471,19 @@ Tilbuerger J.
 M15 Astana (Kazahstan), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
+Kraj
+Fukuda S.
+Mitsui S.
+Imai S.
+Takahata R.
+2
+1
+2
+6
+6
+1
+10
+7
 Kraj
 Tanaka Y.
 Tange S.
@@ -1072,6 +1547,65 @@ Pham D.
 6
 5
 7
+M15 Dublin (Irska), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Perez Ramos P.
+Wright M.
+Fradkin J.
+Lorusso L.
+2
+0
+6
+4
+7
+7
+6
+5
+M15 Kursumlijska Banja 11 (Srbija), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Bellifemine A.
+Noce G. M.
+Ochi M.
+Zagars A.
+0
+2
+1
+6
+4
+6
+Kraj
+Mikovic M.
+Radovanovic T.
+Cattaneo L.
+Comino L.
+1
+2
+5
+7
+6
+1
+5
+10
+M25 Aldershot (Ujedinjeno Kraljevstvo), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Hands T.
+Summers M.
+Hohmann R.
+Walters M.
+2
+0
+6
+4
+7
+7
+6
+4
 M25 Bolzano (Italija), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -1104,6 +1638,35 @@ Okonkwo O.
 8
 6
 6
+M25 Gentofte (Danska), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Overbeck C. E.
+Poulsen Brostrom O.
+Elfving R.
+Minasyan M.
+2
+0
+6
+3
+7
+7
+6
+5
+Kraj
+Pape V. F.
+Theilgaard G.
+Sharma A.
+Vasa E.
+2
+1
+3
+6
+6
+2
+10
+6
 M25 Koszalin (Poljska), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -1120,6 +1683,17 @@ Pecak S.
 6
 8
 10
+Kraj
+Grzegorzewski O.
+Pereira T.
+Sadzik J.
+Wazny A.
+2
+0
+6
+1
+6
+3
 M25 Wetzlar (Njemačka), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -1157,6 +1731,27 @@ Zelinskaya D.
 6
 3
 10
+W15 Bielsko Biala (Poljska), zemlja
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Walkover
+Gorska D.
+Slavikova E.
+Petruzelova L.
+Zelnickova R.
+-
+-
+Kraj
+Brune A.
+Yuldasheva S.
+Gniewkowska O.
+Podlinska M.
+0
+2
+3
+6
+2
+6
 W15 Brisbane 3 (Australija), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -1202,6 +1797,51 @@ Verma S. J.
 9
 6
 10
+W15 Kursumlijska Banja 11 (Srbija), zemlja
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Ait el Bachir W.
+Van Zonneveld C.
+Hrabavets U.
+Yemshanova M.
+2
+0
+7
+7
+6
+1
+6
+3
+Kraj
+Petretic L.
+Stevic H.
+Fernandez L.
+Herazo Gonzalez M.
+2
+1
+6
+1
+4
+6
+10
+5
+W15 Rogaska Slatina (Slovenija), zemlja
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Bojica S.
+Senica A.
+Drame P.
+Heuser M.
+2
+1
+3
+6
+6
+4
+10
+6
 W15 Savitaipale (Finska), zemlja
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -1229,6 +1869,31 @@ Roots A.
 3
 6
 0
+W35 Aldershot (Ujedinjeno Kraljevstvo), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Dada-Mascoll S.
+Paskauskas K.
+Cooling R.
+Smart H.
+2
+0
+6
+3
+6
+1
+Kraj
+Appleton E.
+Kuzmova K.
+Black B.
+Okutoyi A.
+2
+0
+6
+3
+6
+3
 W75 Lexington, KY (SAD), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -1366,8 +2031,8 @@ Dinamo Zagreb - Slaven Belupo
 Varaždin - Hajduk Split
 Dinamo Zagreb - Kauno Zalgiris
 Zalgiris - Hajduk Split
-Hajduk Split - Istra 1961
 Rijeka - Dinamo Zagreb
+Hajduk Split - Istra 1961
 Manchester City - Inter
 Real Madrid - Fiorentina
 Rijeka - Rudes
