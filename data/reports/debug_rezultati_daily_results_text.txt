@@ -79,6 +79,18 @@ Trhac P.
 5
 8
 10
+Bonn (Njemačka), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Choinski J.
+Mackenzie J.
+2
+0
+6
+3
+6
+2
 Liberec (Češka Republika), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -126,6 +138,57 @@ Szymkowiak K.
 7
 6
 1
+Kraj
+Paldanius O.
+Raquillet L.
+2
+1
+3
+6
+6
+0
+7
+5
+Kraj
+Dev S D P.
+De Gabriele A.
+2
+0
+6
+2
+7
+7
+6
+2
+Kraj
+Basic M.
+Blus A.
+2
+0
+6
+3
+6
+2
+Kraj
+Cizek J.
+Efstathiou M.
+2
+1
+6
+4
+2
+6
+6
+3
+Kraj
+Ivashka I.
+Kumar M.
+2
+0
+6
+2
+6
+1
 Hagen (Njemačka) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -160,6 +223,153 @@ Recek D.
 5
 7
 7
+Kraj
+Gutierrez O. J.
+Topo M.
+0
+2
+2
+6
+2
+6
+Kraj
+Blanch D.
+Molleker R.
+0
+2
+4
+6
+2
+6
+Kraj
+Monteiro T.
+Gakhov I.
+2
+1
+6
+2
+7
+7
+6
+4
+6
+4
+Kraj
+Mrva M.
+Mertgens N.
+2
+0
+6
+1
+6
+2
+Kraj
+Dodig M.
+Opitz J.
+2
+0
+7
+9
+6
+7
+6
+2
+Istanbul 2 (Turska) - Kvalifikacije, tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Albot R.
+Purtseladze S.
+0
+2
+1
+6
+4
+6
+Kraj
+Demin Y.
+Rawat S.
+0
+2
+4
+6
+2
+6
+Kraj
+Sinclair C.
+McKennon M.
+2
+0
+6
+4
+7
+11
+6
+9
+Kraj
+Anavatan M.
+Singh D.
+1
+2
+3
+6
+7
+5
+6
+2
+7
+7
+Kraj
+Binda A.
+Ozdemir S. M.
+2
+0
+6
+3
+6
+4
+Kraj
+Azoidis D.
+Sahtali T.
+1
+2
+6
+4
+2
+6
+0
+6
+Plovdiv 2 (Bugarska) - Kvalifikacije, zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Castagnola L.
+Naydenov Y.
+2
+0
+6
+1
+6
+3
+Kraj
+Georgiev G.
+SET
+Belozertsev N.
+2
+0
+6
+4
+6
+2
+Kraj
+Marino P.
+Zhu M.
+2
+0
+6
+1
+6
+3
 Warsaw (Poljska) - Kvalifikacije, tvrda podloga
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -192,6 +402,33 @@ Radwanska U.
 6
 3
 6
+Kraj
+Smith A.
+Gorska D.
+2
+0
+7
+7
+6
+5
+6
+1
+Targu Mures (Rumunjska), zemlja
+CHALLENGER - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Ciric Bagaric L.
+Moratelli A.
+Cavalle-Reimers Y.
+Salden L.
+2
+1
+6
+3
+1
+6
+11
+9
 M15 Astana (Kazahstan), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -250,6 +487,58 @@ de Marchi A.
 6
 3
 6
+M15 Wels (Austrija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Schiessl E.
+Sesko Z.
+0
+2
+6
+4
+7
+7
+4
+6
+M25 Aldershot (Ujedinjeno Kraljevstvo), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Hudd E.
+Tarvet O.
+0
+2
+1
+6
+3
+6
+M25 Gentofte (Danska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Overbeck C. E.
+Nesterov P.
+1
+2
+6
+3
+3
+6
+1
+6
+M25 Koszalin (Poljska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Prihodko O.
+Pereira T.
+0
+2
+1
+6
+5
+7
 M25 Pitesti (Rumunjska), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -262,6 +551,18 @@ Papoe R. M.
 6
 2
 6
+M25 Wetzlar (Njemačka), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Blancaneaux G.
+Krolo F.
+2
+0
+6
+1
+6
+2
 W15 Astana 3 (Kazahstan), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -274,6 +575,22 @@ Milovanova V.
 2
 6
 4
+W15 Bielsko Biala (Poljska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Slavikova E.
+Petruzelova L.
+2
+1
+4
+6
+7
+8
+6
+6
+6
+2
 W15 Brisbane 3 (Australija), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -314,6 +631,63 @@ Senica A.
 5
 3
 6
+W15 Savitaipale (Finska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Tomase E.
+Ghirardato E. O.
+2
+1
+2
+6
+6
+2
+6
+4
+W35 Florence, SC (SAD), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Charney P.
+Penickova A.
+SET
+0
+2
+3
+6
+4
+6
+W50 Dublin (Irska), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Valdmannova V.
+Rajecki A.
+2
+0
+6
+1
+7
+7
+6
+4
+W75 Hechingen (Njemačka), zemlja
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Sakellaridi S.
+Zantedeschi A.
+Chiesa E.
+Jakupovic D.
+1
+2
+3
+6
+6
+2
+10
+12
 W75 Lexington, KY (SAD), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -368,7 +742,7 @@ ATP Los Cabos
 ATP Washington
 WTA Washington
 Bonn Challenger Muškarci
-Prikaži više (74)
+Prikaži više (65)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -432,14 +806,12 @@ Arsenal - Betis
 Arsenal - Dortmund
 Borac Banja Luka - ML Vitebsk
 Borac Banja Luka - Velež Mostar
-SAD - Poljska
 Liverpool - Leeds
 Manchester Utd - PSG
 Barcelona - Nottingham Forest
 Udinese - Barcelona
+Liverpool - Monaco
 REZULTATI UŽIVO
-FC Volendam - Ajax
-Feyenoord - Atalanta
 PSV - AZ Alkmaar
 Mjällby - Slovan Bratislava
 Sparta Prague - Lyon
@@ -448,6 +820,8 @@ PSV - Fortuna Sittard
 Mlada Boleslav - Sparta Prague
 Trencin - Slovan Bratislava
 AZ Alkmaar - Den Haag
+Sparta Rotterdam - Feyenoord
+Zwolle - Ajax
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
