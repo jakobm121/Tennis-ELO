@@ -32,6 +32,18 @@ Shapovalov D.
 3
 6
 4
+Montreal (Kanada), tvrda podloga
+ATP - SINGL: 
+Ždrijeb
+Kraj
+Vallejo D.
+Shang J.
+0
+2
+3
+6
+3
+6
 Washington (SAD), tvrda podloga
 ATP - SINGL: 
 Ždrijeb
@@ -79,6 +91,22 @@ Trhac P.
 5
 8
 10
+Washington (SAD), tvrda podloga
+ATP - PAROVI: 
+Ždrijeb
+Prekinuto
+Cash J.
+Glasspool L.
+Krajicek A.
+Mektic N.
+1
+0
+6
+3
+3
+1
+0
+0
 Bonn (Njemačka), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -103,6 +131,20 @@ Bueno G.
 3
 6
 1
+Samsun (Turska), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Bittoun C.
+Debru G.
+1
+2
+6
+3
+5
+7
+4
+6
 Vancouver (Kanada), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -189,6 +231,43 @@ Kumar M.
 2
 6
 1
+Kraj
+Bojarski A.
+Dougaz A.
+1
+2
+2
+6
+7
+7
+6
+3
+1
+6
+Kraj
+Ambarzumjan E.
+Sinha N. K.
+0
+2
+4
+6
+6
+2
+7
+7
+Kraj
+Donski A.
+De Schepper K.
+2
+1
+2
+6
+6
+4
+7
+7
+6
+4
 Hagen (Njemačka) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -274,6 +353,33 @@ Opitz J.
 7
 6
 2
+Kraj
+Weissmann Y.
+Kicker N.
+0
+2
+2
+6
+2
+6
+Kraj
+Torres J. B.
+Van Sambeek F.
+2
+0
+7
+5
+7
+5
+Kraj
+Krutykh O.
+Ambrogi L. E.
+2
+0
+6
+3
+6
+1
 Istanbul 2 (Turska) - Kvalifikacije, tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -339,6 +445,108 @@ Sahtali T.
 6
 0
 6
+Kraj
+Zhukov M.
+Yilmaz K.
+1
+2
+6
+1
+7
+7
+7
+7
+6
+3
+2
+6
+Kraj
+Dzhavakian Y.
+Ostapenkov D.
+0
+2
+6
+3
+7
+7
+1
+6
+Kraj
+Filiz S.
+Deckers A.
+0
+2
+2
+6
+4
+6
+Lexington (SAD) - Kvalifikacije, tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Forbes M.
+Johnson S.
+0
+2
+1
+6
+5
+7
+Kraj
+Suresh D.
+Colby R.
+0
+2
+6
+4
+7
+7
+6
+3
+7
+7
+Kraj
+Mayo A.
+Langmo C.
+2
+1
+6
+6
+7
+8
+6
+3
+7
+5
+Kraj
+Kwon S.
+Young G.
+2
+0
+7
+5
+6
+3
+Prekinuto
+Kim A.
+Poling K.
+1
+0
+6
+2
+2
+3
+40
+40
+Prekinuto
+Pacheco Mendez R.
+Pascual Ferra R.
+0
+0
+1
+1
+15
+0
 Plovdiv 2 (Bugarska) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -353,7 +561,6 @@ Naydenov Y.
 3
 Kraj
 Georgiev G.
-SET
 Belozertsev N.
 2
 0
@@ -370,6 +577,58 @@ Zhu M.
 1
 6
 3
+Kraj
+Kellovsky D.
+Loureiro J. V. C.
+2
+1
+1
+6
+6
+4
+6
+2
+Kraj
+Rapagnetta D.
+Lazarov G.
+0
+2
+3
+6
+0
+6
+Kraj
+Dinev D.
+Basel V.
+0
+2
+4
+6
+4
+6
+Kraj
+Markov V.
+Cordoba C.
+0
+2
+1
+6
+1
+6
+Targu Mures (Rumunjska), zemlja
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Quevedo K.
+Samson L.
+1
+2
+6
+2
+3
+6
+1
+6
 Warsaw (Poljska) - Kvalifikacije, tvrda podloga
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -475,6 +734,24 @@ Bouzige M.
 7
 6
 3
+M15 Dublin (Irska), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Molder M.
+Gannon C.
+1
+2
+6
+5
+7
+7
+7
+7
+6
+3
+4
+6
 M15 Kursumlijska Banja 11 (Srbija), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -645,13 +922,26 @@ Ghirardato E. O.
 2
 6
 4
+W35 Aldershot (Ujedinjeno Kraljevstvo), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Saigo R.
+Karunaratne A.
+2
+1
+7
+5
+2
+6
+6
+3
 W35 Florence, SC (SAD), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
 Kraj
 Charney P.
 Penickova A.
-SET
 0
 2
 3
@@ -670,6 +960,34 @@ Rajecki A.
 1
 7
 7
+6
+4
+W50 Knokke-Heist (Belgija), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Niemeier J.
+Balus I.
+2
+1
+6
+1
+4
+6
+6
+1
+W75 Hechingen (Njemačka), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Palicova B.
+Ferro F.
+2
+1
+5
+7
+7
+5
 6
 4
 W75 Hechingen (Njemačka), zemlja
@@ -740,9 +1058,9 @@ WTA Toronto
 WTA Washington
 ATP Los Cabos
 ATP Washington
-WTA Washington
 Bonn Challenger Muškarci
-Prikaži više (65)
+Grodzisk Mazowiecki Challenger Muškarci
+Prikaži više (60)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -812,7 +1130,6 @@ Barcelona - Nottingham Forest
 Udinese - Barcelona
 Liverpool - Monaco
 REZULTATI UŽIVO
-PSV - AZ Alkmaar
 Mjällby - Slovan Bratislava
 Sparta Prague - Lyon
 Ajax - Shelbourne
@@ -822,6 +1139,7 @@ Trencin - Slovan Bratislava
 AZ Alkmaar - Den Haag
 Sparta Rotterdam - Feyenoord
 Zwolle - Ajax
+Slavia Prague - FK Pardubice
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
@@ -841,7 +1159,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Igrajte odgovorno. Gambling Therapy. 18+
+Must be 21+. If you or someone you know has a gambling problem, crisis counselling and referral services can be accessed by calling 1-800-GAMBLER (1-800-426-2537) or by texting ILGAMB to 833234. The 1-800-GAMBLER helpline can be used for multi-jurisdictional advertising.
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
