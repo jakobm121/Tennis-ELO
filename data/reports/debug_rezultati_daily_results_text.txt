@@ -86,6 +86,215 @@ Eala A.
 2
 0
 0
+Grodzisk Mazowiecki (Poljska), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Zakaria F.
+Glinka D.
+1
+2
+4
+6
+6
+3
+1
+6
+Kraj
+Ribecai M.
+Radulov I.
+2
+0
+6
+2
+6
+1
+Grodzisk Mazowiecki (Poljska) - Kvalifikacije, tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+(predano)
+Basic M.
+Cizek J.
+0
+1
+4
+6
+1
+1
+Kraj
+Dev S D P.
+Vales A.
+1
+2
+6
+4
+5
+7
+2
+6
+Kraj
+Kirkin E.
+Paldanius O.
+2
+1
+6
+3
+7
+7
+6
+4
+6
+2
+Kraj
+Ivashka I.
+Weightman O.
+2
+0
+6
+4
+6
+1
+Kraj
+Sakellaridis D.
+Dougaz A.
+0
+2
+4
+6
+4
+6
+Kraj
+Donski A.
+Sinha N. K.
+2
+0
+6
+3
+6
+4
+Hagen (Njemačka) - Kvalifikacije, zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Molleker R.
+Handel T.
+2
+0
+7
+9
+6
+7
+6
+3
+Kraj
+Recek D.
+Topo M.
+2
+0
+6
+4
+6
+4
+Kraj
+Monteiro T.
+Compagnucci T.
+2
+0
+6
+2
+6
+4
+Kraj
+Torres J. B.
+Barsukov N.
+2
+0
+6
+0
+6
+2
+Kraj
+Mrva M.
+Kicker N.
+2
+0
+6
+4
+6
+2
+Kraj
+Dodig M.
+Krutykh O.
+2
+0
+6
+4
+7
+5
+Istanbul 2 (Turska) - Kvalifikacije, tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Binda A.
+Rawat S.
+2
+0
+6
+4
+6
+2
+Kraj
+Sinclair C.
+Singh D.
+0
+2
+4
+6
+6
+4
+7
+7
+Kraj
+Purtseladze S.
+Sahtali T.
+2
+0
+6
+3
+6
+1
+Kraj
+Yilmaz K.
+Deckers A.
+2
+1
+4
+6
+7
+5
+7
+5
+Kraj
+Matsuda K.
+Ostapenkov D.
+2
+0
+7
+8
+6
+6
+6
+3
+Kraj
+Heck H.
+Miyoshi K.
+0
+2
+2
+6
+4
+6
 Lexington (SAD) - Kvalifikacije, tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -111,6 +320,128 @@ Kobelt A.
 1
 6
 1
+Plovdiv 2 (Bugarska) - Kvalifikacije, zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Basel V.
+Marino P.
+0
+2
+4
+6
+4
+6
+Kraj
+Castagnola L.
+Georgiev G.
+0
+2
+3
+6
+3
+6
+Kraj
+Lazarov G.
+Kellovsky D.
+2
+0
+6
+0
+6
+1
+Warsaw (Poljska), tvrda podloga
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Avdeeva J.
+Noha Akugue N.
+0
+2
+2
+6
+3
+6
+Kraj
+Falei A.
+Radwanska U.
+2
+0
+6
+3
+6
+2
+Kraj
+Micic E.
+Podrez V.
+0
+2
+3
+6
+6
+4
+7
+7
+Kraj
+Paszun A.
+Falkowska W.
+0
+2
+0
+6
+2
+6
+Kraj
+Kawa K.
+Fruhvirtova L.
+2
+1
+4
+6
+6
+4
+7
+7
+6
+5
+Kraj
+Smith A.
+Yuan Y.
+0
+2
+1
+6
+4
+6
+M25+H Tauste (Španjolska), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Bunuel Zaldivar T.
+Longas Ortega S.
+Busquets Brau G.
+Regas Luis No.
+0
+2
+6
+1
+7
+7
+1
+6
+Kraj
+Lopez Cherubino N.
+Quesada Perez T.
+Heredia S.
+Marques G.
+1
+2
+2
+6
+7
+5
+7
+10
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -143,11 +474,11 @@ WTA Memphis
 WTA Toronto
 WTA Washington
 ATP Washington
-Bonn Challenger Muškarci
 Grodzisk Mazowiecki Challenger Muškarci
 Hagen Challenger Muškarci
 Istanbul 2 Challenger Muškarci
-Prikaži više (48)
+Lexington Challenger Muškarci
+Prikaži više (32)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -184,10 +515,10 @@ La Liga 2026/27
 Ligue 1
 Bundesliga
 U TRENDU
-ATP Los Cabos 2026
-ATP Washington 2026
-WTA Washington
-Liga nacija 2026
+WTA Toronto 2026
+ATP Montreal 2026
+ATP Cincinnati
+Svjetsko Prvenstvo U20 - Žene 2026
 ABA liga 2026
 Premier Liga košarka 2026/27
 Svjetsko Prvenstvo - Žene 2026
