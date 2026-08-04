@@ -23,34 +23,183 @@ RASPORED
 Montreal (Kanada), tvrda podloga
 ATP - SINGL: 
 Ždrijeb
-Prekinuto
+Kraj
+Bonzi B.
+Hanfmann Y.
+1
+2
+1
+6
+6
+4
+2
+6
+Kraj
 Kovacevic A.
 Borges N.
 1
-1
+2
 7
 9
 6
 7
 2
 6
+4
+6
+Kraj
+Diallo G.
+Jacquet K.
+2
+1
+6
+1
+7
+7
+6
+3
+6
+2
+Kraj
+Shimabukuro S.
+Čilić M.
 0
-0
-15
-40
-Prekinuto
+2
+6
+2
+7
+7
+1
+6
+Kraj
 Zheng M.
 Kecmanovic M.
 1
+2
+4
+6
+6
+4
+6
+5
+7
+7
+Kraj
+Vukic A.
+Altmaier D.
 1
+2
+7
+7
+6
+2
+6
+5
+7
+7
 4
 6
+Kraj
+Michelsen A.
+Struff J-L.
+2
+1
+6
+1
+3
+6
+6
+1
+Kraj
+Fucsovics M.
+Moutet C.
+0
+2
+1
+6
+2
+6
+Toronto (Kanada), tvrda podloga
+WTA - SINGL: 
+Ždrijeb
+Kraj
+Valentova T.
+Townsend T.
+0
+2
+4
+6
+5
+7
+Kraj
+(predano)
+Udvardy P.
+Lys E.
+1
+1
+2
+6
+7
+7
+6
+3
+2
+0
+Kraj
+Zarazua R.
+Korpatsch T.
+2
+1
 6
 4
 0
+6
+6
+1
+Kraj
+Marino R.
+Sonmez Z.
 0
+2
+5
+7
+4
+6
+Kraj
+Maria T.
+McNally C.
+1
+2
+6
+4
+6
+4
+7
+7
+1
+6
+Kraj
+Sierra S.
+Stephens S.
 0
-0
+2
+3
+6
+4
+6
+Kraj
+Wang Xin.
+Kasatkina D.
+1
+2
+6
+1
+6
+5
+7
+7
+5
+7
 Hagen (Njemačka), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -67,6 +216,31 @@ Debru G.
 Turker M. N.
 -
 -
+Lexington (SAD), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Hsu Y. H.
+Gorzny S.
+1
+2
+6
+3
+1
+6
+2
+6
+Kraj
+Searle H.
+Harris L.
+1
+2
+5
+7
+6
+2
+3
+6
 Warsaw (Poljska), tvrda podloga
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -188,16 +362,16 @@ Juventus - Inter
 Ferencvaros - Real Madrid
 Manchester City - Atletico Madrid
 LIVESCORE
-Shimabukuro - Čilić
 Vekić - Golubic
+Tiafoe - Čilić
 Arsenal - Betis
 Arsenal - Dortmund
 Arsenal - Como
 Borac Banja Luka - ML Vitebsk
 Borac Banja Luka - Velež Mostar
+Mejia - Musetti
 Manchester Utd - PSG
 Barcelona - Nottingham Forest
-Udinese - Barcelona
 REZULTATI UŽIVO
 Mjällby - Slovan Bratislava
 Sparta Prague - Lyon
