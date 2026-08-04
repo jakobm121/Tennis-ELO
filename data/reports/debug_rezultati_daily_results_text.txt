@@ -119,6 +119,26 @@ Moutet C.
 6
 2
 6
+Kraj
+Ugo Carabelli C.
+Norrie C.
+0
+2
+6
+5
+7
+7
+4
+6
+Kraj
+Majchrzak K.
+Monfils G.
+0
+2
+4
+6
+4
+6
 Toronto (Kanada), tvrda podloga
 WTA - SINGL: 
 Ždrijeb
@@ -259,6 +279,93 @@ Added D.
 Debru G.
 -
 -
+M15 Astana 2 (Kazahstan), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Rakhmatullayev D.
+Tabata R.
+0
+2
+1
+6
+3
+6
+M15 Tianjin (Kina), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Fan W. B.
+Huang T.
+0
+2
+3
+6
+0
+6
+Kraj
+Kikuchi Y.
+Sun Qian
+0
+2
+4
+6
+1
+6
+Kraj
+Komada E.
+Kim D. J.
+0
+2
+1
+6
+2
+6
+Kraj
+(predano)
+Lu H.
+Cho Seung Woo
+1
+0
+7
+7
+6
+5
+1
+0
+Kraj
+Mochizuki Y.
+Choe J.
+2
+1
+6
+4
+4
+6
+6
+1
+Kraj
+Taguchi R.
+Lee K.
+0
+2
+4
+6
+4
+6
+Kraj
+Van Herzeele J.
+Kim G. J.
+1
+2
+7
+5
+6
+8
+7
+10
+3
+6
 M25+H Tauste (Španjolska), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -267,6 +374,121 @@ Wessels L.
 Colombo A.
 -
 -
+W15 Kursumlijska Banja 12 (Srbija), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Garcia-Patron Canals A.
+Glushkova D.
+0
+2
+2
+6
+2
+6
+Kraj
+Panshina V.
+Pikkaart C.
+2
+0
+6
+3
+6
+2
+Kraj
+Stosovic M.
+Barbulescu B.
+0
+2
+2
+6
+1
+6
+W15 Tianjin (Kina), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Qu Y.
+Ozeki M.
+2
+0
+6
+2
+6
+0
+Kraj
+Sun T.
+Zhang J.
+0
+2
+5
+7
+1
+6
+Kraj
+(predano)
+Thamchaiwat B.
+Wang J.
+0
+0
+2
+5
+W75 Koksijde (Belgija), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Vrancken Peeters A.
+Ebeling Koning L.
+0
+2
+1
+6
+0
+6
+W75 Ourense (Španjolska), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Kabbaj Y.
+Lemaitre T.
+2
+0
+6
+1
+6
+3
+Kraj
+Pavlova K.
+Alvarez Sande E.
+2
+0
+6
+1
+6
+1
+Kraj
+Rojas S. C.
+Du Pree B.
+0
+2
+0
+6
+0
+6
+W15 Tianjin (Kina), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Lin Y. J.
+Zhang R.
+Soeda K.
+Wang M.
+2
+0
+6
+1
+6
+2
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -369,9 +591,9 @@ Arsenal - Dortmund
 Arsenal - Como
 Borac Banja Luka - ML Vitebsk
 Borac Banja Luka - Velež Mostar
+Brazil - Paragvaj
 Mejia - Musetti
-Manchester Utd - PSG
-Barcelona - Nottingham Forest
+Brazil - Venezuela
 REZULTATI UŽIVO
 Mjällby - Slovan Bratislava
 Sparta Prague - Lyon
