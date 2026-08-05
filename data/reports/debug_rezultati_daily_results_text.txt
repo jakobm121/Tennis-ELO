@@ -112,6 +112,53 @@ Bartunkova N.
 6
 4
 6
+Grodzisk Mazowiecki (Poljska), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Moro Canas A.
+Donski A.
+0
+2
+4
+6
+6
+5
+7
+7
+Hagen (Njemačka), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Piros Z.
+Dedura D.
+2
+0
+6
+3
+6
+2
+Istanbul 2 (Turska), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Pereira T.
+Basing M.
+0
+2
+3
+6
+1
+6
+Kraj
+Santillan A.
+Ghibaudo A.
+0
+2
+4
+6
+1
+6
 Lexington (SAD), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -135,6 +182,39 @@ Pinnington Jones J.
 5
 6
 4
+Plovdiv 2 (Bugarska), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Walkover
+Andreev A.
+Demanet E.
+-
+-
+Warsaw (Poljska), tvrda podloga
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Kawa K.
+Mikulskyte J.
+1
+2
+5
+7
+6
+2
+1
+6
+Kraj
+Lee C. Y.
+Falei A.
+2
+1
+2
+6
+6
+3
+6
+1
 Grodzisk Mazowiecki (Poljska), tvrda podloga
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -149,6 +229,59 @@ Majchrzak A.
 1
 6
 3
+Kraj
+Duncan S.
+Whitehouse M.
+Basic M.
+Dzumhur D.
+0
+2
+2
+6
+4
+6
+Hagen (Njemačka), zemlja
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Paulson A.
+Vliegen J.
+Prashanth V.
+Ramanathan R.
+2
+0
+7
+7
+6
+3
+6
+4
+Kraj
+Reymond A.
+Sanchez L.
+Arias B.
+Ingildsen J.
+1
+2
+6
+3
+7
+7
+6
+3
+11
+13
+Kraj
+Koldvells K.
+Weissmann Y.
+Loof T.
+Uesugi K.
+0
+2
+4
+6
+4
+6
 Lexington (SAD), tvrda podloga
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -163,9 +296,52 @@ Stephenson E.
 2
 6
 2
+Warsaw (Poljska), tvrda podloga
+CHALLENGER - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Ewald W.
+Gorska D.
+Karamoko N.
+Salden L.
+0
+2
+4
+6
+1
+6
 M15 Bielsko Biala (Poljska), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
+Kraj
+Juszczak P.
+Wazny A.
+2
+1
+0
+6
+6
+4
+6
+4
+Kraj
+Orlov V.
+Kusy J.
+2
+0
+6
+4
+6
+4
+Kraj
+Savano M.
+Smiej Y.
+2
+0
+6
+2
+6
+2
 Kraj
 Szczypka M.
 Beckley A.
@@ -175,6 +351,15 @@ Beckley A.
 6
 1
 6
+Kraj
+Hausberger G.
+Jedrzejczak J.
+2
+0
+6
+3
+6
+2
 M15 Curtea de Arges 2 (Rumunjska), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -214,9 +399,96 @@ Sucu M.
 0
 7
 5
+Kraj
+Andreescu S. A.
+Messina J.
+2
+0
+6
+4
+6
+1
+Kraj
+Guna R.
+Golescu R. A.
+2
+0
+6
+3
+6
+2
+Kraj
+(predano)
+Madaras N.
+Gadoiu A. C.
+0
+0
+1
+4
+M15 Eupen (Belgija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Klaassen S.
+Vankan M.
+2
+0
+7
+7
+6
+2
+6
+3
+M15 Frankfurt (Njemačka), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Chazal M.
+Hammes T.
+2
+0
+7
+7
+6
+5
+6
+4
+Kraj
+Poulsen Brostrom O.
+Branchetti G.
+1
+2
+6
+4
+6
+5
+7
+7
+5
+7
+Kraj
+Sebesta J.
+Delage P.
+0
+2
+3
+6
+0
+6
 M15 Poprad (Slovačka), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
+Kraj
+Makhlouf N.
+Pizzigoni M.
+1
+2
+6
+4
+3
+6
+3
+6
 Kraj
 (predano)
 Pinter P. L.
@@ -227,9 +499,47 @@ Hamza Reguig S.
 7
 0
 0
+Kraj
+Rivera L.
+De Jager J.
+2
+0
+6
+3
+6
+3
+Kraj
+Zavacky P.
+Aleshchev A.
+1
+2
+6
+2
+1
+6
+3
+6
+Kraj
+Belkovics A.
+Novansky M.
+0
+2
+3
+6
+2
+6
 M15 Tianjin (Kina), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
+Kraj
+Chung Y.
+Kinaadman C. J.
+2
+0
+6
+2
+6
+0
 Kraj
 Dellavedova M.
 Nakajima K.
@@ -319,6 +629,17 @@ M25 Kursumlijska Banja 2 (Srbija), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
 Kraj
+Bennani R.
+Vterkovskiy D.
+2
+0
+6
+4
+7
+7
+6
+3
+Kraj
 Zivkovic U.
 Ceramilac L.
 0
@@ -327,6 +648,63 @@ Ceramilac L.
 6
 0
 6
+Kraj
+Manukyan V.
+Obradovic D.
+1
+2
+4
+6
+6
+4
+5
+7
+Kraj
+Zgirovsky A.
+Milosavljevic M.
+2
+0
+6
+2
+7
+7
+6
+5
+Kraj
+Novakovic N.
+Tiukaev R.
+0
+2
+3
+6
+3
+6
+M25 Roehampton (Ujedinjeno Kraljevstvo), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Perego G.
+Loffhagen G.
+0
+2
+2
+6
+2
+6
+M25+H Tauste (Španjolska), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+De Jonge D.
+Almazan Valiente I.
+1
+2
+0
+6
+6
+4
+5
+7
 W15 Hameenlinna (Finska), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -359,9 +737,40 @@ Stagno B.
 4
 6
 4
+Kraj
+Burylo M.
+Hageman M.
+0
+2
+4
+6
+1
+6
+Kraj
+Eigelsbach E. V.
+Urbanova L.
+2
+0
+7
+7
+6
+4
+6
+2
 W15 Kursumlijska Banja 12 (Srbija), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
+Kraj
+Herazo Gonzalez M.
+Korokozidi E.
+2
+1
+3
+6
+6
+4
+6
+2
 Kraj
 Horvit M.
 Dorofeeva-Rybas F.
@@ -370,6 +779,24 @@ Dorofeeva-Rybas F.
 1
 6
 4
+6
+Kraj
+Torres Murcia M. C.
+Drame P.
+0
+2
+2
+6
+6
+7
+Kraj
+Vaja K.
+Krastenova G.
+0
+2
+0
+6
+3
 6
 W15 Tianjin (Kina), tvrda podloga
 ITF - ŽENSKI SINGL: 
@@ -480,14 +907,152 @@ Oz I.
 Sato H.
 -
 -
+Kraj
+Rajeshwaran Revathi M.
+McDonald E.
+0
+2
+4
+6
+3
+6
 Walkover
 Karunaratne A.
 Abe H.
 -
 -
+W75 Koksijde (Belgija), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Bennemann E.
+Chiesa D.
+2
+0
+7
+5
+6
+4
+Kraj
+Cherubini D.
+Di Girolami T.
+0
+2
+5
+7
+4
+6
+Kraj
+Szabo B.
+Zolotareva A.
+2
+0
+7
+5
+6
+4
+W75 Leipzig (Njemačka), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Pastikova J.
+Back D.
+2
+0
+6
+1
+6
+3
+Kraj
+Hennemann C. W.
+Greiner S.
+2
+0
+6
+3
+6
+4
+Kraj
+Jakupovic D.
+Malygina E.
+0
+2
+6
+2
+7
+7
+5
+7
+W75 Ourense (Španjolska), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Jorge F.
+Li Z.
+2
+0
+6
+1
+6
+4
+Kraj
+Yashina E.
+Dudeney A.
+1
+2
+4
+6
+6
+4
+2
+6
+Kraj
+Zhiyenbayeva S.
+Kubareva A.
+2
+0
+7
+5
+6
+1
+Kraj
+Hodzic M.
+Jorge M.
+2
+0
+6
+1
+7
+7
+6
+4
+Kraj
+Ren Y.
+Cervino Ruiz C.
+0
+2
+2
+6
+4
+6
 M15 Tianjin (Kina), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
+Kraj
+Cho Seung Woo
+Jeong Y.
+Yang Z.
+Zhao Z.
+1
+2
+7
+8
+6
+6
+4
+6
+4
+10
 Kraj
 Hongyu Y.
 Lee K.
@@ -499,6 +1064,67 @@ Liu S.
 4
 6
 4
+Kraj
+Hsieh C.
+Yang M.
+Kikuchi Y.
+Taguchi R.
+0
+2
+2
+6
+0
+6
+Kraj
+Huang T.
+Wang Y.
+Kang K.
+Liu L.
+2
+0
+7
+7
+6
+4
+6
+3
+Kraj
+Jin Y.
+Sun Qian
+Lai C. K.
+Sarksian D.
+1
+2
+6
+4
+6
+2
+7
+7
+8
+10
+Kraj
+Kim D. J.
+Lu C.
+Becroft I.
+Shearer M.
+0
+2
+4
+6
+1
+6
+Kraj
+Dong B.
+Liu P.
+Chung Y.
+Han Seon Yong
+0
+2
+0
+6
+1
+6
 M25 Kursumlijska Banja 2 (Srbija), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -577,6 +1203,57 @@ Wong Hong Yi C.
 6
 4
 6
+W15 Tianjin (Kina), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Cai J.
+Li X.
+Kang N. H.
+Kim Y.J.
+0
+2
+4
+6
+1
+6
+Kraj
+Chen M.
+Wang Y.
+Luo X.
+Wang J.
+2
+1
+3
+6
+6
+2
+14
+12
+Kraj
+Kim D.
+Shin J.
+An L.
+Chen Y.
+2
+0
+7
+5
+6
+2
+Kraj
+Moon J.
+Nishimoto S.
+Lu J-J.
+Ozeki M.
+2
+0
+7
+7
+6
+2
+6
+2
 W35 Chacabuco (Argentina), zemlja
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -675,12 +1352,12 @@ Zalgiris - Hajduk Split
 Rijeka - Dinamo Zagreb
 Hajduk Split - Istra 1961
 Kauno Zalgiris - Dinamo Zagreb
-AC Milan - Inter
-K-League Stars - Manchester City
 Rijeka - Ilves
 Juventus - Inter
 Ferencvaros - Real Madrid
 Manchester City - Atletico Madrid
+Dep. A Coruna - Real Madrid
+Chelsea - Juventus
 LIVESCORE
 Arsenal - Betis
 Arsenal - Dortmund
