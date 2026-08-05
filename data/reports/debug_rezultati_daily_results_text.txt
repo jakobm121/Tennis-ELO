@@ -64,6 +64,19 @@ De Minaur A.
 7
 8
 Kraj
+Cobolli F.
+Hanfmann Y.
+0
+2
+6
+5
+7
+7
+6
+2
+7
+7
+Kraj
 (predano)
 Darderi L.
 Diallo G.
@@ -122,6 +135,20 @@ Pinnington Jones J.
 5
 6
 4
+Grodzisk Mazowiecki (Poljska), tvrda podloga
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Dev S D P.
+Sinha N. K.
+Bojarski A.
+Majchrzak A.
+2
+0
+6
+1
+6
+3
 Lexington (SAD), tvrda podloga
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -136,12 +163,109 @@ Stephenson E.
 2
 6
 2
+M15 Bielsko Biala (Poljska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Szczypka M.
+Beckley A.
+0
+2
+1
+6
+1
+6
+M15 Curtea de Arges 2 (Rumunjska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Dell'Elba V.
+Papoe C. G.
+2
+0
+6
+2
+6
+4
+Kraj
+Petre S. I. B.
+Valle F.
+2
+0
+6
+3
+6
+2
+Kraj
+Pieleanu R. T.
+Murray F.
+2
+0
+6
+4
+6
+1
+Kraj
+Rojas C.
+Sucu M.
+2
+0
+6
+0
+7
+5
+M15 Poprad (Slovačka), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+(predano)
+Pinter P. L.
+Hamza Reguig S.
+0
+1
+5
+7
+0
+0
 M15 Tianjin (Kina), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
 Kraj
+Dellavedova M.
+Nakajima K.
+2
+1
+6
+7
+7
+9
+6
+3
+6
+2
+Kraj
+Hwang D.
+Sumizawa D.
+2
+1
+6
+2
+2
+6
+6
+4
+Kraj
 Kang K.
 Becroft I.
+0
+2
+2
+6
+1
+6
+Kraj
+Qi H.
+Gao R.
 0
 2
 2
@@ -158,9 +282,109 @@ Haliak M.
 3
 2
 0
+Kraj
+(predano)
+Ann S.
+Trongcharoenchaikul W.
+1
+1
+4
+6
+7
+5
+0
+0
+Kraj
+Kang Ku K.
+Karigyo T.
+1
+2
+2
+6
+6
+4
+4
+6
+Kraj
+(predano)
+Lee D. H.
+Han Seon Yong
+0
+1
+2
+6
+0
+3
+M25 Kursumlijska Banja 2 (Srbija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Zivkovic U.
+Ceramilac L.
+0
+2
+3
+6
+0
+6
+W15 Hameenlinna (Finska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Korhonen C.
+Gailis R.
+0
+2
+2
+6
+5
+7
+Kraj
+Lopatetska D.
+Roots A.
+2
+0
+6
+2
+6
+0
+Kraj
+Van De Peer V.
+Stagno B.
+2
+0
+7
+7
+6
+4
+6
+4
+W15 Kursumlijska Banja 12 (Srbija), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Horvit M.
+Dorofeeva-Rybas F.
+0
+2
+1
+6
+4
+6
 W15 Tianjin (Kina), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
+Kraj
+Han J.
+Leong S. L. X.
+1
+2
+3
+6
+6
+3
+1
+6
 Kraj
 Wang Y.
 Dekkers F.
@@ -170,6 +394,84 @@ Dekkers F.
 0
 6
 2
+Kraj
+(predano)
+Cai J.
+Dong J.
+0
+1
+4
+6
+1
+3
+Kraj
+Jang G.
+Kim D.
+2
+0
+6
+4
+6
+2
+Kraj
+Nishimoto S.
+Guo M.
+0
+2
+4
+6
+5
+7
+Kraj
+(predano)
+Shao Y.
+Yang A.
+1
+0
+6
+1
+3
+0
+Kraj
+Yuan C.
+Lan X.
+2
+0
+6
+1
+6
+4
+Kraj
+(predano)
+Cheuk S. Y.
+Wang M.
+1
+0
+6
+3
+0
+0
+Kraj
+Desvignes E. M.
+Lin Y. J.
+0
+2
+3
+6
+4
+6
+Kraj
+(predano)
+Naklo T.
+Zhang R.
+1
+0
+7
+7
+6
+5
+0
+2
 W35 Roehampton (Ujedinjeno Kraljevstvo), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -178,6 +480,25 @@ Oz I.
 Sato H.
 -
 -
+Walkover
+Karunaratne A.
+Abe H.
+-
+-
+M15 Tianjin (Kina), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Hongyu Y.
+Lee K.
+Han X.
+Liu S.
+2
+0
+6
+4
+6
+4
 M25 Kursumlijska Banja 2 (Srbija), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -401,7 +722,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Gambling Problem? Call 1-800-BETS OFF 21+
+Igrajte odgovorno. Gambling Therapy. 18+
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
