@@ -20,6 +20,141 @@ TEČAJEVI
 GOTOVO
 RASPORED
 06/08 ČE
+Montreal (Kanada), tvrda podloga
+ATP - SINGL: 
+Ždrijeb
+Kraj
+Fearnley J.
+Mensik J.
+1
+2
+3
+6
+6
+3
+3
+6
+Kraj
+Khachanov K.
+Atmane T.
+0
+2
+4
+6
+6
+3
+7
+7
+Kraj
+Humbert U.
+Merida Aguilar D.
+0
+2
+3
+6
+3
+6
+Kraj
+Medvedev D.
+Van De Zandschulp B.
+0
+2
+3
+6
+6
+5
+7
+7
+Otkazano
+Droguet T.
+Auger-Aliassime F.
+-
+-
+Kraj
+Droguet T.
+Faria J.
+2
+0
+7
+7
+6
+2
+6
+2
+Kraj
+Royer V.
+Paul T.
+0
+2
+4
+6
+6
+5
+7
+7
+Kraj
+Tien L.
+Monfils G.
+2
+1
+6
+3
+0
+6
+6
+3
+Toronto (Kanada), tvrda podloga
+WTA - SINGL: 
+Ždrijeb
+Kraj
+Samsonova L.
+Krejcikova B.
+2
+0
+6
+1
+7
+5
+Kraj
+Noskova L.
+McNally C.
+0
+2
+6
+5
+7
+7
+1
+6
+Kraj
+Zarazua R.
+Fernandez L.
+0
+2
+2
+6
+2
+6
+Kraj
+Cirstea S.
+Joint M.
+0
+2
+4
+6
+4
+6
+Kraj
+Parks A.
+Eala A.
+1
+2
+1
+6
+6
+4
+2
+6
 Grodzisk Mazowiecki (Poljska), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -28,6 +163,313 @@ Ivashka I.
 Mayot H.
 -
 -
+Lexington (SAD), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Kwon S.
+Ilagan A.
+1
+2
+6
+3
+6
+4
+7
+7
+4
+6
+Kraj
+Gorzny S.
+Gojo B.
+2
+1
+6
+4
+2
+6
+7
+7
+6
+3
+Lexington (SAD), tvrda podloga
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Andrade A.
+Maginley J.
+Arseneault M.
+Arseneault N.
+0
+2
+3
+6
+4
+6
+Otkazano
+Bolt A.
+Harris L.
+Goldhoff G.
+Hilderbrand T.
+-
+-
+M15 Tianjin (Kina), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Mochizuki Y.
+Gao R.
+2
+0
+6
+1
+6
+1
+M25 Southaven, MS (SAD), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Chidekh C.
+Nakagawa N.
+2
+1
+5
+7
+7
+5
+6
+3
+W100 Landisville, PA (SAD), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Ansari C.
+Collins K.
+2
+1
+6
+3
+3
+6
+6
+1
+Kraj
+Sieg M.
+Rapolu M.
+2
+0
+6
+1
+6
+4
+Kraj
+Vandewinkel H.
+Brengle M.
+2
+0
+6
+2
+6
+0
+W15 Tianjin (Kina), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Cheuk S. Y.
+Shao Y.
+2
+0
+6
+3
+6
+1
+Kraj
+Zhu C.
+Dong J.
+2
+0
+6
+3
+6
+0
+W35 Southaven, MS (SAD), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Ivanova D.
+Schuman A.
+0
+2
+6
+7
+7
+9
+5
+7
+Kraj
+Shcherbinina A.
+Tanguilig C.
+1
+2
+7
+7
+6
+4
+4
+6
+1
+6
+Kraj
+Teixido Garcia A.
+Zhu A.
+2
+0
+6
+3
+6
+0
+M25 Londrina (Brazil), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Otkazano
+De Almeida Santos P. A.
+Ortenblad Nogueira H.
+Camargo Lima E.
+Schenekenberg G.
+-
+-
+Kraj
+De Almeida Santos P. A.
+Ortenblad Nogueira H.
+Meneguetti S. E.
+Price S.
+1
+2
+7
+5
+2
+6
+9
+11
+M25 Southaven, MS (SAD), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Chunduru A.
+Chunduru P.
+Frusina A.
+Nolan W.
+0
+2
+3
+6
+3
+6
+Walkover
+Exsted M.
+Woestendick C.
+Nefve A.
+Zapp L.
+-
+-
+Kraj
+Honda N.
+Sakagawa H.
+Anthrop J.
+Bennani K.
+0
+2
+3
+6
+2
+6
+Kraj
+Peck J.
+Vega L.
+Barrett H.
+Corwin F.
+2
+0
+6
+2
+6
+3
+W100 Landisville, PA (SAD), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+El Jardi D.
+Lincer O.
+Harrison C.
+Hewitt D.
+1
+2
+6
+2
+5
+7
+6
+10
+Kraj
+Cho I-H.
+Cho T.
+Akli A.
+Brantmeier R.
+2
+0
+7
+5
+6
+3
+Kraj
+Crawley F.
+Daniel J.
+Kozyreva M.
+Okalova M.
+2
+0
+6
+1
+6
+1
+W35 Southaven, MS (SAD), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Berardi O.
+Crowder R.
+Chan J.
+Hui K.
+0
+2
+1
+6
+1
+6
+Kraj
+Diianni J.
+Diianni J. L.
+Lee E.
+Sema E.
+0
+2
+6
+7
+7
+9
+1
+6
+Kraj
+Navarro M. F.
+Rodriguez V.
+Lutkemeyer A.
+Tian F.
+2
+0
+6
+2
+6
+2
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -128,8 +570,8 @@ Arsenal - Como
 Borac Banja Luka - ML Vitebsk
 Borac Banja Luka - Velež Mostar
 Brazil - Venezuela
-Brazil - Kolumbija
 Jodar - Musetti
+Brazil - Kolumbija
 Manchester Utd - PSG
 Barcelona - Nottingham Forest
 Udinese - Barcelona
