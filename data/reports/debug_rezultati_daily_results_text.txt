@@ -244,6 +244,99 @@ Mitsui S.
 7
 5
 7
+Kraj
+Imai S.
+Brand D.
+2
+0
+6
+2
+6
+1
+Kraj
+(predano)
+Philippov E.
+Sasikumar M.
+0
+0
+4
+4
+Kraj
+Pleshivtsev E.
+Tabata R.
+2
+1
+7
+8
+6
+6
+5
+7
+7
+5
+Kraj
+Sornlaksup P.
+Gretskiy I.
+2
+1
+6
+4
+0
+6
+6
+3
+Kraj
+Kachmazov A.
+Kesharwani M.
+0
+2
+3
+6
+5
+7
+M15 Curtea de Arges 2 (Rumunjska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+(predano)
+Ghetu G.
+Fumagalli F.
+1
+0
+7
+5
+0
+0
+Kraj
+Pieleanu R. T.
+Guna R.
+2
+0
+6
+0
+6
+1
+M15 Poprad (Slovačka), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Makk P.
+Hipfl N.
+2
+0
+7
+5
+6
+4
+Kraj
+Pizzigoni M.
+Ujvary M.
+0
+2
+3
+6
+3
+6
 M15 Tianjin (Kina), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -268,6 +361,15 @@ Huang T.
 6
 2
 Kraj
+Dellavedova M.
+Ann S.
+2
+0
+6
+3
+6
+3
+Kraj
 Lu H.
 Becroft I.
 0
@@ -275,6 +377,29 @@ Becroft I.
 4
 6
 3
+6
+M25 Kursumlijska Banja 2 (Srbija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Comino L.
+Obradovic D.
+2
+1
+6
+3
+3
+6
+6
+4
+Kraj
+Pisaric A.
+Ahouda W.
+0
+2
+2
+6
+2
 6
 M25 Southaven, MS (SAD), tvrda podloga
 ITF - MUŠKI SINGL: 
@@ -340,6 +465,49 @@ Sozaonova N.
 2
 6
 1
+Kraj
+Arifullina A.
+Lee H. E.
+2
+0
+7
+7
+6
+5
+6
+1
+Kraj
+Pushkareva A.
+Desai Z.
+2
+1
+3
+6
+6
+1
+6
+4
+Kraj
+Sedysheva A.
+Jang S. J.
+0
+2
+2
+6
+4
+6
+W15 Kursumlijska Banja 12 (Srbija), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Dorofeeva-Rybas F.
+Van Zonneveld C.
+2
+0
+6
+3
+6
+3
 W15 Tianjin (Kina), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -389,6 +557,60 @@ Wang J.
 1
 6
 4
+W75 Koksijde (Belgija), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Matoula M.
+Basiletti N.
+1
+2
+3
+6
+6
+1
+3
+6
+W75 Ourense (Španjolska), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Pavlova K.
+Du Pree B.
+0
+2
+2
+6
+3
+6
+M15 Frankfurt (Njemačka), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Dutine D. A.
+Klinkov M.
+Haupt H.
+Maute J.
+0
+2
+1
+6
+3
+6
+M15 Poprad (Slovačka), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Bakonyi D.
+Kisantal B.
+Drab F.
+Poklemba F.
+2
+0
+6
+3
+6
+3
 M15 Tianjin (Kina), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -403,6 +625,19 @@ Wang Y.
 3
 6
 3
+Kraj
+Hongyu Y.
+Lee K.
+Lai C. K.
+Sarksian D.
+0
+2
+6
+3
+7
+7
+4
+6
 M25 Londrina (Brazil), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -455,6 +690,20 @@ Bennani K.
 3
 11
 9
+W15 Tianjin (Kina), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Lin Y. J.
+Zhang R.
+Kim D.
+Shin J.
+2
+0
+7
+5
+6
+4
 W35 Southaven, MS (SAD), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -601,12 +850,12 @@ Arsenal - Dortmund
 Arsenal - Como
 Arsenal - Manchester City
 Srbija Ž - Rusija Ž
+Crna Gora Ž - Austrija Ž
 Borac Banja Luka - Velež Mostar
 ML Vitebsk - Borac Banja Luka
 Brazil - Kolumbija
-Manchester Utd - PSG
+PSG - Manchester Utd
 Barcelona - Nottingham Forest
-Udinese - Barcelona
 REZULTATI UŽIVO
 PSV - Fortuna Sittard
 Mlada Boleslav - Sparta Prague
