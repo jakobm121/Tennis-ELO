@@ -200,6 +200,17 @@ Guerrieri A.
 7
 2
 6
+Kraj
+Schwaerzler J. J.
+Ivashka I.
+2
+0
+7
+7
+6
+4
+6
+4
 Hagen (Njemačka), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -223,6 +234,17 @@ Den Ouden G.
 4
 6
 1
+Kraj
+Moller E.
+Taberner C.
+2
+0
+7
+7
+6
+4
+7
+5
 Istanbul 2 (Turska), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -236,6 +258,30 @@ Basing M.
 2
 0
 0
+Kraj
+Simakin I.
+Bax F.
+2
+1
+6
+0
+6
+7
+7
+9
+6
+4
+Kraj
+Matsuda K.
+Brouwer G.
+1
+2
+4
+6
+6
+1
+2
+6
 Lexington (SAD), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -280,6 +326,24 @@ Piraino G.
 6
 1
 6
+Kraj
+Alexandrescou Y. T.
+Papoe R. M.
+0
+2
+3
+6
+3
+6
+Kraj
+Andreev A.
+Nesterov P.
+0
+2
+4
+6
+1
+6
 Warsaw (Poljska), tvrda podloga
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -303,6 +367,22 @@ Valdmannova V.
 2
 6
 2
+Grodzisk Mazowiecki (Poljska), tvrda podloga
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Banthia S.
+Donski A.
+Cervantes I.
+Molchanov D.
+1
+2
+4
+6
+6
+3
+7
+10
 Hagen (Njemačka), zemlja
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -343,6 +423,20 @@ Poling K.
 4
 6
 2
+6
+Warsaw (Poljska), tvrda podloga
+CHALLENGER - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Kubka M.
+Rosolska Ali.
+Falkowska W.
+Smith A.
+0
+2
+3
+6
+1
 6
 M15 Astana 2 (Kazahstan), tvrda podloga
 ITF - MUŠKI SINGL: 
@@ -447,6 +541,28 @@ Marek W.
 4
 6
 4
+Kraj
+Lagerbohm L.
+Salazar D.
+1
+2
+6
+4
+1
+6
+6
+7
+Kraj
+Zielinski M.
+Savano M.
+2
+1
+6
+1
+3
+6
+7
+5
 M15 Curtea de Arges 2 (Rumunjska), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -510,6 +626,17 @@ Forger A.
 4
 2
 6
+Kraj
+Basile A.
+Torcq B.
+0
+2
+6
+1
+7
+7
+3
+6
 M15 Frankfurt (Njemačka), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -542,6 +669,17 @@ Funk A.
 3
 6
 1
+Kraj
+Penzlin J.
+Kivattsev K.
+2
+1
+6
+4
+2
+6
+6
+1
 M15 Poprad (Slovačka), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -563,6 +701,30 @@ Ujvary M.
 6
 3
 6
+Kraj
+Rivera L.
+Filar K.
+1
+2
+3
+6
+6
+3
+5
+7
+Kraj
+Sec S.
+Hallquist Lithen J.
+0
+2
+6
+1
+7
+7
+6
+4
+7
+7
 M15 Tianjin (Kina), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -604,6 +766,20 @@ Becroft I.
 6
 3
 6
+M25 Fano (Italija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Overbeck C. E.
+Primucci L.
+2
+0
+7
+7
+6
+4
+6
+4
 M25 Kursumlijska Banja 2 (Srbija), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -704,6 +880,51 @@ Honda N.
 3
 6
 2
+Kraj
+Zhu E.
+Maloney P.
+2
+0
+6
+2
+6
+3
+W100 Landisville, PA (SAD), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Crawley F.
+Zakharova A.
+0
+2
+4
+6
+4
+6
+Kraj
+Iatcenko P.
+Dolehide C.
+1
+2
+7
+8
+6
+6
+1
+6
+3
+6
+Kraj
+Ovcharenko E.
+Gorgodze E.
+0
+2
+6
+7
+7
+9
+4
+6
 W15 Astana 4 (Kazahstan), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -823,6 +1044,15 @@ Veldman K.
 1
 6
 2
+Kraj
+Lopatetska D.
+Gailis R.
+0
+2
+3
+6
+1
+6
 W15 Kursumlijska Banja 12 (Srbija), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -927,6 +1157,66 @@ Gobbi Monllau A. V.
 1
 6
 0
+Kraj
+Estevez J.
+Labrana F.
+2
+1
+3
+6
+6
+2
+6
+3
+Kraj
+Larraya Guidi S. A.
+Schaedel L.
+1
+2
+4
+6
+7
+7
+6
+3
+5
+7
+Kraj
+Pedone G.
+Meabe S.
+2
+0
+7
+5
+7
+5
+Kraj
+Sanchez A. S.
+Cinalli L. M.
+2
+0
+6
+3
+6
+1
+Kraj
+Konishi Silva J.
+Bosio V.
+0
+2
+0
+6
+2
+6
+Kraj
+Ayala L.
+Egorova D.
+0
+2
+0
+6
+3
+6
 W35 Roehampton (Ujedinjeno Kraljevstvo), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -959,6 +1249,29 @@ Cembranos P.
 0
 6
 1
+Kraj
+Rajecki A.
+Black B.
+2
+1
+5
+7
+6
+3
+6
+2
+W35 Southaven, MS (SAD), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Penickova A.
+Lu J.
+2
+0
+6
+4
+6
+4
 W75 Koksijde (Belgija), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -982,6 +1295,24 @@ Bertea E. R.
 6
 3
 6
+Kraj
+Ebeling Koning L.
+Di Girolami T.
+2
+0
+6
+4
+6
+2
+Kraj
+Pieri T.
+Palicova B.
+0
+2
+3
+6
+4
+6
 W75 Leipzig (Njemačka), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -1003,6 +1334,24 @@ Vladson L.
 3
 6
 1
+Kraj
+Hennemann C. W.
+Steiner V.
+2
+0
+6
+4
+6
+4
+Kraj
+Zantedeschi A.
+Wobker I.
+0
+2
+3
+6
+4
+6
 W75 Ourense (Španjolska), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -1081,6 +1430,19 @@ M15 Bielsko Biala (Poljska), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
 Kraj
+Homola P.
+Jedrzejczak J.
+Beckley A.
+Szczypka M.
+1
+2
+6
+1
+3
+6
+6
+10
+Kraj
 Fondriest M.
 Keremedchiev N.
 Kasperski A.
@@ -1109,6 +1471,18 @@ Valle F.
 2
 10
 5
+Kraj
+(predano)
+Bosio G.
+Tenti F.
+Apostol C.
+Constantin A.
+1
+0
+6
+1
+5
+3
 M15 Eupen (Belgija), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -1125,6 +1499,17 @@ Van Herck L.
 1
 11
 9
+Kraj
+Chambonniere M.
+Schlagenhauf N.
+Forger A.
+Khoeblal E.
+0
+2
+1
+6
+4
+6
 M15 Frankfurt (Njemačka), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -1153,6 +1538,17 @@ Poklemba F.
 3
 6
 3
+Kraj
+Lanik T.
+Novansky M.
+Gil Garcia A.
+Mashtakov N.
+2
+0
+6
+4
+6
+4
 M15 Tianjin (Kina), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -1180,6 +1576,33 @@ Sarksian D.
 7
 4
 6
+M25 Kursumlijska Banja 2 (Srbija), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Chatziavraam N.
+Kountourakis I.
+Jovic N.
+Markovski O.
+2
+1
+2
+6
+6
+4
+10
+8
+Kraj
+Pisaric A.
+Radjenovic V.
+Mikovic M.
+Novakovic N.
+2
+0
+6
+2
+6
+3
 M25 Londrina (Brazil), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -1193,6 +1616,20 @@ Kohlmann E.
 5
 7
 2
+6
+M25 Roehampton (Ujedinjeno Kraljevstvo), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Hands T.
+Summers M.
+Dominko S.
+Godsick N.
+0
+2
+4
+6
+3
 6
 M25 Southaven, MS (SAD), tvrda podloga
 ITF - MUŠKI PAROVI: 
@@ -1259,6 +1696,33 @@ Dyussebay I.
 6
 7
 10
+W15 Hameenlinna (Finska), zemlja
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Blazkova K.
+Eigelsbach E. V.
+Hejtmanek A.
+Urbanova L.
+0
+2
+3
+6
+3
+6
+Kraj
+Blomqvist C.
+Heinonen I.
+Biot A.
+Vaissaud D.
+2
+0
+7
+7
+6
+3
+6
+4
 W15 Kursumlijska Banja 12 (Srbija), zemlja
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -1272,6 +1736,17 @@ Panshina V.
 3
 6
 3
+6
+Kraj
+Suvirdjonkova D.
+Torres Murcia M. C.
+Herazo Gonzalez M.
+Horvit M.
+0
+2
+5
+7
+4
 6
 W15 Tianjin (Kina), tvrda podloga
 ITF - ŽENSKI PAROVI: 
@@ -1301,6 +1776,38 @@ Wang Y.
 6
 1
 6
+10
+W35 Chacabuco (Argentina), zemlja
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Moyano L.
+Romero C.
+Ccuno R.
+Sousa Salazar N.
+1
+2
+6
+3
+2
+6
+4
+10
+W35 Roehampton (Ujedinjeno Kraljevstvo), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Abe H.
+Sato H.
+Appleton E.
+McDonald E.
+1
+2
+3
+6
+6
+3
+3
 10
 W35 Southaven, MS (SAD), tvrda podloga
 ITF - ŽENSKI PAROVI: 
@@ -1363,6 +1870,27 @@ Li Y.
 2
 6
 2
+Kraj
+Strakhova V.
+Tikhonova A.
+Kucmova A.
+Laboutkova A.
+0
+2
+5
+7
+2
+6
+W75 Ourense (Španjolska), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Walkover
+Jorge F.
+Jorge M.
+Christie F.
+Dudeney A.
+-
+-
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -1498,7 +2026,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Igrajte odgovorno. Gambling Therapy. 18+
+Must be 21+. If you or someone you know has a gambling problem, crisis counselling and referral services can be accessed by calling 1-800-GAMBLER (1-800-426-2537) or by texting ILGAMB to 833234. The 1-800-GAMBLER helpline can be used for multi-jurisdictional advertising.
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
