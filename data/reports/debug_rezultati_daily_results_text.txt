@@ -212,6 +212,38 @@ Poling K.
 6
 2
 6
+M15 Astana 2 (Kazahstan), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Ianin N.
+Zhalgasbay D.
+0
+2
+3
+6
+3
+6
+Kraj
+Paparkar A.
+Borisiouk M.
+2
+1
+7
+5
+1
+6
+7
+5
+Kraj
+Yamanaka T.
+Mitsui S.
+0
+2
+5
+7
+5
+7
 M15 Tianjin (Kina), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -235,6 +267,15 @@ Huang T.
 1
 6
 2
+Kraj
+Lu H.
+Becroft I.
+0
+2
+4
+6
+3
+6
 M25 Southaven, MS (SAD), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -256,9 +297,65 @@ Honda N.
 3
 6
 2
+W15 Astana 4 (Kazahstan), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Arystanbekova A.
+Rothensteiner L.
+2
+1
+3
+6
+6
+2
+6
+4
+Kraj
+Bazderova A.
+Mamedova E.
+0
+2
+4
+6
+5
+7
+Kraj
+Korysheva E.
+Yoshioka K.
+0
+2
+0
+6
+6
+3
+7
+7
+Kraj
+Milovanova V.
+Sozaonova N.
+2
+0
+6
+2
+6
+1
 W15 Tianjin (Kina), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
+Kraj
+Wang Y.
+Zhang J.
+1
+2
+7
+9
+6
+7
+3
+6
+4
+6
 Kraj
 Yuan C.
 Lin Y. J.
@@ -270,6 +367,42 @@ Lin Y. J.
 6
 6
 2
+Kraj
+Cheuk S. Y.
+Jang G.
+1
+2
+7
+5
+4
+6
+3
+6
+Kraj
+Zhu C.
+Wang J.
+2
+1
+5
+7
+6
+1
+6
+4
+M15 Tianjin (Kina), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Chung Y.
+Han Seon Yong
+Huang T.
+Wang Y.
+2
+0
+6
+3
+6
+3
 M25 Londrina (Brazil), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
