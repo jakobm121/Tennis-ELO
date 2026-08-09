@@ -43,6 +43,15 @@ Norrie C.
 10
 6
 8
+Kraj
+Griekspoor T.
+Merida Aguilar D.
+0
+2
+3
+6
+1
+6
 Toronto (Kanada), tvrda podloga
 WTA - SINGL: 
 Ždrijeb
@@ -100,6 +109,17 @@ Shnaider D.
 6
 3
 6
+Kraj
+Routliffe E.
+Sutjiadi A.
+Mihalikova T.
+Nicholls O.
+0
+2
+3
+6
+5
+7
 Grodzisk Mazowiecki (Poljska), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -128,6 +148,50 @@ Kym J.
 7
 6
 4
+Istanbul 2 (Turska), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Poullain L.
+Simakin I.
+2
+1
+5
+7
+6
+2
+6
+3
+Lexington (SAD), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Ilagan A.
+Butvilas E.
+1
+2
+2
+6
+6
+1
+6
+6
+7
+8
+Plovdiv 2 (Bugarska), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Piraino G.
+Nesterov P.
+2
+0
+6
+1
+7
+7
+6
+5
 Astana (Kazahstan) - Kvalifikacije, tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -270,6 +334,17 @@ Fenty A.
 1
 6
 Kraj
+Winter E.
+Mosejczuk D.
+2
+0
+6
+3
+7
+7
+6
+4
+Kraj
 Puttergill C.
 King E.
 0
@@ -278,6 +353,53 @@ King E.
 6
 3
 6
+Kraj
+Manning W.
+Young G.
+0
+2
+2
+6
+4
+6
+Kraj
+Boyer T.
+Forbes M.
+2
+1
+6
+2
+1
+6
+6
+2
+Kraj
+Dickerson R.
+Mayo A.
+0
+2
+4
+6
+3
+6
+Kraj
+Hilderbrand T.
+Kim A.
+0
+2
+4
+6
+5
+7
+Kraj
+Suresh D.
+Godoy S.
+2
+0
+6
+3
+6
+3
 Hamburg (Njemačka) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -387,6 +509,28 @@ Papa C.
 6
 7
 5
+Kraj
+Yevseyev D.
+Larwig N.
+2
+1
+7
+7
+6
+4
+4
+6
+7
+5
+Kraj
+Antoni R.
+Purtseladze S.
+0
+2
+1
+6
+4
+6
 Todi (Italija) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -497,6 +641,26 @@ Gandolfi G.
 2
 6
 3
+Kraj
+Martin Manzano J. C.
+Rapagnetta D.
+2
+1
+6
+4
+2
+6
+6
+4
+Kraj
+Caniato C. A.
+Cecconi F.
+2
+0
+6
+0
+6
+0
 Lexington (SAD), tvrda podloga
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -555,6 +719,22 @@ Misasi G.
 2
 6
 1
+M15 Eupen (Belgija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Van Der Meerschen M.
+Papamalamis T.
+2
+1
+4
+6
+6
+4
+7
+7
+6
+2
 M15 Frankfurt (Njemačka), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -652,6 +832,17 @@ Gorgodze E.
 4
 6
 2
+Prekinuto
+Vandewinkel H.
+Zakharova A.
+0
+1
+3
+6
+5
+3
+0
+0
 W15 Astana 4 (Kazahstan), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -728,6 +919,20 @@ Guzman D.
 6
 4
 6
+W75 Koksijde (Belgija), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Palicova B.
+Basiletti N.
+1
+2
+6
+2
+5
+7
+5
+7
 W75 Leipzig (Njemačka), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -1096,6 +1301,28 @@ Ploskunakova L.
 6
 6
 10
+Kraj
+Karsnakova R.
+Holubova E.
+Foldova K.
+Havelkova N.
+2
+0
+6
+1
+6
+3
+Kraj
+Jelinkova N.
+Paleckova T.
+Gottvaldova A.
+Tvrzska A.
+0
+2
+4
+6
+2
+6
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -1132,7 +1359,7 @@ Grodzisk Mazowiecki Challenger Muškarci
 Hagen Challenger Muškarci
 Hamburg Challenger Muškarci
 Istanbul 2 Challenger Muškarci
-Prikaži više (43)
+Prikaži više (40)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -1180,7 +1407,6 @@ World Series Finals
 MLB
 EuroBasket U20 2026
 NOGOMET UŽIVO
-Hajduk Split - Istra 1961
 Kauno Zalgiris - Dinamo Zagreb
 Hajduk Split - Zalgiris
 Dinamo Zagreb - Rudes
@@ -1190,17 +1416,18 @@ Ilves - Rijeka
 Inter - Betis
 Arsenal - Manchester City
 Schalke - Real Madrid
+Varaždin - Rijeka
 LIVESCORE
 Ambrogi - Ajdukovic
 Arsenal - Como
 Arsenal - Manchester City
-Borac Banja Luka - Velež Mostar
 ML Vitebsk - Borac Banja Luka
 Sloga Meridian - Borac Banja Luka
 SAD - Kostarika
 Kuba - Dominikanska Republika
 Argentina - Brazil
 Kuba - Curacao
+SAD - Portoriko
 REZULTATI UŽIVO
 Slovan Bratislava - Mjällby
 Lyon - Sparta Prague
