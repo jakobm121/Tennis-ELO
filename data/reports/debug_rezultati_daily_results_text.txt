@@ -114,6 +114,20 @@ Guerrieri A.
 4
 6
 1
+Hagen (Njemačka), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Gentzsch T.
+Kym J.
+2
+0
+6
+4
+7
+7
+6
+4
 Astana (Kazahstan) - Kvalifikacije, tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -223,6 +237,47 @@ Mitsui S.
 1
 4
 6
+Kraj
+Sinclair C.
+Kachmazov A.
+2
+1
+7
+7
+6
+3
+6
+6
+7
+8
+6
+2
+Brownsburg (SAD) - Kvalifikacije, tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Otkazano
+Zink T.
+King E.
+-
+-
+Kraj
+Dieveney E.
+Fenty A.
+0
+2
+4
+6
+1
+6
+Kraj
+Puttergill C.
+King E.
+0
+2
+1
+6
+3
+6
 Hamburg (Njemačka) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -297,6 +352,41 @@ Krutykh O.
 7
 1
 6
+Kraj
+Guttau N.
+Barsukov N.
+2
+1
+6
+7
+7
+9
+7
+5
+6
+3
+Kraj
+Nijboer R.
+Opitz J.
+1
+2
+3
+6
+6
+2
+3
+6
+Kraj
+Wallin O.
+Papa C.
+2
+1
+6
+2
+1
+6
+7
+5
 Todi (Italija) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -367,6 +457,46 @@ Betti E.
 4
 6
 2
+Kraj
+D'Agostino S.
+Tabacco G.
+2
+0
+6
+1
+6
+4
+Kraj
+Crivellaro G.
+Arnaboldi F.
+2
+1
+3
+6
+6
+1
+7
+7
+6
+0
+Kraj
+Delaney Je.
+Weis A.
+0
+2
+5
+7
+4
+6
+Kraj
+Kravchenko G.
+Gandolfi G.
+2
+0
+6
+2
+6
+3
 Lexington (SAD), tvrda podloga
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -489,6 +619,18 @@ Tarvet O.
 3
 6
 2
+M25 Southaven, MS (SAD), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Legout T.
+Zhu E.
+2
+0
+6
+2
+6
+4
 W100 Landisville, PA (SAD), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -574,6 +716,18 @@ Rajecki A.
 6
 2
 6
+W35 Southaven, MS (SAD), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Penickova A.
+Guzman D.
+0
+2
+2
+6
+4
+6
 W75 Leipzig (Njemačka), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -620,6 +774,20 @@ Zhalgasbay D.
 3
 6
 2
+W100 Landisville, PA (SAD), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Cho I-H.
+Cho T.
+Broadus S.
+Collins K.
+2
+0
+6
+2
+6
+4
 W15 Astana 4 (Kazahstan), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -829,6 +997,105 @@ Lassan R.
 6
 4
 6
+Kraj
+Jirasek M.
+Kozel A.
+Wirgler T.
+Rakous M.
+2
+1
+7
+5
+4
+6
+10
+6
+Kraj
+Peconka J.
+Fedor J.
+Motal J.
+Smid M.
+1
+2
+6
+2
+4
+6
+8
+10
+Kraj
+Kollert J.
+Novak M.
+Strilka S.
+Zerai R.
+0
+2
+4
+6
+5
+7
+Kraj
+Papavasiliu N.
+Smolik D.
+Svoboda J.
+Svozil V.
+0
+2
+6
+4
+7
+7
+1
+6
+Kraj
+Tichy T.
+Bruckner D.
+Drabek J.
+Fric A.
+2
+0
+6
+2
+6
+2
+Kraj
+Kouba V.
+Svoboda P.
+Horelka G.
+Rychnavsky J.
+2
+0
+6
+0
+6
+2
+Pardubicka juniorka (Češka Republika), zemlja
+JUNIORKE - PAROVI: 
+Ždrijeb
+Kraj
+Fialova B.
+Jarolimkova M.
+Pirkova K.
+Vokrojova B.
+0
+2
+4
+6
+3
+6
+Kraj
+Voborilova A.
+Schovancova A.
+Ruzickova T.
+Ploskunakova L.
+1
+2
+7
+5
+2
+6
+6
+10
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -865,7 +1132,7 @@ Grodzisk Mazowiecki Challenger Muškarci
 Hagen Challenger Muškarci
 Hamburg Challenger Muškarci
 Istanbul 2 Challenger Muškarci
-Prikaži više (50)
+Prikaži više (43)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -930,10 +1197,10 @@ Arsenal - Manchester City
 Borac Banja Luka - Velež Mostar
 ML Vitebsk - Borac Banja Luka
 Sloga Meridian - Borac Banja Luka
-Liverpool - Monaco
 SAD - Kostarika
 Kuba - Dominikanska Republika
 Argentina - Brazil
+Kuba - Curacao
 REZULTATI UŽIVO
 Slovan Bratislava - Mjällby
 Lyon - Sparta Prague
