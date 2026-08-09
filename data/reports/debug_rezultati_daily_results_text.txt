@@ -100,6 +100,20 @@ Shnaider D.
 6
 3
 6
+Grodzisk Mazowiecki (Poljska), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Schwaerzler J. J.
+Guerrieri A.
+2
+0
+7
+7
+6
+4
+6
+1
 Astana (Kazahstan) - Kvalifikacije, tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -169,6 +183,46 @@ Singh K.
 3
 3
 6
+Kraj
+Chung H.
+Ichikawa T.
+0
+2
+5
+7
+4
+6
+Kraj
+Zhalgasbay D.
+Dzhavakian Y.
+2
+0
+6
+4
+6
+3
+Kraj
+Rawat S.
+Bakshi A.
+2
+0
+6
+3
+6
+3
+Kraj
+Sornlaksup P.
+Mitsui S.
+1
+2
+6
+3
+7
+7
+6
+1
+4
+6
 Hamburg (Njemačka) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -201,6 +255,48 @@ Handel T.
 2
 6
 4
+Kraj
+Dedura-Palomero M.
+Lechno-Wasiutynski F.
+1
+2
+4
+6
+7
+5
+3
+6
+Kraj
+Pieri S.
+Zeballos F.
+1
+2
+6
+3
+3
+6
+4
+6
+Kraj
+Arias B.
+Kirkin E.
+0
+2
+2
+6
+2
+6
+Kraj
+Poljak D.
+Krutykh O.
+0
+2
+6
+4
+7
+7
+1
+6
 Todi (Italija) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -222,11 +318,55 @@ Vasa E.
 3
 6
 2
+Kraj
+Noce G. M.
+Carboni L.
+1
+2
+1
+6
+6
+4
+6
+2
+7
+7
 Otkazano
 Vanshelboim E.
 Recek D.
 -
 -
+Kraj
+Ribero F.
+Mashtakov N.
+0
+2
+6
+5
+7
+7
+4
+6
+Kraj
+Vanshelboim E.
+Buldorini P.
+2
+1
+6
+1
+2
+6
+6
+3
+Kraj
+Ferrari G.
+Betti E.
+2
+0
+6
+4
+6
+2
 Lexington (SAD), tvrda podloga
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -257,6 +397,46 @@ Zhalgasbay D.
 5
 6
 2
+M15 Bielsko Biala (Poljska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Zielinski M.
+Salazar D.
+2
+1
+3
+6
+6
+3
+7
+7
+6
+3
+M15 Curtea de Arges 2 (Rumunjska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Pieleanu R. T.
+Misasi G.
+2
+0
+6
+2
+6
+1
+M15 Frankfurt (Njemačka), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Chazal M.
+Dullinger V.
+2
+0
+6
+2
+6
+0
 M15 Poprad (Slovačka), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -283,6 +463,32 @@ Mochizuki Y.
 6
 6
 0
+M25 Kursumlijska Banja 2 (Srbija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Ahouda W.
+Artnak B.
+2
+1
+4
+6
+6
+3
+6
+3
+M25 Roehampton (Ujedinjeno Kraljevstvo), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Broom C.
+Tarvet O.
+2
+0
+6
+3
+6
+2
 W100 Landisville, PA (SAD), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -316,6 +522,20 @@ Arystanbekova A.
 6
 1
 6
+W15 Hameenlinna (Finska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Hietaranta L.
+Hejtmanek A.
+1
+2
+4
+6
+6
+2
+4
+6
 W15 Kursumlijska Banja 12 (Srbija), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -342,6 +562,78 @@ Zhu C.
 2
 6
 1
+W35 Roehampton (Ujedinjeno Kraljevstvo), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+McDonald E.
+Rajecki A.
+0
+2
+0
+6
+2
+6
+W75 Leipzig (Njemačka), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Wobker I.
+Burillo Escorihuela I.
+1
+2
+7
+10
+6
+8
+4
+6
+0
+6
+W75 Ourense (Španjolska), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Shinikova I.
+Zhiyenbayeva S.
+1
+2
+6
+2
+7
+7
+6
+3
+1
+6
+M15 Astana 2 (Kazahstan), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Borisiouk M.
+Singh K.
+Rakhmatullayev D.
+Zhalgasbay D.
+2
+0
+6
+3
+6
+2
+W15 Astana 4 (Kazahstan), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Im H.
+Kim Eunchae
+Arystanbekova A.
+Dyussebay I.
+2
+0
+7
+5
+6
+3
 Pardubicka juniorka (Češka Republika), zemlja
 JUNIORI - SINGL: 
 Ždrijeb
@@ -357,8 +649,30 @@ Smid M.
 6
 1
 Kraj
+Motal J.
+Ladman F.
+1
+2
+3
+6
+7
+8
+6
+6
+1
+6
+Kraj
 Psota J.
 Perutka M.
+0
+2
+2
+6
+4
+6
+Kraj
+Rat D.
+Bruckner D.
 0
 2
 2
@@ -377,6 +691,32 @@ Kollert J.
 6
 9
 Kraj
+Svoboda P.
+Lebis J.
+1
+2
+6
+4
+6
+7
+7
+9
+1
+6
+Kraj
+Svozil V.
+Cernovicky J.
+1
+2
+3
+6
+7
+7
+6
+4
+4
+6
+Kraj
 Zerai R.
 Vrtilka J.
 0
@@ -384,6 +724,110 @@ Vrtilka J.
 4
 6
 1
+6
+Pardubicka juniorka (Češka Republika), zemlja
+JUNIORKE - SINGL: 
+Ždrijeb
+Kraj
+Meszarosova E.
+Slavikova B.
+2
+0
+6
+2
+6
+1
+Kraj
+Svobodova V.
+Schovancova A.
+2
+0
+6
+1
+6
+2
+Kraj
+Krejcova T.
+Vrajikova R.
+2
+1
+6
+2
+5
+7
+6
+4
+Kraj
+Sediva A.
+Chladova E.
+0
+2
+1
+6
+5
+7
+Kraj
+Blazkova K.
+Mojzisova V.
+2
+0
+6
+2
+6
+1
+Kraj
+Tvrzska A.
+Sviglerova P.
+0
+2
+1
+6
+6
+2
+7
+7
+Kraj
+Holubova E.
+Prikrylova K.
+2
+0
+6
+4
+6
+4
+Kraj
+Zoldakova D.
+Smidova K.
+2
+0
+6
+2
+6
+1
+Pardubicka juniorka (Češka Republika), zemlja
+JUNIORI - PAROVI: 
+Ždrijeb
+Kraj
+Vaverka D.
+Blazej A.
+Krechler D.
+Hlavnicka M.
+0
+2
+3
+6
+5
+7
+Kraj
+Zapsky T.
+Sebek F.
+Bohaty M.
+Lassan R.
+0
+2
+3
+6
+4
 6
 Reklama
 PRIKVAČENE LIGE
@@ -421,7 +865,7 @@ Grodzisk Mazowiecki Challenger Muškarci
 Hagen Challenger Muškarci
 Hamburg Challenger Muškarci
 Istanbul 2 Challenger Muškarci
-Prikaži više (53)
+Prikaži više (50)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -474,13 +918,12 @@ Kauno Zalgiris - Dinamo Zagreb
 Hajduk Split - Zalgiris
 Dinamo Zagreb - Rudes
 Gorica - Hajduk Split
-Manchester City - Atletico Madrid
 Dep. A Coruna - Real Madrid
 Ilves - Rijeka
 Inter - Betis
 Arsenal - Manchester City
+Schalke - Real Madrid
 LIVESCORE
-Arsenal - Dortmund
 Ambrogi - Ajdukovic
 Arsenal - Como
 Arsenal - Manchester City
@@ -490,10 +933,8 @@ Sloga Meridian - Borac Banja Luka
 Liverpool - Monaco
 SAD - Kostarika
 Kuba - Dominikanska Republika
+Argentina - Brazil
 REZULTATI UŽIVO
-Sparta Rotterdam - Feyenoord
-Zwolle - Ajax
-Slavia Prague - FK Pardubice
 Slovan Bratislava - Mjällby
 Lyon - Sparta Prague
 Shelbourne - Ajax
@@ -501,6 +942,9 @@ Sparta Prague - Teplice
 Slovan Bratislava - Ruzomberok
 Utrecht - AZ Alkmaar
 Excelsior - PSV
+Feyenoord - G.A. Eagles
+Ajax - Heerenveen
+Liberec - Slavia Prague
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
@@ -520,7 +964,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Must be 21+. If you or someone you know has a gambling problem, crisis counselling and referral services can be accessed by calling 1-800-GAMBLER (1-800-426-2537) or by texting ILGAMB to 833234. The 1-800-GAMBLER helpline can be used for multi-jurisdictional advertising.
+Igrajte odgovorno. Gambling Therapy. 18+
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
