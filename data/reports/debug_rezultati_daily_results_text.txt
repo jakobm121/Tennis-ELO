@@ -121,6 +121,52 @@ Onclin G.
 Zhou Y.
 -
 -
+Hamburg (Njemačka), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Tseng C. H.
+Sachko V.
+1
+2
+7
+5
+1
+6
+4
+6
+Kraj
+Cretu C.
+Moeller M.
+1
+2
+1
+6
+7
+5
+4
+6
+Kraj
+Ribeiro E.
+Alcala Gurri M.
+2
+0
+6
+4
+6
+4
+Todi (Italija), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Dellien Velasco M. A.
+Galan D. E.
+0
+2
+4
+6
+2
+6
 Astana (Kazahstan) - Kvalifikacije, tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -190,6 +236,36 @@ Zhalgasbay D.
 7
 6
 4
+Brownsburg (SAD) - Kvalifikacije, tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Boyer T.
+Mayo A.
+0
+2
+2
+6
+2
+6
+Kraj
+King E.
+Fenty A.
+0
+2
+1
+6
+4
+6
+Kraj
+Winter E.
+Young G.
+2
+0
+6
+2
+6
+2
 Hamburg (Njemačka) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -321,6 +397,52 @@ D'Agostino S.
 7
 6
 3
+M25 Koksijde (Belgija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+(predano)
+Marterer M.
+Pontjodikromo S.
+0
+1
+4
+6
+3
+0
+Otkazano
+Sels J.
+Verwerft L. G.
+-
+-
+M15 Turku (Finska), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Larue L.
+Tsitsipas Pa.
+Alopaeus F.
+Martikainen O.
+0
+2
+2
+6
+4
+6
+M25 Koksijde (Belgija), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Hermans M.
+Muller R.
+De Carvalho V.
+Dugardin R.
+2
+0
+6
+3
+6
+1
 Pardubicka juniorka (Češka Republika), zemlja
 JUNIORI - SINGL: 
 Ždrijeb
@@ -486,6 +608,83 @@ Jancarikova A.
 6
 3
 Pardubicka juniorka (Češka Republika), zemlja
+JUNIORI - PAROVI: 
+Ždrijeb
+Kraj
+Marsik M.
+Vagner D.
+Svoboda J.
+Svozil V.
+2
+1
+4
+6
+7
+7
+6
+5
+10
+8
+Kraj
+Motal J.
+Smid M.
+Vanek D.
+Ladman F.
+1
+2
+6
+1
+0
+6
+7
+10
+Kraj
+Krechler D.
+Hlavnicka M.
+Lebis J.
+Vymazal K.
+0
+2
+3
+6
+1
+6
+Kraj
+Cernovicky J.
+Svoboda J.
+Tichy T.
+Bruckner D.
+2
+0
+6
+1
+6
+4
+Kraj
+Strilka S.
+Zerai R.
+Kominek K.
+Psota J.
+1
+2
+6
+3
+3
+6
+6
+10
+Kraj
+Kouba V.
+Svoboda P.
+Cank T.
+Dujka D.
+0
+2
+1
+6
+2
+6
+Pardubicka juniorka (Češka Republika), zemlja
 JUNIORKE - PAROVI: 
 Ždrijeb
 Kraj
@@ -532,6 +731,19 @@ Horutova A.
 6
 5
 7
+Kraj
+Jancarikova A.
+Padrnosova N.
+Vrajikova R.
+Smidova K.
+2
+1
+6
+4
+3
+6
+10
+5
 Walkover
 Stepankova K.
 Sediva A.
@@ -539,6 +751,17 @@ Benackova V.
 Meszarosova E.
 -
 -
+Kraj
+Mojzisova V.
+Svobodova V.
+Karsnakova R.
+Holubova E.
+2
+0
+6
+2
+7
+5
 Kraj
 Gottvaldova A.
 Tvrzska A.
@@ -587,8 +810,8 @@ Brownsburg Challenger Muškarci
 Hamburg Challenger Muškarci
 Istanbul 2 Challenger Muškarci
 Lexington Challenger Muškarci
-Plovdiv 2 Challenger Muškarci
-Prikaži više (26)
+Todi Challenger Muškarci
+Prikaži više (23)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -634,7 +857,7 @@ Premier Liga košarka 2026/27
 Svjetsko Prvenstvo - Žene 2026
 World Series Finals
 MLB
-EuroBasket U20 2026
+EP u odbojci za žene 2026
 NOGOMET UŽIVO
 Kauno Zalgiris - Dinamo Zagreb
 Hajduk Split - Zalgiris
@@ -654,7 +877,7 @@ ML Vitebsk - Borac Banja Luka
 Sloga Meridian - Borac Banja Luka
 Kuba - Curacao
 SAD - Portoriko
-Leeds - Manchester Utd
+Manchester Utd - Leeds
 SAD - Trinidad i Tobago
 Kuba - Gvatemala
 REZULTATI UŽIVO
