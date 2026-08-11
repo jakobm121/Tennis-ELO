@@ -20,6 +20,72 @@ TEČAJEVI
 GOTOVO
 RASPORED
 11/08 UT
+Toronto (Kanada), tvrda podloga
+WTA - SINGL: 
+Ždrijeb
+Kraj
+Shnaider D.
+Swiatek I.
+0
+2
+2
+6
+1
+6
+Kraj
+Alexandrova E.
+Svitolina E.
+1
+2
+6
+3
+0
+6
+3
+6
+Montreal (Kanada), tvrda podloga
+ATP - PAROVI: 
+Ždrijeb
+Prekinuto
+Arribage T.
+Olivetti A.
+Marozsan F.
+Medvedev D.
+1
+0
+7
+7
+6
+4
+0
+0
+0
+15
+Brownsburg (SAD), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Prekinuto
+Blanchet U.
+Sakamoto R.
+1
+0
+7
+7
+6
+3
+2
+2
+0
+0
+Kraj
+Jorda Sanchis D.
+Pinnington Jones J.
+0
+2
+4
+6
+2
+6
 Hamburg (Njemačka), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -34,6 +100,41 @@ CHALLENGER - MUŠKI SINGL: 
 Otkazano
 Roca Batalla O.
 Bondioli F.
+-
+-
+Brownsburg (SAD) - Kvalifikacije, tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Johns G.
+Rottgering M.
+0
+2
+3
+6
+3
+6
+Kraj
+Suresh D.
+Kim A.
+2
+0
+7
+7
+6
+2
+7
+7
+6
+4
+M25 Idanha-a-Nova (Portugal), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Otkazano
+Munk Mesa B.
+Vujic S.
+Izquierdo Luque R.
+Rocha F.
 -
 -
 Reklama
@@ -64,6 +165,7 @@ WTA Parovi Race
 AKTUALNI TURNIRI
 ATP Cincinnati
 ATP Montreal
+WTA Cincinnati
 WTA Toronto
 ATP Montreal
 WTA Toronto
@@ -71,8 +173,7 @@ Astana Challenger Muškarci
 Brownsburg Challenger Muškarci
 Hamburg Challenger Muškarci
 Todi Challenger Muškarci
-Astana Challenger Muškarci
-Prikaži više (47)
+Prikaži više (50)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -137,10 +238,10 @@ Arsenal - Como
 Arsenal - Manchester City
 ML Vitebsk - Borac Banja Luka
 Sloga Meridian - Borac Banja Luka
-Kuba - Curacao
 SAD - Portoriko
 Manchester Utd - Leeds
 SAD - Trinidad i Tobago
+Kuba - Gvatemala
 REZULTATI UŽIVO
 Slovan Bratislava - Mjällby
 Lyon - Sparta Prag
