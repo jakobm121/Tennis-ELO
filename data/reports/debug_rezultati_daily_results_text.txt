@@ -93,6 +93,60 @@ Dhamne M.
 2
 7
 7
+Kraj
+Omarkhanov A.
+Zhukayev B.
+0
+2
+3
+6
+4
+6
+Kraj
+Kumasaka T.
+Sinclair C.
+2
+0
+6
+2
+7
+7
+6
+4
+Kraj
+Rawat S.
+Alkaya M.
+0
+2
+2
+6
+4
+6
+Kraj
+Imamura M.
+Ghibaudo A.
+2
+0
+7
+7
+6
+3
+6
+3
+Kraj
+Shin S.
+Arutiunian E.
+SET
+1
+2
+1
+6
+6
+1
+6
+4
+7
+7
 Brownsburg (SAD), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -139,6 +193,29 @@ Gentzsch T.
 Nedic A.
 -
 -
+Kraj
+Krutykh O.
+Dietrich D.
+0
+2
+3
+6
+6
+4
+7
+7
+Kraj
+(predano)
+Piros Z.
+Schoenhaus M.
+1
+1
+6
+1
+0
+6
+0
+0
 Todi (Italija), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -147,6 +224,29 @@ Roca Batalla O.
 Bondioli F.
 -
 -
+Kraj
+(predano)
+Dalla Valle E.
+Torres J. B.
+0
+1
+6
+2
+7
+7
+0
+4
+Kraj
+Forti F.
+Mecarelli M.
+2
+1
+3
+6
+6
+2
+6
+4
 Brownsburg (SAD) - Kvalifikacije, tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -172,6 +272,88 @@ Kim A.
 7
 6
 4
+M15 Tianjin 2 (Kina), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Haliak M.
+Liu L.
+2
+0
+6
+2
+6
+2
+Kraj
+Kong W.
+Yamanaka T.
+0
+2
+3
+6
+2
+6
+M25 Idanha-a-Nova (Portugal), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Added D.
+Silva J. D.
+2
+0
+6
+3
+6
+4
+Kraj
+Marques G.
+Callejon H. S.
+2
+0
+6
+2
+6
+3
+Kraj
+Shah A.
+Vujic S.
+0
+2
+6
+5
+7
+7
+4
+6
+M25 Koksijde (Belgija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+(predano)
+Basile A.
+Robert N.
+0
+0
+3
+2
+Kraj
+Kaouk M.
+Trainauskas J.
+2
+0
+6
+2
+6
+0
+Kraj
+Schlagenhauf N.
+Tixhon D.
+2
+0
+6
+2
+6
+0
 W15 Astana 5 (Kazahstan), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -184,6 +366,115 @@ Nitture A. D.
 6
 3
 6
+W15 Tianjin 2 (Kina), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+(predano)
+Wang Y.
+Lin Y. J.
+1
+0
+6
+0
+0
+1
+Kraj
+Luo X.
+Yang Y. Y.
+1
+2
+6
+0
+2
+6
+1
+6
+Kraj
+Shao Y.
+Yoshimoto N.
+2
+1
+6
+3
+2
+6
+6
+2
+W35 Aldershot 2 (Ujedinjeno Kraljevstvo), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Abbagnato A.
+Griffiths E.
+0
+2
+4
+6
+1
+6
+Kraj
+Lewis M.
+Xu M.
+0
+2
+1
+6
+2
+6
+W50 Hamburg (Njemačka), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Giza L.
+Kobori M.
+2
+0
+6
+1
+6
+0
+Kraj
+Vedder E.
+Park S.
+0
+2
+4
+6
+0
+6
+W75 Kursumlijska Banja 2 (Srbija), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Kaler N.
+Milutinovic E.
+0
+2
+0
+6
+0
+6
+Kraj
+Vujovic L.
+Huang Yujia
+2
+1
+3
+6
+6
+2
+6
+4
+Kraj
+Lansere S.
+Colic A.
+2
+0
+6
+1
+6
+1
 M25 Idanha-a-Nova (Portugal), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -194,6 +485,65 @@ Izquierdo Luque R.
 Rocha F.
 -
 -
+Pardubicka juniorka (Češka Republika), zemlja
+JUNIORKE - SINGL: 
+Ždrijeb
+Kraj
+Benda V.
+Zajickova K.
+0
+2
+0
+6
+2
+6
+Kraj
+Blazkova K.
+Holubova E.
+2
+0
+6
+3
+6
+0
+Kraj
+Dulikova K.
+Meszarosova E.
+2
+0
+6
+4
+6
+3
+Kraj
+Hettlerova S.
+Halamova K.
+2
+0
+6
+4
+6
+3
+Kraj
+Oliveriusova S.
+Maresova S.
+2
+0
+6
+4
+6
+0
+Kraj
+Zoldakova D.
+Krejcova T.
+1
+2
+6
+4
+2
+6
+2
+6
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -289,7 +639,6 @@ Arsenal - Manchester City
 Schalke - Real Madrid
 Varaždin - Rijeka
 LIVESCORE
-Ambrogi - Ajdukovic
 Hosogi - Boskovic
 Arsenal - Como
 Arsenal - Manchester City
@@ -299,6 +648,7 @@ SAD - Portoriko
 Manchester Utd - Leeds
 SAD - Trinidad i Tobago
 Kuba - Gvatemala
+SAD - Kanada
 REZULTATI UŽIVO
 Slovan Bratislava - Mjällby
 Lyon - Sparta Prag
