@@ -21,6 +21,29 @@ TEČAJEVI
 GOTOVO
 RASPORED
 13/08 ČE
+Cincinnati (SAD), tvrda podloga
+ATP - SINGL: 
+Ždrijeb
+Kraj
+Landaluce M.
+Draper J.
+2
+0
+6
+3
+7
+5
+Kraj
+Norrie C.
+Prižmić D.
+2
+1
+3
+6
+6
+1
+6
+4
 Montreal (Kanada), tvrda podloga
 ATP - SINGL: 
 Ždrijeb
@@ -197,9 +220,35 @@ Wolf J.J.
 3
 5
 7
+Kraj
+Vukic A.
+Lajal M.
+1
+2
+7
+7
+6
+3
+3
+6
+4
+6
 Cincinnati (SAD), tvrda podloga
 WTA - SINGL: 
 Ždrijeb
+Kraj
+Kasatkina D.
+Sonmez Z.
+1
+2
+6
+2
+6
+4
+7
+7
+3
+6
 Kraj
 Rakhimova K.
 Birrell K.
@@ -209,6 +258,66 @@ Birrell K.
 2
 6
 2
+Kraj
+Townsend T.
+Osorio C.
+2
+1
+3
+6
+6
+3
+6
+3
+Kraj
+Vidmanova D.
+Kalinina A.
+1
+2
+6
+4
+4
+6
+2
+6
+Kraj
+Waltert S.
+Marčinko P.
+2
+1
+5
+7
+6
+4
+6
+2
+Kraj
+Krueger A.
+Boisson L.
+0
+2
+3
+6
+2
+6
+Kraj
+Ruzic A.
+Frech M.
+0
+2
+2
+6
+5
+7
+Kraj
+Ruse G.
+Linette M.
+2
+0
+6
+0
+6
+3
 Toronto (Kanada), tvrda podloga
 WTA - SINGL: 
 Ždrijeb
@@ -371,6 +480,26 @@ Blinkova A.
 6
 2
 6
+Kraj
+Vandewinkel H.
+Sramkova R.
+2
+1
+6
+4
+3
+6
+6
+3
+Kraj
+Wang Xiy.
+Kudermetova P.
+2
+0
+6
+3
+6
+2
 Astana (Kazahstan), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -497,6 +626,19 @@ Milavsky D.
 5
 7
 Kraj
+Schoolkate T.
+Cina F.
+2
+1
+3
+6
+6
+4
+7
+7
+6
+4
+Kraj
 Vandecasteele Q.
 Shelbayh A.
 2
@@ -505,17 +647,41 @@ Shelbayh A.
 4
 6
 3
-Prekinuto
-Schwaerzler J. J.
-Andrade A.
+Kraj
+Suresh D.
+Sakamoto R.
 0
-1
+2
+5
+7
 3
 6
+Prekinuto
+Kozlov S.
+Wendelken H.
+1
+1
+6
+2
+4
+6
+0
+1
+0
+0
+Kraj
+Schwaerzler J. J.
+Andrade A.
 1
 2
-0
-0
+3
+6
+7
+7
+6
+5
+5
+7
 Hamburg (Njemačka), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -585,6 +751,15 @@ Ambrogi L. E.
 2
 6
 3
+Kraj
+Roca Batalla O.
+Passaro F.
+0
+2
+4
+6
+1
+6
 Astana (Kazahstan), tvrda podloga
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -709,6 +884,34 @@ Winter Lopez B.
 6
 2
 6
+Kraj
+Forti F.
+Romano F.
+Dellien Velasco M. A.
+Mena F.
+2
+1
+6
+2
+4
+6
+10
+6
+Kraj
+Reymond A.
+Sanchez L.
+Barrena A.
+Kicker N.
+2
+1
+6
+4
+7
+7
+6
+4
+10
+3
 M15 Asuncion (Paragvaj), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -732,6 +935,17 @@ Aguilar Cardozo J.
 6
 1
 6
+Kraj
+Tosetto R.
+Exsted M.
+2
+1
+3
+6
+6
+3
+6
+4
 Kraj
 Villanueva G.
 Aguilar Cardozo F.
@@ -1053,6 +1267,15 @@ Zielinski M.
 6
 4
 6
+Kraj
+Sesko Z.
+Wiedenmann L.
+2
+0
+6
+3
+6
+3
 M15 Turku (Finska), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -1181,6 +1404,19 @@ M25 East Lansing, MI (SAD), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
 Kraj
+Nakashima B.
+Okonkwo A.
+1
+2
+6
+4
+6
+5
+7
+7
+4
+6
+Kraj
 Peck J.
 Nefve A.
 0
@@ -1197,6 +1433,59 @@ Bowers T.
 0
 1
 1
+Kraj
+Zamora N.
+Alvarez Valdes L. C.
+1
+2
+2
+6
+6
+4
+0
+6
+Kraj
+Fancutt T. J.
+Poling K.
+1
+2
+6
+3
+6
+7
+7
+9
+1
+6
+Kraj
+Filin N.
+Mesarovic M.
+2
+0
+6
+2
+6
+3
+Kraj
+Sheldon Ma.
+Nakagawa N.
+2
+0
+6
+4
+6
+4
+Kraj
+Pow L.
+Baris O.
+1
+2
+2
+6
+6
+1
+3
+6
 M25 Idanha-a-Nova (Portugal), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -1315,6 +1604,15 @@ Khoeblal E.
 4
 6
 0
+Kraj
+Robert N.
+Geerts M.
+0
+2
+5
+7
+3
+6
 M25 Kursumlijska Banja 3 (Srbija), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -1475,6 +1773,15 @@ Staeheli L.
 6
 3
 6
+Kraj
+Von der Schulenburg J.
+Bellegy A.
+2
+0
+6
+1
+6
+3
 W15 Astana 5 (Kazahstan), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -1666,6 +1973,51 @@ Lopes M. F.
 0
 6
 4
+Kraj
+Crocker V.
+Bohrer Martins C.
+0
+2
+1
+6
+4
+6
+Kraj
+Laron M.
+Sanchez Uribe M. J.
+2
+0
+6
+4
+6
+2
+Kraj
+Reichel A.
+Fullana L.
+0
+2
+3
+6
+1
+6
+Kraj
+Guerra B.
+Kralus L. I.
+2
+0
+6
+3
+6
+3
+Kraj
+Ccuno R.
+Barros V. L.
+0
+2
+2
+6
+2
+6
 W15 Tianjin 2 (Kina), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -1934,6 +2286,26 @@ Pavlova K.
 6
 3
 6
+Kraj
+Lemaitre T.
+Khomutsianskaya D.
+1
+2
+4
+6
+6
+4
+3
+6
+Kraj
+Van den Broek I. L.
+Jorge M.
+0
+2
+2
+6
+5
+7
 W50 Hamburg (Njemačka), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -2010,6 +2382,17 @@ Zhenikhova S.
 2
 6
 1
+Kraj
+McAdoo R.
+Giza L.
+2
+1
+3
+6
+6
+1
+6
+3
 W75 Kursumlijska Banja 2 (Srbija), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -2094,6 +2477,39 @@ Matoula M.
 7
 6
 0
+M15 Asuncion (Paragvaj), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Frutos Alonso A. A.
+Nunez Vera A. S.
+Torrealba B.
+Villalon N.
+2
+1
+6
+3
+3
+6
+10
+7
+Kraj
+De Dios F.
+Mouilleron Salvo M.
+Martinez T.
+Monferrer E.
+1
+2
+7
+7
+6
+5
+6
+5
+7
+7
+3
+10
 M15 Malmo (Švedska), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -2268,6 +2684,28 @@ Vankan M.
 6
 2
 6
+Kraj
+Oetzbach A.
+Schell N.
+De Lange P.
+Verbeek D.
+2
+0
+6
+2
+6
+4
+Kraj
+Cigarran T.
+Fernandez B.
+Thurner N.
+Zaytsev I.
+2
+0
+6
+4
+6
+4
 M15 Turku (Finska), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -2335,6 +2773,17 @@ McLennaghan W.
 7
 6
 2
+Kraj
+Majchrzak A.
+Solarski J.
+Poritskyi A.
+Zakaria F.
+2
+0
+6
+4
+6
+4
 M25 East Lansing, MI (SAD), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -2360,6 +2809,13 @@ Vithoontien L.
 2
 6
 0
+Walkover
+Poling K.
+Roberts J.
+Alvarez Valdes L. C.
+Magadan A.
+-
+-
 M25 Idanha-a-Nova (Portugal), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -2376,6 +2832,19 @@ Silva T.
 4
 6
 1
+Kraj
+Andaloro F.
+Lorusso L.
+Henning P.
+Lock C.
+0
+2
+6
+5
+7
+7
+2
+6
 Walkover
 Leote Prata V.
 Morais D.
@@ -2383,6 +2852,19 @@ Izquierdo Luque R.
 Rocha F.
 -
 -
+Kraj
+Added D.
+Pereira T.
+Cacao T.
+Lagutin P.
+1
+2
+6
+2
+4
+6
+8
+10
 M25 Koksijde (Belgija), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -2397,6 +2879,19 @@ Muller R.
 7
 4
 6
+Kraj
+Forger A.
+Khoeblal E.
+Jarvis R.
+Johansson O.
+2
+1
+3
+6
+6
+3
+10
+1
 M25 Kursumlijska Banja 3 (Srbija), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -2481,6 +2976,19 @@ Mueller C.
 1
 6
 1
+6
+Kraj
+Glarner R.
+Ulrich N.
+Casanova A.
+Parizzia N.
+0
+2
+6
+3
+7
+7
+4
 6
 W15 Astana 5 (Kazahstan), tvrda podloga
 ITF - ŽENSKI PAROVI: 
@@ -2580,6 +3088,20 @@ Stancescu M. T.
 0
 6
 1
+W15 Campos do Jordao (Brazil), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Bulbarella M.
+Plaza Araujo L.
+Ayala L.
+Sousa Salazar N.
+0
+2
+2
+6
+3
+6
 W15 Tianjin 2 (Kina), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -2688,6 +3210,19 @@ Samir S.
 1
 6
 4
+Kraj
+Kulhava V.
+Leykina P.
+Sucha A.
+Urbanova L.
+0
+2
+3
+6
+6
+3
+7
+7
 W35 Vigo (Španjolska), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -2715,6 +3250,28 @@ Shinikova I.
 6
 10
 6
+Kraj
+Alvarez Sande E.
+Tse E.
+Hatouka Y.
+Kubareva A.
+0
+2
+1
+6
+5
+7
+Kraj
+Kabbaj Y.
+Ren Y.
+Pascual Montalvo I.
+Sharabura K.
+2
+0
+6
+1
+6
+1
 W50 Hamburg (Njemačka), zemlja
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -2728,6 +3285,41 @@ Shimizu A.
 4
 6
 4
+6
+Kraj
+Strakhova V.
+Tikhonova A.
+De Stefano S.
+Pieri J.
+2
+0
+7
+7
+6
+5
+6
+3
+Kraj
+Back D.
+Park S.
+Brockmann T. J.
+Daems J.
+0
+2
+2
+6
+4
+6
+Kraj
+Wagner A.
+Zolotareva A.
+Bayerlova M.
+Gimbrere J.
+0
+2
+5
+7
+3
 6
 W75 Kursumlijska Banja 2 (Srbija), zemlja
 ITF - ŽENSKI PAROVI: 
@@ -2758,6 +3350,24 @@ Svatikova L.
 6
 10
 7
+Kraj
+Milovanovic E.
+Novak K.
+Lansere S.
+Zaytseva K.
+2
+0
+6
+4
+6
+4
+Walkover
+Zaar L.
+Zavatska K.
+Dencheva R.
+Panshina V.
+-
+-
 Pardubicka juniorka (Češka Republika), zemlja
 JUNIORI - SINGL: 
 Ždrijeb
@@ -2863,6 +3473,11 @@ Lesoto Ž
 3
 0
 Kraj
+DR Kongo Ž
+Zambija Ž
+2
+1
+Kraj
 Mozambik Ž
 Obala Bjelokosti Ž
 0
@@ -2936,7 +3551,7 @@ Prikaži više
 Tenis livescore na Rezultatima nudi teniske rezultate uživo za preko 5000 teniskih turnira diljem svijeta, uključujući Australian Open, French Open, Wimbledon, US Open i mnoge druge. Pratite najnovije rezultate iz tenisa na Rezultatima, gdje možete pronaći detaljnu statistiku (asevi, dvostruke pogreške, postotak servisa, osvojeni servisi, spašene break lopte, neprisiljene pogreške, itd.), usporedbu koeficijenata, međuosboni omjer, vijesti, video sažetke ili tijek meča poen po poen. Pronađite sve današnje rezultate i vijesti iz tenisa na Rezultatima, uključujući ATP rezultate, WTA rezultate, ATP poredak, ATP kalendar 2026, WTA kalendar 2026, ili profile igrača (npr. Jannik Sinner, Carlos Alcaraz, Novak Đoković, Donna Vekić). Usluga tenis livescore se automatski ažurira, tako da nema potrebe da osvježavate stranicu.
 
 ATP Cincinnati 2026 rezultati uživo na Rezultati.com stranici! ATP Cincinnati uživo, uz rezultate i ždrijeb.
-13.08. Vukic A. - Lajal M., Norrie C. - Prižmić D., Rocha H. - Mejia N., Ugo Carabelli C. - Kecmanovic M., Burruchaga R. A. - Struff J-L., Shapovalov D. - Mannarino A., Tirante T. A. - Choinski J., Fucsovics M. - Atmane T., Navone M. - Collignon R., 14.08. Hijikata R. - Monfils G., Svajda Z. - Bellucci M., Borges N. - Kokkinakis T., Machac T. - Carreno-Busta P., Moutet C. - Hurkacz H., Michelsen A. - De Jong J., Kovacevic A. - Khachanov K., Baez S. - Dimitrov G., Merida Aguilar D. - Čilić M., Royer V. - Tsitsipas S., Shang J. - Sonego L.
+13.08. Shapovalov D. - Mannarino A., Ugo Carabelli C. - Kecmanovic M., Navone M. - Collignon R., Fucsovics M. - Atmane T., 14.08. Hijikata R. - Monfils G., Svajda Z. - Bellucci M., Borges N. - Kokkinakis T., Machac T. - Carreno-Busta P., Moutet C. - Hurkacz H., Van De Zandschulp B. - Griekspoor T., Michelsen A. - De Jong J., Kovacevic A. - Khachanov K., Baez S. - Dimitrov G., Merida Aguilar D. - Čilić M., Royer V. - Tsitsipas S., Shang J. - Sonego L., 15.08. Landaluce M. - Arnaldi M.
 WTA Cincinnati 2026 rezultati uživo na Rezultati.com stranici! WTA Cincinnati uživo, uz rezultate i ždrijeb.
 
 NOGOMET
@@ -2967,33 +3582,33 @@ Dinamo Zagreb - Rudeš
 Gorica - Hajduk Split
 Dinamo Zagreb - Viking
 Dinamo Zagreb - Varaždin
-Ilves - Rijeka
 Inter - Betis
 Arsenal - Manchester City
 Schalke - Real Madrid
 Varaždin - Rijeka
+Inter - Monza
 LIVESCORE
 Merida Aguilar - Čilić
 Arsenal - Manchester City
 Hrvatska Ž - Italija Ž
 Arsenal - Coventry
 Francuska Ž - Hrvatska Ž
-ML Vitebsk - Borac Banja Luka
-Crna Gora Ž - Portugal Ž
 Sloga Meridian - Borac Banja Luka
 Austrija Ž - Srbija Ž
 Švedska Ž - Crna Gora Ž
+Italija Ž - Crna Gora Ž
+Borac Banja Luka - Čelik Zenica
 REZULTATI UŽIVO
 Hrvatska - Turska
 Turska Ž - Portugal Ž
 Njemačka - Češka
-Shelbourne - Ajax
 Sparta Prag - Teplice
 Slovan Bratislava - Ruzomberok
 Utrecht - AZ Alkmaar
 Excelsior - PSV
 Feyenoord - G.A. Eagles
 Ajax - Heerenveen
+Liberec - Slavia Prag
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
