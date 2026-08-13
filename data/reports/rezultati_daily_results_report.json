@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-13T12:44:41.470720+02:00",
+  "generated_at": "2026-08-13T16:07:44.577425+02:00",
   "source_url": "https://www.rezultati.com/tenis/",
   "counts": {
-    "archive_before": 20754,
-    "daily_scorelines": 83,
-    "archive_after": 20814,
-    "added": 60
+    "archive_before": 20814,
+    "daily_scorelines": 136,
+    "archive_after": 20867,
+    "added": 53
   },
   "metadata_counts": {
-    "with_surface": 20782,
+    "with_surface": 20835,
     "with_gender": 11223,
-    "with_tour_level": 20782,
+    "with_tour_level": 20835,
     "grand_slam": 2504,
     "best_of_5": 1161
   },
