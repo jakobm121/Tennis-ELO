@@ -129,6 +129,26 @@ Imamura M.
 2
 6
 1
+Kraj
+Sun F.
+Matsuoka H.
+0
+2
+5
+7
+5
+7
+Kraj
+Sultanov K.
+Alkaya M.
+2
+0
+7
+7
+6
+5
+6
+3
 Brownsburg (SAD), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -231,6 +251,89 @@ Paris J.
 6
 4
 6
+Hamburg (Njemačka), zemlja
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Kalender A.
+Serdarusic N.
+Martos Gornes S.
+Walkow S.
+2
+0
+6
+3
+6
+2
+M15 Malmo (Švedska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Bertimon M.
+Ehrenschneider N.
+0
+2
+2
+6
+4
+6
+Kraj
+Bozemoj B.
+Hallquist Lithen J.
+0
+2
+4
+6
+3
+6
+Kraj
+Friberg K.
+Ryden V.
+2
+0
+6
+2
+6
+1
+M15 Targu Jiu (Rumunjska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Madaras N.
+Paolini A.
+2
+0
+6
+1
+6
+3
+Kraj
+Pieleanu R. T.
+Geladaris O.
+2
+0
+6
+1
+6
+1
+Kraj
+Tenti F.
+Breazu V. C.
+0
+2
+1
+6
+2
+6
+Kraj
+Ghetu G.
+Miletich I.
+2
+0
+6
+1
+6
+2
 M15 Tianjin 2 (Kina), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -261,9 +364,131 @@ Chung Y.
 6
 1
 6
+Kraj
+Dellavedova M.
+Hazawa S.
+2
+1
+6
+4
+1
+6
+7
+7
+6
+3
+M15 Warsaw (Poljska), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+(predano)
+Reisach V.
+Fomba L.
+1
+0
+6
+2
+3
+1
+M25 Idanha-a-Nova (Portugal), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Lagutin P.
+Henning P.
+0
+2
+1
+6
+2
+6
+M25 Kursumlijska Banja 3 (Srbija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Cuenin S.
+Obradovic D.
+2
+0
+6
+1
+6
+4
+Kraj
+Haita S. H.
+Radjenovic V.
+2
+0
+6
+3
+6
+3
+Kraj
+Sharipov M.
+Vasilev A.
+2
+0
+6
+1
+6
+1
+M25 Muttenz (Švicarska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Hipfl N.
+Staeheli L.
+0
+2
+3
+6
+6
+2
+7
+7
+Kraj
+Wessels L.
+Wehnelt K.
+2
+1
+4
+6
+6
+3
+6
+1
 W15 Astana 5 (Kazahstan), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
+Kraj
+Arifullina A.
+Kurt I.
+0
+2
+5
+7
+2
+6
+Kraj
+Arystanbekova A.
+Pushkareva A.
+2
+0
+6
+4
+7
+7
+6
+4
+Kraj
+Desai Z.
+Arakawa H.
+0
+2
+3
+6
+3
+6
 Walkover
 Jang S. J.
 Lee H. E.
@@ -273,6 +498,19 @@ W15 Bucharest 3 (Rumunjska), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
 Kraj
+Lombardini M.
+Todoni C. N.
+1
+2
+6
+2
+7
+7
+6
+2
+3
+6
+Kraj
 Popa M. S.
 Raggi A.
 2
@@ -281,6 +519,15 @@ Raggi A.
 1
 6
 1
+Kraj
+Simion O.
+Wobker I.
+0
+2
+5
+7
+4
+6
 W15 Tianjin 2 (Kina), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -310,6 +557,144 @@ Shao Y.
 5
 7
 0
+6
+Kraj
+Yuan C.
+Lin Y. J.
+2
+0
+7
+7
+6
+4
+7
+7
+6
+5
+W35 Bydgoszcz (Poljska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Jakupovic D.
+Steur J. L. S.
+2
+0
+7
+5
+6
+3
+Kraj
+(predano)
+Kotliar Y.
+Sucha A.
+0
+0
+5
+2
+W75 Kursumlijska Banja 2 (Srbija), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Dencheva R.
+Zavatska K.
+2
+0
+6
+2
+6
+0
+Kraj
+Vujovic L.
+Astakhova D.
+2
+0
+6
+3
+6
+0
+M15 Targu Jiu (Rumunjska), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Bilardo J.
+Dumitru A. C.
+Ferrari F.
+Valle F.
+1
+2
+6
+4
+1
+6
+6
+10
+M15 Tianjin 2 (Kina), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Meng F.
+Zhang T.
+Chung Y.
+Hsieh C.
+0
+2
+4
+6
+1
+6
+Kraj
+Jasika O.
+Lee D. H.
+Jones A.
+Jones M.
+2
+0
+6
+4
+6
+3
+W15 Tianjin 2 (Kina), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Hou Y.
+Plipuech P.
+Han J.
+Uchijima M.
+2
+1
+5
+7
+7
+7
+6
+3
+10
+7
+Kraj
+Yodpetch K.
+Zhang R.
+Naklo T.
+Wang M.
+2
+1
+5
+7
+6
+2
+10
+5
+Pardubicka juniorka (Češka Republika), zemlja
+JUNIORKE - SINGL: 
+Ždrijeb
+Kraj
+Krejcova T.
+Zajickova K.
+0
+2
+2
+6
+2
 6
 Reklama
 PRIKVAČENE LIGE
@@ -419,9 +804,9 @@ Hrvatska Ž - Italija Ž
 Arsenal - Coventry
 Francuska Ž - Hrvatska Ž
 Srbija Ž - Češka Ž
+Crna Gora Ž - Portugal Ž
 Sloga Meridian - Borac Banja Luka
 Vikingur Reykjavik - Borac Banja Luka
-Austrija Ž - Srbija Ž
 REZULTATI UŽIVO
 Hrvatska - Turska
 Turska Ž - Portugal Ž
@@ -452,7 +837,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Gambling Problem? Call 1-800-BETS OFF 21+
+Igrajte odgovorno. Gambling Therapy. 18+
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
