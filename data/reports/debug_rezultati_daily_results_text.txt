@@ -94,6 +94,17 @@ Sultanov K.
 3
 6
 4
+Kraj
+Dougaz A.
+Fomin S.
+2
+1
+4
+6
+6
+1
+7
+5
 Brownsburg (SAD), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -121,6 +132,24 @@ Pinnington Jones J.
 2
 7
 7
+Astana (Kazahstan), tvrda podloga
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Bar Biryukov P.
+Lomakin G.
+Ichikawa T.
+Imamura M.
+1
+2
+6
+3
+6
+4
+7
+7
+5
+10
 Brownsburg (SAD), tvrda podloga
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -171,6 +200,43 @@ Kaliyanda Poonacha N.
 6
 4
 6
+Hamburg (Njemačka), zemlja
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Kalender A.
+Serdarusic N.
+McDonald N.
+Opitz J.
+2
+0
+6
+3
+6
+4
+M15 Malmo (Švedska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Friberg K.
+Slavic N.
+2
+0
+6
+2
+6
+2
+Kraj
+Hallquist Lithen J.
+Ehrenschneider N.
+2
+0
+6
+2
+7
+7
+6
+3
 M15 Targu Jiu (Rumunjska), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -218,6 +284,96 @@ Ogura K.
 7
 4
 6
+M15 Trier (Njemačka), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Agwi M.
+Gavrielides L.
+2
+0
+6
+1
+6
+4
+M15 Turku (Finska), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Vales A.
+Paldanius O.
+1
+2
+6
+3
+5
+7
+4
+6
+M15 Warsaw (Poljska), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Reisach V.
+Zakaria F.
+2
+1
+5
+7
+6
+3
+7
+7
+6
+5
+M25 Idanha-a-Nova (Portugal), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+McCormick T.
+Henning P.
+0
+2
+4
+6
+6
+0
+7
+7
+Kraj
+Added D.
+Marques G.
+2
+0
+7
+7
+6
+4
+6
+3
+M25 Kursumlijska Banja 3 (Srbija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Chepelev A.
+Haita S. H.
+1
+2
+4
+6
+6
+4
+4
+6
+Kraj
+Cuenin S.
+Sharipov M.
+2
+0
+6
+4
+6
+2
 W15 Astana 5 (Kazahstan), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -251,6 +407,15 @@ Wobker I.
 6
 5
 7
+Kraj
+Popa M. S.
+Simionescu D.
+2
+0
+6
+3
+7
+5
 W15 Tianjin 2 (Kina), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -276,6 +441,48 @@ Shao Y.
 9
 6
 7
+W35 Aldershot 2 (Ujedinjeno Kraljevstvo), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Bandecchi S.
+Smith A.
+2
+0
+7
+5
+6
+0
+W35 Bydgoszcz (Poljska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Kotliar Y.
+Taraba Wallberg N.
+2
+1
+2
+6
+6
+1
+6
+4
+W35 Vigo (Španjolska), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Jorge M.
+Zhiyenbayeva S.
+1
+2
+7
+10
+6
+8
+4
+6
+2
+6
 W50 Hamburg (Njemačka), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -286,6 +493,15 @@ Siskova A.
 2
 0
 6
+3
+6
+Kraj
+Vladson L.
+McAdoo R.
+0
+2
+5
+7
 3
 6
 W75 Kursumlijska Banja 2 (Srbija), zemlja
@@ -302,6 +518,49 @@ Vujovic L.
 7
 6
 4
+Kraj
+Ristic M.
+Paoletti M.
+2
+1
+5
+7
+7
+5
+6
+4
+M15 Malmo (Švedska), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Friberg K.
+Rejchtman Vinciguerra W.
+Ahren Moonga E.
+Mridha J.
+2
+0
+6
+0
+6
+2
+M15 Targu Jiu (Rumunjska), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Ferrari F.
+Valle F.
+Monzon I.
+Tenti F.
+2
+1
+7
+7
+6
+5
+3
+6
+10
+3
 M15 Tianjin 2 (Kina), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -316,6 +575,20 @@ Lee D. H.
 4
 6
 4
+M25 Idanha-a-Nova (Portugal), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Barroso Campos A.
+Scaglia M.
+Henning P.
+Lock C.
+0
+2
+3
+6
+2
+6
 M25 Kursumlijska Banja 3 (Srbija), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -332,6 +605,54 @@ Popovic S.
 7
 1
 6
+M25 Muttenz (Švicarska), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Casanova A.
+Parizzia N.
+Hipfl N.
+Mueller C.
+2
+1
+6
+4
+6
+2
+7
+7
+10
+6
+W15 Astana 5 (Kazahstan), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Kim Eunchae
+Lee H. E.
+Tkacheva M.
+Zelinskaya D.
+2
+0
+6
+1
+6
+4
+W15 Bucharest 3 (Rumunjska), zemlja
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Breaz A.
+Todoni C. N.
+Babel O.
+Sacco F.
+2
+0
+7
+7
+6
+5
+6
+4
 W15 Tianjin 2 (Kina), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -364,6 +685,20 @@ Turini V.
 8
 10
 8
+W50 Hamburg (Njemačka), zemlja
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Strakhova V.
+Tikhonova A.
+Kobori M.
+Shimizu A.
+0
+2
+4
+6
+2
+6
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -400,7 +735,7 @@ Hamburg Challenger Muškarci
 Todi Challenger Muškarci
 Astana Challenger Muškarci
 Brownsburg Challenger Muškarci
-Prikaži više (47)
+Prikaži više (45)
 KATEGORIJE
 ATP - singl
 WTA - singl
