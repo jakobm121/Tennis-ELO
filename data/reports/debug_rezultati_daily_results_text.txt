@@ -57,6 +57,26 @@ Khachanov K.
 7
 6
 2
+Kraj
+Blockx A.
+Navone M.
+2
+0
+6
+3
+6
+4
+Kraj
+Kecmanovic M.
+Cobolli F.
+1
+2
+1
+6
+6
+4
+3
+6
 Cincinnati (SAD), tvrda podloga
 WTA - SINGL: 
 Ždrijeb
@@ -80,6 +100,45 @@ Lys E.
 3
 6
 3
+Kraj
+Bucsa C.
+Chwalinska M.
+0
+2
+2
+6
+2
+6
+Kraj
+(predano)
+Eala A.
+Ruse G.
+1
+0
+6
+1
+3
+0
+Kraj
+Sonmez Z.
+Anisimova A.
+0
+2
+2
+6
+3
+6
+Kraj
+Zhang S.
+Day K.
+2
+1
+2
+6
+6
+2
+6
+2
 Astana (Kazahstan), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -146,6 +205,27 @@ Kumstat J.
 5
 2
 6
+Kraj
+Dodig M.
+Moeller M.
+0
+2
+2
+6
+4
+6
+Todi (Italija), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Mrva M.
+Barrena A.
+2
+0
+6
+3
+6
+2
 Astana (Kazahstan), tvrda podloga
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -372,6 +452,31 @@ De Jonge D.
 3
 6
 2
+M25 East Lansing, MI (SAD), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Alvarez Valdes L. C.
+Sheldon Ma.
+2
+0
+6
+1
+6
+2
+Kraj
+Filin N.
+Poling K.
+1
+2
+4
+6
+6
+4
+6
+4
+7
+7
 M25 Idanha-a-Nova (Portugal), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -409,6 +514,17 @@ Perot R.
 6
 4
 6
+Kraj
+Verwerft L. G.
+Geerts M.
+2
+1
+2
+6
+6
+2
+6
+4
 M25 Kursumlijska Banja 3 (Srbija), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -446,6 +562,19 @@ Wessels L.
 6
 4
 6
+Kraj
+Staeheli L.
+Von der Schulenburg J.
+2
+1
+6
+2
+7
+7
+6
+3
+6
+2
 W15 Astana 5 (Kazahstan), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -488,6 +617,18 @@ Simionescu D.
 3
 7
 5
+W15 Campos do Jordao (Brazil), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Mi L.
+Souza M.
+2
+0
+6
+0
+6
+4
 W15 Tianjin 2 (Kina), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -665,6 +806,38 @@ Lee D. H.
 4
 6
 4
+M15 Trier (Njemačka), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Oetzbach A.
+Schell N.
+Sperle J.
+Vankan M.
+1
+2
+3
+6
+7
+7
+6
+2
+4
+10
+M15 Warsaw (Poljska), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Allen A.
+Terblanche E.
+Chlodnicki J.
+Reisach V.
+0
+2
+4
+6
+2
+6
 M25 Idanha-a-Nova (Portugal), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -775,6 +948,20 @@ Turini V.
 8
 10
 8
+W35 Vigo (Španjolska), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Yashina E.
+Zhiyenbayeva S.
+Gomez O'Hayon V.
+Rus A.
+0
+2
+3
+6
+4
+6
 W50 Hamburg (Njemačka), zemlja
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -803,6 +990,60 @@ Li Z.
 4
 7
 5
+Davis Cup - Group III (Svijet)
+TIMOVI - MUŠKARCI: 
+Tablica
+Kraj
+Namibija
+Benin
+3
+0
+Kraj
+Obala Bjelokosti
+Burundi
+0
+3
+Kraj
+Togo
+Senegal
+1
+2
+Billie Jean King Cup - Group IV (Svijet) - Promotion
+TIMOVI - ŽENE: 
+Ždrijeb
+Kraj
+Obala Bjelokosti Ž
+Benin Ž
+1
+2
+Kraj
+Togo Ž
+DR Kongo Ž
+2
+0
+Billie Jean King Cup - Group IV (Svijet) - Placement matches
+TIMOVI - ŽENE: 
+Ždrijeb
+Kraj
+Kongo Ž
+Zambija Ž
+0
+2
+Kraj
+Mozambik Ž
+Lesoto Ž
+1
+2
+Kraj
+Ruanda Ž
+Etiopija Ž
+0
+2
+Kraj
+Sejšeli Ž
+Tanzanija Ž
+0
+2
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -836,10 +1077,10 @@ WTA Cincinnati
 Astana Challenger Muškarci
 Brownsburg Challenger Muškarci
 Hamburg Challenger Muškarci
+Prague Challenger Muškarci
+Sion Challenger Muškarci
 Todi Challenger Muškarci
-Astana Challenger Muškarci
-Brownsburg Challenger Muškarci
-Prikaži više (44)
+Prikaži više (45)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -867,7 +1108,7 @@ Prikaži više
 Tenis livescore na Rezultatima nudi teniske rezultate uživo za preko 5000 teniskih turnira diljem svijeta, uključujući Australian Open, French Open, Wimbledon, US Open i mnoge druge. Pratite najnovije rezultate iz tenisa na Rezultatima, gdje možete pronaći detaljnu statistiku (asevi, dvostruke pogreške, postotak servisa, osvojeni servisi, spašene break lopte, neprisiljene pogreške, itd.), usporedbu koeficijenata, međuosboni omjer, vijesti, video sažetke ili tijek meča poen po poen. Pronađite sve današnje rezultate i vijesti iz tenisa na Rezultatima, uključujući ATP rezultate, WTA rezultate, ATP poredak, ATP kalendar 2026, WTA kalendar 2026, ili profile igrača (npr. Jannik Sinner, Carlos Alcaraz, Novak Đoković, Donna Vekić). Usluga tenis livescore se automatski ažurira, tako da nema potrebe da osvježavate stranicu.
 
 ATP Cincinnati 2026 rezultati uživo na Rezultati.com stranici! ATP Cincinnati uživo, uz rezultate i ždrijeb.
-15.08. Đoković N. - Tirante T. A., Bellucci M. - Mensik J., Vallejo D. - Vacherot V., Darderi L. - Hijikata R., Paul T. - Hurkacz H., Halys Q. - De Minaur A., Fery A. - Duckworth J., Struff J-L. - Tabilo A., Hanfmann Y. - Fils A., Lehecka J. - Berrettini M., Atmane T. - Etcheverry T. M., 16.08. Jodar R. - Shapovalov D., Zverev A. - Norrie C., Altmaier D. - Musetti L., Fritz T. - Michelsen A., Fonseca J. - Van De Zandschulp B., Borges N. - Cerundolo F., Humbert U. - Zheng M., Merida Aguilar D. - Bergs Z., Nakashima B. - Kovacevic A.
+15.08. Struff J-L. - Tabilo A., Halys Q. - De Minaur A., Paul T. - Hurkacz H., Fery A. - Duckworth J., Darderi L. - Hijikata R., Atmane T. - Etcheverry T. M., Lehecka J. - Berrettini M., 16.08. Hanfmann Y. - Fils A., Jodar R. - Shapovalov D., Zverev A. - Norrie C., Altmaier D. - Musetti L., Rublev A. - Carreno-Busta P., Fritz T. - Michelsen A., Rinderknech A. - Cerundolo J. M., O'Connell C. - Ruud C., Fonseca J. - Van De Zandschulp B., Borges N. - Cerundolo F., Humbert U. - Zheng M., Merida Aguilar D. - Bergs Z., Nakashima B. - Kovacevic A.
 WTA Cincinnati 2026 rezultati uživo na Rezultati.com stranici! WTA Cincinnati uživo, uz rezultate i ždrijeb.
 
 NOGOMET
@@ -898,33 +1139,33 @@ Dinamo Zagreb - Viking
 Hajduk Split - Rakow
 Dinamo Zagreb - Varaždin
 Hajduk Split - Osijek
-Inter - Betis
 Arsenal - Manchester City
 Schalke - Real Madrid
 Varaždin - Rijeka
 Midtjylland - Rijeka
+Inter - Monza
 LIVESCORE
-Đoković - Tirante
 Arsenal - Manchester City
 Wang - Vekić
 Hrvatska Ž - Italija Ž
 Arsenal - Coventry
 Francuska Ž - Hrvatska Ž
 Hrvatska Ž - Slovačka Ž
+Švedska Ž - Hrvatska Ž
 Sloga Meridian - Borac Banja Luka
 Vikingur Reykjavik - Borac Banja Luka
 Austrija Ž - Srbija Ž
 REZULTATI UŽIVO
 Hrvatska - Turska
-Turska Ž - Portugal Ž
-Njemačka Ž - Španjolska Ž
 Belgija Ž - Italija Ž
 Njemačka - Češka
-Slovan Bratislava - Ruzomberok
-Utrecht - AZ Alkmaar
-Excelsior - PSV
 Feyenoord - G.A. Eagles
 Ajax - Heerenveen
+Liberec - Slavia Prag
+Nitra-Chrenova - Slovan Bratislava
+Slovan Bratislava - Celje
+Sion - Ajax
+Fortuna Sittard - AZ Alkmaar
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
@@ -944,7 +1185,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Gambling Problem? Call 1-800-BETS OFF 21+
+Must be 21+. If you or someone you know has a gambling problem, crisis counselling and referral services can be accessed by calling 1-800-GAMBLER (1-800-426-2537) or by texting ILGAMB to 833234. The 1-800-GAMBLER helpline can be used for multi-jurisdictional advertising.
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
