@@ -80,6 +80,20 @@ Lys E.
 3
 6
 3
+Astana (Kazahstan), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Matsuoka H.
+Sultanov K.
+2
+1
+3
+6
+6
+3
+6
+4
 Brownsburg (SAD), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -157,6 +171,28 @@ Kaliyanda Poonacha N.
 6
 4
 6
+M15 Targu Jiu (Rumunjska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Ghetu G.
+Breazu V. C.
+0
+2
+2
+6
+3
+6
+Kraj
+(predano)
+Madaras N.
+Pieleanu R. T.
+0
+1
+5
+7
+1
+2
 M15 Tianjin 2 (Kina), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -182,6 +218,39 @@ Ogura K.
 7
 4
 6
+W15 Astana 5 (Kazahstan), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Arakawa H.
+Lee H. E.
+2
+0
+6
+4
+6
+1
+Kraj
+Kurt I.
+Arystanbekova A.
+0
+2
+3
+6
+2
+6
+W15 Bucharest 3 (Rumunjska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Todoni C. N.
+Wobker I.
+0
+2
+4
+6
+5
+7
 W15 Tianjin 2 (Kina), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -207,6 +276,94 @@ Shao Y.
 9
 6
 7
+W50 Hamburg (Njemačka), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Roura Llaverias R.
+Siskova A.
+0
+2
+0
+6
+3
+6
+W75 Kursumlijska Banja 2 (Srbija), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Dencheva R.
+Vujovic L.
+2
+0
+7
+9
+6
+7
+6
+4
+M15 Tianjin 2 (Kina), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Chung Y.
+Hsieh C.
+Jasika O.
+Lee D. H.
+2
+0
+6
+4
+6
+4
+M25 Kursumlijska Banja 3 (Srbija), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Jankanj V.
+Radjenovic V.
+Juhas K.
+Popovic S.
+0
+2
+6
+5
+7
+7
+1
+6
+W15 Tianjin 2 (Kina), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Hou Y.
+Plipuech P.
+Yodpetch K.
+Zhang R.
+2
+0
+6
+4
+6
+2
+W35 Bydgoszcz (Poljska), zemlja
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Nagy A.
+Steur J. L. S.
+Maduzzi G.
+Turini V.
+2
+1
+6
+1
+6
+6
+7
+8
+10
+8
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -243,7 +400,7 @@ Hamburg Challenger Muškarci
 Todi Challenger Muškarci
 Astana Challenger Muškarci
 Brownsburg Challenger Muškarci
-Prikaži više (48)
+Prikaži više (47)
 KATEGORIJE
 ATP - singl
 WTA - singl
