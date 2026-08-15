@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-15T06:14:22.474202+02:00",
+  "generated_at": "2026-08-15T09:16:24.586015+02:00",
   "source_url": "https://www.rezultati.com/tenis/",
   "counts": {
-    "daily_scorelines": 6
+    "daily_scorelines": 10
   },
   "matches": [
     {
@@ -350,6 +350,230 @@
       "deciding_set": true,
       "had_tiebreak": true,
       "tiebreak_count": 1
+    },
+    {
+      "match_id": "",
+      "match_url": "",
+      "source": "rezultati_daily_results_text_fallback",
+      "date": "2026-08-15",
+      "player_1": "Chung Y.",
+      "player_2": "Jasika O.",
+      "match": "Chung Y. - Jasika O.",
+      "winner": "Jasika O.",
+      "loser": "Chung Y.",
+      "sets_1": 0,
+      "sets_2": 2,
+      "final_score": "0-2",
+      "set_scores": [
+        {
+          "set_number": 1,
+          "p1_games": 2,
+          "p2_games": 6,
+          "tiebreak": false
+        },
+        {
+          "set_number": 2,
+          "p1_games": 2,
+          "p2_games": 6,
+          "tiebreak": false
+        }
+      ],
+      "completed": true,
+      "retired": false,
+      "walkover": false,
+      "raw_parent_text": "Kraj\nChung Y.\nJasika O.\n0\n2\n2\n6\n2\n6",
+      "raw_header_text": "M15 Tianjin 2 (Kina), tvrda podloga\nITF - MUŠKI SINGL:",
+      "tournament": "M15 Tianjin 2 (Kina), tvrda podloga",
+      "tour_level": "itf",
+      "gender": "",
+      "surface": "hard",
+      "indoor": null,
+      "best_of": 3,
+      "is_grand_slam": false,
+      "first_set_score": "2-6",
+      "first_set_games": 8,
+      "first_set_tiebreak": false,
+      "total_games": 16,
+      "p1_total_games_won": 4,
+      "p2_total_games_won": 12,
+      "game_margin_p1": -8,
+      "total_sets": 2,
+      "straight_sets": true,
+      "deciding_set": false,
+      "had_tiebreak": false,
+      "tiebreak_count": 0
+    },
+    {
+      "match_id": "",
+      "match_url": "",
+      "source": "rezultati_daily_results_text_fallback",
+      "date": "2026-08-15",
+      "player_1": "Dellavedova M.",
+      "player_2": "Ogura K.",
+      "match": "Dellavedova M. - Ogura K.",
+      "winner": "Ogura K.",
+      "loser": "Dellavedova M.",
+      "sets_1": 1,
+      "sets_2": 2,
+      "final_score": "1-2",
+      "set_scores": [
+        {
+          "set_number": 1,
+          "p1_games": 6,
+          "p2_games": 3,
+          "tiebreak": false
+        },
+        {
+          "set_number": 2,
+          "p1_games": 6,
+          "p2_games": 7,
+          "tiebreak": true,
+          "tiebreak_p1": 4,
+          "tiebreak_p2": 7
+        },
+        {
+          "set_number": 3,
+          "p1_games": 4,
+          "p2_games": 6,
+          "tiebreak": false
+        }
+      ],
+      "completed": true,
+      "retired": false,
+      "walkover": false,
+      "raw_parent_text": "Kraj\nDellavedova M.\nOgura K.\n1\n2\n6\n3\n6\n4\n7\n7\n4\n6",
+      "raw_header_text": "M15 Tianjin 2 (Kina), tvrda podloga\nITF - MUŠKI SINGL:",
+      "tournament": "M15 Tianjin 2 (Kina), tvrda podloga",
+      "tour_level": "itf",
+      "gender": "",
+      "surface": "hard",
+      "indoor": null,
+      "best_of": 3,
+      "is_grand_slam": false,
+      "first_set_score": "6-3",
+      "first_set_games": 9,
+      "first_set_tiebreak": false,
+      "total_games": 32,
+      "p1_total_games_won": 16,
+      "p2_total_games_won": 16,
+      "game_margin_p1": 0,
+      "total_sets": 3,
+      "straight_sets": false,
+      "deciding_set": true,
+      "had_tiebreak": true,
+      "tiebreak_count": 1
+    },
+    {
+      "match_id": "",
+      "match_url": "",
+      "source": "rezultati_daily_results_text_fallback",
+      "date": "2026-08-15",
+      "player_1": "Leong S. L. X.",
+      "player_2": "Naklo T.",
+      "match": "Leong S. L. X. - Naklo T.",
+      "winner": "Naklo T.",
+      "loser": "Leong S. L. X.",
+      "sets_1": 0,
+      "sets_2": 2,
+      "final_score": "0-2",
+      "set_scores": [
+        {
+          "set_number": 1,
+          "p1_games": 5,
+          "p2_games": 7,
+          "tiebreak": false
+        },
+        {
+          "set_number": 2,
+          "p1_games": 2,
+          "p2_games": 6,
+          "tiebreak": false
+        }
+      ],
+      "completed": true,
+      "retired": false,
+      "walkover": false,
+      "raw_parent_text": "Kraj\nLeong S. L. X.\nNaklo T.\n0\n2\n5\n7\n2\n6",
+      "raw_header_text": "W15 Tianjin 2 (Kina), tvrda podloga\nITF - ŽENSKI SINGL:",
+      "tournament": "W15 Tianjin 2 (Kina), tvrda podloga",
+      "tour_level": "itf",
+      "gender": "",
+      "surface": "hard",
+      "indoor": null,
+      "best_of": 3,
+      "is_grand_slam": false,
+      "first_set_score": "5-7",
+      "first_set_games": 12,
+      "first_set_tiebreak": false,
+      "total_games": 20,
+      "p1_total_games_won": 7,
+      "p2_total_games_won": 13,
+      "game_margin_p1": -6,
+      "total_sets": 2,
+      "straight_sets": true,
+      "deciding_set": false,
+      "had_tiebreak": false,
+      "tiebreak_count": 0
+    },
+    {
+      "match_id": "",
+      "match_url": "",
+      "source": "rezultati_daily_results_text_fallback",
+      "date": "2026-08-15",
+      "player_1": "Yuan C.",
+      "player_2": "Shao Y.",
+      "match": "Yuan C. - Shao Y.",
+      "winner": "Yuan C.",
+      "loser": "Shao Y.",
+      "sets_1": 2,
+      "sets_2": 1,
+      "final_score": "2-1",
+      "set_scores": [
+        {
+          "set_number": 1,
+          "p1_games": 3,
+          "p2_games": 6,
+          "tiebreak": false
+        },
+        {
+          "set_number": 2,
+          "p1_games": 6,
+          "p2_games": 7,
+          "tiebreak": true,
+          "tiebreak_p1": 3,
+          "tiebreak_p2": 9
+        },
+        {
+          "set_number": 3,
+          "p1_games": 6,
+          "p2_games": 7,
+          "tiebreak": true
+        }
+      ],
+      "completed": true,
+      "retired": false,
+      "walkover": false,
+      "raw_parent_text": "Kraj\nYuan C.\nShao Y.\n2\n1\n3\n6\n6\n3\n7\n9\n6\n7",
+      "raw_header_text": "W15 Tianjin 2 (Kina), tvrda podloga\nITF - ŽENSKI SINGL:",
+      "tournament": "W15 Tianjin 2 (Kina), tvrda podloga",
+      "tour_level": "itf",
+      "gender": "",
+      "surface": "hard",
+      "indoor": null,
+      "best_of": 3,
+      "is_grand_slam": false,
+      "first_set_score": "3-6",
+      "first_set_games": 9,
+      "first_set_tiebreak": false,
+      "total_games": 35,
+      "p1_total_games_won": 15,
+      "p2_total_games_won": 20,
+      "game_margin_p1": -5,
+      "total_sets": 3,
+      "straight_sets": false,
+      "deciding_set": true,
+      "had_tiebreak": true,
+      "tiebreak_count": 2
     }
   ]
 }
