@@ -105,6 +105,22 @@ Bencic B.
 0
 6
 3
+Astana (Kazahstan), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Dougaz A.
+Matsuoka H.
+1
+2
+6
+0
+1
+6
+6
+5
+7
+7
 Brownsburg (SAD), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -164,9 +180,129 @@ Ribeiro E.
 Paulson A.
 -
 -
+Kraj
+Martin A.
+Arias B.
+2
+0
+6
+1
+6
+2
+Kraj
+Cizek J.
+Gombos N.
+0
+2
+6
+1
+7
+7
+3
+6
+Kraj
+Recek D.
+Paulson A.
+0
+2
+5
+7
+3
+6
+Kraj
+Lechno-Wasiutynski F.
+Donald M.
+1
+2
+0
+6
+6
+4
+3
+6
+Kraj
+Papoe R. M.
+Vrtilka J.
+2
+0
+6
+0
+6
+1
+Roehampton (Ujedinjeno Kraljevstvo) - Kvalifikacije, tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Makk P.
+Jones R.
+2
+0
+7
+7
+6
+4
+6
+3
+Kraj
+Peliwo F.
+Perego G.
+2
+0
+6
+4
+6
+2
+Kraj
+Walters M.
+Ponchet M.
+2
+0
+7
+7
+6
+1
+7
+7
+6
+3
+Kraj
+Lawlor R.
+Tepmahc N.
+0
+2
+4
+6
+2
+6
+Kraj
+Blaydes B.
+Gautier A.
+2
+0
+7
+10
+6
+8
+6
+4
 Sion (Švicarska) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
+Kraj
+Parizzia N.
+Papamalamis T.
+1
+2
+6
+4
+7
+7
+6
+1
+6
+5
+7
+7
 Kraj
 Campana Lee G.
 Ribero F.
@@ -185,6 +321,39 @@ Bocchi L.
 6
 5
 7
+Kraj
+Marti Pujolras A.
+Neuchrist M.
+2
+1
+7
+7
+6
+5
+5
+7
+6
+4
+Kraj
+Zhu M.
+Cigarran T.
+1
+2
+6
+4
+5
+7
+2
+6
+Kraj
+Wiedenmann L.
+Gaillard T.
+2
+0
+6
+2
+6
+1
 Brownsburg (SAD), tvrda podloga
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -199,6 +368,32 @@ Stevens B.
 4
 6
 1
+M15 Malmo (Švedska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Friberg K.
+Hallquist Lithen J.
+2
+0
+6
+3
+6
+1
+M15 Targu Jiu (Rumunjska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Pieleanu R. T.
+Breazu V. C.
+1
+2
+6
+2
+3
+6
+2
+6
 M15 Tianjin 2 (Kina), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -213,6 +408,32 @@ Jasika O.
 7
 2
 6
+M15 Trier (Njemačka), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Agwi M.
+Sesko Z.
+2
+0
+6
+2
+6
+1
+M15 Warsaw (Poljska), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Strombachs R.
+Reisach V.
+2
+0
+7
+7
+6
+2
+6
+4
 M25 Idanha-a-Nova (Portugal), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -224,6 +445,50 @@ Henning P.
 4
 6
 3
+6
+M25 Kursumlijska Banja 3 (Srbija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Cuenin S.
+Haita S. H.
+2
+1
+2
+6
+7
+7
+6
+2
+7
+8
+6
+6
+M25 Muttenz (Švicarska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Staeheli L.
+Wessels L.
+2
+1
+6
+4
+5
+7
+7
+5
+W15 Astana 5 (Kazahstan), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Arakawa H.
+Arystanbekova A.
+0
+2
+2
+6
+2
 6
 W15 Bucharest 3 (Rumunjska), zemlja
 ITF - ŽENSKI SINGL: 
@@ -251,6 +516,52 @@ Naklo T.
 1
 6
 4
+W35 Bydgoszcz (Poljska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Prekinuto
+Kuczer D.
+Kotliar Y.
+0
+1
+6
+6
+7
+8
+5
+6
+30
+0
+W35 Vigo (Španjolska), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Zhiyenbayeva S.
+Ren Y.
+2
+0
+7
+8
+6
+6
+7
+5
+W50 Hamburg (Njemačka), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Siskova A.
+McAdoo R.
+2
+1
+7
+8
+6
+6
+1
+6
+6
+3
 W75 Kursumlijska Banja 2 (Srbija), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -319,7 +630,7 @@ Hamburg Challenger Muškarci
 Kingston Challenger Muškarci
 Prague Challenger Muškarci
 Roehampton Challenger Muškarci
-Prikaži više (38)
+Prikaži više (31)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -398,13 +709,13 @@ REZULTATI UŽIVO
 Hrvatska - Turska
 Belgija Ž - Italija Ž
 Njemačka - Češka
-Feyenoord - G.A. Eagles
 Ajax - Heerenveen
 Liberec - Slavia Prag
 Nitra-Chrenova - Slovan Bratislava
 Slovan Bratislava - Celje
 Sion - Ajax
 Fortuna Sittard - AZ Alkmaar
+Artis Brno - Sparta Prag
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
@@ -424,7 +735,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Gambling Problem? Call 1-800-BETS OFF 21+
+Igrajte odgovorno. Gambling Therapy. 18+
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
