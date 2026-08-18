@@ -59,6 +59,17 @@ Fils A.
 7
 3
 6
+Kraj
+Paul T.
+Vallejo D.
+2
+1
+3
+6
+6
+3
+6
+4
 Walkover
 Fonseca J.
 O'Connell C.
@@ -85,6 +96,17 @@ Pegula J.
 2
 5
 7
+2
+6
+Kraj
+Eala A.
+Anisimova A.
+1
+2
+6
+4
+4
+6
 2
 6
 Cincinnati (SAD), tvrda podloga
@@ -225,6 +247,66 @@ Purcell M.
 3
 3
 6
+Prague (Češka Republika), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Broska F.
+Cuenin S.
+0
+2
+3
+6
+5
+7
+Kraj
+Krutykh O.
+Siniakov D.
+2
+0
+6
+3
+6
+4
+Kraj
+Soto M.
+Molleker R.
+0
+2
+3
+6
+3
+6
+Sion (Švicarska), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Compagnucci T.
+Dahlin M.
+2
+0
+7
+5
+6
+3
+Kraj
+Mena F.
+La Serna J. M.
+0
+2
+3
+6
+3
+6
+Kraj
+Staeheli L.
+Chepelev A.
+2
+0
+6
+3
+6
+1
 Cancun 2 (Meksiko) - Kvalifikacije, tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -268,9 +350,42 @@ Shelbayh A.
 3
 6
 2
+Sion (Švicarska) - Kvalifikacije, zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Ehrenschneider N.
+Wehnelt K.
+0
+2
+4
+6
+4
+6
+M15 Mistelbach (Austrija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Michalik R.
+Crivellaro G.
+0
+2
+1
+6
+1
+6
 M25 Santander (Španjolska), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
+Kraj
+Carbajal A. G.
+Juan Mano A.
+0
+2
+3
+6
+4
+6
 Otkazano
 Carbajal A. G.
 Lopez Morillo I.
@@ -281,9 +396,31 @@ Walters N.
 Lopez Morillo I.
 -
 -
+Kraj
+Rodenas P.
+Curras Abasolo T.
+2
+0
+6
+4
+6
+1
 M25 Taipei (Tajvan), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
+Kraj
+Sach T.
+Cho Seung Woo
+2
+1
+6
+6
+7
+8
+6
+1
+6
+1
 Kraj
 Huang T.
 Saitoh K.
@@ -294,6 +431,15 @@ Saitoh K.
 7
 5
 Kraj
+Mochizuki Y.
+Koyama H.
+0
+2
+4
+6
+4
+6
+Kraj
 (predano)
 Shin S.
 Matsuda R.
@@ -301,6 +447,59 @@ Matsuda R.
 0
 0
 3
+Kraj
+(predano)
+Wang Y.
+Chen K. S.
+0
+1
+3
+6
+1
+3
+Kraj
+Hsu Y. H.
+Wang K.
+2
+0
+7
+7
+6
+5
+6
+3
+Kraj
+Matsuda K.
+Ho C. H.
+0
+2
+3
+6
+4
+6
+W15 Tianjin 3 (Kina), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Kalyakina M.
+Kim D.
+1
+2
+3
+6
+6
+3
+4
+6
+Kraj
+Yodpetch K.
+Deng T. T.
+0
+2
+4
+6
+2
+6
 W35 Krakow (Poljska), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -313,6 +512,214 @@ Malygina E.
 3
 0
 0
+W35 Verbier (Švicarska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Alekseeva S.
+Manta N.
+0
+2
+2
+6
+5
+7
+Kraj
+Bertacchi A.
+Guth M.
+0
+2
+4
+6
+3
+6
+Kraj
+Grubor A.
+Trevisan F.
+2
+0
+6
+4
+6
+2
+W50 Prague (Češka Republika), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Schunk N.
+Jang G.
+2
+1
+4
+6
+6
+3
+6
+4
+Kraj
+Adams J.
+Gao X.
+0
+2
+5
+7
+3
+6
+Kraj
+Mair L.
+Kotliar Y.
+0
+2
+1
+6
+3
+6
+W75 Kursumlijska Banja 3 (Srbija), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Pedone G.
+Granwehr A.
+2
+0
+6
+4
+7
+5
+Kraj
+Li Z.
+Dencheva R.
+0
+2
+0
+6
+0
+6
+M15 Maanshan 7 (Kina), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Becroft I.
+Shearer M.
+Alhogbani A. F.
+Ryan Ziegann S.
+0
+2
+6
+11
+7
+13
+1
+6
+Kraj
+Hsieh C.
+Wang Y.
+Sun Qian
+Yang Z.
+0
+2
+4
+6
+1
+6
+Kraj
+Rifqi Fitriadi M.
+Sarksian D.
+Pan W.
+Sun Z.
+2
+0
+6
+4
+6
+4
+Kraj
+Kong W.
+Meng F.
+Jiang F.
+Zhang T.
+0
+2
+2
+6
+3
+6
+M25 Taipei (Tajvan), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Hazawa S.
+Mitsui S.
+Hsu J.
+Lee K.
+2
+1
+3
+6
+6
+3
+13
+11
+Kraj
+Lin Hao Yu
+Lin W.
+Shin S.
+Tanuma R.
+0
+2
+4
+6
+4
+6
+Kraj
+Mao K. H.
+Yu C. E.
+Matsuda R.
+Shiraishi H.
+0
+2
+4
+6
+4
+6
+Kraj
+Huang T.
+Wu Tung-Lin
+Kawachi K.
+Mochizuki Y.
+2
+0
+6
+4
+6
+2
+Kraj
+Cho Seung Woo
+Jeong Y.
+Ogura K.
+Saitoh K.
+1
+2
+6
+3
+3
+6
+8
+10
+W15 Tianjin 3 (Kina), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Matsuda R.
+Yoshimoto N.
+Cao Y.
+Zhao X.
+2
+0
+6
+0
+6
+4
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -349,7 +756,7 @@ Prague Challenger Muškarci
 Quebec City Challenger Muškarci
 Roehampton Challenger Muškarci
 Sion Challenger Muškarci
-Prikaži više (49)
+Prikaži više (53)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -377,7 +784,7 @@ Prikaži više
 Tenis livescore na Rezultatima nudi teniske rezultate uživo za preko 5000 teniskih turnira diljem svijeta, uključujući Australian Open, French Open, Wimbledon, US Open i mnoge druge. Pratite najnovije rezultate iz tenisa na Rezultatima, gdje možete pronaći detaljnu statistiku (asevi, dvostruke pogreške, postotak servisa, osvojeni servisi, spašene break lopte, neprisiljene pogreške, itd.), usporedbu koeficijenata, međuosboni omjer, vijesti, video sažetke ili tijek meča poen po poen. Pronađite sve današnje rezultate i vijesti iz tenisa na Rezultatima, uključujući ATP rezultate, WTA rezultate, ATP poredak, ATP kalendar 2026, WTA kalendar 2026, ili profile igrača (npr. Jannik Sinner, Carlos Alcaraz, Novak Đoković, Donna Vekić). Usluga tenis livescore se automatski ažurira, tako da nema potrebe da osvježavate stranicu.
 
 ATP Cincinnati 2026 rezultati uživo na Rezultati.com stranici! ATP Cincinnati uživo, uz rezultate i ždrijeb.
-18.08. Rublev A. - Borges N., Zheng M. - Musetti L., Fritz T. - Merida Aguilar D., Nakashima B. - Medvedev D., Faria J. - Walton A., 19.08. Cerundolo J. M. - Auger-Aliassime F., Tien L. - Tiafoe F., Jodar R. - Cobolli F., Tirante T. A. - Mensik J., Fils A. - De Minaur A.
+18.08. Rublev A. - Borges N., Zheng M. - Musetti L., Fritz T. - Merida Aguilar D., Nakashima B. - Medvedev D., Faria J. - Walton A., 19.08. Cerundolo J. M. - Auger-Aliassime F., Tien L. - Tiafoe F., Jodar R. - Cobolli F., Tirante T. A. - Mensik J., Fils A. - De Minaur A., Zverev A. - Paul T.
 WTA Cincinnati 2026 rezultati uživo na Rezultati.com stranici! WTA Cincinnati uživo, uz rezultate i ždrijeb.
 
 NOGOMET
@@ -454,7 +861,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Gambling Problem? Call 1-800-BETS OFF 21+
+Igrajte odgovorno. Gambling Therapy. 18+
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
