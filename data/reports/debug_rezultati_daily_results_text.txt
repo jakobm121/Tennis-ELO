@@ -110,6 +110,15 @@ Comesana F.
 3
 7
 5
+Kraj
+Rocha H.
+Hong S. C.
+2
+0
+6
+4
+6
+1
 Kingston (Jamajka), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -181,6 +190,31 @@ Moro Canas A.
 7
 6
 4
+Kraj
+Magadan A.
+Noguchi R.
+2
+0
+6
+3
+7
+8
+6
+6
+Cancun 2 (Meksiko), tvrda podloga
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Rojer J-J.
+Winegar T.
+Hernandez A.
+Pacheco Mendez R.
+2
+0
+6
+3
+6
+2
 Kingston (Jamajka), tvrda podloga
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -234,6 +268,19 @@ Jiang F.
 6
 2
 Kraj
+Isomura K.
+Jones M.
+2
+1
+3
+6
+7
+7
+6
+5
+6
+1
+Kraj
 Park U.
 Zhao Z.
 0
@@ -245,6 +292,51 @@ Zhao Z.
 Kraj
 Te R.
 Sarksian D.
+2
+0
+6
+4
+6
+4
+Kraj
+Bar Biryukov P.
+Xia Z.
+2
+0
+6
+4
+6
+4
+Kraj
+Charlton J.
+Takahashi Y.
+0
+2
+4
+6
+3
+6
+Kraj
+Lu H.
+Oh Chan-Yeong
+0
+2
+1
+6
+3
+6
+Kraj
+Van Herzeele J.
+Pan W.
+2
+0
+6
+2
+6
+3
+Kraj
+Chung Y.
+Ferguson C.
 2
 0
 6
@@ -277,10 +369,10 @@ Imamura M.
 1
 4
 6
-0
-0
-A
-40
+1
+3
+15
+30
 Prekinuto
 Ichikawa T.
 Wu Tung-Lin
@@ -289,9 +381,9 @@ Wu Tung-Lin
 2
 6
 0
-1
-0
-0
+3
+40
+30
 Prekinuto
 Samrej K.
 Chung H.
@@ -299,19 +391,21 @@ Chung H.
 1
 2
 6
-0
-0
+1
+1
 0
 0
 Prekinuto
 Shiraishi H.
 Sinha N. K.
+1
 0
-0
-5
+6
 4
-30
+1
 0
+40
+40
 Prekinuto
 Tamm K.
 Jasika O.
@@ -319,10 +413,10 @@ Jasika O.
 1
 3
 6
-1
+4
 1
 0
-0
+30
 W15 Tianjin 3 (Kina), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -364,6 +458,59 @@ Kim N.
 6
 0
 6
+Kraj
+Zhang R.
+Kim Y.J.
+1
+2
+6
+4
+5
+7
+2
+6
+Kraj
+Choi O.
+Chanta A.
+0
+2
+3
+6
+3
+6
+Kraj
+Hou Y.
+Desvignes E. M.
+0
+2
+2
+6
+1
+6
+Kraj
+Li Y.
+Jeong S.
+1
+2
+6
+4
+6
+1
+7
+7
+1
+6
+Kraj
+Plipuech P.
+Naklo T.
+2
+0
+7
+7
+6
+5
+6
+3
 M25 Slovenj Gradec (Slovenija), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -503,6 +650,7 @@ Italija - Srbija
 Portugal - Srbija
 Švedska Ž - Hrvatska Ž
 REZULTATI UŽIVO
+Srbija - Francuska
 Hrvatska - Turska
 Hrvatska - Latvija
 Srbija - Island
@@ -512,7 +660,6 @@ Bosna i Hercegovina - Italija
 Njemačka - Češka
 Grčka - Poljska
 Njemačka - Nizozemska
-Francuska - Slovenija
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
