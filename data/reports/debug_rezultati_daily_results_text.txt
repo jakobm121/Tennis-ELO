@@ -44,6 +44,19 @@ Rybakina E.
 0
 4
 1
+Kraj
+Bejlek S.
+Keys M.
+2
+1
+3
+6
+6
+4
+7
+7
+6
+5
 Cincinnati (SAD), tvrda podloga
 ATP - PAROVI: 
 Ždrijeb
@@ -88,6 +101,21 @@ Matos R.
 9
 3
 6
+Kraj
+Nys H.
+Roger-Vasselin E.
+Doumbia S.
+Reboul F.
+2
+1
+4
+6
+7
+7
+6
+5
+11
+9
 Cincinnati (SAD), tvrda podloga
 WTA - PAROVI: 
 Ždrijeb
@@ -102,6 +130,17 @@ Panova A.
 6
 5
 7
+Kraj
+Jovic I.
+McNally C.
+Bouzkova M.
+Noskova L.
+0
+2
+3
+6
+2
+6
 Cancun 2 (Meksiko), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -328,6 +367,17 @@ Saraiva Dos Santos P. A.
 4
 6
 4
+Kraj
+Falck R.
+Suarez B.
+Kavcic B.
+Purcell M.
+0
+2
+1
+6
+5
+7
 Prague (Češka Republika), zemlja
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -872,28 +922,6 @@ Marques G.
 M25 Santander (Španjolska), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
-Prekinuto
-Fita Juan S.
-Juan Mano A.
-0
-0
-5
-4
-40
-A
-Prekinuto
-Lopez Montagud C.
-Perez Contri S.
-1
-1
-6
-3
-4
-6
-2
-1
-0
-0
 Kraj
 Ritschard A.
 Parisca I.
@@ -1102,6 +1130,15 @@ Bohrer Martins C.
 1
 6
 3
+6
+Kraj
+Laron M.
+Barros V. L.
+0
+2
+3
+6
+4
 6
 W15 Logrono (Španjolska), tvrda podloga
 ITF - ŽENSKI SINGL: 
@@ -1777,6 +1814,17 @@ Comino L.
 6
 3
 Kraj
+De Bernardis A.
+Spadola A.
+Bosio G.
+Martin Manzano J. C.
+0
+2
+3
+6
+3
+6
+Kraj
 Catini N.
 Matta A.
 Baragiola Mordini T. C.
@@ -1789,20 +1837,17 @@ Penasa L.
 3
 10
 8
-M25 Santander (Španjolska), zemlja
-ITF - MUŠKI PAROVI: 
-Ždrijeb
-Prekinuto
-Blanchar A.
-Garcia Mestre J.
-Kamath M.
-Sharma A.
+Kraj
+Hipfl N.
+Oradini G.
+Catini N.
+Matta A.
+2
 0
-0
+6
 1
-0
-0
-0
+7
+5
 M25 Slovenj Gradec (Slovenija), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -1893,6 +1938,33 @@ Loosen T.
 6
 3
 6
+W15 Campos do Jordao 2 (Brazil), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Fullana L.
+Souza M.
+Ccuno R.
+Pereira R.
+2
+1
+6
+3
+4
+6
+13
+11
+Kraj
+Candiotto A.
+Mi L.
+Bohrer Martins C.
+Garcia Vidal L.
+2
+0
+6
+1
+6
+1
 W15 Logrono (Španjolska), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -2192,7 +2264,7 @@ Prikaži više
 Tenis livescore na Rezultatima nudi teniske rezultate uživo za preko 5000 teniskih turnira diljem svijeta, uključujući Australian Open, French Open, Wimbledon, US Open i mnoge druge. Pratite najnovije rezultate iz tenisa na Rezultatima, gdje možete pronaći detaljnu statistiku (asevi, dvostruke pogreške, postotak servisa, osvojeni servisi, spašene break lopte, neprisiljene pogreške, itd.), usporedbu koeficijenata, međuosboni omjer, vijesti, video sažetke ili tijek meča poen po poen. Pronađite sve današnje rezultate i vijesti iz tenisa na Rezultatima, uključujući ATP rezultate, WTA rezultate, ATP poredak, ATP kalendar 2026, WTA kalendar 2026, ili profile igrača (npr. Jannik Sinner, Carlos Alcaraz, Novak Đoković, Donna Vekić). Usluga tenis livescore se automatski ažurira, tako da nema potrebe da osvježavate stranicu.
 
 ATP Cincinnati 2026 rezultati uživo na Rezultati.com stranici! ATP Cincinnati uživo, uz rezultate i ždrijeb.
-21.08. Fritz T. - Nakashima B., 22.08. Musetti L. - Tiafoe F., Cobolli F. - Fils A.
+22.08. Musetti L. - Tiafoe F., Cobolli F. - Fils A.
 WTA Cincinnati 2026 rezultati uživo na Rezultati.com stranici! WTA Cincinnati uživo, uz rezultate i ždrijeb.
 
 NOGOMET
@@ -2229,7 +2301,6 @@ Espanyol - Real Madrid
 Manchester City - Bournemouth
 Rijeka - Istra 1961
 LIVESCORE
-Arsenal - Coventry
 Francuska Ž - Hrvatska Ž
 Srbija - Tunis
 Hrvatska Ž - Slovačka Ž
@@ -2239,7 +2310,9 @@ Portugal - Srbija
 Hrvatska Ž - Crna Gora Ž
 Alžir - Srbija
 Slovenija - Srbija
+Crna Gora - Grčka
 REZULTATI UŽIVO
+Hrvatska - Njemačka
 Francuska - Srbija
 Hrvatska - Latvija
 Srbija - Island
@@ -2249,7 +2322,6 @@ Slovenija - Crna Gora
 Gruzija - Crna Gora
 Bosna i Hercegovina - Italija
 Litva - Bosna i Hercegovina
-Crna Gora - Ukrajina
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
