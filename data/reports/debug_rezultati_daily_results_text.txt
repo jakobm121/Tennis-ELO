@@ -105,6 +105,32 @@ Fearnley J.
 4
 6
 1
+Roehampton (Ujedinjeno Kraljevstvo), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Tarvet O.
+Poullain L.
+2
+0
+6
+3
+6
+2
+Sion (Švicarska), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Hassan B.
+Stricker D.
+1
+2
+1
+6
+6
+2
+2
+6
 Cancun 2 (Meksiko), tvrda podloga
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -150,19 +176,17 @@ Ho R.
 Prague (Češka Republika), zemlja
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
-Prekinuto
+Kraj
 Grevelius E.
 Heinonen A.
 Paulson A.
 Vliegen J.
 0
-1
+2
 4
 6
-0
-1
-30
-0
+3
+6
 Quebec City (Kanada), tvrda podloga
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -177,6 +201,85 @@ Withrow J.
 1
 6
 0
+Sion (Švicarska), zemlja
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Neuchrist M.
+Poljak D.
+Dellien Velasco M. A.
+Mena F.
+2
+0
+6
+4
+6
+4
+M15 Arad (Rumunjska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Guna R.
+Miletich I.
+0
+2
+3
+6
+5
+7
+Kraj
+Sciahbasi M.
+Madaras N.
+2
+0
+6
+4
+6
+0
+M15 Bastad (Švedska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Borg L.
+Hallquist Lithen J.
+2
+0
+6
+3
+7
+5
+Kraj
+Simonsson J.
+Guttau N.
+1
+2
+3
+6
+6
+4
+4
+6
+M15 Kursumlijska Banja 12 (Srbija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Arzhankin A.
+Juhas K.
+0
+2
+3
+6
+0
+6
+Kraj
+Pankin S.
+Kisimov D.
+0
+2
+5
+7
+1
+6
 M15 Maanshan 7 (Kina), tvrda podloga (dvorana)
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -200,9 +303,64 @@ Rifqi Fitriadi M.
 6
 2
 6
+M15 Mistelbach (Austrija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Mashtakov N.
+Zielinski M.
+2
+1
+1
+6
+6
+4
+7
+5
+Kraj
+Noce G. M.
+Behrmann T.
+0
+2
+1
+6
+4
+6
+M25 Idanha-a-Nova 2 (Portugal), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Fernandes R.
+Lagutin P.
+0
+2
+3
+6
+2
+6
+Kraj
+Marques G.
+Colombo A.
+2
+1
+4
+6
+6
+3
+7
+5
 M25 Lesa (Italija), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
+Kraj
+Rapagnetta D.
+Mazza M.
+2
+0
+6
+4
+7
+5
 Kraj
 Seghetti S.
 Rottoli L.
@@ -220,6 +378,46 @@ Lokoli L.
 3
 6
 3
+6
+Kraj
+Hipfl N.
+Reitano S.
+2
+0
+6
+3
+7
+7
+6
+3
+Kraj
+Baker B.
+de Marchi A.
+1
+2
+6
+2
+4
+6
+9
+11
+Kraj
+Comino L.
+Basile P.
+0
+2
+2
+6
+5
+7
+Kraj
+Martin Manzano J. C.
+Oradini G.
+0
+2
+2
+6
+0
 6
 M25 Santander (Španjolska), zemlja
 ITF - MUŠKI SINGL: 
@@ -248,6 +446,49 @@ Perez Contri S.
 3
 7
 7
+Kraj
+Sanchez Jover C.
+Juan Mano A.
+2
+1
+1
+6
+6
+2
+6
+2
+Kraj
+Ritschard A.
+Perez Contri S.
+2
+0
+6
+3
+6
+4
+M25 Slovenj Gradec (Slovenija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Dominko S.
+Sorger S.
+0
+2
+4
+6
+1
+6
+Kraj
+Planinsek F. J.
+Gundacker J.
+1
+2
+6
+2
+1
+6
+2
+6
 M25 Taipei (Tajvan), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -273,6 +514,15 @@ M25 Ueberlingen (Njemačka), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
 Kraj
+Petkovic M.
+Handel T.
+0
+2
+5
+7
+5
+7
+Kraj
 Senn N.
 Bieldiugin T.
 0
@@ -281,6 +531,42 @@ Bieldiugin T.
 6
 3
 6
+Kraj
+Maute J.
+Nagel A.
+0
+2
+4
+6
+3
+6
+Kraj
+Marterer M.
+Masur D.
+0
+2
+6
+7
+7
+9
+3
+6
+W15 Logrono (Španjolska), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Giaccio J.
+Esquiva Banuls C.
+2
+1
+7
+7
+6
+4
+0
+6
+6
+3
 W15 Tianjin 3 (Kina), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -306,20 +592,102 @@ Matsuda R.
 6
 4
 6
+W35 Bistrita (Rumunjska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Pieri J.
+Nagy A.
+0
+2
+6
+8
+7
+10
+4
+6
+Kraj
+Ewald W.
+Miron T.
+0
+2
+3
+6
+0
+6
+W35 Krakow (Poljska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Jakupovic D.
+Geerlings Martinez A.
+0
+2
+4
+6
+3
+6
 W50 Prague (Češka Republika), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
-Prekinuto
+Kraj
 Gao X.
 Kovackova J.
 0
-1
+2
 1
 6
-0
 1
+6
+W75 Kursumlijska Banja 3 (Srbija), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Zolotareva R.
+Zaar L.
+2
+1
+6
+3
+5
+7
+7
+5
+Kraj
+Encheva L.
+Vujovic L.
+2
 0
-15
+6
+1
+6
+3
+M15 Bastad (Švedska), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Friberg K.
+Rejchtman Vinciguerra W.
+Blando J.
+Vasser O.
+1
+2
+7
+5
+4
+6
+8
+10
+M15 Krakow (Poljska), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Walkover
+Januchowski J.
+Romer K.
+Sanchez Martinez B.
+Zeuch T.
+-
+-
 M15 Maanshan 7 (Kina), tvrda podloga (dvorana)
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -349,17 +717,33 @@ Colombo A.
 M25 Santander (Španjolska), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
-Prekinuto
+Kraj
 Blanchar A.
 Garcia Mestre J.
 Kamath M.
 Sharma A.
-0
-0
+2
 1
+6
+1
+4
+6
+14
+12
+M25 Slovenj Gradec (Slovenija), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Kajin K.
+Kupcic J.
+Best H.
+Biletic I.
 0
-0
-0
+2
+2
+6
+4
+6
 M25 Taipei (Tajvan), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -447,6 +831,38 @@ Yang Y. Y.
 3
 1
 6
+10
+7
+W35 Bistrita (Rumunjska), zemlja
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Goina P. G.
+Ogescu S.
+Nagy A.
+Simion O.
+0
+2
+1
+6
+3
+6
+W35 Erwitte (Njemačka), zemlja
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Barry M.
+Park S.
+Hageman M.
+Veldman K.
+2
+1
+6
+0
+7
+7
+6
+3
 10
 7
 Reklama
