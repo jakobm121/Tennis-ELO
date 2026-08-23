@@ -101,9 +101,63 @@ Tiafoe F.
 7
 3
 6
+Winston-Salem (SAD), tvrda podloga
+ATP - SINGL: 
+Ždrijeb
+Kraj
+Mpetshi Perricard G.
+Brooksby J.
+0
+2
+3
+6
+2
+6
+Kraj
+Shimabukuro S.
+Kecmanovic M.
+0
+2
+4
+6
+3
+6
+Kraj
+Comesana F.
+Wu Y.
+2
+0
+6
+3
+6
+4
 Winston-Salem (SAD) - Kvalifikacije, tvrda podloga
 ATP - SINGL: 
 Ždrijeb
+Kraj
+Herbert P.H.
+Vandecasteele Q.
+1
+2
+6
+3
+6
+4
+7
+7
+5
+7
+Kraj
+Balshaw F.
+Gorzny S.
+2
+1
+4
+6
+6
+4
+6
+3
 Kraj
 Grenier H.
 Rottgering M.
@@ -157,6 +211,22 @@ Jacquemot E.
 3
 6
 3
+Cincinnati (SAD), tvrda podloga
+ATP - PAROVI: 
+Ždrijeb
+Kraj
+Luz O.
+Matos R.
+Frantzen C.
+Haase R.
+2
+1
+6
+4
+3
+6
+10
+7
 Cancun 2 (Meksiko), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -380,6 +450,15 @@ Martin D.
 1
 6
 Kraj
+Bianchi J. J.
+Chopra K.
+0
+2
+2
+6
+5
+7
+Kraj
 (predano)
 Britto L.
 Sheehy J.
@@ -392,6 +471,15 @@ Zhu E.
 Reymond A.
 -
 -
+Kraj
+Zhu E.
+Kadhe A.
+2
+0
+6
+3
+6
+2
 Otkazano
 Gonzalez Fernandez M.
 Mallory R.
@@ -557,11 +645,31 @@ Volynets K.
 6
 1
 6
+Kraj
+Pohankova M.
+Reasco Gonzalez M. E.
+2
+0
+6
+3
+6
+3
 Otkazano
 Samsonova L.
 Preston T.
 -
 -
+Kraj
+Zakharova A.
+Blinkova A.
+2
+0
+7
+8
+6
+6
+6
+0
 Philadelphia (SAD) - Kvalifikacije, tvrda podloga
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -1026,8 +1134,8 @@ WTA US Open
 ATP Cincinnati
 ATP Winston-Salem
 WTA Monterrey
-Augsburg Challenger Muškarci
-Prikaži više (41)
+US Open miješani parovi
+Prikaži više (39)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -1055,7 +1163,7 @@ Prikaži više
 Tenis livescore na Rezultatima nudi teniske rezultate uživo za preko 5000 teniskih turnira diljem svijeta, uključujući Australian Open, French Open, Wimbledon, US Open i mnoge druge. Pratite najnovije rezultate iz tenisa na Rezultatima, gdje možete pronaći detaljnu statistiku (asevi, dvostruke pogreške, postotak servisa, osvojeni servisi, spašene break lopte, neprisiljene pogreške, itd.), usporedbu koeficijenata, međuosboni omjer, vijesti, video sažetke ili tijek meča poen po poen. Pronađite sve današnje rezultate i vijesti iz tenisa na Rezultatima, uključujući ATP rezultate, WTA rezultate, ATP poredak, ATP kalendar 2026, WTA kalendar 2026, ili profile igrača (npr. Jannik Sinner, Carlos Alcaraz, Novak Đoković, Donna Vekić). Usluga tenis livescore se automatski ažurira, tako da nema potrebe da osvježavate stranicu.
 
 ATP Cincinnati 2026 rezultati uživo na Rezultati.com stranici! ATP Cincinnati uživo, uz rezultate i ždrijeb.
-23.08. Fils A. - Tiafoe F.
+
 WTA Cincinnati 2026 rezultati uživo na Rezultati.com stranici! WTA Cincinnati uživo, uz rezultate i ždrijeb.
 
 NOGOMET
@@ -1081,7 +1189,6 @@ World Series Finals
 MLB
 EP u odbojci za žene 2026
 NOGOMET UŽIVO
-Hajduk Split - Osijek
 Viking - Dinamo Zagreb
 Rakow - Hajduk Split
 Istra 1961 - Dinamo Zagreb
@@ -1091,6 +1198,7 @@ Rijeka - Midtjylland
 Crystal Palace - Manchester City
 Real Madrid - Malaga
 Cagliari - Inter
+Gorica - Rijeka
 LIVESCORE
 Hrvatska Ž - Slovačka Ž
 Parry - Vekić
@@ -1111,8 +1219,8 @@ Gruzija - Crna Gora
 Bosna i Hercegovina - Italija
 Litva - Bosna i Hercegovina
 Crna Gora - Ukrajina
-Španjolska Ž - Belgija Ž
 Grčka - Cipar
+Njemačka - Nizozemska
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
