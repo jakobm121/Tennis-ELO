@@ -87,6 +87,154 @@ Harris L.
 4
 6
 4
+Augsburg (Njemačka) - Kvalifikacije, zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Fajta P.
+Gulin S.
+0
+2
+6
+4
+7
+7
+3
+6
+Kraj
+Strombachs R.
+Matic D.
+2
+0
+6
+4
+7
+7
+6
+4
+Kraj
+Wehnelt K.
+Siniakov D.
+2
+0
+7
+7
+6
+5
+7
+7
+6
+3
+Kraj
+Yevseyev D.
+Basic M.
+2
+0
+6
+2
+6
+3
+Kraj
+Sanchez Martinez B.
+Beckley A.
+2
+0
+6
+2
+6
+2
+Kraj
+Kravchenko G.
+Recek D.
+1
+2
+7
+5
+5
+7
+3
+6
+Kraj
+Brunold M.
+Kirkin E.
+2
+0
+6
+3
+6
+4
+Kraj
+Gavrielides L.
+Fuele M.
+2
+0
+7
+5
+6
+0
+Roehampton 2 (Ujedinjeno Kraljevstvo) - Kvalifikacije, tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Montes-De La Torre I.
+Ponchet M.
+2
+0
+6
+1
+6
+3
+Kraj
+Paldanius O.
+Makk P.
+2
+0
+6
+4
+7
+5
+Kraj
+Rybakov A.
+Bonding O.
+1
+2
+7
+5
+4
+6
+3
+6
+Kraj
+Albot R.
+Gannon C.
+2
+0
+6
+4
+6
+1
+Kraj
+Habib H.
+Rossi L.
+0
+2
+2
+6
+4
+6
+Otkazano
+Poullain L.
+Nordquist A.
+-
+-
+Philadelphia (SAD) - Kvalifikacije, tvrda podloga
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Otkazano
+Ovcharenko E.
+Velaga N.
+-
+-
 Cancun 2 (Meksiko), tvrda podloga
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -130,6 +278,61 @@ Purcell M.
 6
 12
 10
+M15 Arad (Rumunjska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Sciahbasi M.
+Miletich I.
+2
+0
+6
+3
+7
+7
+6
+0
+M15 Bastad (Švedska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Borg L.
+Guttau N.
+1
+2
+6
+4
+2
+6
+3
+6
+M15 Krakow (Poljska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+(predano)
+Michalski D.
+Agwi M.
+1
+0
+6
+2
+3
+0
+M15 Kursumlijska Banja 12 (Srbija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Kisimov D.
+Juhas K.
+2
+1
+1
+6
+6
+4
+7
+5
 M15 Maanshan 7 (Kina), tvrda podloga (dvorana)
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -142,6 +345,72 @@ Rifqi Fitriadi M.
 7
 3
 6
+M15 Mistelbach (Austrija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Behrmann T.
+Mashtakov N.
+1
+2
+6
+2
+3
+6
+4
+6
+M25 Idanha-a-Nova 2 (Portugal), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Lagutin P.
+Marques G.
+2
+0
+6
+3
+6
+1
+M25 Lesa (Italija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Basile P.
+Weis A.
+2
+1
+6
+4
+7
+7
+6
+2
+6
+3
+Kraj
+Lokoli L.
+Seghetti S.
+2
+1
+6
+1
+2
+6
+7
+5
+M25 Santander (Španjolska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+(predano)
+Sanchez Jover C.
+Ritschard A.
+1
+0
+6
+3
+4
+0
 M25 Slovenj Gradec (Slovenija), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -166,6 +435,18 @@ Dellavedova M.
 3
 6
 2
+W15 Logrono (Španjolska), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Giaccio J.
+Kardava Z.
+2
+0
+6
+3
+6
+2
 W15 Tianjin 3 (Kina), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -178,6 +459,46 @@ Chen M.
 3
 4
 6
+6
+1
+W35 Bistrita (Rumunjska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Nagy A.
+Miron T.
+1
+2
+3
+6
+6
+2
+4
+6
+W35 Erwitte (Njemačka), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Daems J.
+Steiner V.
+1
+2
+6
+3
+1
+6
+3
+6
+W35 Verbier (Švicarska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Grammatikopoulou V.
+Lim J.
+2
+0
+6
+4
 6
 1
 W75 Kursumlijska Banja 3 (Srbija), zemlja
@@ -206,6 +527,20 @@ Romer K.
 4
 6
 4
+M25 Santander (Španjolska), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Sanchez Jover C.
+Vives Marcos P.
+Blanchar A.
+Garcia Mestre J.
+2
+0
+6
+4
+6
+3
 M25 Taipei (Tajvan), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -256,7 +591,7 @@ ATP Cincinnati
 ATP Winston-Salem
 WTA Cincinnati
 WTA Monterrey
-Prikaži više (52)
+Prikaži više (42)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -361,7 +696,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Must be 21+. If you or someone you know has a gambling problem, crisis counselling and referral services can be accessed by calling 1-800-GAMBLER (1-800-426-2537) or by texting ILGAMB to 833234. The 1-800-GAMBLER helpline can be used for multi-jurisdictional advertising.
+Igrajte odgovorno. Gambling Therapy. 18+
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
