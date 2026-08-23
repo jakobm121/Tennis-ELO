@@ -46,6 +46,15 @@ Baris O.
 2
 11
 9
+Kraj
+Blanch D.
+Secord J.
+0
+2
+4
+6
+2
+6
 US Open (SAD) - WIC, tvrda podloga
 WTA - SINGL: 
 Ždrijeb
@@ -69,6 +78,17 @@ Hazelitt J.
 2
 7
 7
+Kraj
+Hazelitt J.
+Clarke C.
+2
+1
+6
+3
+3
+6
+10
+7
 Cincinnati (SAD), tvrda podloga
 ATP - SINGL: 
 Ždrijeb
@@ -81,6 +101,29 @@ Tiafoe F.
 7
 3
 6
+Winston-Salem (SAD) - Kvalifikacije, tvrda podloga
+ATP - SINGL: 
+Ždrijeb
+Kraj
+Grenier H.
+Rottgering M.
+0
+2
+4
+6
+1
+6
+Kraj
+Shelbayh A.
+Suresh D.
+2
+1
+6
+3
+3
+6
+6
+3
 Cincinnati (SAD), tvrda podloga
 WTA - SINGL: 
 Ždrijeb
@@ -135,6 +178,18 @@ Harris L.
 4
 6
 4
+Quebec City (Kanada), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Sakellaridis S.
+van Assche L.
+0
+2
+1
+6
+4
+6
 Augsburg (Njemačka) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -256,6 +311,92 @@ Hassan B.
 5
 1
 4
+Kraj
+Petkovic M.
+Iannaccone F.
+0
+2
+6
+5
+7
+7
+1
+6
+Kingston 2 (Jamajka) - Kvalifikacije, tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Kim A.
+Karki R.
+2
+0
+6
+0
+6
+3
+Kraj
+Bigun K.
+Andrade da Silva L.
+2
+0
+6
+1
+6
+4
+Kraj
+Claverie L.
+Huertas Del Pino Cordova A.
+0
+2
+4
+6
+1
+6
+Kraj
+Munoz E.
+Fancutt T. J.
+0
+2
+4
+6
+2
+6
+Kraj
+Kuzuhara B.
+Pearson K.
+2
+0
+6
+1
+6
+4
+Kraj
+Gore N.
+Martin D.
+0
+2
+0
+6
+1
+6
+Kraj
+(predano)
+Britto L.
+Sheehy J.
+0
+1
+2
+6
+Otkazano
+Zhu E.
+Reymond A.
+-
+-
+Otkazano
+Gonzalez Fernandez M.
+Mallory R.
+-
+-
 Roehampton 2 (Ujedinjeno Kraljevstvo) - Kvalifikacije, tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -353,6 +494,74 @@ Poullain L.
 Nordquist A.
 -
 -
+Kraj
+Perego G.
+Nordquist A.
+2
+1
+7
+7
+6
+1
+4
+6
+6
+4
+Kraj
+Cacao T.
+Andaloro F.
+0
+2
+5
+7
+1
+6
+Kraj
+Weightman O.
+Deckers A.
+0
+2
+4
+6
+6
+3
+7
+7
+Philadelphia (SAD), tvrda podloga
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Frey A.
+Krueger A.
+0
+2
+1
+6
+4
+6
+Kraj
+Wang Xiy.
+Koike E.
+2
+0
+6
+2
+6
+2
+Kraj
+Wong Hong Yi C.
+Volynets K.
+0
+2
+2
+6
+1
+6
+Otkazano
+Samsonova L.
+Preston T.
+-
+-
 Philadelphia (SAD) - Kvalifikacije, tvrda podloga
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -388,6 +597,15 @@ Velaga E.
 2
 6
 4
+Kraj
+Seidel E.
+Jauffret C.
+2
+0
+7
+5
+6
+3
 Cancun 2 (Meksiko), tvrda podloga
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -565,6 +783,17 @@ Seghetti S.
 6
 7
 5
+Kraj
+Basile P.
+Lokoli L.
+1
+2
+6
+3
+3
+6
+0
+6
 M25 Santander (Španjolska), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -614,6 +843,20 @@ Nagel A.
 6
 6
 1
+7
+7
+W15 Campos do Jordao 2 (Brazil), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Fullana L.
+Bohrer Martins C.
+0
+2
+2
+6
+6
+3
 7
 7
 W15 Logrono (Španjolska), tvrda podloga
@@ -784,7 +1027,7 @@ ATP Cincinnati
 ATP Winston-Salem
 WTA Monterrey
 Augsburg Challenger Muškarci
-Prikaži više (42)
+Prikaži više (41)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -843,13 +1086,12 @@ Viking - Dinamo Zagreb
 Rakow - Hajduk Split
 Istra 1961 - Dinamo Zagreb
 Hajduk Split - Lokomotiva Zagreb
-Rijeka - Istra 1961
 Real Madrid - Real Sociedad
 Rijeka - Midtjylland
 Crystal Palace - Manchester City
 Real Madrid - Malaga
+Cagliari - Inter
 LIVESCORE
-Srbija - Tunis
 Hrvatska Ž - Slovačka Ž
 Parry - Vekić
 Italija - Srbija
@@ -859,8 +1101,8 @@ Hrvatska Ž - Crna Gora Ž
 Alžir - Srbija
 Slovenija - Srbija
 Crna Gora - Grčka
+Srbija - Crna Gora
 REZULTATI UŽIVO
-Francuska - Srbija
 Hrvatska - Latvija
 Srbija - Island
 Nizozemska - Hrvatska
@@ -869,7 +1111,8 @@ Gruzija - Crna Gora
 Bosna i Hercegovina - Italija
 Litva - Bosna i Hercegovina
 Crna Gora - Ukrajina
-Turska Ž - Češka Ž
+Španjolska Ž - Belgija Ž
+Grčka - Cipar
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
@@ -889,7 +1132,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Gambling Problem? Call 1-800-BETS OFF 21+
+Igrajte odgovorno. Gambling Therapy. 18+
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
