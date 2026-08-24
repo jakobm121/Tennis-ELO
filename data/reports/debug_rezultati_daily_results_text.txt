@@ -22,8 +22,128 @@ GOTOVO
 RASPORED
 24/08 PO
 US Open (SAD) - Kvalifikacije, tvrda podloga
+ATP - SINGL: 
+Ždrijeb
+Kraj
+Coppejans K.
+Rodionov J.
+0
+2
+1
+6
+4
+6
+Kraj
+Fearnley J.
+Carballes Baena R.
+2
+0
+7
+7
+6
+3
+6
+3
+Kraj
+Dedura D.
+Ferreira Silva F.
+0
+2
+5
+7
+2
+6
+Kraj
+Droguet T.
+Rincon D.
+1
+2
+6
+2
+4
+6
+6
+1
+7
+10
+Kraj
+Lajal M.
+Lee J. A.
+1
+2
+6
+4
+3
+6
+3
+6
+Kraj
+Pavlovic L.
+Varillas J. P.
+2
+1
+6
+3
+6
+3
+7
+7
+7
+5
+Kraj
+Prado Angelo J. C.
+Barrios Vera T.
+1
+2
+2
+6
+7
+5
+0
+6
+Kraj
+Gomez F. A.
+Dougaz A.
+0
+2
+4
+6
+2
+6
+Kraj
+Gaubas V.
+Feldbausch K.
+2
+0
+6
+3
+7
+7
+6
+1
+US Open (SAD) - Kvalifikacije, tvrda podloga
 WTA - SINGL: 
 Ždrijeb
+Kraj
+Andreeva E.
+Bolkvadze M.
+0
+2
+4
+6
+6
+5
+7
+7
+Kraj
+Burel C.
+Ma Y.
+2
+0
+6
+4
+6
+2
 Kraj
 Marino R.
 Ferro F.
@@ -33,6 +153,102 @@ Ferro F.
 1
 6
 4
+Kraj
+Sramkova R.
+Ibragimova A.
+0
+2
+2
+6
+4
+6
+Kraj
+Day K.
+Pareja J.
+0
+2
+3
+6
+1
+6
+Kraj
+Masarova R.
+Shymanovich I.
+1
+2
+4
+6
+6
+3
+4
+6
+Kraj
+Pridankina E.
+Falei A.
+2
+0
+6
+1
+6
+3
+Kraj
+Zheng Q.
+You X.
+2
+0
+6
+3
+6
+2
+Kraj
+Aksu A.
+Stefanini L.
+0
+2
+2
+6
+3
+6
+Kraj
+Hontama M.
+Gjorcheska L.
+2
+0
+7
+7
+6
+1
+6
+3
+Kraj
+Brengle M.
+Gasanova A.
+2
+0
+6
+4
+6
+1
+Kraj
+Avanesyan E.
+Lazaro Garcia A.
+0
+2
+3
+6
+6
+3
+7
+7
+Kraj
+Klimovicova L.
+Pigato L.
+2
+0
+6
+3
+6
+3
 Winston-Salem (SAD), tvrda podloga
 ATP - SINGL: 
 Ždrijeb
@@ -70,6 +286,11 @@ Fucsovics M.
 Otkazano
 Prižmić D.
 Hewitt C.
+-
+-
+Otkazano
+Sonego L.
+Kopriva V.
 -
 -
 Cincinnati (SAD), tvrda podloga
@@ -157,6 +378,50 @@ Zhang S.
 7
 10
 7
+US Open (SAD) - Kvalifikacije, tvrda podloga
+MIJEŠANI PAROVI: 
+Ždrijeb
+Kraj
+Routliffe E.
+Glasspool L.
+Stefani L.
+Skupski N.
+2
+1
+4
+1
+3
+5
+10
+7
+Kraj
+Dabrowski G.
+Heliovaara H.
+Mladenovic K.
+Arevalo M.
+1
+2
+4
+2
+1
+4
+8
+10
+Kraj
+Mladenovic K.
+Arevalo M.
+Routliffe E.
+Glasspool L.
+1
+2
+4
+4
+5
+7
+4
+2
+9
+11
 Augsburg (Njemačka), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -202,6 +467,15 @@ Barton H.
 7
 5
 7
+Kraj
+Poljicak M.
+Schoenhaus M.
+0
+2
+4
+6
+3
+6
 Cancun 2 (Meksiko), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -250,6 +524,37 @@ Ribecai M.
 6
 2
 6
+Kraj
+Maxted L.
+Shepp A.
+2
+0
+6
+3
+6
+3
+Kraj
+Blaydes B.
+Martineau M.
+1
+2
+3
+6
+6
+4
+1
+6
+Kraj
+Ivanov I.
+Peniston R.
+2
+1
+6
+0
+3
+6
+6
+4
 Augsburg (Njemačka) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -311,6 +616,56 @@ Gavrielides L.
 7
 6
 3
+Kingston 2 (Jamajka) - Kvalifikacije, tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Kim A.
+Martin D.
+2
+0
+6
+2
+6
+1
+Kraj
+Bigun K.
+Huertas Del Pino Cordova A.
+2
+0
+6
+1
+7
+7
+6
+4
+Kraj
+Zhu E.
+Sheehy J.
+2
+0
+7
+5
+6
+0
+Kraj
+Kuzuhara B.
+Fancutt T. J.
+0
+2
+4
+6
+4
+6
+Kraj
+Gonzalez Fernandez M.
+Kuhar M.
+2
+0
+6
+2
+7
+5
 Roehampton 2 (Ujedinjeno Kraljevstvo) - Kvalifikacije, tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -384,6 +739,58 @@ Boisson L.
 Selekhmeteva O.
 -
 -
+Kraj
+Daniel J.
+Collins K.
+0
+2
+0
+6
+2
+6
+Kraj
+Erjavec V.
+Grabher J.
+1
+2
+6
+5
+7
+7
+6
+3
+6
+3
+7
+7
+Kraj
+Seidel E.
+Bouzas Maneiro J.
+0
+2
+4
+6
+2
+6
+Kraj
+Selekhmeteva O.
+Preston T.
+2
+1
+3
+6
+6
+3
+6
+1
+Kraj
+(predano)
+Boisson L.
+Jauffret C.
+0
+1
+1
+6
 Augsburg (Njemačka), zemlja
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -428,24 +835,6 @@ De Krom M.
 4
 6
 4
-Prekinuto
-Nijboer R.
-Curras Abasolo T.
-0
-0
-1
-2
-0
-0
-Prekinuto
-Milev Y.
-Lopez Montagud C.
-0
-0
-2
-0
-0
-0
 W35 Trieste (Italija), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -468,6 +857,39 @@ Mazzola A.
 5
 6
 1
+Kraj
+Lovric P.
+Vogt M.
+2
+0
+7
+7
+6
+2
+6
+2
+Kraj
+Mair L.
+Shapatava S.
+2
+0
+6
+3
+6
+3
+Kraj
+Zelnickova R.
+Sacco F.
+1
+2
+6
+0
+3
+6
+6
+3
+7
+7
 W35 Trieste (Italija), zemlja
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -478,6 +900,28 @@ Stagno B.
 Tomase E.
 -
 -
+Kraj
+Argyrokastriti M.
+Turini V.
+Marino F.
+Pieroni S.
+2
+0
+6
+2
+6
+2
+Kraj
+Cherny I.
+Kaegi Z.
+Hejtmanek A.
+Senica A.
+0
+2
+1
+6
+1
+6
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -510,11 +954,11 @@ ATP Winston-Salem
 WTA Cincinnati
 WTA Monterrey
 WTA US Open
-ATP Cincinnati
 ATP Winston-Salem
 WTA Monterrey
 US Open miješani parovi
-Prikaži više (33)
+Augsburg Challenger Muškarci
+Prikaži više (55)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -540,7 +984,7 @@ Juniori - singl
 Juniorke - singl
 Prikaži više
 Tenis livescore na Rezultatima nudi teniske rezultate uživo za preko 5000 teniskih turnira diljem svijeta, uključujući Australian Open, French Open, Wimbledon, US Open i mnoge druge. Pratite najnovije rezultate iz tenisa na Rezultatima, gdje možete pronaći detaljnu statistiku (asevi, dvostruke pogreške, postotak servisa, osvojeni servisi, spašene break lopte, neprisiljene pogreške, itd.), usporedbu koeficijenata, međuosboni omjer, vijesti, video sažetke ili tijek meča poen po poen. Pronađite sve današnje rezultate i vijesti iz tenisa na Rezultatima, uključujući ATP rezultate, WTA rezultate, ATP poredak, ATP kalendar 2026, WTA kalendar 2026, ili profile igrača (npr. Jannik Sinner, Carlos Alcaraz, Novak Đoković, Donna Vekić). Usluga tenis livescore se automatski ažurira, tako da nema potrebe da osvježavate stranicu.
-24.08. Gomez F. A. - Dougaz A., Roncadelli F. - Ymer E., Gaubas V. - Feldbausch K., Jacquet K. - Midon L., Johnson S. - Garin C., Prado Angelo J. C. - Barrios Vera T., Den Ouden G. - Olivieri G. A., Cecchinato M. - Broady L., Schwaerzler J. J. - Heide G., Bueno G. - Harris B., Bertola R. - Moro Canas A., Samuel T. - Maestrelli F., Guerrieri A. - Holmgren A., Wendelken H. - Travaglia S., Brancaccio R. - Seyboth Wild T., Neumayer L. - Crawford O., Smith K. - Galarneau A., Martin Tiffon P. - Gentzsch T., Passaro F. - Gill F., Napolitano S. - McDonald M.
+24.08. Bueno G. - Harris B., Brancaccio R. - Seyboth Wild T., Svrcina D. - Meligeni Alves F., Wendelken H. - Travaglia S., Passaro F. - Gill F., Wong C. - Moller E., Smith K. - Galarneau A., Neumayer L. - Crawford O., Djere L. - Muller A., Napolitano S. - McDonald M., Martin Tiffon P. - Gentzsch T., Virtanen O. - Blanchet U., 25.08. Zhang Z. - Sakamoto R., Pinnington Jones J. - Svajda T., Chidekh C. - Coria F., Daniel T. - Johnson A., Echargui M. - Dellien H., Bolt A. - Llamas Ruiz P., Bu Y. - Noguchi R., Antonius M. - Searle H.
 
 NOGOMET
 HNL
@@ -576,10 +1020,10 @@ Real Madrid - Malaga
 Cagliari - Inter
 Gorica - Rijeka
 LIVESCORE
-Italija - Srbija
 Parry - Vekić
 Portugal - Srbija
 Švedska Ž - Hrvatska Ž
+Boskovic - Kokkinis
 Hrvatska Ž - Crna Gora Ž
 Alžir - Srbija
 Slovenija - Srbija
