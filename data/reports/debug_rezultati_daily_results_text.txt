@@ -183,6 +183,22 @@ Rybakov A.
 4
 6
 3
+Philadelphia (SAD), tvrda podloga
+CHALLENGER - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Haverlag I.
+Radisic N.
+Maleckova J.
+Skoch M.
+2
+1
+6
+2
+1
+6
+10
+7
 M15 Allershausen (Njemačka), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -195,6 +211,19 @@ Mueller C.
 7
 4
 6
+Kraj
+Maute J.
+Cigarran T.
+2
+1
+1
+6
+6
+4
+7
+7
+6
+4
 M15 Bucharest 3 (Rumunjska), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -232,6 +261,31 @@ De Schepper K.
 2
 6
 4
+M15 Champaign, IL (SAD), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Nakashima B.
+Stearns P.
+2
+0
+6
+2
+7
+7
+6
+5
+Kraj
+Vrba J.
+Okonkwo O.
+2
+1
+3
+6
+6
+3
+7
+5
 M15 Hurghada 6 (Egipat), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -399,6 +453,15 @@ Wessels L.
 0
 7
 7
+Kraj
+Verbeek D.
+Vanshelboim E.
+0
+2
+5
+7
+0
+6
 M25 Oviedo (Španjolska), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -427,6 +490,17 @@ Mashtakov N.
 5
 6
 4
+Kraj
+Pieczonka F.
+Savano M.
+1
+2
+3
+6
+6
+3
+4
+6
 M25 Taipei 2 (Tajvan), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -489,6 +563,19 @@ Rojas S. C.
 6
 1
 6
+Kraj
+Kikawada R.
+Blomqvist C.
+2
+1
+7
+7
+6
+4
+4
+6
+6
+3
 W15 Tianjin 4 (Kina), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -511,6 +598,18 @@ Adkar V.
 1
 6
 0
+W35 Barueri (Brazil), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Mi L.
+Sanchez A. S.
+2
+0
+7
+5
+7
+5
 W35 Trieste (Italija), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -617,6 +716,20 @@ Mikulskyte J.
 2
 6
 0
+M15 Allershausen (Njemačka), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Duda A.
+Frohlich M.
+Eichenseher D.
+Erhardt M. A.
+2
+0
+6
+1
+6
+4
 M15 Bucharest 3 (Rumunjska), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -647,6 +760,36 @@ Malis F.
 4
 6
 3
+M15 Champaign, IL (SAD), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Flores J.
+Piatti R.
+Farag-Cao A.
+Peck J.
+2
+1
+4
+6
+6
+4
+10
+8
+M15 Hurghada 6 (Egipat), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Duhan C.
+Javia D.
+Elsayed A.
+Ibrahim K.
+2
+0
+6
+4
+6
+3
 M15 Maanshan 8 (Kina), tvrda podloga (dvorana)
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -663,6 +806,20 @@ Fomin S.
 2
 13
 11
+M15 Monastir 28 (Tunis), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Lock B.
+Sahtali T.
+Dhokia R.
+Jones R.
+2
+0
+7
+5
+6
+0
 M15 Pecs (Mađarska), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -677,6 +834,64 @@ Tenti F.
 3
 6
 3
+M15 Vienna (Austrija), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Denolly C.
+Tsitsipas Pa.
+Braynin A.
+Rivera L.
+0
+2
+6
+4
+7
+7
+6
+5
+7
+7
+M25 Lausanne (Švicarska), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Parenti L.
+Taddia L.
+Marić M.
+Radovanovic T.
+0
+2
+6
+5
+7
+7
+3
+6
+Kraj
+Burdet A.
+Nikles J.
+Baumgartner S.
+Berrut A.
+2
+0
+7
+5
+6
+1
+Kraj
+Burdet A.
+Nikles J.
+Marić M.
+Radovanovic T.
+2
+1
+6
+4
+5
+7
+11
+9
 M25 Maribor (Slovenija), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -691,6 +906,20 @@ Planinsek F. J.
 7
 2
 6
+M25 Oldenzaal (Nizozemska), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Paardekooper S.
+Van Sambeek F.
+Al-Amin K.
+Wessels L.
+2
+0
+7
+5
+6
+4
 M25 Oviedo (Španjolska), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -705,6 +934,22 @@ Palomar X.
 2
 7
 5
+M25 Poznan (Poljska), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Basel V.
+Ribero F.
+Matuszewski P.
+Werblinski J.
+1
+2
+4
+6
+6
+1
+8
+10
 M25 Taipei 2 (Tajvan), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -749,6 +994,38 @@ Kim Eunchae
 3
 10
 8
+W50 Kursumlijska Banja (Srbija), zemlja
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Dencheva R.
+Golovina M.
+Karatancheva L.
+Thombare P.
+2
+1
+6
+4
+6
+0
+7
+7
+10
+7
+W50 Oldenzaal (Nizozemska), zemlja
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Shinikova I.
+Tran L.
+Morderger T.
+Morderger Y.
+0
+2
+3
+6
+3
+6
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -782,10 +1059,10 @@ WTA US Open
 ATP Winston-Salem
 WTA Monterrey
 Augsburg Challenger Muškarci
+Como Challenger Muškarci
 Kingston 2 Challenger Muškarci
-Roehampton 2 Challenger Muškarci
-Zhangjiagang Challenger Muškarci
-Prikaži više (63)
+Plovdiv 3 Challenger Muškarci
+Prikaži više (64)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -839,10 +1116,10 @@ World Series Finals
 MLB
 EP u odbojci za žene 2026
 NOGOMET UŽIVO
-Istra 1961 - Dinamo Zagreb
 Hajduk Split - Lokomotiva Zagreb
 Dinamo Zagreb - Gorica
 Rudeš - Hajduk Split
+Vardarac - Hajduk Split
 Real Madrid - Malaga
 Cagliari - Inter
 Gorica - Rijeka
@@ -890,7 +1167,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Must be 21+. If you or someone you know has a gambling problem, crisis counselling and referral services can be accessed by calling 1-800-GAMBLER (1-800-426-2537) or by texting ILGAMB to 833234. The 1-800-GAMBLER helpline can be used for multi-jurisdictional advertising.
+Igrajte odgovorno. Gambling Therapy. 18+
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
