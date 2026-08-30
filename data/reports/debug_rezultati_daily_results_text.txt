@@ -49,20 +49,179 @@ Andrade A.
 9
 6
 7
-Zhangjiagang (Kina) - Kvalifikacije, tvrda podloga
+Como (Italija) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
-Prekinuto
-Charlton J.
-Kumasaka T.
+Kraj
+Angelini L.
+Lokoli L.
+0
+2
+2
+6
 1
+6
+Kraj
+Gulin S.
+Molleker R.
+2
+1
+6
+3
+1
+6
+6
+3
+Kraj
+Nedic A.
+Garbero F. F.
+2
+0
+6
+0
+6
+0
+Kraj
+Rottoli L.
+La Vela G.
+2
+0
+7
+7
+6
+3
+6
+3
+Kraj
+Gombos N.
+de Marchi A.
+2
 0
 6
 3
-3
+7
+5
+Kraj
+Nikles J.
+Rahmani K.
 2
-40
-40
+0
+6
+2
+6
+4
+Kraj
+Forti F.
+Ricca G.
+2
+0
+6
+1
+6
+1
+Plovdiv 3 (Bugarska) - Kvalifikacije, zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Kirov V.
+Parisca I.
+0
+2
+2
+6
+2
+6
+Kraj
+Tabacco G.
+Shandarov R.
+2
+0
+6
+2
+6
+1
+Kraj
+Vales A.
+Manukyan V.
+2
+1
+6
+4
+3
+6
+6
+3
+Kraj
+Iannaccone F.
+Warik C.
+2
+0
+6
+1
+6
+0
+Kraj
+Ovcharenko O.
+Cherie Ligniere E.
+2
+0
+6
+2
+6
+3
+Porto 2 (Portugal) - Kvalifikacije, zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Izquierdo Luque R.
+Janvier M.
+0
+2
+2
+6
+3
+6
+Kraj
+Kielan S.
+Ghazouani Durand Y.
+2
+1
+7
+5
+1
+6
+6
+3
+Kraj
+Visker N.
+Valdoleiros G.
+2
+0
+6
+2
+6
+0
+Kraj
+Kuzmanov D.
+Freitas J.
+2
+0
+6
+0
+6
+1
+Zhangjiagang (Kina) - Kvalifikacije, tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Charlton J.
+Kumasaka T.
+2
+0
+6
+3
+6
+4
 Kraj
 (predano)
 Kong W.
@@ -80,42 +239,116 @@ Nam J. S.
 4
 6
 3
-Prekinuto
+Kraj
 Matsuda K.
 Uesugi K.
-0
+2
 1
 6
 5
 7
 7
-5
+7
+7
+6
+3
+6
 4
-0
-0
 Otkazano
 Matsuda K.
 Zeng Y.
 -
 -
-Prekinuto
+Kraj
 Meng F.
 Huang T.
+2
 0
-0
+7
 5
-5
+6
 0
-0
-Prekinuto
+Kraj
 Lu H.
 Dev S D P.
 0
+2
+2
+6
+1
+6
+Kraj
+Tang S.
+Peliwo F.
+0
+2
+3
+6
+6
+3
+7
+7
+Kraj
+Moriya H.
+Lomakin G.
+2
+0
+6
+1
+6
+3
+Kraj
+Sultanov K.
+Jiang F.
+2
+0
+6
+4
+6
+3
+Kraj
+Jasika O.
+Wang A.
+2
+0
+7
+7
+6
+0
+6
+2
+Kraj
+Park U.
+Isomura K.
+0
+2
+5
+7
+4
+6
+Prekinuto
+Aguiard E.
+Delaney Je.
+1
+0
+6
+3
+4
+4
 0
 0
+M15 Bucharest 3 (Rumunjska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Turcanu R. D.
+Ghetu G.
+2
 0
-40
-40
+6
+2
+6
+3
 M15 Maanshan 8 (Kina), tvrda podloga (dvorana)
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -130,6 +363,85 @@ Te R.
 6
 4
 6
+M15 Monastir 28 (Tunis), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+(predano)
+Jade D.
+Jadoun N.
+1
+1
+6
+3
+2
+6
+0
+3
+M15 Pecs (Mađarska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Sperle J.
+Monzon I.
+2
+1
+4
+6
+6
+2
+6
+3
+M15 Vienna (Austrija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Martin A.
+Plunger M.
+2
+0
+6
+0
+6
+1
+M25 Lausanne (Švicarska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Chepelev A.
+Bernet H.
+0
+2
+4
+6
+2
+6
+M25 Maribor (Slovenija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Pieri S.
+Dominko S.
+1
+2
+6
+4
+3
+6
+4
+6
+M25 Poznan (Poljska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Michalski D.
+Savano M.
+2
+0
+6
+2
+6
+1
 M25 Taipei 2 (Tajvan), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -144,6 +456,32 @@ Dellavedova M.
 6
 6
 4
+W15 Brasov (Rumunjska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Amariei I. D.
+Lahey A.
+1
+2
+6
+4
+2
+6
+5
+7
+W15 Monastir 23 (Tunis), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Rojas S. C.
+Kikawada R.
+2
+0
+6
+3
+6
+1
 W15 Tianjin 4 (Kina), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -156,6 +494,44 @@ Han J.
 3
 6
 1
+W35 Verbier 2 (Švicarska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Okutoyi A.
+Cvetkovic A.
+0
+2
+4
+6
+3
+6
+W50 Kursumlijska Banja (Srbija), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Stankovic A.
+De Stefano S.
+0
+2
+0
+6
+1
+6
+W75 Bytom (Poljska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Palicova B.
+Zoldakova D.
+2
+1
+3
+6
+7
+5
+6
+4
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -188,11 +564,11 @@ WTA Monterrey
 WTA US Open
 ATP Winston-Salem
 WTA Monterrey
-Augsburg Challenger Muškarci
 Como Challenger Muškarci
 Kingston 2 Challenger Muškarci
 Plovdiv 3 Challenger Muškarci
-Prikaži više (63)
+Porto 2 Challenger Muškarci
+Prikaži više (50)
 KATEGORIJE
 ATP - singl
 WTA - singl
