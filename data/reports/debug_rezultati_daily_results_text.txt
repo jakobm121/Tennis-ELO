@@ -36,6 +36,51 @@ Medjedovic H.
 6
 3
 Kraj
+Shimabukuro S.
+Rinderknech A.
+1
+3
+7
+7
+6
+4
+2
+6
+6
+4
+7
+7
+2
+6
+Kraj
+Wu Y.
+Walton A.
+3
+0
+7
+7
+6
+2
+6
+2
+7
+5
+Kraj
+Lehecka J.
+Carreno-Busta P.
+3
+1
+6
+1
+7
+7
+6
+5
+4
+6
+6
+2
+Kraj
 Merida Aguilar D.
 Fucsovics M.
 3
@@ -46,9 +91,98 @@ Fucsovics M.
 4
 6
 2
+Kraj
+Prižmić D.
+Shevchenko A.
+3
+2
+2
+6
+6
+3
+6
+3
+5
+7
+7
+5
+Kraj
+Harris L.
+Kennedy J.
+3
+0
+6
+4
+6
+2
+6
+2
+Kraj
+Wong C.
+Paul T.
+1
+3
+7
+7
+6
+3
+1
+6
+3
+6
+3
+6
+Kraj
+van Assche L.
+Norrie C.
+3
+1
+6
+6
+7
+8
+6
+2
+6
+2
+6
+3
+Kraj
+Medvedev D.
+Gaston H.
+3
+0
+6
+4
+6
+2
+6
+4
+Kraj
+Samuel T.
+Machac T.
+3
+0
+6
+2
+6
+3
+6
+2
 US Open (SAD), tvrda podloga
 WTA - SINGL: 
 Ždrijeb
+Kraj
+Gibson T.
+Vekić D.
+1
+2
+2
+6
+6
+4
+3
+6
 Kraj
 Paolini J.
 Erjavec V.
@@ -60,6 +194,101 @@ Erjavec V.
 6
 6
 4
+Kraj
+Rakhimova K.
+Krejcikova B.
+2
+0
+7
+7
+6
+4
+6
+2
+Kraj
+Zarazua R.
+Iatcenko P.
+1
+2
+6
+4
+4
+6
+6
+7
+7
+10
+Kraj
+Pegula J.
+Ruse G.
+2
+0
+6
+3
+6
+2
+Kraj
+Zhang S.
+Fernandez L.
+0
+2
+3
+6
+2
+6
+Kraj
+Kalieva E.
+Tararudee L.
+1
+2
+3
+6
+7
+7
+6
+4
+2
+6
+Kraj
+Kostyuk M.
+Hunter S.
+2
+0
+6
+4
+6
+1
+Kraj
+Stefanini L.
+Yastremska D.
+2
+1
+6
+3
+4
+6
+6
+1
+Kraj
+Arango E.
+Wang Xin.
+0
+2
+4
+6
+2
+6
+Kraj
+Vandewinkel H.
+Pliskova Ka.
+1
+2
+6
+2
+5
+7
+3
+6
 Monterrey (Meksiko), tvrda podloga
 WTA - SINGL: 
 Ždrijeb
@@ -200,6 +429,15 @@ Hassan B.
 6
 3
 6
+Kraj
+Chepelev A.
+Ciavarella N.
+2
+0
+6
+2
+6
+2
 Plovdiv 3 (Bugarska) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -305,6 +543,32 @@ Ribero F.
 6
 2
 6
+Kraj
+Mashtakov N.
+Basel V.
+2
+1
+7
+7
+6
+2
+6
+5
+7
+7
+6
+1
+Kraj
+Tolev A.
+Hamza Reguig S.
+2
+1
+6
+3
+5
+7
+6
+4
 Porto 2 (Portugal) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -413,6 +677,19 @@ Burdet A.
 1
 6
 3
+Kraj
+Winter Lopez B.
+Fuele M.
+1
+2
+7
+7
+6
+5
+4
+6
+2
+6
 Zhangjiagang (Kina) - Kvalifikacije, tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -555,6 +832,20 @@ Ghetu G.
 2
 6
 3
+M15 Champaign, IL (SAD), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Vrba J.
+Nakashima B.
+0
+2
+2
+6
+6
+6
+7
+8
 M15 Hurghada 6 (Egipat), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -565,6 +856,22 @@ Funk A.
 0
 6
 2
+6
+3
+M15 Kursumlijska Banja 13 (Srbija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Djuric B.
+Popko D.
+2
+1
+6
+2
+6
+4
+7
+7
 6
 3
 M15 Maanshan 8 (Kina), tvrda podloga (dvorana)
@@ -581,6 +888,18 @@ Te R.
 6
 4
 6
+M15 Mar Del Plata (Argentina), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Aguilar Cardozo J.
+Zarate C. M.
+2
+0
+6
+2
+6
+2
 M15 Monastir 28 (Tunis), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -700,6 +1019,18 @@ Lahey A.
 6
 5
 7
+W15 Hurghada 6 (Egipat), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Vaissaud D.
+Brune E. C.
+2
+0
+6
+2
+6
+1
 W15 Monastir 23 (Tunis), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -724,6 +1055,20 @@ Han J.
 3
 6
 1
+W15 Torello (Španjolska), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Lutkemeyer A.
+Cervino Ruiz C.
+2
+1
+4
+6
+6
+0
+6
+4
 W35 Barueri (Brazil), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -815,16 +1160,16 @@ ATP Parovi Race
 WTA Parovi Race
 AKTUALNI TURNIRI
 ATP US Open
-ATP Winston-Salem
 WTA Monterrey
 WTA US Open
-ATP Winston-Salem
-WTA Monterrey
 Como Challenger Muškarci
 Kingston 2 Challenger Muškarci
+Mallorca Challenger Muškarci
 Plovdiv 3 Challenger Muškarci
 Porto 2 Challenger Muškarci
-Prikaži više (34)
+Zhangjiagang Challenger Muškarci
+Como Challenger Muškarci
+Prikaži više (31)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -852,7 +1197,7 @@ Prikaži više
 Tenis livescore na Rezultatima nudi teniske rezultate uživo za preko 5000 teniskih turnira diljem svijeta, uključujući Australian Open, French Open, Wimbledon, US Open i mnoge druge. Pratite najnovije rezultate iz tenisa na Rezultatima, gdje možete pronaći detaljnu statistiku (asevi, dvostruke pogreške, postotak servisa, osvojeni servisi, spašene break lopte, neprisiljene pogreške, itd.), usporedbu koeficijenata, međuosboni omjer, vijesti, video sažetke ili tijek meča poen po poen. Pronađite sve današnje rezultate i vijesti iz tenisa na Rezultatima, uključujući ATP rezultate, WTA rezultate, ATP poredak, ATP kalendar 2026, WTA kalendar 2026, ili profile igrača (npr. Jannik Sinner, Carlos Alcaraz, Novak Đoković, Donna Vekić). Usluga tenis livescore se automatski ažurira, tako da nema potrebe da osvježavate stranicu.
 
 ATP US Open 2026 rezultati uživo na Rezultati.com stranici! US Open uživo, uz rezultate i ždrijeb.
-30.08. Harris L. - Kennedy J., Munar J. - Atmane T., van Assche L. - Norrie C., Wong C. - Paul T., Medvedev D. - Gaston H., Samuel T. - Machac T., Faria J. - Brooksby J., Tirante T. A. - Mannarino A., Kecmanovic M. - Shapovalov D., Vukic A. - Sakamoto R., Gorzny S. - Collignon R., Etcheverry T. M. - Kopriva V., Landaluce M. - Fearnley J., Michelsen A. - Cina F., 31.08. Navone M. - Đoković N., Bublik A. - Wolf J.J., Vacherot V. - Kovacevic A., Tsitsipas S. - Fils A., Čilić M. - Rublev A., Arnaldi M. - Duckworth J.
+31.08. Michelsen A. - Cina F., Gorzny S. - Collignon R., Landaluce M. - Fearnley J., Navone M. - Đoković N., Bublik A. - Wolf J.J., Vacherot V. - Kovacevic A., Tsitsipas S. - Fils A., Čilić M. - Rublev A., Nakashima B. - Baez S., Dzumhur D. - Hurkacz H., Arnaldi M. - Duckworth J., Rodionov J. - Mpetshi Perricard G., Safiullin R. - Alcaraz C., Shang J. - Trungelliti M., Berrettini M. - Wawrinka S., Svrcina D. - Royer V., Darderi L. - Wendelken H., Hanfmann Y. - Tabilo A., Blockx A. - Barrios Vera T., Borges N. - Tien L.
 WTA US Open 2026 rezultati uživo na Rezultati.com stranici! US Open uživo, uz rezultate i ždrijeb.
 
 NOGOMET
@@ -883,33 +1228,33 @@ Dinamo Zagreb - Gorica
 Rudeš - Hajduk Split
 Vardarac - Hajduk Split
 Bedem Ivankovo - Dinamo Zagreb
-Cagliari - Inter
 Gorica - Rijeka
 Betis - Real Madrid
 Manchester City - Coventry
 Inter - Napoli
+Rijeka - Osijek
 LIVESCORE
-Srbija Ž - Hrvatska Ž
 Navone - Đoković
-Brancaccio - Ajdukovic
 Čilić - Rublev
 Aston Villa - Arsenal
+Brancaccio - Ajdukovic
 Crna Gora - Slovenija
 Grčka - Srbija
 Arsenal - Chelsea
-Radnik Bijeljina - Borac Banja Luka
-Italija - Brazil
+Napoli - Arsenal
+Srbija Ž - Grčka Ž
+Borac Banja Luka - Željezničar
 REZULTATI UŽIVO
 Italija - Srbija
 Litva - Bosna i Hercegovina
 Crna Gora - Ukrajina
-Belgija Ž - Japan Ž
 Grčka - Španjolska
 Belgija Ž - Turska Ž
 Španjolska Ž - Njemačka Ž
 Mađarska Ž - Francuska Ž
 Mali Ž - Španjolska Ž
 Francuska Ž - Južna Koreja Ž
+Turska Ž - Australija Ž
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
