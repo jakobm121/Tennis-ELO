@@ -59,31 +59,58 @@ Otkazano
 Rublev A.
 -
 -
-Prekinuto
-Landaluce M.
-Fearnley J.
-0
-0
-4
+Kraj
+Vacherot V.
+Kovacevic A.
 3
-40
-0
-Prekinuto
-Michelsen A.
-Cina F.
-1
 0
 6
+2
+6
+3
+7
+5
+Kraj
+Tsitsipas S.
+Fils A.
+3
+1
 4
+6
+7
+7
+6
+3
+6
 1
-1
-15
-30
-Prekinuto
+6
+4
+Kraj
+Virtanen O.
+Rublev A.
+2
+3
+7
+7
+6
+5
+7
+7
+6
+0
+0
+6
+2
+6
+6
+5
+7
+10
+Kraj
 Tirante T. A.
 Mannarino A.
 2
-2
+3
 6
 4
 6
@@ -92,28 +119,99 @@ Mannarino A.
 6
 3
 6
+3
+6
+Kraj
+Arnaldi M.
+Duckworth J.
+1
+3
+7
+5
+3
+6
+2
+6
+6
+8
+7
+10
+Kraj
+Gorzny S.
+Collignon R.
+3
+2
+3
+6
+6
+3
+3
+6
+6
+3
+7
+11
+6
+9
+Kraj
+Rodionov J.
+Mpetshi Perricard G.
+3
+0
+7
+7
+6
+2
+6
+0
+7
+7
+6
+4
+Kraj
+Safiullin R.
+Alcaraz C.
+0
+3
+4
+6
+4
+6
+4
+6
+Prekinuto
+Landaluce M.
+Fearnley J.
+2
+2
+6
+4
+2
+6
+6
+4
+5
+7
 2
 5
 0
 0
-Prekinuto
-Gorzny S.
-Collignon R.
-1
-1
+Kraj
+Michelsen A.
+Cina F.
 3
+0
 6
-6
-3
-3
 4
+6
+1
+6
 0
-0
-Prekinuto
+Kraj
 Vukic A.
 Sakamoto R.
 2
-2
+3
 4
 6
 7
@@ -124,10 +222,43 @@ Sakamoto R.
 6
 6
 3
-3
 4
-15
+6
+Prekinuto
+Darderi L.
+Wendelken H.
+1
+0
+6
+2
+2
+4
 30
+30
+Kraj
+Nakashima B.
+Baez S.
+3
+0
+6
+2
+6
+1
+6
+0
+Prekinuto
+Berrettini M.
+Wawrinka S.
+1
+0
+7
+7
+6
+4
+1
+1
+0
+0
 US Open (SAD), tvrda podloga
 WTA - SINGL: 
 Ždrijeb
@@ -151,32 +282,201 @@ Kenin S.
 6
 7
 8
-Prekinuto
-Birrell K.
-Marčinko P.
-0
+Kraj
+Bejlek S.
+Bucsa C.
+1
+2
+5
+7
+6
+4
+1
+6
+Kraj
+Dart H.
+Stearns P.
+2
 1
 3
 6
 6
 3
 6
+2
+Kraj
+Kalinina A.
+Sakatsume H.
+0
+2
 3
+6
+3
+6
+Kraj
+Kraus S.
+Muchova K.
 0
+2
+3
+6
 0
-Prekinuto
+6
+Kraj
+Sawangkaew M.
+Udvardy P.
+2
+0
+6
+4
+6
+3
+Kraj
+Tagger L.
+Korpatsch T.
+2
+0
+6
+0
+7
+7
+6
+4
+Kraj
+Zheng Q.
+Liutova K.
+2
+1
+4
+6
+6
+3
+6
+1
+Kraj
+Jacquemot E.
+Bouzkova M.
+0
+2
+2
+6
+2
+6
+Kraj
+Sabalenka A.
+Osorio C.
+2
+0
+6
+2
+6
+4
+Kraj
 Navarro E.
 Boisson L.
+2
 1
-0
 7
 8
 6
 6
-4
+6
+1
+7
+7
+6
+3
+Kraj
+Ito A.
+Selekhmeteva O.
+0
 2
-30
+2
+6
+4
+6
+Kraj
+Zidansek T.
+Timofeeva M.
+0
+2
+3
+6
+5
+7
+Kraj
+Birrell K.
+Marčinko P.
+2
+1
+3
+6
+7
+7
+6
+4
+6
+3
+Kraj
+Blinkova A.
+Kalinskaya A.
+0
+2
+4
+6
+3
+6
+Kraj
+Chwalinska M.
+Townsend T.
+0
+2
+2
+6
+3
+6
+Kraj
+Krueger A.
+Anisimova A.
+0
+2
+1
+6
+3
+6
+Prekinuto
+Podoroska N.
+Waltert S.
+1
+1
+4
+6
+7
+7
+6
+5
+3
+3
 15
+0
+Kraj
+Golubic V.
+Parry D.
+0
+2
+5
+7
+4
+6
+Kraj
+Snigur D.
+Shnaider D.
+0
+2
+0
+6
+4
+6
 Como (Italija), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -189,6 +489,45 @@ Poljicak M.
 2
 6
 3
+Kraj
+Bueno G.
+Reis Da Silva J.
+2
+0
+6
+2
+7
+5
+Kraj
+Guillen Meza A.
+Schoenhaus M.
+1
+2
+2
+6
+7
+7
+6
+5
+1
+6
+Kraj
+Varillas J. P.
+Kumstat J.
+2
+0
+6
+4
+6
+3
+Kraj
+(predano)
+Arnaboldi F.
+Bondioli F.
+0
+0
+2
+4
 Plovdiv 3 (Bugarska), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -212,6 +551,70 @@ Giunta M.
 7
 3
 6
+Kraj
+Lazarov G.
+Milic O.
+1
+2
+5
+7
+7
+5
+2
+6
+Porto 2 (Portugal), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Heide G.
+Marques G.
+2
+0
+6
+4
+6
+3
+Kraj
+Kolar Z.
+Roca Batalla O.
+0
+2
+1
+6
+1
+6
+Kraj
+Monteiro T.
+Coppejans K.
+2
+0
+6
+4
+6
+2
+Kraj
+Petkovic M.
+Torres T.
+2
+1
+4
+6
+7
+5
+7
+5
+Kraj
+(predano)
+Cuenin S.
+Alcala Gurri M.
+1
+1
+6
+4
+4
+6
+0
+3
 Zhangjiagang (Kina), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -665,6 +1068,20 @@ Isomura K.
 7
 6
 4
+Porto 2 (Portugal), zemlja
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Freitas J.
+Valdoleiros G.
+Damas M.
+Moro Canas A.
+0
+2
+3
+6
+1
+6
 M15 Buzau (Rumunjska), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -690,6 +1107,17 @@ M15 Buzau (Rumunjska), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
 Kraj
+Bentzel C. S.
+Petre S. I. B.
+Brown P.
+Schinteie G. C.
+2
+0
+7
+5
+6
+4
+Kraj
 Andrei L. S.
 Popa D.
 Dumitru A. C.
@@ -702,6 +1130,64 @@ Frunza L.
 3
 10
 8
+Kraj
+Sardo G.
+Teglas I. A.
+Breazu M. F.
+Breazu V. C.
+0
+2
+3
+6
+3
+6
+Kraj
+Brutaru A. S.
+Grigore A.
+Kovac T.
+Kupcic J.
+0
+2
+0
+6
+1
+6
+Kraj
+Constantin A.
+Marinescu M. R.
+Mortasifu M.
+Partal M. M.
+2
+0
+6
+4
+6
+1
+Kraj
+(predano)
+Hebhang Balan A. T.
+Morega D. - I.
+Coreisa E. G.
+Jinga A.
+0
+1
+1
+6
+0
+3
+Kraj
+Bove F.
+Pizzigoni M.
+Gima S.
+Golescu R. A.
+1
+2
+6
+4
+1
+6
+8
+10
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -738,7 +1224,7 @@ Zhangjiagang Challenger Muškarci
 Como Challenger Muškarci
 Mallorca Challenger Muškarci
 Plovdiv 3 Challenger Muškarci
-Prikaži više (21)
+Prikaži više (46)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -766,7 +1252,7 @@ Prikaži više
 Tenis livescore na Rezultatima nudi teniske rezultate uživo za preko 5000 teniskih turnira diljem svijeta, uključujući Australian Open, French Open, Wimbledon, US Open i mnoge druge. Pratite najnovije rezultate iz tenisa na Rezultatima, gdje možete pronaći detaljnu statistiku (asevi, dvostruke pogreške, postotak servisa, osvojeni servisi, spašene break lopte, neprisiljene pogreške, itd.), usporedbu koeficijenata, međuosboni omjer, vijesti, video sažetke ili tijek meča poen po poen. Pronađite sve današnje rezultate i vijesti iz tenisa na Rezultatima, uključujući ATP rezultate, WTA rezultate, ATP poredak, ATP kalendar 2026, WTA kalendar 2026, ili profile igrača (npr. Jannik Sinner, Carlos Alcaraz, Novak Đoković, Donna Vekić). Usluga tenis livescore se automatski ažurira, tako da nema potrebe da osvježavate stranicu.
 
 ATP US Open 2026 rezultati uživo na Rezultati.com stranici! US Open uživo, uz rezultate i ždrijeb.
-31.08. Vacherot V. - Kovacevic A., Tsitsipas S. - Fils A., Virtanen O. - Rublev A., Arnaldi M. - Duckworth J., Safiullin R. - Alcaraz C., Rodionov J. - Mpetshi Perricard G., Nakashima B. - Baez S., Svrcina D. - Royer V., Darderi L. - Wendelken H., Shang J. - Trungelliti M., Dzumhur D. - Hurkacz H., Hanfmann Y. - Tabilo A., Berrettini M. - Wawrinka S., Blockx A. - Barrios Vera T., Halys Q. - Diaz Acosta F., Mensik J. - Mochizuki S., Auger-Aliassime F. - Hijikata R., Burruchaga R. A. - Khachanov K., Borges N. - Tien L., Dimitrov G. - Popyrin A.
+31.08. Shang J. - Trungelliti M., 01.09. Mensik J. - Mochizuki S., Auger-Aliassime F. - Hijikata R., Burruchaga R. A. - Khachanov K., Borges N. - Tien L., Halys Q. - Diaz Acosta F., Shelton B. - Griekspoor T., Dimitrov G. - Popyrin A., Damm M. - Tiafoe F., Sweeny D. - Moutet C., Comesana F. - Cobolli F., Misolic F. - Cerundolo F., Bellucci M. - Piros Z., Basavareddy N. - Schoolkate T., Fery A. - Musetti L., Bergs Z. - Taberner C., Ugo Carabelli C. - Struff J-L., Fritz T. - Blanch Dar., De Jong J. - Passaro F., Cerundolo J. M. - Gea A.
 WTA US Open 2026 rezultati uživo na Rezultati.com stranici! US Open uživo, uz rezultate i ždrijeb.
 
 NOGOMET
@@ -792,19 +1278,17 @@ World Series Finals
 MLB
 EP u odbojci za žene 2026
 NOGOMET UŽIVO
-Hajduk Split - Lokomotiva Zagreb
 Dinamo Zagreb - Gorica
 Rudeš - Hajduk Split
 Vardarac - Hajduk Split
 Bedem Ivankovo - Dinamo Zagreb
-Gorica - Rijeka
 Betis - Real Madrid
 Manchester City - Coventry
 Inter - Napoli
 Rijeka - Osijek
+Real Madrid - Inter
+Porto - Manchester City
 LIVESCORE
-Čilić - Rublev
-Aston Villa - Arsenal
 Brancaccio - Ajdukovic
 Crna Gora - Slovenija
 Grčka - Srbija
@@ -813,17 +1297,19 @@ Napoli - Arsenal
 Srbija Ž - Grčka Ž
 Borac Banja Luka - Željezničar
 Sarajevo - Borac Banja Luka
+Bugarska - Sj. Makedonija
+Italija - Švedska
 REZULTATI UŽIVO
-Italija - Srbija
 Milano - Crvena Zvezda Meridianbet
-Litva - Bosna i Hercegovina
-Crna Gora - Ukrajina
 MoraBanc Andorra - Barcelona
-Grčka - Španjolska
 Fenerbahce - Tofas
 Breogan - Mega Basket
 Belgija Ž - Turska Ž
 Španjolska Ž - Njemačka Ž
+Olympiakos - Fenerbahce
+Mađarska Ž - Francuska Ž
+Mali Ž - Španjolska Ž
+Real Madrid - Baskonia
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
@@ -843,7 +1329,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Must be 21+. If you or someone you know has a gambling problem, crisis counselling and referral services can be accessed by calling 1-800-GAMBLER (1-800-426-2537) or by texting ILGAMB to 833234. The 1-800-GAMBLER helpline can be used for multi-jurisdictional advertising.
+Igrajte odgovorno. Gambling Therapy. 18+
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
