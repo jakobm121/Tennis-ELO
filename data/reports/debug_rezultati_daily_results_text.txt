@@ -25,6 +25,21 @@ US Open (SAD), tvrda podloga
 ATP - SINGL: 
 Ždrijeb
 Kraj
+Halys Q.
+Diaz Acosta F.
+3
+1
+6
+4
+7
+5
+6
+7
+7
+9
+6
+1
+Kraj
 Borges N.
 Tien L.
 0
@@ -34,6 +49,73 @@ Tien L.
 1
 6
 2
+6
+Kraj
+Auger-Aliassime F.
+Hijikata R.
+3
+1
+7
+5
+4
+6
+6
+3
+7
+5
+Kraj
+Dimitrov G.
+Popyrin A.
+1
+3
+6
+3
+3
+6
+2
+6
+4
+6
+Kraj
+Shelton B.
+Griekspoor T.
+3
+1
+1
+6
+6
+1
+7
+7
+6
+3
+6
+2
+Kraj
+Mensik J.
+Mochizuki S.
+3
+0
+6
+1
+6
+4
+7
+5
+Kraj
+Damm M.
+Tiafoe F.
+2
+3
+4
+6
+6
+4
+6
+3
+3
+6
+4
 6
 Otkazano
 Cerundolo J. M.
@@ -61,6 +143,38 @@ Wang Xiy.
 2
 6
 3
+Kraj
+Osaka N.
+Zakharova A.
+2
+0
+7
+8
+6
+6
+7
+7
+6
+3
+Otkazano
+Potapova A.
+Valentova T.
+-
+-
+Plovdiv 3 (Bugarska), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Ovcharenko O.
+Strombachs R.
+2
+0
+6
+2
+7
+7
+6
+5
 Porto 2 (Portugal), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -69,6 +183,731 @@ Michalski D.
 Moro Canas A.
 -
 -
+Zhangjiagang (Kina), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Simakin I.
+Yevseyev D.
+2
+0
+6
+1
+6
+2
+Kraj
+(predano)
+Castelnuovo L.
+Dellavedova M.
+1
+1
+6
+4
+3
+6
+1
+4
+Kraj
+Tomic B.
+Imamura M.
+2
+1
+6
+4
+3
+6
+6
+4
+Kraj
+(predano)
+Hsu Y. H.
+Ymer E.
+1
+0
+7
+7
+6
+4
+5
+5
+Kraj
+Matsuda K.
+Delaney Ja.
+2
+0
+7
+7
+6
+4
+7
+8
+6
+6
+Kraj
+Bar Biryukov P.
+Leong M. W. K.
+0
+2
+6
+3
+7
+7
+3
+6
+Kraj
+Tseng C. H.
+Zhang T.
+2
+0
+6
+4
+6
+0
+Kraj
+Samrej K.
+Moriya H.
+2
+0
+6
+1
+7
+7
+6
+2
+Kraj
+Sultanov K.
+Fomin S.
+2
+0
+7
+5
+6
+0
+Kraj
+Aguiard E.
+Matsuoka H.
+2
+0
+6
+3
+6
+4
+M15 Bali 3 (Indonezija), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Barki N. A.
+Perez Ramos P.
+2
+1
+6
+2
+2
+6
+6
+4
+Kraj
+Chang A.
+Borg L.
+0
+2
+5
+7
+4
+6
+Kraj
+Jones H.
+Konovchuk V.
+2
+0
+6
+0
+6
+1
+Kraj
+Visaya A.
+Singh D.
+0
+2
+4
+6
+2
+6
+Kraj
+Mehrotra A.
+Dembo J.
+2
+0
+6
+2
+6
+3
+Kraj
+Patton T.
+Rathi A.
+2
+0
+6
+2
+7
+12
+6
+10
+Kraj
+Ryan Ziegann S.
+Ahren Moonga E.
+2
+0
+6
+3
+6
+4
+Kraj
+Vu Ha Minh Duc
+Seitz J.
+2
+0
+6
+2
+6
+4
+Kraj
+Ellis B.
+Falck R.
+2
+0
+7
+7
+6
+3
+6
+4
+M15 Nonthaburi (Tajland), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Bertran P.
+Kesharwani M.
+1
+2
+4
+6
+6
+3
+0
+6
+Kraj
+Chanta T.
+Masabayashi T.
+2
+0
+6
+1
+6
+2
+Kraj
+Nirundorn T.
+Dzhavakian Y.
+2
+0
+6
+3
+6
+1
+Kraj
+O'Connell B.
+Suresh K.
+2
+1
+6
+3
+2
+6
+6
+2
+Kraj
+Bouzige M.
+Venkataraman A.
+2
+0
+6
+4
+6
+3
+Kraj
+Van Herzeele J.
+Sureshkumar M.
+0
+2
+6
+7
+7
+9
+3
+6
+M25 Urayasu (Japan), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Saitoh K.
+Okabe S.
+2
+0
+6
+1
+6
+4
+Kraj
+Mitsui S.
+Nakagawa S.
+2
+0
+6
+4
+6
+2
+Kraj
+Takahata R.
+Koizumi N.
+0
+2
+5
+7
+3
+6
+Kraj
+Tanuma R.
+Kawahashi Y.
+2
+1
+1
+6
+6
+4
+6
+1
+Kraj
+Ichikawa T.
+Roddick J.
+2
+0
+6
+1
+7
+5
+Kraj
+Oki Y.
+Imai S.
+2
+0
+6
+1
+6
+4
+Kraj
+Ochi M.
+Tanaka Y.
+2
+0
+6
+2
+6
+1
+Kraj
+(predano)
+Lee K.
+Katayama S.
+1
+1
+3
+6
+6
+3
+3
+0
+W15 Yeongwol (Južna Koreja), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Kim D.
+Uemura M.
+2
+0
+6
+3
+6
+3
+Kraj
+Lee H. E.
+Mushika Mio
+2
+0
+6
+3
+6
+1
+Kraj
+Yodpetch K.
+Im H.
+2
+0
+7
+7
+6
+5
+6
+3
+W75 Tianjin (Kina), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Kulikova A.
+Yao X.
+2
+1
+6
+4
+4
+6
+6
+2
+Kraj
+Wang J.
+Bai Z.
+0
+2
+5
+7
+2
+6
+Kraj
+Yamaguchi M.
+Back D.
+2
+0
+6
+2
+6
+1
+Kraj
+Naito Y.
+Astakhova D.
+0
+2
+1
+6
+6
+5
+7
+7
+Kraj
+Kuramochi M.
+Inoue H.
+2
+0
+6
+2
+6
+2
+Kraj
+Wang J.
+Yang Y.
+2
+1
+6
+2
+5
+7
+7
+7
+6
+3
+Kraj
+Huang Yujia
+Ma Y.
+0
+2
+3
+6
+2
+6
+Kraj
+Okamura K.
+Sidorova K.
+0
+2
+3
+6
+2
+6
+M15 Bali 3 (Indonezija), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Chauhan H.
+Singh D.
+Beamish N.
+Shearer M.
+0
+2
+3
+6
+1
+6
+Kraj
+Da Costa R.
+Zapp E. D.
+Jaisinghani R.
+Kamboj U.
+2
+1
+5
+7
+6
+3
+10
+4
+Kraj
+Lin N. H.
+Wang K.
+Nakamura R.
+Susanto A.
+2
+1
+6
+3
+7
+7
+6
+4
+10
+5
+M15 Nonthaburi (Tajland), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Chinsupakul A.
+Kamput V.
+Muto S.
+Suzuki K.
+0
+2
+2
+6
+2
+6
+Kraj
+Dong C.
+Hasson J.
+Blando M.
+Hashimoto H.
+0
+2
+1
+6
+6
+6
+7
+8
+Kraj
+Arcon A.
+Bertran P.
+Charoenphon Y.
+Srisen T.
+2
+1
+7
+7
+6
+5
+4
+6
+10
+5
+Kraj
+Chaiyarin C.
+Dzhavakian Y.
+Bangargi A.
+Shetty N. D.
+2
+1
+6
+5
+7
+7
+6
+0
+10
+3
+Kraj
+Kitthachok K.
+Sukkho P.
+Chanta T.
+Srirat T.
+0
+2
+1
+6
+2
+6
+Kraj
+Masabayashi T.
+Sumizawa D.
+Congcar C.
+Koaykul K.
+2
+0
+6
+4
+6
+4
+M15 Wuning 7 (Kina), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Chen X. D.
+Li W.
+Choe J.
+Kim G. J.
+0
+2
+4
+6
+2
+6
+Kraj
+Guo C.
+Zhang S.
+Sinclair C.
+Vujic S.
+0
+2
+4
+6
+2
+6
+Kraj
+Purcell M.
+Wang Z.
+Koyama H.
+Tomida Y.
+2
+0
+6
+4
+6
+2
+Kraj
+Rifqi Fitriadi M.
+Zhao Z.
+Sun Z.
+Wang Y.
+0
+2
+2
+6
+3
+6
+M25 Urayasu (Japan), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Kusuhara Y.
+Nakagawa S.
+Inui Y.
+Ogura K.
+2
+0
+6
+4
+6
+4
+Kraj
+Vance J.
+Vance J.
+Saitoh K.
+Tanuma R.
+0
+2
+6
+5
+7
+7
+3
+6
+Kraj
+Cho Seung Woo
+Chung Y.
+Koizumi N.
+Taka Y.
+2
+0
+6
+2
+6
+4
+Kraj
+Mitsui S.
+Nakagawa N.
+Ichikawa T.
+Noguchi M.
+2
+0
+6
+0
+6
+4
+W35 Kursumlijska Banja (Srbija), zemlja
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Golubovic L. H.
+Stosovic M.
+Milenkovic S.
+Srbulovic S.
+2
+0
+6
+0
+6
+0
+Kraj
+(predano)
+Chatziavraam E.
+Fiadosik K.
+Kostova A.
+Su S.
+0
+0
+0
+1
+W75 Tianjin (Kina), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Kobori M.
+Shimizu A.
+Lee E.
+Sato H.
+2
+0
+6
+2
+6
+1
+Kraj
+Wei S.
+Yuan C.
+Li Y.
+Zhang Y.
+1
+2
+3
+6
+7
+5
+4
+10
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -105,7 +944,7 @@ Zhangjiagang Challenger Muškarci
 Como Challenger Muškarci
 Mallorca Challenger Muškarci
 Plovdiv 3 Challenger Muškarci
-Prikaži više (50)
+Prikaži više (55)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -133,7 +972,7 @@ Prikaži više
 Tenis livescore na Rezultatima nudi teniske rezultate uživo za preko 5000 teniskih turnira diljem svijeta, uključujući Australian Open, French Open, Wimbledon, US Open i mnoge druge. Pratite najnovije rezultate iz tenisa na Rezultatima, gdje možete pronaći detaljnu statistiku (asevi, dvostruke pogreške, postotak servisa, osvojeni servisi, spašene break lopte, neprisiljene pogreške, itd.), usporedbu koeficijenata, međuosboni omjer, vijesti, video sažetke ili tijek meča poen po poen. Pronađite sve današnje rezultate i vijesti iz tenisa na Rezultatima, uključujući ATP rezultate, WTA rezultate, ATP poredak, ATP kalendar 2026, WTA kalendar 2026, ili profile igrača (npr. Jannik Sinner, Carlos Alcaraz, Novak Đoković, Donna Vekić). Usluga tenis livescore se automatski ažurira, tako da nema potrebe da osvježavate stranicu.
 
 ATP US Open 2026 rezultati uživo na Rezultati.com stranici! US Open uživo, uz rezultate i ždrijeb.
-01.09. Damm M. - Tiafoe F., Sweeny D. - Moutet C., Comesana F. - Cobolli F., Misolic F. - Cerundolo F., Bellucci M. - Piros Z., Basavareddy N. - Schoolkate T., Fery A. - Musetti L., Bergs Z. - Taberner C., Ugo Carabelli C. - Struff J-L., Fritz T. - Blanch Dar., De Jong J. - Passaro F., Jodar R. - Kokkinakis T., Cerundolo J. M. - Gea A., Marozsan F. - Zheng M., Svajda Z. - Altmaier D., Molcan A. - Bonzi B., Choinski J. - Van De Zandschulp B., Giron M. - Buse I., Guerrieri A. - De Minaur A., 02.09. Vallejo D. - Monfils G.
+01.09. Sweeny D. - Moutet C., Comesana F. - Cobolli F., Misolic F. - Cerundolo F., Bellucci M. - Piros Z., Basavareddy N. - Schoolkate T., Fery A. - Musetti L., Bergs Z. - Taberner C., Ugo Carabelli C. - Struff J-L., Fritz T. - Blanch Dar., De Jong J. - Passaro F., Jodar R. - Kokkinakis T., Cerundolo J. M. - Gea A., Marozsan F. - Zheng M., Svajda Z. - Altmaier D., Molcan A. - Bonzi B., Choinski J. - Van De Zandschulp B., Giron M. - Buse I., Guerrieri A. - De Minaur A., 02.09. Vallejo D. - Monfils G., Zverev A. - Sonego L.
 WTA US Open 2026 rezultati uživo na Rezultati.com stranici! US Open uživo, uz rezultate i ždrijeb.
 
 NOGOMET
@@ -210,7 +1049,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Must be 21+. If you or someone you know has a gambling problem, crisis counselling and referral services can be accessed by calling 1-800-GAMBLER (1-800-426-2537) or by texting ILGAMB to 833234. The 1-800-GAMBLER helpline can be used for multi-jurisdictional advertising.
+Igrajte odgovorno. Gambling Therapy. 18+
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
