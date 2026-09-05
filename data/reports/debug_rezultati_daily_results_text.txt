@@ -48,6 +48,23 @@ Tiafoe F.
 6
 4
 6
+Kraj
+Shelton B.
+Shapovalov D.
+3
+1
+7
+7
+6
+3
+6
+5
+7
+7
+6
+3
+6
+4
 US Open (SAD), tvrda podloga
 WTA - SINGL: 
 Ždrijeb
@@ -123,6 +140,63 @@ Joint M.
 7
 7
 10
+Zhangjiagang (Kina), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Simakin I.
+Leong M. W. K.
+2
+1
+6
+3
+6
+3
+7
+7
+6
+3
+Kraj
+Samrej K.
+Tseng C. H.
+2
+0
+6
+3
+7
+7
+6
+1
+Como (Italija), zemlja
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Drzewiecki K.
+Matuszewski P.
+Kalender A.
+Serdarusic N.
+0
+2
+3
+6
+4
+6
+Zhangjiagang (Kina), tvrda podloga
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Nam J. S.
+Park U.
+Charlton J.
+Wang A.
+2
+1
+6
+3
+4
+6
+13
+11
 M15 Bali 3 (Indonezija), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -137,9 +211,174 @@ Becroft I.
 4
 2
 6
+Kraj
+Taguchi R.
+Singh K.
+0
+2
+3
+6
+3
+6
+M15 Buzau (Rumunjska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Madaras N.
+Rispoli N.
+2
+1
+6
+3
+1
+6
+6
+4
+M15 Haren (Nizozemska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Loureiro J. V. C.
+Khoeblal E.
+2
+0
+7
+8
+6
+6
+6
+1
+Kraj
+Paardekooper S.
+Jong S.
+0
+2
+3
+6
+5
+7
+Kraj
+Wassermann D.
+Donders D.
+2
+0
+6
+3
+6
+4
+M15 Hurghada 7 (Egipat), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Fellows J.
+Duhan C.
+1
+2
+4
+6
+7
+7
+6
+3
+5
+7
+Kraj
+(predano)
+Gannon C.
+Javia D.
+0
+1
+5
+7
+3
+4
+M15 Madrid (Španjolska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Nijboer R.
+Manzanera Pertusa A.
+2
+0
+7
+7
+6
+2
+6
+2
+M15 Monastir 29 (Tunis), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Plans J.
+Dougaz A.
+0
+2
+2
+6
+2
+6
+M15 Nonthaburi (Tajland), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+(predano)
+Bax F.
+Bouzige M.
+0
+1
+6
+7
+7
+9
+3
+4
+Kraj
+Suksumrarn T.
+Weber A.
+0
+2
+1
+6
+2
+6
+M15 Szczawno (Poljska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Juszczak P.
+Hallquist Lithen J.
+0
+2
+2
+6
+0
+6
+Kraj
+Lagerbohm L.
+Agwi M.
+2
+0
+6
+3
+6
+3
 M15 Wuning 7 (Kina), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
+Kraj
+Sinclair C.
+Sun Qian
+1
+2
+6
+4
+2
+6
+6
+7
+7
+9
 Kraj
 Tomida Y.
 Kim G. J.
@@ -149,6 +388,133 @@ Kim G. J.
 2
 6
 3
+M25 Meerbusch (Njemačka), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Faucon R.
+Tahirović A.
+2
+1
+6
+1
+4
+6
+6
+4
+M25 Urayasu (Japan), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Erel Y.
+Matsuda R.
+0
+2
+4
+6
+4
+6
+Kraj
+Nakagawa N.
+Lee K.
+2
+1
+6
+3
+3
+6
+6
+0
+W15 Brasov 2 (Rumunjska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Ogescu S.
+Breaz A.
+0
+2
+1
+6
+4
+6
+W15 Cap d'Agde (Francuska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Bayerlova M.
+Van Zyl J.
+0
+2
+5
+7
+0
+6
+W15 Grodzisk Mazowiecki (Poljska), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Lazarenko K.
+Adams J.
+2
+0
+6
+4
+6
+0
+W15 Hurghada 7 (Egipat), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Hansen S. O.
+Perapekhina Y.
+0
+2
+3
+6
+2
+6
+Kraj
+Nepliy E.
+Ezzat Y.
+0
+2
+3
+6
+5
+7
+W15 Monastir 24 (Tunis), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Ansari C.
+Blomqvist C.
+2
+0
+6
+1
+6
+2
+Kraj
+Rojas S. C.
+Tse E.
+0
+2
+1
+6
+1
+6
+W15 Pécs (Mađarska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Mrazikova K.
+Senica A.
+2
+0
+6
+3
+6
+4
 W15 Yeongwol (Južna Koreja), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -158,6 +524,31 @@ Sato N.
 0
 2
 1
+6
+2
+6
+Kraj
+Sawashiro K.
+Yodpetch K.
+1
+2
+6
+4
+6
+4
+7
+7
+2
+6
+W35 Kursumlijska Banja (Srbija), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Radovanovic N.
+Zaytseva K.
+0
+2
+3
 6
 2
 6
@@ -173,6 +564,15 @@ Cheapchandej P.
 3
 6
 3
+Kraj
+Bai Z.
+Garland J.
+0
+2
+0
+6
+4
+6
 M15 Bali 3 (Indonezija), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -189,6 +589,38 @@ Perez Ramos P.
 1
 7
 7
+M15 Bologna (Italija), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Dragoni A.
+Filippi T.
+Baldisserri E.
+Bilardo J.
+0
+2
+3
+6
+1
+6
+M15 Nonthaburi (Tajland), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Kesharwani M.
+Sureshkumar M.
+Alcantara F. C.
+Sornlaksup P.
+1
+2
+6
+4
+7
+7
+7
+5
+8
+10
 M15 Trelew (Argentina), tvrda podloga (dvorana)
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -203,20 +635,82 @@ Valente R.
 2
 6
 1
+M15 Wuning 7 (Kina), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Choe J.
+Kim G. J.
+Jin Y.
+Sun Qian
+1
+2
+4
+6
+6
+3
+3
+10
 M25 Meerbusch (Njemačka), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
-Prekinuto
+Kraj
 Vasa E.
 Vasa I.
 Braynin A.
 Hipfl N.
+2
 0
-0
+7
+7
+6
 5
-5
+6
+4
+M25 Urayasu (Japan), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Kusuhara Y.
+Nakagawa S.
+Mitsui S.
+Nakagawa N.
+2
 0
-15
+6
+4
+6
+4
+W15 Yeongwol (Južna Koreja), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Muramatsu C.
+Yoshioka K.
+Jeong B.
+Kim N.
+0
+2
+4
+6
+2
+6
+W75 Tianjin (Kina), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Kobori M.
+Shimizu A.
+Li Y.
+Zhang Y.
+2
+1
+6
+0
+4
+6
+10
+8
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -281,7 +775,7 @@ Prikaži više
 Tenis livescore na Rezultatima nudi teniske rezultate uživo za preko 5000 teniskih turnira diljem svijeta, uključujući Australian Open, French Open, Wimbledon, US Open i mnoge druge. Pratite najnovije rezultate iz tenisa na Rezultatima, gdje možete pronaći detaljnu statistiku (asevi, dvostruke pogreške, postotak servisa, osvojeni servisi, spašene break lopte, neprisiljene pogreške, itd.), usporedbu koeficijenata, međuosboni omjer, vijesti, video sažetke ili tijek meča poen po poen. Pronađite sve današnje rezultate i vijesti iz tenisa na Rezultatima, uključujući ATP rezultate, WTA rezultate, ATP poredak, ATP kalendar 2026, WTA kalendar 2026, ili profile igrača (npr. Jannik Sinner, Carlos Alcaraz, Novak Đoković, Donna Vekić). Usluga tenis livescore se automatski ažurira, tako da nema potrebe da osvježavate stranicu.
 
 ATP US Open 2026 rezultati uživo na Rezultati.com stranici! US Open uživo, uz rezultate i ždrijeb.
-05.09. Fritz T. - Cerundolo F., Blockx A. - Cobolli F., Darderi L. - Sweeny D., Khachanov K. - Bonzi B., Zheng M. - Gea A., Bergs Z. - Van De Zandschulp B., 06.09. Mensik J. - Tien L., Zverev A. - Tabilo A., Paul T. - Alcaraz C., Michelsen A. - Etcheverry T. M., Medvedev D. - Tiafoe F.
+05.09. Fritz T. - Cerundolo F., Blockx A. - Cobolli F., Darderi L. - Sweeny D., Khachanov K. - Bonzi B., Zheng M. - Gea A., Bergs Z. - Van De Zandschulp B., 06.09. Mensik J. - Tien L., Zverev A. - Tabilo A., Paul T. - Alcaraz C., Michelsen A. - Etcheverry T. M., Medvedev D. - Tiafoe F., Shelton B. - Tsitsipas S.
 WTA US Open 2026 rezultati uživo na Rezultati.com stranici! US Open uživo, uz rezultate i ždrijeb.
 
 NOGOMET
@@ -335,10 +829,10 @@ GKK Šibenka - Split
 MoraBanc Andorra - Barcelona
 Besiktas - Dubai
 Panathinaikos - AEK Athens
-Mali Ž - Španjolska Ž
 Real Madrid - Baskonia
 Francuska Ž - Južna Koreja Ž
 Turska Ž - Australija Ž
+Portoriko Ž - Belgija Ž
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
