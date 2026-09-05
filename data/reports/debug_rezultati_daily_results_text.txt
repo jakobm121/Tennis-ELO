@@ -79,6 +79,28 @@ Kalinskaya A.
 2
 3
 6
+Kraj
+Keys M.
+Zheng Q.
+1
+2
+6
+1
+6
+3
+7
+7
+5
+7
+Kraj
+Potapova A.
+Anisimova A.
+2
+0
+6
+2
+7
+5
 US Open (SAD), tvrda podloga
 ATP - PAROVI: 
 Ždrijeb
@@ -107,6 +129,71 @@ Atmane T.
 Romboli F.
 -
 -
+Kraj
+Demoliner M.
+Ho R.
+Lammons N.
+Withrow J.
+1
+2
+6
+4
+6
+1
+7
+7
+2
+6
+Kraj
+Jebens H.
+Reyes-Varela M. A.
+Granollers M.
+Zeballos H.
+0
+2
+5
+7
+3
+6
+Kraj
+Pieczonka F.
+Stevens B.
+Krajicek A.
+Mektic N.
+0
+2
+1
+6
+6
+1
+7
+7
+Kraj
+Seggerman R.
+Trhac P.
+Bhambri Y.
+Venus M.
+2
+0
+7
+7
+6
+4
+7
+7
+6
+3
+Kraj
+Bublik A.
+Shang J.
+Baez S.
+Marozsan F.
+2
+0
+6
+2
+6
+4
 US Open (SAD), tvrda podloga
 WTA - PAROVI: 
 Ždrijeb
@@ -140,6 +227,48 @@ Joint M.
 7
 7
 10
+Kraj
+Fernandez L.
+Tjen J.
+Routliffe E.
+Sutjiadi A.
+0
+2
+4
+6
+4
+6
+Kraj
+Perez E.
+Schuurs D.
+Pridankina E.
+Tang Q.
+2
+1
+6
+2
+6
+3
+7
+7
+6
+3
+Como (Italija), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Varillas J. P.
+Clarke J.
+2
+1
+6
+4
+7
+7
+7
+5
+6
+1
 Mallorca (Španjolska), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -245,6 +374,38 @@ Serdarusic N.
 6
 4
 6
+Plovdiv 3 (Bugarska), zemlja
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Genov A.
+Ovcharenko O.
+Aboian V.
+La Serna J. M.
+1
+2
+6
+4
+5
+7
+8
+10
+Porto 2 (Portugal), zemlja
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Vives Marcos P.
+Winter Lopez B.
+Martos Gornes S.
+Walkow S.
+1
+2
+4
+6
+6
+4
+5
+10
 Zhangjiagang (Kina), tvrda podloga
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -296,6 +457,17 @@ Crivellaro G.
 4
 6
 4
+Kraj
+Berto L.
+Bosio G.
+1
+2
+6
+2
+3
+6
+4
+6
 M15 Buzau (Rumunjska), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -351,6 +523,26 @@ Donders D.
 0
 6
 3
+6
+4
+Kraj
+Jong S.
+De Lange P.
+2
+0
+6
+0
+6
+1
+Kraj
+Wassermann D.
+Loureiro J. V. C.
+2
+1
+5
+7
+6
+2
 6
 4
 M15 Hurghada 7 (Egipat), tvrda podloga
@@ -560,6 +752,15 @@ Loge J.
 7
 6
 4
+Kraj
+Bennani K.
+Dlimi Y.
+2
+0
+6
+3
+6
+3
 M25 Meerbusch (Njemačka), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -583,6 +784,20 @@ Fernandez B.
 5
 6
 4
+Kraj
+(predano)
+Faucon R.
+Vasa E.
+1
+1
+7
+7
+6
+5
+5
+7
+0
+0
 M25 Urayasu (Japan), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -618,6 +833,17 @@ Bertrand R.
 6
 5
 7
+Kraj
+Knaff A.
+Perot R.
+0
+2
+6
+3
+7
+7
+2
+6
 W15 Badalona (Španjolska), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -692,6 +918,21 @@ Gentili A.
 4
 6
 1
+Kraj
+Gandolfi F.
+Trevisan F.
+1
+2
+4
+6
+7
+7
+6
+4
+6
+1
+7
+7
 W15 Grodzisk Mazowiecki (Poljska), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -764,6 +1005,15 @@ Claeys L.
 7
 6
 4
+Kraj
+De Koning R.
+Horvit M.
+0
+2
+0
+6
+1
+6
 W15 Hurghada 7 (Egipat), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -866,6 +1116,17 @@ Cruz A.
 6
 6
 4
+Kraj
+Sanchez Uribe M. J.
+Candiotto A.
+1
+2
+3
+6
+7
+5
+3
+6
 W15 Yeongwol (Južna Koreja), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -924,6 +1185,21 @@ Fruhvirtova L.
 6
 0
 6
+Kraj
+Werner C.
+Klugman H.
+1
+2
+6
+3
+7
+7
+6
+3
+6
+5
+7
+7
 W50 Saint-Palais-sur-Mer (Francuska), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -938,6 +1214,15 @@ Urgesi F.
 7
 6
 4
+Kraj
+Ferro F.
+Pace F.
+2
+0
+6
+4
+6
+2
 W75 Tianjin (Kina), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -1144,6 +1429,17 @@ Ratti L.
 6
 8
 10
+Kraj
+Fernandez B.
+Ratti L.
+Vasa E.
+Vasa I.
+0
+2
+3
+6
+1
+6
 M25 Urayasu (Japan), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -1172,6 +1468,20 @@ Pietri B.
 6
 4
 6
+W15 Badalona (Španjolska), zemlja
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Hui K.
+Lutkemeyer A.
+Cassani S.
+Paun G.
+2
+0
+6
+2
+6
+3
 W15 Brasov 2 (Rumunjska), zemlja
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -1220,6 +1530,22 @@ Sharabura K.
 3
 6
 4
+W15 Hurghada 7 (Egipat), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Abouelsaad H.
+Betova M.
+Petretic L.
+Weckerle M.
+2
+1
+6
+3
+3
+6
+10
+3
 W15 Monastir 24 (Tunis), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -1344,7 +1670,7 @@ Prikaži više
 Tenis livescore na Rezultatima nudi teniske rezultate uživo za preko 5000 teniskih turnira diljem svijeta, uključujući Australian Open, French Open, Wimbledon, US Open i mnoge druge. Pratite najnovije rezultate iz tenisa na Rezultatima, gdje možete pronaći detaljnu statistiku (asevi, dvostruke pogreške, postotak servisa, osvojeni servisi, spašene break lopte, neprisiljene pogreške, itd.), usporedbu koeficijenata, međuosboni omjer, vijesti, video sažetke ili tijek meča poen po poen. Pronađite sve današnje rezultate i vijesti iz tenisa na Rezultatima, uključujući ATP rezultate, WTA rezultate, ATP poredak, ATP kalendar 2026, WTA kalendar 2026, ili profile igrača (npr. Jannik Sinner, Carlos Alcaraz, Novak Đoković, Donna Vekić). Usluga tenis livescore se automatski ažurira, tako da nema potrebe da osvježavate stranicu.
 
 ATP US Open 2026 rezultati uživo na Rezultati.com stranici! US Open uživo, uz rezultate i ždrijeb.
-05.09. Fritz T. - Cerundolo F., Blockx A. - Cobolli F., Darderi L. - Sweeny D., Khachanov K. - Bonzi B., Zheng M. - Gea A., Bergs Z. - Van De Zandschulp B., 06.09. Mensik J. - Tien L., Zverev A. - Tabilo A., Paul T. - Alcaraz C., Michelsen A. - Etcheverry T. M., Medvedev D. - Tiafoe F., Shelton B. - Tsitsipas S.
+05.09. Khachanov K. - Bonzi B., Darderi L. - Sweeny D., Zheng M. - Gea A., Bergs Z. - Van De Zandschulp B., 06.09. Mensik J. - Tien L., Zverev A. - Tabilo A., Paul T. - Alcaraz C., Michelsen A. - Etcheverry T. M., Medvedev D. - Tiafoe F., Shelton B. - Tsitsipas S.
 WTA US Open 2026 rezultati uživo na Rezultati.com stranici! US Open uživo, uz rezultate i ždrijeb.
 
 NOGOMET
@@ -1370,16 +1696,16 @@ World Series Finals
 MLB
 EP u odbojci za žene 2026
 NOGOMET UŽIVO
-Dinamo Zagreb - Gorica
 Rudeš - Hajduk Split
 Vardarac - Hajduk Split
 Bedem Ivankovo - Dinamo Zagreb
 Osijek - Dinamo Zagreb
 Hajduk Split - Slaven Belupo
-Inter - Napoli
 Rijeka - Osijek
 Real Madrid - Inter
 Porto - Manchester City
+Lokomotiva Zagreb - Rijeka
+Real Madrid - Rayo Vallecano
 LIVESCORE
 Arsenal - Chelsea
 Napoli - Arsenal
@@ -1393,7 +1719,6 @@ Italija - Švedska
 Portugal - Bugarska
 REZULTATI UŽIVO
 Crvena Zvezda Meridianbet - Olympiakos
-GKK Šibenka - Split
 MoraBanc Andorra - Barcelona
 Besiktas - Dubai
 Panathinaikos - AEK Athens
@@ -1402,6 +1727,7 @@ Francuska Ž - Južna Koreja Ž
 Turska Ž - Australija Ž
 Portoriko Ž - Belgija Ž
 Milano - Fenerbahce
+Belgija Ž - Australija Ž
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
