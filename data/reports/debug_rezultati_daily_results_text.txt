@@ -22,8 +22,60 @@ GOTOVO
 RASPORED
 05/09 SU
 US Open (SAD), tvrda podloga
+ATP - SINGL: 
+Ždrijeb
+Kraj
+Michelsen A.
+Merida Aguilar D.
+3
+0
+7
+7
+6
+5
+6
+4
+6
+3
+Kraj
+Vacherot V.
+Tiafoe F.
+0
+3
+4
+6
+2
+6
+4
+6
+US Open (SAD), tvrda podloga
+WTA - SINGL: 
+Ždrijeb
+Kraj
+Svitolina E.
+Kalinskaya A.
+1
+2
+3
+6
+6
+2
+3
+6
+US Open (SAD), tvrda podloga
 ATP - PAROVI: 
 Ždrijeb
+Kraj
+Bolelli S.
+Vavassori A.
+Halys Q.
+Herbert P.H.
+2
+0
+6
+3
+7
+5
 Otkazano
 Damm M.
 McDonald M.
@@ -42,18 +94,115 @@ US Open (SAD), tvrda podloga
 WTA - PAROVI: 
 Ždrijeb
 Kraj
-Kato M.
-Wu F.
-Mihalikova T.
-Nicholls O.
+Fossa Huergo N.
+Korpatsch T.
+Maleckova J.
+Skoch M.
 2
 1
+4
+6
+6
+2
+6
+4
+Kraj
+Williams S.
+Williams V.
+Chan H-C.
+Joint M.
+1
+2
+3
+6
+7
+8
+6
+6
+6
+7
+7
+10
+M15 Bali 3 (Indonezija), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Borg L.
+Becroft I.
+1
+2
+2
+6
+6
+4
+2
+6
+M15 Wuning 7 (Kina), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Tomida Y.
+Kim G. J.
+2
+0
+6
+2
+6
+3
+W15 Yeongwol (Južna Koreja), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Kim Y.J.
+Sato N.
+0
+2
+1
+6
+2
+6
+W75 Tianjin (Kina), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Astakhova D.
+Cheapchandej P.
+2
+0
+6
+3
+6
+3
+M15 Bali 3 (Indonezija), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Da Costa R.
+Zapp E. D.
+Chang A.
+Perez Ramos P.
+0
+2
 3
 6
 6
-3
+1
+7
+7
+M15 Trelew (Argentina), tvrda podloga (dvorana)
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Corwin F.
+Schachter N.
+Mouilleron Salvo M.
+Valente R.
+2
+0
 6
-3
+2
+6
+1
 M25 Meerbusch (Njemačka), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -132,7 +281,7 @@ Prikaži više
 Tenis livescore na Rezultatima nudi teniske rezultate uživo za preko 5000 teniskih turnira diljem svijeta, uključujući Australian Open, French Open, Wimbledon, US Open i mnoge druge. Pratite najnovije rezultate iz tenisa na Rezultatima, gdje možete pronaći detaljnu statistiku (asevi, dvostruke pogreške, postotak servisa, osvojeni servisi, spašene break lopte, neprisiljene pogreške, itd.), usporedbu koeficijenata, međuosboni omjer, vijesti, video sažetke ili tijek meča poen po poen. Pronađite sve današnje rezultate i vijesti iz tenisa na Rezultatima, uključujući ATP rezultate, WTA rezultate, ATP poredak, ATP kalendar 2026, WTA kalendar 2026, ili profile igrača (npr. Jannik Sinner, Carlos Alcaraz, Novak Đoković, Donna Vekić). Usluga tenis livescore se automatski ažurira, tako da nema potrebe da osvježavate stranicu.
 
 ATP US Open 2026 rezultati uživo na Rezultati.com stranici! US Open uživo, uz rezultate i ždrijeb.
-05.09. Shelton B. - Shapovalov D., Fritz T. - Cerundolo F., Blockx A. - Cobolli F., Darderi L. - Sweeny D., Khachanov K. - Bonzi B., Zheng M. - Gea A., Bergs Z. - Van De Zandschulp B., 06.09. Mensik J. - Tien L., Zverev A. - Tabilo A., Paul T. - Alcaraz C.
+05.09. Fritz T. - Cerundolo F., Blockx A. - Cobolli F., Darderi L. - Sweeny D., Khachanov K. - Bonzi B., Zheng M. - Gea A., Bergs Z. - Van De Zandschulp B., 06.09. Mensik J. - Tien L., Zverev A. - Tabilo A., Paul T. - Alcaraz C., Michelsen A. - Etcheverry T. M., Medvedev D. - Tiafoe F.
 WTA US Open 2026 rezultati uživo na Rezultati.com stranici! US Open uživo, uz rezultate i ždrijeb.
 
 NOGOMET
