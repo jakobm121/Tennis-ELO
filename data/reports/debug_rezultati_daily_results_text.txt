@@ -54,6 +54,17 @@ Tabilo A.
 2
 6
 2
+Kraj
+Paul T.
+Alcaraz C.
+0
+3
+4
+6
+3
+6
+4
+6
 US Open (SAD), tvrda podloga
 WTA - SINGL: 
 Ždrijeb
@@ -90,6 +101,26 @@ Rybakina E.
 8
 3
 6
+Kraj
+Sabalenka A.
+Townsend T.
+2
+0
+6
+4
+6
+3
+Kraj
+Kostyuk M.
+Noskova L.
+1
+2
+5
+7
+7
+5
+4
+6
 US Open (SAD), tvrda podloga
 ATP - PAROVI: 
 Ždrijeb
@@ -116,6 +147,147 @@ Glasspool L.
 3
 6
 4
+6
+Kraj
+Carpico B.
+Filin N.
+Melo M.
+Peers J.
+2
+1
+3
+6
+7
+7
+6
+0
+6
+4
+Kraj
+Heliovaara H.
+Patten H.
+Arnaldi M.
+Struff J-L.
+2
+0
+7
+5
+6
+2
+Kraj
+Gonzalez M.
+Molteni A.
+Nouza P.
+Oberleitner N.
+2
+0
+7
+9
+6
+7
+6
+3
+Kraj
+Nys H.
+Roger-Vasselin E.
+Balaji N. S.
+King E.
+2
+0
+6
+4
+7
+5
+Kraj
+Pavlasek A.
+Rikl P.
+Cash J.
+Glasspool L.
+0
+2
+6
+2
+7
+7
+4
+6
+US Open (SAD), tvrda podloga
+WTA - PAROVI: 
+Ždrijeb
+Kraj
+(predano)
+Maria T.
+Sonmez Z.
+Danilina A.
+Krunic A.
+0
+1
+1
+6
+6
+5
+Kraj
+Muhammad A.
+Stollar F.
+Hozumi E.
+Klepac A.
+0
+2
+4
+6
+4
+6
+Kraj
+Dart H.
+Lumsden M.
+Bucsa C.
+Melichar-Martinez N.
+0
+2
+2
+6
+2
+6
+Kraj
+Hsieh S-W.
+Ostapenko J.
+Bouzkova M.
+Sorribes Tormo S.
+2
+0
+6
+1
+7
+7
+6
+4
+Como (Italija), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Dodig M.
+Varillas J. P.
+2
+0
+6
+3
+7
+7
+6
+5
+Mallorca (Španjolska), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Montes-De La Torre I.
+Balshaw F.
+1
+2
+6
+3
+2
+6
+3
 6
 Plovdiv 3 (Bugarska), zemlja
 CHALLENGER - MUŠKI SINGL: 
@@ -271,6 +443,17 @@ Pietri B.
 6
 4
 6
+Kraj
+Car H.
+Dalmasso G.
+2
+0
+7
+7
+6
+5
+6
+4
 Genova (Italija) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -370,6 +553,26 @@ Arnaboldi F.
 6
 3
 6
+Kraj
+Aboian V.
+Castagnola L.
+2
+1
+6
+3
+4
+6
+6
+2
+Kraj
+Petkovic M.
+Salazar D.
+2
+0
+6
+2
+6
+2
 Istanbul 3 (Turska) - Kvalifikacije, tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -697,6 +900,46 @@ Carboni L.
 2
 6
 3
+Kraj
+Sanchez Jover C.
+Fita Juan S.
+2
+0
+6
+3
+6
+1
+Kraj
+Pereira T.
+Cigarran T.
+2
+1
+6
+3
+2
+6
+7
+7
+6
+5
+Kraj
+Forejtek J.
+Barroso Campos A.
+2
+0
+6
+1
+7
+5
+Kraj
+Lopez Morillo I.
+Vives Marcos P.
+0
+2
+3
+6
+5
+7
 Shanghai (Kina) - Kvalifikacije, tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -1059,6 +1302,19 @@ Kotliar Y.
 0
 5
 2
+Kraj
+Zaar L.
+Tsygourova K.
+1
+2
+5
+7
+6
+3
+6
+5
+7
+7
 M15 Bali 3 (Indonezija), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -1099,6 +1355,22 @@ Jong S.
 6
 1
 6
+M15 Hurghada 7 (Egipat), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Javia D.
+Duhan C.
+2
+1
+4
+6
+7
+7
+6
+2
+6
+0
 M15 Kursumlijska Banja 14 (Srbija), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -1179,6 +1451,24 @@ Tomida Y.
 6
 3
 6
+M25 Casablanca (Maroko), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Houkes M.
+Bennani K.
+2
+1
+6
+5
+7
+7
+6
+3
+7
+7
+6
+4
 M25 Meerbusch (Njemačka), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -1285,6 +1575,36 @@ Horvit M.
 3
 6
 2
+W15 Hurghada 7 (Egipat), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Ezzat Y.
+Perapekhina Y.
+2
+1
+4
+6
+6
+3
+6
+1
+W15 Lujan (Argentina), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Bosio V.
+Urrutia M. F.
+2
+1
+6
+4
+4
+6
+7
+7
+6
+4
 W15 Monastir 24 (Tunis), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -1335,6 +1655,20 @@ Pedone G.
 4
 6
 3
+W50 Leiria (Portugal), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Klugman H.
+Fruhvirtova L.
+2
+1
+7
+5
+4
+6
+6
+1
 W50 Saint-Palais-sur-Mer (Francuska), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -1361,6 +1695,309 @@ Astakhova D.
 3
 6
 2
+US Open (SAD), tvrda podloga
+JUNIORI - SINGL: 
+Ždrijeb
+Kraj
+Antonius M.
+Storck F. L.
+2
+0
+6
+4
+6
+1
+Kraj
+Johnson A.
+Paparkar A.
+2
+0
+6
+4
+6
+1
+Kraj
+Konduri T.
+Kusy J.
+2
+0
+6
+4
+6
+3
+Kraj
+Cozad R.
+Behrmann T.
+0
+2
+6
+5
+7
+7
+1
+6
+Kraj
+Jovanovski D.
+Brand D.
+1
+2
+6
+1
+3
+6
+1
+6
+Kraj
+Nara K.
+Domenc M.
+0
+2
+4
+6
+4
+6
+Kraj
+Ciurnelli R.
+Lee J. A.
+0
+2
+2
+6
+2
+6
+Kraj
+Colombo K.
+Chelemen M. V.
+0
+2
+4
+6
+3
+6
+Kraj
+Pagani D.
+Baena N.
+2
+0
+6
+4
+6
+3
+Kraj
+Raguin N.
+Massellani S.
+1
+2
+1
+6
+6
+1
+2
+6
+Kraj
+(predano)
+Jade D.
+Vaughan M.
+1
+1
+2
+6
+6
+3
+2
+0
+Kraj
+Raghuram N.
+Thompson K.
+1
+2
+6
+1
+7
+7
+6
+1
+4
+6
+Kraj
+Reisach V.
+Reddy V.
+1
+2
+5
+7
+6
+2
+3
+6
+Kraj
+Bolivar Idarraga J. M.
+Gonzalez-Galino V.
+1
+2
+3
+6
+6
+3
+2
+6
+Kraj
+Ceban M.
+Sakurai Y.
+2
+0
+6
+4
+6
+3
+US Open (SAD), tvrda podloga
+JUNIORKE - SINGL: 
+Ždrijeb
+Kraj
+Dotsenko E.
+Lagaev N.
+2
+1
+2
+6
+6
+4
+6
+1
+Kraj
+Alame Re.
+Penickova K.
+0
+2
+1
+6
+1
+6
+Kraj
+Burcescu M. I.
+Saffar Y.
+0
+2
+1
+6
+2
+6
+Kraj
+Hazelitt J.
+Beviz L.
+2
+0
+7
+7
+6
+4
+7
+5
+Kraj
+Hermanova T.
+Pinera Celorio P.
+0
+2
+5
+7
+1
+6
+Kraj
+Lin Y. J.
+Ishii K.
+2
+1
+6
+4
+3
+6
+6
+2
+Kraj
+Penickova A.
+Barros V. L.
+2
+0
+6
+3
+6
+4
+Kraj
+Pushkareva A.
+Selvan S.
+2
+0
+6
+2
+6
+4
+Kraj
+Shao Y.
+Meabe S.
+2
+0
+6
+2
+6
+3
+Kraj
+Wang A.
+Makarova M.
+0
+2
+1
+6
+5
+7
+Kraj
+Gowda T.
+Eigelsbach E. V.
+2
+0
+6
+2
+6
+4
+Kraj
+Sushkova A.
+Lin Y.
+2
+0
+6
+3
+6
+0
+Kraj
+Mercier C.
+Tu A.
+2
+1
+2
+6
+6
+1
+6
+2
+Kraj
+Pistola I.
+Pircher A.
+2
+1
+6
+3
+3
+6
+6
+1
+Kraj
+Sun X.
+Terentyeva A.
+2
+0
+6
+3
+6
+1
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -1397,7 +2034,7 @@ Genova Challenger Muškarci
 Istanbul 3 Challenger Muškarci
 Mallorca Challenger Muškarci
 Phan Thiet 3 Challenger Muškarci
-Prikaži više (60)
+Prikaži više (51)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -1425,7 +2062,7 @@ Prikaži više
 Tenis livescore na Rezultatima nudi teniske rezultate uživo za preko 5000 teniskih turnira diljem svijeta, uključujući Australian Open, French Open, Wimbledon, US Open i mnoge druge. Pratite najnovije rezultate iz tenisa na Rezultatima, gdje možete pronaći detaljnu statistiku (asevi, dvostruke pogreške, postotak servisa, osvojeni servisi, spašene break lopte, neprisiljene pogreške, itd.), usporedbu koeficijenata, međuosboni omjer, vijesti, video sažetke ili tijek meča poen po poen. Pronađite sve današnje rezultate i vijesti iz tenisa na Rezultatima, uključujući ATP rezultate, WTA rezultate, ATP poredak, ATP kalendar 2026, WTA kalendar 2026, ili profile igrača (npr. Jannik Sinner, Carlos Alcaraz, Novak Đoković, Donna Vekić). Usluga tenis livescore se automatski ažurira, tako da nema potrebe da osvježavate stranicu.
 
 ATP US Open 2026 rezultati uživo na Rezultati.com stranici! US Open uživo, uz rezultate i ždrijeb.
-06.09. Paul T. - Alcaraz C., Michelsen A. - Etcheverry T. M., Medvedev D. - Tiafoe F., 07.09. Shelton B. - Tsitsipas S., Cerundolo F. - Blockx A., Gea A. - Van De Zandschulp B., Zverev A. - Darderi L., Khachanov K. - Tien L.
+07.09. Shelton B. - Tsitsipas S., Cerundolo F. - Blockx A., Gea A. - Van De Zandschulp B., Zverev A. - Darderi L., Khachanov K. - Tien L.
 WTA US Open 2026 rezultati uživo na Rezultati.com stranici! US Open uživo, uz rezultate i ždrijeb.
 
 NOGOMET
@@ -1451,18 +2088,17 @@ World Series Finals
 MLB
 EP u odbojci za žene 2026
 NOGOMET UŽIVO
-Rudeš - Hajduk Split
 Vardarac - Hajduk Split
 Bedem Ivankovo - Dinamo Zagreb
 Osijek - Dinamo Zagreb
 Hajduk Split - Slaven Belupo
+H. Beer Sheva - Dinamo Zagreb
 Real Madrid - Inter
 Porto - Manchester City
 Lokomotiva Zagreb - Rijeka
 Real Madrid - Rayo Vallecano
 Manchester Utd - Manchester City
 LIVESCORE
-Arsenal - Chelsea
 Ajdukovic - Romano
 Napoli - Arsenal
 Srbija - Estonija
@@ -1471,18 +2107,19 @@ Finska - Srbija
 Srbija - Nizozemska
 Ipswich - Arsenal
 Danska - Srbija
-Sarajevo - Borac Banja Luka
+Bugarska - Sj. Makedonija
+Italija - Švedska
 REZULTATI UŽIVO
-Crvena Zvezda Meridianbet - Olympiakos
-Besiktas - Dubai
 Panathinaikos - AEK Athens
-Portoriko Ž - Belgija Ž
-Milano - Fenerbahce
 Belgija Ž - Australija Ž
 Portoriko Ž - Turska Ž
 Nigerija Ž - Francuska Ž
 Japan Ž - Španjolska Ž
-Hradec Kralove - Sparta Prag
+Barcelona - Feyenoord
+Viktoria Zizkov - Sparta Prag
+PSG - Slovan Bratislava
+PSV - Shakhtar
+Slavia Prag - Lens
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
