@@ -129,6 +129,20 @@ Milev Y.
 0
 6
 2
+Porto 2 (Portugal), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Mena F.
+Dellien H.
+2
+0
+7
+7
+6
+4
+6
+4
 Zhangjiagang (Kina), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -202,6 +216,61 @@ Soriano Barrera A.
 4
 6
 3
+Kraj
+Deckers A.
+Tailleu P. A.
+1
+2
+6
+2
+6
+6
+7
+8
+3
+6
+Kraj
+Kalyanpur A.
+Bobichon M.
+1
+2
+3
+6
+7
+5
+0
+6
+Kraj
+Scaglia M.
+Vales A.
+2
+1
+4
+6
+6
+2
+7
+7
+6
+1
+Kraj
+Boulais J.
+Roche M.
+2
+0
+6
+0
+6
+3
+Kraj
+Makk P.
+Pietri B.
+0
+2
+2
+6
+4
+6
 Genova (Italija) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -238,6 +307,69 @@ Gschwendtner J.
 2
 6
 3
+Kraj
+Popovic S.
+Krutykh O.
+0
+2
+5
+7
+4
+6
+Kraj
+Vigoriti A.
+La Vela G.
+0
+2
+0
+6
+3
+6
+Kraj
+Garbero F. F.
+Zeitune M.
+0
+2
+4
+6
+1
+6
+Kraj
+Iannaccone F.
+Weis A.
+2
+0
+6
+4
+6
+3
+Kraj
+Rottoli L.
+Angelini L.
+2
+0
+6
+3
+6
+3
+Kraj
+Forti F.
+Ciavarella N.
+2
+0
+7
+5
+6
+4
+Kraj
+Cherie Ligniere E.
+Arnaboldi F.
+0
+2
+4
+6
+3
+6
 Istanbul 3 (Turska) - Kvalifikacije, tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -309,6 +441,66 @@ Aydin Z.
 1
 6
 0
+Kraj
+Wessels L.
+Kachmazov A.
+0
+2
+3
+6
+6
+4
+7
+7
+Kraj
+Haita S. H.
+Azkara A.
+1
+2
+6
+4
+3
+6
+2
+6
+Kraj
+Turcanu R. D.
+Agafonov E.
+2
+0
+6
+2
+6
+1
+Kraj
+Turker M. N.
+Zakaria F.
+0
+2
+4
+6
+2
+6
+Kraj
+Albot R.
+Braynin A.
+2
+1
+4
+6
+6
+2
+6
+1
+Kraj
+Arinc K.
+Ghetu G.
+0
+2
+1
+6
+1
+6
 Phan Thiet 3 (Vijetnam) - Kvalifikacije, tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -405,17 +597,6 @@ Vishal Balsekar A.
 6
 4
 6
-Prekinuto
-Kim D. J.
-Tamm K.
-0
-1
-3
-6
-1
-1
-0
-0
 Kraj
 Hoang T.
 Lomakin G.
@@ -448,6 +629,74 @@ Turriziani Alvarez A.
 7
 4
 6
+Kraj
+Roca Batalla O.
+Radulov I.
+2
+1
+6
+5
+7
+7
+7
+7
+6
+5
+6
+0
+Kraj
+Purtseladze S.
+Almazan Valiente I.
+1
+2
+2
+6
+6
+3
+1
+6
+Kraj
+Ritschard A.
+Perez Contri S.
+2
+1
+6
+3
+7
+7
+6
+4
+6
+4
+Kraj
+Rodriguez Taverna S.
+Martin Espinar A.
+2
+0
+6
+3
+7
+7
+6
+3
+Kraj
+Gonzalez Fernandez M.
+Lagutin P.
+0
+2
+3
+6
+4
+6
+Kraj
+Campana Lee G.
+Carboni L.
+2
+0
+6
+2
+6
+3
 Shanghai (Kina) - Kvalifikacije, tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -571,6 +820,17 @@ Wallin O.
 2
 6
 Kraj
+Prihodko O.
+Gakhov I.
+2
+1
+4
+6
+6
+3
+6
+2
+Kraj
 Gombos N.
 Wagner A.
 2
@@ -579,6 +839,75 @@ Wagner A.
 0
 6
 2
+Kraj
+Siniakov D.
+Visker N.
+2
+0
+7
+8
+6
+6
+6
+3
+Kraj
+Dedura D.
+Rosenkranz-Konig T.
+2
+0
+6
+3
+6
+1
+Kraj
+Gulin S.
+Molleker R.
+2
+0
+7
+5
+7
+7
+6
+5
+Kraj
+Wiedenmann L.
+Bernet H.
+0
+2
+2
+6
+3
+6
+Kraj
+Martin A.
+Gundacker J.
+2
+0
+6
+4
+6
+2
+Kraj
+Ratti L.
+Pokorny L.
+1
+2
+1
+6
+7
+5
+4
+6
+Kraj
+Paulson A.
+Strombachs R.
+2
+0
+6
+2
+6
+3
 Antalya 4 (Turska) - Kvalifikacije, zemlja
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -620,9 +949,58 @@ Oz C.
 2
 6
 0
+Kraj
+Dencheva R.
+Lacinova A.
+2
+0
+6
+4
+6
+0
+Kraj
+De Stefano S.
+Nagy A.
+2
+0
+6
+2
+6
+1
+Kraj
+Akan A.
+Lukas T.
+0
+2
+0
+6
+0
+6
+Kraj
+Glushkova D.
+Tona M.
+0
+2
+3
+6
+1
+6
 Montreux (Švicarska) - Kvalifikacije, zemlja
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
+Kraj
+Monnot A.
+Nguyen Tan L.
+1
+2
+6
+1
+3
+6
+6
+4
+7
+7
 Kraj
 Niemeier J.
 Ciric Bagaric L.
@@ -634,6 +1012,53 @@ Ciric Bagaric L.
 10
 3
 6
+Kraj
+(predano)
+Pieri T.
+Spiteri D.
+0
+1
+2
+6
+0
+0
+Kraj
+Manta N.
+Sieg M.
+1
+2
+6
+3
+4
+6
+3
+6
+Kraj
+Chiesa D.
+Martynov D.
+2
+0
+6
+3
+6
+3
+Kraj
+Trevisan M.
+Stusek J.
+2
+0
+6
+1
+6
+0
+Kraj
+(predano)
+Bonelli E.
+Kotliar Y.
+0
+0
+5
+2
 M15 Bali 3 (Indonezija), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -648,6 +1073,48 @@ Becroft I.
 7
 6
 3
+M15 Bologna (Italija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Bosio G.
+Mazza M.
+1
+2
+7
+5
+4
+6
+3
+6
+M15 Haren (Nizozemska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Wassermann D.
+Jong S.
+0
+2
+4
+6
+1
+6
+M15 Kursumlijska Banja 14 (Srbija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Djuric B.
+Popko D.
+2
+1
+6
+3
+7
+7
+6
+2
+6
+4
 M15 Madrid (Španjolska), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -688,6 +1155,18 @@ Weber A.
 5
 7
 7
+M15 Szczawno (Poljska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Lagerbohm L.
+Hallquist Lithen J.
+0
+2
+4
+6
+4
+6
 M15 Wuning 7 (Kina), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -700,6 +1179,18 @@ Tomida Y.
 6
 3
 6
+M25 Meerbusch (Njemačka), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Oetzbach A.
+Vasa E.
+2
+0
+6
+3
+6
+0
 M25 Urayasu (Japan), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -714,6 +1205,20 @@ Nakagawa N.
 5
 7
 7
+M25+H Bagneres-de-Bigorre (Francuska), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Bertrand R.
+Perot R.
+1
+2
+6
+4
+2
+6
+3
+6
 W15 Badalona (Španjolska), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -754,6 +1259,58 @@ Maines N.
 1
 7
 5
+W15 Grodzisk Mazowiecki (Poljska), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Bednarz Z.
+Lazarenko K.
+1
+2
+5
+7
+6
+3
+4
+6
+W15 Haren (Nizozemska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Van Zonneveld C.
+Horvit M.
+2
+0
+6
+3
+6
+2
+W15 Monastir 24 (Tunis), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Ansari C.
+Tse E.
+2
+0
+6
+4
+7
+5
+W15 Pécs (Mađarska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Mrazikova K.
+Chiesa E.
+1
+2
+6
+4
+3
+6
+4
+6
 W15 Yeongwol (Južna Koreja), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -778,6 +1335,20 @@ Pedone G.
 4
 6
 3
+W50 Saint-Palais-sur-Mer (Francuska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Ferro F.
+Burel C.
+2
+1
+2
+6
+6
+3
+7
+5
 W75 Tianjin (Kina), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -826,7 +1397,7 @@ Genova Challenger Muškarci
 Istanbul 3 Challenger Muškarci
 Mallorca Challenger Muškarci
 Phan Thiet 3 Challenger Muškarci
-Prikaži više (70)
+Prikaži više (60)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -899,7 +1470,7 @@ Sunderland - Arsenal
 Finska - Srbija
 Srbija - Nizozemska
 Ipswich - Arsenal
-Poljska Ž - Srbija Ž
+Danska - Srbija
 Sarajevo - Borac Banja Luka
 REZULTATI UŽIVO
 Crvena Zvezda Meridianbet - Olympiakos
@@ -911,7 +1482,7 @@ Belgija Ž - Australija Ž
 Portoriko Ž - Turska Ž
 Nigerija Ž - Francuska Ž
 Japan Ž - Španjolska Ž
-Heerenveen - AZ Alkmaar
+Hradec Kralove - Sparta Prag
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
