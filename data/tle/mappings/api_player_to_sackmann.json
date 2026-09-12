@@ -40650,6 +40650,24 @@
       "conflicts": 0,
       "needs_manual_review": 0,
       "skipped": 0
+    },
+    {
+      "updated_at": "2026-09-12T11:17:48Z",
+      "audit_generated_at": "2026-09-12T11:15:30+00:00",
+      "auto_methods": [
+        "audit_unmapped_sackmann_lookup",
+        "unique_surname_initial"
+      ],
+      "apply_mode": true,
+      "manual_overrides": 18,
+      "manual_added": 0,
+      "manual_already_ok": 18,
+      "manual_conflicts": 0,
+      "auto_added": 0,
+      "already_ok": 0,
+      "conflicts": 0,
+      "needs_manual_review": 0,
+      "skipped": 0
     }
   ]
 }
