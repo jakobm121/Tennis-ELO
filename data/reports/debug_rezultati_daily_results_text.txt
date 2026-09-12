@@ -45,6 +45,73 @@ Lepchenko V.
 Melichar-Martinez N.
 -
 -
+Kraj
+Panova A.
+Scott K.
+0
+2
+2
+6
+4
+6
+Kraj
+Bielinska S.
+Hibino N.
+0
+2
+4
+6
+1
+6
+Kraj
+Kichenok N.
+Melichar-Martinez N.
+2
+1
+6
+3
+4
+6
+7
+12
+6
+10
+Kraj
+Sorribes Tormo S.
+Koike E.
+2
+0
+7
+5
+6
+2
+Kraj
+Xu M.
+Dolehide C.
+0
+2
+0
+6
+4
+6
+Kraj
+Monnet C.
+Garcia J.
+2
+0
+7
+5
+6
+2
+Kraj
+Ma L.
+Zavatska K.
+2
+0
+6
+2
+6
+2
 Sao Paulo (Brazil) - Kvalifikacije, tvrda podloga
 WTA - SINGL: 
 Ždrijeb
@@ -53,6 +120,31 @@ Smith A.
 Tikhonova A.
 -
 -
+Kraj
+You X.
+Fullana L.
+2
+0
+6
+2
+6
+1
+US Open (SAD), tvrda podloga
+ATP - PAROVI: 
+Ždrijeb
+Kraj
+Harrison C.
+Skupski N.
+Krawietz K.
+Puetz T.
+2
+0
+6
+4
+7
+8
+6
+6
 Cassis (Francuska), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -80,6 +172,20 @@ Budkov Kjaer N.
 2
 6
 4
+Genova (Italija), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Djere L.
+Martinez P.
+1
+2
+6
+2
+4
+6
+5
+7
 Istanbul 3 (Turska), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -126,6 +232,22 @@ Shimizu Y.
 4
 6
 4
+Seville (Španjolska), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Munar J.
+Diaz Acosta F.
+1
+2
+6
+4
+3
+6
+6
+1
+7
+7
 Shanghai (Kina), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -221,6 +343,17 @@ Maristany G.
 2
 6
 3
+Kraj
+Galfi D.
+Ferro F.
+1
+2
+1
+6
+6
+2
+0
+6
 Cassis (Francuska), tvrda podloga
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -235,6 +368,26 @@ Summers M.
 4
 6
 2
+Genova (Italija), zemlja
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Latinovic S.
+Poljicak M.
+Kalender A.
+Serdarusic N.
+2
+1
+7
+7
+6
+1
+6
+3
+7
+7
+10
+6
 Istanbul 3 (Turska), tvrda podloga
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -282,6 +435,22 @@ Tajima N.
 7
 6
 0
+Seville (Španjolska), zemlja
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Cervantes I.
+Molchanov D.
+Barrientos N.
+Kestelboim M.
+0
+2
+6
+3
+7
+7
+3
+6
 Shanghai (Kina), tvrda podloga
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -312,6 +481,24 @@ Paulson A.
 6
 6
 3
+7
+10
+Antalya 4 (Turska), zemlja
+CHALLENGER - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Cengiz B.
+Oz I.
+Kucmova A.
+Laboutkova A.
+1
+2
+6
+5
+7
+7
+6
+4
 7
 10
 Montreux (Švicarska), zemlja
@@ -607,6 +794,19 @@ Xilas I.
 4
 6
 0
+Kraj
+Ahouda W.
+Delage P.
+2
+1
+3
+6
+7
+7
+6
+3
+6
+4
 M25 Sapporo (Japan), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -748,6 +948,27 @@ Kikawada R.
 2
 2
 2
+W15 Pilar (Argentina), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Cinalli L. M.
+Ayala L.
+0
+2
+4
+6
+5
+7
+Kraj
+Romero C.
+Cabezas Dominguez E.
+0
+2
+3
+6
+2
+6
 W15 Radom (Poljska), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -819,6 +1040,17 @@ Voracek E. M.
 6
 2
 6
+Kraj
+Raggi A.
+Lombardini M.
+0
+2
+4
+6
+6
+4
+7
+7
 W15 Yeongwol 2 (Južna Koreja), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -929,6 +1161,20 @@ Perez Ramos P.
 6
 10
 12
+M15 Budapest (Mađarska), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Fernandez B.
+Sperle J.
+Balazs A.
+Selmeczi V.
+0
+2
+3
+6
+4
+6
 M15 Hurghada 8 (Egipat), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -943,6 +1189,31 @@ Lorusso L.
 6
 2
 6
+M15 Leme (Brazil), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Carvalho G. A.
+Pereira Xavier J.
+Becerra Otarola I. A.
+Nunez D. A.
+0
+2
+4
+6
+3
+6
+Kraj
+Noatto K.
+Wong T. F.
+Braga B.
+Scramin do Lago J. V.
+2
+0
+6
+3
+7
+5
 M15 Monastir 30 (Tunis), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -1003,6 +1274,34 @@ Sun Qian
 6
 4
 6
+M25 Pozzuoli (Italija), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Hudd E.
+McHugh A.
+Efstathiou M.
+Neos E.
+2
+0
+6
+3
+6
+1
+M25 Rabat 2 (Maroko), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Jamji A.
+Lalami Laaroussi Y.
+Leote Prata V.
+Morais D.
+0
+2
+4
+6
+4
+6
 M25 Sapporo (Japan), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -1021,6 +1320,22 @@ Chung Y.
 3
 7
 10
+M25 Sintra (Portugal), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+MacKinlay J.
+Murgett F.
+Valdoleiros G.
+Wright M.
+2
+1
+6
+2
+3
+6
+10
+4
 W15 Campulung (Rumunjska), zemlja
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -1048,6 +1363,20 @@ Sacco F.
 0
 2
 4
+6
+3
+6
+W15 Pilar (Argentina), zemlja
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Moyano L.
+Romero C.
+Cabezas Dominguez E.
+Navarro M. F.
+0
+2
+3
 6
 3
 6
@@ -1083,6 +1412,20 @@ Kim N.
 3
 1
 10
+W50 Evora (Portugal), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Kuzmova K.
+Micic E.
+Arseneault A.
+Lacasse R.
+0
+2
+3
+6
+4
+6
 W50 Guiyang (Kina), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -1099,6 +1442,70 @@ Shimizu E.
 3
 10
 8
+US Open (SAD), tvrda podloga
+JUNIORI - SINGL: 
+Ždrijeb
+Kraj
+Miguel L. A.
+Latak M.
+1
+2
+6
+3
+5
+7
+6
+13
+7
+15
+US Open (SAD), tvrda podloga
+JUNIORKE - SINGL: 
+Ždrijeb
+Kraj
+Sun X.
+Pushkareva A.
+2
+1
+6
+4
+4
+6
+6
+0
+US Open (SAD), tvrda podloga
+JUNIORI - PAROVI: 
+Ždrijeb
+Kraj
+Konduri T.
+Latak M.
+Gabet A.
+Gonzalez-Galino V.
+1
+2
+6
+4
+7
+7
+6
+2
+9
+11
+US Open (SAD), tvrda podloga
+JUNIORKE - PAROVI: 
+Ždrijeb
+Kraj
+Berezina P.
+Terentyeva A.
+Penickova A.
+Penickova K.
+0
+2
+6
+11
+7
+13
+3
+6
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -1131,11 +1538,11 @@ WTA Sao Paulo
 WTA US Open
 ATP US Open
 WTA Guadalajara
-WTA US Open
+Biella Challenger Muškarci
 Cassis Challenger Muškarci
 Genova Challenger Muškarci
 Guangzhou 2 Challenger Muškarci
-Prikaži više (74)
+Prikaži više (77)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -1193,33 +1600,33 @@ Hajduk Split - Slaven Belupo
 H. Beer Sheva - Dinamo Zagreb
 Rijeka - Hajduk Split
 Dinamo Zagreb - Lokomotiva Zagreb
-Lokomotiva Zagreb - Rijeka
-Real Madrid - Rayo Vallecano
 Manchester Utd - Manchester City
 Inter - Udinese
 Elche - Real Madrid
 Vrbovec - Rijeka
+Manchester City - Norwich
+AS Roma - Inter
 LIVESCORE
-Sunderland - Arsenal
 Finska - Srbija
 Srbija - Nizozemska
 Ipswich - Arsenal
 Danska - Srbija
 Srbija - Belgija
 Brighton - Arsenal
-Bugarska - Ukrajina
-Borac Banja Luka - Zrinjski
-Grčka - Italija
+Italija - Slovačka
+Bugarska - Izrael
+Češka - Italija
+Poljska - Bugarska
 REZULTATI UŽIVO
 Aris - Crvena Zvezda Meridianbet
 Partizan Mozzart Bet - Besiktas
 Partizan Mozzart Bet - PAOK
-Split - Široki Brijeg
 Dubai - Real Madrid
 Panathinaikos - Dijon
 Panathinaikos - JL Bourg
 Valencia - Barcelona
-Španjolska Ž - SAD Ž
+Španjolska Ž - Njemačka Ž
+SAD Ž - Francuska Ž
 Olympiakos - Fenerbahce
 REZULTATI.COM
 Pravila korištenja
@@ -1240,7 +1647,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Igrajte odgovorno. Gambling Therapy. 18+
+Must be 21+. If you or someone you know has a gambling problem, crisis counselling and referral services can be accessed by calling 1-800-GAMBLER (1-800-426-2537) or by texting ILGAMB to 833234. The 1-800-GAMBLER helpline can be used for multi-jurisdictional advertising.
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
