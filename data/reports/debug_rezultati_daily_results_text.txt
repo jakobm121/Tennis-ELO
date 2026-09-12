@@ -37,6 +37,29 @@ Shelton B.
 6
 5
 7
+Istanbul 3 (Turska), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Mayot H.
+Basing M.
+0
+2
+1
+6
+3
+6
+Kraj
+Kasnikowski M.
+Hara Friend J. D.
+0
+2
+6
+4
+7
+7
+4
+6
 Phan Thiet 3 (Vijetnam), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -60,6 +83,30 @@ Shimizu Y.
 4
 6
 4
+Shanghai (Kina), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Castelnuovo L.
+Ivashka I.
+0
+2
+3
+6
+4
+6
+Tulln (Austrija), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Sachko V.
+Brunold M.
+0
+2
+0
+6
+2
+6
 Barranquilla (Kolumbija), tvrda podloga
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -72,6 +119,51 @@ Blinkova A.
 6
 6
 5
+7
+7
+Phan Thiet 3 (Vijetnam), tvrda podloga
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Bittoun C.
+Dev S D P.
+Ichikawa T.
+Jeong Y.
+2
+1
+7
+5
+4
+6
+13
+11
+Kraj
+Bittoun C.
+Dev S D P.
+Sueoka Y.
+Tajima N.
+2
+0
+6
+1
+7
+7
+6
+0
+Shanghai (Kina), tvrda podloga
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Bar Biryukov P.
+Binda A.
+Delaney Ja.
+Delaney Je.
+0
+2
+4
+6
+6
+2
 7
 7
 M15 Bali 4 (Indonezija), tvrda podloga
@@ -99,6 +191,82 @@ Singh K.
 2
 7
 7
+M15 Budapest (Mađarska), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Marmousez L.
+Kimhi O.
+2
+0
+6
+1
+6
+3
+Kraj
+Sperle J.
+Noce G. M.
+2
+1
+4
+6
+7
+5
+6
+1
+Kraj
+Valkusz M.
+Fernandez B.
+2
+0
+6
+3
+6
+0
+M15 Hurghada 8 (Egipat), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Lorusso L.
+Kshitij A.
+1
+2
+7
+5
+0
+6
+2
+6
+Kraj
+Petrov S.
+Hurrion M.
+0
+2
+3
+6
+4
+6
+M15 Monastir 30 (Tunis), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Bouchelaghem C.
+Rahmani K.
+2
+0
+6
+3
+6
+3
+Kraj
+Naw H.
+Brown O.
+0
+2
+4
+6
+3
+6
 M15 Nonthaburi 2 (Tajland), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -111,6 +279,44 @@ Sornlaksup P.
 4
 6
 2
+Kraj
+De Cuyper J.
+Malaszszak M.
+1
+2
+7
+8
+6
+6
+3
+6
+2
+6
+M15 Tsaghkadzor 3 (Armenija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Denolly C.
+Monzon I.
+0
+2
+3
+6
+3
+6
+Kraj
+Popko D.
+Shebekin G.
+2
+0
+7
+7
+6
+5
+7
+7
+6
+3
 M15 Wuning 8 (Kina), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -123,6 +329,29 @@ Koyama H.
 6
 5
 7
+Kraj
+Zhao Z.
+Kim G. J.
+2
+1
+6
+2
+3
+6
+6
+4
+M25 Pozzuoli (Italija), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Efstathiou M.
+Moroni F.
+2
+0
+6
+4
+6
+2
 M25 Sapporo (Japan), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -139,6 +368,113 @@ Ferguson C.
 7
 6
 1
+Kraj
+Saitoh K.
+Hong S. C.
+2
+1
+6
+4
+7
+7
+6
+2
+6
+4
+W15 Campulung (Rumunjska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Bojica S.
+Biro M.
+0
+2
+4
+6
+5
+7
+Kraj
+Todoni C. N.
+Popa G. S.
+0
+2
+2
+6
+3
+6
+W15 Dijon (Francuska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Iliev S.
+Mpetshi Perricard D.
+2
+1
+2
+6
+6
+2
+6
+3
+W15 Hurghada 8 (Egipat), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+(predano)
+Mdlulwa W.
+Breen S.
+1
+0
+6
+2
+0
+0
+Kraj
+Perapekhina Y.
+Ezzat Y.
+1
+2
+6
+4
+4
+6
+2
+6
+W15 Radom (Poljska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Sucha A.
+Petruzelova L.
+1
+2
+6
+4
+5
+7
+3
+6
+W15 Viserba di Rimini (Italija), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Alvisi E.
+Voracek E. M.
+0
+2
+4
+6
+3
+6
+Kraj
+Tomase E.
+Schaefer A. J.
+0
+2
+2
+6
+1
+6
 W15 Yeongwol 2 (Južna Koreja), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -164,6 +500,18 @@ Kim D.
 6
 4
 6
+W35 Reus (Španjolska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Cortez Llorca L.
+Argyrokastriti M.
+2
+0
+6
+2
+6
+1
 W50 Guiyang (Kina), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -179,6 +527,123 @@ Khomutsianskaya D.
 7
 10
 6
+8
+Kraj
+Shubladze A.
+Kokkinis T.
+2
+0
+6
+0
+6
+1
+M15 Bali 4 (Indonezija), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Becroft I.
+Falck R.
+Chang A.
+Perez Ramos P.
+1
+2
+6
+3
+3
+6
+10
+12
+M15 Nonthaburi 2 (Tajland), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Masabayashi T.
+Suksumrarn T.
+Chanta T.
+Charoenphon Y.
+2
+0
+6
+3
+6
+4
+M15 Wuning 8 (Kina), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Dong Z.
+Wang Y.
+Jin Y.
+Sun Qian
+0
+2
+2
+6
+4
+6
+M25 Sapporo (Japan), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Tanaka Y.
+Tange S.
+Cho Seung Woo
+Chung Y.
+1
+2
+6
+2
+7
+7
+6
+3
+7
+10
+W15 Hurghada 8 (Egipat), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Ezzat Y.
+Petretic L.
+Herazo Gonzalez M.
+Sacco F.
+0
+2
+4
+6
+3
+6
+W15 Yeongwol 2 (Južna Koreja), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Choi S. Y.
+Lee H. E.
+Kim D.
+Kim N.
+1
+2
+5
+7
+6
+3
+1
+10
+W50 Guiyang (Kina), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Guo M.
+Yang Y.
+Kuwata H.
+Shimizu E.
+2
+1
+4
+6
+6
+3
+10
 8
 Reklama
 PRIKVAČENE LIGE
@@ -216,7 +681,7 @@ WTA US Open
 Cassis Challenger Muškarci
 Genova Challenger Muškarci
 Istanbul 3 Challenger Muškarci
-Prikaži više (71)
+Prikaži više (72)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -292,6 +757,7 @@ Bugarska - Ukrajina
 Borac Banja Luka - Zrinjski
 Grčka - Italija
 REZULTATI UŽIVO
+Aris - Crvena Zvezda Meridianbet
 Partizan Mozzart Bet - Besiktas
 Partizan Mozzart Bet - PAOK
 Gorica - Cibona
@@ -301,7 +767,6 @@ Panathinaikos - Dijon
 Panathinaikos - JL Bourg
 Valencia - Barcelona
 Francuska Ž - Njemačka Ž
-Španjolska Ž - SAD Ž
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
@@ -321,7 +786,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Must be 21+. If you or someone you know has a gambling problem, crisis counselling and referral services can be accessed by calling 1-800-GAMBLER (1-800-426-2537) or by texting ILGAMB to 833234. The 1-800-GAMBLER helpline can be used for multi-jurisdictional advertising.
+Igrajte odgovorno. Gambling Therapy. 18+
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
