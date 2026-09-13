@@ -61,6 +61,34 @@ Tikhonova A.
 6
 1
 6
+Cassis (Francuska), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Droguet T.
+Lajal M.
+2
+0
+6
+4
+7
+7
+6
+3
+Istanbul 3 (Turska), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Hara Friend J. D.
+Basing M.
+1
+2
+3
+6
+6
+1
+0
+6
 Phan Thiet 3 (Vijetnam), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -169,6 +197,61 @@ Arnaboldi F.
 1
 6
 1
+Kraj
+Marti Pujolras A.
+Zeitune M.
+2
+0
+7
+9
+6
+7
+7
+10
+6
+8
+Kraj
+Beraldo L.
+Sakellaridis D.
+0
+2
+5
+7
+3
+6
+Kraj
+Lagutin P.
+Roehrich M.
+2
+0
+6
+1
+6
+0
+Kraj
+Donald M.
+Oradini G.
+1
+2
+7
+9
+6
+7
+5
+7
+2
+6
+Kraj
+Oetzbach A.
+Basile P.
+0
+2
+0
+6
+6
+4
+7
+7
 Guangzhou 2 (Kina) - Kvalifikacije, tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -231,30 +314,30 @@ Uesugi K.
 7
 6
 3
-Prekinuto
+Kraj
 Huang T.
 Chen X. D.
-1
+2
 1
 4
 6
 6
 3
-0
-0
-A
-40
-Prekinuto
+6
+3
+Kraj
 Sumizawa D.
 Ogura K.
 0
-0
+2
 6
-0
+3
+7
+7
 6
-1
-0
-0
+7
+7
+9
 Kraj
 Trotter J. K.
 Liu Z.
@@ -264,6 +347,43 @@ Liu Z.
 1
 6
 0
+Kraj
+Delaney Je.
+Takahashi Y.
+2
+0
+7
+7
+6
+5
+7
+7
+6
+3
+Kraj
+Zhukov M.
+Loof T.
+1
+2
+6
+3
+7
+7
+7
+5
+3
+6
+Kraj
+Yang Z.
+Fancutt T. J.
+0
+2
+4
+6
+6
+2
+7
+7
 Phan Thiet 4 (Vijetnam) - Kvalifikacije, tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -420,6 +540,50 @@ Sahtali T.
 1
 6
 2
+Kraj
+Schoenhaus M.
+Ganesan A.
+2
+0
+7
+14
+6
+12
+6
+4
+Kraj
+Reymond A.
+Janvier M.
+0
+2
+3
+6
+3
+6
+Kraj
+De Schepper K.
+Barroso Campos A.
+2
+1
+6
+6
+7
+8
+7
+7
+6
+4
+7
+5
+Kraj
+Zahraj P.
+Sheehy J.
+2
+0
+7
+5
+6
+3
 Szczecin (Poljska) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -463,11 +627,93 @@ Gonzalez Fernandez M.
 5
 6
 1
+Kraj
+Cerny M.
+Misolic F.
+2
+1
+4
+6
+7
+5
+6
+4
+Kraj
+Sanchez Jover C.
+Pieczonka F.
+0
+2
+5
+7
+3
+6
 Otkazano
 Von der Schulenburg J.
 Molleker R.
 -
 -
+Kraj
+Pavel B.
+Molleker R.
+0
+2
+2
+6
+4
+6
+Kraj
+Blanch D.
+Chlodnicki J.
+2
+0
+6
+2
+6
+0
+Kraj
+Sterniczuk O.
+Gakhov I.
+0
+2
+3
+6
+2
+6
+Kraj
+Gutierrez O. J.
+Rodriguez Taverna S.
+0
+2
+2
+6
+6
+4
+7
+7
+Kraj
+Strombachs R.
+Tsitsipas Pa.
+2
+1
+6
+5
+7
+7
+7
+7
+6
+4
+6
+1
+Kraj
+Nikles J.
+Purtseladze S.
+2
+0
+6
+2
+6
+4
 Antalya 4 (Turska), zemlja
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -480,6 +726,18 @@ Ibragimova A.
 5
 6
 4
+Montreux (Švicarska), zemlja
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Ferro F.
+Noha Akugue N.
+2
+0
+6
+1
+6
+2
 Caldas da Rainha (Portugal) - Kvalifikacije, tvrda podloga
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -510,6 +768,57 @@ Franco Dias T.
 2
 6
 3
+Kraj
+da Silva Fick G.
+Visscher S. J.
+2
+1
+6
+4
+6
+5
+7
+7
+6
+3
+Kraj
+Garcia-Perez G.
+Arseneault A.
+0
+2
+2
+6
+3
+6
+Kraj
+Dodin O.
+Brantmeier R.
+1
+2
+4
+6
+7
+5
+4
+6
+Kraj
+Rouvroy M.
+Johnson S.
+0
+2
+4
+6
+2
+6
+Kraj
+Kulambayeva Z.
+Rapolu M.
+0
+2
+3
+6
+2
+6
 Valencia (Španjolska) - Kvalifikacije, zemlja
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -531,6 +840,60 @@ Jakupovic D.
 2
 6
 3
+6
+Kraj
+Pieri J.
+Roura Llaverias R.
+0
+2
+4
+6
+0
+6
+Kraj
+Lukas T.
+Sieg M.
+0
+2
+3
+6
+4
+6
+Kraj
+Steur J. L. S.
+Torner Sensano N.
+2
+0
+6
+3
+6
+1
+Kraj
+Cherubini D.
+Shinikova I.
+2
+1
+4
+6
+6
+4
+6
+4
+Antalya 4 (Turska), zemlja
+CHALLENGER - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Kucmova A.
+Laboutkova A.
+Ibragimova A.
+Zaytseva K.
+2
+1
+4
+6
+6
+2
+10
 6
 M15 Bali 4 (Indonezija), tvrda podloga
 ITF - MUŠKI SINGL: 
@@ -560,6 +923,18 @@ Valkusz M.
 4
 5
 7
+M15 Hurghada 8 (Egipat), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Hurrion M.
+Kshitij A.
+2
+0
+6
+3
+6
+2
 M15 Monastir 30 (Tunis), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -608,6 +983,20 @@ Koyama H.
 6
 3
 6
+M25 Plaisir + H (Francuska), tvrda podloga (dvorana)
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Chidekh C.
+Banerjee S.
+2
+0
+7
+7
+6
+5
+6
+1
 M25 Pozzuoli (Italija), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -664,6 +1053,32 @@ Popa G. S.
 6
 3
 6
+W15 Hurghada 8 (Egipat), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Ezzat Y.
+Mdlulwa W.
+2
+0
+7
+7
+6
+3
+6
+2
+W15 Pilar (Argentina), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Cabezas Dominguez E.
+Ayala L.
+2
+0
+6
+0
+6
+4
 W15 Radom (Poljska), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -708,6 +1123,18 @@ Geerlings Martinez A.
 4
 6
 1
+W50 Evora (Portugal), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Jorge M.
+Gasanova A.
+2
+0
+7
+5
+6
+4
 W50 Guiyang (Kina), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -798,7 +1225,7 @@ WTA Sao Paulo
 Biella Challenger Muškarci
 Cassis Challenger Muškarci
 Genova Challenger Muškarci
-Prikaži više (66)
+Prikaži više (54)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -856,14 +1283,14 @@ Hajduk Split - Slaven Belupo
 H. Beer Sheva - Dinamo Zagreb
 Rijeka - Hajduk Split
 Dinamo Zagreb - Lokomotiva Zagreb
-Manchester Utd - Manchester City
 Inter - Udinese
 Elche - Real Madrid
 Vrbovec - Rijeka
 Manchester City - Norwich
 AS Roma - Inter
+Manchester City - Sunderland
 LIVESCORE
-Finska - Srbija
+Boskovic - Serban
 Srbija - Nizozemska
 Ipswich - Arsenal
 Danska - Srbija
@@ -874,16 +1301,16 @@ Bugarska - Izrael
 Češka - Italija
 Poljska - Bugarska
 REZULTATI UŽIVO
-Aris - Crvena Zvezda Meridianbet
-Partizan Mozzart Bet - Besiktas
 Partizan Mozzart Bet - PAOK
 Dubai - Real Madrid
 Panathinaikos - Dijon
 Panathinaikos - JL Bourg
 Valencia - Barcelona
-Španjolska Ž - Njemačka Ž
-Fenerbahce - Balkan
 AEK Athens - Spartak Subotica
+SAD Ž - Francuska Ž
+Budućnost - Turk Telekom
+Olympiakos - Fenerbahce
+Fenerbahce - Besiktas
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
