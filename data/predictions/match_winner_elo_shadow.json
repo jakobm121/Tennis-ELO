@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-14T07:30:45.271347+02:00",
+  "generated_at": "2026-09-14T15:24:19.294623+02:00",
   "source_odds_url": "https://raw.githubusercontent.com/jakobm121/Ai/refs/heads/main/data/tennis_odds_today.json",
-  "odds_generated_at": "2026-09-14T06:57:51.095581+02:00",
+  "odds_generated_at": "2026-09-14T14:48:46.300406+02:00",
   "ratings_generated_at": "2026-06-27T11:04:41.611804+02:00",
   "model": "match_winner_elo_shadow_v1",
   "settings": {
