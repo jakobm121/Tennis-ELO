@@ -22,20 +22,316 @@ GOTOVO
 RASPORED
 19/09 SU
 Davis Cup - World Group I (Svijet)
-TIMOVI - MUŠKARCI: 
-Ždrijeb
-Nakon
-1. dana
-Nizozemska
-Kolumbija
+ATP - SINGL: 
+Kraj
+Shepp A.
+Sakamoto R.
+0
+2
+5
+7
+4
+6
+Kraj
+Varillas J. P.
+Vallejo D.
+2
+1
+5
+7
+7
+8
+6
+6
+6
+3
+Kraj
+Watt J.
+Shimabukuro S.
+1
+2
+6
+3
+3
+6
+4
+6
+Kraj
+De Minaur A.
+Kasnikowski M.
 2
 0
-Nakon
-1. dana
-Danska
-Bugarska
+6
+3
+6
+0
+Davis Cup - World Group II (Svijet)
+ATP - SINGL: 
+Kraj
+Dellien H.
+Choi W. F.
+2
+0
+6
+4
+6
 1
+Kraj
+Prado Angelo J. C.
+Wong T. F.
+2
+0
+6
+2
+6
 1
+Davis Cup - World Group (Svijet) - Kvalifikacije
+ATP - SINGL: 
+Kraj
+Auger-Aliassime F.
+Halys Q.
+2
+1
+7
+7
+6
+5
+4
+6
+6
+3
+Guadalajara (Meksiko), tvrda podloga
+WTA - SINGL: 
+Ždrijeb
+Kraj
+Bucsa C.
+Jovic I.
+0
+2
+4
+6
+1
+6
+Kraj
+Samsonova L.
+Stearns P.
+0
+2
+6
+7
+7
+9
+2
+6
+Sao Paulo (Brazil), tvrda podloga
+WTA - SINGL: 
+Ždrijeb
+Kraj
+Podoroska N.
+Lamens S.
+2
+1
+7
+7
+6
+5
+3
+6
+6
+3
+Seoul (Južna Koreja) - Kvalifikacije, tvrda podloga
+WTA - SINGL: 
+Ždrijeb
+Kraj
+Shubladze A.
+Jang G.
+2
+0
+6
+0
+6
+1
+Singapore (Singapur) - Kvalifikacije, tvrda podloga (dvorana)
+WTA - SINGL: 
+Ždrijeb
+Kraj
+Friedsam A-L.
+Krawczyk D.
+2
+0
+6
+3
+6
+4
+Kraj
+Wang J.
+Kulikova A.
+0
+2
+4
+6
+5
+7
+Davis Cup - World Group II (Svijet)
+ATP - PAROVI: 
+Kraj
+Da Costa R.
+Zapp E. D.
+Haita S. H.
+Turcanu R. D.
+0
+2
+2
+6
+1
+6
+Davis Cup - World Group (Svijet) - Kvalifikacije
+ATP - PAROVI: 
+Otkazano
+Nam J. S.
+Park U.
+Balaji N. S.
+Kaliyanda Poonacha N.
+-
+-
+Kraj
+Nam J. S.
+Park U.
+Balaji N. S.
+Suresh D.
+1
+2
+3
+6
+6
+3
+3
+6
+Sao Paulo (Brazil), tvrda podloga
+WTA - PAROVI: 
+Ždrijeb
+Kraj
+Stoiana M.
+Valdmannova V.
+Dang Y.
+You X.
+1
+2
+6
+4
+3
+6
+7
+10
+Tiburon (SAD), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Shelbayh A.
+Mmoh M.
+0
+2
+4
+6
+4
+6
+Kraj
+Wolf J.J.
+Gorzny S.
+2
+1
+7
+7
+6
+5
+1
+6
+7
+5
+M15 Belem (Brazil), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Zanellato N.
+Sverzut Corsini L.
+2
+0
+6
+2
+6
+3
+M25 Guiyang (Kina), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Barsukov N.
+Kachmazov A.
+0
+2
+4
+6
+5
+7
+Kraj
+Chung Y.
+Ferguson C.
+2
+0
+6
+2
+6
+3
+W35 Kyoto (Japan), tvrda podloga (dvorana)
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Matsuda R.
+Abe H.
+1
+2
+1
+6
+7
+5
+4
+6
+Kraj
+Lu J.
+Shibahara E.
+2
+0
+6
+2
+6
+4
+W35 Shenyang (Kina), tvrda podloga (dvorana)
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Sidorova K.
+Huang Yujia
+2
+0
+7
+5
+7
+7
+6
+3
+Kraj
+Zhang R.
+Wei S.
+0
+2
+3
+6
+6
+5
+7
+7
+Davis Cup - World Group I (Svijet)
+TIMOVI - MUŠKARCI: 
+Ždrijeb
 Nakon
 1. dana
 Finska
@@ -50,35 +346,47 @@ Mađarska
 2
 Nakon
 1. dana
+Nizozemska
+Kolumbija
+2
+0
+Nakon
+1. dana
 Norveška
 Kina
 2
 0
 Nakon
 1. dana
+Danska
+Bugarska
+1
+1
+Nakon
+1. dana
 Brazil
 Švicarska
 2
 0
+Nakon
+1. dana
+Peru
+Paragvaj
+2
+0
+Nakon
+1. dana
+Novi Zeland
+Japan
+0
+2
 Davis Cup - World Group II (Svijet)
 TIMOVI - MUŠKARCI: 
 Ždrijeb
 Nakon
 1. dana
-Indonezija
-Rumunjska
-0
-2
-Nakon
-1. dana
 Kazahstan
 Tajland
-2
-0
-Nakon
-1. dana
-Tunis
-Pakistan
 2
 0
 Nakon
@@ -89,19 +397,25 @@ Izrael
 0
 Nakon
 1. dana
+Tunis
+Pakistan
+2
+0
+Nakon
+1. dana
 Urugvaj
 Estonija
+2
+0
+Nakon
+1. dana
+Bolivija
+Hong Kong
 2
 0
 Davis Cup - World Group (Svijet) - Kvalifikacije
 TIMOVI - MUŠKARCI: 
 Ždrijeb
-Nakon
-1. dana
-Južna Koreja
-Indija
-2
-0
 Nakon
 1. dana
 Austrija
@@ -114,6 +428,12 @@ Nakon
 SAD
 1
 1
+Nakon
+1. dana
+Kanada
+Francuska
+2
+0
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -232,7 +552,7 @@ Borac Mozzart - Crvena Zvezda Meridianbet
 Partizan Mozzart Bet - Perspektiva Ilirija
 Rumunjska - Bosna i Hercegovina
 Dubai - Fenerbahce
-Valencia - Barcelona
+Panathinaikos - PAOK
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
