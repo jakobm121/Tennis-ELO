@@ -129,6 +129,20 @@ Medjedovic H.
 Butvilas E.
 -
 -
+Kraj
+Cerundolo F.
+Alkaya M.
+2
+0
+6
+1
+6
+0
+Otkazano
+Tirante T. A.
+Erel Y.
+-
+-
 Davis Cup - World Group II (Svijet)
 ATP - SINGL: 
 Otkazano
@@ -275,6 +289,25 @@ Dodig M.
 Otkazano
 Samuel T.
 Guillen Meza A.
+-
+-
+Kraj
+Soto M.
+Landaluce M.
+0
+2
+2
+6
+3
+6
+Otkazano
+Tabilo A.
+Jodar R.
+-
+-
+Otkazano
+Garin C.
+Merida Aguilar D.
 -
 -
 Guadalajara (Meksiko), tvrda podloga
@@ -561,6 +594,31 @@ Hidalgo D.
 3
 6
 4
+Kraj
+Barrios Vera T.
+Tabilo A.
+Martinez P.
+Munar J.
+0
+2
+0
+6
+3
+6
+Sao Paulo (Brazil), tvrda podloga
+WTA - PAROVI: 
+Ždrijeb
+Prekinuto
+Dabrowski G.
+Stefani L.
+Rogers A. S.
+Zamarripa A.
+0
+0
+4
+3
+0
+0
 Biella (Italija), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -677,6 +735,64 @@ Farjat T.
 9
 4
 6
+Kraj
+Aboian V.
+Cundom J.
+2
+1
+4
+6
+6
+3
+6
+2
+Kraj
+Ross J.
+Martinez T.
+0
+2
+3
+6
+3
+6
+Kraj
+Cigarran T.
+Pesino S.
+2
+0
+6
+4
+7
+5
+Prekinuto
+Aguilar Cardozo F.
+Dickerson R.
+1
+0
+6
+3
+2
+0
+30
+15
+Prekinuto
+Rodriguez Taverna S.
+Bruna N.
+0
+0
+3
+2
+30
+40
+Prekinuto
+Rodriguez L. J.
+Meneo T.
+0
+0
+1
+1
+40
+40
 Genova 2 (Italija) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -914,6 +1030,70 @@ Mashtakov N.
 6
 3
 6
+Kraj
+Pereira T.
+Tsitsipas Pa.
+1
+2
+7
+7
+6
+3
+5
+7
+6
+6
+7
+8
+San Diego 2 (SAD) - Kvalifikacije, tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Arutiunian E.
+Staeheli L.
+2
+0
+6
+4
+6
+4
+Kraj
+Fenty A.
+Bigun K.
+2
+0
+7
+5
+6
+4
+Kraj
+Sell K.
+Rybakov A.
+0
+2
+3
+6
+4
+6
+Kraj
+Baris O.
+Mitsui S.
+2
+0
+6
+1
+6
+2
+Kraj
+(predano)
+Bicknell B.
+Vrba J.
+0
+1
+3
+6
+1
+3
 St. Tropez (Francuska) - Kvalifikacije, tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -1034,6 +1214,19 @@ Car H.
 4
 6
 0
+Kraj
+Boitan G. A.
+Ursu V.
+1
+2
+6
+3
+6
+2
+7
+7
+1
+6
 Caldas da Rainha (Portugal), tvrda podloga
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -1060,6 +1253,20 @@ De Stefano S.
 6
 5
 7
+Valencia (Španjolska), zemlja
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Herrero Linana A.
+Burel C.
+1
+2
+6
+4
+0
+6
+2
+6
 Ankara (Turska) - Kvalifikacije, tvrda podloga
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -1311,6 +1518,18 @@ Fossa Huergo N.
 2
 6
 3
+M15 Belem (Brazil), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Saraiva Dos Santos P. A.
+Zanellato N.
+2
+0
+6
+4
+7
+5
 M15 Hurghada 9 (Egipat), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -1489,6 +1708,22 @@ Wei S.
 12
 6
 10
+W75 Le Neubourg (Francuska), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Siskova A.
+Crawley F.
+2
+1
+4
+6
+6
+2
+7
+7
+6
+3
 Davis Cup - World Group I (Svijet)
 TIMOVI - MUŠKARCI: 
 Ždrijeb
@@ -1517,6 +1752,11 @@ Srbija
 Litva
 4
 0
+Kraj
+Argentina
+Turska
+3
+1
 Davis Cup - World Group II (Svijet)
 TIMOVI - MUŠKARCI: 
 Ždrijeb
@@ -1540,12 +1780,6 @@ Bermudski Otoci
 Meksiko
 0
 4
-Nakon
-1. dana
-El Salvador
-Portugal
-0
-2
 Kraj
 Bolivija
 Hong Kong
@@ -1564,6 +1798,11 @@ Velika Britanija
 Ekvador
 4
 0
+Kraj
+Čile
+Španjolska
+0
+4
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -1600,7 +1839,7 @@ WTA Singapore
 ATP Davis Cup - World Group
 ATP Davis Cup - World Group I
 ATP Davis Cup - World Group II
-Prikaži više (56)
+Prikaži više (54)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -1651,7 +1890,6 @@ World Series Finals
 MLB
 EP u odbojci za žene 2026
 NOGOMET UŽIVO
-Dinamo Zagreb - Lokomotiva Zagreb
 Srbija - Grčka
 Češka - Hrvatska
 Srbija - Nizozemska
@@ -1661,10 +1899,10 @@ Uzbekistan - Iran
 DR Kongo - Ekvatorska Gvineja
 Austrija - Izrael
 Portugal - Wales
+Norveška - Danska
 LIVESCORE
 Slovenija - Srbija
 Vekić - Wang
-Italija - Danska
 Novi Beograd - Partizan
 Mornar - Jadran ST
 Saudijska Arabija - Kuvajt
@@ -1672,6 +1910,7 @@ Turkmenistan - Novi Zeland
 Palestina - Novi Zeland
 Japan - Urugvaj
 Južna Koreja - Ekvador
+Uzbekistan - Iran
 REZULTATI UŽIVO
 Crvena Zvezda Meridianbet - Zalgiris Kaunas
 Zadar - KK Bosna
@@ -1702,7 +1941,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Gambling Problem? Call 1-800-BETS OFF 21+
+Igrajte odgovorno. Gambling Therapy. 18+
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
