@@ -28,17 +28,20 @@ Cruz C.
 Borges N.
 -
 -
-Prekinuto
+Otkazano
 Fuentes Vasquez J.
 Rocha H.
-0
-1
+-
+-
 4
 6
 2
 2
-0
-0
+Otkazano
+Duran D.
+Cabral F.
+-
+-
 Otkazano
 Duran D.
 Faria J.
@@ -47,6 +50,19 @@ Faria J.
 Seoul (Južna Koreja), tvrda podloga
 WTA - SINGL: 
 Ždrijeb
+Kraj
+Yao X.
+Joint M.
+1
+2
+6
+2
+6
+7
+7
+9
+3
+6
 Kraj
 Tararudee L.
 Uchijima M.
@@ -69,6 +85,52 @@ Kalieva E.
 3
 6
 0
+Kraj
+Korneeva A.
+Sawangkaew M.
+2
+0
+6
+4
+6
+2
+Kraj
+Rakhimova K.
+Kudermetova P.
+2
+1
+7
+7
+6
+4
+4
+6
+7
+5
+Kraj
+Yuan Y.
+Back D.
+1
+2
+3
+6
+6
+4
+1
+6
+Kraj
+Astakhova D.
+Linette M.
+2
+1
+3
+6
+6
+1
+7
+7
+6
+2
 Singapore (Singapur), tvrda podloga (dvorana)
 WTA - SINGL: 
 Ždrijeb
@@ -80,6 +142,44 @@ Sasnovich A.
 5
 7
 0
+6
+Kraj
+Mladenovic K.
+Hibino N.
+1
+2
+5
+7
+6
+3
+4
+6
+Kraj
+Gibson T.
+Ferro F.
+2
+0
+6
+3
+6
+3
+Kraj
+Sramkova R.
+Chwalinska M.
+0
+2
+4
+6
+2
+6
+Kraj
+Okamura K.
+Fernandez L.
+0
+2
+2
+6
+3
 6
 Sao Paulo (Brazil), tvrda podloga
 WTA - PAROVI: 
@@ -95,6 +195,60 @@ Zamarripa A.
 3
 0
 0
+Seoul (Južna Koreja), tvrda podloga
+WTA - PAROVI: 
+Ždrijeb
+Kraj
+Bondar A.
+Stollar F.
+Joint M.
+Ruse G.
+0
+2
+1
+6
+6
+2
+7
+7
+Kraj
+Cho I-H.
+Cho T.
+Liang E. S.
+Yuan Y.
+1
+2
+4
+6
+6
+3
+8
+10
+Singapore (Singapur), tvrda podloga (dvorana)
+WTA - PAROVI: 
+Ždrijeb
+Kraj
+Kato M.
+Perez E.
+Sakkari M.
+Vekić D.
+2
+0
+7
+5
+6
+1
+Kraj
+Ferro F.
+Fruhvirtova L.
+Tang Q.
+Xu Y-F.
+0
+2
+4
+6
+2
+6
 Tiburon (SAD), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -141,6 +295,105 @@ Meneo T.
 1
 40
 40
+Genova 2 (Italija) - Kvalifikacije, zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+(predano)
+Barranco Cosano J.
+Sperle J.
+0
+1
+6
+3
+7
+7
+2
+1
+Kraj
+Nijboer R.
+Juan Mano A.
+1
+2
+6
+4
+3
+6
+4
+6
+Kraj
+Sakellaridis D.
+Berto L.
+1
+2
+6
+1
+5
+7
+4
+6
+Plovdiv 4 (Bugarska) - Kvalifikacije, zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Almazan Valiente I.
+Lazarov G.
+2
+0
+6
+1
+7
+5
+Kraj
+Misolic F.
+Gima S.
+1
+2
+3
+6
+6
+4
+3
+6
+Kraj
+(predano)
+Lagutin P.
+Gulin S.
+1
+0
+7
+9
+6
+7
+3
+0
+Kraj
+Wiedenmann L.
+Milev Y.
+0
+2
+2
+6
+1
+6
+Kraj
+Tsitsipas Pa.
+Mashtakov N.
+0
+2
+3
+6
+1
+6
+Kraj
+Obradovic D.
+Andreev A.
+0
+2
+3
+6
+4
+6
 San Diego 2 (SAD) - Kvalifikacije, tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -180,6 +433,278 @@ Lee J. A.
 2
 6
 2
+St. Tropez (Francuska) - Kvalifikacije, tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Domenc M.
+Jade D.
+1
+2
+7
+14
+6
+12
+4
+6
+5
+7
+Kraj
+Janvier M.
+Masur D.
+0
+2
+2
+6
+6
+4
+7
+7
+Kraj
+Martineau M.
+Boulais J.
+2
+0
+6
+3
+6
+1
+Kraj
+Grenier H.
+Ursu V.
+2
+0
+6
+4
+6
+4
+Kraj
+Echargui M.
+Poling K.
+2
+0
+6
+4
+7
+10
+6
+8
+Kraj
+Cassone M.
+Zahraj P.
+2
+0
+6
+2
+7
+5
+Ankara (Turska), tvrda podloga
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Otkazano
+Naito Y.
+Avdeeva J.
+-
+-
+Kraj
+Hruncakova V.
+Iatcenko P.
+1
+2
+6
+4
+3
+6
+3
+6
+Otkazano
+Gjorcheska L.
+Aksu A.
+-
+-
+Tolentino (Italija), zemlja
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Maristany G.
+Papamichail D.
+2
+0
+6
+3
+6
+3
+Ankara (Turska) - Kvalifikacije, tvrda podloga
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Vogt M.
+Yashina E.
+2
+0
+6
+4
+6
+2
+Kraj
+Egorova D.
+Ercan M.
+2
+0
+7
+5
+6
+1
+Kraj
+Zaytseva K.
+Yoruk I.
+1
+2
+6
+2
+4
+6
+5
+7
+Kraj
+Falkowska W.
+Smith A.
+2
+0
+6
+3
+6
+3
+Porto (Portugal) - Kvalifikacije, tvrda podloga
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Johnson S.
+Brantmeier R.
+0
+2
+3
+6
+4
+6
+Kraj
+Collins K.
+Steiner V.
+1
+2
+4
+6
+6
+1
+4
+6
+Kraj
+Voloshchuk A.
+Arseneault A.
+2
+0
+6
+3
+7
+5
+Tolentino (Italija) - Kvalifikacije, zemlja
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Zaar L.
+Chiesa E.
+2
+1
+3
+6
+6
+3
+7
+8
+6
+6
+Kraj
+Spiteri D.
+Primorac I.
+2
+0
+6
+3
+6
+4
+Kraj
+Pieri J.
+Kucmova A.
+2
+0
+6
+0
+6
+3
+Kraj
+Laboutkova A.
+Tsygourova K.
+0
+2
+2
+6
+2
+6
+M25 Falun (Švedska), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Vasa I.
+Nanobashvili Saba G.
+2
+0
+6
+1
+6
+3
+M25 Santa Margherita di Pula 8 (Italija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Vanshelboim E.
+Bracci V.
+2
+0
+7
+5
+6
+4
+Kraj
+de Marchi A.
+Cocola S.
+2
+1
+4
+6
+6
+4
+6
+0
+Kraj
+Baragiola Mordini T. C.
+Carboni L.
+0
+2
+6
+1
+7
+7
+4
+6
+Kraj
+McCormick T.
+Johns G.
+0
+2
+4
+6
+2
+6
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -206,17 +731,17 @@ WTA Parovi
 ATP Parovi Race
 WTA Parovi Race
 AKTUALNI TURNIRI
+ATP Chengdu
 ATP Davis Cup - World Group
 ATP Davis Cup - World Group I
 ATP Davis Cup - World Group II
+ATP Hangzhou
 WTA Sao Paulo
 WTA Seoul
 WTA Singapore
+ATP Chengdu
 ATP Davis Cup - World Group
-ATP Davis Cup - World Group I
-ATP Davis Cup - World Group II
-WTA Sao Paulo
-Prikaži više (48)
+Prikaži više (44)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -263,7 +788,7 @@ Svjetsko Prvenstvo U20 - Žene 2026
 ABA liga 2026
 Premier Liga košarka 2026/27
 Europsko Prvenstvo 2026
-World Series Finals
+World Grand Prix
 MLB
 EP u odbojci za žene 2026
 NOGOMET UŽIVO
@@ -318,7 +843,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Gambling Problem? Call 1-800-BETS OFF 21+
+Igrajte odgovorno. Gambling Therapy. 18+
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
