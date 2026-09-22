@@ -21,6 +21,52 @@ TEČAJEVI
 GOTOVO
 RASPORED
 22/09 UT
+Hangzhou (Kina) - Kvalifikacije, tvrda podloga
+ATP - SINGL: 
+Ždrijeb
+Kraj
+Kang K.
+Santillan A.
+0
+2
+3
+6
+0
+6
+Seoul (Južna Koreja), tvrda podloga
+WTA - SINGL: 
+Ždrijeb
+Kraj
+Lys E.
+Ruse G.
+0
+2
+1
+6
+2
+6
+Kraj
+Preston T.
+Sakatsume H.
+2
+1
+6
+2
+3
+6
+6
+2
+Kraj
+Park S.
+Montgomery R.
+2
+0
+7
+7
+6
+4
+6
+3
 Singapore (Singapur), tvrda podloga (dvorana)
 WTA - SINGL: 
 Ždrijeb
@@ -29,6 +75,31 @@ Parks A.
 Tjen J.
 -
 -
+Kraj
+Wolff V.
+Oliynykova O.
+0
+2
+1
+6
+6
+1
+7
+7
+Buenos Aires 3 (Argentina), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Villanueva G.
+Justo G. I.
+1
+2
+4
+6
+6
+3
+1
+6
 Genova 2 (Italija), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -37,6 +108,20 @@ Neumayer L.
 Sanchez Izquierdo N.
 -
 -
+San Diego 2 (SAD), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Smith K.
+Winter E.
+2
+1
+6
+3
+4
+6
+6
+2
 St. Tropez (Francuska), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -97,7 +182,6 @@ ATP Parovi Race
 WTA Parovi Race
 AKTUALNI TURNIRI
 ATP Chengdu
-ATP Davis Cup - World Group II
 ATP Hangzhou
 WTA Sao Paulo
 WTA Seoul
@@ -106,7 +190,8 @@ ATP Chengdu
 ATP Hangzhou
 WTA Sao Paulo
 WTA Seoul
-Prikaži više (54)
+WTA Singapore
+Prikaži više (59)
 KATEGORIJE
 ATP - singl
 WTA - singl
