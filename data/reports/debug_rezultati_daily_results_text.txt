@@ -21,6 +21,104 @@ TEČAJEVI
 GOTOVO
 RASPORED
 23/09 SR
+Seoul (Južna Koreja), tvrda podloga
+WTA - SINGL: 
+Ždrijeb
+Kraj
+Rakhimova K.
+Volynets K.
+0
+2
+3
+6
+0
+6
+Kraj
+Tararudee L.
+Park S.
+2
+0
+7
+7
+6
+5
+6
+0
+Singapore (Singapur), tvrda podloga (dvorana)
+WTA - PAROVI: 
+Ždrijeb
+Kraj
+Garland J.
+Hsieh S-W.
+Mihalikova T.
+Nicholls O.
+2
+0
+6
+2
+7
+7
+6
+5
+Buenos Aires 3 (Argentina), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Torres J. B.
+Ficovich J. P.
+0
+2
+3
+6
+4
+6
+San Diego 2 (SAD), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Basavareddy N.
+Rottgering M.
+2
+0
+6
+3
+6
+3
+Kraj
+Legout T.
+Milavsky D.
+2
+1
+7
+5
+6
+5
+7
+7
+6
+2
+Kraj
+Blanch Dar.
+Wolf J.J.
+2
+1
+4
+6
+7
+11
+6
+9
+6
+1
+Kraj
+Hance K.
+Martin A.
+2
+0
+6
+4
+7
+5
 St. Tropez (Francuska), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -49,6 +147,22 @@ Dilek D.
 5
 0
 0
+Buenos Aires 3 (Argentina), zemlja
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Ribeiro E.
+Zormann Da Silva M.
+Aguilar Cardozo J.
+De La Fuente S.
+1
+2
+6
+4
+5
+7
+9
+11
 Genova 2 (Italija), zemlja
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -59,6 +173,22 @@ Broska F.
 Oradini G.
 -
 -
+San Diego 2 (SAD), tvrda podloga
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Vance J.
+Vance J.
+Klaassen S.
+Papa C.
+1
+2
+6
+4
+2
+6
+8
+10
 Porto (Portugal), tvrda podloga
 CHALLENGER - ŽENSKI PAROVI: 
 Ždrijeb
@@ -84,6 +214,90 @@ Marterer M.
 Bailly G. A.
 -
 -
+M25 Yinchuan (Kina), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Ferguson C.
+Ehrenschneider N.
+2
+1
+6
+4
+1
+6
+6
+1
+Kraj
+Li S.
+Aguiard E.
+0
+2
+4
+6
+3
+6
+Kraj
+Liu S.
+Xia Y.
+2
+0
+6
+4
+6
+2
+Kraj
+Palan D.
+Chen K. S.
+0
+2
+3
+6
+3
+6
+Otkazano
+Tang S.
+Hu H.
+-
+-
+W15 Maanshan 5 (Kina), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Khomutsianskaya D.
+Shikhanova M.
+2
+0
+6
+1
+6
+1
+Kraj
+Sagandykova A.
+Son H. Y.
+2
+0
+6
+2
+6
+3
+Kraj
+Ye S.
+Kubareva A.
+0
+2
+2
+6
+2
+6
+W35 Sharm ElSheikh 2 (Egipat), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Otkazano
+Hansen S. O.
+Tupitsyna E.
+-
+-
 W50 Berkeley, CA (SAD), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -96,12 +310,202 @@ Lutkemeyer A.
 2
 6
 0
+Kraj
+Maklakova E.
+Chan J.
+2
+0
+7
+7
+6
+3
+6
+4
 W50 Nanao (Japan), trava
 ITF - ŽENSKI SINGL: 
 Ždrijeb
+Kraj
+Arakawa H.
+Abe H.
+0
+2
+1
+6
+2
+6
+Kraj
+Han J.
+Tamura K.
+0
+2
+3
+6
+4
+6
+Kraj
+Lu J.
+Cheuk S. Y.
+2
+1
+6
+3
+5
+7
+6
+2
+Kraj
+Yoshioka K.
+Sato H.
+1
+2
+3
+6
+6
+1
+4
+6
+Kraj
+Hanatani N.
+Ishii S.
+0
+2
+6
+5
+7
+7
+2
+6
+Kraj
+Deng T. T.
+Kitahara Y.
+2
+0
+6
+1
+6
+4
+Kraj
+Shimizu E.
+Tsao C. Y.
+2
+0
+6
+4
+6
+2
 Otkazano
 Jang G.
 Itaya R.
+-
+-
+W15 Belem (Brazil), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Azambuja W. A.
+Insfran G.
+Goncalves A. C.
+Guapindaia S. G.
+0
+2
+1
+6
+4
+6
+Kraj
+Albieri S. O.
+Gomes Ferreira G.
+Catanzarite A.
+Lopez P.
+2
+1
+6
+1
+2
+6
+10
+7
+Kraj
+Melleiro C.
+Nahmias Melo Rodrigues B.
+Dias B.
+Roberta Bouth Pinheiro B.
+2
+0
+6
+4
+6
+2
+Kraj
+Popovic M.
+Santos S.
+Citolino M. M.
+Moraes M.
+2
+0
+6
+4
+6
+3
+W50 Berkeley, CA (SAD), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Lincer O.
+Perez Alarcon L.
+Osuigwe W.
+Urhobo A.
+1
+2
+7
+5
+3
+6
+4
+10
+Kraj
+McDonald E.
+Soke D.
+Abbagnato A.
+Sahdiieva A.
+1
+2
+6
+4
+2
+6
+8
+10
+Kraj
+Okalova M.
+Strakhova V.
+Bulatova A.
+Kuhl C.
+2
+0
+7
+5
+6
+1
+Kraj
+Brewer A. Q.
+Ma C.
+Cabezas Dominguez E.
+Hui K.
+0
+2
+4
+6
+4
+6
+W50 Nanao (Japan), trava
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Walkover
+Matsuda R.
+Nishimoto S.
+Miyamoto A.
+Yoshioka K.
 -
 -
 Reklama
