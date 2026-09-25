@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-25T14:08:04.229739+02:00",
+  "generated_at": "2026-09-25T19:30:37.008005+02:00",
   "source_odds_url": "https://raw.githubusercontent.com/jakobm121/Ai/refs/heads/main/data/tennis_odds_today.json",
-  "odds_generated_at": "2026-09-25T13:52:07.185796+02:00",
+  "odds_generated_at": "2026-09-25T19:12:09.806841+02:00",
   "ratings_generated_at": "2026-06-27T11:04:41.611804+02:00",
   "players": {
     "2813": {
