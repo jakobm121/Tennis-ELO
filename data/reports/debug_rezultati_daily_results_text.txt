@@ -145,6 +145,17 @@ De Minaur A.
 7
 9
 11
+Kraj
+Alcaraz C.
+Fritz T.
+2
+1
+6
+3
+4
+6
+13
+11
 Billie Jean King Cup - World Group (Svijet)
 WTA - SINGL: 
 Kraj
@@ -357,6 +368,27 @@ Sutjiadi A.
 7
 3
 6
+Buenos Aires 3 (Argentina), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Boscardin Dias P.
+Mena F.
+0
+2
+5
+7
+0
+6
+Kraj
+Aguilar Cardozo J.
+Barrena A.
+0
+2
+4
+6
+3
+6
 Genova 2 (Italija), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -441,6 +473,17 @@ Cassone M.
 2
 4
 2
+Kraj
+Droguet T.
+Prižmić D.
+2
+1
+6
+3
+5
+7
+6
+2
 Ankara (Turska), tvrda podloga
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -499,6 +542,17 @@ Pieri J.
 1
 6
 2
+Kraj
+Grabher J.
+Selekhmeteva O.
+2
+0
+7
+7
+6
+5
+6
+1
 Adana (Turska) - Kvalifikacije, tvrda podloga
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -642,6 +696,40 @@ Zheng W.
 6
 2
 6
+Buenos Aires 3 (Argentina), zemlja
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Dellien Velasco M. A.
+Zeballos F.
+Kestelboim M.
+Rodriguez Taverna S.
+1
+2
+4
+6
+6
+4
+5
+10
+Genova 2 (Italija), zemlja
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Cervantes I.
+Molchanov D.
+Niklas-Salminen P.
+Vrbensky M.
+2
+1
+6
+2
+6
+6
+7
+8
+10
+7
 Plovdiv 4 (Bugarska), zemlja
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -656,6 +744,24 @@ Winter Lopez B.
 3
 6
 4
+San Diego 2 (SAD), tvrda podloga
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Gogineni V.
+Zamora N.
+Klaassen S.
+Papa C.
+1
+2
+6
+6
+7
+8
+7
+5
+3
+10
 St. Tropez (Francuska), tvrda podloga
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -741,6 +847,51 @@ Brown O.
 7
 6
 3
+M15 Columbia, SC (SAD), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Bonding O.
+Avram G.
+2
+0
+7
+5
+6
+1
+Kraj
+(predano)
+Jansen W.
+Daryabeigi S.
+0
+1
+6
+4
+7
+7
+0
+0
+M15 Curitiba (Brazil), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Alves M.
+Leite W.
+2
+0
+7
+5
+6
+2
+Kraj
+Zanellato N.
+Sakamoto P.
+0
+2
+4
+6
+1
+6
 M15 Forbach (Francuska), tvrda podloga (dvorana)
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -1136,6 +1287,20 @@ Milovanova V.
 7
 6
 1
+W50 Berkeley, CA (SAD), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Perez Alarcon L.
+Preston J.
+1
+2
+4
+6
+6
+2
+4
+6
 W50 Nanao (Japan), trava
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -1217,6 +1382,47 @@ Dolzhenkov D.
 6
 2
 6
+M15 Columbia, SC (SAD), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Cozad R.
+Goode Ga.
+Andre S.
+Miguel L. F.
+0
+2
+5
+7
+5
+7
+Kraj
+Bobo D.
+Cox N.
+Daryabeigi S.
+Stenzer M.
+2
+0
+6
+2
+7
+7
+6
+5
+M15 Curitiba (Brazil), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Tosetto R.
+Zanellato N.
+Roberts J.
+Roveri Sidney G.
+2
+0
+6
+4
+6
+3
 M15 Monastir 32 (Tunis), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -1335,6 +1541,17 @@ Garcia Vidal L.
 7
 5
 7
+Kraj
+Dias S.
+Garcia Vidal L.
+Bernardes B.
+Dourado Zimermman J.
+2
+0
+6
+4
+7
+5
 W15 Constanta (Rumunjska), zemlja
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -1523,7 +1740,7 @@ ATP Chengdu
 ATP Hangzhou
 ATP Laver Cup
 WTA Billie Jean King Cup - World Group
-Prikaži više (65)
+Prikaži više (66)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -1574,29 +1791,28 @@ World Grand Prix
 MLB
 EP u odbojci za žene 2026
 NOGOMET UŽIVO
-Češka - Hrvatska
 Srbija - Nizozemska
 Španjolska - Hrvatska
 Njemačka - Srbija
 Hrvatska - Engleska
 Vukovar 1991 - Dinamo Zagreb
-Rijeka - Union Berlin
-Engleska - Španjolska
 Meksiko - Kolumbija
 Austrija - Kosovo
+Jordan - Sirija
+Norveška - Portugal
+Zimbabve - DR Kongo
 LIVESCORE
-Sj. Makedonija Ž - Hrvatska Ž
-Jadran ST - Zadar
-Oman - Saudijska Arabija
-Radnički - Valis Valjevo
+Ajdukovic - Lopez Morillo
 Kina - Novi Zeland
 Srbija - Nizozemska
 Budvanska Rivijera - Novi Beograd
 Njemačka - Grčka
 Curacao - Nikaragva
 Japan - Venezuela
+Južna Koreja - Urugvaj
+Švedska - Poljska
+Tunis - Bocvana
 REZULTATI UŽIVO
-Borac Mozzart - Crvena Zvezda Meridianbet
 Zadar - Samobor
 Partizan Mozzart Bet - Perspektiva Ilirija
 Rumunjska - Bosna i Hercegovina
@@ -1606,6 +1822,7 @@ Crvena Zvezda Meridianbet - Anadolu Efes
 Bayern - Partizan Mozzart Bet
 Bosna i Hercegovina - Švedska
 Škrljevo - Zadar
+FMP - Crvena Zvezda Meridianbet
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
@@ -1625,7 +1842,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Must be 21+. If you or someone you know has a gambling problem, crisis counselling and referral services can be accessed by calling 1-800-GAMBLER (1-800-426-2537) or by texting ILGAMB to 833234. The 1-800-GAMBLER helpline can be used for multi-jurisdictional advertising.
+Igrajte odgovorno. Gambling Therapy. 18+
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
