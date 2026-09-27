@@ -21,20 +21,37 @@ TEČAJEVI
 GOTOVO
 RASPORED
 27/09 NE
-Hangzhou (Kina), tvrda podloga
-ATP - PAROVI: 
+Seoul (Južna Koreja), tvrda podloga
+WTA - PAROVI: 
 Ždrijeb
-Prekinuto
-Reynolds F.
-Watt J.
-King E.
-Stevens B.
-0
-0
+Kraj
+Chan H-C.
+Wu F.
+Lee Y.
+Ye Q.
 2
+0
+6
+2
+6
 3
-0
-0
+San Diego 2 (SAD), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+(predano)
+Basavareddy N.
+Dietrich D.
+1
+1
+6
+10
+7
+12
+6
+4
+5
+1
 Adana (Turska) - Kvalifikacije, tvrda podloga
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -43,6 +60,80 @@ Feistel G.
 Bertea E. R.
 -
 -
+Jingshan (Kina) - Kvalifikacije, tvrda podloga
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Nugroho P. M.
+Huang Yujia
+0
+2
+4
+6
+5
+7
+Kraj
+Rajecki A.
+Yuan C.
+2
+0
+6
+3
+7
+5
+M25 Yinchuan (Kina), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Kachmazov A.
+Chen K. S.
+2
+0
+6
+3
+6
+4
+W50 Nanao (Japan), trava
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Hosogi S.
+Abe H.
+0
+2
+4
+6
+3
+6
+W50 Berkeley, CA (SAD), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Goto R.
+Laskevich E.
+Osuigwe W.
+Urhobo A.
+2
+1
+4
+6
+6
+2
+12
+10
+Kraj
+Cabezas Dominguez E.
+Hui K.
+Crossley M.
+Lutkemeyer A.
+2
+1
+7
+5
+1
+6
+10
+6
 Laver Cup (Svijet)
 TIMOVI - MUŠKARCI: 
 Ždrijeb
@@ -144,11 +235,11 @@ Srbija - Nizozemska
 Njemačka - Srbija
 Hrvatska - Engleska
 Vukovar 1991 - Dinamo Zagreb
-Meksiko - Kolumbija
 Austrija - Kosovo
 Jordan - Sirija
 Norveška - Portugal
 Zimbabve - DR Kongo
+Belgija - Francuska
 LIVESCORE
 Ajdukovic - Lopez Morillo
 Kina - Novi Zeland

@@ -1,8 +1,165 @@
 {
-  "generated_at": "2026-09-27T01:55:14.055601+02:00",
+  "generated_at": "2026-09-27T07:47:14.160839+02:00",
   "source_url": "https://www.rezultati.com/tenis/",
   "counts": {
-    "daily_scorelines": 0
+    "daily_scorelines": 3
   },
-  "matches": []
+  "matches": [
+    {
+      "match_id": "",
+      "match_url": "",
+      "source": "rezultati_daily_results_text_fallback",
+      "date": "2026-09-27",
+      "player_1": "Nugroho P. M.",
+      "player_2": "Huang Yujia",
+      "match": "Nugroho P. M. - Huang Yujia",
+      "winner": "Huang Yujia",
+      "loser": "Nugroho P. M.",
+      "sets_1": 0,
+      "sets_2": 2,
+      "final_score": "0-2",
+      "set_scores": [
+        {
+          "set_number": 1,
+          "p1_games": 4,
+          "p2_games": 6,
+          "tiebreak": false
+        },
+        {
+          "set_number": 2,
+          "p1_games": 5,
+          "p2_games": 7,
+          "tiebreak": false
+        }
+      ],
+      "completed": true,
+      "retired": false,
+      "walkover": false,
+      "raw_parent_text": "Kraj\nNugroho P. M.\nHuang Yujia\n0\n2\n4\n6\n5\n7",
+      "raw_header_text": "Jingshan (Kina) - Kvalifikacije, tvrda podloga\nCHALLENGER - ŽENSKI SINGL:",
+      "tournament": "Jingshan (Kina) - Kvalifikacije, tvrda podloga",
+      "tour_level": "challenger",
+      "gender": "",
+      "surface": "hard",
+      "indoor": null,
+      "best_of": 3,
+      "is_grand_slam": false,
+      "first_set_score": "4-6",
+      "first_set_games": 10,
+      "first_set_tiebreak": false,
+      "total_games": 22,
+      "p1_total_games_won": 9,
+      "p2_total_games_won": 13,
+      "game_margin_p1": -4,
+      "total_sets": 2,
+      "straight_sets": true,
+      "deciding_set": false,
+      "had_tiebreak": false,
+      "tiebreak_count": 0
+    },
+    {
+      "match_id": "",
+      "match_url": "",
+      "source": "rezultati_daily_results_text_fallback",
+      "date": "2026-09-27",
+      "player_1": "Kachmazov A.",
+      "player_2": "Chen K. S.",
+      "match": "Kachmazov A. - Chen K. S.",
+      "winner": "Kachmazov A.",
+      "loser": "Chen K. S.",
+      "sets_1": 2,
+      "sets_2": 0,
+      "final_score": "2-0",
+      "set_scores": [
+        {
+          "set_number": 1,
+          "p1_games": 6,
+          "p2_games": 3,
+          "tiebreak": false
+        },
+        {
+          "set_number": 2,
+          "p1_games": 6,
+          "p2_games": 4,
+          "tiebreak": false
+        }
+      ],
+      "completed": true,
+      "retired": false,
+      "walkover": false,
+      "raw_parent_text": "Kraj\nKachmazov A.\nChen K. S.\n2\n0\n6\n3\n6\n4",
+      "raw_header_text": "M25 Yinchuan (Kina), tvrda podloga\nITF - MUŠKI SINGL:",
+      "tournament": "M25 Yinchuan (Kina), tvrda podloga",
+      "tour_level": "itf",
+      "gender": "",
+      "surface": "hard",
+      "indoor": null,
+      "best_of": 3,
+      "is_grand_slam": false,
+      "first_set_score": "6-3",
+      "first_set_games": 9,
+      "first_set_tiebreak": false,
+      "total_games": 19,
+      "p1_total_games_won": 12,
+      "p2_total_games_won": 7,
+      "game_margin_p1": 5,
+      "total_sets": 2,
+      "straight_sets": true,
+      "deciding_set": false,
+      "had_tiebreak": false,
+      "tiebreak_count": 0
+    },
+    {
+      "match_id": "",
+      "match_url": "",
+      "source": "rezultati_daily_results_text_fallback",
+      "date": "2026-09-27",
+      "player_1": "Hosogi S.",
+      "player_2": "Abe H.",
+      "match": "Hosogi S. - Abe H.",
+      "winner": "Abe H.",
+      "loser": "Hosogi S.",
+      "sets_1": 0,
+      "sets_2": 2,
+      "final_score": "0-2",
+      "set_scores": [
+        {
+          "set_number": 1,
+          "p1_games": 4,
+          "p2_games": 6,
+          "tiebreak": false
+        },
+        {
+          "set_number": 2,
+          "p1_games": 3,
+          "p2_games": 6,
+          "tiebreak": false
+        }
+      ],
+      "completed": true,
+      "retired": false,
+      "walkover": false,
+      "raw_parent_text": "Kraj\nHosogi S.\nAbe H.\n0\n2\n4\n6\n3\n6",
+      "raw_header_text": "W50 Nanao (Japan), trava\nITF - ŽENSKI SINGL:",
+      "tournament": "W50 Nanao (Japan)",
+      "tour_level": "itf",
+      "gender": "",
+      "surface": "grass",
+      "indoor": null,
+      "best_of": 3,
+      "is_grand_slam": false,
+      "first_set_score": "4-6",
+      "first_set_games": 10,
+      "first_set_tiebreak": false,
+      "total_games": 19,
+      "p1_total_games_won": 7,
+      "p2_total_games_won": 12,
+      "game_margin_p1": -5,
+      "total_sets": 2,
+      "straight_sets": true,
+      "deciding_set": false,
+      "had_tiebreak": false,
+      "tiebreak_count": 0
+    }
+  ]
 }
