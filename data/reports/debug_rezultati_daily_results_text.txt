@@ -21,9 +21,74 @@ TEČAJEVI
 GOTOVO
 RASPORED
 28/09 PO
+Chengdu (Kina), tvrda podloga
+ATP - SINGL: 
+Ždrijeb
+Kraj
+Basilashvili N.
+Davidovich Fokina A.
+1
+2
+6
+4
+4
+6
+3
+6
+Kraj
+Hurkacz H.
+Shapovalov D.
+2
+1
+6
+8
+7
+10
+6
+3
+6
+3
+Hangzhou (Kina), tvrda podloga
+ATP - SINGL: 
+Ždrijeb
+Kraj
+Jacquet K.
+Rublev A.
+0
+2
+6
+0
+7
+7
+1
+6
+Kraj
+Medvedev D.
+Safiullin R.
+2
+0
+7
+5
+6
+4
 Beijing (Kina) - Kvalifikacije, tvrda podloga
 ATP - SINGL: 
 Ždrijeb
+Kraj
+Hanfmann Y.
+Machac T.
+1
+2
+6
+7
+7
+9
+7
+8
+6
+6
+4
+6
 Otkazano
 Te R.
 Duckworth J.
@@ -38,6 +103,80 @@ Gea A.
 6
 3
 6
+Kraj
+Landaluce M.
+Trungelliti M.
+1
+2
+1
+6
+7
+11
+6
+9
+6
+2
+7
+7
+Kraj
+Molcan A.
+Kopriva V.
+2
+1
+7
+7
+6
+3
+2
+6
+7
+10
+6
+8
+Kraj
+Zhou Y.
+Carreno-Busta P.
+0
+2
+5
+7
+3
+6
+Kraj
+Cui J.
+Altmaier D.
+2
+0
+6
+4
+6
+1
+Kraj
+Kecmanovic M.
+Mannarino A.
+1
+2
+6
+6
+7
+8
+6
+3
+6
+5
+7
+7
+Kraj
+Van De Zandschulp B.
+Royer V.
+2
+1
+4
+6
+6
+2
+6
+4
 Tokyo (Japan) - Kvalifikacije, tvrda podloga
 ATP - SINGL: 
 Ždrijeb
@@ -83,6 +222,44 @@ Damm M.
 1
 6
 1
+Kraj
+Munar J.
+Giron M.
+2
+1
+5
+7
+6
+1
+6
+4
+Kraj
+Mochizuki S.
+Faria J.
+0
+2
+2
+6
+4
+6
+Kraj
+Vallejo D.
+Daniel T.
+2
+0
+6
+3
+6
+2
+Kraj
+Sonego L.
+Majchrzak K.
+0
+2
+5
+7
+2
+6
 Beijing (Kina) - Kvalifikacije, tvrda podloga
 WTA - SINGL: 
 Ždrijeb
@@ -139,12 +316,247 @@ Wang J.
 5
 7
 Kraj
+Lazaro Garcia A.
+Jialin T.
+2
+1
+1
+6
+6
+4
+6
+4
+Kraj
 Dang Y.
 You X.
 0
 2
 2
 6
+3
+6
+Kraj
+Savinykh V.
+Burillo Escorihuela I.
+2
+0
+6
+4
+6
+4
+Kraj
+Jacquemot E.
+Li Z.
+2
+0
+6
+4
+6
+0
+Kraj
+Kawa K.
+Matsuda R.
+2
+1
+7
+8
+6
+6
+2
+6
+6
+3
+Kraj
+Ye S.
+Fruhvirtova L.
+1
+2
+7
+5
+3
+6
+6
+1
+7
+7
+Kraj
+Kalieva E.
+Perez E.
+2
+0
+6
+2
+6
+4
+Kraj
+Bassols M.
+Nicholls O.
+2
+0
+6
+1
+6
+1
+Kraj
+Sasnovich A.
+Zhang J.
+2
+0
+6
+2
+6
+0
+Kraj
+Zhang R.
+Hunter S.
+1
+2
+6
+3
+3
+6
+2
+6
+Kraj
+Zidansek T.
+Zaytseva K.
+0
+2
+4
+6
+6
+7
+7
+9
+Kraj
+Montgomery R.
+Teixido Garcia A.
+2
+0
+6
+1
+6
+3
+Kraj
+Mihalikova T.
+Shi H.
+0
+2
+0
+6
+2
+6
+Kraj
+Sramkova R.
+Burrage J.
+0
+2
+4
+6
+4
+6
+Kraj
+Eikeri U.
+Lepchenko V.
+0
+2
+2
+6
+4
+6
+Kraj
+Panova A.
+Hontama M.
+0
+2
+5
+7
+1
+6
+Kraj
+Krawczyk D.
+Astakhova D.
+0
+2
+2
+6
+1
+6
+Kraj
+Kulikova A.
+Friedsam A-L.
+0
+2
+4
+6
+6
+7
+7
+9
+Kraj
+Inglis M.
+Yao X.
+2
+0
+6
+1
+7
+5
+Chengdu (Kina), tvrda podloga
+ATP - PAROVI: 
+Ždrijeb
+Kraj
+Arribage T.
+Olivetti A.
+Galloway R.
+Goransson A.
+1
+2
+4
+6
+6
+4
+4
+10
+Hangzhou (Kina), tvrda podloga
+ATP - PAROVI: 
+Ždrijeb
+Kraj
+King E.
+Stevens B.
+Arends S.
+Pel D.
+0
+2
+3
+6
+6
+4
+7
+7
+Kraj
+Rojer J-J.
+Winegar T.
+Cabral F.
+Tracy J.
+0
+2
+4
+6
+6
+3
+7
+7
+Bari (Italija), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Sciahbasi M.
+Martin Manzano J. C.
+0
+2
+5
+7
 3
 6
 Porto (Portugal), tvrda podloga
@@ -160,6 +572,99 @@ Prižmić D.
 Rincon D.
 -
 -
+Kraj
+Bonzi B.
+Holmgren A.
+0
+2
+3
+6
+4
+6
+Kraj
+Basing M.
+Poljicak M.
+0
+2
+1
+6
+4
+6
+Otkazano
+Dimitrov G.
+Rincon D.
+-
+-
+Bari (Italija) - Kvalifikacije, zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Agamenone F.
+Sperle J.
+1
+2
+2
+6
+6
+1
+6
+5
+7
+7
+Kraj
+Lopez Morillo I.
+Oetzbach A.
+2
+0
+6
+4
+6
+3
+Kraj
+Ovcharenko O.
+Basile P.
+1
+2
+6
+3
+5
+7
+1
+6
+Kraj
+(predano)
+Arnaboldi F.
+Gulin S.
+1
+0
+6
+4
+4
+2
+Kraj
+Moroni F.
+Andaloro F.
+1
+2
+6
+3
+7
+7
+6
+1
+3
+6
+Kraj
+Donald M.
+Sakellaridis D.
+2
+0
+7
+5
+7
+8
+6
+6
 Columbus (SAD) - Kvalifikacije, tvrda podloga (dvorana)
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -242,6 +747,258 @@ Moriya H.
 6
 4
 6
+Kraj
+Rawat S.
+Binda A.
+0
+2
+3
+6
+3
+6
+Kraj
+Walton A.
+Shiraishi H.
+2
+0
+6
+2
+6
+2
+Kraj
+Atmane T.
+Palan D.
+2
+0
+6
+1
+6
+4
+Kraj
+Xia Z.
+Zhu E.
+0
+2
+1
+6
+0
+6
+Kraj
+Bellucci M.
+Peliwo F.
+2
+0
+6
+2
+6
+4
+Kraj
+Saitoh K.
+Matsuda K.
+2
+0
+6
+3
+6
+2
+Kraj
+Vukic A.
+Seggerman R.
+2
+0
+6
+4
+6
+4
+Mouilleron-Le-Captif (Francuska) - Kvalifikacije, tvrda podloga (dvorana)
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Reco A.
+Zahraj P.
+2
+0
+7
+5
+6
+3
+Kraj
+Visker N.
+McDonald N.
+2
+0
+6
+3
+6
+4
+Kraj
+Dhamne M.
+Durasovic V.
+1
+2
+6
+4
+2
+6
+2
+6
+Kraj
+Romano F.
+Peniston R.
+2
+0
+6
+2
+6
+3
+Kraj
+Rossi L.
+Ghazouani Durand Y.
+0
+2
+4
+6
+5
+7
+Porto (Portugal) - Kvalifikacije, tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Nesterov P.
+Topo M.
+2
+0
+6
+4
+6
+2
+Kraj
+Marques G.
+Langmo C.
+2
+0
+7
+7
+6
+5
+7
+7
+6
+3
+Kraj
+Tabacco F.
+Sanchez Quilez A.
+2
+1
+6
+0
+4
+6
+6
+1
+Kraj
+(predano)
+Potenza L.
+Maxted L.
+1
+0
+6
+2
+4
+2
+Kraj
+Matusevich A.
+Bertrand R.
+2
+1
+6
+3
+6
+3
+7
+7
+6
+0
+Adana (Turska), tvrda podloga
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Arango E.
+Blinkova A.
+0
+2
+6
+4
+7
+7
+2
+6
+Kraj
+Riera J.
+Siskova A.
+2
+0
+7
+5
+6
+2
+Kraj
+Ruzic A.
+Valdmannova V.
+2
+0
+6
+4
+6
+3
+Kraj
+Bertea E. R.
+Stefanini L.
+1
+2
+6
+3
+4
+6
+2
+6
+Kraj
+Jeanjean L.
+Lamens S.
+2
+1
+4
+6
+6
+3
+6
+2
+Kraj
+Noha Akugue N.
+Crawley F.
+0
+2
+3
+6
+1
+6
+Kraj
+(predano)
+Hruncakova V.
+Gasanova A.
+0
+0
+4
+2
+Prekinuto
+Efremova K.
+Kubka M.
+0
+0
+2
+4
+15
+30
 Jingshan (Kina), tvrda podloga
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -272,6 +1029,132 @@ Ferro F.
 6
 6
 2
+1
+6
+Kraj
+Wei S.
+Huang Yujia
+2
+1
+6
+3
+1
+6
+7
+8
+6
+6
+Kraj
+Lu J.
+Kinoshita H.
+2
+0
+6
+4
+6
+3
+Kraj
+Kaji H.
+Jones E.
+0
+2
+2
+6
+4
+6
+Jingshan (Kina), tvrda podloga
+CHALLENGER - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Brooks M.
+Rajecki A.
+Ninomiya M.
+Radisic N.
+2
+0
+7
+7
+6
+5
+6
+0
+Kraj
+Li Y.
+Zhang Y.
+Cho I-H.
+Cho T.
+2
+0
+6
+2
+6
+3
+M15 Telavi 2 (Gruzija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Basile A.
+Losaberidze V.
+2
+0
+6
+2
+6
+0
+Kraj
+Grippo V.
+Misasi G.
+0
+2
+3
+6
+0
+6
+Kraj
+Madaras N.
+Ferrari F.
+2
+0
+6
+4
+6
+2
+Kraj
+Tiukaev R.
+Paardekooper S.
+0
+2
+2
+6
+4
+6
+Kraj
+Derepasko T.
+Dimic M.
+0
+2
+3
+6
+2
+6
+Kraj
+Klok D.
+Villoslada E.
+0
+2
+4
+6
+2
+6
+Kraj
+Tkemaladze Z.
+Cherie Ligniere E.
+1
+2
+7
+5
+1
+6
 1
 6
 Reklama
@@ -306,11 +1189,11 @@ ATP Hangzhou
 ATP Laver Cup
 ATP Tokyo
 WTA Beijing
-WTA Billie Jean King Cup - World Group
-WTA Seoul
-WTA Singapore
+ATP Beijing
 ATP Chengdu
-Prikaži više (51)
+ATP Hangzhou
+ATP Tokyo
+Prikaži više (34)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -336,7 +1219,7 @@ Juniori - singl
 Juniorke - singl
 Prikaži više
 Tenis livescore na Rezultatima nudi teniske rezultate uživo za preko 14000 teniskih turnira diljem svijeta, uključujući Australian Open, French Open, Wimbledon, US Open i mnoge druge. Pratite najnovije rezultate iz tenisa na Rezultatima, gdje možete pronaći detaljnu statistiku (asevi, dvostruke pogreške, postotak servisa, osvojeni servisi, spašene break lopte, neprisiljene pogreške, itd.), usporedbu koeficijenata, međuosboni omjer, vijesti, video sažetke ili tijek meča poen po poen. Pronađite sve današnje rezultate i vijesti iz tenisa na Rezultatima, uključujući ATP rezultate, WTA rezultate, ATP poredak, ATP kalendar 2026, WTA kalendar 2026, ili profile igrača (npr. Jannik Sinner, Carlos Alcaraz, Novak Đoković, Donna Vekić). Usluga tenis livescore se automatski ažurira, tako da nema potrebe da osvježavate stranicu.
-
+29.09. Tsitsipas S. - Hijikata R., Munar J. - Kovacevic A., Fils A. - Majchrzak K., Vallejo D. - Faria J., 30.09. Vacherot V. - Blockx A., Shapovalov D. - Shimabukuro S., Darderi L. - Ruud C., Nishikori K. - Tiafoe F., Musetti L. - Fery A., Tabilo A. - Paul T., Nakashima B. - Humbert U., Alcaraz C. - Michelsen A., Davidovich Fokina A. - Berrettini M., Lehecka J. - Bergs Z., Rune H. - Jacquet K., Arnaldi M. - Sakamoto R.
 
 NOGOMET
 HNL
@@ -372,8 +1255,7 @@ Burundi - Alžir
 Etiopija - Senegal
 Gana - Gambija
 LIVESCORE
-Japan - Venezuela
-Južna Koreja - Urugvaj
+Borges - Đoković
 Švedska - Poljska
 Tunis - Bocvana
 Južni Sudan - Egipat
@@ -382,6 +1264,7 @@ Rusija - Iran
 Saudijska Arabija - Irak
 Somalija - Obala Bjelokosti
 Panama - Novi Zeland
+Japan - Ekvador
 REZULTATI UŽIVO
 Rumunjska - Bosna i Hercegovina
 Crvena Zvezda Meridianbet - Hapoel Tel Aviv
@@ -412,7 +1295,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Gambling Problem? Call 1-800-BETS OFF 21+
+Igrajte odgovorno. Gambling Therapy. 18+
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
