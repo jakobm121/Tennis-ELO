@@ -22,6 +22,52 @@ GOTOVO
 RASPORED
 30/09 SR
 Beijing (Kina), tvrda podloga
+ATP - SINGL: 
+Ždrijeb
+Kraj
+Khachanov K.
+Auger-Aliassime F.
+2
+0
+6
+3
+6
+3
+Tokyo (Japan), tvrda podloga
+ATP - SINGL: 
+Ždrijeb
+Kraj
+Vacherot V.
+Blockx A.
+2
+0
+7
+7
+6
+2
+7
+7
+6
+4
+Prekinuto
+Lehecka J.
+Bergs Z.
+0
+0
+3
+1
+40
+A
+Kraj
+Tabilo A.
+Paul T.
+2
+0
+6
+1
+6
+2
+Beijing (Kina), tvrda podloga
 WTA - SINGL: 
 Ždrijeb
 Otkazano
@@ -34,6 +80,112 @@ Marčinko P.
 Frech M.
 -
 -
+Kraj
+Joint M.
+Kraus S.
+1
+2
+3
+6
+6
+3
+5
+7
+Kraj
+McNally C.
+Yastremska D.
+0
+2
+3
+6
+4
+6
+Kraj
+Ruse G.
+Tagger L.
+2
+0
+6
+4
+6
+2
+Kraj
+Tjen J.
+Kalinina A.
+2
+1
+2
+6
+7
+5
+6
+4
+Kraj
+Vidmanova D.
+Timofeeva M.
+0
+2
+3
+6
+3
+6
+Otkazano
+Sherif M.
+Kudermetova P.
+-
+-
+Tokyo (Japan) - Kvalifikacije, tvrda podloga
+ATP - PAROVI: 
+Ždrijeb
+Prekinuto
+Rojer J-J.
+Winegar T.
+Stevenson D.
+Willis M.
+0
+0
+1
+1
+30
+0
+Columbus (SAD), tvrda podloga (dvorana)
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Bigun K.
+Smith K.
+1
+2
+6
+4
+6
+3
+7
+7
+2
+6
+Kraj
+Nakashima B.
+Kennedy J.
+2
+1
+4
+6
+6
+2
+7
+10
+6
+8
+Kraj
+Filin N.
+Mayo A.
+0
+2
+4
+6
+4
+6
 Curitiba (Brazil), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -59,6 +211,66 @@ Prado Angelo J. C.
 0
 0
 0
+Jingshan (Kina), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Bellucci M.
+Muller A.
+2
+0
+6
+0
+6
+3
+Kraj
+Imamura M.
+Bar Biryukov P.
+0
+2
+5
+7
+4
+6
+Kraj
+Walton A.
+Kouame M.
+2
+0
+6
+1
+6
+4
+Kraj
+(predano)
+Ymer E.
+Atmane T.
+1
+1
+4
+6
+7
+5
+5
+5
+Kraj
+McCabe J.
+Cina F.
+0
+2
+2
+6
+3
+6
+Kraj
+Harris L.
+Galarneau A.
+2
+0
+6
+2
+6
+3
 Porto (Portugal), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -93,6 +305,54 @@ Pereira T.
 4
 30
 15
+Jingshan (Kina), tvrda podloga
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Shubladze A.
+Lu J.
+2
+0
+6
+0
+6
+2
+Kraj
+Zhu C.
+Jones E.
+0
+2
+1
+6
+4
+6
+Bari (Italija), zemlja
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Walkover
+Bianchi J. J.
+Pearson K.
+Krumich M.
+Martin A.
+-
+-
+Columbus (SAD), tvrda podloga (dvorana)
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Otkazano
+Rybakov A.
+Smith K.
+Colby R.
+Zamora N.
+-
+-
+Otkazano
+Milavsky D.
+Shick B.
+Kim A.
+Nakashima B.
+-
+-
 Curitiba (Brazil), zemlja
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -110,21 +370,169 @@ Casanova H.
 Zarate C. M.
 -
 -
+Jingshan (Kina), tvrda podloga
+CHALLENGER - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+(predano)
+Lansere S.
+Shubladze A.
+Feng S.
+Tian F.
+0
+0
+2
+0
+M15 Luan 4 (Kina), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Barsukov N.
+Yamanaka T.
+0
+2
+2
+6
+0
+6
+Kraj
+Liu Z.
+Jin Y.
+0
+2
+4
+6
+2
+6
+Kraj
+Sasikumar M.
+Oh Chan-Yeong
+0
+2
+4
+6
+3
+6
+Kraj
+Tomida Y.
+Han X.
+2
+0
+6
+2
+6
+3
 W100 Templeton, CA (SAD), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
 Kraj
-Pareja J.
-SET
-Frodin T.
+Penickova A.
+Urhobo A.
+0
 2
-1
-5
+2
+6
+3
+6
+W35 Wagga Wagga (Australija), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Kikawada R.
+Hosoki Y.
+2
+0
+7
 7
 6
 4
 6
+3
+Kraj
+Mushika Mio
+Abela C.
+2
+0
+6
 1
+6
+1
+Kraj
+Sato N.
+Uchijima M.
+2
+0
+6
+2
+6
+3
+Kraj
+Stevens A.
+Sato H.
+0
+2
+5
+7
+1
+6
+Kraj
+McKenzie N.
+Khan L.
+0
+2
+2
+6
+6
+3
+7
+7
+Kraj
+Muramatsu C.
+Yuhan L.
+0
+2
+4
+6
+4
+6
+Kraj
+Kokkinis T.
+Sibai J.
+2
+0
+6
+3
+7
+5
+Kraj
+Sawashiro K.
+Danilova O.
+2
+0
+7
+7
+6
+5
+7
+5
+Kraj
+Simes A.
+Thompson B.
+2
+0
+6
+4
+7
+5
+Kraj
+Tse E.
+Beck A.
+0
+2
+3
+6
+4
+6
 M25 Kigali (Ruanda), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -167,6 +575,73 @@ Garcia A.
 Vives Marcos P.
 -
 -
+W100 Templeton, CA (SAD), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Broadus S.
+Zamarripa A.
+Lincer O.
+Okalova M.
+2
+0
+6
+3
+6
+2
+Kraj
+Hewitt D.
+Strakhova V.
+Cabezas Dominguez E.
+Maklakova E.
+2
+0
+6
+4
+6
+3
+Kraj
+Chang H.
+Hu V.
+Fakih K.
+Hui K.
+2
+0
+6
+3
+6
+3
+Kraj
+Chung A.
+Leather A.
+Lynch N.
+MacCallum J.
+1
+2
+3
+6
+7
+7
+6
+4
+8
+10
+W15 Nashville, TN (SAD), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Ray V.
+Webster S.
+Friedman L.
+Sohns M.
+0
+2
+6
+3
+7
+2
+2
+6
 W75 Quinta do Lago (Portugal), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -239,7 +714,7 @@ Juniori - singl
 Juniorke - singl
 Prikaži više
 Tenis livescore na Rezultatima nudi teniske rezultate uživo za preko 14000 teniskih turnira diljem svijeta, uključujući Australian Open, French Open, Wimbledon, US Open i mnoge druge. Pratite najnovije rezultate iz tenisa na Rezultatima, gdje možete pronaći detaljnu statistiku (asevi, dvostruke pogreške, postotak servisa, osvojeni servisi, spašene break lopte, neprisiljene pogreške, itd.), usporedbu koeficijenata, međuosboni omjer, vijesti, video sažetke ili tijek meča poen po poen. Pronađite sve današnje rezultate i vijesti iz tenisa na Rezultatima, uključujući ATP rezultate, WTA rezultate, ATP poredak, ATP kalendar 2026, WTA kalendar 2026, ili profile igrača (npr. Jannik Sinner, Carlos Alcaraz, Novak Đoković, Donna Vekić). Usluga tenis livescore se automatski ažurira, tako da nema potrebe da osvježavate stranicu.
-30.09. Vacherot V. - Blockx A., Lehecka J. - Bergs Z., Tabilo A. - Paul T., Etcheverry T. M. - Tsitsipas S., Fils A. - van Assche L., Arnaldi M. - Sakamoto R., 01.10. Shapovalov D. - Shimabukuro S., Darderi L. - Ruud C., Nishikori K. - Tiafoe F., Musetti L. - Fery A., Nakashima B. - Humbert U., Alcaraz C. - Michelsen A., Davidovich Fokina A. - Berrettini M., Rune H. - Jacquet K., Vallejo D. - Jodar R., Fritz T. - Munar J.
+30.09. Etcheverry T. M. - Tsitsipas S., Fils A. - van Assche L., Arnaldi M. - Sakamoto R., 01.10. Shapovalov D. - Shimabukuro S., Darderi L. - Ruud C., Nishikori K. - Tiafoe F., Musetti L. - Fery A., Nakashima B. - Humbert U., Alcaraz C. - Michelsen A., Davidovich Fokina A. - Berrettini M., Rune H. - Jacquet K., Vallejo D. - Jodar R., Fritz T. - Munar J.
 
 NOGOMET
 HNL
@@ -315,7 +790,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Gambling Problem? Call 1-800-BETS OFF 21+
+Igrajte odgovorno. Gambling Therapy. 18+
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
