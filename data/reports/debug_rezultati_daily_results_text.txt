@@ -21,29 +21,349 @@ TEČAJEVI
 GOTOVO
 RASPORED
 02/10 PE
+Tokyo (Japan), tvrda podloga
+ATP - SINGL: 
+Ždrijeb
+Kraj
+Munar J.
+Faria J.
+2
+0
+6
+1
+6
+1
+Kraj
+Vacherot V.
+Tsitsipas S.
+2
+1
+4
+6
+7
+7
+6
+5
+6
+4
+Beijing (Kina), tvrda podloga
+WTA - SINGL: 
+Ždrijeb
+Kraj
+Fruhvirtova L.
+Samsonova L.
+1
+2
+2
+6
+6
+3
+3
+6
+Kraj
+Golubic V.
+Stearns P.
+2
+1
+6
+4
+3
+6
+6
+3
+Kraj
+(predano)
+Potapova A.
+Kraus S.
+0
+0
+1
+4
+Kraj
+Tjen J.
+Shnaider D.
+0
+2
+0
+6
+4
+6
+Kraj
+Yuan Y.
+Andreeva M.
+1
+2
+6
+3
+0
+6
+0
+6
+Kraj
+Yastremska D.
+Chwalinska M.
+2
+0
+6
+3
+6
+1
 Jingshan (Kina), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
-Prekinuto
+Kraj
 Shimizu Y.
 Tomic B.
 1
+2
+7
+5
+2
+6
+6
+5
+7
+7
+Kraj
+Ymer E.
+Cina F.
+1
+2
+6
+3
+3
+6
+4
+6
+Jingshan (Kina), tvrda podloga
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Okamura K.
+Jones E.
+0
+2
+6
+4
+7
+7
+6
+3
+7
+7
+Kraj
+Falei A.
+Sorribes Tormo S.
+2
+0
+6
+4
+6
+2
+Curitiba (Brazil), zemlja
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Roncadelli F.
+Villanueva G.
+Arias B.
+Carou I.
+0
+2
+2
+6
+2
+6
+Kraj
+Pissetti Vialle H.
+Storck F. L.
+Miguel L. A.
+Ribeiro E.
+0
+2
+3
+6
+4
+6
+Jingshan (Kina), tvrda podloga
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Walkover
+Escobar G.
+Kaliyanda Poonacha N.
+Leong M. W. K.
+Sakellaridis S.
+-
+-
+M15 Luan 4 (Kina), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Ehrenschneider N.
+Ichikawa T.
+2
+1
+1
+6
+6
+2
+6
+2
+Kraj
+Matsuda R.
+Ogura K.
+2
 0
 7
 5
+7
+5
+Kraj
+Wang K.
+Becroft I.
+0
+2
+0
+6
+1
+6
+Kraj
+Yamanaka T.
+Purcell M.
+0
+2
+6
+2
+7
+7
+1
+6
+W100 Templeton, CA (SAD), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Dolehide C.
+Fakih K.
+2
+0
+6
+1
+6
+4
+W15 Maanshan 6 (Kina), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+(predano)
+Desvignes E. M.
+Jiang Z.
+0
 0
 1
+4
+Kraj
+Lee H. E.
+Ren K.
+2
 0
+7
+5
+6
+1
+Kraj
+Luo X.
+Son H. Y.
+2
 0
+6
+4
+6
+4
+W35 Wagga Wagga (Australija), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Uemura M.
+Simes A.
+2
+0
+6
+2
+6
+1
 Prekinuto
-Ymer E.
-Cina F.
+Sawashiro K.
+Hanatani N.
 0
 0
+2
+4
+40
+40
+Prekinuto
+Sato N.
+Sato H.
+0
+0
+3
+2
+40
+A
+M15 Luan 4 (Kina), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Lin N. H.
+Yang Z.
+Sun Z.
+Wang Y.
+2
+0
+6
+2
+6
+3
+W100 Templeton, CA (SAD), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Penickova A.
+Penickova K.
+Osuigwe W.
+Urhobo A.
 1
+2
+3
+6
+6
+3
+11
+13
+W15 Trelew (Argentina), tvrda podloga (dvorana)
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Moyano L.
+Sanchez A. S.
+Bhatia D.
+Moron F. B.
+2
 0
+6
 0
+6
 0
+Kraj
+Kawano Cho G.
+Tarantola A.
+Meabe S.
+Urrutia M. F.
+0
+2
+2
+6
+2
+6
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -108,7 +428,7 @@ Prikaži više
 Tenis livescore na Rezultatima nudi teniske rezultate uživo za preko 14000 teniskih turnira diljem svijeta, uključujući Australian Open, French Open, Wimbledon, US Open i mnoge druge. Pratite najnovije rezultate iz tenisa na Rezultatima, gdje možete pronaći detaljnu statistiku (asevi, dvostruke pogreške, postotak servisa, osvojeni servisi, spašene break lopte, neprisiljene pogreške, itd.), usporedbu koeficijenata, međuosboni omjer, vijesti, video sažetke ili tijek meča poen po poen. Pronađite sve današnje rezultate i vijesti iz tenisa na Rezultatima, uključujući ATP rezultate, WTA rezultate, ATP poredak, ATP kalendar 2026, WTA kalendar 2026, ili profile igrača (npr. Jannik Sinner, Carlos Alcaraz, Novak Đoković, Donna Vekić). Usluga tenis livescore se automatski ažurira, tako da nema potrebe da osvježavate stranicu.
 
 ATP Shanghai Masters 2026 rezultati uživo na Rezultati.com stranici! Šangaj uživo, uz rezultate i ždrijeb.
-02.10. Munar J. - Faria J., Vacherot V. - Tsitsipas S., Jacquet K. - Darderi L., Fils A. - Tiafoe F., 03.10. Humbert U. - Lehecka J., Shapovalov D. - Tabilo A., Alcaraz C. - Arnaldi M., Berrettini M. - Vallejo D.
+02.10. Jacquet K. - Darderi L., Fils A. - Tiafoe F., 03.10. Humbert U. - Lehecka J., Shapovalov D. - Tabilo A., Alcaraz C. - Arnaldi M., Berrettini M. - Vallejo D.
 
 NOGOMET
 HNL
@@ -189,7 +509,7 @@ Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
 
-Mi i naši partneri 1013 pohranjujemo osobne podatke, kao što su podaci o pregledavanju ili jedinstveni identifikatori, i pristupamo im na vašem uređaju. Odabirom opcije Prihvaćam omogućit ćete tehnologije praćenja koje podržavaju svrhe za čije pružanje mi i naši partneri obrađujemo podatke. Odabirom opcije Odbij sve ili povlačenjem svog pristanka onemogućit ćete praćenje. Ako su alati za praćenje onemogućeni, određeni sadržaj i oglasi koje vidite možda više neće biti toliko relevantni za vas. Možete se vratiti na ovaj izbornik kako biste izmijenili svoje odabire ili povukli pristanak u bilo kojem trenutku klikom na Prikaži svrhe poveznicu pri dnu web-stranice [ili plutajuće ikone u donjem lijevom kutu web stranice, ako je primjenjivo]. Vaši će se odabiri primijeniti kako je opisano u dijelu Web-mjesto. Za više pojedinosti pogledajte našu Politiku privatnosti.Treće Strane
+Mi i naši partneri 1017 pohranjujemo osobne podatke, kao što su podaci o pregledavanju ili jedinstveni identifikatori, i pristupamo im na vašem uređaju. Odabirom opcije Prihvaćam omogućit ćete tehnologije praćenja koje podržavaju svrhe za čije pružanje mi i naši partneri obrađujemo podatke. Odabirom opcije Odbij sve ili povlačenjem svog pristanka onemogućit ćete praćenje. Ako su alati za praćenje onemogućeni, određeni sadržaj i oglasi koje vidite možda više neće biti toliko relevantni za vas. Možete se vratiti na ovaj izbornik kako biste izmijenili svoje odabire ili povukli pristanak u bilo kojem trenutku klikom na Prikaži svrhe poveznicu pri dnu web-stranice [ili plutajuće ikone u donjem lijevom kutu web stranice, ako je primjenjivo]. Vaši će se odabiri primijeniti kako je opisano u dijelu Web-mjesto. Za više pojedinosti pogledajte našu Politiku privatnosti.Treće Strane
 
 Mi i naši partneri obrađujemo podatke kako bismo pružili sljedeće:
 
