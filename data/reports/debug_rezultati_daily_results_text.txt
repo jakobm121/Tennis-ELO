@@ -21,6 +21,42 @@ TEČAJEVI
 GOTOVO
 RASPORED
 03/10 SU
+Beijing (Kina), tvrda podloga
+ATP - SINGL: 
+Ždrijeb
+Kraj
+De Minaur A.
+Halys Q.
+2
+1
+3
+6
+7
+7
+6
+5
+7
+5
+Kraj
+Rublev A.
+Safiullin R.
+2
+1
+6
+2
+3
+6
+6
+4
+Kraj
+Medvedev D.
+Struff J-L.
+2
+0
+6
+4
+6
+3
 Tokyo (Japan), tvrda podloga
 ATP - SINGL: 
 Ždrijeb
@@ -35,6 +71,39 @@ Tabilo A.
 6
 6
 4
+Kraj
+Alcaraz C.
+Arnaldi M.
+2
+0
+7
+8
+6
+6
+6
+1
+Kraj
+Berrettini M.
+Vallejo D.
+0
+2
+6
+6
+7
+8
+1
+6
+Kraj
+Humbert U.
+Lehecka J.
+1
+2
+7
+5
+4
+6
+4
+6
 Beijing (Kina), tvrda podloga
 WTA - SINGL: 
 Ždrijeb
@@ -71,6 +140,140 @@ Zhu L.
 6
 6
 2
+Kraj
+Volynets K.
+Mertens E.
+1
+2
+0
+6
+6
+4
+5
+7
+Kraj
+Sakkari M.
+Hunter S.
+2
+0
+6
+2
+6
+2
+Kraj
+Ostapenko J.
+Badosa P.
+2
+0
+7
+7
+6
+5
+7
+5
+Kraj
+Gao X.
+Swiatek I.
+0
+2
+2
+6
+3
+6
+Kraj
+Siniakova K.
+Svitolina E.
+1
+2
+6
+1
+4
+6
+2
+6
+Kraj
+Rakhimova K.
+Fernandez L.
+2
+1
+6
+2
+4
+6
+6
+3
+Kraj
+Bencic B.
+Zakharova A.
+2
+0
+6
+1
+7
+7
+6
+3
+Kraj
+(predano)
+Zheng Q.
+Kalinskaya A.
+1
+1
+6
+4
+7
+7
+6
+4
+3
+0
+Kraj
+Jovic I.
+Dart H.
+2
+1
+2
+6
+6
+3
+6
+3
+Kraj
+Sun X.
+Bucsa C.
+2
+0
+6
+4
+7
+5
+Beijing (Kina), tvrda podloga
+ATP - PAROVI: 
+Ždrijeb
+Kraj
+Arends S.
+Pel D.
+Zhang Z.
+Zhou Y.
+2
+0
+6
+2
+6
+3
+Kraj
+Cabral F.
+Tracy J.
+Cash R.
+Erler A.
+1
+2
+6
+3
+4
+6
+8
+10
 Tokyo (Japan), tvrda podloga
 ATP - PAROVI: 
 Ždrijeb
@@ -98,6 +301,32 @@ Roger-Vasselin E.
 4
 6
 4
+Kraj
+Krajicek A.
+Mektic N.
+Tabilo A.
+van Assche L.
+2
+0
+7
+7
+6
+2
+7
+7
+6
+3
+Kraj
+Bolelli S.
+Vavassori A.
+Polmans M.
+Zielinski J.
+2
+0
+6
+3
+6
+4
 Jingshan (Kina), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -115,6 +344,53 @@ Bolt A.
 2
 0
 0
+Kraj
+Erel Y.
+Bellucci M.
+0
+2
+4
+6
+4
+6
+Porto (Portugal), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Jorda Sanchis D.
+Montes-De La Torre I.
+0
+2
+2
+6
+3
+6
+Walkover
+Rocha H.
+Kym J.
+-
+-
+Jingshan (Kina), tvrda podloga
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Jones E.
+Shubladze A.
+0
+2
+5
+7
+4
+6
+Kraj
+Bouzas Maneiro J.
+Falei A.
+2
+0
+6
+3
+6
+3
 Suzhou (Kina) - Kvalifikacije, tvrda podloga
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -128,6 +404,52 @@ Lansere S.
 Qu Y.
 -
 -
+Bari (Italija), zemlja
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Alvarez Valdes L. C.
+Oetzbach A.
+Ovcharenko O.
+Wehnelt K.
+0
+2
+1
+6
+3
+6
+Jingshan (Kina), tvrda podloga
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Escobar G.
+Kaliyanda Poonacha N.
+Reyes-Varela M. A.
+Stalder R.
+2
+0
+7
+5
+6
+2
+Mouilleron-Le-Captif (Francuska), tvrda podloga (dvorana)
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Bass F.
+Duncan S.
+Poling K.
+Sheehy J.
+1
+2
+6
+4
+7
+7
+6
+4
+3
+10
 M15 Luan 4 (Kina), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -142,6 +464,210 @@ Matsuda R.
 3
 6
 2
+M15 Monastir 33 (Tunis), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Demanet E.
+Duran T.
+0
+2
+1
+6
+4
+6
+M15 Sharm ElSheikh 11 (Egipat), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Strombachs R.
+Jubb P.
+0
+2
+2
+6
+6
+4
+7
+7
+Kraj
+(predano)
+Zakaria F.
+Singh K.
+1
+1
+3
+6
+7
+5
+4
+0
+M15 Telavi 2 (Gruzija), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Paardekooper S.
+Popko D.
+2
+0
+6
+4
+6
+3
+M25 Darwin (Australija), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Hoeyeraal H.
+Hoole C.
+1
+2
+6
+4
+3
+6
+4
+6
+Kraj
+Jones H.
+Pham D.
+2
+0
+6
+2
+7
+7
+6
+5
+M25 Kigali (Ruanda), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Hemery C.
+Bax F.
+2
+0
+6
+4
+6
+4
+M25 Slobozia (Rumunjska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Boitan G. A.
+Zgola B.
+2
+0
+6
+1
+6
+1
+M25 Zaragoza (Španjolska), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Nijboer R.
+Ritschard A.
+0
+2
+5
+7
+1
+6
+W15 Maanshan 6 (Kina), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Lee H. E.
+Sun Y.
+2
+0
+7
+5
+7
+7
+6
+4
+Kraj
+Luo X.
+Jiang Z.
+2
+1
+6
+1
+1
+6
+6
+2
+W15 Monastir 28 (Tunis), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Mi L.
+Dotsenko E.
+0
+2
+1
+6
+2
+6
+Kraj
+Soriano Santiago M.
+Biolay S.
+0
+2
+4
+6
+0
+6
+W15 Sharm ElSheikh 13 (Egipat), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Groen J.
+Hatouka Y.
+0
+2
+0
+6
+1
+6
+Kraj
+Zelinskaya D.
+Sushkova A.
+0
+2
+1
+6
+1
+6
+W15 Varna (Bugarska), zemlja
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Popa G. S.
+Sakellaridi S.
+2
+1
+7
+5
+3
+6
+6
+1
+W35 Baza (Španjolska), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Hesse A.
+Esquiva Banuls C.
+0
+2
+2
+6
+3
+6
 W35 Wagga Wagga (Australija), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -156,19 +682,104 @@ Hanatani N.
 3
 6
 4
-Prekinuto
+Kraj
 Uemura M.
 Mushika Mio
 1
-1
+2
 6
 4
 3
 6
+4
+6
+Kraj
+Sawashiro K.
+Sato N.
+0
 2
+4
+6
+2
+6
+W75 Quinta do Lago (Portugal), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+(predano)
+Pigato L.
+Swan K.
+0
+0
+4
+0
+Kraj
+Vedder E.
+Rouvroy M.
 2
 0
-15
+6
+3
+6
+2
+M15 Luan 4 (Kina), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Ichikawa T.
+Jeong Y.
+Lin N. H.
+Yang Z.
+1
+2
+6
+1
+5
+7
+9
+11
+M15 Sharm ElSheikh 11 (Egipat), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Arzhankin A.
+Kunitsyn A.
+Lorusso L.
+Senn N.
+0
+2
+4
+6
+4
+6
+M15 Sibenik (Hrvatska), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Biletic I.
+Kajin K.
+Jeran A.
+Kupcic J.
+2
+0
+6
+3
+6
+3
+M25 Slobozia (Rumunjska), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Opitz J.
+Wessels L.
+Andreescu S. A.
+Schinteie G. C.
+2
+0
+6
+3
+6
+1
 W100 Templeton, CA (SAD), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -219,22 +830,20 @@ Hejtmanek A.
 5
 7
 5
-W15 Trelew (Argentina), tvrda podloga (dvorana)
+W15 Sharm ElSheikh 13 (Egipat), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
 Kraj
-Meabe S.
-Urrutia M. F.
-Larraya Guidi S. A.
-Sousa Salazar N.
+Hatouka Y.
+Zelinskaya D.
+Rabl L.
+Rothensteiner L.
 2
-1
+0
+7
+5
+6
 3
-6
-6
-2
-10
-8
 W35 Wagga Wagga (Australija), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -313,7 +922,7 @@ Prikaži više
 Tenis livescore na Rezultatima nudi teniske rezultate uživo za preko 14000 teniskih turnira diljem svijeta, uključujući Australian Open, French Open, Wimbledon, US Open i mnoge druge. Pratite najnovije rezultate iz tenisa na Rezultatima, gdje možete pronaći detaljnu statistiku (asevi, dvostruke pogreške, postotak servisa, osvojeni servisi, spašene break lopte, neprisiljene pogreške, itd.), usporedbu koeficijenata, međuosboni omjer, vijesti, video sažetke ili tijek meča poen po poen. Pronađite sve današnje rezultate i vijesti iz tenisa na Rezultatima, uključujući ATP rezultate, WTA rezultate, ATP poredak, ATP kalendar 2026, WTA kalendar 2026, ili profile igrača (npr. Jannik Sinner, Carlos Alcaraz, Novak Đoković, Donna Vekić). Usluga tenis livescore se automatski ažurira, tako da nema potrebe da osvježavate stranicu.
 
 ATP Shanghai Masters 2026 rezultati uživo na Rezultati.com stranici! Šangaj uživo, uz rezultate i ždrijeb.
-03.10. Berrettini M. - Vallejo D., Humbert U. - Lehecka J., 04.10. Munar J. - Jacquet K., Vacherot V. - Fils A.
+04.10. Munar J. - Jacquet K., Alcaraz C. - Shapovalov D., Vacherot V. - Fils A., Lehecka J. - Vallejo D.
 
 NOGOMET
 HNL
@@ -343,12 +952,13 @@ Vukovar 1991 - Dinamo Zagreb
 Nizozemska - Srbija
 Hrvatska - Španjolska
 Hajduk Split - Dinamo Zagreb
-Inter - Lumezzane
 Argentina - Burkina Faso
 Komori - Senegal
 Kosovo - Austrija
 Maroko - Gana
+Portugal - Norveška
 LIVESCORE
+Vekić - Swiatek
 Arsenal - Leeds
 Saudijska Arabija - Katar
 Tunis - Mali
@@ -358,7 +968,6 @@ Egipat - Južna Afrika
 Grčka - Njemačka
 Nizozemska - Srbija
 Trinidad i Tobago - Curacao
-Ekvador - Panama
 REZULTATI UŽIVO
 FMP - Crvena Zvezda Meridianbet
 Partizan Mozzart Bet - Mega Basket
@@ -389,7 +998,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Gambling Problem? Call 1-800-BETS OFF 21+
+Igrajte odgovorno. Gambling Therapy. 18+
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
