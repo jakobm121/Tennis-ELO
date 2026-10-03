@@ -21,22 +21,234 @@ TEČAJEVI
 GOTOVO
 RASPORED
 03/10 SU
+Tokyo (Japan), tvrda podloga
+ATP - SINGL: 
+Ždrijeb
+Kraj
+Shapovalov D.
+Tabilo A.
+2
+1
+7
+5
+3
+6
+6
+4
+Beijing (Kina), tvrda podloga
+WTA - SINGL: 
+Ždrijeb
+Kraj
+Gauff C.
+Osorio C.
+2
+1
+7
+7
+6
+4
+4
+6
+6
+2
+Kraj
+Krueger A.
+Li A.
+0
+2
+4
+6
+2
+6
+Kraj
+Vekić D.
+Zhu L.
+2
+1
+6
+1
+4
+6
+6
+2
+Tokyo (Japan), tvrda podloga
+ATP - PAROVI: 
+Ždrijeb
+Kraj
+Miedler L.
+Oberleitner N.
+Arribage T.
+Olivetti A.
+0
+2
+4
+6
+6
+3
+7
+7
+Kraj
+Hijikata R.
+Uesugi K.
+Nys H.
+Roger-Vasselin E.
+2
+0
+6
+4
+6
+4
+Jingshan (Kina), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+(predano)
+Harris L.
+Bolt A.
+1
+1
+5
+7
+7
+7
+6
+2
+0
+0
+Suzhou (Kina) - Kvalifikacije, tvrda podloga
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Otkazano
+Astakhova D.
+Wei S.
+-
+-
+Otkazano
+Lansere S.
+Qu Y.
+-
+-
+M15 Luan 4 (Kina), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Ehrenschneider N.
+Matsuda R.
+2
+1
+2
+6
+6
+3
+6
+2
 W35 Wagga Wagga (Australija), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
-Prekinuto
+Kraj
 Sawashiro K.
 Hanatani N.
-1
+2
 1
 3
 6
 6
 3
+6
+4
+Prekinuto
+Uemura M.
+Mushika Mio
+1
+1
+6
+4
+3
+6
+2
+2
 0
+15
+W100 Templeton, CA (SAD), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Frodin T.
+Sahdiieva A.
+Broadus S.
+Zamarripa A.
+0
+2
+2
+6
+4
+6
+Kraj
+Pace F.
+Zucchini A.
+Osuigwe W.
+Urhobo A.
+0
+2
+3
+6
+5
+7
+W15 Nashville, TN (SAD), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Pearce E.
+Yamakita M.
+Mattioli F.
+Webb S.
+2
+0
+6
+2
+6
 1
-40
-40
+Kraj
+Malmkjaer E. K.
+Kruger I.
+Bartel K.
+Hejtmanek A.
+2
+0
+7
+5
+7
+5
+W15 Trelew (Argentina), tvrda podloga (dvorana)
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Meabe S.
+Urrutia M. F.
+Larraya Guidi S. A.
+Sousa Salazar N.
+2
+1
+3
+6
+6
+2
+10
+8
+W35 Wagga Wagga (Australija), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Stevens A.
+Thompson B.
+Kitahara Y.
+Wan I W.
+2
+0
+7
+5
+6
+1
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -101,7 +313,7 @@ Prikaži više
 Tenis livescore na Rezultatima nudi teniske rezultate uživo za preko 14000 teniskih turnira diljem svijeta, uključujući Australian Open, French Open, Wimbledon, US Open i mnoge druge. Pratite najnovije rezultate iz tenisa na Rezultatima, gdje možete pronaći detaljnu statistiku (asevi, dvostruke pogreške, postotak servisa, osvojeni servisi, spašene break lopte, neprisiljene pogreške, itd.), usporedbu koeficijenata, međuosboni omjer, vijesti, video sažetke ili tijek meča poen po poen. Pronađite sve današnje rezultate i vijesti iz tenisa na Rezultatima, uključujući ATP rezultate, WTA rezultate, ATP poredak, ATP kalendar 2026, WTA kalendar 2026, ili profile igrača (npr. Jannik Sinner, Carlos Alcaraz, Novak Đoković, Donna Vekić). Usluga tenis livescore se automatski ažurira, tako da nema potrebe da osvježavate stranicu.
 
 ATP Shanghai Masters 2026 rezultati uživo na Rezultati.com stranici! Šangaj uživo, uz rezultate i ždrijeb.
-03.10. Shapovalov D. - Tabilo A., Alcaraz C. - Arnaldi M., Berrettini M. - Vallejo D., Humbert U. - Lehecka J., 04.10. Munar J. - Jacquet K., Vacherot V. - Fils A.
+03.10. Berrettini M. - Vallejo D., Humbert U. - Lehecka J., 04.10. Munar J. - Jacquet K., Vacherot V. - Fils A.
 
 NOGOMET
 HNL
@@ -137,7 +349,6 @@ Komori - Senegal
 Kosovo - Austrija
 Maroko - Gana
 LIVESCORE
-Vekić - Zhu
 Arsenal - Leeds
 Saudijska Arabija - Katar
 Tunis - Mali
@@ -147,6 +358,7 @@ Egipat - Južna Afrika
 Grčka - Njemačka
 Nizozemska - Srbija
 Trinidad i Tobago - Curacao
+Ekvador - Panama
 REZULTATI UŽIVO
 FMP - Crvena Zvezda Meridianbet
 Partizan Mozzart Bet - Mega Basket
