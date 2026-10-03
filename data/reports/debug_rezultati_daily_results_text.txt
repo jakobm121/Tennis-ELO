@@ -397,6 +397,51 @@ Donald M.
 3
 6
 2
+Columbus (SAD), tvrda podloga (dvorana)
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+(predano)
+Dietrich D.
+Andrade A.
+1
+0
+6
+3
+1
+0
+Kraj
+Shelbayh A.
+Krueger M.
+2
+0
+6
+2
+6
+2
+Curitiba (Brazil), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Justo G. I.
+Barrios Vera T.
+2
+1
+4
+6
+6
+4
+6
+3
+Kraj
+Heide G.
+Boscardin Dias P.
+2
+0
+6
+2
+6
+3
 Jingshan (Kina), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -474,6 +519,17 @@ Boisson L.
 6
 4
 2
+6
+Kraj
+Ruzic A.
+Jeanjean L.
+1
+2
+6
+4
+1
+6
+3
 6
 Jingshan (Kina), tvrda podloga
 CHALLENGER - ŽENSKI SINGL: 
@@ -587,6 +643,22 @@ Pieczonka F.
 3
 6
 4
+Adana (Turska), tvrda podloga
+CHALLENGER - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Jakupovic D.
+Salden L.
+Moratelli A.
+Valdmannova V.
+0
+2
+6
+3
+7
+7
+4
+6
 Jingshan (Kina), tvrda podloga
 CHALLENGER - ŽENSKI PAROVI: 
 Ždrijeb
@@ -607,6 +679,52 @@ Rajecki A.
 7
 6
 10
+M15 Ann Arbor, MI (SAD), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Coquelin H.
+Bonding O.
+0
+2
+3
+6
+5
+7
+Kraj
+Tomizawa N.
+Dahlin M.
+0
+2
+2
+6
+3
+6
+M15 Fayetteville, AR (SAD), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Papamalamis T.
+Rozin S.
+2
+0
+6
+3
+6
+2
+Kraj
+Braswell J.
+Mosejczuk D.
+1
+2
+6
+2
+6
+6
+7
+8
+4
+6
 M15 Luan 4 (Kina), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -849,6 +967,27 @@ Biolay S.
 6
 0
 6
+W15 Nashville, TN (SAD), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Bowers A.
+Sharma A.
+0
+2
+5
+7
+4
+6
+Kraj
+Refaat M.
+Nijkamp R. M.
+0
+2
+1
+6
+4
+6
 W15 Sharm ElSheikh 13 (Egipat), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -870,6 +1009,27 @@ Sushkova A.
 6
 1
 6
+W15 Trelew (Argentina), tvrda podloga (dvorana)
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Britez Risso L. F.
+Urrutia M. F.
+2
+0
+7
+5
+6
+2
+Kraj
+Sanchez A. S.
+Moyano L.
+2
+0
+6
+2
+6
+1
 W15 Varna (Bugarska), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -932,6 +1092,15 @@ Van den Broek I. L.
 1
 4
 6
+Kraj
+Djoubri S.
+Du Pree B.
+0
+2
+4
+6
+2
+6
 W35 Wagga Wagga (Australija), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -986,6 +1155,22 @@ Rouvroy M.
 3
 6
 2
+M15 Ann Arbor, MI (SAD), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Fradkin J.
+Kuhar M.
+Sheldon Ma.
+Swenson B.
+1
+2
+6
+4
+1
+6
+5
+10
 M15 Baku 2 (Azerbajdžan), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -1000,6 +1185,20 @@ Stamatopoulos I.
 4
 6
 2
+M15 Fayetteville, AR (SAD), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Roddick J.
+Tokac T.
+Arcila A.
+Rozin S.
+2
+0
+7
+5
+6
+3
 M15 Luan 4 (Kina), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -1151,6 +1350,17 @@ Urhobo A.
 6
 5
 7
+Kraj
+Broadus S.
+Zamarripa A.
+Osuigwe W.
+Urhobo A.
+2
+0
+7
+5
+6
+2
 W15 Maanshan 6 (Kina), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -1208,6 +1418,19 @@ Hejtmanek A.
 5
 7
 5
+Kraj
+Pearce E.
+Yamakita M.
+Malmkjaer E. K.
+Kruger I.
+2
+1
+1
+6
+6
+2
+10
+8
 W15 Sharm ElSheikh 13 (Egipat), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -1238,6 +1461,19 @@ Sousa Salazar N.
 2
 10
 8
+Kraj
+Ayala L.
+Britez Risso L. F.
+Meabe S.
+Urrutia M. F.
+1
+2
+6
+4
+3
+6
+8
+10
 W35 Wagga Wagga (Australija), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -1285,10 +1521,10 @@ ATP Beijing
 ATP Tokyo
 WTA Beijing
 Bari Challenger Muškarci
+Braga Challenger Muškarci
 Columbus Challenger Muškarci
 Curitiba Challenger Muškarci
-Jingshan Challenger Muškarci
-Prikaži više (58)
+Prikaži više (59)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -1354,9 +1590,9 @@ Ekvador - Panama
 LIVESCORE
 Zverev - Đoković
 Vekić - Swiatek
+Ajdukovic - Jianu
 Arsenal - Leeds
-Tunis - Mali
-Obala Bjelokosti - Kamerun
+Arsenal - Lille
 Novi Beograd - Zemun
 Egipat - Južna Afrika
 Grčka - Njemačka
