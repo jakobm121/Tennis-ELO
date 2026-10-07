@@ -21,6 +21,68 @@ TEČAJEVI
 GOTOVO
 RASPORED
 07/10 SR
+Shanghai (Kina), tvrda podloga
+ATP - SINGL: 
+Ždrijeb
+Kraj
+Gea A.
+Faria J.
+2
+1
+6
+3
+7
+7
+6
+1
+6
+2
+Kraj
+Kovacevic A.
+Berrettini M.
+1
+2
+7
+7
+6
+3
+1
+6
+4
+6
+Kraj
+Shimabukuro S.
+Kecmanovic M.
+0
+2
+2
+6
+4
+6
+Kraj
+(predano)
+Mannarino A.
+Basilashvili N.
+1
+0
+6
+3
+2
+2
+Beijing (Kina), tvrda podloga
+WTA - PAROVI: 
+Ždrijeb
+Kraj
+Errani S.
+Paolini J.
+Boulter K.
+Starodubtseva Y.
+2
+0
+7
+5
+6
+1
 Braga (Portugal), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -62,6 +124,48 @@ Tarvet O.
 0
 0
 0
+Wuning 3 (Kina), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Demin Y.
+Santillan A.
+0
+2
+3
+6
+3
+6
+Kraj
+(predano)
+Jasika O.
+Sharipov M.
+1
+0
+6
+3
+3
+0
+Kraj
+Moriya H.
+Saitoh K.
+0
+2
+2
+6
+3
+6
+Kraj
+Derepasko T.
+Peliwo F.
+2
+0
+6
+3
+7
+12
+6
+10
 Samsun (Turska), tvrda podloga
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -80,6 +184,35 @@ Klimovicova L.
 3
 0
 0
+Suzhou (Kina), tvrda podloga
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+(predano)
+Astakhova D.
+Zarazua R.
+0
+0
+0
+4
+Kraj
+Sramkova R.
+Liu C.
+2
+0
+7
+5
+6
+4
+Kraj
+Fruhvirtova L.
+Sasnovich A.
+0
+2
+0
+6
+2
+6
 Villena (Španjolska), tvrda podloga
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -88,6 +221,49 @@ Brancaccio R.
 Martinez P.
 Cukierman D.
 Romboli F.
+-
+-
+Wuning 3 (Kina), tvrda podloga
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Banthia S.
+Rai A.
+Leong M. W. K.
+Shiraishi H.
+2
+0
+6
+4
+7
+5
+Kraj
+Hara Friend J. D.
+Sueoka Y.
+Ichikawa T.
+Matsuda R.
+2
+1
+6
+4
+6
+5
+7
+7
+10
+5
+Walkover
+Seggerman R.
+Wang Z.
+Jasika O.
+Purcell M.
+-
+-
+Walkover
+Castelnuovo L.
+Hsu J.
+Tamm K.
+Wang A.
 -
 -
 Suzhou (Kina), tvrda podloga
@@ -100,6 +276,361 @@ Ma Y.
 Sawangkaew M.
 -
 -
+M25 Luan (Kina), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Ehrenschneider N.
+Sun Qian
+2
+1
+7
+5
+4
+6
+6
+3
+Kraj
+Pleshivtsev E.
+Taka Y.
+2
+1
+2
+6
+6
+4
+6
+2
+Kraj
+Yamanaka T.
+Trongcharoenchaikul W.
+2
+0
+7
+7
+6
+5
+6
+3
+Kraj
+(predano)
+Erel Y.
+Zhang B.
+1
+0
+6
+0
+1
+0
+Kraj
+Becroft I.
+Alkaya M.
+0
+2
+1
+6
+5
+7
+Kraj
+Zhou X.
+Chiu J.
+0
+2
+5
+7
+1
+6
+Kraj
+Chen Y. C.
+Chen K. S.
+2
+0
+6
+3
+6
+3
+W15 Maanshan 7 (Kina), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Franchi F.
+Yuchi G.
+2
+0
+6
+1
+6
+1
+Kraj
+Li X.
+Egorova D.
+0
+2
+4
+6
+0
+6
+Kraj
+Ren K.
+Zhang J.
+0
+2
+2
+6
+5
+7
+Kraj
+Tang X.
+Kakenova A.
+2
+0
+6
+0
+6
+4
+Kraj
+(predano)
+Lee H. E.
+Hou Y.
+0
+1
+3
+6
+1
+1
+Kraj
+Panshina V.
+An L.
+2
+0
+6
+0
+6
+1
+Kraj
+Shikhanova M.
+Koyama H.
+2
+0
+6
+3
+6
+1
+Kraj
+Yang A.
+Suvirdjonkova D.
+2
+1
+3
+6
+6
+4
+6
+3
+Kraj
+Jang G.
+Wang K.
+2
+0
+6
+3
+6
+1
+Kraj
+Toregen S.
+Wang Y.
+0
+2
+1
+6
+1
+6
+W35 Las Vegas, NV 2 (SAD), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Bartashevich Y.
+Mamedova E.
+1
+2
+7
+7
+6
+5
+3
+6
+1
+6
+Kraj
+Penickova K.
+Shcherbinina A.
+2
+0
+6
+3
+7
+7
+6
+4
+Kraj
+Hejtmanek A.
+Chang H.
+0
+2
+2
+6
+4
+6
+W35 Wagga Wagga 2 (Australija), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Subasic A.
+Arakawa H.
+0
+2
+4
+6
+3
+6
+Kraj
+Thompson B.
+Kitahara Y.
+0
+2
+3
+6
+2
+6
+Kraj
+Yang Y. Y.
+Shibahara E.
+1
+2
+1
+6
+6
+4
+5
+7
+Kraj
+Yuhan L.
+Russell T.
+0
+2
+4
+6
+3
+6
+Kraj
+Khan L.
+Simes A.
+0
+2
+6
+6
+7
+8
+4
+6
+Kraj
+Sawashiro K.
+Kokkinis T.
+1
+2
+2
+6
+6
+3
+5
+7
+Kraj
+Wan I W.
+Sibai J.
+2
+0
+7
+5
+6
+1
+Kraj
+Tse E.
+Barry M.
+1
+2
+2
+6
+6
+1
+3
+6
+Kraj
+Hanatani N.
+Uemura M.
+1
+2
+6
+4
+0
+6
+2
+6
+Kraj
+Stevens A.
+Adams J.
+1
+2
+6
+2
+5
+7
+2
+6
+Kraj
+Onozawa N.
+Sato H.
+0
+2
+0
+6
+2
+6
+Kraj
+Kaji H.
+Kosaka R.
+2
+0
+6
+2
+6
+1
+W35 Las Vegas, NV 2 (SAD), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Mattioli F.
+Scott K.
+Cherubini D.
+Pace F.
+1
+2
+2
+6
+7
+5
+5
+10
+Kraj
+Reasco Gonzalez M. E.
+Sahdiieva A.
+Eraydin B.
+Walker B.
+2
+0
+6
+2
+6
+1
 W35 Seville (Španjolska), zemlja
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -141,12 +672,12 @@ ATP Shanghai
 ATP Tokyo
 WTA Beijing
 ATP Beijing
-ATP Tokyo
 WTA Beijing
 Antofagasta Challenger Muškarci
 Braga Challenger Muškarci
 Palermo Challenger Muškarci
-Prikaži više (65)
+Villena Challenger Muškarci
+Prikaži više (64)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -174,7 +705,7 @@ Prikaži više
 Tenis livescore na Rezultatima nudi teniske rezultate uživo za preko 14000 teniskih turnira diljem svijeta, uključujući Australian Open, French Open, Wimbledon, US Open i mnoge druge. Pratite najnovije rezultate iz tenisa na Rezultatima, gdje možete pronaći detaljnu statistiku (asevi, dvostruke pogreške, postotak servisa, osvojeni servisi, spašene break lopte, neprisiljene pogreške, itd.), usporedbu koeficijenata, međuosboni omjer, vijesti, video sažetke ili tijek meča poen po poen. Pronađite sve današnje rezultate i vijesti iz tenisa na Rezultatima, uključujući ATP rezultate, WTA rezultate, ATP poredak, ATP kalendar 2026, WTA kalendar 2026, ili profile igrača (npr. Jannik Sinner, Carlos Alcaraz, Novak Đoković, Donna Vekić). Usluga tenis livescore se automatski ažurira, tako da nema potrebe da osvježavate stranicu.
 
 ATP Shanghai Masters 2026 rezultati uživo na Rezultati.com stranici! Šangaj uživo, uz rezultate i ždrijeb.
-07.10. Gea A. - Faria J., Shimabukuro S. - Kecmanovic M., Kovacevic A. - Berrettini M., Zhang Z. - Machac T., Hanfmann Y. - Majchrzak K., Mannarino A. - Basilashvili N., Molcan A. - Cina F., Trungelliti M. - Sakamoto R., Bellucci M. - Zhou Y., Hijikata R. - Safiullin R., Rune H. - Altmaier D., Halys Q. - Wong C., Wu Y. - Zheng M., Fery A. - Čilić M., 08.10. Hurkacz H. - Duckworth J., Borges N. - Diaz Acosta F., Kopriva V. - Bergs Z., Giron M. - Baez S., Cerundolo J. M. - Mejia N., Coppejans K. - Tsitsipas S.
+07.10. Hanfmann Y. - Majchrzak K., Zhang Z. - Machac T., Trungelliti M. - Sakamoto R., Hijikata R. - Safiullin R., Bellucci M. - Zhou Y., Halys Q. - Wong C., Rune H. - Altmaier D., Wu Y. - Zheng M., Fery A. - Čilić M., 08.10. Hurkacz H. - Duckworth J., Munar J. - Brooksby J., Borges N. - Diaz Acosta F., Kopriva V. - Bergs Z., Navone M. - Carreno-Busta P., Giron M. - Baez S., Marozsan F. - Svajda Z., Landaluce M. - Struff J-L., Cerundolo J. M. - Mejia N., Kotov P. - Griekspoor T., Coppejans K. - Tsitsipas S.
 
 NOGOMET
 HNL
@@ -202,13 +733,13 @@ NOGOMET UŽIVO
 Hajduk Split - Dinamo Zagreb
 Hajduk Split - Ajax
 Dinamo Zagreb - Anderlecht
-Argentina - Benin
-Kolumbija - Peru
 Hrvatska Ž - Island Ž
 Inter - Parma
 Real Madrid - Villarreal
 Liverpool - Manchester City
 Slaven Belupo - Rijeka
+Inter - Club Brugge
+Manchester City - PSG
 LIVESCORE
 Fery - Čilić
 Gaubas - Ajdukovic
