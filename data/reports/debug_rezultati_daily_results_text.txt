@@ -22,6 +22,49 @@ GOTOVO
 RASPORED
 14/10 SR
 Wuhan (Kina), tvrda podloga
+WTA - SINGL: 
+Ždrijeb
+Kraj
+Kartal S.
+Bencic B.
+2
+0
+6
+0
+7
+5
+Kraj
+Svitolina E.
+Samsonova L.
+2
+1
+6
+2
+5
+7
+6
+2
+Kraj
+Bouzkova M.
+Chwalinska M.
+1
+2
+6
+1
+1
+6
+1
+6
+Kraj
+Frech M.
+Swiatek I.
+0
+2
+2
+6
+1
+6
+Wuhan (Kina), tvrda podloga
 WTA - PAROVI: 
 Ždrijeb
 Otkazano
@@ -31,6 +74,57 @@ Aoyama S.
 Liang E. S.
 -
 -
+Kraj
+Kozyreva M.
+Stearns P.
+Aoyama S.
+Liang E. S.
+2
+1
+6
+3
+6
+7
+7
+9
+11
+9
+Otkazano
+Bartunkova N.
+Chwalinska M.
+Mertens E.
+Shnaider D.
+-
+-
+Jinan (Kina), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+(predano)
+Ivashka I.
+Sharipov M.
+0
+0
+3
+4
+Kraj
+Matsuoka H.
+Vukic A.
+0
+2
+2
+6
+3
+6
+Kraj
+Draxl L.
+Duckworth J.
+2
+0
+6
+4
+6
+4
 Santa Cruz 2 (Bolivija), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -42,6 +136,37 @@ Kicker N.
 3
 6
 2
+6
+Kraj
+Ribeiro E.
+Prado Angelo J. C.
+0
+2
+4
+6
+4
+6
+Kraj
+Seyboth Wild T.
+Alves M.
+2
+0
+6
+3
+7
+7
+6
+3
+Kraj
+Villanueva G.
+Zarate C. M.
+1
+2
+3
+6
+7
+5
+4
 6
 Santa Cruz 2 (Bolivija), zemlja
 CHALLENGER - MUŠKI PAROVI: 
@@ -81,11 +206,218 @@ Broom C.
 Lee K.
 -
 -
+Kraj
+Fomin S.
+Palan D.
+2
+0
+7
+7
+6
+1
+7
+5
+Kraj
+(predano)
+Shao Z.
+Shepp A.
+0
+1
+3
+6
+3
+5
+Kraj
+Tamm K.
+Chen X. D.
+2
+0
+6
+1
+6
+4
+Kraj
+(predano)
+Susanto A.
+Lee K.
+1
+1
+3
+6
+6
+1
+2
+1
 Otkazano
 Mackenzie J.
 Castelnuovo L.
 -
 -
+Kraj
+Kong W.
+Shearer M.
+0
+2
+3
+6
+4
+6
+Kraj
+Mackenzie J.
+Crowther C.
+2
+0
+6
+2
+6
+4
+M25 Solapur (Indija), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Kamath M.
+Kamboj U.
+2
+0
+6
+3
+6
+2
+Kraj
+Ouakaa A.
+Ganesan A.
+0
+2
+4
+6
+4
+6
+W15 Islamabad 2 (Pakistan), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Cheung K. Y.
+Mdlulwa W.
+0
+2
+1
+6
+2
+6
+Kraj
+Leon S.
+Dekkers F.
+0
+2
+2
+6
+5
+7
+W15 Shenzhen (Kina), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+(predano)
+Hou Y.
+Kuznetsova E.
+1
+0
+6
+1
+3
+0
+Kraj
+Sun J.
+Han J.
+2
+0
+6
+3
+6
+1
+Kraj
+Varaksina A.
+Tsujioka S.
+0
+2
+2
+6
+1
+6
+Kraj
+Zhang Z.
+Lan X.
+1
+2
+4
+6
+6
+0
+3
+6
+Kraj
+Deng T. T.
+Karunaratne A.
+0
+2
+2
+6
+2
+6
+Kraj
+Zhang J.
+Koyama H.
+1
+2
+6
+4
+2
+6
+5
+7
+W50 Quebec City (Kanada), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Poling L.
+Brace C.
+0
+2
+3
+6
+6
+4
+7
+7
+M15 Maringa 3 (Brazil), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Crevelaro E.
+Silva L. F.
+Noatto K.
+Storck F. L.
+0
+2
+6
+5
+7
+7
+2
+6
+Kraj
+Bojicic Ono L.
+Braga B.
+Tosetto R.
+Zanellato N.
+2
+1
+2
+6
+6
+2
+10
+7
 M25 Austin, TX (SAD), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -232,7 +564,7 @@ Prikaži više
 Tenis livescore na Rezultatima nudi teniske rezultate uživo za preko 14000 teniskih turnira diljem svijeta, uključujući Australian Open, French Open, Wimbledon, US Open i mnoge druge. Pratite najnovije rezultate iz tenisa na Rezultatima, gdje možete pronaći detaljnu statistiku (asevi, dvostruke pogreške, postotak servisa, osvojeni servisi, spašene break lopte, neprisiljene pogreške, itd.), usporedbu koeficijenata, međuosboni omjer, vijesti, video sažetke ili tijek meča poen po poen. Pronađite sve današnje rezultate i vijesti iz tenisa na Rezultatima, uključujući ATP rezultate, WTA rezultate, ATP poredak, ATP kalendar 2026, WTA kalendar 2026, ili profile igrača (npr. Jannik Sinner, Carlos Alcaraz, Novak Đoković, Donna Vekić). Usluga tenis livescore se automatski ažurira, tako da nema potrebe da osvježavate stranicu.
 
 ATP Shanghai Masters 2026 rezultati uživo na Rezultati.com stranici! Šangaj uživo, uz rezultate i ždrijeb.
-14.10. Van De Zandschulp B. - Jodar R., Ruud C. - Auger-Aliassime F., Medvedev D. - Tsitsipas S., Paul T. - Bergs Z., 16.10. Zverev A. - De Minaur A., Gea A. - Davidovich Fokina A.
+14.10. Ruud C. - Auger-Aliassime F., Medvedev D. - Tsitsipas S., Paul T. - Bergs Z., 16.10. Zverev A. - De Minaur A., Gea A. - Davidovich Fokina A.
 
 NOGOMET
 HNL
