@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-16T23:44:02.287793+02:00",
+  "generated_at": "2026-10-17T01:55:50.905788+02:00",
   "source": "rezultati_daily_results",
   "counts": {
-    "archive_before": 30029,
-    "daily_scorelines": 133,
-    "archive_after": 30063,
-    "added": 34
+    "archive_before": 30063,
+    "daily_scorelines": 1,
+    "archive_after": 30064,
+    "added": 1
   },
   "matches": [
     {
@@ -1759139,6 +1759139,58 @@
       "p1_total_games_won": 4,
       "p2_total_games_won": 12,
       "game_margin_p1": -8,
+      "total_sets": 2,
+      "straight_sets": true,
+      "deciding_set": false,
+      "had_tiebreak": false,
+      "tiebreak_count": 0
+    },
+    {
+      "match_id": "",
+      "match_url": "",
+      "source": "rezultati_daily_results_text_fallback",
+      "date": "2026-10-17",
+      "player_1": "Seyboth Wild T.",
+      "player_2": "Kicker N.",
+      "match": "Seyboth Wild T. - Kicker N.",
+      "winner": "Seyboth Wild T.",
+      "loser": "Kicker N.",
+      "sets_1": 2,
+      "sets_2": 0,
+      "final_score": "2-0",
+      "set_scores": [
+        {
+          "set_number": 1,
+          "p1_games": 6,
+          "p2_games": 1,
+          "tiebreak": false
+        },
+        {
+          "set_number": 2,
+          "p1_games": 6,
+          "p2_games": 1,
+          "tiebreak": false
+        }
+      ],
+      "completed": true,
+      "retired": false,
+      "walkover": false,
+      "raw_parent_text": "Kraj\nSeyboth Wild T.\nKicker N.\n2\n0\n6\n1\n6\n1",
+      "raw_header_text": "Santa Cruz 2 (Bolivija), zemlja\nCHALLENGER - MUŠKI SINGL:",
+      "tournament": "Santa Cruz 2 (Bolivija)",
+      "tour_level": "challenger",
+      "gender": "",
+      "surface": "clay",
+      "indoor": null,
+      "best_of": 3,
+      "is_grand_slam": false,
+      "first_set_score": "6-1",
+      "first_set_games": 7,
+      "first_set_tiebreak": false,
+      "total_games": 14,
+      "p1_total_games_won": 12,
+      "p2_total_games_won": 2,
+      "game_margin_p1": 10,
       "total_sets": 2,
       "straight_sets": true,
       "deciding_set": false,
