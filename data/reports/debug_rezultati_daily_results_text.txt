@@ -182,6 +182,48 @@ Bailly G. A.
 1
 6
 3
+Kraj
+Coppejans K.
+Guerrieri A.
+0
+2
+6
+2
+7
+7
+4
+6
+Kraj
+Basavareddy N.
+Butvilas E.
+2
+0
+6
+2
+6
+1
+Kraj
+Dougaz A.
+Gentzsch T.
+2
+1
+6
+4
+2
+6
+7
+7
+6
+0
+Kraj
+Damm M.
+Gadamauri B.
+2
+0
+6
+1
+6
+4
 Wuhan (Kina), tvrda podloga
 WTA - SINGL: 
 Ždrijeb
@@ -474,6 +516,19 @@ Melichar-Martinez N.
 2
 6
 1
+Kraj
+Hunter S.
+Siniakova K.
+Errani S.
+Paolini J.
+2
+1
+5
+7
+7
+5
+12
+10
 Catania (Italija), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -555,6 +610,15 @@ Dzumhur D.
 6
 5
 7
+Kraj
+Fearnley J.
+Nardi L.
+2
+0
+6
+2
+6
+4
 Roanne (Francuska), tvrda podloga (dvorana)
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -571,6 +635,17 @@ Brunold M.
 3
 7
 7
+Kraj
+Budkov Kjaer N.
+Martineau M.
+0
+2
+5
+7
+6
+4
+7
+7
 Santa Cruz 2 (Bolivija), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -583,6 +658,15 @@ Kicker N.
 1
 6
 1
+Kraj
+La Serna J. M.
+Dellien H.
+0
+2
+4
+6
+3
+6
 Lisbon (Portugal), zemlja
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -682,6 +766,22 @@ Uesugi K.
 5
 10
 4
+Maia (Portugal), zemlja (dvorana)
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Pereira T.
+Winter Lopez B.
+Karol M.
+Paulson A.
+1
+2
+6
+4
+1
+6
+9
+11
 Olbia (Italija), tvrda podloga
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -771,6 +871,33 @@ Moratelli A.
 6
 10
 12
+Rovereto (Italija), tvrda podloga (dvorana)
+CHALLENGER - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Haverlag I.
+Kubka M.
+Basiletti N.
+Maduzzi G.
+2
+1
+6
+4
+5
+7
+10
+7
+Kraj
+Bhosale R.
+Salden L.
+Salkova D.
+Siskova A.
+0
+2
+5
+7
+2
+6
 M15 Bol (Hrvatska), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -845,6 +972,31 @@ van Assendelft J.
 8
 6
 6
+M15 Lexington, KY (SAD), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Slavic N.
+Papamalamis T.
+0
+2
+1
+6
+6
+4
+7
+7
+Kraj
+Anthrop J.
+Stephenson E.
+2
+1
+6
+1
+3
+6
+6
+4
 M15 Maringa 3 (Brazil), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -857,6 +1009,19 @@ Schiessl J. E.
 6
 2
 6
+Kraj
+Sakamoto P.
+Escurra Isnardi H. J.
+2
+1
+6
+3
+6
+5
+7
+7
+6
+1
 M15 Monastir 35 (Tunis), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -893,6 +1058,18 @@ Petkovic M.
 7
 5
 2
+6
+2
+6
+M15 Quito 4 (Ekvador), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Mbithi M.
+Andrade da Silva L.
+0
+2
+4
 6
 2
 6
@@ -1078,6 +1255,33 @@ Liutova K.
 7
 3
 6
+Kraj
+Guzman D.
+Stephens S.
+0
+2
+5
+7
+2
+6
+Kraj
+Penickova K.
+Pareja J.
+0
+2
+1
+6
+0
+6
+Kraj
+Liutova K.
+Zarazua R.
+2
+0
+6
+1
+6
+3
 W15 Bol (Hrvatska), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -1134,6 +1338,29 @@ Yodpetch K.
 4
 6
 2
+W15 Maceio (Brazil), zemlja (dvorana)
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Sanchez A. S.
+Cinalli L. M.
+2
+1
+3
+6
+6
+2
+6
+2
+Kraj
+Estevez J.
+Gatica B.
+0
+2
+3
+6
+1
+6
 W15 Sharm ElSheikh 15 (Egipat), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -1310,6 +1537,29 @@ Grammatikopoulou V.
 7
 6
 3
+W50 Quebec City (Kanada), tvrda podloga (dvorana)
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Brantmeier R.
+Rinaldo Persson K.
+0
+2
+5
+7
+6
+4
+7
+7
+Kraj
+Xu M.
+Arseneault A.
+2
+0
+7
+5
+6
+2
 W50 Stara Zagora (Bugarska), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -1408,6 +1658,31 @@ Popovic S.
 6
 10
 7
+M15 Heraklion 8 (Grčka), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Muller R.
+Van Sambeek F.
+Walters M.
+Wright D.
+0
+2
+4
+6
+1
+6
+Kraj
+Kypriotis E.
+Nouchakis G.
+Nolan W.
+Perego G.
+0
+2
+2
+6
+2
+6
 M15 Lexington, KY (SAD), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -1422,6 +1697,35 @@ Pieczkowski O.
 6
 4
 6
+Kraj
+Poulsen Brostrom O.
+Slavic N.
+Kapasi K.
+Sheldon Ma.
+2
+1
+6
+3
+4
+6
+10
+2
+M15 Maringa 3 (Brazil), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Loureiro J. V. C.
+Remondy Pagotto V. H.
+Chabalgoity P. H.
+Fontes Damorim F.
+1
+2
+6
+3
+4
+6
+7
+10
 M15 Monastir 35 (Tunis), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -1484,6 +1788,21 @@ Vance J.
 4
 11
 9
+Kraj
+Roddick J.
+Tokac T.
+Debru G.
+Marionneau L.
+1
+2
+7
+7
+6
+3
+4
+6
+1
+10
 M25 Luanda (Angola), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -1623,6 +1942,19 @@ Rogers A. S.
 1
 6
 0
+Kraj
+Johnson S.
+Rapolu M.
+El Jardi D.
+Frodin T.
+2
+1
+4
+6
+6
+4
+10
+6
 W15 Bol (Hrvatska), zemlja
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -1718,6 +2050,19 @@ Herazo Gonzalez M.
 Ogescu S.
 -
 -
+Kraj
+Korokozidi E.
+Voracek E. M.
+Herazo Gonzalez M.
+Ogescu S.
+2
+1
+6
+3
+3
+6
+11
+9
 W35 Monastir 7 (Tunis), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -1789,6 +2134,21 @@ Yoshioka K.
 6
 10
 3
+Kraj
+Arseneault A.
+Lacasse R.
+Brantmeier R.
+Xu M.
+1
+2
+2
+6
+7
+7
+6
+5
+5
+10
 W50 Stara Zagora (Bugarska), zemlja
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -1846,6 +2206,7 @@ WTA Parovi Race
 AKTUALNI TURNIRI
 ATP Almaty
 ATP Brussels
+ATP Lyon
 ATP Shanghai
 WTA Ningbo
 WTA Osaka
@@ -1853,8 +2214,7 @@ WTA Wuhan
 ATP Almaty
 ATP Brussels
 ATP Shanghai
-WTA Ningbo
-Prikaži više (78)
+Prikaži više (83)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -1913,22 +2273,22 @@ Slaven Belupo - Dinamo Zagreb
 Dinamo Zagreb - NEC Nijmegen
 Thun - Hajduk Split
 Istra 1961 - Hajduk Split
-Bologna - Inter
+Dinamo Zagreb - Rijeka
 Real Madrid - Sevilla
 Karlovac - Rijeka
 Manchester City - AEK
 Real Madrid - RB Leipzig
 LIVESCORE
-Hrvatska - Švicarska
 Nottingham Forest - Arsenal
 Bayern - Arsenal
 Arsenal - Everton
-Jadran ST - Primorje
+Fleetwood - Arsenal
 Velež Mostar - Borac Banja Luka
 Novi Beograd - Nais
 Partizan - Radnički
 Novi Beograd - Radnički
 Borac Banja Luka - KuPS
+Borac Banja Luka - Sloga Meridian
 REZULTATI UŽIVO
 Krka - Crvena Zvezda Meridianbet
 KK Bosna - Partizan Mozzart Bet
@@ -1938,8 +2298,8 @@ Zadar - Dinamo Zagreb
 Igokea - Crvena Zvezda Meridianbet
 Spartak Subotica - Partizan Mozzart Bet
 Zadar - Perspektiva Ilirija
+Crvena Zvezda Meridianbet - Maccabi Tel Aviv
 Panathinaikos - Peristeri
-Joventut - Barcelona
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
@@ -1959,7 +2319,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Gambling Problem? Call 1-800-BETS OFF 21+
+Igrajte odgovorno. Gambling Therapy. 18+
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
