@@ -122,6 +122,21 @@ Onclin G.
 7
 6
 3
+Kraj
+Damm M.
+Guerrieri A.
+1
+2
+6
+6
+7
+8
+7
+7
+6
+5
+3
+6
 Lyon (Francuska) - Kvalifikacije, tvrda podloga (dvorana)
 ATP - SINGL: 
 Ždrijeb
@@ -182,6 +197,45 @@ Gojo B.
 6
 7
 8
+Kraj
+Royer V.
+Tabur C.
+1
+2
+6
+2
+7
+7
+7
+7
+6
+3
+2
+6
+Kraj
+Kumstat J.
+Mmoh M.
+1
+2
+1
+6
+7
+7
+6
+3
+3
+6
+Kraj
+Blanchet U.
+Budkov Kjaer N.
+1
+2
+6
+3
+1
+6
+3
+6
 Wuhan (Kina), tvrda podloga
 WTA - SINGL: 
 Ždrijeb
@@ -429,6 +483,24 @@ Cali (Kolumbija) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
 Kraj
+Magadan A.
+Bolivar Idarraga J. M.
+2
+0
+6
+3
+6
+2
+Kraj
+Pereira J.
+McCormick T.
+2
+0
+6
+1
+6
+4
+Kraj
 Rengifo F.
 Villalon N.
 2
@@ -437,6 +509,58 @@ Villalon N.
 1
 6
 1
+Kraj
+Torrealba B.
+Salazar D.
+0
+2
+3
+6
+4
+6
+Kraj
+Flores J.
+Ribero F.
+0
+2
+2
+6
+4
+6
+Kraj
+Meligeni Alves F.
+Claverie L.
+2
+0
+6
+2
+6
+4
+Kraj
+Dedura D.
+Soriano Barrera A.
+2
+0
+7
+7
+6
+4
+6
+3
+Kraj
+Alves M.
+Munk Mesa B.
+2
+0
+6
+4
+6
+3
+Otkazano
+Rodriguez Taverna S.
+Kestelboim M.
+-
+-
 Florence (Italija) - Kvalifikacije, zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -547,6 +671,62 @@ Barranco Cosano J.
 0
 6
 0
+6
+Kraj
+Lagutin P.
+Milev Y.
+0
+2
+3
+6
+4
+6
+Fort Worth (SAD) - Kvalifikacije, tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Miyoshi K.
+Chopra K.
+2
+0
+6
+3
+6
+3
+Kraj
+Poling K.
+Rybakov A.
+0
+2
+4
+6
+4
+6
+Kraj
+Rice K.
+Jong S.
+1
+2
+6
+3
+6
+3
+7
+7
+2
+6
+Kraj
+Pascual Ferra R.
+Chan D.
+1
+2
+6
+4
+7
+7
+6
+2
+3
 6
 Guangzhou (Kina) - Kvalifikacije, tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
@@ -777,6 +957,50 @@ Gulin S.
 6
 4
 6
+Kraj
+Schoen P.
+Rocha F.
+2
+1
+7
+8
+6
+6
+4
+6
+7
+8
+6
+6
+Kraj
+Taberner C.
+Marques G.
+2
+0
+6
+4
+6
+3
+Kraj
+Wehnelt K.
+Karol M.
+2
+1
+6
+3
+3
+6
+6
+2
+Kraj
+Sanchez Quilez A.
+Lima S. D.
+2
+0
+6
+0
+6
+2
 Lisbon (Portugal), zemlja
 CHALLENGER - ŽENSKI SINGL: 
 Ždrijeb
@@ -907,6 +1131,20 @@ Vales A.
 6
 3
 6
+M15 Lexington, KY (SAD), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Anthrop J.
+Papamalamis T.
+1
+2
+6
+2
+5
+7
+2
+6
 M15 Maringa 3 (Brazil), zemlja
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -933,6 +1171,18 @@ Wiedenmann L.
 8
 0
 6
+M15 Quito 4 (Ekvador), zemlja
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Osorio J. S.
+Andrade da Silva L.
+0
+2
+4
+6
+5
+7
 M15 Sharm ElSheikh 13 (Egipat), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -969,6 +1219,17 @@ Mosejczuk D.
 3
 7
 5
+Kraj
+Gray A.
+Rolland de Ravel C.
+1
+2
+7
+5
+3
+6
+3
+6
 M25 Luanda (Angola), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -1011,6 +1272,18 @@ Singh K.
 7
 6
 4
+W100 Edmond, OK (SAD), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Stephens S.
+Liutova K.
+2
+0
+6
+3
+6
+2
 W15 Bol (Hrvatska), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -1035,6 +1308,18 @@ Popa G. S.
 2
 6
 2
+W15 Maceio (Brazil), zemlja (dvorana)
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Sanchez A. S.
+Gatica B.
+0
+2
+5
+7
+0
+6
 W15 Sharm ElSheikh 15 (Egipat), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -1114,6 +1399,15 @@ Penickova A.
 6
 3
 6
+Kraj
+Penickova A.
+Ma C.
+0
+2
+5
+7
+2
+6
 W35 Santa Margherita di Pula 10 (Italija), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -1126,6 +1420,18 @@ Radovanovic N.
 4
 6
 1
+W50 Quebec City (Kanada), tvrda podloga (dvorana)
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Rinaldo Persson K.
+Xu M.
+2
+0
+6
+4
+6
+2
 W50 Stara Zagora (Bugarska), zemlja
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -1267,7 +1573,7 @@ WTA Wuhan
 ATP Almaty
 ATP Brussels
 ATP Lyon
-Prikaži više (60)
+Prikaži više (57)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -1321,16 +1627,16 @@ Europsko Prvenstvo
 MLB
 WWIN Liga BiH 2026/27
 NOGOMET UŽIVO
-Slaven Belupo - Dinamo Zagreb
 Dinamo Zagreb - NEC Nijmegen
 Thun - Hajduk Split
 Istra 1961 - Hajduk Split
 Dinamo Zagreb - Rijeka
-Real Madrid - Sevilla
 Karlovac - Rijeka
 Manchester City - AEK
 Real Madrid - RB Leipzig
 Inter - Shakhtar
+Aston Villa - Manchester City
+Inter - Fiorentina
 LIVESCORE
 Čilić - Basilashvili
 Bayern - Arsenal
@@ -1343,16 +1649,16 @@ Borac Banja Luka - KuPS
 Borac Banja Luka - Sloga Meridian
 Mladost - Jadran ST
 REZULTATI UŽIVO
-Split - Zadar
 Partizan Mozzart Bet - Crvena Zvezda Meridianbet
 Zadar - Dinamo Zagreb
 Igokea - Crvena Zvezda Meridianbet
 Spartak Subotica - Partizan Mozzart Bet
 Zadar - Perspektiva Ilirija
 Crvena Zvezda Meridianbet - Maccabi Tel Aviv
-Joventut - Barcelona
+ASVEL Lyon-Villeurbanne - Partizan Mozzart Bet
 Dubai - Studentski Centar
 Cibona - Legia
+Trier - Split
 REZULTATI.COM
 Pravila korištenja
 Politika zaštite privatnosti
@@ -1375,15 +1681,3 @@ Lite verzija
 Igrajte odgovorno. Gambling Therapy. 18+
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
-Brinemo o vašoj privatnosti
-
-Mi i naši partneri 1017 pohranjujemo osobne podatke, kao što su podaci o pregledavanju ili jedinstveni identifikatori, i pristupamo im na vašem uređaju. Odabirom opcije Prihvaćam omogućit ćete tehnologije praćenja koje podržavaju svrhe za čije pružanje mi i naši partneri obrađujemo podatke. Odabirom opcije Odbij sve ili povlačenjem svog pristanka onemogućit ćete praćenje. Ako su alati za praćenje onemogućeni, određeni sadržaj i oglasi koje vidite možda više neće biti toliko relevantni za vas. Možete se vratiti na ovaj izbornik kako biste izmijenili svoje odabire ili povukli pristanak u bilo kojem trenutku klikom na Prikaži svrhe poveznicu pri dnu web-stranice [ili plutajuće ikone u donjem lijevom kutu web stranice, ako je primjenjivo]. Vaši će se odabiri primijeniti kako je opisano u dijelu Web-mjesto. Za više pojedinosti pogledajte našu Politiku privatnosti.Treće Strane
-
-Mi i naši partneri obrađujemo podatke kako bismo pružili sljedeće:
-
-Korištenje preciznih geolokacijskih podataka. Aktivno skeniranje karakteristika uređaja za identifikaciju. Pohrana i/ili pristup podacima na uređaju. Personalizirano oglašavanje i sadržaj, mjerenje oglašavanja i sadržaja, uvidi u publiku i razvoj usluga.
-Popis partnera (dobavljača)
-
-Prihvaćam
-Odbij sve
-Prikaži svrhe
