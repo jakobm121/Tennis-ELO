@@ -37,17 +37,46 @@ Chwalinska M.
 Osaka (Japan), tvrda podloga
 WTA - SINGL: 
 Ždrijeb
-Prekinuto
-Boulter K.
-Sakatsume H.
+Kraj
+Li A.
+Jones E.
+2
 1
+5
+7
+6
 0
 6
 3
+Kraj
+Liu C.
+Linette M.
+0
+2
+4
+6
 3
+6
+Kraj
+Valentova T.
+Zhang S.
+2
 1
-40
-30
+6
+2
+1
+6
+6
+4
+Kraj
+Boulter K.
+Sakatsume H.
+2
+0
+6
+3
+6
+1
 Otkazano
 Kartal S.
 Birrell K.
@@ -66,6 +95,19 @@ McNally C.
 Cali (Kolumbija), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
+Kraj
+Jarry N.
+Barrios Vera T.
+2
+1
+6
+4
+6
+3
+7
+7
+6
+2
 Otkazano
 Seyboth Wild T.
 Kicker N.
@@ -113,6 +155,18 @@ Gray A.
 Maxted L.
 -
 -
+Guangzhou (Kina), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Matsuda K.
+Zhou Y.
+0
+2
+1
+6
+3
+6
 Fort Worth (SAD), tvrda podloga
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -123,6 +177,290 @@ Maxted L.
 Pinnington Jones J.
 -
 -
+Guangzhou (Kina), tvrda podloga
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Bayldon B.
+Fancutt T. J.
+Hsu J.
+Ilagan A.
+2
+0
+7
+5
+7
+7
+6
+3
+M15 Singapore 3 (Singapur), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Jeong Y.
+Tan J. D.
+0
+2
+3
+6
+0
+6
+M25 Mumbai 2 (Indija), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Duhan C.
+Duddupudi A. V.
+2
+0
+7
+5
+6
+0
+W15 Singapore 3 (Singapur), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Lin F. A.
+Yodpetch K.
+2
+0
+7
+5
+6
+2
+Kraj
+Ohashi R.
+Sun Y.
+0
+2
+1
+6
+0
+6
+Kraj
+Patil S.
+Malova A.
+1
+2
+6
+1
+3
+6
+2
+6
+Kraj
+Yuldasheva S.
+Itaya R.
+0
+2
+3
+6
+1
+6
+Kraj
+Krywoj M. S.
+Giam H.
+2
+0
+6
+3
+6
+3
+Kraj
+Nagata A.
+Wong Hong Yi C.
+0
+2
+2
+6
+3
+6
+W35 Qian Daohu (Kina), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Ovcharenko E.
+Sun J.
+1
+2
+6
+3
+1
+6
+2
+6
+Kraj
+Wang J.
+You X.
+2
+0
+6
+2
+6
+2
+Kraj
+(predano)
+Xu J.
+Zhang J.
+0
+0
+1
+4
+W35 Sydney (Australija), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Aulia C.
+Kuramochi M.
+0
+2
+2
+6
+4
+6
+Kraj
+Danilova O.
+Beck A.
+0
+2
+3
+6
+3
+6
+Kraj
+Kokkinis T.
+Alame Re.
+2
+0
+6
+2
+6
+3
+Kraj
+Uemura M.
+Yang Y. Y.
+0
+2
+2
+6
+2
+6
+M25 Tamworth (Australija), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Becroft I.
+Shepp A.
+O'Connell B.
+Ryan Ziegann S.
+2
+1
+6
+5
+7
+7
+7
+5
+10
+6
+Kraj
+Hoole C.
+Pham D.
+Cook E.
+Walkin B.
+1
+2
+2
+6
+6
+3
+3
+10
+Kraj
+Ellis B.
+Tu L.
+Satara H.
+Stevens Z.
+2
+1
+5
+7
+6
+2
+10
+4
+Kraj
+Bulte A.
+Falck R.
+Dong C.
+Sach T.
+2
+0
+7
+5
+6
+4
+Prekinuto
+Aguiard E.
+Arcon A.
+Bruce-Smith J.
+Storch S.
+0
+0
+2
+5
+40
+30
+Prekinuto
+Hoeyeraal H.
+Padgham E.
+Beale J.
+Vujic S.
+1
+0
+6
+3
+2
+3
+40
+15
+Prekinuto
+Talic Z.
+Vickery L.
+Baker N.
+Sik M. E.
+0
+0
+1
+2
+0
+0
+Prekinuto
+Beamish N.
+Shearer M.
+Atkinson C.
+Bouzige M.
+0
+0
+1
+0
+0
+0
+W35 Qian Daohu (Kina), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Guo M.
+Yang Y.
+Ren K.
+Shan Y.
+2
+0
+6
+2
+6
+2
 W50 Austin, TX (SAD), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -173,7 +511,7 @@ ATP Brussels
 ATP Lyon
 WTA Ningbo
 WTA Osaka
-Prikaži više (67)
+Prikaži više (70)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -276,7 +614,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Gambling Problem? Call 1-800-BETS OFF 21+
+Igrajte odgovorno. Gambling Therapy. 18+
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
