@@ -89,6 +89,28 @@ Lehecka J.
 4
 6
 3
+Kraj
+Fils A.
+Michelsen A.
+2
+0
+6
+4
+7
+14
+6
+12
+Kraj
+Struff J-L.
+Bergs Z.
+2
+0
+6
+3
+7
+8
+6
+6
 Lyon (Francuska), tvrda podloga (dvorana)
 ATP - SINGL: 
 Ždrijeb
@@ -114,6 +136,17 @@ Fritz T.
 7
 2
 6
+Kraj
+Cobolli F.
+Nakashima B.
+2
+1
+4
+6
+6
+4
+6
+4
 Ningbo (Kina), tvrda podloga
 WTA - SINGL: 
 Ždrijeb
@@ -299,6 +332,41 @@ Mejia N.
 7
 6
 1
+Kraj
+Meligeni Alves F.
+Zarate C. M.
+2
+1
+6
+2
+3
+6
+7
+5
+Kraj
+La Serna J. M.
+Pucinelli de Almeida M.
+1
+2
+4
+6
+6
+4
+5
+7
+Kraj
+Aboian V.
+Tobon M.
+2
+1
+1
+6
+7
+7
+6
+2
+6
+2
 Florence (Italija), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -329,6 +397,27 @@ Ribecai M.
 6
 1
 6
+Fort Worth (SAD), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Rottgering M.
+Blanch Dar.
+0
+2
+3
+6
+4
+6
+Kraj
+Debru G.
+Arutiunian E.
+2
+0
+6
+3
+6
+2
 Guangzhou (Kina), tvrda podloga
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -438,6 +527,26 @@ Urrea A.
 4
 6
 1
+Kraj
+Alves M.
+Rodriguez C.
+Zeballos F.
+Zormann Da Silva M.
+1
+2
+3
+6
+6
+1
+9
+11
+Walkover
+Oliveira B.
+Rodrigues N.
+Aboian V.
+La Serna J. M.
+-
+-
 Florence (Italija), zemlja
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -537,6 +646,30 @@ Rybakov A.
 5
 6
 3
+Kraj
+Milavsky D.
+Shick B.
+Hopper J.
+Mitsui S.
+1
+2
+3
+6
+6
+3
+7
+10
+Kraj
+Debru G.
+Marcondes I.
+Pedrico Kravtsov A.
+Woestendick C.
+0
+2
+4
+6
+3
+6
 Guangzhou (Kina), tvrda podloga
 CHALLENGER - MUŠKI PAROVI: 
 Ždrijeb
@@ -807,6 +940,35 @@ Fernandes R.
 6
 1
 3
+Kraj
+Deckers A.
+Ojakaar O.
+0
+2
+4
+6
+6
+3
+7
+7
+Kraj
+Gogineni V.
+Ymer R.
+0
+2
+4
+6
+2
+6
+Kraj
+Secord J.
+Anthrop J.
+0
+2
+3
+6
+4
+6
 M15 Maceio (Brazil), zemlja (dvorana)
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -830,6 +992,17 @@ Santos Gava K. L.
 3
 7
 7
+Kraj
+Gutierrez O. J.
+Gagliardo L.
+0
+2
+6
+3
+7
+7
+1
+6
 Kraj
 Pagani D.
 Sakamoto P.
@@ -1541,6 +1714,24 @@ Mediorreal A. V.
 1
 6
 0
+Kraj
+Lopez P.
+Gonzalez Daniele J. M.
+0
+2
+3
+6
+2
+6
+Kraj
+Souza M.
+Urrutia M. F.
+0
+2
+3
+6
+4
+6
 W15 Karlovy Vary (Češka Republika), tvrda podloga (dvorana)
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -1695,19 +1886,63 @@ Chang H.
 6
 3
 6
-Prekinuto
+Kraj
+Mamedova E.
+Hossam Salah J.
+1
+2
+6
+1
+2
+6
+3
+6
+Kraj
+Sharma A.
+Ma L.
+2
+1
+6
+1
+6
+5
+7
+7
+6
+1
+Kraj
+Wolff V.
+Bartashevich Y.
+0
+2
+2
+6
+1
+6
+Kraj
+Yamalapalli S.
+Defalco J.
+0
+2
+6
+1
+7
+7
+6
+4
+7
+7
+Kraj
 Passola B.
 Mi L.
 1
-1
+2
 6
 0
 2
 6
-0
 1
-40
-30
+6
 W35 Loule (Portugal), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -1911,6 +2146,31 @@ Chaudhari V.
 7
 2
 6
+W50 Austin, TX (SAD), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Tikhonova A.
+McDonald E.
+1
+2
+2
+6
+6
+3
+2
+6
+Kraj
+Brengle M.
+Mandlik E.
+2
+1
+7
+5
+2
+6
+6
+2
 W50 Cherbourg-en-Cotentin (Francuska), tvrda podloga (dvorana)
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -1943,6 +2203,17 @@ Leonard M.
 7
 1
 6
+Kraj
+Podrez V.
+Zavatska K.
+1
+2
+3
+6
+6
+2
+0
+6
 W75 Saguenay (Kanada), tvrda podloga (dvorana)
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -1966,6 +2237,37 @@ Bajraliu L.
 6
 6
 3
+Kraj
+Maria T.
+Brantmeier R.
+1
+2
+6
+7
+7
+9
+6
+2
+3
+6
+Kraj
+Abe H.
+Kuhl C.
+2
+0
+6
+0
+6
+3
+Kraj
+Naito Y.
+Akli A.
+2
+0
+7
+5
+6
+3
 M15 Bol 2 (Hrvatska), zemlja
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -1985,6 +2287,13 @@ Da Rosa Castro G.
 Monteiro S.
 Juhas K.
 Popovic S.
+-
+-
+Walkover
+Chelemen M. V.
+Lacis R.
+Bielinskyi V.
+Šimundža J.
 -
 -
 Walkover
@@ -2017,6 +2326,43 @@ Blancaneaux G.
 0
 0
 1
+Kraj
+Rosenkranz-Konig T.
+Ujvary M.
+Al-Amin K.
+Allen A.
+1
+2
+6
+2
+3
+6
+7
+10
+Kraj
+Gnjidic J.
+Šarić D.
+Bertimon C.
+Blancaneaux G.
+0
+2
+0
+6
+0
+6
+Kraj
+Al-Amin K.
+Allen A.
+Galus P.
+Homola P.
+1
+2
+3
+6
+7
+5
+8
+10
 M15 Heraklion 9 (Grčka), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -2046,6 +2392,62 @@ Tessa L.
 5
 6
 4
+M15 Ithaca, NY (SAD), tvrda podloga (dvorana)
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Cox N.
+Ojakaar O.
+Fernandes R.
+Verdes E. D.
+2
+1
+6
+3
+4
+6
+12
+10
+Kraj
+Dahlberg M.
+Velcz Z.
+Lieberman H.
+Zapp L.
+2
+1
+6
+4
+4
+6
+10
+5
+M15 Maceio (Brazil), zemlja (dvorana)
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Loureiro J. V. C.
+Remondy Pagotto V. H.
+Chabalgoity P. H.
+Fontes Damorim F.
+1
+2
+7
+5
+2
+6
+7
+10
+Kraj
+Garcia Finetto R. A.
+Rodrigues B.
+Farjat T.
+Martinez T.
+0
+2
+4
+6
+2
+6
 M15 Monastir 36 (Tunis), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -2360,6 +2762,24 @@ Storch S.
 6
 9
 11
+W100 Wrexham (Ujedinjeno Kraljevstvo), tvrda podloga (dvorana)
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Kuwata H.
+Raina A.
+Avdeeva J.
+Monnet C.
+2
+1
+6
+1
+6
+3
+7
+7
+10
+1
 W15 Bol 2 (Hrvatska), zemlja
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -2414,6 +2834,17 @@ Sabadi L.
 5
 6
 0
+Kraj
+Mrazova V.
+Petrasova D.
+Pabisiak J. L.
+Panasa O.
+0
+2
+4
+6
+4
+6
 W15 Campina Grande (Brazil), zemlja
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -2505,6 +2936,24 @@ Mi L.
 Mushika Mao
 Mattioli F.
 Webb S.
+-
+-
+Kraj
+Burgic E.
+Szabo B.
+Haddad I.
+Hurkacz N.
+2
+0
+6
+2
+7
+5
+Walkover
+Bush T.
+Lanton A.
+Fouad N.
+Hejtmanek A.
 -
 -
 W35 Loule (Portugal), tvrda podloga
@@ -2641,6 +3090,17 @@ McDonald E.
 4
 2
 10
+Kraj
+Collins K.
+McDonald E.
+Lahey A.
+Vagramov A.
+2
+0
+6
+0
+6
+1
 W50 Cherbourg-en-Cotentin (Francuska), tvrda podloga (dvorana)
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -2727,6 +3187,8 @@ ATP Parovi Race
 WTA Parovi Race
 AKTUALNI TURNIRI
 ATP Almaty
+ATP Basel
+ATP Beč
 ATP Brussels
 ATP Lyon
 WTA Guangzhou
@@ -2734,9 +3196,7 @@ WTA Ningbo
 WTA Osaka
 WTA Tokyo
 ATP Almaty
-ATP Brussels
-ATP Lyon
-Prikaži više (75)
+Prikaži više (77)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -2763,7 +3223,7 @@ Juniorke - singl
 Prikaži više
 Tenis livescore na Rezultatima nudi teniske rezultate uživo za preko 14000 teniskih turnira diljem svijeta, uključujući Australian Open, French Open, Wimbledon, US Open i mnoge druge. Pratite najnovije rezultate iz tenisa na Rezultatima, gdje možete pronaći detaljnu statistiku (asevi, dvostruke pogreške, postotak servisa, osvojeni servisi, spašene break lopte, neprisiljene pogreške, itd.), usporedbu koeficijenata, međuosboni omjer, vijesti, video sažetke ili tijek meča poen po poen. Pronađite sve današnje rezultate i vijesti iz tenisa na Rezultatima, uključujući ATP rezultate, WTA rezultate, ATP poredak, ATP kalendar 2026, WTA kalendar 2026, ili profile igrača (npr. Jannik Sinner, Carlos Alcaraz, Novak Đoković, Donna Vekić). Usluga tenis livescore se automatski ažurira, tako da nema potrebe da osvježavate stranicu.
 
-Tenis jučer | Tenis sutra
+Tenis jučer | Tenis sutra 24.10. Fearnley J. - Carreno-Busta P., Kopriva V. - Neumayer L., Vallejo D. - Sonego L., Schwaerzler J. J. - Droguet T., Molcan A. - Medjedovic H., Marozsan F. - Sorger S., Moutet C. - Machac T., Tirante T. A. - Mannarino A.
 
 NOGOMET
 HNL
@@ -2799,7 +3259,6 @@ Venezia - Inter
 Manchester City - Brighton
 AC Milan - Inter
 LIVESCORE
-Hrvatska Ž - Rumunjska Ž
 Arsenal - Everton
 Fleetwood - Arsenal
 Liverpool - Arsenal
@@ -2809,6 +3268,7 @@ Valis Valjevo - Novi Beograd
 Borac Banja Luka - Sloga Meridian
 Radnički - Brescia
 Cazin - Borac Banja Luka
+Jadran ST - Barceloneta
 REZULTATI UŽIVO
 Igokea - Crvena Zvezda Meridianbet
 Spartak Subotica - Partizan Mozzart Bet
