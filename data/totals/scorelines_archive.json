@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-24T23:11:39.786861+02:00",
+  "generated_at": "2026-10-25T01:43:49.646310+02:00",
   "source": "rezultati_daily_results",
   "counts": {
-    "archive_before": 31443,
-    "daily_scorelines": 116,
+    "archive_before": 31459,
+    "daily_scorelines": 0,
     "archive_after": 31459,
-    "added": 16
+    "added": 0
   },
   "matches": [
     {
