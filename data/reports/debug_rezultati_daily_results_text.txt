@@ -24,6 +24,19 @@ RASPORED
 Tokyo (Japan), tvrda podloga
 WTA - SINGL: 
 Ždrijeb
+Kraj
+Rakhimova K.
+Alexandrova E.
+2
+1
+6
+4
+4
+6
+7
+7
+6
+5
 Otkazano
 Bencic B.
 Alexandrova E.
@@ -51,6 +64,119 @@ Chan H-C.
 Kato M.
 -
 -
+Kraj
+Dabrowski G.
+Stefani L.
+Ayukawa M.
+Webley-Smith E.
+2
+0
+6
+1
+6
+4
+Kraj
+Eikeri U.
+Gleason Q.
+Muhammad A.
+Zhang S.
+0
+2
+2
+6
+4
+6
+Kraj
+Errani S.
+Paolini J.
+Danilina A.
+Jiang X.
+2
+0
+7
+9
+6
+7
+6
+2
+Guayaquil (Ekvador), zemlja
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Camacho E.
+Veliz A.
+2
+0
+7
+8
+6
+6
+7
+7
+6
+4
+Ningbo (Kina), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Shimizu Y.
+Hsu Y. H.
+1
+2
+5
+7
+6
+3
+4
+6
+Kraj
+Uchida K.
+Mayot H.
+0
+2
+2
+6
+3
+6
+Seoul (Južna Koreja), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Harris L.
+Jasika O.
+0
+2
+3
+6
+1
+6
+Kraj
+Chung Y.
+Bu Y.
+2
+0
+7
+5
+6
+4
+Kraj
+Harris B.
+Vukic A.
+2
+0
+6
+2
+6
+4
+Kraj
+Zhang Z.
+Sakamoto R.
+0
+2
+0
+6
+4
+6
 Sioux Falls (SAD), tvrda podloga (dvorana)
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -89,6 +215,77 @@ Andreescu B.
 6
 2
 6
+Kraj
+Plekhanova D.
+Bulgaru M.
+0
+2
+1
+6
+1
+6
+Kraj
+Podoroska N.
+Rame A.
+2
+0
+6
+4
+6
+3
+Seoul (Južna Koreja), tvrda podloga
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Loof T.
+Uesugi K.
+Donski A.
+Poljak D.
+2
+0
+6
+4
+7
+8
+6
+6
+Kraj
+Reynolds F.
+Watt J.
+Banthia S.
+Rai A.
+2
+1
+6
+3
+3
+6
+11
+9
+Kraj
+Ayeni A.
+Ilagan A.
+Cukierman D.
+Romboli F.
+2
+1
+4
+6
+6
+3
+12
+10
+Kraj
+Bhambri Y.
+Ho R.
+Delaney Je.
+Puttergill C.
+2
+0
+6
+3
+6
+2
 M15 Heraklion 10 (Grčka), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -101,9 +298,175 @@ Munoz Fuster J.
 2
 7
 5
+M15 Mazatlan (Meksiko), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Alujas R.
+Alvarez M.
+2
+0
+6
+2
+6
+1
+Kraj
+Bianchi J.
+Karra T.
+0
+2
+3
+6
+2
+6
+M15 Singapore 4 (Singapur), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Kamath M.
+Jimenez M. D.
+2
+0
+6
+1
+6
+3
+Kraj
+Rifqi Fitriadi M.
+Mehrotra A.
+2
+0
+7
+8
+6
+6
+6
+2
+M15 Yanagawa City (Japan), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Hieda H.
+Koizumi N.
+1
+2
+3
+6
+6
+3
+2
+6
+Kraj
+Kumasaka T.
+Tanuma R.
+2
+0
+6
+4
+6
+3
+Kraj
+Oki Y.
+Brown O.
+2
+1
+1
+6
+6
+4
+6
+3
+Kraj
+Shiraishi H.
+Katayama S.
+2
+0
+7
+7
+6
+5
+6
+2
+Kraj
+Yamasaki J.
+Connel J.
+2
+0
+6
+4
+7
+5
+Kraj
+Fukuda S.
+Muto S.
+2
+0
+6
+3
+6
+4
+Kraj
+Karigyo T.
+Taka Y.
+0
+2
+6
+4
+7
+7
+2
+6
+Kraj
+Tomida Y.
+Lee W. C.
+2
+0
+6
+4
+6
+2
+Kraj
+Yamamoto N.
+Yamanaka T.
+0
+2
+1
+6
+1
+6
+Kraj
+Tanaka Y.
+Tange S.
+2
+0
+6
+0
+7
+5
+Kraj
+(predano)
+Watanabe K.
+Hashimoto H.
+0
+1
+0
+6
+1
+4
 M25 Tamworth 2 (Australija), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
+Kraj
+Baker N.
+Satara H.
+0
+2
+4
+6
+6
+8
+7
+10
 Kraj
 Dellavedova M.
 Nicholls D.
@@ -122,9 +485,278 @@ Ibraimi Y.
 6
 4
 6
+Kraj
+Sach T.
+Nakagawa N.
+2
+0
+6
+3
+6
+4
+Kraj
+Marinkov P.
+Ellis B.
+0
+2
+4
+6
+1
+6
+Kraj
+Hoole C.
+Hoeyeraal H.
+1
+2
+6
+9
+7
+11
+6
+4
+6
+7
+7
+9
+Kraj
+Vickery L.
+Falck R.
+2
+1
+4
+6
+7
+7
+6
+4
+6
+1
+Kraj
+Talic Z.
+Sekulic P.
+0
+2
+4
+6
+3
+6
+Kraj
+Jones H.
+Bouzige M.
+0
+2
+4
+6
+2
+6
+Kraj
+Becroft I.
+Vujic S.
+2
+1
+3
+6
+6
+3
+6
+3
+Kraj
+Aguiard E.
+O'Connell B.
+2
+0
+6
+1
+7
+5
+Kraj
+Shepp A.
+Cook E.
+2
+0
+6
+4
+6
+4
+W15 Singapore 4 (Singapur), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Chanta A.
+Kang N. H.
+2
+0
+6
+0
+6
+1
+Kraj
+Matsumoto Y.
+Rawat A.
+0
+2
+4
+6
+4
+6
+Kraj
+Miyata M.
+Varaksina A.
+0
+2
+2
+6
+1
+6
+Kraj
+Podgorichani L.
+Ng K. N. C.
+2
+0
+6
+4
+6
+2
+Kraj
+Thakkar S. P.
+Giam H.
+2
+0
+6
+0
+6
+3
+Kraj
+Chikaraishi Y.
+Yuldasheva S.
+0
+2
+2
+6
+3
+6
+Kraj
+Khodzhaeva E.
+Naklo T.
+0
+2
+2
+6
+0
+6
+Kraj
+Lim L. E. T.
+Ohashi R.
+0
+2
+1
+6
+2
+6
+W35 Kunshan (Kina), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Bai Z.
+Zelinskaya D.
+0
+2
+4
+6
+3
+6
+Kraj
+Jeong B.
+Huang Yujia
+0
+2
+0
+6
+1
+6
+Kraj
+(predano)
+Shao Y.
+Panshina V.
+1
+0
+6
+0
+4
+0
+Kraj
+(predano)
+Zhang J.
+Wang J.
+1
+0
+7
+7
+6
+5
+3
+0
+Kraj
+Zolotareva R.
+Deng T. T.
+0
+2
+3
+6
+1
+6
+Kraj
+Leykina P.
+Lin Y. J.
+0
+2
+1
+6
+1
+6
+Kraj
+(predano)
+Luo X.
+Nugroho P. M.
+0
+0
+0
+5
+Kraj
+Ovcharenko E.
+Zheng W.
+0
+2
+3
+6
+2
+6
 W35 Sydney 2 (Australija), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
+Kraj
+Alame Re.
+Yuhan L.
+2
+0
+7
+7
+6
+3
+7
+5
+Kraj
+(predano)
+Gale L.
+Danilova O.
+1
+0
+7
+10
+6
+8
+3
+1
 Kraj
 Sibai J.
 Subasic A.
@@ -134,6 +766,95 @@ Subasic A.
 6
 4
 6
+Kraj
+Swan K.
+Britez Risso L. F.
+2
+0
+6
+2
+6
+3
+Kraj
+Chaudhari V.
+Tsao C. Y.
+2
+0
+6
+4
+7
+5
+Kraj
+Tse E.
+Back D.
+0
+2
+1
+6
+2
+6
+Kraj
+Sato H.
+Hoedt M.
+2
+0
+6
+1
+7
+7
+6
+4
+Kraj
+Barry M.
+Mushika Mio
+2
+0
+6
+3
+6
+2
+Kraj
+Wan I W.
+Yamazaki I.
+2
+1
+4
+6
+6
+2
+6
+0
+Kraj
+Kokkinis T.
+Beck A.
+2
+0
+6
+3
+6
+3
+Kraj
+Thompson B.
+Nishimoto S.
+2
+1
+6
+4
+7
+7
+6
+3
+6
+1
+Kraj
+Stevens A.
+Khan L.
+0
+2
+3
+6
+5
+7
 W50 Morelia (Meksiko), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -146,6 +867,80 @@ Malkin M.
 0
 6
 4
+Kraj
+Castillo Meza M.
+Tikhonova A.
+0
+2
+3
+6
+3
+6
+Kraj
+Chan J.
+Hrda L.
+2
+0
+6
+3
+6
+1
+Kraj
+Marmorstein J.
+Nava Elkin A. C.
+1
+2
+3
+6
+6
+3
+6
+4
+7
+7
+Kraj
+Garcia J.
+Bohrer Martins C.
+2
+0
+6
+3
+6
+3
+Kraj
+Hernandez M. J.
+Regalado Macias F.
+2
+0
+6
+2
+6
+1
+M15 Mazatlan (Meksiko), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Barrett H.
+Covato M.
+Cervantes Tomas L.
+Reyes Tiraldo O. A.
+0
+2
+4
+6
+4
+6
+Kraj
+Benson M.
+Velazco Escobar J.
+Arevalo S.
+Delgado G.
+0
+2
+3
+6
+2
+6
 M25 Las Vegas, NV 2 (SAD), tvrda podloga
 ITF - MUŠKI PAROVI: 
 Ždrijeb
@@ -207,7 +1002,7 @@ WTA Guangzhou
 WTA Tokyo
 Brest Challenger Muškarci
 Guayaquil Challenger Muškarci
-Prikaži više (77)
+Prikaži više (78)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -313,7 +1108,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Gambling Problem? Call 1-800-BETS OFF 21+
+Igrajte odgovorno. Gambling Therapy. 18+
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
