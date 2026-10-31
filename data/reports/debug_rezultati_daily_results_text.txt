@@ -21,6 +21,142 @@ TEČAJEVI
 GOTOVO
 RASPORED
 31/10 SU
+Tokyo (Japan), tvrda podloga
+WTA - SINGL: 
+Ždrijeb
+Kraj
+Fernandez L.
+Rakhimova K.
+2
+0
+7
+5
+6
+3
+Kraj
+Shnaider D.
+Pohankova M.
+2
+0
+6
+4
+7
+9
+6
+7
+Hong Kong (Hong Kong) - Kvalifikacije, tvrda podloga
+WTA - SINGL: 
+Ždrijeb
+Kraj
+Prozorova T.
+Kinoshita H.
+2
+0
+6
+1
+6
+1
+Kraj
+Sakatsume H.
+Wong Hong Yi C.
+2
+0
+6
+4
+6
+2
+Kraj
+Stojsavljevic M.
+Ibragimova A.
+2
+1
+1
+6
+6
+2
+6
+1
+Kraj
+Jones E.
+Watson H.
+2
+0
+6
+1
+6
+4
+Kraj
+Sasnovich A.
+Cheuk S. Y.
+2
+0
+6
+4
+6
+2
+Kraj
+Pridankina E.
+Gorgodze E.
+2
+1
+6
+1
+4
+6
+6
+1
+Kraj
+Lai C. L.
+Lee C. Y.
+0
+2
+1
+6
+2
+6
+Kraj
+Zhang Y.
+Shubladze A.
+0
+2
+4
+6
+3
+6
+Guangzhou (Kina), tvrda podloga
+WTA - PAROVI: 
+Ždrijeb
+Kraj
+Kudermetova P.
+Timofeeva M.
+Tjen J.
+Williams V.
+2
+1
+6
+4
+6
+8
+7
+10
+10
+6
+Tokyo (Japan), tvrda podloga
+WTA - PAROVI: 
+Ždrijeb
+Kraj
+Dabrowski G.
+Stefani L.
+Hunter S.
+Joint M.
+2
+1
+5
+7
+6
+4
+10
+3
 Guayaquil (Ekvador), zemlja
 CHALLENGER - MUŠKI SINGL: 
 Ždrijeb
@@ -32,6 +168,133 @@ Reis Da Silva J.
 0
 5
 5
+Ningbo (Kina), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Demin Y.
+Hsu Y. H.
+2
+1
+7
+5
+1
+6
+6
+4
+Seoul (Južna Koreja), tvrda podloga
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Wong C.
+Jasika O.
+2
+0
+6
+2
+7
+5
+Kraj
+Harris B.
+Atmane T.
+0
+2
+3
+6
+1
+6
+Sioux Falls (SAD), tvrda podloga (dvorana)
+CHALLENGER - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Draxl L.
+Blanch Dar.
+2
+1
+6
+3
+3
+6
+6
+0
+Queretaro (Meksiko), zemlja
+CHALLENGER - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Ferro F.
+Mandlik E.
+2
+1
+6
+2
+6
+5
+7
+7
+6
+4
+Kraj
+Herrero Linana A.
+Andreescu B.
+0
+2
+1
+6
+1
+6
+Guayaquil (Ekvador), zemlja
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Hidalgo D.
+Kestelboim M.
+Arias B.
+Carou I.
+2
+1
+6
+1
+4
+6
+10
+5
+Kraj
+Bagnis F.
+Gomez E.
+Drzewiecki K.
+Matuszewski P.
+1
+2
+6
+1
+4
+6
+7
+10
+Ningbo (Kina), tvrda podloga
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Santillan A.
+Zheng B.
+Hsieh C.
+Uchida K.
+2
+0
+6
+3
+7
+5
+Seoul (Južna Koreja), tvrda podloga
+CHALLENGER - MUŠKI PAROVI: 
+Ždrijeb
+Walkover
+Isaro P.
+Nam J. S.
+Bayldon B.
+Fancutt T. J.
+-
+-
 Queretaro (Meksiko), zemlja
 CHALLENGER - ŽENSKI PAROVI: 
 Ždrijeb
@@ -46,6 +309,91 @@ Reasco Gonzalez M. E.
 3
 6
 3
+M15 Fergana (Uzbekistan), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+(predano)
+Singh D.
+Eichenseher D.
+1
+0
+6
+3
+0
+0
+Kraj
+Safonov A.
+Omarkhanov A.
+2
+1
+6
+5
+7
+7
+6
+4
+7
+5
+M15 Heraklion 10 (Grčka), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+(predano)
+Jones M.
+Perez Ramos P.
+0
+0
+5
+2
+M15 Singapore 4 (Singapur), tvrda podloga (dvorana)
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Janvier M.
+Ganesan A.
+2
+0
+6
+4
+7
+5
+Kraj
+Rifqi Fitriadi M.
+Kamath M.
+2
+1
+4
+6
+6
+3
+6
+1
+M15 Yanagawa City (Japan), tvrda podloga
+ITF - MUŠKI SINGL: 
+Ždrijeb
+Kraj
+Shiraishi H.
+Oki Y.
+2
+0
+6
+3
+6
+3
+Kraj
+Yamanaka T.
+Hazawa S.
+2
+1
+3
+6
+7
+5
+7
+7
+6
+4
 M25 Tamworth 2 (Australija), tvrda podloga
 ITF - MUŠKI SINGL: 
 Ždrijeb
@@ -59,6 +407,87 @@ Beale J.
 1
 2
 0
+Kraj
+Ellis B.
+Sekulic P.
+1
+2
+3
+6
+7
+5
+6
+6
+7
+8
+W15 Sharm ElSheikh 17 (Egipat), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+El Sayed A.
+Dmitruk K.
+2
+0
+6
+2
+7
+5
+Kraj
+Kuharenko P.
+De Koning R.
+0
+2
+4
+6
+1
+6
+W15 Singapore 4 (Singapur), tvrda podloga (dvorana)
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Hong Y.
+Apisah V.
+0
+2
+1
+6
+3
+6
+Kraj
+(predano)
+Malova A.
+Naklo T.
+1
+1
+6
+2
+2
+6
+1
+4
+W35 Kunshan (Kina), tvrda podloga
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Wei S.
+Zheng W.
+0
+2
+0
+6
+3
+6
+Kraj
+Yuan C.
+Lin Y. J.
+0
+2
+6
+5
+7
+7
+3
+6
 W35 Sydney 2 (Australija), tvrda podloga
 ITF - ŽENSKI SINGL: 
 Ždrijeb
@@ -80,22 +509,182 @@ Kozaki F.
 1
 6
 0
+W50 Istanbul (Turska), tvrda podloga (dvorana)
+ITF - ŽENSKI SINGL: 
+Ždrijeb
+Kraj
+Egorova D.
+Hruncakova V.
+2
+0
+7
+5
+6
+4
+M15 João Pessoa (Brazil), zemlja
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Cundom J.
+Tenti F.
+Noatto K.
+Tosetto R.
+2
+1
+3
+6
+7
+9
+6
+7
+10
+3
+M15 Mazatlan (Meksiko), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Cooper S.
+McKennon M.
+Flores J.
+Quesada Perez T.
+1
+2
+6
+7
+7
+9
+7
+7
+6
+5
+7
+10
+Kraj
+Matta A.
+Peck J.
+De Alba R.
+Sau Franco A.
+2
+0
+6
+3
+6
+1
+Kraj
+Flores J.
+Quesada Perez T.
+Cervantes Tomas L.
+Reyes Tiraldo O. A.
+1
+2
+3
+6
+6
+2
+10
+12
+M15 Singapore 4 (Singapur), tvrda podloga (dvorana)
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Ogura K.
+Tamm K.
+Rifqi Fitriadi M.
+Han Seon Yong
+2
+0
+6
+4
+6
+4
+M15 Yanagawa City (Japan), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Koizumi N.
+Taka Y.
+Kawachi K.
+Yamanaka T.
+2
+0
+6
+3
+7
+5
+M25 Tamworth 2 (Australija), tvrda podloga
+ITF - MUŠKI PAROVI: 
+Ždrijeb
+Kraj
+Becroft I.
+Shepp A.
+Dong C.
+Sach T.
+2
+0
+6
+2
+6
+3
 W100 New Braunfels, TX (SAD), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
-Prekinuto
+Kraj
 El Jardi D.
 Frodin T.
 Lincer O.
 Urhobo A.
+2
 1
-0
 6
 4
+3
+6
+10
+8
+W15 Singapore 4 (Singapur), tvrda podloga (dvorana)
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Hanatani N.
+Lu J-J.
+Kim Y.J.
+Lin F. A.
 0
+2
+1
+6
+1
+6
+W35 Kunshan (Kina), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Guo M.
+Yang Y.
+Huang Yujia
+Zelinskaya D.
+0
+2
 4
-0
-0
+6
+4
+6
+W35 Sydney 2 (Australija), tvrda podloga
+ITF - ŽENSKI PAROVI: 
+Ždrijeb
+Kraj
+Back D.
+Yamazaki I.
+Sato H.
+Tse E.
+2
+1
+2
+6
+6
+4
+10
+5
 W50 Morelia (Meksiko), tvrda podloga
 ITF - ŽENSKI PAROVI: 
 Ždrijeb
@@ -110,6 +699,17 @@ Gibbs K.
 6
 4
 6
+Kraj
+Oz I.
+Tikhonova A.
+Rapolu M.
+Sholokhova M.
+2
+0
+6
+3
+6
+4
 Reklama
 PRIKVAČENE LIGE
 Australian Open
@@ -146,7 +746,7 @@ WTA Tokyo
 ATP Basel
 ATP Beč
 WTA Guangzhou
-Prikaži više (81)
+Prikaži više (83)
 KATEGORIJE
 ATP - singl
 WTA - singl
@@ -252,7 +852,7 @@ TikTok
 MOBILNE APLIKACIJE
 Naša mobilna aplikacija je optimizirana za tvoj telefon. Preuzmi ju besplatno!
 Lite verzija
-Gambling Problem? Call 1-800-BETS OFF 21+
+Igrajte odgovorno. Gambling Therapy. 18+
 Copyright © 2006-26 Rezultati.com
  Postavi privatnost
 Brinemo o vašoj privatnosti
