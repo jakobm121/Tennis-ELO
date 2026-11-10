@@ -1,10 +1,10 @@
 # TLE Mapping Repair Table
 
-Generated: `2026-11-09T21:38:59Z`
+Generated: `2026-11-10T15:15:32Z`
 
 ## Summary
 
-- audit_generated_at: `2026-11-09T16:51:56+00:00`
+- audit_generated_at: `2026-11-10T15:14:11+00:00`
 - review_players: `0`
 - manual_added: `0`
 - manual_already_ok: `18`
